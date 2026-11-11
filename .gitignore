@@ -8,3 +8,10 @@ output/logs/
 output/assets/
 output/*/*.md
 output/manifest.json
+node_modules/
+dist/
+playwright-report/
+test-results/
+public/data/
+ingest-report.json
+output/.browser/
