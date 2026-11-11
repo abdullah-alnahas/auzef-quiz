@@ -81,7 +81,8 @@ def main() -> None:
                     "page_file": str(path), "exams": found,
                     "real": sum(1 for e in found if not e["mock"] and e["type"] != "unite")})
 
-        used, seen_url = {}, set()
+        used: dict = {}
+        seen_url = set()
         for e in found:
             if e["mock"] or e["type"] == "unite":
                 skipped.append({**e, "course": name, "course_slug": page_slug(page),

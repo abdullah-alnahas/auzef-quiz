@@ -220,8 +220,8 @@ def strip_course(title: str, course: str) -> str:
 
 def main() -> None:
     data = json.load(open(CONFIG / "exams.json", encoding="utf-8"))
-    hashes = {}
-    sigs = {}
+    hashes: dict = {}
+    sigs: dict = {}
     out = []
     parsed_cache = {}
     existing = {}
@@ -283,7 +283,7 @@ def main() -> None:
         out.append(e)
 
     # Unique slugs per course; duplicate content detection.
-    seen_slug = {}
+    seen_slug: dict = {}
     for e in out:
         if e.get("status") != "parsed":
             continue

@@ -63,7 +63,8 @@ AD_NOISE = re.compile(r"adsbygoogle|No ad requested|display\s*:\s*none|^lolonolo
 
 def parse_legacy(article: Tag, ) -> list:
     lines = _lines(article)
-    questions, cur = [], None
+    questions: list = []
+    cur: dict | None = None
 
     def starts_here(i: int) -> bool:
         """A numbered line starts a question only if options follow nearby.
@@ -169,7 +170,8 @@ def parse_bare(article: Tag, titles=()) -> list:
     """
     lines = _lines(article)
     titles = {t.strip() for t in titles if t and t.strip()}
-    questions, cur = [], None
+    questions: list = []
+    cur: dict | None = None
     for ln in lines:
         if STOP.match(ln):
             break

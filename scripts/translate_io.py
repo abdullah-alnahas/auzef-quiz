@@ -18,7 +18,6 @@ ROOT = Path(__file__).resolve().parent.parent
 JSONDIR = ROOT / "output/.cache/json"
 QDIR = ROOT / "output/.translate/queue"
 DDIR = ROOT / "output/.translate/done"
-GLOSSARY = ROOT / "output/glossary.json"
 
 
 def exam_id(d: dict) -> str:

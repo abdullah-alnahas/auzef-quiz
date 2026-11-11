@@ -137,7 +137,7 @@ def is_translated(d: dict) -> bool:
 
 def fetch_log() -> dict:
     """Last fetch record per URL (the log is append-only and may be mid-write)."""
-    out = {}
+    out: dict = {}
     p = LOGDIR / "fetch_exams.jsonl"
     if not p.exists():
         return out
@@ -349,7 +349,7 @@ class Pipeline:
     # --- aggregates -----------------------------------------------------
     def course_rows(self) -> list:
         order = {c["slug"]: i for i, c in enumerate(self.courses)}
-        rows = {}
+        rows: dict = {}
         for e in self.exams:
             r = rows.setdefault(e["course_slug"], {
                 "course_slug": e["course_slug"], "course": e["course"],

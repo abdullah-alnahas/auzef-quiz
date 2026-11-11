@@ -20,7 +20,7 @@ SCRIPTS = ROOT / "scripts"
 PY = sys.executable
 
 
-def run(*args: str) -> int:
+def run(*args: str | Path) -> int:
     return subprocess.run([PY, *map(str, args)], cwd=ROOT).returncode
 
 

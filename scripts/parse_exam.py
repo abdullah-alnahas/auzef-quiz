@@ -16,7 +16,6 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "output/.cache/html"
 JSONDIR = ROOT / "output/.cache/json"
-ASSETS = ROOT / "output/assets"
 
 BLOCK = {"p", "div", "li", "tr", "blockquote", "section", "article", "h1", "h2",
          "h3", "h4", "h5", "h6"}
@@ -152,7 +151,7 @@ def parse(html_path: Path, course: str, course_slug: str, exam_label: str,
                     s.decompose()
             stem = text_of(heading)
 
-            choices = []
+            choices: list = []
             answer = None
             for label in q.select(".hdq_label_answer"):
                 aria = label.select_one(".hdq_aria_label")

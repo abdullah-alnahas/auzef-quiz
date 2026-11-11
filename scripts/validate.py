@@ -72,7 +72,7 @@ def main() -> int:
     total_q = 0
     total_unknown = 0
     files = 0
-    per_course = Counter()
+    per_course: Counter = Counter()
     for jf in sorted(JSONDIR.glob("*__*.json")):
         d = json.load(open(jf, encoding="utf-8"))
         md_path = OUT / d["course_slug"] / f"{d['exam_slug']}.md"
@@ -134,7 +134,7 @@ def main() -> int:
                 review_flags.append(f"{md_path} Q{q['n']}")
 
     # duplicates across the whole corpus
-    hashes = {}
+    hashes: dict = {}
     for jf in sorted(JSONDIR.glob("*__*.json")):
         d = json.load(open(jf, encoding="utf-8"))
         h = json.dumps([q["stem"] for q in d["questions"]], ensure_ascii=False)

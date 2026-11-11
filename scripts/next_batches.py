@@ -47,7 +47,9 @@ def main() -> None:
                  if qf.exists() else 1)
         pending.append((eid, n, e["translation_state"]))
 
-    batches, cur, cur_items = [], [], 0
+    batches: list = []
+    cur: list = []
+    cur_items = 0
     for eid, n, st in pending:
         if cur and cur_items + n > args.items:
             batches.append(cur)
