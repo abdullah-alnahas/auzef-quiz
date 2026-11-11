@@ -1,5 +1,6 @@
 """Translation carry-over when canonical JSON is rebuilt from HTML."""
-from parse_all import carry_translations
+from parse_all import (carry_translations, is_compilation_body,
+                       is_compilation_title, is_other_programme)
 
 
 def doc(stem="Soru?", a="bir", answer="A", n=1):
@@ -54,3 +55,25 @@ def test_missing_old_question_is_ignored():
     new = doc(n=2)
     carry_translations(new, with_ar())
     assert "stem_ar" not in new["questions"][0]
+
+
+def test_other_programme_detection():
+    assert is_other_programme("Anatomi (TDS) 2023 Vize", "anatomi")
+    assert not is_other_programme("Anatomi (TDS) 2023 Vize", "anatomi-tds")
+    assert not is_other_programme("Anatomi 2023 Vize", "anatomi")
+
+
+def test_compilation_title_needs_no_term():
+    assert is_compilation_title("Çocuk Hakları ve Hukuku Vize Ve Final Soruları")
+    assert not is_compilation_title("2020-2021 Vize Ve Final Soruları")
+    assert not is_compilation_title("2020-2021 Vize Soruları")
+
+
+def test_compilation_body_markers():
+    def q(stem):
+        return {"stem": stem}
+
+    assert is_compilation_body([q("Soru?\nDoğru\nYanlış")])
+    assert is_compilation_body([q("Soru?\nCevap : Yanlış")])
+    assert is_compilation_body([q("Soru?\n-------")])
+    assert not is_compilation_body([q("Normal soru?\nII. öncül")])

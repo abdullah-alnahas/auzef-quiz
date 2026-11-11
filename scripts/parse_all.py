@@ -109,6 +109,34 @@ def ascii_fold(s: str) -> str:
     return s.translate(table).lower()
 
 
+def is_other_programme(page_title: str, course_slug: str) -> bool:
+    """True when a shared course page lists another programme's exam.
+
+    e.g. "Anatomi (TDS)" (Tıbbi Dokümantasyon) appears on the Anatomi page.
+    """
+    return bool(re.search(r"\bTDS\b", page_title)) and "tds" not in course_slug
+
+
+def is_compilation_title(title: str) -> bool:
+    """A term-less "Vize Ve Final Soruları" page is a unit study compilation."""
+    return bool(re.search(r"vize\s+ve\s+final", title, re.I)) \
+        and not re.search(r"\d{4}", title)
+
+
+def is_compilation_body(questions: list) -> bool:
+    """A unit question bank interleaves true/false items and dash separators."""
+    for q in questions:
+        for line in q["stem"].split("\n"):
+            text = line.strip()
+            if re.match(r"^(?:Cevap|CEVAP)\s*:", text):
+                return True
+            if text in ("Doğru", "Yanlış"):
+                return True
+            if re.fullmatch(r"-{5,}", text):
+                return True
+    return False
+
+
 def strip_course(title: str, course: str) -> str:
     t = norm_label(title)
     c = norm_label(course)
@@ -153,8 +181,7 @@ def main() -> None:
         # "Anatomi (TDS)" for Tıbbi Dokümantasyon). The corpus is the child
         # development programme, so a page that names another programme in its
         # own title is out of scope rather than a defective exam.
-        if (re.search(r"\bTDS\b", d["page_title"])
-                and "tds" not in e["course_slug"]):
+        if is_other_programme(d["page_title"], e["course_slug"]):
             e.update({"status": "skipped_quality",
                       "quality_reason": "other_programme",
                       "page_title": d["page_title"],
@@ -166,8 +193,7 @@ def main() -> None:
         # A "Vize Ve Final Soruları" page with no term is a unit-by-unit study
         # compilation, not a sitting of an exam. It spans many units with its
         # own numbering, so it is out of scope rather than a defective exam.
-        if (re.search(r"vize\s+ve\s+final", title, re.I)
-                and not re.search(r"\d{4}", title)):
+        if is_compilation_title(title):
             e.update({"status": "skipped_quality", "quality_reason": "compilation",
                       "page_title": d["page_title"],
                       "question_count": d["question_count"]})
@@ -204,22 +230,7 @@ def main() -> None:
         d = parsed_cache[e["url"]]
         d["exam"] = e["label"]
         d["exam_slug"] = e["slug"]
-        # A "Vize Soruları" page with no term can still be a unit question bank:
-        # it interleaves true/false items ("Doğru / Yanlış / Cevap : ..."), unit
-        # headings and dash separators inside what would be a single question.
-        # That is a compilation, not an exam sitting, and translating it would
-        # encode site structure as exam content.
-        def compilation(q):
-            for ln in q["stem"].split("\n"):
-                t = ln.strip()
-                if re.match(r"^(?:Cevap|CEVAP)\s*:", t):
-                    return True
-                if t in ("Doğru", "Yanlış"):
-                    return True
-                if re.fullmatch(r"-{5,}", t):
-                    return True
-            return False
-        if any(compilation(q) for q in d["questions"]):
+        if is_compilation_body(d["questions"]):
             e["status"] = "skipped_quality"
             e["quality_reason"] = "compilation"
             final.append(e)
