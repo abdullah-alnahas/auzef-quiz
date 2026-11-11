@@ -15,6 +15,8 @@ after submission). No accounts, no backend, no analytics.
 
 ## Commands
 
+Requires Node 22.6+ (the ingest CLI runs TypeScript directly).
+
 ```bash
 npm install
 npm run ingest     # output/**.md -> public/data/** + ingest-report.json
@@ -122,6 +124,19 @@ score.
 - Lighthouse 13 (mobile, local preview): Performance **100**, Accessibility
   **100**, LCP **1.4 s**, TBT 30 ms, CLS 0.
 - Playwright budget test also asserts JS transfer < 60 kB and LCP < 2.5 s.
+
+## Arabic UI strings for native review
+
+The interface is Arabic-first; these are the user-facing strings that deserve a
+native pass (see `src/i18n.ts` for the full catalog):
+
+- مذاكرة · أسئلة AUZEF السابقة، بالتركية والعربية · ابحث عن مقرر
+- متابعة الجلسة · تدريب · محاكاة الامتحان
+- تنزيل · منزَّل · جارٍ التنزيل… · تنزيل غير مكتمل · تحديث متاح
+- صحيح · خطأ · بلا إجابة · مفتاح الإجابة غير متوفر
+- الترجمة قيد المراجعة · تغيّر المحتوى
+- خريطة الأسئلة · مُجاب · الحالي
+- تُحتسب الأسئلة ذات مفاتيح الإجابات فقط.
 
 ## Known limitations
 

@@ -110,3 +110,8 @@ export async function courseStatus(
   );
   return Object.fromEntries(entries);
 }
+
+/** Remove every downloaded exam and asset (user data is untouched). */
+export async function clearDownloads(): Promise<void> {
+  await caches.delete(CACHE);
+}

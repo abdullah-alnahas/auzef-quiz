@@ -1,4 +1,5 @@
 import { useEffect, useState } from "preact/hooks";
+import { clearDownloads } from "../downloads.ts";
 import { t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
@@ -18,6 +19,7 @@ export function Home({ manifest, prefs, updatePref, navigate }: ScreenProps) {
   const [query, setQuery] = useState("");
   const [sessions, setSessions] = useState<StoredSession[]>([]);
   const [confirmReset, setConfirmReset] = useState(false);
+  const [confirmDownloads, setConfirmDownloads] = useState(false);
 
   useEffect(() => {
     listSessions().then(setSessions).catch(() => setSessions([]));
@@ -95,9 +97,9 @@ export function Home({ manifest, prefs, updatePref, navigate }: ScreenProps) {
                   <span class="course-text">
                     <strong>{course.course}</strong>
                     <span class="muted">
-                      {total} {t(prefs.lang, "exams")} ·{" "}
+                      {total} {t(prefs.lang, "examUnit")} ·{" "}
                       {course.exams.reduce((n, exam) => n + exam.questionCount, 0)}{" "}
-                      {t(prefs.lang, "questions")}
+                      {t(prefs.lang, "questionUnit")}
                     </span>
                   </span>
                   <span class="course-progress" aria-hidden="true">
@@ -133,10 +135,38 @@ export function Home({ manifest, prefs, updatePref, navigate }: ScreenProps) {
             <option value="dark">{t(prefs.lang, "themeDark")}</option>
           </select>
         </label>
-        <button type="button" class="ghost" onClick={() => setConfirmReset(true)}>
-          {t(prefs.lang, "resetProgress")}
-        </button>
+        <span class="row-actions">
+          <button type="button" class="ghost" onClick={() => setConfirmDownloads(true)}>
+            {t(prefs.lang, "removeDownloads")}
+          </button>
+          <button type="button" class="ghost" onClick={() => setConfirmReset(true)}>
+            {t(prefs.lang, "resetProgress")}
+          </button>
+        </span>
       </footer>
+
+      {confirmDownloads && (
+        <dialog open class="dialog" aria-modal="true" aria-labelledby="downloads-title">
+          <h2 id="downloads-title">{t(prefs.lang, "removeDownloads")}</h2>
+          <p>{t(prefs.lang, "deleteConfirm")}</p>
+          <div class="dialog-actions">
+            <button type="button" class="ghost" onClick={() => setConfirmDownloads(false)}>
+              {t(prefs.lang, "cancel")}
+            </button>
+            <button
+              type="button"
+              class="danger"
+              onClick={() => {
+                clearDownloads()
+                  .then(() => setConfirmDownloads(false))
+                  .catch(() => setConfirmDownloads(false));
+              }}
+            >
+              {t(prefs.lang, "confirm")}
+            </button>
+          </div>
+        </dialog>
+      )}
 
       {confirmReset && (
         <dialog open class="dialog" aria-modal="true" aria-labelledby="reset-title">

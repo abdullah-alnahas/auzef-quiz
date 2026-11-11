@@ -40,6 +40,7 @@ export function Quiz({
   const [confirmSubmit, setConfirmSubmit] = useState(false);
   const [storageError, setStorageError] = useState(false);
   const [retryKey, setRetryKey] = useState(0);
+  const [submitting, setSubmitting] = useState(false);
 
   useEffect(() => {
     let alive = true;
@@ -122,6 +123,8 @@ export function Quiz({
   };
 
   const finish = async (): Promise<void> => {
+    if (submitting) return;
+    setSubmitting(true);
     const result = score(exam, session.answers);
     try {
       const id = await saveAttempt({
@@ -137,6 +140,7 @@ export function Quiz({
       navigate(`/results/${id}`);
     } catch {
       setStorageError(true);
+      setSubmitting(false);
     }
   };
 
@@ -334,7 +338,7 @@ export function Quiz({
           <button
             type="button"
             class="primary"
-            disabled={answered === 0}
+            disabled={answered === 0 || submitting}
             onClick={() => void finish()}
           >
             {t(prefs.lang, "finish")}
@@ -394,7 +398,12 @@ export function Quiz({
             <button type="button" class="ghost" onClick={() => setConfirmSubmit(false)}>
               {t(prefs.lang, "cancel")}
             </button>
-            <button type="button" class="primary" onClick={() => void finish()}>
+            <button
+              type="button"
+              class="primary"
+              disabled={submitting}
+              onClick={() => void finish()}
+            >
               {t(prefs.lang, "confirm")}
             </button>
           </div>

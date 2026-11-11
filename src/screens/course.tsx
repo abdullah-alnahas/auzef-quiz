@@ -109,7 +109,7 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
                   <div class="exam-head">
                     <strong>{exam.exam.replace(periodOf(exam.exam), "").trim() || exam.exam}</strong>
                     <span class="muted">
-                      {exam.questionCount} {t(prefs.lang, "questions")}
+                      {exam.questionCount} {t(prefs.lang, "questionUnit")}
                     </span>
                     {status !== "none" && (
                       <span class={`pill pill-${status}`}>
