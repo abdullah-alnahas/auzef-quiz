@@ -36,6 +36,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import exam_id, sha1  # noqa: E402
+from translation import hash_matches, is_translated, missing_items  # noqa: E402
 from render_md import render  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -130,11 +131,6 @@ def read_json(path: Path):
         return None
 
 
-def is_translated(d: dict) -> bool:
-    return all(q.get("stem_ar") and all(c.get("text_ar") for c in q["choices"])
-               for q in d.get("questions", []))
-
-
 def fetch_log() -> dict:
     """Last fetch record per URL (the log is append-only and may be mid-write)."""
     out: dict = {}
@@ -194,11 +190,7 @@ class Pipeline:
         eid = exam_id(course_slug, exam_slug)
         q = read_json(QDIR / f"{eid}.json")
         r = read_json(DDIR / f"{eid}.json")
-        missing = []
-        if q and r:
-            got = {i.get("id"): i.get("ar", "") for i in r.get("items", [])}
-            missing = [i["id"] for i in q.get("items", [])
-                       if not str(got.get(i["id"], "")).strip()]
+        missing = missing_items(q, r) if q and r else []
         if is_translated(d):
             return {"state": "merged", "queue_items": len(q["items"]) if q else None,
                     "done_items": len(r.get("items", [])) if r else None,
@@ -211,7 +203,7 @@ class Pipeline:
             return {"state": "incomplete", "queue_items": None,
                     "done_items": len(r.get("items", [])), "missing": [],
                     "review": 0, "note": "done file without queue"}
-        if r.get("source_hash") != q.get("source_hash"):
+        if not hash_matches(q, r):
             return {"state": "stale", "queue_items": len(q["items"]),
                     "done_items": len(r.get("items", [])), "missing": [],
                     "review": len(r.get("review", {}))}

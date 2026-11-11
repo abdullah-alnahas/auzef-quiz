@@ -13,6 +13,7 @@ import re
 from pathlib import Path
 
 from common import exam_id as common_exam_id, sha256_json
+from translation import hash_matches, missing_items
 
 ROOT = Path(__file__).resolve().parent.parent
 JSONDIR = ROOT / "output/.cache/json"
@@ -81,14 +82,15 @@ def main() -> None:
                 continue
             q = json.load(open(qf, encoding="utf-8"))
             r = json.load(open(rf, encoding="utf-8"))
-            if r.get("source_hash") != q["source_hash"]:
+            if not hash_matches(q, r):
                 print(f"SKIP hash mismatch {eid}")
                 continue
-            got = {i["id"]: i.get("ar", "") for i in r.get("items", [])}
-            missing = [i["id"] for i in q["items"] if not got.get(i["id"], "").strip()]
+            missing = missing_items(q, r)
             if missing:
                 print(f"SKIP incomplete {eid}: {len(missing)} missing")
                 continue
+            got = {item["id"]: item.get("ar", "")
+                   for item in r.get("items", [])}
             for qq in d["questions"]:
                 qq["stem_ar"] = got[f"q{qq['n']}.stem"]
                 for c in qq["choices"]:

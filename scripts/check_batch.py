@@ -9,6 +9,8 @@ import re
 import sys
 from pathlib import Path
 
+from translation import hash_matches
+
 ROOT = Path(__file__).resolve().parent.parent
 QDIR = ROOT / "output/.translate/queue"
 DDIR = ROOT / "output/.translate/done"
@@ -34,7 +36,7 @@ def main() -> int:
         q = json.load(open(qf, encoding="utf-8"))
         d = json.load(open(df, encoding="utf-8"))
         errs = []
-        if d.get("source_hash") != q["source_hash"]:
+        if not hash_matches(q, d):
             errs.append("source_hash mismatch")
         got = {i["id"]: i.get("ar", "") for i in d.get("items", [])}
         if len(got) != len(d.get("items", [])):
