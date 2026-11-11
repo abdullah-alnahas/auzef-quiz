@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# Generated corpus and browser cache (kept on disk, not versioned)
+output/.cache/
+output/.translate/
+output/logs/
+output/assets/
+output/*/*.md
+output/manifest.json
