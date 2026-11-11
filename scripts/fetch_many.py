@@ -13,7 +13,6 @@ import argparse
 import hashlib
 import json
 import random
-import sys
 import time
 from pathlib import Path
 
@@ -51,8 +50,8 @@ def main() -> int:
 
     urls = list(args.urls)
     if args.file:
-        urls += [l.strip() for l in open(args.file, encoding="utf-8")
-                 if l.strip() and not l.startswith("#")]
+        urls += [line.strip() for line in open(args.file, encoding="utf-8")
+                 if line.strip() and not line.startswith("#")]
 
     CACHE.mkdir(parents=True, exist_ok=True)
     LOGS.mkdir(parents=True, exist_ok=True)

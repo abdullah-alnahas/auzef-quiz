@@ -30,23 +30,8 @@ def sha1(s: str) -> str:
     return hashlib.sha1(s.encode("utf-8")).hexdigest()
 
 
-def slugify(s: str) -> str:
-    s = s.lower()
-    for a, b in [("ı", "i"), ("i̇", "i"), ("ş", "s"), ("ğ", "g"), ("ü", "u"),
-                 ("ö", "o"), ("ç", "c")]:
-        s = s.replace(a, b)
-    return re.sub(r"[^a-z0-9]+", "-", s).strip("-")
-
-
 def page_slug(url: str) -> str:
     return url.rstrip("/").split("/")[-1]
-
-
-def matches_course(href: str, slug: str) -> bool:
-    """Kept for compatibility with earlier runs; no longer used to filter."""
-    path = href.rstrip("/").split("/")[-1]
-    tokens = [t for t in slug.split("-") if len(t) > 2]
-    return any(t in path for t in tokens)
 
 
 def exam_links(soup):

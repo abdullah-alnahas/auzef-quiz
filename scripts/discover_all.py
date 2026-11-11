@@ -18,7 +18,6 @@ def slugify(url: str) -> str:
 def main() -> None:
     seed = CACHE / "seed.html"
     soup = BeautifulSoup(seed.read_text(encoding="utf-8"), "lxml")
-    p1 = {c["slug"] for c in json.load(open(CONFIG / "courses.json", encoding="utf-8"))["courses"]}
     # Phase 1 slugs come from the URLs, which differ for a few courses.
     p1_urls = {c["page_url"].rstrip("/") for c in
                json.load(open(CONFIG / "courses.json", encoding="utf-8"))["courses"]}

@@ -36,8 +36,8 @@ def main() -> int:
     ap.add_argument("--wait", type=float, default=1.0)
     args = ap.parse_args()
 
-    urls = [l.strip() for l in open(args.list, encoding="utf-8")
-            if l.strip() and not l.startswith("#")]
+    urls = [line.strip() for line in open(args.list, encoding="utf-8")
+            if line.strip() and not line.startswith("#")]
     LOGS.mkdir(parents=True, exist_ok=True)
     out = open(LOGS / "fetch_batch.jsonl", "a", encoding="utf-8")
     ok = failed = skipped = 0

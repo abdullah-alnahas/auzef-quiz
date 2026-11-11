@@ -3,7 +3,6 @@
 import json
 import re
 import sys
-import unicodedata
 from collections import Counter
 from pathlib import Path
 

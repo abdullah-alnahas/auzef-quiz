@@ -2,7 +2,6 @@
 """Render Markdown from canonical JSON. Never touches Turkish text."""
 import argparse
 import json
-import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -13,10 +12,6 @@ OUT = ROOT / "output"
 def esc_line(s: str) -> str:
     """One logical line: newlines become <br> (content unchanged)."""
     return s.replace("\r", "").replace("\n", "<br>")
-
-
-def rel_asset(p: str) -> str:
-    return p
 
 
 def render(d: dict) -> str:

@@ -5,7 +5,6 @@ Canonical JSON (output/.cache/json/<exam-slug>.json) is the single source of
 truth; Markdown is rendered from it. Turkish fields are produced only here and
 are never rewritten by translation.
 """
-import hashlib
 import json
 import re
 import sys
@@ -102,13 +101,6 @@ def real_images(node: Tag):
         out.append({"src": src, "alt": img.get("alt") or "",
                     "width": img.get("width"), "height": img.get("height")})
     return out
-
-
-def slugify_exam(label: str, url: str) -> str:
-    t = label.lower()
-    t = (t.replace("ı", "i").replace("İ", "i").replace("ş", "s").replace("ğ", "g")
-         .replace("ü", "u").replace("ö", "o").replace("ç", "c"))
-    return re.sub(r"[^a-z0-9]+", "-", t).strip("-")
 
 
 def parse(html_path: Path, course: str, course_slug: str, exam_label: str,

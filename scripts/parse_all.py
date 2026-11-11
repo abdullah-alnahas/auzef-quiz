@@ -12,7 +12,7 @@ from collections import Counter
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from parse_exam import parse, clean, CACHE  # noqa: E402
+from parse_exam import parse, CACHE  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "config"
@@ -111,6 +111,7 @@ def main() -> None:
             continue
         try:
             d = parse(path, e["course"], e["course_slug"], e["label"], e["url"], "tmp")
+            parsed_cache[e["url"]] = d
         except Exception as ex:  # noqa: BLE001
             e["status"] = f"parse_error: {ex}"
             out.append(e)
@@ -170,8 +171,7 @@ def main() -> None:
         if e.get("status") != "parsed":
             final.append(e)
             continue
-        path = CACHE / (sha1(e["url"]) + ".html")
-        d = parse(path, e["course"], e["course_slug"], e["label"], e["url"], e["slug"])
+        d = parsed_cache[e["url"]]
         d["exam"] = e["label"]
         d["exam_slug"] = e["slug"]
         # A "Vize Soruları" page with no term can still be a unit question bank:
@@ -293,6 +293,22 @@ def main() -> None:
         (JSONDIR / f"{e['course_slug']}__{e['slug']}.json").write_text(
             json.dumps(d, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         final.append(e)
+
+    # A skipped page can share (course, type, period) with a real exam, e.g.
+    # "Anatomi 2020 Vize" (TDS) next to "Anatomi 2020 Vize". Slugs are only
+    # allocated for parsed exams, so give the skipped twin a distinct one:
+    # identity stays unambiguous and it can never claim the real exam's JSON.
+    used = {(e["course_slug"], e["slug"]) for e in final
+            if e.get("status") == "parsed"}
+    for e in final:
+        if e.get("status") != "skipped_quality" or not e.get("slug"):
+            continue
+        base = e["slug"]
+        n = 1
+        while (e["course_slug"], e["slug"]) in used:
+            n += 1
+            e["slug"] = f"{base}-skip{n}" if n > 1 else base
+        used.add((e["course_slug"], e["slug"]))
 
     (CONFIG / "exams.json").write_text(
         json.dumps({"exams": final, "skipped": data["skipped"]},

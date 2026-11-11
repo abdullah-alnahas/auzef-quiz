@@ -2303,7 +2303,7 @@
       "course_slug": "anatomi",
       "provisional_slug": "vize-2020",
       "status": "skipped_quality",
-      "slug": "vize-2020",
+      "slug": "vize-2020-skip2",
       "page_title": "Anatomi 2020 Vize Soruları (TDS)",
       "question_count": 17,
       "answer_source": "inline",
@@ -2319,7 +2319,7 @@
       "course_slug": "anatomi",
       "provisional_slug": "butunleme-2021",
       "status": "skipped_quality",
-      "slug": "butunleme-2021",
+      "slug": "butunleme-2021-skip2",
       "page_title": "Anatomi 2021 Bütünleme (TDS)",
       "question_count": 14,
       "answer_source": "inline",
@@ -2440,10 +2440,14 @@
       "course": "Anatomi",
       "course_slug": "anatomi",
       "provisional_slug": "final-2021-3",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-2021-2",
+      "page_title": "Anatomi Final 2021 Soruları",
+      "question_count": 38,
+      "answer_source": "inline"
     },
     {
-      "label": "Anatomi Vize 2020-2021 Çıkmış Soruları",
+      "label": "2020-2021 Vize Soruları",
       "type": "vize",
       "period": "2020-2021",
       "mock": false,
@@ -2451,84 +2455,131 @@
       "course": "Anatomi",
       "course_slug": "anatomi",
       "provisional_slug": "vize-2020-2021",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-2020-2021",
+      "page_title": "Anatomi Vize 2020-2021 Çıkmış Soruları",
+      "question_count": 37,
+      "answer_source": "inline"
     },
     {
-      "label": "Anatomi Final Soruları-1",
+      "label": "Final Soruları",
       "type": "final",
-      "period": null,
+      "period": "unknown",
       "mock": false,
       "url": "https://lolonolo.com/2019/12/23/anatomi-final-sorulari-1/",
       "course": "Anatomi",
       "course_slug": "anatomi",
       "provisional_slug": "final-unknown",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-unknown",
+      "page_title": "Anatomi Final Soruları-1",
+      "question_count": 91,
+      "answer_source": "inline",
+      "omitted_questions": [
+        57,
+        67,
+        83
+      ]
     },
     {
-      "label": "Anatomi Final Soruları-2",
+      "label": "Final Soruları",
       "type": "final",
-      "period": null,
+      "period": "unknown",
       "mock": false,
       "url": "https://lolonolo.com/2019/12/23/anatomi-final-sorulari-2/",
       "course": "Anatomi",
       "course_slug": "anatomi",
       "provisional_slug": "final-unknown-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-unknown-2",
+      "page_title": "Anatomi Final Soruları-2",
+      "question_count": 84,
+      "answer_source": "inline",
+      "omitted_questions": [
+        6,
+        7,
+        25,
+        33,
+        36,
+        80
+      ]
     },
     {
-      "label": "2018 Final Çıkan Sorular",
+      "label": "2019 Final Soruları",
       "type": "final",
-      "period": "2018",
+      "period": "2019",
       "mock": false,
       "url": "https://lolonolo.com/2019/12/19/anatomi-final-sorulari-2018/",
       "course": "Anatomi",
       "course_slug": "anatomi",
       "provisional_slug": "final-2018",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-2019",
+      "page_title": "Anatomi Final Soruları 2019",
+      "question_count": 20,
+      "answer_source": "inline"
     },
     {
-      "label": "Anatomi Çıkmış Final Soru Cevap",
+      "label": "Final Soruları",
       "type": "final",
-      "period": null,
+      "period": "unknown",
       "mock": false,
       "url": "https://lolonolo.com/2019/11/28/anatomi-cikmis-final-sorulari/",
       "course": "Anatomi",
       "course_slug": "anatomi",
       "provisional_slug": "final-unknown-3",
-      "status": "fetch_missing"
+      "status": "skipped_quality",
+      "slug": "final-unknown-3",
+      "page_title": "Anatomi Çıkmış Final Soruları",
+      "question_count": 0,
+      "answer_source": "none",
+      "quality_reason": "no_questions"
     },
     {
-      "label": "Anatomi Çıkmış Sorular Final Test",
+      "label": "Final Soruları",
       "type": "final",
-      "period": null,
+      "period": "unknown",
       "mock": false,
       "url": "https://lolonolo.com/2019/12/06/anatomi-final-cikmis-sorular/",
       "course": "Anatomi",
       "course_slug": "anatomi",
       "provisional_slug": "final-unknown-4",
-      "status": "fetch_missing"
+      "status": "skipped_quality",
+      "slug": "final-unknown-4",
+      "page_title": "Anatomi Final Çıkmış sorular",
+      "question_count": 0,
+      "answer_source": "none",
+      "quality_reason": "no_questions"
     },
     {
-      "label": "2026 Vize Soruları",
+      "label": "2025-2026 Vize Soruları",
       "type": "vize",
-      "period": "2026",
+      "period": "2025-2026",
       "mock": false,
       "url": "https://lolonolo.com/2025/11/12/psikolojiye-giris-1-2025-2026-vize-sorulari/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "vize-2026",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-2025-2026",
+      "page_title": "Psikolojiye Giriş -1 2025-2026 Vize Soruları",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "2026 Final Soruları",
+      "label": "2025-2026 Final Soruları",
       "type": "final",
-      "period": "2026",
+      "period": "2025-2026",
       "mock": false,
       "url": "https://lolonolo.com/2025/12/30/psikolojiye-giris-1-2025-2026-final-sorulari/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "final-2026",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-2025-2026",
+      "page_title": "Psikolojiye Giriş -1 2025-2026 Final Soruları",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "2025 Vize Soruları",
@@ -2542,15 +2593,19 @@
       "status": "fetch_missing"
     },
     {
-      "label": "2025 Büt Soruları",
+      "label": "2024-2025 Bütünleme Soruları",
       "type": "butunleme",
-      "period": "2025",
+      "period": "2024-2025",
       "mock": false,
       "url": "https://lolonolo.com/2026/01/31/psikolojiye-giris-1-2024-2025-butunleme-sorulari/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "butunleme-2025",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "butunleme-2024-2025",
+      "page_title": "Psikolojiye Giriş-1 2024-2025 Bütünleme Soruları",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "2025 Final Soruları",
@@ -2586,26 +2641,34 @@
       "status": "fetch_missing"
     },
     {
-      "label": "2022 Vize Soruları",
+      "label": "2022-2023 Vize Soruları",
       "type": "vize",
-      "period": "2022",
+      "period": "2022-2023",
       "mock": false,
       "url": "https://lolonolo.com/2022/11/15/psikoloji-2022-2023-vize-sorulari/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "vize-2022",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-2022-2023",
+      "page_title": "Psikoloji 2022-2023 Vize Soruları",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "2024 Final Soruları",
+      "label": "2023-2024 Final Soruları",
       "type": "final",
-      "period": "2024",
+      "period": "2023-2024",
       "mock": false,
       "url": "https://lolonolo.com/2024/01/08/psikoloji-2023-2024-final-sorulari/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "final-2024",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-2023-2024",
+      "page_title": "Psikoloji 2023-2024 Final Soruları",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "2022 Final Soruları",
@@ -2627,7 +2690,14 @@
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "vize-2020",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-2020",
+      "page_title": "Psikoloji 2020 Vize Soruları",
+      "question_count": 38,
+      "answer_source": "inline",
+      "omitted_questions": [
+        12
+      ]
     },
     {
       "label": "2020 Vize Online -1",
