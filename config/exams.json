@@ -2872,7 +2872,8 @@
       "status": "skipped_quality",
       "quality_reason": "compilation",
       "page_title": "Psikoloji Vize Ve Final Soruları",
-      "question_count": 0
+      "question_count": 0,
+      "slug": "vize-unknown-skip2"
     },
     {
       "label": "Vize Soruları",
@@ -3036,7 +3037,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "2020 Vize Soruları Online-2",
+      "label": "2020 Vize Soruları",
       "type": "vize",
       "period": "2020",
       "mock": false,
@@ -3044,7 +3045,11 @@
       "course": "Bilimsel Araştırma Teknikleri",
       "course_slug": "bat",
       "provisional_slug": "vize-2020-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-2020",
+      "page_title": "Bilimsel Araştırma Teknikleri 2020 Vize Soruları Online-2",
+      "question_count": 18,
+      "answer_source": "markup"
     },
     {
       "label": "2020 Final Soruları",
@@ -3055,7 +3060,12 @@
       "course": "Bilimsel Araştırma Teknikleri",
       "course_slug": "bat",
       "provisional_slug": "final-2020",
-      "status": "fetch_missing"
+      "status": "skipped_quality",
+      "slug": "final-2020",
+      "page_title": "Bilimsel Araştırma Teknikleri 2020 Final Soruları",
+      "question_count": 0,
+      "answer_source": "none",
+      "quality_reason": "no_questions"
     },
     {
       "label": "Soru Cevap – 1 ( Vize )",
@@ -3088,18 +3098,27 @@
       "course": "Bilimsel Araştırma Teknikleri",
       "course_slug": "bat",
       "provisional_slug": "final-2019",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-2019",
+      "page_title": "Bilimsel Araştırma Teknikleri 2019 Final Soruları",
+      "question_count": 19,
+      "answer_source": "inline"
     },
     {
       "label": "Final Soruları",
       "type": "final",
-      "period": null,
+      "period": "unknown",
       "mock": false,
       "url": "https://lolonolo.com/2019/11/30/bilimsel-arastirma-teknikleri-final-sorulari/",
       "course": "Bilimsel Araştırma Teknikleri",
       "course_slug": "bat",
       "provisional_slug": "final-unknown",
-      "status": "fetch_missing"
+      "status": "skipped_quality",
+      "slug": "final-unknown",
+      "page_title": "Bilimsel Araştırma Teknikleri Final Soruları",
+      "question_count": 0,
+      "answer_source": "none",
+      "quality_reason": "no_questions"
     },
     {
       "label": "2025-26 Final(Bahar)",

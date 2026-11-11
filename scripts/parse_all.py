@@ -350,9 +350,12 @@ def main() -> None:
     used = {(e["course_slug"], e["slug"]) for e in final
             if e.get("status") == "parsed"}
     for e in final:
-        if e.get("status") != "skipped_quality" or not e.get("slug"):
+        if e.get("status") != "skipped_quality":
             continue
-        base = e["slug"]
+        base = e.get("slug") or e.get("provisional_slug")
+        if not base:
+            continue
+        e["slug"] = base
         n = 1
         while (e["course_slug"], e["slug"]) in used:
             n += 1
