@@ -1,4 +1,5 @@
 import { useEffect, useState } from "preact/hooks";
+import { Dialog } from "../components.tsx";
 import { t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
@@ -163,7 +164,7 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
       ))}
 
       {removeTarget && (
-        <dialog open class="dialog" aria-modal="true" aria-labelledby="remove-title">
+        <Dialog titleId="remove-title" onClose={() => setRemoveTarget(null)}>
           <h2 id="remove-title">{t(prefs.lang, "remove")}</h2>
           <p>{t(prefs.lang, "deleteConfirm")}</p>
           <div class="dialog-actions">
@@ -182,7 +183,7 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
               {t(prefs.lang, "confirm")}
             </button>
           </div>
-        </dialog>
+        </Dialog>
       )}
     </div>
   );

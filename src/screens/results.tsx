@@ -4,7 +4,13 @@ import { loadExam } from "../data.ts";
 import { percent, score } from "../engine.ts";
 import { t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
-import { getAttempt, listBookmarks, type Attempt } from "../storage.ts";
+import {
+  deleteSession,
+  getAttempt,
+  listBookmarks,
+  sessionKey,
+  type Attempt,
+} from "../storage.ts";
 import type { Exam } from "../types.ts";
 
 type Filter = "all" | "incorrect" | "unanswered" | "bookmarked";
@@ -113,7 +119,11 @@ export function Results({ attemptId, prefs, navigate }: ScreenProps & { attemptI
       <button
         type="button"
         class="primary"
-        onClick={() => navigate(`/quiz/${exam.examId}/${attempt.mode}`)}
+        onClick={() => {
+          void deleteSession(sessionKey(exam.examId, attempt.mode)).finally(() =>
+            navigate(`/quiz/${exam.examId}/${attempt.mode}`),
+          );
+        }}
       >
         {t(prefs.lang, "tryAgain")}
       </button>

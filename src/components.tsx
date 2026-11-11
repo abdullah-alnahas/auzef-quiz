@@ -1,4 +1,5 @@
 import type { ComponentChildren } from "preact";
+import { useEffect, useRef } from "preact/hooks";
 import { dataUrl } from "./data.ts";
 import type { RichText } from "./types.ts";
 
@@ -94,4 +95,34 @@ export function Badge({
   tone?: "neutral" | "warn" | "ok" | "bad";
 }) {
   return <span class={`badge badge-${tone}`}>{children}</span>;
+}
+
+/** Native modal dialog: focus trap, Escape handling and aria wiring for free. */
+export function Dialog({
+  titleId,
+  onClose,
+  children,
+}: {
+  titleId: string;
+  onClose: () => void;
+  children: ComponentChildren;
+}) {
+  const ref = useRef<HTMLDialogElement>(null);
+  useEffect(() => {
+    const dialog = ref.current;
+    if (dialog && !dialog.open) dialog.showModal();
+  }, []);
+  return (
+    <dialog
+      ref={ref}
+      class="dialog"
+      aria-labelledby={titleId}
+      onCancel={(event) => {
+        event.preventDefault();
+        onClose();
+      }}
+    >
+      {children}
+    </dialog>
+  );
 }

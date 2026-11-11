@@ -1,4 +1,5 @@
 import { useEffect, useState } from "preact/hooks";
+import { Dialog } from "../components.tsx";
 import { clearDownloads } from "../downloads.ts";
 import { t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
@@ -146,7 +147,7 @@ export function Home({ manifest, prefs, updatePref, navigate }: ScreenProps) {
       </footer>
 
       {confirmDownloads && (
-        <dialog open class="dialog" aria-modal="true" aria-labelledby="downloads-title">
+        <Dialog titleId="downloads-title" onClose={() => setConfirmDownloads(false)}>
           <h2 id="downloads-title">{t(prefs.lang, "removeDownloads")}</h2>
           <p>{t(prefs.lang, "deleteConfirm")}</p>
           <div class="dialog-actions">
@@ -165,11 +166,11 @@ export function Home({ manifest, prefs, updatePref, navigate }: ScreenProps) {
               {t(prefs.lang, "confirm")}
             </button>
           </div>
-        </dialog>
+        </Dialog>
       )}
 
       {confirmReset && (
-        <dialog open class="dialog" aria-modal="true" aria-labelledby="reset-title">
+        <Dialog titleId="reset-title" onClose={() => setConfirmReset(false)}>
           <h2 id="reset-title">{t(prefs.lang, "resetProgress")}</h2>
           <p>{t(prefs.lang, "resetConfirm")}</p>
           <div class="dialog-actions">
@@ -191,7 +192,7 @@ export function Home({ manifest, prefs, updatePref, navigate }: ScreenProps) {
               {t(prefs.lang, "confirm")}
             </button>
           </div>
-        </dialog>
+        </Dialog>
       )}
     </div>
   );

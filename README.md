@@ -119,10 +119,10 @@ score.
 
 ## Measured budgets
 
-- Initial JS: 44.27 kB raw / **15.64 kB gzip** (budget 60 kB gzip).
+- Initial JS: 45.40 kB raw / **15.88 kB gzip** (budget 60 kB gzip).
 - CSS: 2.54 kB gzip.
 - Lighthouse 13 (mobile, local preview): Performance **100**, Accessibility
-  **100**, LCP **1.4 s**, TBT 30 ms, CLS 0.
+  **100**, LCP **1.3 s**, TBT 10 ms, CLS 0.
 - Playwright budget test also asserts JS transfer < 60 kB and LCP < 2.5 s.
 
 ## Arabic UI strings for native review

@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "preact/hooks";
-import { Badge, RichTextView, TableView } from "../components.tsx";
+import { Badge, Dialog, RichTextView, TableView } from "../components.tsx";
 import { loadExam, OfflineError } from "../data.ts";
 import {
   changedQuestions,
@@ -350,9 +350,19 @@ export function Quiz({
           {t(prefs.lang, "submit")}
         </button>
       )}
+      {session.mode === "practice" && session.index < total - 1 && answered > 0 && (
+        <button
+          type="button"
+          class="ghost"
+          disabled={submitting}
+          onClick={() => void finish()}
+        >
+          {t(prefs.lang, "finish")}
+        </button>
+      )}
 
       {showNavigator && (
-        <dialog open class="dialog" aria-modal="true" aria-labelledby="nav-title">
+        <Dialog titleId="nav-title" onClose={() => setShowNavigator(false)}>
           <h2 id="nav-title">{t(prefs.lang, "questionNavigator")}</h2>
           <ul class="navigator">
             {exam.questions.map((question, index) => {
@@ -387,11 +397,11 @@ export function Quiz({
               {t(prefs.lang, "cancel")}
             </button>
           </div>
-        </dialog>
+        </Dialog>
       )}
 
       {confirmSubmit && (
-        <dialog open class="dialog" aria-modal="true" aria-labelledby="submit-title">
+        <Dialog titleId="submit-title" onClose={() => setConfirmSubmit(false)}>
           <h2 id="submit-title">{t(prefs.lang, "submitTitle")}</h2>
           <p>{t(prefs.lang, "submitBody", { n: unanswered })}</p>
           <div class="dialog-actions">
@@ -407,7 +417,7 @@ export function Quiz({
               {t(prefs.lang, "confirm")}
             </button>
           </div>
-        </dialog>
+        </Dialog>
       )}
 
       {storageError && (
