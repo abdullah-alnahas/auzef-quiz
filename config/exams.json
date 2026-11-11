@@ -2796,7 +2796,7 @@
       "quality_reason": "no_questions"
     },
     {
-      "label": "Psikoloji 2019 Vize Çıkan Soruları",
+      "label": "2019 Vize Soruları",
       "type": "vize",
       "period": "2019",
       "mock": false,
@@ -2804,32 +2804,46 @@
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "vize-2019",
-      "status": "fetch_missing"
+      "status": "skipped_quality",
+      "slug": "vize-2019",
+      "page_title": "Psikoloji 2019 Vize Soruları",
+      "question_count": 0,
+      "answer_source": "none",
+      "quality_reason": "no_questions"
     },
     {
-      "label": "Psikolojiye Giriş-1 Final 2019",
-      "type": "final",
+      "label": "2019 Bütünleme Soruları",
+      "type": "butunleme",
       "period": "2019",
       "mock": false,
       "url": "https://lolonolo.com/2020/12/27/psikolojiye-giris-1-final-ve-but-2019-sorular/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "final-2019",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "butunleme-2019",
+      "page_title": "Psikolojiye Giriş-1 Final ve Büt 2019 Sorular",
+      "question_count": 23,
+      "answer_source": "inline"
     },
     {
-      "label": "Psikoloji Final Soruları",
+      "label": "Final Soruları",
       "type": "final",
-      "period": null,
+      "period": "unknown",
       "mock": false,
       "url": "https://lolonolo.com/2019/11/27/psikoloji-final-sorulari/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "final-unknown",
-      "status": "fetch_missing"
+      "status": "skipped_quality",
+      "slug": "final-unknown",
+      "page_title": "Psikoloji Final Soruları",
+      "question_count": 0,
+      "answer_source": "none",
+      "quality_reason": "no_questions"
     },
     {
-      "label": "Psikolojiye Giriş-1 2015 Final",
+      "label": "2015 Final Soruları",
       "type": "final",
       "period": "2015",
       "mock": false,
@@ -2837,7 +2851,14 @@
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "final-2015",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-2015",
+      "page_title": "Psikolojiye Giriş -1 2015 Final Soruları",
+      "question_count": 23,
+      "answer_source": "markup",
+      "omitted_questions": [
+        7
+      ]
     },
     {
       "label": "VizeFinal (128Soru)",
@@ -2848,87 +2869,122 @@
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "vize-unknown",
-      "status": "fetch_missing"
+      "status": "skipped_quality",
+      "quality_reason": "compilation",
+      "page_title": "Psikoloji Vize Ve Final Soruları",
+      "question_count": 0
     },
     {
-      "label": "Çıkmış Vize Soruları(Yazı-A)",
+      "label": "Vize Soruları",
       "type": "vize",
-      "period": null,
+      "period": "unknown",
       "mock": false,
       "url": "https://lolonolo.com/2019/10/27/psikolojiye-giris-1-cikmis-vize-sorulari/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "vize-unknown-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-unknown",
+      "page_title": "Psikolojiye Giriş-1 Çıkmış Vize Soruları",
+      "question_count": 18,
+      "answer_source": "inline"
     },
     {
-      "label": "OnlineTest (Vize)",
+      "label": "Vize Soruları",
       "type": "vize",
-      "period": null,
+      "period": "unknown",
       "mock": false,
       "url": "https://lolonolo.com/2019/10/02/psikoloji-vize/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "vize-unknown-3",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-unknown-2",
+      "page_title": "Psikoloji Online Test (Vize)",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Psikolojiye Giriş-1 Vize (Yazı-B)",
+      "label": "Vize Soruları",
       "type": "vize",
-      "period": null,
+      "period": "unknown",
       "mock": false,
       "url": "https://lolonolo.com/2019/11/04/psikolojiye-giris-1-vize-sorulari/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "vize-unknown-4",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-unknown-3",
+      "page_title": "Psikolojiye Giriş-1 Vize Soruları",
+      "question_count": 30,
+      "answer_source": "inline"
     },
     {
-      "label": "Psikolojiye Giriş-1 Vize (Yazı-C)",
+      "label": "Vize Soruları",
       "type": "vize",
-      "period": null,
+      "period": "unknown",
       "mock": false,
       "url": "https://lolonolo.com/2019/11/04/psikolojiye-giris-1-vize-soru-cevap/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "vize-unknown-5",
-      "status": "fetch_missing"
+      "status": "skipped_quality",
+      "slug": "vize-unknown-4",
+      "page_title": "Psikolojiye Giriş-1 Vize Soru Cevap",
+      "question_count": 0,
+      "answer_source": "none",
+      "quality_reason": "no_questions"
     },
     {
-      "label": "Psikolojiye Giriş-1 Vize (160 Soru)",
+      "label": "Vize Soruları",
       "type": "vize",
-      "period": null,
+      "period": "unknown",
       "mock": false,
       "url": "https://lolonolo.com/2019/11/04/psikolojiye-giris-1-soru-cevap/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "vize-unknown-6",
-      "status": "fetch_missing"
+      "status": "skipped_quality",
+      "slug": "vize-unknown-5",
+      "page_title": "Psikolojiye Giriş 1 Vize Soruları",
+      "question_count": 0,
+      "answer_source": "none",
+      "quality_reason": "no_questions"
     },
     {
       "label": "Final Soruları",
       "type": "final",
-      "period": null,
+      "period": "unknown",
       "mock": false,
       "url": "https://lolonolo.com/2019/10/16/psikolojiye-giris-1-final-sorulari/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "final-unknown-2",
-      "status": "fetch_missing"
+      "status": "skipped_quality",
+      "slug": "final-unknown-2",
+      "page_title": "Psikolojiye Giriş-1 Final Soruları",
+      "question_count": 0,
+      "answer_source": "none",
+      "quality_reason": "no_questions"
     },
     {
-      "label": "Psikoloji Final 2018",
+      "label": "2019 Final Soruları",
       "type": "final",
-      "period": "2018",
+      "period": "2019",
       "mock": false,
       "url": "https://lolonolo.com/2019/12/19/psikoloji-final-sorulari-2018/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "final-2018",
-      "status": "fetch_missing"
+      "status": "skipped_quality",
+      "slug": "final-2019",
+      "page_title": "Psikoloji Final Soruları 2019",
+      "question_count": 0,
+      "answer_source": "none",
+      "quality_reason": "no_questions"
     },
     {
-      "label": "2020-2021- Vize Soruları",
+      "label": "2020-2021 Vize Soruları",
       "type": "vize",
       "period": "2020-2021",
       "mock": false,
@@ -2936,7 +2992,11 @@
       "course": "Bilimsel Araştırma Teknikleri",
       "course_slug": "bat",
       "provisional_slug": "vize-2020-2021",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-2020-2021",
+      "page_title": "Bilimsel Araştırma Teknikleri 2020-2021 Vize Soruları",
+      "question_count": 38,
+      "answer_source": "inline"
     },
     {
       "label": "2021 Final Soruları -1",
@@ -2961,7 +3021,7 @@
       "status": "fetch_missing"
     },
     {
-      "label": "2021 Final Soruları -2",
+      "label": "2021 Final Soruları",
       "type": "final",
       "period": "2021",
       "mock": false,
@@ -2969,7 +3029,11 @@
       "course": "Bilimsel Araştırma Teknikleri",
       "course_slug": "bat",
       "provisional_slug": "final-2021-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-2021",
+      "page_title": "Bilimsel Araştırma Teknikleri 2021 Final Soruları -2",
+      "question_count": 17,
+      "answer_source": "markup"
     },
     {
       "label": "2020 Vize Soruları Online-2",

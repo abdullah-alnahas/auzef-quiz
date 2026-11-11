@@ -1,6 +1,7 @@
 """Translation carry-over when canonical JSON is rebuilt from HTML."""
-from parse_all import (carry_translations, is_compilation_body,
-                       is_compilation_title, is_other_programme)
+from parse_all import (apply_quality_gate, carry_translations,
+                       is_compilation_body, is_compilation_title,
+                       is_other_programme, normalise_numbering)
 
 
 def doc(stem="Soru?", a="bir", answer="A", n=1):
@@ -77,3 +78,58 @@ def test_compilation_body_markers():
     assert is_compilation_body([q("Soru?\nCevap : Yanlış")])
     assert is_compilation_body([q("Soru?\n-------")])
     assert not is_compilation_body([q("Normal soru?\nII. öncül")])
+
+
+def question(n=1, letters="ABCDE", stem="Yeterince uzun bir soru metni?"):
+    return {"n": n, "stem": stem, "answer": "A",
+            "choices": [{"letter": c, "text": f"seçenek {c}"} for c in letters]}
+
+
+def doc_with(count, letters="ABCDE"):
+    return {"questions": [question(i, letters) for i in range(1, count + 1)],
+            "question_count": count}
+
+
+def test_small_defect_is_dropped_and_renumbered():
+    d = doc_with(20)
+    d["questions"][5] = question(6, letters="ABC")
+    bad, dropped = apply_quality_gate(d)
+    assert bad == []
+    assert [q["n"] for q in d["questions"]] == list(range(1, 20))
+    assert d["question_count"] == 19
+    assert dropped[0]["n"] == 6
+    assert d["omitted_questions"][0]["reason"] == "choice_count"
+
+
+def test_missing_option_letter_is_a_defect():
+    d = doc_with(20)
+    d["questions"][0] = question(1, letters="ABDE")
+    bad, dropped = apply_quality_gate(d)
+    assert bad == []
+    assert d["omitted_questions"][0]["reason"] == "option_letters"
+
+
+def test_too_many_defects_reject_the_exam():
+    d = doc_with(10)
+    for i in range(5):
+        d["questions"][i] = question(i + 1, letters="AB")
+    bad, dropped = apply_quality_gate(d)
+    assert dropped == []
+    assert "choice_count" in bad
+    assert d["question_count"] == 10
+
+
+def test_numbering_gaps_are_closed_and_recorded():
+    d = doc_with(10)
+    for i, q in enumerate(d["questions"], 1):
+        q["n"] = i if i < 6 else i + 1
+    nums = normalise_numbering(d)
+    assert nums == list(range(1, 11))
+    assert d["source_numbers"] == [1, 2, 3, 4, 5, 7, 8, 9, 10, 11]
+
+
+def test_repeated_label_is_renumbered_in_page_order():
+    d = doc_with(10)
+    d["questions"][6]["n"] = 1
+    nums = normalise_numbering(d)
+    assert nums == list(range(1, 11))

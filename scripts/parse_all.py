@@ -41,6 +41,77 @@ def question_key(q: dict) -> tuple:
             answer)
 
 
+def question_defect(q: dict):
+    """Why a question cannot enter the corpus, or None when it is usable."""
+    letters = [c["letter"] for c in q["choices"]]
+    if not (4 <= len(q["choices"]) <= 5):
+        return "choice_count"
+    if letters != list("ABCDE"[:len(letters)]):
+        # A missing letter means the page collapsed two options onto one line;
+        # the text cannot be split without guessing.
+        return "option_letters"
+    if len(q["stem"]) < 10:
+        return "short_stem"
+    return None
+
+
+def normalise_numbering(doc: dict) -> list:
+    """Close the page's own numbering gaps, recording the original labels."""
+    nums = [q["n"] for q in doc["questions"]]
+    if nums:
+        dup = sum(c - 1 for c in Counter(nums).values() if c > 1)
+        if (nums != list(range(1, len(nums) + 1))
+                and dup <= max(1, len(nums) // 10)):
+            doc["source_numbers"] = nums
+            for i, q in enumerate(doc["questions"], 1):
+                q["n"] = i
+    return [q["n"] for q in doc["questions"]]
+
+
+def apply_quality_gate(doc: dict):
+    """Drop a small number of malformed questions, then list blocking defects.
+
+    A defect isolated to one or two questions (the site lost an option) should
+    not discard a whole good exam: those questions are dropped, the rest are
+    renumbered, and the loss is recorded in `omitted_questions`. Returns
+    (blocking_reasons, dropped_questions); mutates doc exactly as before.
+    """
+    nums = normalise_numbering(doc)
+    numbering_ok = bool(nums) and len(nums) == len(set(nums)) \
+        and nums == list(range(1, len(nums) + 1))
+    dropped = []
+    if numbering_ok:
+        dropped = [q for q in doc["questions"] if question_defect(q)]
+        limit = max(1, len(doc["questions"]) // 10)
+        if (dropped and len(dropped) <= limit
+                and len(doc["questions"]) - len(dropped) >= 5):
+            doc["omitted_questions"] = [
+                {"n": q["n"], "reason": question_defect(q), "stem": q["stem"]}
+                for q in dropped]
+            doc["questions"] = [q for q in doc["questions"]
+                                if question_defect(q) is None]
+            for i, q in enumerate(doc["questions"], 1):
+                q["n"] = i
+            doc["question_count"] = len(doc["questions"])
+            nums = [q["n"] for q in doc["questions"]]
+        else:
+            dropped = []
+
+    bad = []
+    if not doc["questions"]:
+        bad.append("no_questions")
+    if len(nums) != len(set(nums)) or nums != list(range(1, len(nums) + 1)):
+        bad.append("numbering")
+    if any(not (4 <= len(q["choices"]) <= 5) for q in doc["questions"]):
+        bad.append("choice_count")
+    if any([c["letter"] for c in q["choices"]]
+           != list("ABCDE"[:len(q["choices"])]) for q in doc["questions"]):
+        bad.append("option_letters")
+    if any(len(q["stem"]) < 10 for q in doc["questions"]):
+        bad.append("short_stem")
+    return bad, dropped
+
+
 def carry_translations(d: dict, old: dict) -> None:
     """Re-attach existing Arabic to a re-parsed page when Turkish is identical.
 
@@ -241,72 +312,10 @@ def main() -> None:
             e["duplicate_of"] = hashes[chash]
             final.append(e)
             continue
-        # Structural quality gate: only well-formed exams enter the corpus.
-        # A page defect isolated to one or two questions (e.g. a single option
-        # where the site lost the rest) should not discard a whole good exam:
-        # drop those questions, renumber what remains, and record them in
-        # omitted_questions so the loss stays auditable.
-        nums = [q["n"] for q in d["questions"]]
-        # Some legacy pages skip a number (26 -> 28), repeat a label out of
-        # order (13 in place of 36) or otherwise mislabel the page's own
-        # numbering. Question order on the page is the order we keep; the
-        # label is site metadata, so close the gaps, renumber 1..n and record
-        # the page's original numbering for audit. A page whose numbers are
-        # genuinely repeated is left alone: that could hide a parse defect.
-        if nums:
-            dup = sum(c - 1 for c in Counter(nums).values() if c > 1)
-            if (nums != list(range(1, len(nums) + 1))
-                    and dup <= max(1, len(nums) // 10)):
-                d["source_numbers"] = nums
-                for i, q in enumerate(d["questions"], 1):
-                    q["n"] = i
-                nums = [q["n"] for q in d["questions"]]
-        numbering_ok = bool(nums) and len(nums) == len(set(nums)) \
-            and nums == list(range(1, len(nums) + 1))
-        if numbering_ok:
-            def malformed(q):
-                letters = [c["letter"] for c in q["choices"]]
-                # A missing option letter (A,B,D,E or A,C,D,E) means the page
-                # collapsed one option into another line or lost its label. The
-                # remaining text cannot be split without guessing, so the
-                # question is dropped rather than reconstructed.
-                return (not (4 <= len(q["choices"]) <= 5)
-                        or letters != list("ABCDE"[:len(letters)])
-                        or len(q["stem"]) < 10)
-
-            def defect(q):
-                letters = [c["letter"] for c in q["choices"]]
-                if not (4 <= len(q["choices"]) <= 5):
-                    return "choice_count"
-                if letters != list("ABCDE"[:len(letters)]):
-                    return "option_letters"
-                return "short_stem"
-            dropped = [q for q in d["questions"] if malformed(q)]
-            limit = max(1, len(d["questions"]) // 10)
-            if dropped and len(dropped) <= limit and len(d["questions"]) - len(dropped) >= 5:
-                d["omitted_questions"] = [
-                    {"n": q["n"], "reason": defect(q), "stem": q["stem"]}
-                    for q in dropped]
-                d["questions"] = [q for q in d["questions"] if not malformed(q)]
-                for i, q in enumerate(d["questions"], 1):
-                    q["n"] = i
-                d["question_count"] = len(d["questions"])
-                nums = [q["n"] for q in d["questions"]]
-                e["omitted_questions"] = [q["n"] for q in dropped]
-                e["question_count"] = d["question_count"]
-
-        bad = []
-        if not d["questions"]:
-            bad.append("no_questions")
-        if len(nums) != len(set(nums)) or nums != list(range(1, len(nums) + 1)):
-            bad.append("numbering")
-        if any(not (4 <= len(q["choices"]) <= 5) for q in d["questions"]):
-            bad.append("choice_count")
-        if any([c["letter"] for c in q["choices"]]
-               != list("ABCDE"[:len(q["choices"])]) for q in d["questions"]):
-            bad.append("option_letters")
-        if any(len(q["stem"]) < 10 for q in d["questions"]):
-            bad.append("short_stem")
+        bad, dropped = apply_quality_gate(d)
+        if dropped:
+            e["omitted_questions"] = [q["n"] for q in dropped]
+            e["question_count"] = d["question_count"]
         if bad:
             e["status"] = "skipped_quality"
             e["quality_reason"] = ",".join(bad)
