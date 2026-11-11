@@ -2700,7 +2700,7 @@
       ]
     },
     {
-      "label": "2020 Vize Online -1",
+      "label": "2020 Vize Soruları",
       "type": "vize",
       "period": "2020",
       "mock": false,
@@ -2708,7 +2708,15 @@
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "vize-2020-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-2020-2",
+      "page_title": "Psikoloji 2020 Vize Soruları Online -1",
+      "question_count": 18,
+      "answer_source": "markup",
+      "omitted_questions": [
+        2,
+        20
+      ]
     },
     {
       "label": "2021 Final Soruları",
@@ -2719,10 +2727,14 @@
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "final-2021",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-2021",
+      "page_title": "Psikoloji 2021 Final",
+      "question_count": 38,
+      "answer_source": "inline"
     },
     {
-      "label": "2020 Vize Online -2",
+      "label": "2020 Vize Soruları",
       "type": "vize",
       "period": "2020",
       "mock": false,
@@ -2730,21 +2742,30 @@
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "vize-2020-3",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-2020-3",
+      "page_title": "Psikoloji 2020 Vize Soruları Online -2",
+      "question_count": 19,
+      "answer_source": "markup"
     },
     {
-      "label": "2021-Final Soruları",
+      "label": "2021-2022 Final Soruları",
       "type": "final",
-      "period": "2021",
+      "period": "2021-2022",
       "mock": false,
       "url": "https://lolonolo.com/2021/12/31/psikoloji-2021-2022-final/",
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "final-2021-2",
-      "status": "fetch_missing"
+      "status": "skipped_quality",
+      "slug": "final-2021-2022",
+      "page_title": "Psikoloji 2021-2022 Final",
+      "question_count": 16,
+      "answer_source": "inline",
+      "quality_reason": "choice_count,option_letters"
     },
     {
-      "label": "2021 Bütünleme",
+      "label": "2021 Bütünleme Soruları",
       "type": "butunleme",
       "period": "2021",
       "mock": false,
@@ -2752,10 +2773,14 @@
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "butunleme-2021",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "butunleme-2021",
+      "page_title": "Psikoloji 2021 Bütünleme",
+      "question_count": 37,
+      "answer_source": "inline"
     },
     {
-      "label": "Psikoloji 2020 Final Soruları",
+      "label": "2020 Final Soruları",
       "type": "final",
       "period": "2020",
       "mock": false,
@@ -2763,7 +2788,12 @@
       "course": "Psikoloji ve Psikolojiye Giriş – 1",
       "course_slug": "psikoloji",
       "provisional_slug": "final-2020",
-      "status": "fetch_missing"
+      "status": "skipped_quality",
+      "slug": "final-2020",
+      "page_title": "Psikoloji 2020 Final Soruları",
+      "question_count": 0,
+      "answer_source": "none",
+      "quality_reason": "no_questions"
     },
     {
       "label": "Psikoloji 2019 Vize Çıkan Soruları",

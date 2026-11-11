@@ -51,6 +51,37 @@ def question_key(q: dict) -> tuple:
             answer)
 
 
+def carry_translations(d: dict, old: dict) -> None:
+    """Re-attach existing Arabic to a re-parsed page when Turkish is identical.
+
+    parse_all rebuilds canonical JSON from HTML. Without this, every run would
+    silently wipe `stem_ar` / `text_ar` / review notes until a merge, which is
+    both slow and a data-loss footgun. Only exact stem + option matches are
+    copied, so a changed question is never paired with a stale translation.
+    """
+    oldq = {q.get("n"): q for q in old.get("questions", [])}
+    for q in d["questions"]:
+        o = oldq.get(q["n"])
+        if not o:
+            continue
+        if q["stem"] != o.get("stem"):
+            continue
+        if [(c["letter"], c["text"]) for c in q["choices"]] != \
+                [(c.get("letter"), c.get("text")) for c in o.get("choices", [])]:
+            continue
+        if o.get("stem_ar"):
+            q["stem_ar"] = o["stem_ar"]
+        for c, oc in zip(q["choices"], o.get("choices", [])):
+            if oc.get("text_ar"):
+                c["text_ar"] = oc["text_ar"]
+        if o.get("tables_ar"):
+            q["tables_ar"] = o["tables_ar"]
+        if o.get("review"):
+            q["review"] = o["review"]
+    if old.get("review_notes"):
+        d["review_notes"] = old["review_notes"]
+
+
 def classify(text: str):
     t = text.lower()
     if "üç ders" in t:
@@ -103,6 +134,14 @@ def main() -> None:
     sigs = {}
     out = []
     parsed_cache = {}
+    existing = {}
+    for f in JSONDIR.glob("*__*.json"):
+        try:
+            old = json.load(open(f, encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        if old.get("source_url"):
+            existing[old["source_url"]] = old
     for e in data["exams"]:
         path = CACHE / (sha1(e["url"]) + ".html")
         if not path.exists():
@@ -289,6 +328,8 @@ def main() -> None:
         d["content_hash"] = hashlib.sha256(
             json.dumps(d["questions"], ensure_ascii=False,
                        sort_keys=True).encode()).hexdigest()
+        if e["url"] in existing:
+            carry_translations(d, existing[e["url"]])
         JSONDIR.mkdir(parents=True, exist_ok=True)
         (JSONDIR / f"{e['course_slug']}__{e['slug']}.json").write_text(
             json.dumps(d, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
