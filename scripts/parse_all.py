@@ -4,7 +4,6 @@
 Identity comes from the page's own <h1> (most authoritative), falling back to
 the course-list anchor label. Content-identical exams are flagged as duplicates.
 """
-import hashlib
 import json
 import re
 import sys
@@ -12,6 +11,7 @@ from collections import Counter
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import fold, sha1, sha256_json  # noqa: E402
 from parse_exam import parse, CACHE  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -22,19 +22,9 @@ TYPE_TR = {"vize": "Vize", "final": "Final", "butunleme": "Bütünleme",
            "yaz-okulu": "Yaz Okulu", "uc-ders": "Üç Ders"}
 
 
-def sha1(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()
-
-
 def norm_label(s: str) -> str:
     s = s.replace("\xa0", " ")
     return re.sub(r"\s+", " ", s).strip(" -–—")
-
-
-def content_key(s: str) -> str:
-    """Order-insensitive text key: case, punctuation and spacing removed."""
-    s = s.replace("İ", "i").replace("I", "ı").lower()
-    return re.sub(r"[^0-9a-zçğıöşüâîû]+", " ", s).strip()
 
 
 def question_key(q: dict) -> tuple:
@@ -44,10 +34,10 @@ def question_key(q: dict) -> tuple:
     same correct option, only shuffled. The letter alone would look different,
     so use the correct option's text, not its letter.
     """
-    answer = next((content_key(c["text"]) for c in q["choices"]
+    answer = next((fold(c["text"]) for c in q["choices"]
                    if c["letter"] == q.get("answer")), None)
-    return (content_key(q["stem"]),
-            tuple(sorted(content_key(c["text"]) for c in q["choices"])),
+    return (fold(q["stem"]),
+            tuple(sorted(fold(c["text"]) for c in q["choices"])),
             answer)
 
 
@@ -108,7 +98,8 @@ def period(text: str):
     return m.group(1) if m else None
 
 
-def fold(s: str) -> str:
+def ascii_fold(s: str) -> str:
+    """Lowercase + Turkish-to-ASCII letters, keeping punctuation."""
     table = str.maketrans({
         "İ": "i", "I": "i", "ı": "i", "i": "i",
         "Ş": "s", "ş": "s", "Ğ": "g", "ğ": "g",
@@ -121,7 +112,7 @@ def fold(s: str) -> str:
 def strip_course(title: str, course: str) -> str:
     t = norm_label(title)
     c = norm_label(course)
-    if fold(t).startswith(fold(c)):
+    if ascii_fold(t).startswith(ascii_fold(c)):
         t = t[len(c):].strip(" -–—:")
     # Titles often append a site suffix after a dash.
     t = re.split(r"\s+[–-]\s+(?:Auzef|AUZEF|Çocuk Gelişimi)", t)[0].strip()
@@ -233,8 +224,7 @@ def main() -> None:
             e["quality_reason"] = "compilation"
             final.append(e)
             continue
-        chash = hashlib.sha256(json.dumps(d["questions"], ensure_ascii=False,
-                                          sort_keys=True).encode()).hexdigest()
+        chash = sha256_json(d["questions"])
         if chash in hashes:
             e["status"] = "duplicate_content"
             e["duplicate_of"] = hashes[chash]
@@ -325,9 +315,7 @@ def main() -> None:
             continue
         sigs[(e["course_slug"], sig)] = f"{e['course_slug']}/{e['slug']}"
         hashes[chash] = f"{e['course_slug']}/{e['slug']}"
-        d["content_hash"] = hashlib.sha256(
-            json.dumps(d["questions"], ensure_ascii=False,
-                       sort_keys=True).encode()).hexdigest()
+        d["content_hash"] = sha256_json(d["questions"])
         if e["url"] in existing:
             carry_translations(d, existing[e["url"]])
         JSONDIR.mkdir(parents=True, exist_ok=True)

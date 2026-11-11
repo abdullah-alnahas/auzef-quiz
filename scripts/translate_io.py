@@ -8,10 +8,11 @@ A result must echo source_hash and contain every id exactly once. The merger
 never modifies the Turkish fields; it only adds *_ar fields.
 """
 import argparse
-import hashlib
 import json
 import re
 from pathlib import Path
+
+from common import exam_id as common_exam_id, sha256_json
 
 ROOT = Path(__file__).resolve().parent.parent
 JSONDIR = ROOT / "output/.cache/json"
@@ -21,7 +22,8 @@ GLOSSARY = ROOT / "output/glossary.json"
 
 
 def exam_id(d: dict) -> str:
-    return f"{d['course_slug']}__{d['exam_slug']}"
+    """Exam id for a canonical JSON document."""
+    return common_exam_id(d["course_slug"], d["exam_slug"])
 
 
 def build(d: dict) -> dict:
@@ -34,8 +36,7 @@ def build(d: dict) -> dict:
             items.append({"id": f"q{q['n']}.table{ti}", "tr": t})
     payload = {"exam_id": exam_id(d), "course": d["course"], "exam": d["exam"],
                "items": items}
-    payload["source_hash"] = hashlib.sha256(
-        json.dumps(items, ensure_ascii=False, sort_keys=True).encode()).hexdigest()
+    payload["source_hash"] = sha256_json(items)
     return payload
 
 

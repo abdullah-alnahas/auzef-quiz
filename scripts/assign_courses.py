@@ -25,13 +25,8 @@ CONFIG = ROOT / "config"
 CACHE = ROOT / "output/.cache/html"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import fold  # noqa: E402
 from discover import norm  # noqa: E402
-
-
-def key(s: str) -> str:
-    """Case/punctuation-insensitive key with Turkish-aware folding."""
-    s = s.replace("İ", "i").replace("I", "ı").lower()
-    return re.sub(r"[^0-9a-zçğıöşüâîû]+", " ", s).strip()
 
 
 def h1_of(path: Path) -> str:
@@ -46,7 +41,7 @@ def h1_of(path: Path) -> str:
 def main() -> None:
     cfg = json.load(open(CONFIG / "exams.json", encoding="utf-8"))
     courses = json.load(open(CONFIG / "courses.json", encoding="utf-8"))["courses"]
-    names = [(c["slug"], key(c["course"])) for c in courses if key(c["course"])]
+    names = [(c["slug"], fold(c["course"])) for c in courses if fold(c["course"])]
 
     moved = kept = missing = 0
     for e in cfg["exams"]:
@@ -54,7 +49,7 @@ def main() -> None:
         if not p.exists():
             missing += 1
             continue
-        h1 = key(h1_of(p))
+        h1 = fold(h1_of(p))
         if not h1:
             kept += 1
             continue

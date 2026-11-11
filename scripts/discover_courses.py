@@ -10,11 +10,12 @@ extracts exam links, and writes:
 Nothing is guessed from URLs: an exam exists only if the course page links it
 with a vize/final/bütünleme/yaz-okulu/üç-ders label.
 """
-import hashlib
 import json
 import re
 import sys
 from pathlib import Path
+
+from common import sha1
 
 from bs4 import BeautifulSoup
 
@@ -24,10 +25,6 @@ CACHE = ROOT / "output/.cache/html"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from discover import classify, period_of, is_mock, norm  # noqa: E402
-
-
-def sha1(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()
 
 
 def page_slug(url: str) -> str:

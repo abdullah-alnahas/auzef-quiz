@@ -10,11 +10,12 @@ output/.cache/html/<sha1>.html and prints a JSON line per URL.
 - aborts on 401/403/407 after the retry budget, never bypasses a challenge
 """
 import argparse
-import hashlib
 import json
 import random
 import time
 from pathlib import Path
+
+from common import sha1
 
 from playwright.sync_api import sync_playwright
 
@@ -23,10 +24,6 @@ ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "output/.cache/html"
 LOGS = ROOT / "output/logs"
 CHALLENGE_MARKERS = ("__challenge/probes.js", "HASHCASH_CONFIG", "Checking your browser")
-
-
-def sha1(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()
 
 
 def is_challenge(html: str) -> bool:

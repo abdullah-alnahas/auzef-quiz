@@ -13,20 +13,17 @@ Usage:
     fetch_batch.py config/fetch_p2.txt [--cap 90]
 """
 import argparse
-import hashlib
 import json
 import subprocess
 import sys
 import time
 from pathlib import Path
 
+from common import sha1
+
 ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "output/.cache/html"
 LOGS = ROOT / "output/logs"
-
-
-def sha1(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()
 
 
 def main() -> int:

@@ -28,7 +28,6 @@ Usage:
 from __future__ import annotations
 
 import argparse
-import hashlib
 import json
 import sys
 from collections import Counter
@@ -36,6 +35,7 @@ from datetime import datetime
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import exam_id, sha1  # noqa: E402
 from render_md import render  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -128,14 +128,6 @@ def read_json(path: Path):
         return json.loads(path.read_text(encoding="utf-8"))
     except (OSError, ValueError):
         return None
-
-
-def sha1(value: str) -> str:
-    return hashlib.sha1(value.encode("utf-8")).hexdigest()
-
-
-def exam_id(course_slug: str, exam_slug: str) -> str:
-    return f"{course_slug}__{exam_slug}"
 
 
 def is_translated(d: dict) -> bool:
