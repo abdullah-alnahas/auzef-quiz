@@ -1,3 +1,4 @@
+import { writeFileSync } from "node:fs";
 import { defineConfig, type Plugin } from "vite";
 
 /**
@@ -93,9 +94,20 @@ self.addEventListener("fetch", (event) => {
   };
 }
 
+/** GitHub Pages: skip Jekyll even for branch-based deployments. */
+function noJekyll(): Plugin {
+  return {
+    name: "auzef-nojekyll",
+    apply: "build",
+    closeBundle() {
+      writeFileSync("dist/.nojekyll", "");
+    },
+  };
+}
+
 export default defineConfig({
   base: "./",
-  plugins: [serviceWorker()],
+  plugins: [serviceWorker(), noJekyll()],
   build: {
     target: "es2022",
     sourcemap: false,
