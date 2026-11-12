@@ -1,5 +1,5 @@
 import { useEffect, useState } from "preact/hooks";
-import { Badge, RichTextView } from "../components.tsx";
+import { Badge, ChoiceContent, RichTextView } from "../components.tsx";
 import { parseScope, scopeCode } from "../combine.ts";
 import { loadCombinedExam, loadExam } from "../data.ts";
 import { percent, score } from "../engine.ts";
@@ -209,16 +209,7 @@ export function Results({
                         .join(" ")}
                     >
                       <span class="choice-letter">{choice.letter}</span>
-                      <span class="choice-body">
-                        <span class="choice-tr" lang="tr" dir="ltr">
-                          {choice.turkish.text}
-                        </span>
-                        {prefs.showArabic && choice.arabic && (
-                          <span class="choice-ar" lang="ar" dir="rtl">
-                            {choice.arabic.text}
-                          </span>
-                        )}
-                      </span>
+                      <ChoiceContent choice={choice} showArabic={prefs.showArabic} />
                       {isChosen && (
                         <span class="review-tag">{t(prefs.lang, "yourAnswer")}</span>
                       )}

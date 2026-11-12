@@ -1,4 +1,5 @@
 import AxeBuilder from "@axe-core/playwright";
+import { readFileSync } from "node:fs";
 import { expect, test, type Page } from "@playwright/test";
 
 async function openCourse(page: Page): Promise<void> {
@@ -60,6 +61,40 @@ test("results show every choice with chosen and correct marks", async ({ page })
   expect(await page.locator(".review-choice.correct").count()).toBeGreaterThan(0);
   expect(await page.locator(".review-choice.chosen").count()).toBeGreaterThan(0);
   await expect(page.locator(".review-choice .review-tag").first()).toBeVisible();
+});
+
+test.describe("choice images", () => {
+  test.use({ serviceWorkers: "block" });
+
+  test("results render choice images like the quiz", async ({ page }) => {
+    await page.goto("/");
+    await page.locator(".course-row").first().click();
+    await expect(page.locator(".exam-card").first()).toBeVisible();
+    const card = page.locator(".exam-card").first();
+    const examId = (await card.getAttribute("data-exam-id")) ?? "";
+
+    // Inject one choice image so the results markup is exercised without
+    // depending on the corpus shipping assets.
+    await page.route(`**/data/exams/${examId}.json`, async (route) => {
+      const exam = JSON.parse(
+        readFileSync(`public/data/exams/${examId}.json`, "utf8"),
+      );
+      exam.questions[0].choices[0].turkish.images = ["assets/choice-test.png"];
+      await route.fulfill({
+        status: 200,
+        contentType: "application/json",
+        body: JSON.stringify(exam),
+      });
+    });
+
+    await card.locator(".primary").click();
+    await expect(page.locator(".choice").first()).toBeVisible();
+    await page.locator(".choice").first().click();
+    await expect(page.locator(".choice-image")).toHaveCount(1);
+    await page.getByRole("button", { name: "إنهاء" }).first().click();
+    await expect(page.locator("h1")).toHaveText("النتيجة");
+    await expect(page.locator(".review-choice .choice-image")).toHaveCount(1);
+  });
 });
 
 test("course-level scope toggles combine the selected groups", async ({ page }) => {
