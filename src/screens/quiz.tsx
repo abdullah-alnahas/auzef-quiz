@@ -18,7 +18,7 @@ import {
   score,
   select,
 } from "../engine.ts";
-import { scopeGroupKey, t } from "../i18n.ts";
+import { scopeTitle, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   deleteSession,
@@ -215,7 +215,7 @@ export function Quiz({
 
   const unanswered = exam.questions.filter((q) => !session.answers[q.id]).length;
   const title = exam.scope
-    ? parseScope(exam.scope).map((group) => t(prefs.lang, scopeGroupKey(group))).join(" + ")
+    ? scopeTitle(prefs.lang, parseScope(exam.scope))
     : exam.exam;
 
   const navState = (

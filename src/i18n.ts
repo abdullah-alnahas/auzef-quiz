@@ -200,10 +200,19 @@ export function dirOf(lang: Lang): "rtl" | "ltr" {
   return lang === "ar" ? "rtl" : "ltr";
 }
 
+const SCOPE_GROUP_KEYS: Record<ScopeGroup, Key> = {
+  vize: "scopeVize",
+  "vize-deneme": "scopeVizeDeneme",
+  final: "scopeFinal",
+  "final-deneme": "scopeFinalDeneme",
+  unit: "scopeUnit",
+};
+
 export function scopeGroupKey(group: ScopeGroup): Key {
-  if (group === "vize") return "scopeVize";
-  if (group === "vize-deneme") return "scopeVizeDeneme";
-  if (group === "final") return "scopeFinal";
-  if (group === "final-deneme") return "scopeFinalDeneme";
-  return "scopeUnit";
+  return SCOPE_GROUP_KEYS[group];
+}
+
+/** Human label for a canonical scope, e.g. "Vize + Final". */
+export function scopeTitle(lang: Lang, groups: ScopeGroup[]): string {
+  return groups.map((group) => t(lang, scopeGroupKey(group))).join(" + ");
 }

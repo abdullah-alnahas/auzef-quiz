@@ -3,7 +3,7 @@ import { Badge, RichTextView } from "../components.tsx";
 import { parseScope, scopeCode } from "../combine.ts";
 import { loadCombinedExam, loadExam } from "../data.ts";
 import { percent, score } from "../engine.ts";
-import { scopeGroupKey, t } from "../i18n.ts";
+import { scopeTitle, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   deleteSession,
@@ -86,7 +86,7 @@ export function Results({
       <h1>{t(prefs.lang, "results")}</h1>
       <p class="muted">
         {exam.scope
-          ? `${exam.course} — ${parseScope(exam.scope).map((group) => t(prefs.lang, scopeGroupKey(group))).join(" + ")}`
+          ? `${exam.course} — ${scopeTitle(prefs.lang, parseScope(exam.scope))}`
           : exam.exam}
       </p>
 
