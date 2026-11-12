@@ -1,0 +1,637 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Ünite-3",
+  "exam_slug": "unite-3",
+  "page_title": "Çocuk Gelişimi Uygulamaları I Ünite-3",
+  "source_url": "https://lolonolo.com/2021/10/17/cocuk-gelisimi-uygulamalari-i-unite-3/",
+  "scraped_at": "2026-11-12T15:00:51+03:00",
+  "answer_source": "markup",
+  "question_count": 15,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "I-Koruyucu ruh sağlığı bilinci ve uygulamalarının yaygınlaştırılması II-Gelişimsel zorlukları olan çocukların gelişimsel açıdan değerlendirilmesi ve desteklenmesi III-Psikiyatrik bozukluğu olan çocukların tanı ve tedavisi IV-Ebeveynlerin çocuk yetiştirme ve baş etme becerileri konusunda eğitilmesi V-Risk altındaki çocukların belirlenmesi, gereğinde tedavi için yönlendirilmesi Yukarıdakilerden hangileri çocukluk çağı psikiyatrik bozukluklarının yönetiminde çocuk gelişim uzmanlarının  görev ve sorumluluklar arasında yer alır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I-II-III",
+          "images": [],
+          "text_ar": "I و II و III"
+        },
+        {
+          "letter": "B",
+          "text": "II-III-IV",
+          "images": [],
+          "text_ar": "II و III و IV"
+        },
+        {
+          "letter": "C",
+          "text": "III-IV-V",
+          "images": [],
+          "text_ar": "III و IV و V"
+        },
+        {
+          "letter": "D",
+          "text": "II-IV-V",
+          "images": [],
+          "text_ar": "II و IV و V"
+        },
+        {
+          "letter": "E",
+          "text": "I-II-IV-V",
+          "images": [],
+          "text_ar": "I و II و IV و V"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I- نشر الوعي بالصحة النفسية الوقائية وتطبيقاتها II- تقييم الأطفال ذوي الصعوبات النمائية من الناحية النمائية ودعمهم III- تشخيص وعلاج الأطفال ذوي الاضطرابات النفسية IV- تدريب الوالدين على مهارات تنشئة الطفل والتعامل V- تحديد الأطفال المعرضين للخطر وإحالتهم للعلاج عند الحاجة أي مما ورد أعلاه يندرج ضمن مهام ومسؤوليات أخصائيي نمو الطفل في إدارة الاضطرابات النفسية في مرحلة الطفولة؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okul çağında olan bir çocuğun depresif bozukluğu yaşadığının belirtilerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Suçluluk",
+          "images": [],
+          "text_ar": "الشعور بالذنب"
+        },
+        {
+          "letter": "B",
+          "text": "İntihar düşünceleri",
+          "images": [],
+          "text_ar": "أفكار انتحارية"
+        },
+        {
+          "letter": "C",
+          "text": "Karşı gelme",
+          "images": [],
+          "text_ar": "العناد"
+        },
+        {
+          "letter": "D",
+          "text": "Değersizlik",
+          "images": [],
+          "text_ar": "انعدام القيمة"
+        },
+        {
+          "letter": "E",
+          "text": "İsteksizlik",
+          "images": [],
+          "text_ar": "فقدان الرغبة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من أعراض إصابة طفل في سن المدرسة باضطراب اكتئابي؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi gelişimsel psikopatolojinin savunduğu temel görüşler arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Belirli yaşlarda, belirli psikiyatrik bozukluklara yatkınlık ve hassasiyet gelişebilir.",
+          "images": [],
+          "text_ar": "قد تنشأ في أعمار معينة قابلية وحساسية لاضطرابات نفسية معينة."
+        },
+        {
+          "letter": "B",
+          "text": "Psikopatolojilerin oluşmasında genetik faktörler çevresel faktörlerden daha önemlidir.",
+          "images": [],
+          "text_ar": "العوامل الوراثية أهم من العوامل البيئية في نشوء الاضطرابات النفسية المرضية."
+        },
+        {
+          "letter": "C",
+          "text": "Psikiyatrik bozuklukların yaşlara göre belirtileri ve görünümleri değişebilir.",
+          "images": [],
+          "text_ar": "قد تختلف أعراض الاضطرابات النفسية ومظاهرها باختلاف الأعمار."
+        },
+        {
+          "letter": "D",
+          "text": "Bazı gelişimsel dönemlerin özellikleri, psikiyatrik bir bozukluğu taklit edebilir.",
+          "images": [],
+          "text_ar": "قد تحاكي خصائص بعض المراحل النمائية اضطرابًا نفسيًا."
+        },
+        {
+          "letter": "E",
+          "text": "Bir psikiyatrik bozukluğun seyri ve etkisi gelişimsel dönemlere göre değişebilir.",
+          "images": [],
+          "text_ar": "قد يختلف مسار الاضطراب النفسي وأثره باختلاف المراحل النمائية."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يرد ضمن الرؤى الأساسية التي يدافع عنها علم النفس المرضي النمائي؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki psikiyatrik bozukluklardan hangisi çocukluk döneminde erişkinlik döneminden daha sık görülür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Major Depresif Bozukluk",
+          "images": [],
+          "text_ar": "الاكتئاب الجسيم"
+        },
+        {
+          "letter": "B",
+          "text": "Ayrılık Anksiyetesi Bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب القلق الانفصالي"
+        },
+        {
+          "letter": "C",
+          "text": "Bipolar Bozukluk",
+          "images": [],
+          "text_ar": "الاضطراب ثنائي القطب"
+        },
+        {
+          "letter": "D",
+          "text": "Madde Kullanım Bozuklukları",
+          "images": [],
+          "text_ar": "اضطرابات تعاطي المواد"
+        },
+        {
+          "letter": "E",
+          "text": "Şizofreni",
+          "images": [],
+          "text_ar": "الفصام"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من الاضطرابات النفسية التالية يظهر في مرحلة الطفولة أكثر من مرحلة الرشد؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Psikiyatride sık kullanılan terimlerle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Etiyoloji, bozukluğa yol açan sebepler, bozukluğun kökeni anlamında kullanılır.",
+          "images": [],
+          "text_ar": "يُستخدم مصطلح المسبّبات للدلالة على أسباب الاضطراب وأصله."
+        },
+        {
+          "letter": "B",
+          "text": "Epidemiyoloji, bir bozukluğun toplum içindeki sıklığını ve yaygınlığını ifade eder.",
+          "images": [],
+          "text_ar": "يشير علم الأوبئة إلى تكرار اضطراب ما وانتشاره في المجتمع."
+        },
+        {
+          "letter": "C",
+          "text": "Psikopatoloji, duygu, düşünce ya da davranışla ilişkili anormallikleri inceleyen bilim dalıdır.",
+          "images": [],
+          "text_ar": "علم النفس المرضي هو فرع العلم الذي يدرس الشذوذات المتعلقة بالعاطفة أو التفكير أو السلوك."
+        },
+        {
+          "letter": "D",
+          "text": "Prognoz, bir bozukluğun başlangıç aşamasını, belirtilerin görünür olduğu ilk dönemleri ifade eder.",
+          "images": [],
+          "text_ar": "يشير المآل (الإنذار) إلى مرحلة بداية الاضطراب والفترات الأولى التي تظهر فيها الأعراض."
+        },
+        {
+          "letter": "E",
+          "text": "Patognomik belirti, sadece o bozukluğa özgü olup, başka bozukluklarda görülmeyen belirtiler için kullanılır.",
+          "images": [],
+          "text_ar": "تُستخدم العلامة المرضية المميزة (الباثوغنومية) للأعراض الخاصة بذلك الاضطراب فقط والتي لا تظهر في اضطرابات أخرى."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي غير صحيح بشأن المصطلحات الشائعة في الطب النفسي؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Psikiyatrik bozuklukları tanılama ve sınıflandırma sistemleriyle ilgili hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "DSM’de psikiyatrik bozuklukların haricinde tıbbi hastalıkların tanılanma ve sınıflandırılması da yer almaktadır.",
+          "images": [],
+          "text_ar": "يتضمن DSM إلى جانب الاضطرابات النفسية تشخيص الأمراض الطبية وتصنيفها أيضًا."
+        },
+        {
+          "letter": "B",
+          "text": "DSM-5 psikiyatrik bozuklukların tanılanması ve sınıflandırılmasında ICD’ye oranla daha sık kullanılmaktadır.",
+          "images": [],
+          "text_ar": "يُستخدم DSM-5 في تشخيص الاضطرابات النفسية وتصنيفها أكثر من ICD."
+        },
+        {
+          "letter": "C",
+          "text": "DSM-5, ICD sistemine göre bozukluklara ilişkin daha spesifikkriter ve detaylar içermektedir.",
+          "images": [],
+          "text_ar": "يتضمن DSM-5 معايير وتفاصيل أكثر تخصصًا للاضطرابات مقارنة بنظام ICD."
+        },
+        {
+          "letter": "D",
+          "text": "Her iki sistem de epidemiyolojik çalışma ve klinik araştırmalarda sıkça kullanılmaktadır.",
+          "images": [],
+          "text_ar": "يُستخدم كلا النظامين كثيرًا في الدراسات الوبائية والبحوث السريرية."
+        },
+        {
+          "letter": "E",
+          "text": "DSM-5, önceki baskılarına göre psikiyatrik bozuklukları daha gelişimsel bir bakış açısıyla ele alır.",
+          "images": [],
+          "text_ar": "يتناول DSM-5 الاضطرابات النفسية بمنظور أكثر نمائية مقارنة بطبعاته السابقة."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي غير صحيح بشأن أنظمة تشخيص الاضطرابات النفسية وتصنيفها؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "I-Erişkinlik dönemindeki psikiyatrik bozukluklardan daha hafif seyrederler II-Ebeveyndeki psikiyatrik bozukluklar çocuklar için de risk oluşturur III-Aile ortamından ve çocuk yetiştirme şeklinden etkilenir IV-Birçok durumda tedavi edilmeleri gerekmez V-Etkileri ve sonuçları çocukluk ve ergenlik dönemiyle sınırlıdır Yukarıdaki ifadelerden hangileri çocukluk çağı psikiyatrik bozukluklarıyla ilgili söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I-II-IV",
+          "images": [],
+          "text_ar": "I و II و IV"
+        },
+        {
+          "letter": "B",
+          "text": "II-IV-V",
+          "images": [],
+          "text_ar": "II و IV و V"
+        },
+        {
+          "letter": "C",
+          "text": "I-IV-V",
+          "images": [],
+          "text_ar": "I و IV و V"
+        },
+        {
+          "letter": "D",
+          "text": "II-III-IV",
+          "images": [],
+          "text_ar": "II و III و IV"
+        },
+        {
+          "letter": "E",
+          "text": "III-IV-V",
+          "images": [],
+          "text_ar": "III و IV و V"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I- تسير أخف من الاضطرابات النفسية في مرحلة الرشد II- تشكل الاضطرابات النفسية لدى الوالدين خطرًا على الأطفال أيضًا III- تتأثر بالبيئة الأسرية وأسلوب تنشئة الطفل IV- لا تحتاج إلى علاج في كثير من الحالات V- تقتصر آثارها ونتائجها على مرحلتي الطفولة والمراهقة أي من العبارات أعلاه لا يمكن قوله بشأن الاضطرابات النفسية في مرحلة الطفولة؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Psikiyatrik bozuklukların tedavisi ile ilgili hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bazı psikiyatrik bozuklukların kesin bir tedavisi bulunmamaktadır.",
+          "images": [],
+          "text_ar": "بعض الاضطرابات النفسية ليس لها علاج قطعي."
+        },
+        {
+          "letter": "B",
+          "text": "Bireylerin genetik yapısı ve kişilik özellikleri tedaviye olan yanıtı etkilemektedir.",
+          "images": [],
+          "text_ar": "تؤثر البنية الوراثية للأفراد وسماتهم الشخصية في الاستجابة للعلاج."
+        },
+        {
+          "letter": "C",
+          "text": "İlaçlar her zaman terapi yöntemlerinden daha etkilidir ve daha kalıcı sonuçla ilişkilidir.",
+          "images": [],
+          "text_ar": "الأدوية دائمًا أكثر فعالية من أساليب العلاج النفسي وترتبط بنتائج أكثر دوامًا."
+        },
+        {
+          "letter": "D",
+          "text": "Bilimsel çalışmalardan elde edilen verilerle kişiye uygun bir tedavi stratejisi belirlemek esastır.",
+          "images": [],
+          "text_ar": "الأساس هو تحديد استراتيجية علاج مناسبة للشخص بناءً على بيانات الدراسات العلمية."
+        },
+        {
+          "letter": "E",
+          "text": "Tedavi edilmediği takdirde hayatın ilerleyen dönemlerinde işlev bozukluklarında artışa neden olurlar.",
+          "images": [],
+          "text_ar": "إذا لم تُعالج فإنها تؤدي إلى زيادة الاختلالات الوظيفية في مراحل لاحقة من الحياة."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي غير صحيح بشأن علاج الاضطرابات النفسية؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "I.Zihinsel yetersizlik  II.Panik bozukluk  III.Otizm spektrum bozukluğu IV.Yaygın anksiyete bozukluğu Yukarıda verilenlerden hangisinin/hangilerinin kalıcı ve kesin bir tedavisi yoktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "C",
+          "text": "II ve IV",
+          "images": [],
+          "text_ar": "II و IV"
+        },
+        {
+          "letter": "D",
+          "text": "I, II, III ve IV",
+          "images": [],
+          "text_ar": "I و II و III و IV"
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I و III"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. القصور العقلي II. اضطراب الهلع III. اضطراب طيف التوحد IV. اضطراب القلق المعمم أي مما ورد أعلاه ليس له علاج دائم وقطعي؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Psikiyatrik bozukluklar ve DSM-5 ile ilgili aşağıdaki ifadelerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikiyatrik bozuklukların çoğunda sadece o bozukluğa özgü bir belirti yoktur.",
+          "images": [],
+          "text_ar": "لا توجد في معظم الاضطرابات النفسية علامة خاصة بذلك الاضطراب فقط."
+        },
+        {
+          "letter": "B",
+          "text": "Tanı konulurken kapsanan tanı ölçütleri kadar dışlanan tanı ölçütleri de göz önünde bulundurulmalıdır.",
+          "images": [],
+          "text_ar": "عند التشخيص ينبغي مراعاة معايير التشخيص المستبعدة بقدر معايير التشخيص المشمولة."
+        },
+        {
+          "letter": "C",
+          "text": "Tanı konulurken hastanın mevcut belirti ve durumunu göz önünde bulundurmak yeterlidir.",
+          "images": [],
+          "text_ar": "عند التشخيص يكفي مراعاة أعراض المريض وحالته الراهنة."
+        },
+        {
+          "letter": "D",
+          "text": "Aynı psikiyatrik bozukluk için, farklı gelişim dönemlerine ilişkin farklı tanı ölçütleri bulunabilir.",
+          "images": [],
+          "text_ar": "قد توجد للاضطراب النفسي نفسه معايير تشخيص مختلفة تخص مراحل نمائية مختلفة."
+        },
+        {
+          "letter": "E",
+          "text": "Bir bozukluğun diğer bir bozukluğu kapsaması halinde tanı önceliği kapsayıcı olan bozukluğa aittir.",
+          "images": [],
+          "text_ar": "إذا شمل اضطرابٌ اضطرابًا آخر، تكون أولوية التشخيص للاضطراب الشامل."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية لا يمكن قولها بشأن الاضطرابات النفسية وDSM-5؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel psikopatoloji ile ilgili aşağıdaki ifadelerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Farklı disiplinlerden etkilenmiştir.",
+          "images": [],
+          "text_ar": "تأثر بعدة تخصصات."
+        },
+        {
+          "letter": "B",
+          "text": "Gelişimin normal gelişimden sapmalarını araştırmayı hedefler.",
+          "images": [],
+          "text_ar": "يهدف إلى البحث في انحرافات النمو عن النمو الطبيعي."
+        },
+        {
+          "letter": "C",
+          "text": "Psikiyatrik bozukluk belirtilerini dönemsel özelliklere göre ele almayı amaçlar.",
+          "images": [],
+          "text_ar": "يهدف إلى تناول أعراض الاضطرابات النفسية وفق الخصائص المرحلية."
+        },
+        {
+          "letter": "D",
+          "text": "Çocukluk çağında görülen psikiyatrik bozuklukların bu dönemle sınırlı kalacağını savunur.",
+          "images": [],
+          "text_ar": "يدافع عن أن الاضطرابات النفسية التي تظهر في مرحلة الطفولة تبقى محصورة في هذه المرحلة."
+        },
+        {
+          "letter": "E",
+          "text": "Patolojiyi normalin abartılmış veya bozulmuş hali olarak kabul eder.",
+          "images": [],
+          "text_ar": "يعتبر المرضية صورة مبالغًا فيها أو مشوهة من الطبيعي."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من العبارات التالية غير صحيح بشأن علم النفس المرضي النمائي؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Ebeveynlerden ayrılmayla ilgili yoğun bir kaygı olarak ortaya çıkan psikiyatrik bozukluk aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Selektif mutizm",
+          "images": [],
+          "text_ar": "الصمت الانتقائي"
+        },
+        {
+          "letter": "B",
+          "text": "Ayrılık anksiyetesi bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب القلق الانفصالي"
+        },
+        {
+          "letter": "C",
+          "text": "Yaygın anksiyete bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب القلق المعمم"
+        },
+        {
+          "letter": "D",
+          "text": "Panik bozukluk",
+          "images": [],
+          "text_ar": "اضطراب الهلع"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما الاضطراب النفسي الذي يظهر على شكل قلق شديد متعلق بالانفصال عن الوالدين؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Psikiyatrik bozuklukların ortaya çıkmasında etkili olan faktörlerden hangisi bir özelliği yönüyle  diğerlerinden ayrılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gebelik döneminde sigara-alkol-madde maruziyeti",
+          "images": [],
+          "text_ar": "التعرض للتبغ والكحول والمواد أثناء فترة الحمل"
+        },
+        {
+          "letter": "B",
+          "text": "Düşük sosyoekonomik düzey",
+          "images": [],
+          "text_ar": "انخفاض المستوى الاجتماعي الاقتصادي"
+        },
+        {
+          "letter": "C",
+          "text": "Kronik hastalıklar",
+          "images": [],
+          "text_ar": "الأمراض المزمنة"
+        },
+        {
+          "letter": "D",
+          "text": "Ebeveynlerdeki genetik hastalık",
+          "images": [],
+          "text_ar": "المرض الوراثي لدى الوالدين"
+        },
+        {
+          "letter": "E",
+          "text": "Erken yaşta ebeveyn kaybı",
+          "images": [],
+          "text_ar": "فقدان أحد الوالدين في سن مبكرة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من العوامل المؤثرة في ظهور الاضطرابات النفسية يختلف عن غيره من حيث سمة معينة؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi nörogelişimsel bozukluklarda yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İletişim bozuklukları",
+          "images": [],
+          "text_ar": "اضطرابات التواصل"
+        },
+        {
+          "letter": "B",
+          "text": "Otizm spektrum bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب طيف التوحد"
+        },
+        {
+          "letter": "C",
+          "text": "Özgül öğrenme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التعلم الخاص"
+        },
+        {
+          "letter": "D",
+          "text": "Panik bozukluk",
+          "images": [],
+          "text_ar": "اضطراب الهلع"
+        },
+        {
+          "letter": "E",
+          "text": "Dikkat eksikliği hiperaktivite bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب نقص الانتباه وفرط النشاط"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي لا يرد ضمن الاضطرابات النمائية العصبية؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "DSM ile ilgili aşağıda verilenlerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikiyatrik bozukluklar için hazırlanan bir tanılama ve sınıflandırma sistemidir.",
+          "images": [],
+          "text_ar": "هو نظام تشخيص وتصنيف أُعدّ للاضطرابات النفسية."
+        },
+        {
+          "letter": "B",
+          "text": "En son baskısı 2013 tarihinde yayımlanan DSM-5’tir.",
+          "images": [],
+          "text_ar": "أحدث طبعاته هي DSM-5 الصادرة عام 2013."
+        },
+        {
+          "letter": "C",
+          "text": "DSM-I 2000 yılında yayımlanmıştır.",
+          "images": [],
+          "text_ar": "صدر الإصدار DSM-I عام 2000."
+        },
+        {
+          "letter": "D",
+          "text": "DSM-5, psikiyatrik bozukluklar için ICD sistemine göre daha spesifik kriter ve detaylar içermektedir.",
+          "images": [],
+          "text_ar": "يتضمن DSM-5 معايير وتفاصيل أكثر تخصصًا للاضطرابات النفسية من نظام ICD."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي غير صحيح بشأن DSM؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "6b85b1fe5f0a20f64aa5df52f803ffd4cafb8d24bda440a3ea1f1905dba43901"
+}

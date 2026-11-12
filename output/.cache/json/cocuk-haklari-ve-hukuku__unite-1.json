@@ -1,0 +1,442 @@
+{
+  "course": "ÇOCUK HAKLARI VE HUKUKU",
+  "course_slug": "cocuk-haklari-ve-hukuku",
+  "exam": "Ünite 1",
+  "exam_slug": "unite-1",
+  "page_title": "Çocuk Hakları ve Hukuku Ünite 1",
+  "source_url": "https://lolonolo.com/2020/11/10/cocuk-haklari-ve-hukuku-unite-1/",
+  "scraped_at": "2026-11-12T15:00:55+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki şıklardan hangisinde ülkemizde yürürlükte olan bir kanun verilmemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ticaret Kanunu",
+          "images": [],
+          "text_ar": "قانون التجارة"
+        },
+        {
+          "letter": "B",
+          "text": "Medeni Kanun",
+          "images": [],
+          "text_ar": "القانون المدني"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk Hakları Kanunu",
+          "images": [],
+          "text_ar": "قانون حقوق الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Tüketici Haklarının Korunması Hakkında Kanun",
+          "images": [],
+          "text_ar": "قانون حماية حقوق المستهلك"
+        },
+        {
+          "letter": "E",
+          "text": "İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun",
+          "images": [],
+          "text_ar": "قانون تنظيم المنشورات في بيئة الإنترنت ومكافحة الجرائم المرتكبة من خلال تلك المنشورات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من الخيارات التالية لم يُذكر فيه قانون سارٍ في بلدنا؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Hukuk kurallarının yaptırımı hangi hukuk kurallarına uymamanın sonucunda söz konusu olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Emredici",
+          "images": [],
+          "text_ar": "القواعد الآمرة"
+        },
+        {
+          "letter": "B",
+          "text": "Tamamlayıcı",
+          "images": [],
+          "text_ar": "القواعد المكملة"
+        },
+        {
+          "letter": "C",
+          "text": "Yorumlayıcı",
+          "images": [],
+          "text_ar": "القواعد التفسيرية"
+        },
+        {
+          "letter": "D",
+          "text": "Tanımlayıcı",
+          "images": [],
+          "text_ar": "القواعد التعريفية"
+        },
+        {
+          "letter": "E",
+          "text": "Tüm hukuk kuralları yaptırıma tabidir.",
+          "images": [],
+          "text_ar": "جميع القواعد القانونية تخضع للجزاء."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي نوع من القواعد القانونية يترتب على عدم الالتزام به جزاء القواعد القانونية؟",
+      "review": [
+        "q2.stem: صياغة المصدر التركي ملتبسة؛ صيغ السؤال استفهامًا عن نوع القاعدة التي يترتب جزاؤها على مخالفتها."
+      ]
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğu ilgilendiren hukuk kurallarının kural olarak hangi tür hukuk kuralı oldukları söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Emredici",
+          "images": [],
+          "text_ar": "القواعد الآمرة"
+        },
+        {
+          "letter": "B",
+          "text": "Tamamlayıcı",
+          "images": [],
+          "text_ar": "القواعد المكملة"
+        },
+        {
+          "letter": "C",
+          "text": "Tanımlayıcı",
+          "images": [],
+          "text_ar": "القواعد التعريفية"
+        },
+        {
+          "letter": "D",
+          "text": "Yorumlayıcı",
+          "images": [],
+          "text_ar": "القواعد التفسيرية"
+        },
+        {
+          "letter": "E",
+          "text": "Yorumlayıcı ve Tanımlayıcı",
+          "images": [],
+          "text_ar": "القواعد التفسيرية والتعريفية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "يمكن القول إن القواعد القانونية المتعلقة بالطفل هي، من حيث المبدأ، من أي نوع من القواعد القانونية؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi örf adet hukukunun manevi unsurunu oluşturur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Süreklilik",
+          "images": [],
+          "text_ar": "الاستمرارية"
+        },
+        {
+          "letter": "B",
+          "text": "Genellik",
+          "images": [],
+          "text_ar": "العمومية"
+        },
+        {
+          "letter": "C",
+          "text": "Devlet desteği",
+          "images": [],
+          "text_ar": "دعم الدولة"
+        },
+        {
+          "letter": "D",
+          "text": "Genel inanç",
+          "images": [],
+          "text_ar": "الاعتقاد العام"
+        },
+        {
+          "letter": "E",
+          "text": "Tekrarlanma",
+          "images": [],
+          "text_ar": "التكرار"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي يشكّل العنصر المعنوي للقانون العرفي؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Türkiye ve Fransa’da halihazırda tedvin edilmemiş bulunan hukuk dalı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İdare Hukuku",
+          "images": [],
+          "text_ar": "قانون الإدارة"
+        },
+        {
+          "letter": "B",
+          "text": "Ceza Hukuku",
+          "images": [],
+          "text_ar": "قانون العقوبات"
+        },
+        {
+          "letter": "C",
+          "text": "Vergi Hukuku",
+          "images": [],
+          "text_ar": "قانون الضرائب"
+        },
+        {
+          "letter": "D",
+          "text": "Medeni Hukuk",
+          "images": [],
+          "text_ar": "القانون المدني"
+        },
+        {
+          "letter": "E",
+          "text": "Ticaret Hukuku",
+          "images": [],
+          "text_ar": "قانون التجارة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي فرع من فروع القانون التالية لم يُدوَّن حتى الآن في تركيا وفرنسا؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Kara Avrupası Hukuk Sisteminin özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kanunlar halinde Tedvin edilmiştir.",
+          "images": [],
+          "text_ar": "دُوِّن في صورة قوانين."
+        },
+        {
+          "letter": "B",
+          "text": "Özel hukuk – Kamu hukuku ayrımı vardır.",
+          "images": [],
+          "text_ar": "يوجد فيه تمييز بين القانون الخاص والقانون العام."
+        },
+        {
+          "letter": "C",
+          "text": "İçtihat hukukun asıl kaynağıdır.",
+          "images": [],
+          "text_ar": "السوابق القضائية هي المصدر الأصلي للقانون."
+        },
+        {
+          "letter": "D",
+          "text": "Yazılıdır.",
+          "images": [],
+          "text_ar": "قانون مكتوب."
+        },
+        {
+          "letter": "E",
+          "text": "Yargı ayrılığı vardır.",
+          "images": [],
+          "text_ar": "يوجد فيه ازدواجية قضائية."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من خصائص النظام القانوني الأوروبي القاري؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Bir çocuğun açlıktan dolayı ekmek çalması durumunda hakimin cezaya hükmetmemesi hangi tür adalete örnek olarak gösterilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hakkaniyet",
+          "images": [],
+          "text_ar": "الإنصاف"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal adalet",
+          "images": [],
+          "text_ar": "العدالة الاجتماعية"
+        },
+        {
+          "letter": "C",
+          "text": "Denkleştirici adalet",
+          "images": [],
+          "text_ar": "العدالة التعويضية"
+        },
+        {
+          "letter": "D",
+          "text": "Dağıtıcı adalet",
+          "images": [],
+          "text_ar": "العدالة التوزيعية"
+        },
+        {
+          "letter": "E",
+          "text": "Denkleştirici ve dağıtıcı adalet",
+          "images": [],
+          "text_ar": "العدالة التعويضية والتوزيعية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "إذا سرق طفل خبزًا بسبب الجوع فلم يحكم القاضي بالعقوبة، فبأي نوع من العدالة يمكن الاستشهاد على ذلك؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Hukuk normlarının şekline saygı gösterilerek özünün yok edilmesi hangi kavramla ifade edilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kanuna karşı hile",
+          "images": [],
+          "text_ar": "التحايل على القانون"
+        },
+        {
+          "letter": "B",
+          "text": "Adaletsizlik",
+          "images": [],
+          "text_ar": "الظلم"
+        },
+        {
+          "letter": "C",
+          "text": "Metrukiyet",
+          "images": [],
+          "text_ar": "الهجر"
+        },
+        {
+          "letter": "D",
+          "text": "Lafza bağlılık",
+          "images": [],
+          "text_ar": "الالتزام باللفظ"
+        },
+        {
+          "letter": "E",
+          "text": "Takdir yetkisi",
+          "images": [],
+          "text_ar": "سلطة التقدير"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما المفهوم الذي يعبّر عن إهدار جوهر القواعد القانونية مع مراعاة شكلها؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki sosyal düzen kurallarının hangisinin sosyal müeyyidesinin diğerlerine göre biraz daha hafif olduğu söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hukuk Kuralları",
+          "images": [],
+          "text_ar": "قواعد القانون"
+        },
+        {
+          "letter": "B",
+          "text": "Örf ve Adet Kuralları",
+          "images": [],
+          "text_ar": "قواعد العرف والعادة"
+        },
+        {
+          "letter": "C",
+          "text": "Din Kuralları",
+          "images": [],
+          "text_ar": "قواعد الدين"
+        },
+        {
+          "letter": "D",
+          "text": "Ahlak Kuralla",
+          "images": [],
+          "text_ar": "قواعد الأخلاق"
+        },
+        {
+          "letter": "E",
+          "text": "Görgü Kuralları",
+          "images": [],
+          "text_ar": "قواعد آداب السلوك"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من قواعد النظام الاجتماعي التالية يمكن القول إن جزاءها الاجتماعي أخف إلى حد ما من غيرها؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "I.Miras Hukuku II. Vergi Hukuku III. Devletler Genel Hukuku IV. Çocuk Hukuku V. Ceza Hukuku< Yukarıdaki öncüllerden hangisi veya hangileri özel hukukun dallarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II, III ve V",
+          "images": [],
+          "text_ar": "II وIII وV"
+        },
+        {
+          "letter": "B",
+          "text": "III, IV ve V",
+          "images": [],
+          "text_ar": "III وIV وV"
+        },
+        {
+          "letter": "C",
+          "text": "II, IV ve V",
+          "images": [],
+          "text_ar": "II وIV وV"
+        },
+        {
+          "letter": "D",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        },
+        {
+          "letter": "E",
+          "text": "II, III ve IV",
+          "images": [],
+          "text_ar": "II وIII وIV"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "I. قانون الميراث\nII. قانون الضرائب\nIII. القانون الدولي العام\nIV. قانون الطفل\nV. قانون العقوبات\nأي من البنود السابقة أو أيها ليست من فروع القانون الخاص؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "52c48df316e4dda0e9d1a4de53efed7f826b00210527883ab5a79468a5117cff"
+}

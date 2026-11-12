@@ -3,7 +3,7 @@ course: SOSYAL-DUYGUSAL GELİŞİM
 exam: 2022-2023 Bütünleme Soruları
 source_url: https://lolonolo.com/2024/02/07/sosyal-duygusal-gelisim-2022-2023-butunleme-sorulari/
 question_count: 20
-scraped_at: 2026-11-12T11:32:52+03:00
+scraped_at: 2026-11-12T14:58:35+03:00
 ---
 
 ### Q1

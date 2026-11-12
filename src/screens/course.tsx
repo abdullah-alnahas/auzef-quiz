@@ -1,7 +1,12 @@
 import { useEffect, useState } from "preact/hooks";
-import { examsForScope } from "../combine.ts";
+import {
+  DEFAULT_SCOPE_GROUPS,
+  examsForScope,
+  SCOPE_GROUPS,
+  scopeCode,
+} from "../combine.ts";
 import { Dialog } from "../components.tsx";
-import { scopeKey, t } from "../i18n.ts";
+import { scopeGroupKey, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   courseStatus,
@@ -10,9 +15,7 @@ import {
   type DownloadState,
   type Progress,
 } from "../downloads.ts";
-import type { ExamSummary, Scope } from "../types.ts";
-
-const SCOPES: Scope[] = ["vize", "final", "all"];
+import type { ExamSummary, ScopeGroup } from "../types.ts";
 
 function periodOf(exam: string): string {
   const match = /^(\d{4}(?:-\d{4})?)/.exec(exam);
@@ -38,7 +41,7 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState(false);
   const [removeTarget, setRemoveTarget] = useState<ExamSummary | null>(null);
-  const [scope, setScope] = useState<Scope>("all");
+  const [selectedGroups, setSelectedGroups] = useState<ScopeGroup[]>(DEFAULT_SCOPE_GROUPS);
 
   const refresh = async (): Promise<void> => {
     if (!course) return;
@@ -54,12 +57,13 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
     return <p class="notice">{t(prefs.lang, "error")}</p>;
   }
 
-  const scoped = examsForScope(course, scope);
+  const scoped = examsForScope(course, selectedGroups);
   const scopedQuestions = scoped.reduce((n, exam) => n + exam.questionCount, 0);
 
   const groups = new Map<string, ExamSummary[]>();
   for (const exam of course.exams) {
-    const key = periodOf(exam.exam);
+    const key =
+      exam.type === "unite" ? t(prefs.lang, "unitBadge") : periodOf(exam.exam);
     groups.set(key, [...(groups.get(key) ?? []), exam]);
   }
 
@@ -107,17 +111,26 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
         <h2 id="test-all-title">{t(prefs.lang, "testAll")}</h2>
         <p class="muted small">{t(prefs.lang, "testAllHint")}</p>
         <div class="scope-tabs" role="group" aria-label={t(prefs.lang, "testAll")}>
-          {SCOPES.map((value) => (
-            <button
-              key={value}
-              type="button"
-              class={scope === value ? "primary" : "secondary"}
-              aria-pressed={scope === value}
-              onClick={() => setScope(value)}
-            >
-              {t(prefs.lang, scopeKey(value))}
-            </button>
-          ))}
+          {SCOPE_GROUPS.map((group) => {
+            const active = selectedGroups.includes(group);
+            return (
+              <button
+                key={group}
+                type="button"
+                class={active ? "primary" : "secondary"}
+                aria-pressed={active}
+                onClick={() =>
+                  setSelectedGroups((current) =>
+                    current.includes(group)
+                      ? current.filter((item) => item !== group)
+                      : [...current, group],
+                  )
+                }
+              >
+                {t(prefs.lang, scopeGroupKey(group))}
+              </button>
+            );
+          })}
         </div>
         <p class="muted small">
           {scoped.length} {t(prefs.lang, "examUnit")} · {scopedQuestions}{" "}
@@ -138,7 +151,7 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
             type="button"
             class="primary"
             disabled={scoped.length === 0}
-            onClick={() => navigate(`/combined/${course.courseId}/${scope}/practice`)}
+            onClick={() => navigate(`/combined/${course.courseId}/${scopeCode(selectedGroups)}/practice`)}
           >
             {t(prefs.lang, "practice")}
           </button>
@@ -146,7 +159,7 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
             type="button"
             class="secondary"
             disabled={scoped.length === 0}
-            onClick={() => navigate(`/combined/${course.courseId}/${scope}/exam`)}
+            onClick={() => navigate(`/combined/${course.courseId}/${scopeCode(selectedGroups)}/exam`)}
           >
             {t(prefs.lang, "exam")}
           </button>
@@ -169,6 +182,12 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
                     <span class="muted">
                       {exam.questionCount} {t(prefs.lang, "questionUnit")}
                     </span>
+                    {exam.mock && (
+                      <span class="pill pill-mock">{t(prefs.lang, "mockBadge")}</span>
+                    )}
+                    {exam.type === "unite" && (
+                      <span class="pill pill-mock">{t(prefs.lang, "unitBadge")}</span>
+                    )}
                     {status !== "none" && (
                       <span class={`pill pill-${status}`}>
                         {statusLabel(prefs.lang, status)}

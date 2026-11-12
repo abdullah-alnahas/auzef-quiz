@@ -1,0 +1,862 @@
+{
+  "course": "ÇOCUKLUKTA YABANCI DİL OLARAK TÜRKÇE ÖĞRETİMİ",
+  "course_slug": "cocuklukta-yabanci-dil-olarak-turkce-ogretimi",
+  "exam": "Final Deneme-1",
+  "exam_slug": "final-deneme-1",
+  "page_title": "Çocuklukta Yabancı Dil Olarak Türkçe Öğretimi Final Deneme-1",
+  "source_url": "https://lolonolo.com/2021/12/09/cocuklukta-yabanci-dil-olarak-turkce-ogretimi-final-deneme-1/",
+  "scraped_at": "2026-11-12T15:00:56+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Konuşma ile ilgili yargılardan hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Diksiyon sadece konuşma becerisi ile ilgilidir.",
+          "images": [],
+          "text_ar": "الإلقاء يتعلق بمهارة الكلام وحدها."
+        },
+        {
+          "letter": "B",
+          "text": "Konuşma olmadan iletişim mümkün değildir.",
+          "images": [],
+          "text_ar": "التواصل غير ممكن بدون الكلام."
+        },
+        {
+          "letter": "C",
+          "text": "Konuşma esnasında çeşitli duygu, düşünce, fikir aktarımı yapılır ve bu bağlamda diğer bireylerin görüşleri öğrenilir.",
+          "images": [],
+          "text_ar": "يحدث أثناء الكلام نقل متنوع للمشاعر والأفكار والآراء، وفي هذا السياق تُعرَف آراء الأفراد الآخرين."
+        },
+        {
+          "letter": "D",
+          "text": "Kent yaşamında ortaya çıkan bir kavramdır.",
+          "images": [],
+          "text_ar": "مفهوم ظهر في حياة المدن."
+        },
+        {
+          "letter": "E",
+          "text": "Konuşmanın, başkalarıyla olan maddi ve manevi alışverişte etkisinden söz edilemez.",
+          "images": [],
+          "text_ar": "لا يمكن الحديث عن أثر للكلام في التبادل المادي والمعنوي مع الآخرين."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الأحكام الآتية المتعلقة بالكلام صحيح؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda verilenlerden hangileri dil öğreniminde grup çalışmalarının kullanılmasını gerektiren pedagojik gerekçelerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كلها"
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I و III"
+        },
+        {
+          "letter": "C",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III و IV"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "E",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I و II"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي من المبررات التربوية التي تستلزم استخدام العمل الجماعي في تعلّم اللغة؟",
+      "review": [
+        "q2.stem: الخيارات تشير إلى عبارات I-IV غير مذكورة في نص المصدر، تُرجمت كما وردت."
+      ]
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi Bygate’e göre, konuşma eyleminin gerçekleşmesindeki dört süreçtir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anlamlandırma, şekillendirme, uygulama ve kişisel denetim",
+          "images": [],
+          "text_ar": "إعطاء المعنى، والتشكيل، والتطبيق، والضبط الشخصي"
+        },
+        {
+          "letter": "B",
+          "text": "Şekillendirme, anlamlandırma, kişisel denetim ve uygulama",
+          "images": [],
+          "text_ar": "التشكيل، وإعطاء المعنى، والضبط الشخصي، والتطبيق"
+        },
+        {
+          "letter": "C",
+          "text": "Anlamlandırma, kişisel denetim, uygulama ve şekillendirme",
+          "images": [],
+          "text_ar": "إعطاء المعنى، والضبط الشخصي، والتطبيق، والتشكيل"
+        },
+        {
+          "letter": "D",
+          "text": "Kişisel denetim, uygulama, anlamlandırma ve şekillendirme",
+          "images": [],
+          "text_ar": "الضبط الشخصي، والتطبيق، وإعطاء المعنى، والتشكيل"
+        },
+        {
+          "letter": "E",
+          "text": "Anlamlandırma, uygulama, şekillendirme ve kişisel denetim",
+          "images": [],
+          "text_ar": "إعطاء المعنى، والتطبيق، والتشكيل، والضبط الشخصي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي الخيارات الآتية يمثل العمليات الأربع التي تحدث في أداء فعل الكلام وفقًا لبايغيت؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi okulöncesi dönemde konuşma becerisini geliştirmek için öğreticilerin öncelikle dikkate  almaları gereken hususlara dahil edilemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konuşma eğitiminde söz varlığı öğretimi ve dinleme eğitimlerinde olduğu gibi tema ağırlıklı olarak oluşturulan izlencelere  göre planlama yapılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي في تعليم الكلام التخطيط وفق المناهج المعدَّة على أساس المحاور الموضوعية، كما هو الحال في تعليم المخزون اللفظي وتدريبات الإنصات."
+        },
+        {
+          "letter": "B",
+          "text": "Okulöncesi dönemde konuşma becerisini geliştirmek için çocukların Türkçe konuşulan ortamlarda iletişim sürecine  katılmalarını desteklemek temel amaç olmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يكون الهدف الأساسي في تنمية مهارة الكلام في مرحلة ما قبل المدرسة دعم مشاركة الأطفال في عملية التواصل في بيئات يُتحدث فيها بالتركية."
+        },
+        {
+          "letter": "C",
+          "text": "Okulöncesi dönemdeki konuşma eğitiminde, özel gereksinimli çocukların diğer öğrencilerle aynı programa göre  dikkate alınması gerekir.",
+          "images": [],
+          "text_ar": "ينبغي في تعليم الكلام في مرحلة ما قبل المدرسة مراعاة الأطفال ذوي الاحتياجات الخاصة وفق البرنامج نفسه الذي يُراعى به الطلاب الآخرون."
+        },
+        {
+          "letter": "D",
+          "text": "Temalar, çocukların kolaylıkla farkına varabileceği, yaşamlarının içinden unsurlar içermeli, somuttan soyuta  doğru planlanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن تتضمن المحاور عناصر من حياة الأطفال يدركونها بسهولة، وأن تُخطَّط من المحسوس إلى المجرد."
+        },
+        {
+          "letter": "E",
+          "text": "Konuşma eğitimde kültür aktarımı etkinlik planlamada yer almalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يُدرَج نقل الثقافة في تخطيط الأنشطة في تعليم الكلام."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الخيارات الآتية لا يمكن إدراجه في الأمور التي ينبغي أن يراعيها المربّون أولًا لتنمية مهارة الكلام في مرحلة ما قبل المدرسة؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Konuşmanın boyutları hangi seçenekte doğru verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "psikolojik, fiziksel, analojik",
+          "images": [],
+          "text_ar": "سيكولوجية، جسدية، تناظرية"
+        },
+        {
+          "letter": "B",
+          "text": "doğal, yapay",
+          "images": [],
+          "text_ar": "طبيعية، اصطناعية"
+        },
+        {
+          "letter": "C",
+          "text": "fiziksel, psikolojik, toplumsal",
+          "images": [],
+          "text_ar": "جسدية، سيكولوجية، اجتماعية"
+        },
+        {
+          "letter": "D",
+          "text": "nörolojik, toplumsal, psikolojik",
+          "images": [],
+          "text_ar": "عصبية، اجتماعية، سيكولوجية"
+        },
+        {
+          "letter": "E",
+          "text": "bilimsel, gündelik",
+          "images": [],
+          "text_ar": "علمية، يومية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الخيارات الآتية يرد فيها أبعاد الكلام على نحو صحيح؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Hangi yöntemle bilinçli ve düzenli düşünme, akıl yürütme yeteneğini arttırarak aynı zamanda kavrama yetisi de  gelişmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sorun çözme",
+          "images": [],
+          "text_ar": "حل المشكلات"
+        },
+        {
+          "letter": "B",
+          "text": "Ses temelli cümle",
+          "images": [],
+          "text_ar": "الجملة القائمة على الصوت"
+        },
+        {
+          "letter": "C",
+          "text": "Çağrışım",
+          "images": [],
+          "text_ar": "التداعي"
+        },
+        {
+          "letter": "D",
+          "text": "Kurala bağlılık",
+          "images": [],
+          "text_ar": "الالتزام بالقاعدة"
+        },
+        {
+          "letter": "E",
+          "text": "Kavrama",
+          "images": [],
+          "text_ar": "الفهم"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "بأي أسلوب تزداد القدرة على التفكير الواعي المنظم والاستدلال، وتنمو في الوقت نفسه القدرة على الفهم؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "W.Köhler, psikolojinin daha çok algı alanında ele aldığı hangi yaklaşım ekolünün bir temsilcisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gestalt psikolojisi",
+          "images": [],
+          "text_ar": "علم النفس الغشتالتي"
+        },
+        {
+          "letter": "B",
+          "text": "Hümanizm",
+          "images": [],
+          "text_ar": "النزعة الإنسانية"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel psikoloji",
+          "images": [],
+          "text_ar": "علم النفس المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Nörobiyolojik yaklaşım",
+          "images": [],
+          "text_ar": "المقاربة العصبية البيولوجية"
+        },
+        {
+          "letter": "E",
+          "text": "Yapısalcılık",
+          "images": [],
+          "text_ar": "البنيوية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "كولر هو ممثل لأي مدرسة من المدارس الاتجاهية التي تناولها علم النفس في مجال الإدراك على وجه الخصوص؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "İlk kez 1920’lerde şempanzeler üzerinde yaptığı çalışmalar sonucu ‘’Kavrama yoluyla öğrenme’’ görüşünü ortaya atan bilim  insanı kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Thorndike",
+          "images": [],
+          "text_ar": "ثورندايك"
+        },
+        {
+          "letter": "B",
+          "text": "Chastain",
+          "images": [],
+          "text_ar": "تشاستين"
+        },
+        {
+          "letter": "C",
+          "text": "Eliason",
+          "images": [],
+          "text_ar": "إلياسون"
+        },
+        {
+          "letter": "D",
+          "text": "Köhler",
+          "images": [],
+          "text_ar": "كولر"
+        },
+        {
+          "letter": "E",
+          "text": "Jenkins",
+          "images": [],
+          "text_ar": "جنكينز"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "من العالم الذي طرح، نتيجة دراساته التي أجراها على الشمبانزي في عشرينيات القرن العشرين، رأي «التعلم بالفهم»؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda verilen seçeneklerden hangisi Thorndike tarafından da çalışılan okuma ve yazmaya hazırlık ile ilgili  kuramsal yaklaşımdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kavrama yoluyla öğrenme",
+          "images": [],
+          "text_ar": "التعلم بالفهم"
+        },
+        {
+          "letter": "B",
+          "text": "Sınama yoluyla öğrenme",
+          "images": [],
+          "text_ar": "التعلم بالمحاولة والخطأ"
+        },
+        {
+          "letter": "C",
+          "text": "Beceri yoluyla öğrenme",
+          "images": [],
+          "text_ar": "التعلم بالمهارة"
+        },
+        {
+          "letter": "D",
+          "text": "Doğa yoluyla öğrenme",
+          "images": [],
+          "text_ar": "التعلم بالطبيعة"
+        },
+        {
+          "letter": "E",
+          "text": "Sorun çözme yoluyla öğrenme",
+          "images": [],
+          "text_ar": "التعلم بحل المشكلات"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي الخيارات الآتية هي المقاربة النظرية المتعلقة بالاستعداد للقراءة والكتابة التي عمل عليها ثورندايك أيضًا؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "I. Dinleme alıcı bir beceridir. II. Yazma verici bir beceridir. III. Okuma verici bir beceridir. IV. Konuşma alıcı bir beceridir.  Yukarıda verilen bilgilerden hangileri yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كلها"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "C",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III و IV"
+        },
+        {
+          "letter": "D",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I و IV"
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I و III"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. الإنصات مهارة استقبالية.\nII. الكتابة مهارة إنتاجية.\nIII. القراءة مهارة إنتاجية.\nIV. الكلام مهارة استقبالية.\nأي المعلومات المذكورة أعلاه غير صحيحة؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "……….. etkinlikleri sayesinde çocuklarda, yabancı dile ait kültürel yapı ve değerler konusunda farkındalık yaratmak mümkündür. Yukarıdaki paragraftaki boşluğa uygun kelime aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun",
+          "images": [],
+          "text_ar": "اللعب"
+        },
+        {
+          "letter": "B",
+          "text": "Masal",
+          "images": [],
+          "text_ar": "الحكاية"
+        },
+        {
+          "letter": "C",
+          "text": "Futbol",
+          "images": [],
+          "text_ar": "كرة القدم"
+        },
+        {
+          "letter": "D",
+          "text": "Müzik",
+          "images": [],
+          "text_ar": "الموسيقى"
+        },
+        {
+          "letter": "E",
+          "text": "Televizyon izleme",
+          "images": [],
+          "text_ar": "مشاهدة التلفاز"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "……… بفضل أنشطتها يمكن إيجاد وعي لدى الأطفال بالبنية الثقافية والقيم الخاصة باللغة الأجنبية.\nأي الكلمات الآتية تلائم الفراغ في الفقرة أعلاه؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Konuşma organının belirli hareketleri ile oluşan ve belli bir biçimde sıralanarak aynı dili konuşanlar arasında bir kavram ifadesi için kullanılan kelimeleri oluşturan anlam ayırt edici sestir. Yukarıdaki paragrafta tanımı yapılan kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ses birim",
+          "images": [],
+          "text_ar": "الوحدة الصوتية"
+        },
+        {
+          "letter": "B",
+          "text": "Diksiyon",
+          "images": [],
+          "text_ar": "الإلقاء"
+        },
+        {
+          "letter": "C",
+          "text": "Ses işlevi",
+          "images": [],
+          "text_ar": "وظيفة الصوت"
+        },
+        {
+          "letter": "D",
+          "text": "Ses noktası",
+          "images": [],
+          "text_ar": "نقطة الصوت"
+        },
+        {
+          "letter": "E",
+          "text": "Ses bilgisi",
+          "images": [],
+          "text_ar": "الصوتيات"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "هو صوت مميِّز للمعنى يتكوّن بحركات معينة لأعضاء النطق، ويترتب على نحو خاص فيؤلّف الكلمات التي تُستخدم للتعبير عن مفهوم بين متحدثي اللغة نفسها.\nأي المفاهيم الآتية هي المعرَّفة في الفقرة أعلاه؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi çocukların yazıya hazırlık ve motor becerilerini geliştirebilmek için yapılabilecek  temel çalışmalardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hamur, kil vb. malzemelerle çalışma",
+          "images": [],
+          "text_ar": "العمل بمواد كالعجين والطين وما شابه"
+        },
+        {
+          "letter": "B",
+          "text": "Modeli kopyalayarak çizme",
+          "images": [],
+          "text_ar": "الرسم بنسخ النموذج"
+        },
+        {
+          "letter": "C",
+          "text": "İki satır aralığında model çizgiyi çizme",
+          "images": [],
+          "text_ar": "رسم الخط النموذجي بين سطرين"
+        },
+        {
+          "letter": "D",
+          "text": "Şiir ezberlemek",
+          "images": [],
+          "text_ar": "استظهار القصائد"
+        },
+        {
+          "letter": "E",
+          "text": "Kol-el-bilek egzersizleri",
+          "images": [],
+          "text_ar": "تمارين الذراع واليد والرسغ"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الخيارات الآتية ليس من الأعمال الأساسية التي يمكن القيام بها لتنمية استعداد الأطفال للكتابة ومهاراتهم الحركية؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "‘’Çocuklar okur-yazarlığı ……… olarak öğrenirler.’’ Yukarıda verilen cümledeki boş yere uygun kavram aşağıdaki seçeneklerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aktif",
+          "images": [],
+          "text_ar": "بشكل نشط"
+        },
+        {
+          "letter": "B",
+          "text": "Pasif",
+          "images": [],
+          "text_ar": "بشكل سلبي"
+        },
+        {
+          "letter": "C",
+          "text": "Bireysel",
+          "images": [],
+          "text_ar": "بشكل فردي"
+        },
+        {
+          "letter": "D",
+          "text": "Zorlama",
+          "images": [],
+          "text_ar": "بشكل قسري"
+        },
+        {
+          "letter": "E",
+          "text": "İstemsiz",
+          "images": [],
+          "text_ar": "بشكل غير إرادي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "«يتعلم الأطفال القراءة والكتابة ……….»\nأي المفاهيم الآتية تلائم الفراغ في الجملة أعلاه؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "İnsanlar gün boyu ortalama kaç saat iletişim kurmaktadırlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3",
+          "images": [],
+          "text_ar": "3 ساعات"
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "images": [],
+          "text_ar": "8 ساعات"
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "images": [],
+          "text_ar": "12 ساعة"
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "images": [],
+          "text_ar": "5 ساعات"
+        },
+        {
+          "letter": "E",
+          "text": "14",
+          "images": [],
+          "text_ar": "14 ساعة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "كم ساعة يتواصل الناس في المتوسط خلال اليوم؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Sınama yoluyla öğrenmenin dayalı olduğu kanunlar aşağıdaki seçeneklerden hangisinde doğru verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hazır oluş, tekrar, sonuç etki",
+          "images": [],
+          "text_ar": "الاستعداد، والتكرار، وأثر النتيجة"
+        },
+        {
+          "letter": "B",
+          "text": "Bekleme, hazır oluş, okur-yazarlık",
+          "images": [],
+          "text_ar": "الانتظار، والاستعداد، والقراءة والكتابة"
+        },
+        {
+          "letter": "C",
+          "text": "Sonuç etki, sabretme, duyuya dayalı eğitim",
+          "images": [],
+          "text_ar": "أثر النتيجة، والصبر، والتربية الحسية"
+        },
+        {
+          "letter": "D",
+          "text": "Tekrar, duyuya dayalı eğitim, sistematik çalışma",
+          "images": [],
+          "text_ar": "التكرار، والتربية الحسية، والعمل المنهجي"
+        },
+        {
+          "letter": "E",
+          "text": "Hazır oluş, sistematik çalışma, bekleme",
+          "images": [],
+          "text_ar": "الاستعداد، والعمل المنهجي، والانتظار"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي الخيارات الآتية يرد فيها على نحو صحيح القوانين التي يستند إليها التعلم عن طريق المحاولة والخطأ؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Okuma-yazmayı öğrenme ne tür bir süreçtir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sanatsal",
+          "images": [],
+          "text_ar": "فنية"
+        },
+        {
+          "letter": "B",
+          "text": "Gelişimsel",
+          "images": [],
+          "text_ar": "نمائية"
+        },
+        {
+          "letter": "C",
+          "text": "Fiziksel",
+          "images": [],
+          "text_ar": "جسدية"
+        },
+        {
+          "letter": "D",
+          "text": "Teknik",
+          "images": [],
+          "text_ar": "تقنية"
+        },
+        {
+          "letter": "E",
+          "text": "Psikolojik",
+          "images": [],
+          "text_ar": "سيكولوجية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "تعلّم القراءة والكتابة أي نوع من العمليات هو؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Sınama yoluyla öğrenmede …….. ve ………. yararlanarak öğrenme gerçekleşmektedir. Yukarıdaki cümlede boş bırakılan yerlere gelmesi gereken uygun kavramlar aşağıdaki seçeneklerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "direktiflerden / taklitten",
+          "images": [],
+          "text_ar": "التوجيهات / التقليد"
+        },
+        {
+          "letter": "B",
+          "text": "hazırlıktan / harekete geçmeden",
+          "images": [],
+          "text_ar": "الاستعداد / الانطلاق إلى العمل"
+        },
+        {
+          "letter": "C",
+          "text": "tanımlardan / kurallardan",
+          "images": [],
+          "text_ar": "التعريفات / القواعد"
+        },
+        {
+          "letter": "D",
+          "text": "göstergelerden / sembollerden",
+          "images": [],
+          "text_ar": "الدوال / الرموز"
+        },
+        {
+          "letter": "E",
+          "text": "kendiliğinden / doğallıktan",
+          "images": [],
+          "text_ar": "العفوية / الطبيعية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في التعلم عن طريق المحاولة والخطأ يتحقق التعلم بالاستعانة بـ …….. و……… .\nأي المفاهيم الآتية تلائم الفراغين في الجملة أعلاه؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "……….. konuşmada ve okumada seslerin, kelimelerin, vurguların, anlam ve heyecan duraklarının açık ve anlaşılır olmasına dikkat eden konuşma biçimi; düzgün söz söyleme sanatı olarak tanımlanmaktadır. Yukarıdaki paragrafta boş bırakılan yere gelmesi gereken kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ses birim",
+          "images": [],
+          "text_ar": "الوحدة الصوتية"
+        },
+        {
+          "letter": "B",
+          "text": "Durak",
+          "images": [],
+          "text_ar": "الوقف"
+        },
+        {
+          "letter": "C",
+          "text": "Sesletim",
+          "images": [],
+          "text_ar": "التلفظ"
+        },
+        {
+          "letter": "D",
+          "text": "Ses bilgisi",
+          "images": [],
+          "text_ar": "الصوتيات"
+        },
+        {
+          "letter": "E",
+          "text": "Diksiyon",
+          "images": [],
+          "text_ar": "الإلقاء"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "……… هو أسلوب كلام يراعي في الكلام والقراءة جلاء الأصوات والكلمات والنبرات ووقفات المعنى والانفعال ووضوحها؛ ويُعرَّف بأنه فنّ إجادة القول.\nأي المفاهيم الآتية ينبغي أن تحلّ في الفراغ في الفقرة أعلاه؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Demirel’e göre konuşma becerisini geliştirmeye yönelik öğretmenlerin en çok kullandıkları alıştırma ve izlenecek sırada: Mekanik Alıştırmalar, Anlamlı Alıştırmalar ve İletişimsel Alıştırmalar bulunmaktadır. Aşağıdaki seçeneklerden hangisi Demirel’in bahsettiği İletişimsel Alıştırmalar bölümüyle ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dilin kurallarını ve yapılarını öğrenmek için soru cevap tekniğinin uygulanması",
+          "images": [],
+          "text_ar": "تطبيق أسلوب السؤال والجواب لتعلّم قواعد اللغة وبنيتها"
+        },
+        {
+          "letter": "B",
+          "text": "Dinleme ve daha sonrasında tekrar etme",
+          "images": [],
+          "text_ar": "الإنصات ثم التكرار بعده"
+        },
+        {
+          "letter": "C",
+          "text": "Sınıf içinde düşünceye dayanan anlamlı cümleler üretme",
+          "images": [],
+          "text_ar": "إنتاج جمل ذات معنى قائمة على التفكير داخل الصف"
+        },
+        {
+          "letter": "D",
+          "text": "Hikâye anlatma",
+          "images": [],
+          "text_ar": "سرد القصص"
+        },
+        {
+          "letter": "E",
+          "text": "Yer değiştirme",
+          "images": [],
+          "text_ar": "الإحلال"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "يرى دميرال أن أكثر التمارين استخدامًا من قبل المعلمين لتنمية مهارة الكلام، والترتيب المتبع، هي: التمارين الآلية، والتمارين ذات المعنى، والتمارين التواصلية. أي الخيارات الآتية يتعلق بقسم التمارين التواصلية الذي ذكره دميرال؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "137e1c4938a9ba79bcd212c52d59ba307a91ebfffeb8e5bc07eebd6bbeecde94"
+}

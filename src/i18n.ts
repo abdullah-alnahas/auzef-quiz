@@ -1,4 +1,4 @@
-import type { Scope } from "./types.ts";
+import type { ScopeGroup } from "./types.ts";
 
 export type Lang = "ar" | "tr";
 
@@ -89,7 +89,10 @@ const ar = {
   testAll: "اختبار شامل",
   testAllHint: "كل أسئلة هذا النطاق في جلسة واحدة.",
   scopeVize: "النصفي",
+  scopeVizeDeneme: "النصفي التجريبي",
   scopeFinal: "النهائي + التكميلي",
+  scopeFinalDeneme: "النهائي التجريبي",
+  scopeUnit: "الوحدات",
   scopeAll: "النصفي + النهائي",
   missingExams: "بعض الامتحانات غير متاحة: {names}. نزّلها أو اتصل بالإنترنت ثم أعد المحاولة.",
   emptyScope: "لا توجد امتحانات في هذا النطاق.",
@@ -98,6 +101,8 @@ const ar = {
   combinedFrom: "مُجمّع من {n} امتحانات",
   includedExams: "الامتحانات المشمولة",
   fromExam: "من {name}",
+  mockBadge: "تجريبي",
+  unitBadge: "وحدة",
 };
 
 export type Key = keyof typeof ar;
@@ -189,7 +194,10 @@ const tr: Record<Key, string> = {
   testAll: "Tümüyle test",
   testAllHint: "Bu kapsamdaki tüm sorular tek oturumda.",
   scopeVize: "Vize",
+  scopeVizeDeneme: "Vize Deneme",
   scopeFinal: "Final + Bütünleme",
+  scopeFinalDeneme: "Final Deneme",
+  scopeUnit: "Üniteler",
   scopeAll: "Vize + Final",
   missingExams: "Bazı sınavlar yok: {names}. İndirip ya da çevrimiçi olup yeniden deneyin.",
   emptyScope: "Bu kapsamda sınav yok.",
@@ -198,6 +206,8 @@ const tr: Record<Key, string> = {
   combinedFrom: "{n} sınavdan birleştirildi",
   includedExams: "Dahil edilen sınavlar",
   fromExam: "{name} sınavından",
+  mockBadge: "Deneme",
+  unitBadge: "Ünite",
 };
 
 const catalogs: Record<Lang, Record<Key, string>> = { ar, tr };
@@ -214,8 +224,10 @@ export function dirOf(lang: Lang): "rtl" | "ltr" {
   return lang === "ar" ? "rtl" : "ltr";
 }
 
-export function scopeKey(scope: Scope): Key {
-  if (scope === "vize") return "scopeVize";
-  if (scope === "final") return "scopeFinal";
-  return "scopeAll";
+export function scopeGroupKey(group: ScopeGroup): Key {
+  if (group === "vize") return "scopeVize";
+  if (group === "vize-deneme") return "scopeVizeDeneme";
+  if (group === "final") return "scopeFinal";
+  if (group === "final-deneme") return "scopeFinalDeneme";
+  return "scopeUnit";
 }

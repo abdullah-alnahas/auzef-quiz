@@ -1,5 +1,5 @@
 import { combineExams, examsForScope } from "./combine.ts";
-import type { AppManifest, CourseSummary, Exam, Scope } from "./types.ts";
+import type { AppManifest, CourseSummary, Exam, ScopeGroup } from "./types.ts";
 
 export class OfflineError extends Error {}
 
@@ -44,9 +44,9 @@ export async function loadExam(examId: string): Promise<Exam> {
  */
 export async function loadCombinedExam(
   course: CourseSummary,
-  scope: Scope,
+  groups: ScopeGroup[],
 ): Promise<Exam> {
-  const summaries = examsForScope(course, scope);
+  const summaries = examsForScope(course, groups);
   if (summaries.length === 0) throw new EmptyScopeError("no exams in scope");
   const settled = await Promise.allSettled(
     summaries.map((summary) => loadExam(summary.examId)),
@@ -58,5 +58,5 @@ export async function loadCombinedExam(
     else missing.push(summaries[index].exam);
   });
   if (missing.length) throw new MissingExamsError(missing);
-  return combineExams(course, scope, exams);
+  return combineExams(course, groups, exams);
 }

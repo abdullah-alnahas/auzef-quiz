@@ -1,0 +1,433 @@
+{
+  "course": "ÇOCUK HAKLARI VE HUKUKU",
+  "course_slug": "cocuk-haklari-ve-hukuku",
+  "exam": "Ünite 3",
+  "exam_slug": "unite-3",
+  "page_title": "Çocuk Hakları ve Hukuku Ünite 3",
+  "source_url": "https://lolonolo.com/2020/11/10/cocuk-haklari-ve-hukuku-unite-3/",
+  "scraped_at": "2026-11-12T15:00:55+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Terk sebebiyle boşama davası hakkında aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Terk mutlak bir boşanma sebebi olup hâkimin ortak hayatın çekilmez hale geldiğini araştırmasına gerek yoktur.",
+          "images": [],
+          "text_ar": "الهجر سبب مطلق للطلاق، ولا حاجة للقاضي إلى البحث في أن الحياة المشتركة أصبحت غير محتملة."
+        },
+        {
+          "letter": "B",
+          "text": "Terk edilen eş, en erken terk olayını izleyen dördüncü ayın sonunda hâkime başvurarak terk eden eşe ihtarda bulunmalıdır.",
+          "images": [],
+          "text_ar": "يجب على الزوج المهجور أن يتقدم إلى القاضي في موعد لا يسبق نهاية الشهر الرابع التالي لواقعة الهجر، لينذِر الزوج الهاجر."
+        },
+        {
+          "letter": "C",
+          "text": "Terk haklı bir sebebe dayanmamalıdır.",
+          "images": [],
+          "text_ar": "ألا يستند الهجر إلى سبب مبرر."
+        },
+        {
+          "letter": "D",
+          "text": "Terk, ortak hayata son verecek şekilde gerçekleşmelidir.",
+          "images": [],
+          "text_ar": "أن يقع الهجر على نحو ينهي الحياة المشتركة."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح بشأن دعوى الطلاق بسبب الهجر؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi mutlak boşanma sebeplerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Terk",
+          "images": [],
+          "text_ar": "الهجر"
+        },
+        {
+          "letter": "B",
+          "text": "Anlaşmalı boşanma",
+          "images": [],
+          "text_ar": "الطلاق بالاتفاق"
+        },
+        {
+          "letter": "C",
+          "text": "Zina",
+          "images": [],
+          "text_ar": "الزنا"
+        },
+        {
+          "letter": "D",
+          "text": "Suç işleme ve haysiyetsiz hayat sürme",
+          "images": [],
+          "text_ar": "ارتكاب جريمة والعيش حياة منافية للكرامة"
+        },
+        {
+          "letter": "E",
+          "text": "Hayata kast, pek kötü ve onur kırıcı davranış",
+          "images": [],
+          "text_ar": "الاعتداء على الحياة، والسلوك البالغ السوء والجارح للشرف"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من أسباب الطلاق المطلق؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Türk Medeni Kanunu’na göre, anlaşmalı boşanma hakkında aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evliliğin en az bir yıl sürmüş olması şarttır.",
+          "images": [],
+          "text_ar": "يُشترط أن يكون الزواج قد استمر سنة واحدة على الأقل."
+        },
+        {
+          "letter": "B",
+          "text": "Anlaşmada hâkimin gerekli gördüğü değişikliklerin taraflarca kabulü halinde hâkim, tarafların ikrarları ile bağlı olup boşanmaya hükmetmek zorundadır.",
+          "images": [],
+          "text_ar": "إذا قبل الطرفان التعديلات التي رأى القاضي أنها ضرورية في الاتفاق، كان القاضي ملزمًا بإقرارات الطرفين ويتعيّن عليه الحكم بالطلاق."
+        },
+        {
+          "letter": "C",
+          "text": "Hâkimin mali sonuçlar ve çocuklar hakkındaki taraflarca yapılan düzenlemeyi uygun bulmuş olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن يكون القاضي قد رأى أن الترتيب الذي وضعه الطرفان بشأن النتائج المالية والأطفال مناسب."
+        },
+        {
+          "letter": "D",
+          "text": "Hâkim tarafları bizzat dinlemeli ve iradelerinin serbestçe açıklandığı kanaatine varmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن يستمع القاضي إلى الطرفين بنفسه وأن يقتنع بأن إرادتهما أُعلنت بحرية."
+        },
+        {
+          "letter": "E",
+          "text": "Eşlerin mahkemeye birlikte başvurmuş olmaları şarttır.",
+          "images": [],
+          "text_ar": "يُشترط أن يكون الزوجان قد تقدّما إلى المحكمة معًا."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "وفقًا للقانون المدني التركي، أي مما يلي غير صحيح بشأن الطلاق بالاتفاق؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Türk Medeni Kanunu’na göre, aşağıdaki evliliklerden hangisi yasak değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evlatlığın eşi ile evlat edinen arasında",
+          "images": [],
+          "text_ar": "بين زوج المتبنى والمتبنّي"
+        },
+        {
+          "letter": "B",
+          "text": "Evlatlığın altsoyu ile evlat edinen arasında",
+          "images": [],
+          "text_ar": "بين فروع المتبنى والمتبنّي"
+        },
+        {
+          "letter": "C",
+          "text": "Evlat edinen ile evlatlığın üstsoyu arasında",
+          "images": [],
+          "text_ar": "بين المتبنّي وأصول المتبنى"
+        },
+        {
+          "letter": "D",
+          "text": "Evlat edinen ile evlatlık arasında",
+          "images": [],
+          "text_ar": "بين المتبنّي والمتبنى"
+        },
+        {
+          "letter": "E",
+          "text": "Evlat edinenin altsoyu ile evlatlık arasında",
+          "images": [],
+          "text_ar": "بين فروع المتبنّي والمتبنى"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "وفقًا للقانون المدني التركي، أي من الزيجات التالية غير محظورة؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki butlan nedenlerinden hangisi yalnızca eşler tarafından ileri sürülebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mevcut bir evliliğin bulunması",
+          "images": [],
+          "text_ar": "وجود زواج قائم"
+        },
+        {
+          "letter": "B",
+          "text": "Evlat edinen ile evlatlık arasındaki evlilik",
+          "images": [],
+          "text_ar": "الزواج بين المتبنّي والمتبنى"
+        },
+        {
+          "letter": "C",
+          "text": "Evlenmeye engel nitelikte akıl hastalığı",
+          "images": [],
+          "text_ar": "المرض العقلي الذي يشكّل مانعًا من الزواج"
+        },
+        {
+          "letter": "D",
+          "text": "Amca, dayı, hala ve teyze ile yapılan evlilik",
+          "images": [],
+          "text_ar": "الزواج بالعم أو الخال أو العمة أو الخالة"
+        },
+        {
+          "letter": "E",
+          "text": "Ayırt etme gücünden geçici yoksunluk",
+          "images": [],
+          "text_ar": "الفقدان المؤقت لقدرة التمييز"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من أسباب البطلان التالية لا يجوز أن يتمسك به إلا الزوجان؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "I. Kadının bekleme süresi sona ermeden nişanlanması II. İki erkeğin birbiriyle nişanlanması III. Teyze ile nişanlanmak IV. Evlat edinen ile evlatlığın nişanlanması V. Hali hazırda evli olan bir kişinin bir başkası ile nişanlanması Yukarıdakilerden hangisi veya hangileri bir nişanlanma engeli değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I وIV"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "C",
+          "text": "III ve V",
+          "images": [],
+          "text_ar": "III وV"
+        },
+        {
+          "letter": "D",
+          "text": "II ve IV",
+          "images": [],
+          "text_ar": "II وIV"
+        },
+        {
+          "letter": "E",
+          "text": "I, IV ve V",
+          "images": [],
+          "text_ar": "I وIV وV"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. خطبة المرأة قبل انتهاء عدّتها\nII. خطبة رجلين أحدهما للآخر\nIII. الخطبة من الخالة\nIV. خطبة المتبنّي للمتبنى\nV. خطبة شخص متزوج حاليًا لشخص آخر\nأي مما سبق أو أيها ليس مانعًا من الخطبة؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Tarafların resmi memur önünde değil de kendi aralarında yaptıkları bir evliliğin akıbeti nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hâkim kararı ile geçerli hale gelir.",
+          "images": [],
+          "text_ar": "يصبح صحيحًا بحكم من القاضي."
+        },
+        {
+          "letter": "B",
+          "text": "Nisbi butlan ile sakattır.",
+          "images": [],
+          "text_ar": "معيب بالبطلان النسبي."
+        },
+        {
+          "letter": "C",
+          "text": "Mutlak butlan ile sakattır.",
+          "images": [],
+          "text_ar": "معيب بالبطلان المطلق."
+        },
+        {
+          "letter": "D",
+          "text": "Yoklukla sakattır.",
+          "images": [],
+          "text_ar": "معيب بالعدم."
+        },
+        {
+          "letter": "E",
+          "text": "İlgililerce bir yıl içinde itiraz edilmezse geçerli hale gelir.",
+          "images": [],
+          "text_ar": "يصبح صحيحًا إذا لم يعترض عليه أصحاب الشأن خلال سنة."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما مصير الزواج الذي يعقده الطرفان بينهما لا أمام موظف رسمي؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "I. Maddi tazminat II. Manevi tazminat III. Hediyelerin iadesi Yukarıdakilerden hangisi veya hangileri nişanın bozulmasının sonucunda yalnızca kusurun varlığı halinde ileri sürülebilecek bir taleptir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "C",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "E",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "I. التعويض المادي\nII. التعويض المعنوي\nIII. رد الهدايا\nأي مما سبق أو أيها طلب لا يجوز التمسك به نتيجة فسخ الخطبة إلا في حال وجود خطأ؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi özel boşanma sebeplerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hayata kast",
+          "images": [],
+          "text_ar": "الاعتداء على الحياة"
+        },
+        {
+          "letter": "B",
+          "text": "Evlilik birliğinin sarsılması",
+          "images": [],
+          "text_ar": "اهتزاز رابطة الزواج"
+        },
+        {
+          "letter": "C",
+          "text": "Terk",
+          "images": [],
+          "text_ar": "الهجر"
+        },
+        {
+          "letter": "D",
+          "text": "Zina",
+          "images": [],
+          "text_ar": "الزنا"
+        },
+        {
+          "letter": "E",
+          "text": "Haysiyetsiz hayat sürmek",
+          "images": [],
+          "text_ar": "العيش حياة منافية للكرامة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من أسباب الطلاق الخاصة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "I. Aynı cinsten kişiler arasında evlilik yapılmış olması II. Evlenmenin temsilci aracılığı ile yapılması III. Tarafların evlenme iradelerini İstanbul’daki mahalle muhtarları önünde açıklamış olmaları. IV. Akıl hastalığı V. Amca, dayı, hala veya teyze ile evlilik VI. Mevcut evlilik Türk Medeni Kanunu’na göre, yukarıdakilerden hangisi veya hangileri evliliğin yokluğuna yol açan nedenlerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        },
+        {
+          "letter": "B",
+          "text": "IV, V ve VI",
+          "images": [],
+          "text_ar": "IV وV وVI"
+        },
+        {
+          "letter": "C",
+          "text": "I, II ve VI",
+          "images": [],
+          "text_ar": "I وII وVI"
+        },
+        {
+          "letter": "D",
+          "text": "I, V ve VI",
+          "images": [],
+          "text_ar": "I وV وVI"
+        },
+        {
+          "letter": "E",
+          "text": "I, II, III, IV ve VI",
+          "images": [],
+          "text_ar": "I وII وIII وIV وVI"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "I. إبرام زواج بين أشخاص من الجنس نفسه\nII. إبرام الزواج بواسطة ممثل\nIII. إعلان الطرفين إرادتهما في الزواج أمام مختاري الأحياء في إسطنبول\nIV. المرض العقلي\nV. الزواج بالعم أو الخال أو العمة أو الخالة\nVI. وجود زواج قائم\nوفقًا للقانون المدني التركي، أي مما سبق أو أيها من أسباب عدم انعقاد الزواج؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "aaba15bea839cc777ce675cc2b54bc9875236ed4216f7cc5991080598d3ef4be"
+}

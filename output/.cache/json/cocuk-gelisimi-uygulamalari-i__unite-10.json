@@ -1,0 +1,568 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Ünite-10",
+  "exam_slug": "unite-10",
+  "page_title": "Çocuk Gelişimi Uygulamaları I Ünite-10",
+  "source_url": "https://lolonolo.com/2021/12/16/cocuk-gelisimi-uygulamalari-i-unite-10/",
+  "scraped_at": "2026-11-12T15:00:52+03:00",
+  "answer_source": "markup",
+  "question_count": 13,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi özgül öğrenme bozukluğunun alt tiplerindendir?I. Disleksi II. Disgrafi III. Diskalkuli I V. Disprozodi",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I,II,III",
+          "images": [],
+          "text_ar": "I و II و III"
+        },
+        {
+          "letter": "B",
+          "text": "I,IV",
+          "images": [],
+          "text_ar": "I و IV"
+        },
+        {
+          "letter": "C",
+          "text": "I,II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "D",
+          "text": "II,III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "E",
+          "text": "II,IV",
+          "images": [],
+          "text_ar": "II و IV"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي من الأنواع الفرعية لاضطراب التعلم النوعي؟ I. عسر القراءة II. عسر الكتابة III. عسر الحساب IV. عسر التلحين"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Özgül öğrenme bozukluğunun DSM-5 tanı ölçütlerine göre aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Harf harf söyleme ve yazma güçlüğü vardır.",
+          "images": [],
+          "text_ar": "لديهم صعوبة في تهجئة الحروف حرفًا حرفًا وكتابتها."
+        },
+        {
+          "letter": "B",
+          "text": "Okuduğunu anlamakta zorluk yaşarlar.",
+          "images": [],
+          "text_ar": "يجدون صعوبة في فهم ما يقرأون."
+        },
+        {
+          "letter": "C",
+          "text": "Sayı algısında ya da hesaplamada güçlükleri vardır.",
+          "images": [],
+          "text_ar": "لديهم صعوبات في إدراك الأعداد أو في الحساب."
+        },
+        {
+          "letter": "D",
+          "text": "Mavi, yeşil ve kırmızı gibi renkleri ayırt etmede zorlanırlar.",
+          "images": [],
+          "text_ar": "يجدون صعوبة في التمييز بين ألوان مثل الأزرق والأخضر والأحمر."
+        },
+        {
+          "letter": "E",
+          "text": "Sayısal akıl yürütme güçlükleri vardır.",
+          "images": [],
+          "text_ar": "لديهم صعوبات في الاستدلال العددي."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي غير صحيح وفقًا لمعايير تشخيص اضطراب التعلم النوعي في DSM-5؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi özgül öğrenme bozukluklarının ortaya çıkmasında etkili olan çevresel risk faktörlerinden  biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okulun bulunduğu bölge",
+          "images": [],
+          "text_ar": "المنطقة التي تقع فيها المدرسة"
+        },
+        {
+          "letter": "B",
+          "text": "Anne babanın eğitim düzeyi",
+          "images": [],
+          "text_ar": "المستوى التعليمي للوالدين"
+        },
+        {
+          "letter": "C",
+          "text": "Okumanın öğrenildiği dilin özellikleri",
+          "images": [],
+          "text_ar": "خصائص اللغة التي تُتعلَّم بها القراءة"
+        },
+        {
+          "letter": "D",
+          "text": "Gebelikte nikotin (sigara) kullanımı",
+          "images": [],
+          "text_ar": "استخدام النيكوتين (السجائر) أثناء الحمل"
+        },
+        {
+          "letter": "E",
+          "text": "Nöronal göç defekti",
+          "images": [],
+          "text_ar": "خلل الهجرة العصبية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من العوامل البيئية المؤثرة في ظهور اضطرابات التعلم النوعية؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk ve ergenlerin kronolojik yaşı ve yaşına uygun olarak aldığı eğitim göz önünde bulundurulduğunda, okuma başarısının  beklenenin altında olması şeklinde tanımlanan öğrenme bozukluğu hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Diskalkuli",
+          "images": [],
+          "text_ar": "عسر الحساب"
+        },
+        {
+          "letter": "B",
+          "text": "Disgrafi",
+          "images": [],
+          "text_ar": "عسر الكتابة"
+        },
+        {
+          "letter": "C",
+          "text": "Disprozodi",
+          "images": [],
+          "text_ar": "عسر التلحين"
+        },
+        {
+          "letter": "D",
+          "text": "Disleksi",
+          "images": [],
+          "text_ar": "عسر القراءة"
+        },
+        {
+          "letter": "E",
+          "text": "Dispraksi",
+          "images": [],
+          "text_ar": "عسر الأداء"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "بالنظر إلى العمر الزمني للأطفال والمراهقين وإلى التعليم الذي تلقوه بما يناسب أعمارهم، ما اضطراب التعلم الذي يُعرَّف بأنه تدني التحصيل في القراءة عن المستوى المتوقع؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Özgül öğrenme bozukluğu ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kızlarda erkeklerden daha yaygın görülmektedir.",
+          "images": [],
+          "text_ar": "يُشاهد لدى الفتيات أكثر من الفتيان."
+        },
+        {
+          "letter": "B",
+          "text": "Disleksi tanılı ebeveynlerin çocuklarında disleksi görülme sıklığı daha fazladır.",
+          "images": [],
+          "text_ar": "تزداد نسبة انتشار عسر القراءة بين أطفال الوالدين المصابين بعسر القراءة."
+        },
+        {
+          "letter": "C",
+          "text": "Özgül öğrenme bozukluğu tanılı çocuklarda disleksi en sık görülen alt tiptir.",
+          "images": [],
+          "text_ar": "عسر القراءة هو النوع الفرعي الأكثر شيوعًا لدى الأطفال المصابين باضطراب التعلم النوعي."
+        },
+        {
+          "letter": "D",
+          "text": "Prematürite ve düşük doğum ağırlığı özgül öğrenme bozukluğu için riski artırır.",
+          "images": [],
+          "text_ar": "تزيد الولادة المبكرة وانخفاض وزن الولادة من خطر اضطراب التعلم النوعي."
+        },
+        {
+          "letter": "E",
+          "text": "Prenatal (doğum öncesi) dönemde nikotine maruz kalmak bir risk faktörüdür.",
+          "images": [],
+          "text_ar": "التعرض للنيكوتين في مرحلة ما قبل الولادة عامل خطر."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي غير صحيح بشأن اضطراب التعلم النوعي؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "I. Ünsüzleri tersine çevirirler. II. Çarpım tablosunu ezberlemekte zorluk yaşarlar III. Toplama ve çıkarma yaparken parmakla sayarlar IV. Gramer yanlışları yaparlar. Yukarıda verilenlerden hangileri Diskalkuli de görülür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, II, III",
+          "images": [],
+          "text_ar": "I و II و III"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız IV",
+          "images": [],
+          "text_ar": "IV فقط"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "D",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I و IV"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. يعكسون الحروف الساكنة. II. يجدون صعوبة في حفظ جدول الضرب. III. يعدّون على الأصابع عند الجمع والطرح. IV. يرتكبون أخطاء نحوية. أي مما ورد أعلاه يُشاهد في عسر الحساب؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "I. Çocuğa yönelik psikometrik veya akademik kazanım testleri uygulamak II. Çocuğun akademik zorluklarına yönelik destek programları hazırlamak ve uygulamak III. Ebeveyn ve okul ile işbirliği yapmak IV. Eşik eden durumların tanı ve tedavisini gerçekleştirmek Yukarıdakilerden hangileri özgül öğrenme bozukluğu olan bir çocukla ilgili olarak, çocuk gelişim uzmanının  işlevleri arasında yer alır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I,II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "B",
+          "text": "I,III,IV",
+          "images": [],
+          "text_ar": "I و III و IV"
+        },
+        {
+          "letter": "C",
+          "text": "II,III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "D",
+          "text": "I,II,III",
+          "images": [],
+          "text_ar": "I و II و III"
+        },
+        {
+          "letter": "E",
+          "text": "I,II,III,IV",
+          "images": [],
+          "text_ar": "I و II و III و IV"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "I. تطبيق اختبارات نفسية قياسية أو اختبارات تحصيل أكاديمي على الطفل II. إعداد برامج دعم لصعوبات الطفل الأكاديمية وتطبيقها III. التعاون مع الوالدين والمدرسة IV. إجراء تشخيص وعلاج للحالات المصاحبة أي مما ورد أعلاه يندرج ضمن وظائف أخصائي نمو الطفل فيما يتعلق بطفل مصاب باضطراب التعلم النوعي؟",
+      "review": [
+        "q7.stem: المصدر يكتب «Eşik eden» وهي على الأرجح «Eşlik eden» أي الحالات المصاحبة؛ تُرجمت بهذا المعنى"
+      ]
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Disleksi tanılı 2. sınıftaki bir çocukta aşağıdakilerden hangisi beklenmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okurken harf atlama, harf ekleme, harf değiştirme gibi zorlukları olabilir.",
+          "images": [],
+          "text_ar": "قد تكون لديه صعوبات في القراءة مثل إسقاط حرف أو إضافة حرف أو تغيير حرف."
+        },
+        {
+          "letter": "B",
+          "text": "Dinlediği/okuduğu öyküyü anlatmada zorluk yaşar, başını sonunu karıştırabilir.",
+          "images": [],
+          "text_ar": "يجد صعوبة في سرد القصة التي سمعها أو قرأها، وقد يخلط بين بدايتها ونهايتها."
+        },
+        {
+          "letter": "C",
+          "text": "Harfleri ve/ya sayıları karıştırabilir (6-9, n-u, b-d, p-g vb.)",
+          "images": [],
+          "text_ar": "قد يخلط بين الحروف و/أو الأعداد (6-9، n-u، b-d، p-g وما إلى ذلك)"
+        },
+        {
+          "letter": "D",
+          "text": "Kelimeleri tersten okuması olabilir (ev-ve, koç-çok vb.).",
+          "images": [],
+          "text_ar": "قد يقرأ الكلمات بالمقلوب (ev-ve، koç-çok وما إلى ذلك)."
+        },
+        {
+          "letter": "E",
+          "text": "Dört işlemi yaparken yavaştır, parmak sayar, yanlış yapar.",
+          "images": [],
+          "text_ar": "يكون بطيئًا في إجراء العمليات الأربع، ويعدّ على أصابعه، ويخطئ."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يُتوقع في طفل في الصف الثاني مصاب بعسر القراءة؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki öğrenme bozukluğu faktörlerinden hangisi harfleri ters ya da dönmüş olarak tanımlama, okumada satır atlama,  aynı satırı tekrar okuma gibi problemlere neden olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genetik nedenler",
+          "images": [],
+          "text_ar": "أسباب وراثية"
+        },
+        {
+          "letter": "B",
+          "text": "Çevresel nedenler",
+          "images": [],
+          "text_ar": "أسباب بيئية"
+        },
+        {
+          "letter": "C",
+          "text": "Algısal nedenler",
+          "images": [],
+          "text_ar": "أسباب إدراكية"
+        },
+        {
+          "letter": "D",
+          "text": "Gelişimsel nedenler",
+          "images": [],
+          "text_ar": "أسباب نمائية"
+        },
+        {
+          "letter": "E",
+          "text": "Nörolojik nedenler",
+          "images": [],
+          "text_ar": "أسباب عصبية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من عوامل صعوبات التعلم التالية يؤدي إلى مشكلات مثل تعريف الحروف معكوسة أو مقلوبة، وإسقاط سطر أثناء القراءة، وإعادة قراءة السطر نفسه؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ÖÖB tanılı çocuklarda ebeveyn ve eğitimcilere yönelik önerilerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hobilerini, ilgilerini, okul içi ve dışı faaliyetlerini, sosyal ilişkilerini desteklemek gibi etkinliklere yardımcı olmak",
+          "images": [],
+          "text_ar": "المساعدة في أنشطة مثل دعم هواياته واهتماماته وأنشطته داخل المدرسة وخارجها وعلاقاته الاجتماعية"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun karar verme becerilerini geliştirmesine destek olmak",
+          "images": [],
+          "text_ar": "دعم الطفل في تنمية مهارات اتخاذ القرار"
+        },
+        {
+          "letter": "C",
+          "text": "Eğitim programını düzenli aralıklarla yeniden değerlendirmek ve güncellemek",
+          "images": [],
+          "text_ar": "إعادة تقييم البرنامج التعليمي وتحديثه على فترات منتظمة"
+        },
+        {
+          "letter": "D",
+          "text": "Geri bildirim, pekiştirme, tekrarlama ile çocuğun sorununa ilişkin farkındalığını azaltmak",
+          "images": [],
+          "text_ar": "تقليل وعي الطفل بمشكلته من خلال التغذية الراجعة والتعزيز والتكرار"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun gereksinimlerine uygun ve gerçekçi bir eğitim programı düzenlemek.",
+          "images": [],
+          "text_ar": "تنظيم برنامج تعليمي واقعي يلائم احتياجات الطفل."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من التوصيات الموجهة إلى الوالدين والمعلمين في حالة الأطفال المصابين باضطراب التعلم النوعي (ÖÖB)؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Diskalkulisi olan çocuklarla ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bazı aritmetik sembolleri öğrenmekte güçlük yaşarlar.",
+          "images": [],
+          "text_ar": "يجدون صعوبة في تعلم بعض الرموز الحسابية."
+        },
+        {
+          "letter": "B",
+          "text": "Saati öğrenmekte zorlanırlar.",
+          "images": [],
+          "text_ar": "يجدون صعوبة في تعلم الساعة."
+        },
+        {
+          "letter": "C",
+          "text": "Okumada belirgin güçlük yaşarlar",
+          "images": [],
+          "text_ar": "يعانون صعوبة واضحة في القراءة."
+        },
+        {
+          "letter": "D",
+          "text": "Akıl yürütmede zorluk yaşarlar.",
+          "images": [],
+          "text_ar": "يجدون صعوبة في الاستدلال."
+        },
+        {
+          "letter": "E",
+          "text": "Çarpım tablosunu öğrenmekte zorlanırlar.",
+          "images": [],
+          "text_ar": "يجدون صعوبة في تعلم جدول الضرب."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي غير صحيح بشأن الأطفال المصابين بعسر الحساب؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuk gelişim uzmanının özgül öğrenme bozukluğu tanılı çocukların ebeveynlerine yönelik  vereceği önerilerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Geri bildirim, pekiştirme, tekrarlama ile çocuğun sorununa ilişkin farkındalığını arttırmak",
+          "images": [],
+          "text_ar": "زيادة وعي الطفل بمشكلته من خلال التغذية الراجعة والتعزيز والتكرار"
+        },
+        {
+          "letter": "B",
+          "text": "Eğitim programını düzenli aralıklarla yeniden değerlendirmek ve güncellemek",
+          "images": [],
+          "text_ar": "إعادة تقييم البرنامج التعليمي وتحديثه على فترات منتظمة"
+        },
+        {
+          "letter": "C",
+          "text": "Tedavi sürecinin yönetiminde öğretmenlerle işbirliği içinde olmak",
+          "images": [],
+          "text_ar": "التعاون مع المعلمين في إدارة عملية العلاج"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun gereksinimlerine uygun ve gerçekçi bir eğitim programı düzenleyebilmek",
+          "images": [],
+          "text_ar": "القدرة على تنظيم برنامج تعليمي واقعي يلائم احتياجات الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğunuz okumakta ve yazmakta zorlandığında ödevlerini onun yerine yapmak",
+          "images": [],
+          "text_ar": "أداء واجبات الطفل بدلًا عنه عندما يجد صعوبة في القراءة والكتابة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من التوصيات التي يقدمها أخصائي نمو الطفل لوالدي الأطفال المصابين باضطراب التعلم النوعي؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "En sık görülen özgül öğrenme bozukluğu alt tipi hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Diskalkuli",
+          "images": [],
+          "text_ar": "عسر الحساب"
+        },
+        {
+          "letter": "B",
+          "text": "Disgrafi",
+          "images": [],
+          "text_ar": "عسر الكتابة"
+        },
+        {
+          "letter": "C",
+          "text": "Disprozodi",
+          "images": [],
+          "text_ar": "عسر التلحين"
+        },
+        {
+          "letter": "D",
+          "text": "Disleksi",
+          "images": [],
+          "text_ar": "عسر القراءة"
+        },
+        {
+          "letter": "E",
+          "text": "Dispraksi",
+          "images": [],
+          "text_ar": "عسر الأداء"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما النوع الفرعي الأكثر شيوعًا لاضطراب التعلم النوعي؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "49d5de0decd833eee024c756f7a8d16a4e61dc29e5aa5afbf992a2d1098facc2"
+}

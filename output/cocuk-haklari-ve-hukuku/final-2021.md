@@ -3,7 +3,7 @@ course: ÇOCUK HAKLARI VE HUKUKU
 exam: 2021 Final Soruları
 source_url: https://lolonolo.com/2021/01/22/cocuk-haklari-ve-hukuku-2021-final-sorulari/
 question_count: 38
-scraped_at: 2026-11-12T11:32:28+03:00
+scraped_at: 2026-11-12T14:58:14+03:00
 ---
 
 ### Q1

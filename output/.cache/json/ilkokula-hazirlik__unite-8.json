@@ -1,0 +1,442 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "Ünite -8",
+  "exam_slug": "unite-8",
+  "page_title": "İlkokula Hazırlık Ünite -8",
+  "source_url": "https://lolonolo.com/2023/09/20/ilkokula-hazirlik-unite-8/",
+  "scraped_at": "2026-11-12T15:00:59+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Rubin, Fein ve Vanderbeg tarafından sınıflandırılan oyunlardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yapılandırılmış oyun",
+          "images": [],
+          "text_ar": "اللعب المنظم"
+        },
+        {
+          "letter": "B",
+          "text": "Kurallı oyun",
+          "images": [],
+          "text_ar": "اللعب ذو القواعد"
+        },
+        {
+          "letter": "C",
+          "text": "Epistemik oyun",
+          "images": [],
+          "text_ar": "اللعب المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Oyuncu oyun",
+          "images": [],
+          "text_ar": "اللعب الترفيهي"
+        },
+        {
+          "letter": "E",
+          "text": "İş birliğine dayalı oyun",
+          "images": [],
+          "text_ar": "اللعب التعاوني"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي يعد من أنواع اللعب التي صنّفها روبين وفين وفاندربيرغ؟",
+      "review": [
+        "q1.D: «Oyuncu oyun» يقابل «ludic play» في تصنيف روبين وفين وفاندربيرغ؛ نُقل بـ«اللعب الترفيهي» للتمييز عن اللعب المعرفي"
+      ]
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde “Ünsal’ın” sınıflamasını yaptığı “içeriğine göre oyun türleri bir arada ve doğru şekilde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dijital, müzikli, grup oyunları",
+          "images": [],
+          "text_ar": "ألعاب رقمية، موسيقية، جماعية"
+        },
+        {
+          "letter": "B",
+          "text": "Müzikli, açık hava oyunları, kapalı hava oyunları",
+          "images": [],
+          "text_ar": "ألعاب موسيقية، ألعاب الهواء الطلق، ألعاب الأماكن المغلقة"
+        },
+        {
+          "letter": "C",
+          "text": "Riskli, müzikli, parmak oyunları",
+          "images": [],
+          "text_ar": "ألعاب خطرة، موسيقية، ألعاب الأصابع"
+        },
+        {
+          "letter": "D",
+          "text": "Isındırıcı, müzikli, dinlendirici",
+          "images": [],
+          "text_ar": "ألعاب التهيئة، موسيقية، مهدّئة"
+        },
+        {
+          "letter": "E",
+          "text": "Riskli, açık hava oyunları, kapa hava oyunları",
+          "images": [],
+          "text_ar": "ألعاب خطرة، ألعاب الهواء الطلق، ألعاب الأماكن المغلقة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الخيارات الآتية يرد فيها أنواع اللعب وفق مضمونها كما صنّفها أونسال مجتمعةً وعلى نحو صحيح؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Piaget tarafından sınıflandırılan gelişimsel oyunlardan değildir",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşlevsel oyunlar",
+          "images": [],
+          "text_ar": "الألعاب الوظيفية"
+        },
+        {
+          "letter": "B",
+          "text": "Yapı inşa oyunları",
+          "images": [],
+          "text_ar": "ألعاب البناء والتركيب"
+        },
+        {
+          "letter": "C",
+          "text": "Sembolik oyunlar",
+          "images": [],
+          "text_ar": "الألعاب الرمزية"
+        },
+        {
+          "letter": "D",
+          "text": "Kurallı oyunlar",
+          "images": [],
+          "text_ar": "الألعاب ذات القواعد"
+        },
+        {
+          "letter": "E",
+          "text": "-Mış gibi oyun",
+          "images": [],
+          "text_ar": "اللعب التخيلي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أنواع اللعب النمائي التي صنّفها بياجيه؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “Türkçe ve Okuma-Yazmaya Hazırlık” etkinlikleri hazırlanırken kullanılan kazanımlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dili iletişim amacıyla kullanır",
+          "images": [],
+          "text_ar": "يستخدم لغته لأغراض التواصل"
+        },
+        {
+          "letter": "B",
+          "text": "Hece ve kelimeleri öğrenir",
+          "images": [],
+          "text_ar": "يتعلم المقاطع والكلمات"
+        },
+        {
+          "letter": "C",
+          "text": "Okumanın günlük yaşamdaki önemini açıklar",
+          "images": [],
+          "text_ar": "يوضح أهمية القراءة في الحياة اليومية"
+        },
+        {
+          "letter": "D",
+          "text": "Yazının günlük yaşamdaki önemini açıklar",
+          "images": [],
+          "text_ar": "يوضح أهمية الكتابة في الحياة اليومية"
+        },
+        {
+          "letter": "E",
+          "text": "Konuşmak için sırasını bekler",
+          "images": [],
+          "text_ar": "ينتظر دوره ليتكلم"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من مخرجات التعلم المستخدمة عند إعداد أنشطة «التركية والاستعداد للقراءة والكتابة»؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilkokula hazır bulunuşlukta kullanılabilecek oyunlardan yapılarına göre sınıflandırılan oyun türlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hayali oyun",
+          "images": [],
+          "text_ar": "اللعب التخيلي"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyo-dramatik oyun",
+          "images": [],
+          "text_ar": "اللعب الاجتماعي الدرامي"
+        },
+        {
+          "letter": "C",
+          "text": "Grup oyunları",
+          "images": [],
+          "text_ar": "الألعاب الجماعية"
+        },
+        {
+          "letter": "D",
+          "text": "Açık hava oyunları",
+          "images": [],
+          "text_ar": "ألعاب الهواء الطلق"
+        },
+        {
+          "letter": "E",
+          "text": "Dijital oyunlar",
+          "images": [],
+          "text_ar": "الألعاب الرقمية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من أنواع اللعب المصنَّفة وفق بنيتها، والتي يمكن استخدامها في الاستعداد للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Parten tarafından sınıflandırılan Gelişimsel Oyun çeşitleri arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İş birliğine dayalı oyun",
+          "images": [],
+          "text_ar": "اللعب التعاوني"
+        },
+        {
+          "letter": "B",
+          "text": "Tasarımsal oyun",
+          "images": [],
+          "text_ar": "اللعب التصميمي"
+        },
+        {
+          "letter": "C",
+          "text": "Paralel oyun",
+          "images": [],
+          "text_ar": "اللعب المتوازي"
+        },
+        {
+          "letter": "D",
+          "text": "İlişkisel oyun",
+          "images": [],
+          "text_ar": "اللعب الترابطي"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız oyun",
+          "images": [],
+          "text_ar": "اللعب المنفرد"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن أنواع اللعب النمائي التي صنّفها بارتن؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “sanat, okumaya hazırlık ve görsel materyal okuma” etkinlikleri hazırlanırken kullanılan kazanımlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Algıladıklarını hatırlar",
+          "images": [],
+          "text_ar": "يتذكر ما يدركه"
+        },
+        {
+          "letter": "B",
+          "text": "Günlük yaşam sembollerini tanır",
+          "images": [],
+          "text_ar": "يتعرف رموز الحياة اليومية"
+        },
+        {
+          "letter": "C",
+          "text": "Görsel materyalleri okur",
+          "images": [],
+          "text_ar": "يقرأ المواد البصرية"
+        },
+        {
+          "letter": "D",
+          "text": "Eksilen veya eklenen nesneyi söyler",
+          "images": [],
+          "text_ar": "يذكر الشيء الناقص أو المضاف"
+        },
+        {
+          "letter": "E",
+          "text": "Gösterilen sembolün anlamını söyler",
+          "images": [],
+          "text_ar": "يذكر معنى الرمز المعروض"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من مخرجات التعلم المستخدمة عند إعداد أنشطة «الفن والاستعداد للقراءة وقراءة المواد البصرية»؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “Matematik” etkinlikleri hazırlanırken kullanılan kazanımlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eksilen veya eklenen nesneyi söyler.",
+          "images": [],
+          "text_ar": "يذكر الشيء الناقص أو المضاف."
+        },
+        {
+          "letter": "B",
+          "text": "Nesneleri sayar",
+          "images": [],
+          "text_ar": "يعد الأشياء"
+        },
+        {
+          "letter": "C",
+          "text": "Belirtilen sayı kadar nesneyi söyler",
+          "images": [],
+          "text_ar": "يذكر عدد الأشياء المحدد"
+        },
+        {
+          "letter": "D",
+          "text": "Saydığı nesnelerin kaç tane olduğunu söyler",
+          "images": [],
+          "text_ar": "يقول كم عدد الأشياء التي عدّها"
+        },
+        {
+          "letter": "E",
+          "text": "Nesneleri birbiriyle toplar ve çıkarma yapar",
+          "images": [],
+          "text_ar": "يجمع الأشياء بعضها إلى بعض ويجري عملية الطرح"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من مخرجات التعلم المستخدمة عند إعداد أنشطة «الرياضيات»؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "“Isıtıcı, Hareketli ve Dinlendirici oyun” şeklinde sınıflandırılan oyunlar aşağıdakilerden hangi türe girmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hareketlilik derecesine göre oyunlar",
+          "images": [],
+          "text_ar": "حسب درجة الحركة"
+        },
+        {
+          "letter": "B",
+          "text": "İçeriğine göre oyunla",
+          "images": [],
+          "text_ar": "حسب مضمونها"
+        },
+        {
+          "letter": "C",
+          "text": "Yapılarına göre oyunlar",
+          "images": [],
+          "text_ar": "حسب بنيتها"
+        },
+        {
+          "letter": "D",
+          "text": "Oynandığı yere göre oyunlar",
+          "images": [],
+          "text_ar": "حسب مكان اللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Oyunu ortaya koyan kişiye göre oyunlar",
+          "images": [],
+          "text_ar": "حسب الشخص الذي يضع اللعبة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "إلى أي تصنيف من التصنيفات الآتية تندرج الألعاب المصنفة على أنها «ألعاب الإحماء والحركة والاسترخاء»؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilkokul hazırlıkta okul öncesinde bulunan öğrenme merkezleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dramatik oyun merkezi",
+          "images": [],
+          "text_ar": "مركز اللعب الدرامي"
+        },
+        {
+          "letter": "B",
+          "text": "Sanat merkezi",
+          "images": [],
+          "text_ar": "مركز الفن"
+        },
+        {
+          "letter": "C",
+          "text": "Psikoloji merkezi",
+          "images": [],
+          "text_ar": "مركز علم النفس"
+        },
+        {
+          "letter": "D",
+          "text": "Açık hava oyun alanları",
+          "images": [],
+          "text_ar": "ساحات اللعب في الهواء الطلق"
+        },
+        {
+          "letter": "E",
+          "text": "Fen merkezi",
+          "images": [],
+          "text_ar": "مركز العلوم"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يندرج ضمن مراكز التعلم الموجودة في مرحلة ما قبل المدرسة في إطار الاستعداد للمدرسة الابتدائية؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "5fc9e44e2bab4ea226c6a5cd453c4a3efefea1295c9512cd13a367570c85f367"
+}

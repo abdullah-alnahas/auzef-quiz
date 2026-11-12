@@ -1,0 +1,439 @@
+{
+  "course": "ÇOCUK HAKLARI VE HUKUKU",
+  "course_slug": "cocuk-haklari-ve-hukuku",
+  "exam": "Ünite 5",
+  "exam_slug": "unite-5",
+  "page_title": "Çocuk Hakları ve Hukuku Ünite 5",
+  "source_url": "https://lolonolo.com/2022/11/13/cocuk-haklari-ve-hukuku-unite-5/",
+  "scraped_at": "2026-11-12T15:00:55+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "I. Tam evlat edinmede, evlatlık ile evlat edinen arasında, evlilik içerisinde meydana gelen kan bağına dayanan soybağı ilişkisinin tamamen aynısı meydana gelir. II. Sınırlı evlat edinme de bir taraftan evlatlık ile asıl ailesi arasındaki ilişki sınırlı da olsa devam ederken diğer taraftan evlatlık ile evlat edinen arasında sınırlı bir hısımlık ilişkisi meydana gelir. III. Evlatlık, sadece evlat edinen ile hısım olur. Yukarıda verilen bilgilerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "D",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. في التبني الكامل تنشأ بين المتبنى والمتبنّي علاقة نسب مماثلة تمامًا لعلاقة النسب القائمة على رابطة الدم داخل الزواج.\nII. في التبني المحدود، تستمر العلاقة بين المتبنى وأسرته الأصلية ولو بصورة محدودة من ناحية، وتنشأ بين المتبنى والمتبنّي علاقة قرابة محدودة من ناحية أخرى.\nIII. لا يصبح المتبنى قريبًا إلا للمتبنّي.\nأي مما سبق أو أيها من المعلومات المذكورة صحيح؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "I. Evlat edinme kararının kesinleşmesi ile birlikte, asıl ana babaya ait olan velayet hakkı sona erer ve bu hak evlat edinene geçer. II. Evlat edinme ile birlikte çocuğun bakım, giyim, besleme, sağlık ve eğitim gibi giderlerini karşılama yükümlülüğünü devlet yerine getirir. Yukarıda verilen bilgilerden hangileri yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. مع اكتساب قرار التبني قوة الأمر المقضي، ينتهي حق الحضانة الذي كان للأم والأب الأصليين وينتقل هذا الحق إلى المتبنّي.\nII. مع التبني، تتولى الدولة الالتزام بتغطية نفقات الطفل كالرعاية والكسوة والإعالة والصحة والتعليم.\nأي من المعلومات السابقة غير صحيح؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "I. Evlat edinme ile birlikte evlatlığın kendi ailesi ile soybağı ilişkisi sona erer. II. Ana ve babanın rızası, çocuğun doğumundan itibaren altı hafta geçmeden verilemez. III. Ana ve babanın küçüğün evlat edinilmesine yönelik rızaları kesin olmalıdır. Yukarıda çocuğun ana ve babasının çocuğun evlat edinilmesinde göstermesi gereken rızayla ilgili verilen bilgilerden hangisi veya hangileri yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "I. مع التبني تنتهي علاقة النسب بين المتبنى وأسرته.\nII. لا يجوز إعطاء رضا الأم والأب قبل مرور ستة أسابيع من ولادة الطفل.\nIII. يجب أن يكون رضا الأم والأب بتبني القاصر رضا نهائيًا.\nأي مما سبق أو أيها من المعلومات المذكورة عن الرضا الذي يجب أن تبديه الأم والأب في تبني الطفل غير صحيح؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi küçüklerin evlat edinilebilmesi için gerekli olan genel şartlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Küçük olma",
+          "images": [],
+          "text_ar": "أن يكون قاصرًا"
+        },
+        {
+          "letter": "B",
+          "text": "Küçüğün evlat edinilmeden önce bir yıl süre ile bakılmış ve eğitilmiş olması gerekir.",
+          "images": [],
+          "text_ar": "يجب أن يكون القاصر قد رُعي وتربّى مدة سنة قبل تبنيه."
+        },
+        {
+          "letter": "C",
+          "text": "Küçüğün üstün yararına uygun olması",
+          "images": [],
+          "text_ar": "أن يكون التبني مطابقًا للمصلحة الفضلى للقاصر"
+        },
+        {
+          "letter": "D",
+          "text": "Evlat edinenin diğer çocuklarının haklarının zedelenmemesi",
+          "images": [],
+          "text_ar": "ألا تتضرر حقوق أطفال المتبنّي الآخرين"
+        },
+        {
+          "letter": "E",
+          "text": "Evlat edinilen bir çocuk başkası tarafından tekrar evlat edinilebilir.",
+          "images": [],
+          "text_ar": "يمكن أن يُتبنى الطفل المتبنى مرة أخرى من شخص آخر."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من الشروط العامة اللازمة لتبني القاصرين؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "I. Evli olmayan kişiler birlikte evlât edinebilirler. II. Eşlerin evlat edinebilmeleri için en az üç yıldır evli olmaları gerekir. III. Eşlerin evlat edinebilmeleri için her ikisinin de otuz yaşını doldurmuş olması gerekir. Yukarıda verilen bilgilerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "E",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "I. يمكن للأشخاص غير المتزوجين أن يتبنوا معًا.\nII. لكي يتمكن الزوجان من التبني، يجب أن يكونا متزوجين منذ ثلاث سنوات على الأقل.\nIII. لكي يتمكن الزوجان من التبني، يجب أن يكون كل منهما قد أتم الثلاثين من عمره.\nأي مما سبق أو أيها من المعلومات المذكورة صحيح؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "I. Evlat edinme işlemi ile ilgili tüm belge ve kayıtlar mahkeme kararı olmadığı sürece ya da evlatlık istemedikçe açıklanamaz. II. Evlatlık ilişkisinin sona erdirilmesi kararı ancak mahkeme tarafından verilebilir. III. Evlat edinmeye rıza verilmiş olmakla birlikte verilen rıza geçersiz ise yine evlat edinme işlemi iptal edilebilir. Evlat edinme ilişkisinin kaldırılması ve kurulması ile ilgili yukarıda verilen bilgilerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "E",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. لا يجوز الكشف عن جميع الوثائق والسجلات المتعلقة بعملية التبني ما لم يوجد حكم قضائي أو ما لم يطلب المتبنى ذلك.\nII. لا يجوز أن يصدر قرار إنهاء علاقة التبني إلا من المحكمة.\nIII. إذا أُعطي الرضا بالتبني وكان هذا الرضا باطلًا، فإنه يمكن إبطال عملية التبني أيضًا.\nأي مما سبق أو أيها من المعلومات المذكورة عن إقامة علاقة التبني وإزالتها صحيح؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "I. Evlat edinilen küçük ise evlat edinen isterse küçüğe yeni bir isim verebilir. II. Evlat edinilen çocuk, evlat edinenin soyadını alır. III. Evlat edinme evlatlık ile evlat edinen arasında bir soybağı ilişkisi kurar. IV. Evlat edinen ile evlatlık veya onlardan biri ile diğerinin altsoyu ve eşi arasında kesin evlenme engeli doğmaz. Yukarıda evlat edinme ilişkisinin sonuçlarıyla ilgili verilen bilgilerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, II, III, IV",
+          "images": [],
+          "text_ar": "I وII وIII وIV"
+        },
+        {
+          "letter": "B",
+          "text": "I, II, III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. إذا كان المتبنى قاصرًا، جاز للمتبنّي أن يمنحه اسمًا جديدًا إن أراد.\nII. يأخذ الطفل المتبنى لقب عائلة المتبنّي.\nIII. ينشئ التبني علاقة نسب بين المتبنى والمتبنّي.\nIV. لا ينشأ مانع مطلق من الزواج بين المتبنّي والمتبنى أو بين أحدهما وفروع الآخر وزوجه.\nأي مما سبق أو أيها من المعلومات المذكورة عن نتائج علاقة التبني صحيح؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "I. Evli olmayan kişi yirmi sekiz yaşını doldurmuş ise tek başına evlât edinebilir. II. Evlat edinen ile evlatlık arasında on sekiz yaş fark olması gerekir. III. Ayırt etme gücüne sahip olan küçük, rızası olmadıkça evlât edinilemez. Yukarıda verilen bilgilerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. يجوز للشخص غير المتزوج أن يتبنى بمفرده إذا أتم الثامنة والعشرين من عمره.\nII. يجب أن يكون بين المتبنّي والمتبنى فارق عمري قدره ثمانية عشر عامًا.\nIII. لا يجوز تبني القاصر الذي يملك قدرة التمييز دون رضاه.\nأي مما سبق أو أيها من المعلومات المذكورة صحيح؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "I. Evlat edinme kan bağı esasına dayanır. II. Evlat edinmedeki amaç, çocuk sahibi olamayan kişilerin çocuk sevgisini tadarak ana-baba olma sevincini yaşamaları, böylece soylarını devam ettirerek miraslarına kendi soylarına bırakabilmeleridir. III. Evlat edinmedeki amaç, evlilik dışı çocukların aile ilişkisi içerisinde yetişmelerinin sağlanması ve böylece kendilerine destek olunmasıdır. Yukarıda verilen bilgilerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "C",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. يقوم التبني على أساس رابطة الدم.\nII. الهدف من التبني هو أن يتذوق الأشخاص الذين لا يستطيعون الإنجاب حلاوة حب الأطفال ويعيشوا فرحة الأبوة والأمومة، فيواصلوا بذلك نسلهم ويتركوا ميراثهم لنسلهم.\nIII. الهدف من التبني هو ضمان نشأة الأطفال المولودين خارج الزواج داخل علاقة أسرية، وتقديم الدعم لهم بذلك.\nأي مما سبق أو أيها من المعلومات المذكورة صحيح؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eski Çin, Hint, Yunan, Asur, Babil, Sümer, İran, Mısır ve Roma hukuklarında evlat edinme kurumunun kabul edildiği görülmektedir.",
+          "images": [],
+          "text_ar": "يُلاحظ أن مؤسسة التبني كانت معتمدة في القوانين القديمة للصين والهند واليونان وآشور وبابل وسومر وإيران ومصر وروما."
+        },
+        {
+          "letter": "B",
+          "text": "İslamiyet sonrası Türk toplumunda ve hukukunda evlat edinme kurumuna resmi olarak rastlanır.",
+          "images": [],
+          "text_ar": "تُوجد مؤسسة التبني رسميًا في المجتمع والقانون التركيين بعد الإسلام."
+        },
+        {
+          "letter": "C",
+          "text": "Roma hukukunda evlat edinmenin adrogatio ve adoptio olarak isimlendirilen iki farklı uygulamasının olduğu bilinmektedir.",
+          "images": [],
+          "text_ar": "من المعروف أن للتبني في القانون الروماني تطبيقين مختلفين يُسمّيان adrogatio وadoptio."
+        },
+        {
+          "letter": "D",
+          "text": "Dinin toplum üzerindeki etkisinin azalması ile birlikte evlat edinme dini kimlikten soyutlanmış ve duygusal, iktisadi ve sosyal amaçlar evlat edinmede ön plana çıkmıştır.",
+          "images": [],
+          "text_ar": "مع تراجع تأثير الدين في المجتمع، تجرّد التبني من الهوية الدينية وبرزت الأهداف العاطفية والاقتصادية والاجتماعية في التبني."
+        },
+        {
+          "letter": "E",
+          "text": "Evlat edinme kurumu özellikle birinci dünya savaşından sonra öksüz kalan çocukların korunması ve gözetim altına alınması amacı ile Fransa’da yaygınlaşmıştır.",
+          "images": [],
+          "text_ar": "انتشرت مؤسسة التبني بشكل خاص بعد الحرب العالمية الأولى في فرنسا بهدف حماية الأطفال الذين فقدوا آباءهم ووضعهم تحت الرعاية."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من المعلومات التالية غير صحيحة؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "cd2571a2f02837f8805f53921e993921ae19e6f3b5179e797e828b2bcc89aa05"
+}

@@ -1,0 +1,439 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -4",
+  "exam_slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-4",
+  "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -4",
+  "source_url": "https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-4/",
+  "scraped_at": "2026-11-12T15:01:06+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme ve değerlendirme sonucunun raporlanması neden önemlidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçüm yanlışlarının tespitini sağlar.",
+          "images": [],
+          "text_ar": "تتيح كشف أخطاء القياس."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun test sonuçlarını öğrenmesini sağlar.",
+          "images": [],
+          "text_ar": "تتيح للطفل معرفة نتائج اختباره."
+        },
+        {
+          "letter": "C",
+          "text": "Öğrenilen bilginin anlamlı bir bütün haline getirilmesini sağlar.",
+          "images": [],
+          "text_ar": "تتيح تحويل المعلومات المكتسبة إلى كل ذي معنى."
+        },
+        {
+          "letter": "D",
+          "text": "Test sonuçlarının gizli kalmasını sağlar.",
+          "images": [],
+          "text_ar": "تضمن بقاء نتائج الاختبار سرية."
+        },
+        {
+          "letter": "E",
+          "text": "İlgili uzmanın memnun olmasını sağlar.",
+          "images": [],
+          "text_ar": "تضمن رضا الأخصائي المعني."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "لماذا تُعدّ كتابة تقرير نتيجة القياس والتقييم مهمة؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme ve değerlendirme yapan biri etik olarak hangi yeterliliği taşımalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Standarda uygun ölçüm yapabilme",
+          "images": [],
+          "text_ar": "القدرة على إجراء قياس مطابق للمعيار"
+        },
+        {
+          "letter": "B",
+          "text": "Esneklik",
+          "images": [],
+          "text_ar": "المرونة"
+        },
+        {
+          "letter": "C",
+          "text": "Güçlü kişilik",
+          "images": [],
+          "text_ar": "شخصية قوية"
+        },
+        {
+          "letter": "D",
+          "text": "Sessiz bir şekilde çalışabilme",
+          "images": [],
+          "text_ar": "القدرة على العمل في صمت"
+        },
+        {
+          "letter": "E",
+          "text": "Yeni testleri hızlı öğrenebilme",
+          "images": [],
+          "text_ar": "القدرة على تعلم الاختبارات الجديدة بسرعة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي كفاءة ينبغي أن يمتلكها من يقوم بالقياس والتقييم من الناحية الأخلاقية؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçme ve değerlendirme yaptıran kişinin haklarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilgilendirilme hakkı",
+          "images": [],
+          "text_ar": "حق الحصول على المعلومات"
+        },
+        {
+          "letter": "B",
+          "text": "Gizlilik hakkı",
+          "images": [],
+          "text_ar": "حق السرية"
+        },
+        {
+          "letter": "C",
+          "text": "Saygılı hizmet alma hakkı",
+          "images": [],
+          "text_ar": "حق تلقي خدمة قائمة على الاحترام"
+        },
+        {
+          "letter": "D",
+          "text": "Test geliştirme hakkı",
+          "images": [],
+          "text_ar": "حق تطوير الاختبارات"
+        },
+        {
+          "letter": "E",
+          "text": "Yeterli hizmet alma hakkı",
+          "images": [],
+          "text_ar": "حق تلقي خدمة كافية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من حقوق الشخص الذي يُجرى له القياس والتقييم؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Değerlendirme raporunun içeriği konusunda aileye bilgi verilirken özellikle neye dikkat edilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukla oyun oynamaya",
+          "images": [],
+          "text_ar": "اللعب مع الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Görüşmenin çok kısa tutulmasına",
+          "images": [],
+          "text_ar": "أن تكون المقابلة قصيرة جدًا"
+        },
+        {
+          "letter": "C",
+          "text": "Tüm aile üyelerinin orada olmasına",
+          "images": [],
+          "text_ar": "أن يكون جميع أفراد الأسرة حاضرين"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukla ilgili olumlu bir dil kullanmaya",
+          "images": [],
+          "text_ar": "استخدام لغة إيجابية بشأن الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Gerçekleri gizlemeye",
+          "images": [],
+          "text_ar": "إخفاء الحقائق"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "بأي شيء ينبغي الاهتمام بشكل خاص عند إبلاغ الأسرة بمحتوى تقرير التقييم؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme ve değerlendirme raporları için hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Raporun dili kime ve ne amaçla yazıldığına göre farklılıklar gösterir.",
+          "images": [],
+          "text_ar": "تختلف لغة التقرير باختلاف من كُتب له ولغرض كتابته."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun diliyle yazılmış gibi ifadelerden oluşur.",
+          "images": [],
+          "text_ar": "تتكون من عبارات مكتوبة بلغة الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Ailenin çocukla ilgili düşüncelerini destekler.",
+          "images": [],
+          "text_ar": "تدعم آراء الأسرة بشأن الطفل."
+        },
+        {
+          "letter": "D",
+          "text": "Adli amaçla rapor yazılamaz.",
+          "images": [],
+          "text_ar": "لا يمكن كتابة تقرير لغرض قضائي."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun tüm geçmiş bilgisi raporda yer alır.",
+          "images": [],
+          "text_ar": "تتضمن جميع المعلومات التاريخية عن الطفل في التقرير."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي صحيح بشأن تقارير القياس والتقييم؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçme ve değerlendirme raporu yazılmasının amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yönlendirme sebebine yönelik uygun açıklamalar üretilmesi",
+          "images": [],
+          "text_ar": "إنتاج تفسيرات مناسبة لسبب الإحالة"
+        },
+        {
+          "letter": "B",
+          "text": "Bireyin psikolojik durumunu tanımlanması",
+          "images": [],
+          "text_ar": "وصف الحالة النفسية للفرد"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun güçlü yanlarının belirlenip çözüm için kullanılması",
+          "images": [],
+          "text_ar": "تحديد جوانب القوة لدى الطفل واستخدامها في الحل"
+        },
+        {
+          "letter": "D",
+          "text": "Problemlere yönelik bilimsel olarak kanıtlanmış öneriler sunulması",
+          "images": [],
+          "text_ar": "تقديم توصيات مدعومة علميًا للمشكلات"
+        },
+        {
+          "letter": "E",
+          "text": "Ailenin arzu ettiği şekilde bir içerik üretilmesi.",
+          "images": [],
+          "text_ar": "إنتاج محتوى وفق ما ترغب فيه الأسرة."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أهداف كتابة تقرير القياس والتقييم؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Değerlendirme raporunun özet ve öneriler kısmı için hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Teknik bir dille yazılmış olmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يكون مكتوبًا بلغة تقنية."
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirmede öğrenilen tüm bilgileri içerir.",
+          "images": [],
+          "text_ar": "يتضمن جميع المعلومات المكتسبة في التقييم."
+        },
+        {
+          "letter": "C",
+          "text": "Kısa ve net cümleler kullanılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي استخدام جمل قصيرة وواضحة."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun sorununun ne olduğu yönünde hipotezler sıralanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي سرد الفرضيات حول ماهية مشكلة الطفل."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun kimlik bilgilerini içermelidir.",
+          "images": [],
+          "text_ar": "ينبغي أن يتضمن البيانات التعريفية للطفل."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي صحيح بشأن قسم الملخص والتوصيات في تقرير التقييم؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi psikolojik değerlendirme raporlarının içeriğini oluşturmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanımlayıcı bilgiler",
+          "images": [],
+          "text_ar": "المعلومات الوصفية"
+        },
+        {
+          "letter": "B",
+          "text": "Yüzdelik normlar",
+          "images": [],
+          "text_ar": "المعايير المئينية"
+        },
+        {
+          "letter": "C",
+          "text": "Geçmiş bilgisi",
+          "images": [],
+          "text_ar": "معلومات الخلفية"
+        },
+        {
+          "letter": "D",
+          "text": "Özet ve öneriler",
+          "images": [],
+          "text_ar": "الملخص والتوصيات"
+        },
+        {
+          "letter": "E",
+          "text": "Yönlendirme nedeni",
+          "images": [],
+          "text_ar": "سبب الإحالة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يشكّل محتوى تقارير التقييم النفسي؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme ve değerlendirme konusunda etik çalışan bir uygulayıcı hangisini yapar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yeterli bilgisi olmadığı testleri uygulayarak para kazanır.",
+          "images": [],
+          "text_ar": "يكسب المال بتطبيق اختبارات لا يملك معرفة كافية بها."
+        },
+        {
+          "letter": "B",
+          "text": "Standarda uygun olmayan uygulamayı sonuç raporunda yazar.",
+          "images": [],
+          "text_ar": "يكتب في تقرير النتائج التطبيق الذي لا يتوافق مع المعيار."
+        },
+        {
+          "letter": "C",
+          "text": "Test prosedürü konusunda çocuğa yalan söyler.",
+          "images": [],
+          "text_ar": "يكذب على الطفل بشأن إجراء الاختبار."
+        },
+        {
+          "letter": "D",
+          "text": "Testlerle kafasındaki hipotezi doğrulamaya çalışır.",
+          "images": [],
+          "text_ar": "يحاول إثبات فرضيته باستخدام الاختبارات."
+        },
+        {
+          "letter": "E",
+          "text": "Tecrübesi olmayan testleri seçerek deneyim kazanır.",
+          "images": [],
+          "text_ar": "يكتسب الخبرة باختيار اختبارات لا خبرة له بها."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي يفعله المطبّق الذي يعمل وفق الأخلاقيات في القياس والتقييم؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçme ve değerlendirmenin etik kurallarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilgilendirilme hakkı",
+          "images": [],
+          "text_ar": "حق الحصول على المعلومات"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğa uygun testin seçilmesi",
+          "images": [],
+          "text_ar": "اختيار الاختبار المناسب للطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Uygulayıcının uygulamada yeterli olması",
+          "images": [],
+          "text_ar": "كون المطبّق كفؤًا في التطبيق"
+        },
+        {
+          "letter": "D",
+          "text": "Uygulamanın standartlara uygun olması",
+          "images": [],
+          "text_ar": "مطابقة التطبيق للمعايير"
+        },
+        {
+          "letter": "E",
+          "text": "Ucuz olması",
+          "images": [],
+          "text_ar": "كونه غير مكلف"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من القواعد الأخلاقية للقياس والتقييم؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "35d881c67b24f3e82436168db2c9d5d2694d9e3abcdae1df0608f4776ac0a88f"
+}

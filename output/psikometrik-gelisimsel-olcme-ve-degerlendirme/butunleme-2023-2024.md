@@ -3,7 +3,7 @@ course: PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME
 exam: 2023-2024 Bütünleme Soruları
 source_url: https://lolonolo.com/2024/12/23/psikometrik-gelisimsel-olcme-ve-degerlendirme-2023-2024-butunleme/
 question_count: 20
-scraped_at: 2026-11-12T11:32:46+03:00
+scraped_at: 2026-11-12T14:58:30+03:00
 ---
 
 ### Q1

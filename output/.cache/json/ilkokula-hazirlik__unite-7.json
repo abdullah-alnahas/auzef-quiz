@@ -1,0 +1,442 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "Ünite -7",
+  "exam_slug": "unite-7",
+  "page_title": "İlkokula Hazırlık Ünite -7",
+  "source_url": "https://lolonolo.com/2023/09/19/ilkokula-hazirlik-unite-7/",
+  "scraped_at": "2026-11-12T15:00:59+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi ilkokula hazırlık sürecinde çocuklardaki temel gelişimsel özelliklerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olgunlaşma",
+          "images": [],
+          "text_ar": "النضج"
+        },
+        {
+          "letter": "B",
+          "text": "Duygusal gelişim",
+          "images": [],
+          "text_ar": "النمو العاطفي"
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal gelişim",
+          "images": [],
+          "text_ar": "النمو الاجتماعي"
+        },
+        {
+          "letter": "D",
+          "text": "Uyum sağlama",
+          "images": [],
+          "text_ar": "التكيف"
+        },
+        {
+          "letter": "E",
+          "text": "Dil gelişimi",
+          "images": [],
+          "text_ar": "تطور اللغة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الخيارات الآتية ليس من الخصائص النمائية الأساسية عند الأطفال في عملية الاستعداد للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi test dışı tekniklerden gözlem tekniğinde kullanılabilecek “iyi bir gözlemci” olmaya yönelik adımlar arasında yer alamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözlemlenecek olaya spontane karar vermeli",
+          "images": [],
+          "text_ar": "أن يقرر بعفوية الحدث الذي ستُجرى ملاحظته"
+        },
+        {
+          "letter": "B",
+          "text": "Görme ve işitme duyularının sağlıklı olması",
+          "images": [],
+          "text_ar": "أن تكون حاستا البصر والسمع سليمتين"
+        },
+        {
+          "letter": "C",
+          "text": "Kendi duygu ve ön yargılarını bırakması",
+          "images": [],
+          "text_ar": "أن يتخلى عن مشاعره وتحيزاته"
+        },
+        {
+          "letter": "D",
+          "text": "Dikkat becerisinin olması",
+          "images": [],
+          "text_ar": "أن يمتلك مهارة الانتباه"
+        },
+        {
+          "letter": "E",
+          "text": "Eğitimli ve deneyimli olmalı",
+          "images": [],
+          "text_ar": "أن يكون مدربًا وذا خبرة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا يندرج ضمن خطوات أن يكون المرء «ملاحظًا جيدًا» في تقنية الملاحظة، إحدى التقنيات غير الاختبارية؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki bölümlerden hangisi “Metropolitan Okul Olgunluğu” testine ait bölümlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cümleler",
+          "images": [],
+          "text_ar": "الجمل"
+        },
+        {
+          "letter": "B",
+          "text": "Eşleştirme",
+          "images": [],
+          "text_ar": "المطابقة"
+        },
+        {
+          "letter": "C",
+          "text": "Sayılar",
+          "images": [],
+          "text_ar": "الأعداد"
+        },
+        {
+          "letter": "D",
+          "text": "Harfler",
+          "images": [],
+          "text_ar": "الحروف"
+        },
+        {
+          "letter": "E",
+          "text": "Kelime anlama",
+          "images": [],
+          "text_ar": "فهم الكلمات"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الأقسام الآتية ليس من أقسام اختبار متروبوليتان للنضج المدرسي؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi ilkokula hazırlığın değerlendirilmesi sürecinde uzmanların uyması gereken prensiplerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçme araçlarının gelişimsel özelliklere uygun olmas",
+          "images": [],
+          "text_ar": "أن تكون أدوات القياس ملائمة للخصائص النمائية"
+        },
+        {
+          "letter": "B",
+          "text": "Mahremiyet güvencesi",
+          "images": [],
+          "text_ar": "ضمان الخصوصية"
+        },
+        {
+          "letter": "C",
+          "text": "Bireyi tanıma tekniklerinin araç olması",
+          "images": [],
+          "text_ar": "أن تكون تقنيات التعرف على الفرد وسيلة"
+        },
+        {
+          "letter": "D",
+          "text": "Fırsat eşitliği",
+          "images": [],
+          "text_ar": "تكافؤ الفرص"
+        },
+        {
+          "letter": "E",
+          "text": "Tek ölçme aracının kullanılması",
+          "images": [],
+          "text_ar": "استخدام أداة قياس واحدة فقط"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي الخيارات الآتية ليس من المبادئ التي ينبغي أن يلتزم بها الخبراء في عملية تقييم الاستعداد للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi ilkokula hazırlık sürecinde çocuklardaki temel gelişimsel özelliklerden “olgunlaşmanın” içinde yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öz bakım becerileri",
+          "images": [],
+          "text_ar": "مهارات العناية بالذات"
+        },
+        {
+          "letter": "B",
+          "text": "Okuma-yazma becerileri",
+          "images": [],
+          "text_ar": "مهارات القراءة والكتابة"
+        },
+        {
+          "letter": "C",
+          "text": "Bedensel gelişim",
+          "images": [],
+          "text_ar": "النمو الجسدي"
+        },
+        {
+          "letter": "D",
+          "text": "Kağıt kesebilme becerileri",
+          "images": [],
+          "text_ar": "مهارات قص الورق"
+        },
+        {
+          "letter": "E",
+          "text": "İnce ve kalın kas kullanma becerileri",
+          "images": [],
+          "text_ar": "مهارات استخدام العضلات الدقيقة والغليظة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي الخيارات الآتية لا يندرج ضمن «النضج» من الخصائص النمائية الأساسية عند الأطفال في عملية الاستعداد للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Hazırbulunuşluğu değerlendirmede kullanılabilen alternatif değerlendirme yöntemleri aşağıdaki seçeneklerden hangisi gibi sınıflandırılmaktadı",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözleme dayalı",
+          "images": [],
+          "text_ar": "القائمة على الملاحظة"
+        },
+        {
+          "letter": "B",
+          "text": "Testlere dayalı ve anketlere dayalı",
+          "images": [],
+          "text_ar": "القائمة على الاختبارات والقائمة على الاستبيانات"
+        },
+        {
+          "letter": "C",
+          "text": "Ölçmeye dayalı ve ölçmeye dayalı olmayan",
+          "images": [],
+          "text_ar": "القائمة على القياس وغير القائمة على القياس"
+        },
+        {
+          "letter": "D",
+          "text": "Ölçmeye dayalı ve gözleme dayalı",
+          "images": [],
+          "text_ar": "القائمة على القياس والقائمة على الملاحظة"
+        },
+        {
+          "letter": "E",
+          "text": "Test dışı ve test içi",
+          "images": [],
+          "text_ar": "خارج الاختبار وداخل الاختبار"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الخيارات الآتية يمثّل تصنيف أساليب التقييم البديلة التي يمكن استخدامها في تقييم الاستعداد؟",
+      "review": [
+        "q6.stem: عبارة المصدر مقطوعة في آخرها («sınıflandırılmaktadı»)؛ نُقلت بمعنى سؤال التصنيف"
+      ]
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki hazırbulunuşluğu değerlendirme tekniklerinden hangisi “Test Dışı Teknikler” arasında yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlkokula hazırbulunuşluk ölçeği",
+          "images": [],
+          "text_ar": "مقياس الاستعداد للمدرسة الابتدائية"
+        },
+        {
+          "letter": "B",
+          "text": "Marmara ilköğretime hazırbulunuşluk ölçeği",
+          "images": [],
+          "text_ar": "مقياس مرمرة للاستعداد للتعليم الابتدائي"
+        },
+        {
+          "letter": "C",
+          "text": "Mülakat ve anketler",
+          "images": [],
+          "text_ar": "المقابلات والاستبيانات"
+        },
+        {
+          "letter": "D",
+          "text": "Erken okuryazarlık becerilerini değerlendirme",
+          "images": [],
+          "text_ar": "تقييم مهارات القراءة والكتابة المبكرة"
+        },
+        {
+          "letter": "E",
+          "text": "Metropolitan okul olgunluğu testi",
+          "images": [],
+          "text_ar": "اختبار متروبوليتان للنضج المدرسي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي تقنيات تقييم الاستعداد الآتية يندرج ضمن «التقنيات غير الاختبارية»؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde gözlem listesi kullanmanın avantajlarından biri yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğretmene yardımcı olma",
+          "images": [],
+          "text_ar": "مساعدة المعلم"
+        },
+        {
+          "letter": "B",
+          "text": "Öğrencilerin kavga etme nedenlerini ortaya koyma",
+          "images": [],
+          "text_ar": "بيان أسباب تشاجر الطلاب"
+        },
+        {
+          "letter": "C",
+          "text": "Gözlemlenen olaya kolay odaklanma",
+          "images": [],
+          "text_ar": "سهولة التركيز على الحدث الملاحَظ"
+        },
+        {
+          "letter": "D",
+          "text": "Öğrenciyle ilgili bilgi toplama",
+          "images": [],
+          "text_ar": "جمع المعلومات عن الطالب"
+        },
+        {
+          "letter": "E",
+          "text": "Bir grubun özelliklerini tanımlama",
+          "images": [],
+          "text_ar": "وصف خصائص مجموعة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي الخيارات الآتية لا يندرج ضمن مزايا استخدام قائمة الملاحظة؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki hazırbulunuşluğu değerlendirme tekniklerinden hangisi “Test Dışı Teknikler” arasında yer alamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözlem",
+          "images": [],
+          "text_ar": "الملاحظة"
+        },
+        {
+          "letter": "B",
+          "text": "Özellik/ kayıt çizelgesi",
+          "images": [],
+          "text_ar": "جدول الخصائص/التسجيل"
+        },
+        {
+          "letter": "C",
+          "text": "Olay/ vaka kaydı",
+          "images": [],
+          "text_ar": "تسجيل الأحداث/الحالات"
+        },
+        {
+          "letter": "D",
+          "text": "Mülakat",
+          "images": [],
+          "text_ar": "المقابلة"
+        },
+        {
+          "letter": "E",
+          "text": "Ölçekler",
+          "images": [],
+          "text_ar": "المقاييس"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي تقنيات تقييم الاستعداد الآتية لا يندرج ضمن «التقنيات غير الاختبارية»؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Hazırbulunuşluğun değerlendirilmesi sürecinde temel alınması gereken ilkelerden biri aşağıdaki seçeneklerden hangisinde yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikolojik özelliklerin belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد الخصائص النفسية"
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirme kriterlerinin belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد معايير التقييم"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa ait ölçülmesi gereken özelliklerin belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد الخصائص التي ينبغي قياسها لدى الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Gözlemin hangi araçlarla yapılacağının belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد الأدوات التي تُجرى بها الملاحظة"
+        },
+        {
+          "letter": "E",
+          "text": "Gözlemin kim tarafından yapılacağının belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد من يُجري الملاحظة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي الخيارات الآتية لا يرد فيه أحد المبادئ التي ينبغي أن يُستند إليها في عملية تقييم الاستعداد؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "3c1f3932b315bcc27f18062181c5f2e370a419f361b266884a3cea4bd7fa5ad0"
+}

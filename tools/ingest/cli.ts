@@ -29,6 +29,7 @@ interface ManifestEntry {
   exam: string;
   exam_slug: string;
   type?: string;
+  mock?: boolean;
   file: string;
   question_count: number;
   review_flags: number;
@@ -43,6 +44,8 @@ const EXAM_TYPES = new Set<ExamType>([
   "butunleme",
   "yaz-okulu",
   "uc-ders",
+  "unite",
+  "deneme",
   "unknown",
 ]);
 
@@ -130,6 +133,7 @@ async function main(): Promise<number> {
       course: entry.course,
       exam: entry.exam,
       type: examType(entry.type),
+      mock: Boolean(entry.mock),
       questionCount: parsed.exam.questionCount,
       contentHash: parsed.exam.contentHash,
       reviewFlags: parsed.exam.questions.reduce((n, q) => n + q.review.length, 0),

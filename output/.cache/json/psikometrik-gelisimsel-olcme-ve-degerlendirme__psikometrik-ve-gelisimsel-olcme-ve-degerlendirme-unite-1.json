@@ -1,0 +1,439 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -1",
+  "exam_slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-1",
+  "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -1",
+  "source_url": "https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-1/",
+  "scraped_at": "2026-11-12T15:01:05+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Okul ortamında arkadaşları ile sorun yaşayan bir çocuğun değerlendirmesinde hangi yöntem öncelikli olarak tercih edilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul gözlemi",
+          "images": [],
+          "text_ar": "الملاحظة المدرسية"
+        },
+        {
+          "letter": "B",
+          "text": "Ebeveyn görüşmesi",
+          "images": [],
+          "text_ar": "مقابلة الوالدين"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa test uygulanması",
+          "images": [],
+          "text_ar": "تطبيق اختبار على الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Arkadaşlarına test uygulanması",
+          "images": [],
+          "text_ar": "تطبيق اختبار على أقرانه"
+        },
+        {
+          "letter": "E",
+          "text": "Rol oynama yöntemi",
+          "images": [],
+          "text_ar": "طريقة لعب الأدوار"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي طريقة ينبغي تفضيلها أولًا في تقييم طفل يواجه مشكلات مع أقرانه في بيئة المدرسة؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ölçek tiplerinden hangisi hesaplama ve istatistiklerde kullanım için en uygundur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eşit aralıklı ölçekler",
+          "images": [],
+          "text_ar": "مقاييس الفترات المتساوية"
+        },
+        {
+          "letter": "B",
+          "text": "Eşit oranlı ölçekler",
+          "images": [],
+          "text_ar": "مقاييس النسب المتساوية"
+        },
+        {
+          "letter": "C",
+          "text": "Sınıflama ölçekleri",
+          "images": [],
+          "text_ar": "مقاييس التصنيف"
+        },
+        {
+          "letter": "D",
+          "text": "Sıralama ölçekleri",
+          "images": [],
+          "text_ar": "مقاييس الترتيب"
+        },
+        {
+          "letter": "E",
+          "text": "Sayısal ölçekler",
+          "images": [],
+          "text_ar": "المقاييس العددية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من أنواع المقاييس التالية أنسب للاستخدام في الحسابات والإحصاءات؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçüm işleminin yapıldığı yerin özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yeterli ışık alması",
+          "images": [],
+          "text_ar": "أن يحصل على إضاءة كافية"
+        },
+        {
+          "letter": "B",
+          "text": "Sessiz olması",
+          "images": [],
+          "text_ar": "أن يكون هادئًا"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun rahat olabileceği şekilde tasarlanması",
+          "images": [],
+          "text_ar": "أن يكون مصممًا بحيث يشعر الطفل بالراحة"
+        },
+        {
+          "letter": "D",
+          "text": "Çevrece çocuğun sıkıldıkça oynayacağı oyuncakların olması",
+          "images": [],
+          "text_ar": "أن يحتوي على ألعاب يلعب بها الطفل كلما شعر بالملل"
+        },
+        {
+          "letter": "E",
+          "text": "Havadar olması",
+          "images": [],
+          "text_ar": "أن يكون جيد التهوية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من خصائص المكان الذي تُجرى فيه عملية القياس؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Değerlendirme için aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değerlendirme, ölçülen şeyin değerine ilişkin sonuca varma sürecidir.",
+          "images": [],
+          "text_ar": "التقييم هو عملية التوصل إلى نتيجة بشأن قيمة ما يُقاس."
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirmenin başarısı objektif olmasına bağlıdır.",
+          "images": [],
+          "text_ar": "يتوقف نجاح التقييم على كونه موضوعيًا."
+        },
+        {
+          "letter": "C",
+          "text": "Değerlendirmede karar ölçüte göre verilir.",
+          "images": [],
+          "text_ar": "يُتخذ القرار في التقييم وفق المحك."
+        },
+        {
+          "letter": "D",
+          "text": "İyi bir ölçüt, net bir şekilde tanımlanmış ve gözden geçirilebilir olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن يكون المحك الجيد محدَّدًا بوضوح وقابلًا للمراجعة."
+        },
+        {
+          "letter": "E",
+          "text": "Değerlendirmede ölçüm sonuçları dışındaki değişkenler de dikkat alınır.",
+          "images": [],
+          "text_ar": "تُراعى في التقييم أيضًا متغيرات أخرى غير نتائج القياس."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح بشأن التقييم؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Değerlendirmede çocukla ilgili eski kayıtları ve değerlendirme raporlarını bulup onları kullanan bir ruh sağlığı uzmanı hangi değerlendirme yöntemini kullanmış olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görüşme",
+          "images": [],
+          "text_ar": "المقابلة"
+        },
+        {
+          "letter": "B",
+          "text": "Katılımlı gözlem",
+          "images": [],
+          "text_ar": "الملاحظة المشاركة"
+        },
+        {
+          "letter": "C",
+          "text": "Dokümanları inceleme",
+          "images": [],
+          "text_ar": "فحص الوثائق"
+        },
+        {
+          "letter": "D",
+          "text": "Rol yapma yöntemi",
+          "images": [],
+          "text_ar": "طريقة تمثيل الأدوار"
+        },
+        {
+          "letter": "E",
+          "text": "Katılımsız gözlem",
+          "images": [],
+          "text_ar": "الملاحظة غير المشاركة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي طريقة تقييم يكون قد استخدمها أخصائي الصحة النفسية الذي يبحث عن السجلات القديمة وتقارير التقييم المتعلقة بالطفل ويستخدمها؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme ile ilgili aşağıdaki bilgilerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçme, herhangi bir niteliğin belirli kurallara göre sayısal olarak ifade edilme sürecidir.",
+          "images": [],
+          "text_ar": "القياس هو عملية التعبير عن أي سمة تعبيرًا عدديًا وفق قواعد معينة."
+        },
+        {
+          "letter": "B",
+          "text": "Ölçme işlemi, sayarak, sınıflandırarak, derecelendirerek yapılabilir.",
+          "images": [],
+          "text_ar": "يمكن إجراء عملية القياس بالعدّ أو التصنيف أو التدريج."
+        },
+        {
+          "letter": "C",
+          "text": "Ölçme işleminin amacı ölçüte göre uygun bir karara varmaktır.",
+          "images": [],
+          "text_ar": "هدف عملية القياس هو التوصل إلى قرار مناسب وفق المحك."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçme işlemi bir nitelik ifade etme yöntemi olduğu için objektif olmalıdır.",
+          "images": [],
+          "text_ar": "بما أن عملية القياس طريقة للتعبير عن سمة فإنها يجب أن تكون موضوعية."
+        },
+        {
+          "letter": "E",
+          "text": "Psikometri, psikolojik ölçme ve değerlendirme bilimidir.",
+          "images": [],
+          "text_ar": "السيكومترية هي علم القياس والتقييم النفسي."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من المعلومات التالية غير صحيح بشأن القياس؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme hataları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçme hataları ölçüm sonuçlarını etkilemez.",
+          "images": [],
+          "text_ar": "أخطاء القياس لا تؤثر في نتائج القياس."
+        },
+        {
+          "letter": "B",
+          "text": "Doğrudan ölçümler sırasında hatanın kontrol edilmesi zordur.",
+          "images": [],
+          "text_ar": "يصعب ضبط الخطأ أثناء القياسات المباشرة."
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal bilimlerde yapılan ölçümlerde genelde ölçme hatası olmaz.",
+          "images": [],
+          "text_ar": "لا يوجد خطأ قياس عمومًا في القياسات التي تُجرى في العلوم الاجتماعية."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçme hatası, iyi bir ölçücünün elinde sıfırlanabilir.",
+          "images": [],
+          "text_ar": "يمكن تصفير خطأ القياس على يد قائس جيد."
+        },
+        {
+          "letter": "E",
+          "text": "Ölçme hatası, ölçme aracı ya da ölçülen kişiden kaynaklanabilir.",
+          "images": [],
+          "text_ar": "قد ينشأ خطأ القياس عن أداة القياس أو عن الشخص المقيس."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من العبارات التالية صحيح بشأن أخطاء القياس؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçme hatalarını artıran faktörlerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçüm aracının psikometrik sağlamlığı",
+          "images": [],
+          "text_ar": "المتانة السيكومترية لأداة القياس"
+        },
+        {
+          "letter": "B",
+          "text": "Ölçümü yapan kişinin tecrübesi",
+          "images": [],
+          "text_ar": "خبرة الشخص الذي يجري القياس"
+        },
+        {
+          "letter": "C",
+          "text": "Ölçüm sonucunun dikkatli puanlanması",
+          "images": [],
+          "text_ar": "تصحيح نتيجة القياس بعناية"
+        },
+        {
+          "letter": "D",
+          "text": "Ölçüm ortamının sessiz olması",
+          "images": [],
+          "text_ar": "كون بيئة القياس هادئة"
+        },
+        {
+          "letter": "E",
+          "text": "Ölçülen kişinin isteksizliği",
+          "images": [],
+          "text_ar": "عدم رغبة الشخص المقيس"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي من العوامل التي تزيد أخطاء القياس؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi eşit oranlı ölçeklere örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Likert tipi ölçekler",
+          "images": [],
+          "text_ar": "المقاييس من نوع ليكرت"
+        },
+        {
+          "letter": "B",
+          "text": "Hava sıcaklığı",
+          "images": [],
+          "text_ar": "درجة حرارة الهواء"
+        },
+        {
+          "letter": "C",
+          "text": "Cinsiyet",
+          "images": [],
+          "text_ar": "الجنس"
+        },
+        {
+          "letter": "D",
+          "text": "Boy",
+          "images": [],
+          "text_ar": "الطول"
+        },
+        {
+          "letter": "E",
+          "text": "Memnuniyet anketleri",
+          "images": [],
+          "text_ar": "استبيانات الرضا"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي مثال على المقاييس ذات النسب المتساوية؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yüz yüze yapılan değerlendirme görüşmelerinin faydalarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun giyim kuşamının gözlenebilmesi",
+          "images": [],
+          "text_ar": "إمكانية ملاحظة ملبس الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun sözel iletişiminin gözlenebilmesi",
+          "images": [],
+          "text_ar": "إمكانية ملاحظة تواصل الطفل اللفظي"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun arkadaşları ile ilişkilerinin gözlenebilmesi",
+          "images": [],
+          "text_ar": "إمكانية ملاحظة علاقات الطفل بأقرانه"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun sözel olmayan iletişiminin gözlenebilmesi",
+          "images": [],
+          "text_ar": "إمكانية ملاحظة تواصل الطفل غير اللفظي"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun davranışlarının gözlenebilmesi",
+          "images": [],
+          "text_ar": "إمكانية ملاحظة سلوكيات الطفل"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من فوائد مقابلات التقييم التي تُجرى وجهًا لوجه؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "31f980f4c28bdf1ef415668ac1007267d6e41104248acbd2182bd64b5a88e3ad"
+}

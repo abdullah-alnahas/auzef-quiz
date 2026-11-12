@@ -1,0 +1,442 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "Ünite -5",
+  "exam_slug": "unite-5",
+  "page_title": "İlkokula Hazırlık Ünite -5",
+  "source_url": "https://lolonolo.com/2023/09/19/ilkokula-hazirlik-unite-5/",
+  "scraped_at": "2026-11-12T15:00:58+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Cumhuriyet döneminin en uzun süre uygulanan ilkokul programının özellikleri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1924",
+          "images": [],
+          "text_ar": "برنامج 1924"
+        },
+        {
+          "letter": "B",
+          "text": "1926",
+          "images": [],
+          "text_ar": "برنامج 1926"
+        },
+        {
+          "letter": "C",
+          "text": "1936",
+          "images": [],
+          "text_ar": "برنامج 1936"
+        },
+        {
+          "letter": "D",
+          "text": "1948",
+          "images": [],
+          "text_ar": "برنامج 1948"
+        },
+        {
+          "letter": "E",
+          "text": "2005",
+          "images": [],
+          "text_ar": "برنامج 2005"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما خصائص برنامج المدرسة الابتدائية الأطول مدةً في التطبيق في العهد الجمهوري مما يلي؟",
+      "review": [
+        "q1.stem: صياغة المصدر تسأل عن الخصائص لكن الخيارات سنوات فقط؛ نُقلت الخيارات بإطار «برنامج ...»"
+      ]
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 1948 yılı ilkokul programının genel amaç başlıkları arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplumsal",
+          "images": [],
+          "text_ar": "اجتماعي"
+        },
+        {
+          "letter": "B",
+          "text": "Kişisel",
+          "images": [],
+          "text_ar": "شخصي"
+        },
+        {
+          "letter": "C",
+          "text": "İnsan Münasebetleri",
+          "images": [],
+          "text_ar": "العلاقات الإنسانية"
+        },
+        {
+          "letter": "D",
+          "text": "Ekonomik Hayat",
+          "images": [],
+          "text_ar": "الحياة الاقتصادية"
+        },
+        {
+          "letter": "E",
+          "text": "Vicdan Münasebetleri",
+          "images": [],
+          "text_ar": "علاقات الضمير"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن العناوين العامة للأهداف في برنامج المدرسة الابتدائية لعام 1948؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ilkokul programı ikililerinden hangileri sırasıyla, “davranışçı ve yapılandırmacı” yaklaşımların ilk olarak ortaya çıktığı programlardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1948-2005",
+          "images": [],
+          "text_ar": "برنامجا 1948 و2005"
+        },
+        {
+          "letter": "B",
+          "text": "1998-2005",
+          "images": [],
+          "text_ar": "برنامجا 1998 و2005"
+        },
+        {
+          "letter": "C",
+          "text": "1936-2005",
+          "images": [],
+          "text_ar": "برنامجا 1936 و2005"
+        },
+        {
+          "letter": "D",
+          "text": "1968-2018",
+          "images": [],
+          "text_ar": "برنامجا 1968 و2018"
+        },
+        {
+          "letter": "E",
+          "text": "1998-2018",
+          "images": [],
+          "text_ar": "برنامجا 1998 و2018"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من ثنائيات برامج المدرسة الابتدائية الآتية هما، على الترتيب، البرنامجان اللذان ظهرت فيهما أول مرة مقاربتا «السلوكية» و«البنائية»؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "– Aşağıda özellikleri verilen ilkokul programı hangi yıla aittir? -Cumhuriyet döneminin ilk kapsamlı programı niteliğinde olması çıkmaktadır. -Yeni Türk harflerinin ilk uygulandığı program olma özelliği de kazanmıştır. -Bu program ile birlikte derslerin özel amaçlarına her dersin girişinde “Dersin Hedefleri” başlığı altında yer verilmiştir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1924",
+          "images": [],
+          "text_ar": "عام 1924"
+        },
+        {
+          "letter": "B",
+          "text": "1926",
+          "images": [],
+          "text_ar": "عام 1926"
+        },
+        {
+          "letter": "C",
+          "text": "1936",
+          "images": [],
+          "text_ar": "عام 1936"
+        },
+        {
+          "letter": "D",
+          "text": "1948",
+          "images": [],
+          "text_ar": "عام 1948"
+        },
+        {
+          "letter": "E",
+          "text": "1998",
+          "images": [],
+          "text_ar": "عام 1998"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "– إلى أي سنة يعود برنامج المدرسة الابتدائية الموصوفة خصائصه فيما يلي؟ -يُعدّ أول برنامج شامل في العهد الجمهوري. -اكتسب أيضًا صفة كونه أول برنامج طُبّقت فيه الحروف التركية الجديدة. -مع هذا البرنامج، أُدرجت الأهداف الخاصة بالدروس عند مدخل كل درس تحت عنوان «أهداف الدرس»."
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki programlardan hangisinde öğretmenin hazırlayacağı “Yıllık Plan, Ünite Planı ve Günlük Planlar” ilk olarak gündeme gelmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1936",
+          "images": [],
+          "text_ar": "عام 1936"
+        },
+        {
+          "letter": "B",
+          "text": "1948",
+          "images": [],
+          "text_ar": "عام 1948"
+        },
+        {
+          "letter": "C",
+          "text": "1968",
+          "images": [],
+          "text_ar": "عام 1968"
+        },
+        {
+          "letter": "D",
+          "text": "1998",
+          "images": [],
+          "text_ar": "عام 1998"
+        },
+        {
+          "letter": "E",
+          "text": "2005",
+          "images": [],
+          "text_ar": "عام 2005"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "في أي من البرامج الآتية ظهرت أول مرة «الخطة السنوية وخطة الوحدة والخطط اليومية» التي يعدّها المعلم؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 1924 yılı ilkokul programının genel özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu programla devreler ortadan kalkmıştır.",
+          "images": [],
+          "text_ar": "بهذا البرنامج أُلغيت المراحل."
+        },
+        {
+          "letter": "B",
+          "text": "İlkokul öğretim süresi beş yıla inmiştir.",
+          "images": [],
+          "text_ar": "خُفّضت مدة التعليم الابتدائي إلى خمس سنوات."
+        },
+        {
+          "letter": "C",
+          "text": "Erkek ve kız öğrenciler için tek program düzenlenmiştir.",
+          "images": [],
+          "text_ar": "وُضع برنامج واحد للطلاب والطالبات."
+        },
+        {
+          "letter": "D",
+          "text": "Yenisi hazırlanıncaya kadar geçici bir program olma özelliği taşımaktadır.",
+          "images": [],
+          "text_ar": "كان برنامجًا مؤقتًا إلى أن يُعدّ برنامج جديد."
+        },
+        {
+          "letter": "E",
+          "text": "Programdaki dersler arasında ilişki kurulmamıştır.",
+          "images": [],
+          "text_ar": "لم تُقم علاقة بين دروس البرنامج."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من الخصائص العامة لبرنامج المدرسة الابتدائية لعام 1924؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yapılandırmacı öğrenme yaklaşımında izlenen adımlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yeni bilginin kazanılması",
+          "images": [],
+          "text_ar": "اكتساب المعرفة الجديدة"
+        },
+        {
+          "letter": "B",
+          "text": "Bilginin farkında olunması",
+          "images": [],
+          "text_ar": "الوعي بالمعرفة"
+        },
+        {
+          "letter": "C",
+          "text": "Bilginin anlaşılması",
+          "images": [],
+          "text_ar": "فهم المعرفة"
+        },
+        {
+          "letter": "D",
+          "text": "Bilginin uygulanması",
+          "images": [],
+          "text_ar": "تطبيق المعرفة"
+        },
+        {
+          "letter": "E",
+          "text": "Önceki bilgilerin bir etkisinin olmaması",
+          "images": [],
+          "text_ar": "ألا يكون للمعارف السابقة أي أثر"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من الخطوات المتبعة في المقاربة البنائية للتعلم؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisine 1968 ilkokul programının “yöntem ve teknikler” bölümünde yer verilmemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Buluş yoluyla öğretim",
+          "images": [],
+          "text_ar": "التدريس بطريقة الاكتشاف"
+        },
+        {
+          "letter": "B",
+          "text": "Anlatım yoluyla öğretim",
+          "images": [],
+          "text_ar": "التدريس بطريقة الإلقاء"
+        },
+        {
+          "letter": "C",
+          "text": "cevap yoluyla öğretim",
+          "images": [],
+          "text_ar": "التدريس بطريقة السؤال والجواب"
+        },
+        {
+          "letter": "D",
+          "text": "Proje ile öğretim",
+          "images": [],
+          "text_ar": "التدريس بالمشروع"
+        },
+        {
+          "letter": "E",
+          "text": "Deneylerle öğretim",
+          "images": [],
+          "text_ar": "التدريس بالتجارب"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لم يُدرج في قسم «الأساليب والتقنيات» في برنامج المدرسة الابتدائية لعام 1968؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Türkiye’de halen uygulanmakta olan son ilkokul programında hangi sınıf seviyelerine ve haftada kaçar saat ders verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1-2-3. sınıflar ve 25’er saat",
+          "images": [],
+          "text_ar": "الصفوف 1-2-3 و25 ساعة لكل صف"
+        },
+        {
+          "letter": "B",
+          "text": "1-2-3. sınıflar ve 29’ar saat",
+          "images": [],
+          "text_ar": "الصفوف 1-2-3 و29 ساعة لكل صف"
+        },
+        {
+          "letter": "C",
+          "text": "1-2-3-4. sınıflar ve 25’er saat",
+          "images": [],
+          "text_ar": "الصفوف 1-2-3-4 و25 ساعة لكل صف"
+        },
+        {
+          "letter": "D",
+          "text": "1-2-3-4. sınıflar ve 30’ar saat",
+          "images": [],
+          "text_ar": "الصفوف 1-2-3-4 و30 ساعة لكل صف"
+        },
+        {
+          "letter": "E",
+          "text": "1-2-3-4-5. sınıflar ve 30’ar saat",
+          "images": [],
+          "text_ar": "الصفوف 1-2-3-4-5 و30 ساعة لكل صف"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "في آخر برنامج للمدرسة الابتدائية لا يزال معمولًا به في تركيا، أي الصفوف تُدرَّس، وكم ساعة أسبوعيًا لكل صف؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 1936 yılı ilkokul programında yer alan eğitim durumlarına ilişkin esaslardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ezberleyerek öğrenmenin önemini anlatma",
+          "images": [],
+          "text_ar": "بيان أهمية التعلم بالحفظ"
+        },
+        {
+          "letter": "B",
+          "text": "Resim ve şekillerle ders anlatma",
+          "images": [],
+          "text_ar": "تدريس الدروس بالرسوم والأشكال"
+        },
+        {
+          "letter": "C",
+          "text": "Hayatla ilişkilendirme",
+          "images": [],
+          "text_ar": "الربط بالحياة"
+        },
+        {
+          "letter": "D",
+          "text": "Sorun çözme tekniklerini kullanma",
+          "images": [],
+          "text_ar": "استخدام تقنيات حل المشكلات"
+        },
+        {
+          "letter": "E",
+          "text": "Öğretim ilkelerine uyma",
+          "images": [],
+          "text_ar": "مراعاة مبادئ التدريس"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من المبادئ المتعلقة بالحالات التعليمية الواردة في برنامج المدرسة الابتدائية لعام 1936؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "1705b62ee54deef175c36c953410305245c1716a97bb0432ff15696e9d322571"
+}

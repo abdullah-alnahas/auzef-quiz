@@ -935,3 +935,9 @@ td {
   flex-direction: column;
   gap: 2px;
 }
+
+.pill-mock {
+  background: var(--warn-bg);
+  color: var(--warn);
+  border-color: var(--warn);
+}

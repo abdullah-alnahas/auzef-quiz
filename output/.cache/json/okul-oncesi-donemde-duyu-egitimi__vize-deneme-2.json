@@ -1,0 +1,859 @@
+{
+  "course": "OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ",
+  "course_slug": "okul-oncesi-donemde-duyu-egitimi",
+  "exam": "Vize Deneme-2",
+  "exam_slug": "vize-deneme-2",
+  "page_title": "Okul Öncesi Dönemde Duyu Eğitimi Vize Deneme-2",
+  "source_url": "https://lolonolo.com/2021/11/30/okul-oncesi-donemde-duyu-egitimi-vize-deneme-2/",
+  "scraped_at": "2026-11-12T15:01:00+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Serebral palsy ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duyusal problemler sıklıkla eşlik eder.",
+          "images": [],
+          "text_ar": "غالبًا ما تصاحبه مشكلات حسية."
+        },
+        {
+          "letter": "B",
+          "text": "Gelişim basamakları yaşıtlarının gerisinde olabilmektedir.",
+          "images": [],
+          "text_ar": "قد تكون مراحل النمو متأخرة عن أقرانهم."
+        },
+        {
+          "letter": "C",
+          "text": "Serebral palsynin nedenlerinden biri gebelik döneminde yaşanan hastalıklardır.",
+          "images": [],
+          "text_ar": "من أسباب الشلل الدماغي الأمراض التي تحدث خلال فترة الحمل."
+        },
+        {
+          "letter": "D",
+          "text": "Motor problemler duyusal problemlerden daha nadir görülür.",
+          "images": [],
+          "text_ar": "تظهر المشكلات الحركية أقل من المشكلات الحسية."
+        },
+        {
+          "letter": "E",
+          "text": "Şaşılık gibi görmeyle ilgili problemler görülebilmektedir.",
+          "images": [],
+          "text_ar": "قد تظهر مشكلات تتعلق بالبصر مثل الحول."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي غير صحيح فيما يتعلق بالشلل الدماغي؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Down Sendromuyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zihinsel yetersizliğin sık önemli sebeplerinden biridir.",
+          "images": [],
+          "text_ar": "هي من الأسباب المهمة الشائعة للقصور العقلي."
+        },
+        {
+          "letter": "B",
+          "text": "Görülme sıklığı 1/600 ila 1/1000 arasındadır.",
+          "images": [],
+          "text_ar": "معدل حدوثها بين 1/600 و1/1000."
+        },
+        {
+          "letter": "C",
+          "text": "Kısa boy, şişkin kısa parmaklar, verev göz kapakları ile karakterizedir.",
+          "images": [],
+          "text_ar": "تتميز بقصر القامة وقصر الأصابع المنتفخة وجفون العين المائلة."
+        },
+        {
+          "letter": "D",
+          "text": "Görme yetersizliği, tipik gelişim gösteren çocuklardan daha sık görülmektedir.",
+          "images": [],
+          "text_ar": "يظهر القصور البصري فيها أكثر من الأطفال ذوي النمو النموذجي."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "جميع ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي صحيح فيما يتعلق بمتلازمة داون؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Dikkat eksikliği ve hiperaktivite bozukluğu olan çocuklarla ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşitsel uyaranlara karşı yaşıtlarına göre daha az tepki verebilirler.",
+          "images": [],
+          "text_ar": "قد يبدون استجابة أقل تجاه المثيرات السمعية مقارنة بأقرانهم."
+        },
+        {
+          "letter": "B",
+          "text": "Görsel uyaranlara işitsel uyaranlardan daha fazla tepki verirler.",
+          "images": [],
+          "text_ar": "يبدون استجابة أكبر للمثيرات البصرية من المثيرات السمعية."
+        },
+        {
+          "letter": "C",
+          "text": "Denge ve dokunma duyusu ile ilgili problemler yaşayabilirler.",
+          "images": [],
+          "text_ar": "قد يواجهون مشكلات تتعلق بالتوازن وحاسة اللمس."
+        },
+        {
+          "letter": "D",
+          "text": "Şekil-zemin algısı ile ilgili güçlükler yaşayabilirler.",
+          "images": [],
+          "text_ar": "قد يواجهون صعوبات تتعلق بإدراك الشكل والأرضية."
+        },
+        {
+          "letter": "E",
+          "text": "Yürürken eşyalara çarpabilir, sakarlık gösterebilirler.",
+          "images": [],
+          "text_ar": "قد يصطدمون بالأشياء أثناء المشي ويبدون عدم براعة."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن الأطفال ذوي اضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Dikkat eksikliği ve hiperaktivite bozukluğu ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul çağı çocuklarında sık görülen durumlardan biridir.",
+          "images": [],
+          "text_ar": "من الحالات الشائعة لدى أطفال سن المدرسة."
+        },
+        {
+          "letter": "B",
+          "text": "Tipik özellikleri arasında dikkatsizlik, hiperaktivite ve dürtüsellik bulunur.",
+          "images": [],
+          "text_ar": "من خصائصه النموذجية قلة الانتباه وفرط النشاط والاندفاعية."
+        },
+        {
+          "letter": "C",
+          "text": "Belirtiler her çocukta aynı şekilde ve derece seyretmeyebilir.",
+          "images": [],
+          "text_ar": "قد لا تسير الأعراض بالطريقة والدرجة نفسها عند كل طفل."
+        },
+        {
+          "letter": "D",
+          "text": "Duyusal problemler özgül öğrenme bozukluğuna kıyasla daha sık eşlik eder.",
+          "images": [],
+          "text_ar": "تظهر المشكلات الحسية مصاحبة له أكثر من اضطراب التعلم النوعي."
+        },
+        {
+          "letter": "E",
+          "text": "Okunanı ya da söylenileni dinleme ile ilgili sorunlar sık görülür.",
+          "images": [],
+          "text_ar": "كثيرًا ما تظهر مشكلات تتعلق بالإنصات إلى ما يُقرأ أو يُقال."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن اضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Otizm spektrum bozukluğu olan çocuklardaki duyusal problemlerle ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnsan yüzüne bakmak ve göz teması kurmakta problem yaşayabilirler.",
+          "images": [],
+          "text_ar": "قد يواجهون مشكلة في النظر إلى وجه الإنسان وإقامة التواصل البصري."
+        },
+        {
+          "letter": "B",
+          "text": "Hareket eden, dönen ya da parlak olan bazı nesnelere çok uzun süre bakabilirler.",
+          "images": [],
+          "text_ar": "قد ينظرون مدة طويلة جدًا إلى بعض الأشياء المتحركة أو الدوارة أو اللامعة."
+        },
+        {
+          "letter": "C",
+          "text": "Zaman zaman ışıktan ciddi biçimde rahatsızlık duyabilirler.",
+          "images": [],
+          "text_ar": "قد ينزعجون انزعاجًا شديدًا من الضوء في بعض الأحيان."
+        },
+        {
+          "letter": "D",
+          "text": "Seslere karşı oldukça farklı tepkiler verebilirler.",
+          "images": [],
+          "text_ar": "قد يبدون استجابات مختلفة جدًا تجاه الأصوات."
+        },
+        {
+          "letter": "E",
+          "text": "Ses ve ışıkla ilgili problemleri olsa da koku duyusuyla ilgili belirgin bir problem yaşamazlar.",
+          "images": [],
+          "text_ar": "رغم وجود مشكلات لديهم تتعلق بالصوت والضوء، فإنهم لا يعانون مشكلة واضحة تتعلق بحاسة الشم."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن المشكلات الحسية لدى الأطفال ذوي اضطراب طيف التوحد؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "İşitme yetersizliği olan çocuklarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşitme yetersizliği olan çocuklarda dil problemi de görülebilmektedir.",
+          "images": [],
+          "text_ar": "قد تظهر لدى الأطفال ذوي القصور السمعي مشكلات لغوية أيضًا."
+        },
+        {
+          "letter": "B",
+          "text": "Bu çocuklar dili geliştirmek için gerekli zihinsel kapasiteye sahip olamamaktadır.",
+          "images": [],
+          "text_ar": "هؤلاء الأطفال لا يمتلكون القدرة العقلية اللازمة لتطوير اللغة."
+        },
+        {
+          "letter": "C",
+          "text": "İşitme yetersizliği, çocuklarda duyusal yoksunluk ve algısal azalmaya yol açabilir.",
+          "images": [],
+          "text_ar": "قد يؤدي القصور السمعي عند الأطفال إلى الحرمان الحسي وانخفاض الإدراك."
+        },
+        {
+          "letter": "D",
+          "text": "Görmeyi rehber duyu olarak kullanan işitme yetersizliği olan çocuk, çevresinde görsel olarak kontrol edemediği  değişiklikleri ürkütücü deneyimler sonucunda öğrenir.",
+          "images": [],
+          "text_ar": "الطفل ذو القصور السمعي الذي يستخدم البصر حاسةً مرشدة يتعلم التغيرات التي لا يستطيع التحكم فيها بصريًا في محيطه نتيجة تجارب مخيفة."
+        },
+        {
+          "letter": "E",
+          "text": "İşitme yetersizliği olan çocuk için, titreşimler duyumsal sinyal olmaya başlar.",
+          "images": [],
+          "text_ar": "بالنسبة للطفل ذي القصور السمعي، تبدأ الاهتزازات في أن تصبح إشارات حسية."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من العبارات التالية غير صحيحة فيما يتعلق بالأطفال ذوي القصور السمعي؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Üstün ve özel yetenekli çocuklarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duyularla ilgili tüm uyaranlara karşı aşırı duyarlı olmakla birlikte tepkileri de aşırı duyarlı olabilmektedir.",
+          "images": [],
+          "text_ar": "يكونون شديدي الحساسية تجاه جميع المثيرات الحسية، كما قد تكون استجاباتهم شديدة الحساسية."
+        },
+        {
+          "letter": "B",
+          "text": "Ayrıntılara dikkat ederek başkalarının fark edemediği detayları kolaylıkla fark edebilmektedirler.",
+          "images": [],
+          "text_ar": "يلاحظون التفاصيل وينتبهون بسهولة إلى تفاصيل لا يلاحظها الآخرون."
+        },
+        {
+          "letter": "C",
+          "text": "Görsel becerileri yaşıtlarından üstündür ancak, dinleme becerileri düşüktür.",
+          "images": [],
+          "text_ar": "مهاراتهم البصرية أرقى من أقرانهم، لكن مهارات الإنصات لديهم منخفضة."
+        },
+        {
+          "letter": "D",
+          "text": "Tat ve dokunma duyusuyla ilgili aşırı hassasiyet gösterebilirler.",
+          "images": [],
+          "text_ar": "قد يبدون حساسية مفرطة تتعلق بحاستي التذوق واللمس."
+        },
+        {
+          "letter": "E",
+          "text": "Motor gelişimleri akranlarına göre daha hızlıdır.",
+          "images": [],
+          "text_ar": "نموهم الحركي أسرع من أقرانهم."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية غير صحيحة فيما يتعلق بالأطفال الموهوبين وذوي القدرات الخاصة؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki hastalık ya da bozukluklardan hangisi için duyu temelli eğitim desteği önemlidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özgül öğrenme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التعلم النوعي"
+        },
+        {
+          "letter": "B",
+          "text": "Down Sendromu",
+          "images": [],
+          "text_ar": "متلازمة داون"
+        },
+        {
+          "letter": "C",
+          "text": "Dikkat eksikliği ve hiperaktivite bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب نقص الانتباه وفرط النشاط"
+        },
+        {
+          "letter": "D",
+          "text": "Serebral palsy",
+          "images": [],
+          "text_ar": "الشلل الدماغي"
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "جميع ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من الأمراض أو الاضطرابات التالية يُعدّ دعم التربية القائمة على الحواس مهمًّا له؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Otizm spektrum bozukluğu olan çocuklardaki duyusal problemlerle ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kucağa alınmaya tepki gösterebilir, fiziksel teması reddedebilirler.",
+          "images": [],
+          "text_ar": "قد يبدون رد فعل عند احتضانهم، وقد يرفضون التلامس الجسدي."
+        },
+        {
+          "letter": "B",
+          "text": "Acıya karşı duyarsızlık gösterebilirler.",
+          "images": [],
+          "text_ar": "قد يبدون عدم إحساس بالألم."
+        },
+        {
+          "letter": "C",
+          "text": "Pek çoğunun soğuğa ve sıcağa aşırı derecede tepki gösterirler.",
+          "images": [],
+          "text_ar": "يبدي معظمهم رد فعل مفرطًا تجاه البرد والحرارة."
+        },
+        {
+          "letter": "D",
+          "text": "Gıdaların tatlarına karşı aşırı hassasiyet gösterebilir bu nedenle beslenme alışkanlıkları ile ilgili ciddi sorunlar  yaşayabilirler.",
+          "images": [],
+          "text_ar": "قد يبدون حساسية مفرطة تجاه أطعمة معينة، ولذلك قد يواجهون مشكلات جدية في عادات التغذية."
+        },
+        {
+          "letter": "E",
+          "text": "İp atlama, dans, yüzme gibi büyük kas motor becerilerin kullanılmasını gerektiren bazı hareketle­ri daha geç öğrenebilirler.",
+          "images": [],
+          "text_ar": "قد يتعلمون بعض الحركات التي تتطلب استخدام المهارات الحركية للعضلات الكبيرة، مثل نط الحبل والرقص والسباحة، في وقت متأخر."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن المشكلات الحسية لدى الأطفال ذوي اضطراب طيف التوحد؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi duyusal bütünleme sorunları olan çocukların ortak özelliklerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dikkat problemi yaşarlar ve görevlere odaklanmada zorluk çekerler.",
+          "images": [],
+          "text_ar": "يعانون مشكلة في الانتباه ويجدون صعوبة في التركيز على المهام."
+        },
+        {
+          "letter": "B",
+          "text": "Hareket koordinasyonu ile ilgili sorunlar söz konusudur.",
+          "images": [],
+          "text_ar": "توجد لديهم مشكلات تتعلق بالتناسق الحركي."
+        },
+        {
+          "letter": "C",
+          "text": "Dokunmaya, ışığa ya da sese karşı aşırı hassasiyet gösterirler.",
+          "images": [],
+          "text_ar": "يبدون حساسية مفرطة تجاه اللمس أو الضوء أو الصوت."
+        },
+        {
+          "letter": "D",
+          "text": "Bedenin uzayda kapladığı yerle ilgili farkındalık eksikliği vardır.",
+          "images": [],
+          "text_ar": "توجد لديهم قلة وعي بالمكان الذي يشغله الجسم في الفضاء."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "جميع ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي من الخصائص المشتركة لدى الأطفال ذوي مشكلات التكامل الحسي؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Serebral palsy ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Serebral palsyli çocukların büyük çoğunluğunda motor problemlere ek olarak; işitme yetersizlikleri, görme yetersizlikleri  algısal bozukluklar görülebilmektedir.",
+          "images": [],
+          "text_ar": "لدى الغالبية العظمى من الأطفال المصابين بالشلل الدماغي، إضافة إلى المشكلات الحركية، يمكن ملاحظة قصور سمعي وقصور بصري واضطرابات إدراكية."
+        },
+        {
+          "letter": "B",
+          "text": "Bu bireylerde en yaygın görülen göz problemi şaşılıktır.",
+          "images": [],
+          "text_ar": "أكثر مشكلات العين شيوعًا لدى هؤلاء الأفراد هي الحول."
+        },
+        {
+          "letter": "C",
+          "text": "Serebral palsyli çocuklarda işitmenin etkilenmesinin nedeni çok düşük doğum ağırlığı, kernikterus, yenidoğan  menenjiti gibi nedenlerdir.",
+          "images": [],
+          "text_ar": "تعود أسباب تأثر السمع لدى الأطفال المصابين بالشلل الدماغي إلى أسباب مثل انخفاض وزن الولادة الشديد واليرقان النووي والتهاب السحايا عند المواليد."
+        },
+        {
+          "letter": "D",
+          "text": "Serebral palsyli çocukların önemli bölümünde tat ve kokulara karşı hassasiyet görülmektedir.",
+          "images": [],
+          "text_ar": "تظهر لدى نسبة مهمة من الأطفال المصابين بالشلل الدماغي حساسية تجاه التذوق والروائح."
+        },
+        {
+          "letter": "E",
+          "text": "Serebral palsyli çocukların büyük kısmında gelişim basamakları yaşlarıyla uyumludur.",
+          "images": [],
+          "text_ar": "تتوافق مراحل النمو لدى معظم الأطفال المصابين بالشلل الدماغي مع أعمارهم."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن الشلل الدماغي؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Görme yetersizliği olan çocuklarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu çocuklara farklı sesler dinletilerek sesler arasındaki farkları ayırt etmesi sağlanabilir.",
+          "images": [],
+          "text_ar": "يمكن تنويع الأصوات التي تُسمع لهؤلاء الأطفال لتمكينهم من التمييز بين الفروق بين الأصوات."
+        },
+        {
+          "letter": "B",
+          "text": "İşitsel becerileri desteklemeye yönelik duyu temelli eğitimde, bu eğitimin hareket temelli olmasını sağlamak önemlidir.",
+          "images": [],
+          "text_ar": "من المهم في التربية القائمة على الحواس الموجهة لدعم المهارات السمعية أن تكون هذه التربية قائمة على الحركة."
+        },
+        {
+          "letter": "C",
+          "text": "Koku duyusu, görme yetersizliği olan çocukların öğrenmelerini hızlandırmada sanıldığı kadar önemli değildir.",
+          "images": [],
+          "text_ar": "حاسة الشم ليست مهمة في تسريع تعلم الأطفال ذوي القصور البصري بالقدر الذي يُظن."
+        },
+        {
+          "letter": "D",
+          "text": "Ağzını kullanarak keşfetmeye çalışan görme yetersizliği olan çocuk için tat duyusu oldukça önemlidir.",
+          "images": [],
+          "text_ar": "بالنسبة للطفل ذي القصور البصري الذي يحاول الاستكشاف باستخدام فمه، تُعدّ حاسة التذوق مهمة جدًا."
+        },
+        {
+          "letter": "E",
+          "text": "Dokunma duyusu; görme yetersizliği olan çocuklarda çevreyle ilgili bilgi toplamak için oldukça önemli bilgi kaynağıdır.",
+          "images": [],
+          "text_ar": "حاسة اللمس مصدر معلومات مهم جدًا لجمع المعلومات عن المحيط لدى الأطفال ذوي القصور البصري."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية غير صحيحة فيما يتعلق بالأطفال ذوي القصور البصري؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Özgül öğrenme bozukluğu ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu tür çocuklar çevreleri tarafından dikkatsiz olarak nitelendirilebilirler.",
+          "images": [],
+          "text_ar": "قد يصف المحيطون بهؤلاء الأطفال بأنهم قليلو الانتباه."
+        },
+        {
+          "letter": "B",
+          "text": "Akademik başarı olarak akranlarına göre daha düşük bir seviye gösterebilirler.",
+          "images": [],
+          "text_ar": "قد يظهرون مستوى أدنى من أقرانهم في التحصيل الأكاديمي."
+        },
+        {
+          "letter": "C",
+          "text": "Yazarken satır takibinde zorlansalar da, okurken böyle bir güçlük yaşamazlar.",
+          "images": [],
+          "text_ar": "رغم أنهم يجدون صعوبة في تتبع السطر أثناء الكتابة، فإنهم لا يواجهون مثل هذه الصعوبة أثناء القراءة."
+        },
+        {
+          "letter": "D",
+          "text": "İşitsel bellekleri yaşıtlarına göre zayıftır.",
+          "images": [],
+          "text_ar": "ذاكرتهم السمعية أضعف من أقرانهم."
+        },
+        {
+          "letter": "E",
+          "text": "Özel öğrenme bozukluğu yaşayan çocukların çoğunda dil gecikmesi görülür.",
+          "images": [],
+          "text_ar": "يظهر تأخر لغوي لدى معظم الأطفال ذوي اضطراب التعلم النوعي."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي غير صحيح فيما يتعلق باضطراب التعلم النوعي؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Görme yetersizliği olan çocuklarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görme yetersizliği olan çocukların görme duyularının zayıflığı ya da yokluğu nedeniyle diğer tüm duyularının keskinliği  otomatik olarak gelişir.",
+          "images": [],
+          "text_ar": "بسبب ضعف حاسة البصر أو غيابها لدى الأطفال ذوي القصور البصري، تتطور حدة جميع حواسهم الأخرى تلقائيًا."
+        },
+        {
+          "letter": "B",
+          "text": "Görme yetersizliği olan bebeklerin dokunma ve işitme duyularının eşiği yüksektir.",
+          "images": [],
+          "text_ar": "عتبة حاستي اللمس والسمع لدى الرضع ذوي القصور البصري مرتفعة."
+        },
+        {
+          "letter": "C",
+          "text": "Görme yetersizliği olan çocuklar sahip oldukları duyuları daha iyi kullanarak, kon­santrasyon ve dikkat ile çok hassas  ayrımlar yapmayı öğrenmektedirler.",
+          "images": [],
+          "text_ar": "يتعلم الأطفال ذوو القصور البصري استخدام حواسهم المتاحة على نحو أفضل، وإجراء تمييزات دقيقة جدًا بالتركيز والانتباه."
+        },
+        {
+          "letter": "D",
+          "text": "Görme yetersizliği olan çocuklar için görme sınırlılıkları doğrultusunda duyu temelli eğitim programları bireysel olarak  tasarlanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي تصميم برامج تربوية قائمة على الحواس بشكل فردي للأطفال ذوي القصور البصري وفقًا لحدود قدرتهم البصرية."
+        },
+        {
+          "letter": "E",
+          "text": "Görme yetersizliği olan çocukların en önemli duyusu işitmedir.",
+          "images": [],
+          "text_ar": "أهم حاسة لدى الأطفال ذوي القصور البصري هي السمع."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من العبارات التالية غير صحيحة فيما يتعلق بالأطفال ذوي القصور البصري؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Otizm spektrum bozukluğu olan çocuklardaki motor ve duyusal gelişimi desteklemek amacıyla aşağıdaki oyun/aktivitelerden  hangisi önerilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İp atlama",
+          "images": [],
+          "text_ar": "نط الحبل"
+        },
+        {
+          "letter": "B",
+          "text": "Trambolinde zıplama",
+          "images": [],
+          "text_ar": "القفز على الترامبولين"
+        },
+        {
+          "letter": "C",
+          "text": "El arabası ile yürüme",
+          "images": [],
+          "text_ar": "المشي بعربة اليد"
+        },
+        {
+          "letter": "D",
+          "text": "Sürünme oyunları",
+          "images": [],
+          "text_ar": "ألعاب الزحف"
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "جميع ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من الألعاب أو الأنشطة التالية يُوصى بها لدعم النمو الحركي والحسي لدى الأطفال ذوي اضطراب طيف التوحد؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Dikkat eksikliği ve hiperaktivite bozukluğu olan çocuklarla ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özensiz yanlışlar yapar, dikkatini yeterince sürdüremezler.",
+          "images": [],
+          "text_ar": "يرتكبون أخطاء ناتجة عن عدم الدقة، ولا يستطيعون مواصلة انتباههم بالقدر الكافي."
+        },
+        {
+          "letter": "B",
+          "text": "Yaşıtlarına göre zeka puanları daha yüksektir.",
+          "images": [],
+          "text_ar": "درجات ذكائهم أعلى من أقرانهم."
+        },
+        {
+          "letter": "C",
+          "text": "Çoğu zaman yaptıkları işi sonlandırmada güçlük çekerler.",
+          "images": [],
+          "text_ar": "غالبًا ما يجدون صعوبة في إنهاء العمل الذي يقومون به."
+        },
+        {
+          "letter": "D",
+          "text": "Yerinde oturmak ve sessiz kalmakta zorluk yaşarlar.",
+          "images": [],
+          "text_ar": "يواجهون صعوبة في الجلوس في مكانهم والبقاء صامتين."
+        },
+        {
+          "letter": "E",
+          "text": "Karşısındakinin sözünü keser, düşünmeden davranırlar",
+          "images": [],
+          "text_ar": "يقاطعون حديث من أمامهم ويتصرفون دون تفكير."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن الأطفال ذوي اضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Serebral palsy ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bulaşıcı olmayan bir beyin hastalığıdır.",
+          "images": [],
+          "text_ar": "هو مرض دماغي غير معدٍ."
+        },
+        {
+          "letter": "B",
+          "text": "Semptomlar ilerleyen dönemlerde kötüleşme gösterir.",
+          "images": [],
+          "text_ar": "تزداد الأعراض سوءًا في المراحل اللاحقة."
+        },
+        {
+          "letter": "C",
+          "text": "Kronik bir hastalıktır.",
+          "images": [],
+          "text_ar": "هو مرض مزمن."
+        },
+        {
+          "letter": "D",
+          "text": "Fiziksel ve motor yetersizlikleri içermektedir.",
+          "images": [],
+          "text_ar": "يتضمن قصورًا جسديًا وحركيًا."
+        },
+        {
+          "letter": "E",
+          "text": "Duygusal ve davranışsal bozukluklar eşlik edebilir.",
+          "images": [],
+          "text_ar": "قد تصاحبه اضطرابات عاطفية وسلوكية."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن الشلل الدماغي؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Özgül öğrenme bozukluğu ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel öğrenme bozukluğu olan çocukların dili kullanma ya da anlama ile ilgili zorlukları olabilmektedir.",
+          "images": [],
+          "text_ar": "قد يواجه الأطفال ذوو اضطراب التعلم النوعي صعوبات في استخدام اللغة أو فهمها."
+        },
+        {
+          "letter": "B",
+          "text": "Temelinde görsel algılama sorunlarının olduğu öne sürülmüştür, ancak görsel takipte sorun yaşamazlar.",
+          "images": [],
+          "text_ar": "قِيل إن مشكلات الإدراك البصري تكمن في أساسه، لكنهم لا يواجهون مشكلات في التتبع البصري."
+        },
+        {
+          "letter": "C",
+          "text": "Özel öğrenme bozukluğu olan çocukların işitsel bellekleri yaşıtlarına kıyasla zayıftır.",
+          "images": [],
+          "text_ar": "الذاكرة السمعية لدى الأطفال ذوي اضطراب التعلم النوعي أضعف مقارنة بأقرانهم."
+        },
+        {
+          "letter": "D",
+          "text": "Birbirlerine benzeyen sesleri ayırmada zorluklar yaşayabilmektedirler.",
+          "images": [],
+          "text_ar": "قد يواجهون صعوبات في التمييز بين الأصوات المتشابهة."
+        },
+        {
+          "letter": "E",
+          "text": "Özel öğrenme bo­zukluğu olan çocuklar nesneleri dokunarak tanımlamada güçlük çekerler.",
+          "images": [],
+          "text_ar": "يجد الأطفال ذوو اضطراب التعلم النوعي صعوبة في التعرف على الأشياء عن طريق اللمس."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن اضطراب التعلم النوعي؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "İşitme yetersizliği olan çocuklarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşitme duyusunun yetersizliğinde; görme duyusu, çocuklar için oldukça önem kazanmaktadır.",
+          "images": [],
+          "text_ar": "في حال قصور حاسة السمع، تكتسب حاسة البصر أهمية كبيرة لدى الأطفال."
+        },
+        {
+          "letter": "B",
+          "text": "İşitme yetersizliği olan çocukların görme duyusunu desteklemek için, çocukların konuşmacının yüzünü konuşma devam  ederken tam olarak görmesini sağlamak gerekmektedir.",
+          "images": [],
+          "text_ar": "لدعم حاسة البصر لدى الأطفال ذوي القصور السمعي، يجب ضمان أن يرى الطفل وجه المتحدث كاملًا أثناء استمرار الكلام."
+        },
+        {
+          "letter": "C",
+          "text": "Düşük olan sesler, çok yüksek hale getirildiğinde dokunma reseptörleri uyarılabilir, çocuklar ses kaynağına dokunarak  sesi işitebilirler.",
+          "images": [],
+          "text_ar": "عند رفع الأصوات المنخفضة إلى مستوى مرتفع جدًا، يمكن استثارة مستقبلات اللمس، فيستطيع الأطفال سماع الصوت بلمس مصدره."
+        },
+        {
+          "letter": "D",
+          "text": "İşitme duyusu ile denge duyusu yakın ilişki içerisinde olduğundan işitmeyle ilgili bir hasarda denge duyusu da  olumsuz etkilenebilmektedir.",
+          "images": [],
+          "text_ar": "لأن حاسة السمع ترتبط ارتباطًا وثيقًا بحاسة التوازن، فقد تتأثر حاسة التوازن سلبًا أيضًا عند وجود ضرر يتعلق بالسمع."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "جميع ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من العبارات التالية صحيحة فيما يتعلق بالأطفال ذوي القصور السمعي؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Down Sendromuyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Myopi, şaşılık, gözyaşı kanallarında tıkanıklık gibi durumlar sık görülür.",
+          "images": [],
+          "text_ar": "كثيرًا ما تظهر حالات مثل قِصَر النظر والحَوَل وانسداد القنوات الدمعية."
+        },
+        {
+          "letter": "B",
+          "text": "Yüksek frekans işitme kaybı sık görülen işitme yetersizliği türüdür.",
+          "images": [],
+          "text_ar": "فقدان السمع عالي التردد هو نوع القصور السمعي الشائع."
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim sürecinde fark edilmeden oluşabilecek işitme kaybı dil gelişimini de olumsuz etkiler.",
+          "images": [],
+          "text_ar": "قد يحدث فقدان السمع دون أن يُلاحظ خلال عملية النمو، ويؤثر سلبًا في تطور اللغة أيضًا."
+        },
+        {
+          "letter": "D",
+          "text": "Hipotoni nedeniyle baş kontrolü gecikebilir.",
+          "images": [],
+          "text_ar": "قد يتأخر التحكم في الرأس بسبب انخفاض التوتر العضلي."
+        },
+        {
+          "letter": "E",
+          "text": "İnce motor becerilerde sorun yaşasalar da, kaba motor problemler sık değildir.",
+          "images": [],
+          "text_ar": "رغم أنهم يواجهون مشكلات في المهارات الحركية الدقيقة، فإن المشكلات الحركية الكبرى ليست شائعة."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي غير صحيح فيما يتعلق بمتلازمة داون؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "3dbb32b1227fd2c55255000aeac12d0e9f5645b6432ce1eda41953c3ebb29525"
+}

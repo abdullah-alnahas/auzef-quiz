@@ -1,0 +1,772 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Ünite-4",
+  "exam_slug": "unite-4",
+  "page_title": "Çocuk Gelişimi Uygulamaları I Ünite-4",
+  "source_url": "https://lolonolo.com/2021/10/18/cocuk-gelisimi-uygulamalari-i-unite-4/",
+  "scraped_at": "2026-11-12T15:00:52+03:00",
+  "answer_source": "markup",
+  "question_count": 18,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "2 yaşındaki Emre, yaşıtlarından farklı olduğu gerekçesiyle ailesi tarafından bir çocuk gelişim uzmanına getiriliyor. Aşağıdaki durumlardan hangisi Emre’nin otizm spektrum bozukluğu açısından riskli olduğunun en belirgin göstergesidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "kelimeyi yan yana getirerek cümle kuramaması",
+          "images": [],
+          "text_ar": "عدم قدرته على تكوين جملة بضم الكلمات بعضها إلى بعض"
+        },
+        {
+          "letter": "B",
+          "text": "Göz teması kurmaması ve seslenildiğinde ismine bakmaması",
+          "images": [],
+          "text_ar": "عدم إقامته تواصلًا بصريًا وعدم التفات نظره إلى اسمه عند مناداته"
+        },
+        {
+          "letter": "C",
+          "text": "Her gün aynı yiyecekleri yemek ve aynı kıyafetleri giymek istemesi",
+          "images": [],
+          "text_ar": "رغبته في تناول الأطعمة نفسها وارتداء الملابس نفسها كل يوم"
+        },
+        {
+          "letter": "D",
+          "text": "Birtakım seslerden çok rahatsız olması ve korkması",
+          "images": [],
+          "text_ar": "انزعاجه الشديد من بعض الأصوات وخوفه منها"
+        },
+        {
+          "letter": "E",
+          "text": "Gün içinde birkaç kez kendi etrafında dönmesi",
+          "images": [],
+          "text_ar": "دورانه حول نفسه عدة مرات خلال اليوم"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "يُحضر والدا Emre، البالغ من العمر سنتين، إلى أخصائي نمو الطفل بحجة أنه مختلف عن أقرانه. أي مما يلي هو أوضح مؤشر على أن Emre في خطر الإصابة باضطراب طيف التوحد؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Otizm spektrum bozukluğunda kullanılan alternatif tedavilerle ilgili hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu yöntemlerin bir kısmı OSB’li bireylerin bazılarında fayda sağlayabilmektedir.",
+          "images": [],
+          "text_ar": "قد تعود بعض هذه الأساليب بالنفع على بعض الأفراد المصابين باضطراب طيف التوحد."
+        },
+        {
+          "letter": "B",
+          "text": "Bu yöntemlerin önemli bir bölümü fayda sağlamanın ötesinde birtakım yan etkiler barındırabilmektedir.",
+          "images": [],
+          "text_ar": "قد يحمل جزء كبير من هذه الأساليب آثارًا جانبية تتجاوز حدود النفع."
+        },
+        {
+          "letter": "C",
+          "text": "Uyku sorunu olanlar bireylerde melatonin, beslenmesi kötü olanlarda da multivitaminler tavsiye edilmektedir.",
+          "images": [],
+          "text_ar": "يُوصى بالميلاتونين لمن لديهم مشكلات في النوم، وبالفيتامينات المتعددة لمن لديهم سوء تغذية."
+        },
+        {
+          "letter": "D",
+          "text": "Çalışmalar, “tavsiye edilir” kategorisindeki tedavilerin otizmin çekirdek belirtilerine yarar sağladığını göstermektedir.",
+          "images": [],
+          "text_ar": "تُظهر الدراسات أن العلاجات المدرجة في فئة «يُوصى بها» تحقق نفعًا في الأعراض الجوهرية للتوحد."
+        },
+        {
+          "letter": "E",
+          "text": "Alternatif tedavilerden önce düzenli özel eğitim ve aile desteği olmazsa olmazdır.",
+          "images": [],
+          "text_ar": "التعليم الخاص المنتظم ودعم الأسرة أمر لا غنى عنه قبل العلاجات البديلة."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي غير صحيح بشأن العلاجات البديلة المستخدمة في اضطراب طيف التوحد؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi DSM-5 Otizm spektrum bozukluğu tanı kriterlerinden olan ilişki kurmak, sürdürmek ve anlamakta yetersizlik ile ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Davranışlarını farklı toplumsal ortamlara göre ayarlayamamak",
+          "images": [],
+          "text_ar": "عدم قدرته على تعديل سلوكه وفقًا للبيئات الاجتماعية المختلفة"
+        },
+        {
+          "letter": "B",
+          "text": "Ufak değişikliklerde aşırı sıkıntı yaşama",
+          "images": [],
+          "text_ar": "معاناته المفرطة من التغيرات الطفيفة"
+        },
+        {
+          "letter": "C",
+          "text": "Sıra dışı nesnelere aşırı bağlılık",
+          "images": [],
+          "text_ar": "تعلقه المفرط بأشياء غير مألوفة"
+        },
+        {
+          "letter": "D",
+          "text": "Aşırı sınırlı ve tekrarlayıcı ilgiler",
+          "images": [],
+          "text_ar": "اهتماماته المحدودة جدًا والمتكررة"
+        },
+        {
+          "letter": "E",
+          "text": "Hareketlere karşı görsel hayranlık",
+          "images": [],
+          "text_ar": "إعجابه البصري بالحركات"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي يتعلق بمعيار من معايير تشخيص اضطراب طيف التوحد في DSM-5، وهو القصور في إقامة العلاقات واستمرارها وفهمها؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "4 yaşındaki Mehmet, konuşma gecikmesi ve yaşıtlarından farklı olduğu gerekçesiyle babası ve babaannesi eşliğinde  çocuk psikiyatrisine getiriliyor. Aileden alınan öyküden, annesinin Mehmet 6 aylıkken vefat ettiği, bu süreçte baba ve  babaannenin Mehmet’le fazla ilgilenemediği, Mehmet’in gün boyunca ortalama 4-5 saat televizyon izlediği öğreniliyor.  Yapılan değerlendirmede Mehmet’in göz temasını kurduğu ancak bakışlarının kısa süreli olduğu, insanlara yeterince ilgi  duymadığı, 2 kelimelik cümlelerle konuşabildiği, kısıtlı bir olumlu duygulanım gösterdiği, oyuncaklarla amacına uygun  oynamadığı, sıklıkla öne arkaya sallandığı görülüyor. Ayırıcı tanıda Mehmet’le ilgili, aşağıdaki psikiyatrik bozukluklardan  hangisinin düşünülmesi diğerlerine göre öncelikli değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Otizm spektrum bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب طيف التوحد"
+        },
+        {
+          "letter": "B",
+          "text": "Tepkisel bağlanma bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التعلق التفاعلي"
+        },
+        {
+          "letter": "C",
+          "text": "Konuşma bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب الكلام"
+        },
+        {
+          "letter": "D",
+          "text": "Dikkat eksikliği hiperaktivite bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب نقص الانتباه وفرط النشاط"
+        },
+        {
+          "letter": "E",
+          "text": "Genel gelişimsel gecikme (zihinsel yetersizlik)",
+          "images": [],
+          "text_ar": "التأخر النمائي العام (القصور العقلي)"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "يُحضر Mehmet، البالغ من العمر 4 سنوات، إلى الطب النفسي للطفل بصحبة والده وجدته لأبيه، بحجة تأخر الكلام ومخالفته لأقرانه. ويُعلم من التاريخ المرضي المأخوذ من الأسرة أن أمه توفيت وهو في الشهر السادس من عمره، وأن الأب والجدة لم يتمكنا في تلك الفترة من الاهتمام به كثيرًا، وأنه كان يشاهد التلفاز في المتوسط 4-5 ساعات يوميًا. وتبيّن في التقييم أنه يقيم تواصلًا بصريًا لكن نظراته قصيرة المدة، ولا يبدي اهتمامًا كافيًا بالناس، ويستطيع التحدث بجمل من كلمتين، ويُظهر تأثيرًا عاطفيًا إيجابيًا محدودًا، ولا يلعب بالألعاب على النحو المقصود منها، ويتأرجح كثيرًا إلى الأمام والخلف. أي من الاضطرابات النفسية التالية لا يُعد التفكير فيه في التشخيص التفريقي لـ Mehmet أولى من غيره؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi otizm spektrum bozukluğunun A kümesi belirtilerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karşılıklı diyalog yürütmekte güçlük çekme",
+          "images": [],
+          "text_ar": "صعوبة إجراء حوار متبادل"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal ve fiziksel sınırları ihlal edecek biçimde aşırı derecede sosyal olma",
+          "images": [],
+          "text_ar": "أن يكون اجتماعيًا بإفراط على نحو ينتهك الحدود الاجتماعية والجسدية"
+        },
+        {
+          "letter": "C",
+          "text": "Başkalarının yüz ifadelerini ve beden dilini anlamada zorluk çekme",
+          "images": [],
+          "text_ar": "صعوبة فهم تعبيرات الوجه ولغة الجسد لدى الآخرين"
+        },
+        {
+          "letter": "D",
+          "text": "Davranışlarını farklı durum ve ortamlara göre ayarlayabilmede güçlük çekme",
+          "images": [],
+          "text_ar": "صعوبة تعديل سلوكه وفقًا للمواقف والبيئات المختلفة"
+        },
+        {
+          "letter": "E",
+          "text": "Bir durumdan yeni bir duruma geçişte ciddi biçimde zorluk çekme",
+          "images": [],
+          "text_ar": "صعوبة شديدة في الانتقال من موقف إلى موقف جديد"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أعراض المجموعة A في اضطراب طيف التوحد؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Otizm spektrum bozukluğuyla ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1-2 yaş dönemi, belirtilerin belirgin hale geldiği ve ailelerin sıklıkla uzman görüşüne başvurdukları dönemdir.",
+          "images": [],
+          "text_ar": "مرحلة عمر 1-2 سنة هي المرحلة التي تصبح فيها الأعراض واضحة ويكثر فيها لجوء الأسر إلى رأي المختص."
+        },
+        {
+          "letter": "B",
+          "text": "4 yaşında bir çocukta temel başvuru sebebi konuşma gecikmesi ve insanlara karşı ilgisizliktir.",
+          "images": [],
+          "text_ar": "سبب المراجعة الأساسي في طفل في الرابعة من عمره هو تأخر الكلام وعدم الاهتمام بالناس."
+        },
+        {
+          "letter": "C",
+          "text": "Gidişatı belirleyen en önemli yordayıcılar, zeka seviyesi ve dil becerileridir.",
+          "images": [],
+          "text_ar": "أهم المنبئات التي تحدد المسار هما مستوى الذكاء والمهارات اللغوية."
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal alandaki kısıtlılıklar hayat boyu devam eder.",
+          "images": [],
+          "text_ar": "القصور في المجال الاجتماعي يستمر مدى الحياة."
+        },
+        {
+          "letter": "E",
+          "text": "Ek psikiyatrik bozukluklar bazı durumlarda otizmin kendisinden daha fazla işlev kaybına neden olabilmektedir.",
+          "images": [],
+          "text_ar": "قد تؤدي الاضطرابات النفسية الإضافية في بعض الحالات إلى فقدان وظيفي أكبر من التوحد نفسه."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا يمكن قوله بشأن اضطراب طيف التوحد؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 6-12 aylık bir bebekte OSB açısından riskli kabul edilen özelliklerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanıdığı kişilere yakınlık göstermeme",
+          "images": [],
+          "text_ar": "عدم إظهار الألفة للأشخاص المألوفين"
+        },
+        {
+          "letter": "B",
+          "text": "Basit komutları algılayamama",
+          "images": [],
+          "text_ar": "عدم إدراك الأوامر البسيطة"
+        },
+        {
+          "letter": "C",
+          "text": "Gülümsemede yetersizlik",
+          "images": [],
+          "text_ar": "القصور في الابتسام"
+        },
+        {
+          "letter": "D",
+          "text": "Anne, baba” gibi tekli kelimelerin olmayışı",
+          "images": [],
+          "text_ar": "غياب الكلمات المفردة مثل «أمي، أبي»"
+        },
+        {
+          "letter": "E",
+          "text": "Zayıf göz teması",
+          "images": [],
+          "text_ar": "ضعف التواصل البصري"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من الخصائص التي تُعد خطرة بالنسبة لاضطراب طيف التوحد في رضيع بين 6-12 شهرًا؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Uygulama davranış analizi sayesinde otizmli çocuklara kazandırılması mümkündür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Takıntılı davranışlar",
+          "images": [],
+          "text_ar": "السلوكيات الوسواسية"
+        },
+        {
+          "letter": "B",
+          "text": "Ortak dikkat",
+          "images": [],
+          "text_ar": "الانتباه المشترك"
+        },
+        {
+          "letter": "C",
+          "text": "Sözel olan iletişim becerileri",
+          "images": [],
+          "text_ar": "مهارات التواصل اللفظي"
+        },
+        {
+          "letter": "D",
+          "text": "Zor taklit",
+          "images": [],
+          "text_ar": "التقليد الصعب"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي يمكن أن يكتسبه الأطفال المصابون بالتوحد بفضل تحليل السلوك التطبيقي؟",
+      "review": [
+        "q8.C: المصدر يذكر «Sözel olan» أي اللفظي، ويبدو خطأ مطبعيًا عن «غير لفظي»؛ نُقل حرفيًا"
+      ]
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Birbirinden farklı sebeplere bağlı olarak ortaya çıkan, ortak klinik belirti ve görünümlere  sahip olup farklı şiddetlerde seyreden otizm tablolarını ifade eden kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Prognoz",
+          "images": [],
+          "text_ar": "المآل"
+        },
+        {
+          "letter": "B",
+          "text": "Sendrom",
+          "images": [],
+          "text_ar": "المتلازمة"
+        },
+        {
+          "letter": "C",
+          "text": "Nodül",
+          "images": [],
+          "text_ar": "العقدة"
+        },
+        {
+          "letter": "D",
+          "text": "Spektrum",
+          "images": [],
+          "text_ar": "الطيف"
+        },
+        {
+          "letter": "E",
+          "text": "Epidemiyoloji",
+          "images": [],
+          "text_ar": "علم الأوبئة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما المفهوم الذي يعبر عن حالات التوحد التي تنشأ لأسباب مختلفة، وتشترك في علامات ومظاهر سريرية، وتتخذ شدة متفاوتة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Otizm Spektrum Bozukluğuyla ilgili aşağıda verilenlerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sıklığı son yıllarda artış göstermektedir.",
+          "images": [],
+          "text_ar": "تزايدت معدلات انتشاره في السنوات الأخيرة."
+        },
+        {
+          "letter": "B",
+          "text": "Belirtiler erken çocukluk döneminde başlayıp sıklıkla ömür boyu devam eder.",
+          "images": [],
+          "text_ar": "تبدأ الأعراض في مرحلة الطفولة المبكرة وتستمر غالبًا مدى الحياة."
+        },
+        {
+          "letter": "C",
+          "text": "Önceleri ayrı bozukluklar olarak tanımlanan durumlar, otizm spektrum bozukluğu olarak tanımlanan bir şemsiye kategori altında birleştirilmiştir.",
+          "images": [],
+          "text_ar": "جُمعت الحالات التي كانت تُعرَّف سابقًا كاضطرابات منفصلة تحت فئة جامعة تُعرَّف باسم اضطراب طيف التوحد."
+        },
+        {
+          "letter": "D",
+          "text": "Spektrum kavramıyla otizmin benzer etiyolojik zeminde gelişen ve benzer belirtilerle seyreden tek tip bir hastalık olduğu ortaya konmuştur.",
+          "images": [],
+          "text_ar": "أثبت مفهوم الطيف أن التوحد مرض واحد متجانس ينشأ على أرضية مسببات متشابهة ويسير بأعراض متشابهة."
+        },
+        {
+          "letter": "E",
+          "text": "Etiyolojisinde genetik faktörler ağırlıklı bir yer tutmaktadır.",
+          "images": [],
+          "text_ar": "تحتل العوامل الوراثية مكانة بارزة في مسبباته."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي غير صحيح بشأن اضطراب طيف التوحد؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 6-12 aylık bir bebekte otizm spektrum bozukluğu açısından riskli kabul edilen özelliklerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanıdığı kişilere yakınlık göstermeme",
+          "images": [],
+          "text_ar": "عدم إظهار الألفة للأشخاص المألوفين"
+        },
+        {
+          "letter": "B",
+          "text": "Basit komutları algılayamama",
+          "images": [],
+          "text_ar": "عدم إدراك الأوامر البسيطة"
+        },
+        {
+          "letter": "C",
+          "text": "Zayıf göz teması",
+          "images": [],
+          "text_ar": "ضعف التواصل البصري"
+        },
+        {
+          "letter": "D",
+          "text": "Kucağa alınmaktan hoşlanmama",
+          "images": [],
+          "text_ar": "عدم استمتاعه بالحمل في الحضن"
+        },
+        {
+          "letter": "E",
+          "text": "Bakışlarını, başkalarının dikkatini yönelttiği yere doğru kaydırır.",
+          "images": [],
+          "text_ar": "توجيه نظره نحو الموضع الذي يوجّه إليه الآخرون انتباههم."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من الخصائص التي تُعد خطرة بالنسبة لاضطراب طيف التوحد في رضيع بين 6-12 شهرًا؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Otizm Spektrum bozukluğu olan çocuklarda alternatif tedavilerden hangisi tavsiye edilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yüksek doz C vitamini",
+          "images": [],
+          "text_ar": "فيتامين C بجرعة عالية"
+        },
+        {
+          "letter": "B",
+          "text": "İmmun terapiler",
+          "images": [],
+          "text_ar": "العلاجات المناعية"
+        },
+        {
+          "letter": "C",
+          "text": "Siproheptadin",
+          "images": [],
+          "text_ar": "سبروهيبتادين"
+        },
+        {
+          "letter": "D",
+          "text": "Uyku sorunu olanlarda melatonin kullanımı",
+          "images": [],
+          "text_ar": "استخدام الميلاتونين لمن لديهم مشكلات في النوم"
+        },
+        {
+          "letter": "E",
+          "text": "Nörofeedback",
+          "images": [],
+          "text_ar": "التغذية الراجعة العصبية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من العلاجات البديلة التالية يمكن التوصية به للأطفال المصابين باضطراب طيف التوحد؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi otizm spektrum bozukluğuna neden olan çevresel faktörlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yardımcı üreme teknikleri",
+          "images": [],
+          "text_ar": "تقنيات الإنجاب المساعدة"
+        },
+        {
+          "letter": "B",
+          "text": "Annenin hamilelikte geçirdiği enfeksiyonlar",
+          "images": [],
+          "text_ar": "العدوى التي تصيب الأم أثناء الحمل"
+        },
+        {
+          "letter": "C",
+          "text": "Annenin Fragil-X sendromu hastalığı olması",
+          "images": [],
+          "text_ar": "إصابة الأم بمتلازمة X الهش"
+        },
+        {
+          "letter": "D",
+          "text": "Civa ve tarım ilaçlarına maruziyet",
+          "images": [],
+          "text_ar": "التعرض للزئبق والمبيدات الزراعية"
+        },
+        {
+          "letter": "E",
+          "text": "İleri anne ve baba yaşı",
+          "images": [],
+          "text_ar": "تقدم سن الأم والأب"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من العوامل البيئية المسببة لاضطراب طيف التوحد؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Hangisi otizm spektrum bozukluğu olan bireylerin gidişatını belirleyen faktörlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zekâ düzeyi",
+          "images": [],
+          "text_ar": "مستوى الذكاء"
+        },
+        {
+          "letter": "B",
+          "text": "Dil düzeyi",
+          "images": [],
+          "text_ar": "المستوى اللغوي"
+        },
+        {
+          "letter": "C",
+          "text": "Şelasyon",
+          "images": [],
+          "text_ar": "الاستخلاب"
+        },
+        {
+          "letter": "D",
+          "text": "Otizm belirti şiddeti",
+          "images": [],
+          "text_ar": "شدة أعراض التوحد"
+        },
+        {
+          "letter": "E",
+          "text": "Erken dönem müdahale ve eğitim",
+          "images": [],
+          "text_ar": "التدخل المبكر والتعليم"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من العوامل التي تحدد مآل الأفراد المصابين باضطراب طيف التوحد؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Zeka ve dil becerileri gelişmiş yüksek işlevli otizmli ergenlerle ilgili olarak aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaşıtlarından farklı olduğunu fark etme, depresif belirtilere yol açabilir.",
+          "images": [],
+          "text_ar": "إدراكهم أنهم مختلفون عن أقرانهم قد يؤدي إلى أعراض اكتئابية."
+        },
+        {
+          "letter": "B",
+          "text": "Soğuk ve mesafeli grup olarak da bilinirler.",
+          "images": [],
+          "text_ar": "يُعرفون أيضًا بالمجموعة الباردة المتباعدة."
+        },
+        {
+          "letter": "C",
+          "text": "Espri yapmak ve anlamak, mecazi ve dolaylı anlatım önemli zorluk alanlarıdır.",
+          "images": [],
+          "text_ar": "إلقاء النكات وفهمها، والتعبير المجازي وغير المباشر، من مجالات الصعوبة المهمة."
+        },
+        {
+          "letter": "D",
+          "text": "Duygusal ve romantik ilişkilerde sosyal kısıtlılıkları sebebiyle zorluk yaşarlar.",
+          "images": [],
+          "text_ar": "يواجهون صعوبة في العلاقات العاطفية والرومانسية بسبب قصورهم الاجتماعي."
+        },
+        {
+          "letter": "E",
+          "text": "Arkadaşlık ilişkilerini takıntılı ilgi alanları üzerinden sürdürmek istemeleri önemli sosyal kısıtlılığa sebep olur.",
+          "images": [],
+          "text_ar": "رغبتهم في إدامة علاقات الصداقة عبر مجالات اهتمامهم الوسواسية تسبب قصورًا اجتماعيًا مهمًا."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يمكن قوله بشأن المراهقين المصابين بالتوحد عالي الأداء ممن تطورت لديهم مهارات الذكاء واللغة؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Otizm Spektrum bozukluğu olan çocuklara yönelik sıkça uygulanan eğitimsel modeller ve  müdahale yöntemlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duyu Bütünleme Terapisi",
+          "images": [],
+          "text_ar": "العلاج بتكامل الحواس"
+        },
+        {
+          "letter": "B",
+          "text": "Konuşma Terapisi",
+          "images": [],
+          "text_ar": "علاج النطق"
+        },
+        {
+          "letter": "C",
+          "text": "Hiperbarik oksijen terapisi",
+          "images": [],
+          "text_ar": "العلاج بالأكسجين عالي الضغط"
+        },
+        {
+          "letter": "D",
+          "text": "Erken Yoğun Davranış Analizi",
+          "images": [],
+          "text_ar": "تحليل السلوك المكثف المبكر"
+        },
+        {
+          "letter": "E",
+          "text": "Uygulamalı Davranış Analizi",
+          "images": [],
+          "text_ar": "تحليل السلوك التطبيقي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من النماذج التعليمية وأساليب التدخل الشائعة التطبيق للأطفال المصابين باضطراب طيف التوحد؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Otizm spektrum bozukluğu (OSB) ve ekran maruziyeti ilişkisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "OSB açısından genetik riski bulunan çocuklarda ekran maruziyeti, belirtilerin ortaya çıkmasının önemli bir sebebidir.",
+          "images": [],
+          "text_ar": "التعرض للشاشات لدى الأطفال الذين لديهم خطر وراثي للإصابة باضطراب طيف التوحد سبب مهم لظهور الأعراض."
+        },
+        {
+          "letter": "B",
+          "text": "Düzenli ve yeterli ekran maruziyeti, OSB olan çocukların sosyal ve dil gelişimini hızlandırır.",
+          "images": [],
+          "text_ar": "التعرض المنتظم والكافي للشاشات يسرّع النمو الاجتماعي واللغوي لدى الأطفال المصابين باضطراب طيف التوحد."
+        },
+        {
+          "letter": "C",
+          "text": "Aşırı ekran maruziyeti, var olan OSB belirtilerinin kötüleşmesine sebep olabilir.",
+          "images": [],
+          "text_ar": "قد يؤدي التعرض المفرط للشاشات إلى تفاقم أعراض اضطراب طيف التوحد الموجودة."
+        },
+        {
+          "letter": "D",
+          "text": "OSB, televizyon izlemenin hem sebebi hem de sonucudur.",
+          "images": [],
+          "text_ar": "اضطراب طيف التوحد سبب لمشاهدة التلفاز ونتيجة لها في الوقت نفسه."
+        },
+        {
+          "letter": "E",
+          "text": "Son yıllarda OSB sıklığındaki artışın ekran maruziyetiyle ilişkili olduğu düşünülmektedir.",
+          "images": [],
+          "text_ar": "يُعتقد أن الزيادة في معدلات انتشار اضطراب طيف التوحد في السنوات الأخيرة مرتبطة بالتعرض للشاشات."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي صحيح بشأن العلاقة بين اضطراب طيف التوحد (OSB) والتعرض للشاشات؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi otizm spektrum bozukluğu olan bireylerin dil becerileriyle ilgili özelliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Akıcı konuşmaya sahip olanlarda, karşılıklı konuşma ve sohbet yürütmede zorluk",
+          "images": [],
+          "text_ar": "صعوبة المحادثة المتبادلة وإدارة الحوار لدى من لديهم كلام طليق"
+        },
+        {
+          "letter": "B",
+          "text": "Akıcı konuşmaya sahip olanlarda, monoton ses tonu ve kendine özgü kalıplarla konuşma",
+          "images": [],
+          "text_ar": "التحدث بنبرة صوت رتيبة وأنماط خاصة لدى من لديهم كلام طليق"
+        },
+        {
+          "letter": "C",
+          "text": "Kelime dağarcığı, cümle yapıları ve sözel anlatım açısından yaşıtlarından gerilik",
+          "images": [],
+          "text_ar": "تأخر عن أقرانهم في المفردات وتراكيب الجمل والتعبير اللفظي"
+        },
+        {
+          "letter": "D",
+          "text": "Anlamlı kelimenin olmayışı ve sadece ekolaliyle konuşma",
+          "images": [],
+          "text_ar": "غياب الكلمات ذات المعنى والتحدث بالترديد فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كل ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي من خصائص المهارات اللغوية لدى الأفراد المصابين باضطراب طيف التوحد؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "ea51b4edec24404b6c066fea0ffdbe59b98d1765f41d89a477a884a71ece56eb"
+}

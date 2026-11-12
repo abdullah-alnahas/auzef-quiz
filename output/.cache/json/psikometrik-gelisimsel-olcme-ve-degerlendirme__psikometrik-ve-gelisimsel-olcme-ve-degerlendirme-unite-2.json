@@ -1,0 +1,439 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -2",
+  "exam_slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-2",
+  "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -2",
+  "source_url": "https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-2/",
+  "scraped_at": "2026-11-12T15:01:05+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bir ölçüm aracının geçerliğinin hesaplanmasında kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İç tutarlılık",
+          "images": [],
+          "text_ar": "الاتساق الداخلي"
+        },
+        {
+          "letter": "B",
+          "text": "Yüzdelik normlar",
+          "images": [],
+          "text_ar": "المعايير المئينية"
+        },
+        {
+          "letter": "C",
+          "text": "Farklı zamanlarda uygulanan test sonuçlarının karşılaştırılması",
+          "images": [],
+          "text_ar": "مقارنة نتائج اختبارات طُبّقت في أزمنة مختلفة"
+        },
+        {
+          "letter": "D",
+          "text": "Paralel formlar",
+          "images": [],
+          "text_ar": "الصور الموازية"
+        },
+        {
+          "letter": "E",
+          "text": "Faktör analizi",
+          "images": [],
+          "text_ar": "تحليل العوامل"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي يُستخدم في حساب صدق أداة قياس؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçeğin kullanım rahatlığı ile ilgili değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kolay uygulanması",
+          "images": [],
+          "text_ar": "سهولة تطبيقه"
+        },
+        {
+          "letter": "B",
+          "text": "Kolay puanlanması",
+          "images": [],
+          "text_ar": "سهولة تصحيحه"
+        },
+        {
+          "letter": "C",
+          "text": "Ucuz olması",
+          "images": [],
+          "text_ar": "كونه غير مكلف"
+        },
+        {
+          "letter": "D",
+          "text": "Farklı ölçümlerde tutarlı sonuçlar vermesi",
+          "images": [],
+          "text_ar": "إعطاؤه نتائج متسقة في قياسات مختلفة"
+        },
+        {
+          "letter": "E",
+          "text": "Kolay yorumlanması",
+          "images": [],
+          "text_ar": "سهولة تفسيره"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي لا يتعلق بسهولة استخدام المقياس؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Bir ölçüm aracının psikometrik olarak sağlam olduğunun söylenmesi için aşağıdakilerden hangisi gereklidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçüm aracının sonuçlarında hataya rastlanmamalıdır.",
+          "images": [],
+          "text_ar": "ألّا يُلاحظ خطأ في نتائج أداة القياس."
+        },
+        {
+          "letter": "B",
+          "text": "Ölçüm aracı, ölçmeyi amaçladığı değişkeni doğru bir şekilde ölçmeli ve sonuçları tutarlı olmalıdır.",
+          "images": [],
+          "text_ar": "أن تقيس أداة القياس المتغير المقصود قياسه قياسًا صحيحًا وأن تكون نتائجها متسقة."
+        },
+        {
+          "letter": "C",
+          "text": "Ölçüm aracı, klinik yargıya varmayı kolaylaştırmalıdır.",
+          "images": [],
+          "text_ar": "أن تسهّل أداة القياس التوصل إلى حكم إكلينيكي."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçüm aracı, kolay uygulanmalı, puanlanmalı ve yorumlanmalıdır.",
+          "images": [],
+          "text_ar": "أن تكون أداة القياس سهلة التطبيق والتصحيح والتفسير."
+        },
+        {
+          "letter": "E",
+          "text": "Ölçüm aracı, tüm çocuklarda kullanılabilmelidir.",
+          "images": [],
+          "text_ar": "أن تكون أداة القياس قابلة للاستخدام مع جميع الأطفال."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لازم لكي يُقال إن أداة قياس متينة سيكومتريًا؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Hangi testler için yaş normlarının mevcut olması önemlidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Likert tipi ölçekler",
+          "images": [],
+          "text_ar": "المقاييس من نوع ليكرت"
+        },
+        {
+          "letter": "B",
+          "text": "Gelişim testleri",
+          "images": [],
+          "text_ar": "اختبارات النمو"
+        },
+        {
+          "letter": "C",
+          "text": "Kişilik testleri",
+          "images": [],
+          "text_ar": "اختبارات الشخصية"
+        },
+        {
+          "letter": "D",
+          "text": "Ebeveynlik stili testleri",
+          "images": [],
+          "text_ar": "اختبارات أسلوب التنشئة الوالدية"
+        },
+        {
+          "letter": "E",
+          "text": "Memnuniyet anketleri",
+          "images": [],
+          "text_ar": "استبيانات الرضا"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "لأي اختبارات يكون وجود معايير عمرية مهمًا؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Ölçeğin yapı geçerliği için hangi hesaplama yapılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Faktör analizi",
+          "images": [],
+          "text_ar": "تحليل العوامل"
+        },
+        {
+          "letter": "B",
+          "text": "Ölçütle karşılaştırılması",
+          "images": [],
+          "text_ar": "المقارنة بالمحك"
+        },
+        {
+          "letter": "C",
+          "text": "İç tutarlık",
+          "images": [],
+          "text_ar": "الاتساق الداخلي"
+        },
+        {
+          "letter": "D",
+          "text": "Test tekrar test skorlarının karşılaştırılması",
+          "images": [],
+          "text_ar": "مقارنة درجات إعادة الاختبار"
+        },
+        {
+          "letter": "E",
+          "text": "Paralel formların karşılaştırılması",
+          "images": [],
+          "text_ar": "مقارنة الصور الموازية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي حساب يُجرى لصدق البناء للمقياس؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Belirtke tablosu hangi amaçla kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kapsam geçerliği",
+          "images": [],
+          "text_ar": "صدق المحتوى"
+        },
+        {
+          "letter": "B",
+          "text": "Ölçüt geçerliği",
+          "images": [],
+          "text_ar": "صدق المحك"
+        },
+        {
+          "letter": "C",
+          "text": "Paralel form tutarlılığı",
+          "images": [],
+          "text_ar": "اتساق الصور الموازية"
+        },
+        {
+          "letter": "D",
+          "text": "Yapı geçerliği",
+          "images": [],
+          "text_ar": "صدق البناء"
+        },
+        {
+          "letter": "E",
+          "text": "Görünüş geçerliği",
+          "images": [],
+          "text_ar": "صدق المظهر"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "لأي غرض يُستخدم جدول المواصفات؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Norm dayanaklı test ve değerleme nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Testin farklı ölçümlerde aynı sonucu vermesidir.",
+          "images": [],
+          "text_ar": "حصول الاختبار على النتيجة نفسها في قياسات مختلفة."
+        },
+        {
+          "letter": "B",
+          "text": "Test sonuçlarının kolay yorumlanmasıdır.",
+          "images": [],
+          "text_ar": "سهولة تفسير نتائج الاختبار."
+        },
+        {
+          "letter": "C",
+          "text": "Bireysel puanların norm grubuyla kıyaslanarak anlam çıkarılmasıdır.",
+          "images": [],
+          "text_ar": "استخلاص المعنى من الدرجات الفردية بمقارنتها بجماعة المعايير."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçüm sonuçlarında hataya rastlanmamasıdır.",
+          "images": [],
+          "text_ar": "عدم وجود خطأ في نتائج القياس."
+        },
+        {
+          "letter": "E",
+          "text": "Ölçek sonuçlarının uzmanın görüşüne başvurarak yorumlanmasıdır.",
+          "images": [],
+          "text_ar": "تفسير نتائج المقياس بالرجوع إلى رأي الخبير."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما الاختبار والتقييم المستندان إلى المعايير؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Sınıf normları hangi amaçla kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun sınıfın ortalama beceri düzeyine göre durumunun belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد وضع الطفل بالنسبة إلى متوسط مستوى مهارات الصف"
+        },
+        {
+          "letter": "B",
+          "text": "Farklı yaşlardaki çocukların beceri seviyesinin belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد مستوى مهارات الأطفال في أعمار مختلفة"
+        },
+        {
+          "letter": "C",
+          "text": "Test edilen bireyin norm grubuna göre yüzdesinin belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد النسبة المئوية للفرد المختبر بالنسبة إلى جماعة المعايير"
+        },
+        {
+          "letter": "D",
+          "text": "Testlerin bir sınıfın tamamına uygulanabilmesi",
+          "images": [],
+          "text_ar": "إمكانية تطبيق الاختبارات على صف كامل"
+        },
+        {
+          "letter": "E",
+          "text": "Sınıflardaki çocukların başarısının artırılması",
+          "images": [],
+          "text_ar": "رفع تحصيل الأطفال في الصفوف"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "لأي غرض تُستخدم معايير الصف؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Ölçeğin kapsam geçerliği nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçüm aracının ölçmesi amaçlanan değişkeni ve onunla ilişkili özellikleri ölçmesi",
+          "images": [],
+          "text_ar": "قياس أداة القياس للمتغير المقصود قياسه والخصائص المرتبطة به"
+        },
+        {
+          "letter": "B",
+          "text": "Ölçüm sonucunun ölçütle kıyaslanması işlemi",
+          "images": [],
+          "text_ar": "عملية مقارنة نتيجة القياس بالمحك"
+        },
+        {
+          "letter": "C",
+          "text": "Ölçüm aracının maddelerinin o konudaki teorik bilgiye uygun bir yapı oluşturması",
+          "images": [],
+          "text_ar": "أن تشكّل فقرات أداة القياس بنية تتوافق مع المعرفة النظرية في الموضوع"
+        },
+        {
+          "letter": "D",
+          "text": "Ölçüm aracının maddelerinin tutarlı bir şekilde aynı değişkeni değerlendirmesi",
+          "images": [],
+          "text_ar": "تقييم فقرات أداة القياس للمتغير نفسه على نحو متسق"
+        },
+        {
+          "letter": "E",
+          "text": "Ölçüm aracının farklı değerlendiricilerde tutarlı bir şekilde benzer sonuçlar vermesi",
+          "images": [],
+          "text_ar": "حصول أداة القياس على نتائج متشابهة على نحو متسق لدى مقيّمين مختلفين"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما المقصود بصدق المحتوى للمقياس؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Bir testin güvenirliğinin hesaplanmasında hangisi kullanılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Testin farklı ölçümlerde benzer sonuçlar vermesi",
+          "images": [],
+          "text_ar": "إعطاء الاختبار نتائج متشابهة في قياسات مختلفة"
+        },
+        {
+          "letter": "B",
+          "text": "Testin farklı değerlendiricilerde benzer sonuçlar vermesi",
+          "images": [],
+          "text_ar": "إعطاء الاختبار نتائج متشابهة لدى مقيّمين مختلفين"
+        },
+        {
+          "letter": "C",
+          "text": "Paralel formların benzer sonuçlar vermesi",
+          "images": [],
+          "text_ar": "إعطاء الصور الموازية نتائج متشابهة"
+        },
+        {
+          "letter": "D",
+          "text": "Maddelerin tutarlı bir şekilde aynı değişkeni değerlendirmesi",
+          "images": [],
+          "text_ar": "تقييم الفقرات للمتغير نفسه على نحو متسق"
+        },
+        {
+          "letter": "E",
+          "text": "Testin ölçüt ile benzer sonuçlar vermesi",
+          "images": [],
+          "text_ar": "إعطاء الاختبار نتائج متشابهة مع المحك"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يُستخدم في حساب ثبات اختبار؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "543a63344b49ca4c66e3070798b550be719c2d7cd23cbc093415fc334c24f8bb"
+}

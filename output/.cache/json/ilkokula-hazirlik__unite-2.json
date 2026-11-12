@@ -1,0 +1,442 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "Ünite -2",
+  "exam_slug": "unite-2",
+  "page_title": "İlkokula Hazırlık Ünite -2",
+  "source_url": "https://lolonolo.com/2023/09/18/ilkokula-hazirlik-unite-2/",
+  "scraped_at": "2026-11-12T15:00:58+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi erken okuryazarlık kapsamında ele alınabilecek eylem ve davranışlardan 3 yaş ve sonrasındaki davranışlar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çevredeki bazı logoları tanır.",
+          "images": [],
+          "text_ar": "يتعرف بعض الشعارات في محيطه."
+        },
+        {
+          "letter": "B",
+          "text": "Sınıfta uydurma hecelemelerle yazdığı ilk resimli öyküyü sunar",
+          "images": [],
+          "text_ar": "يقدّم في الصف أول قصة مصوّرة كتبها بهجاءات مختلقة."
+        },
+        {
+          "letter": "C",
+          "text": "Annesi alışveriş listesi hazırlarken kendisi yazı yazma denemeleri yapar",
+          "images": [],
+          "text_ar": "يقوم بمحاولات كتابية بينما تعدّ أمه قائمة المشتريات."
+        },
+        {
+          "letter": "D",
+          "text": "Adını yazma denemeleri yaptığı bloknotunu gösterir",
+          "images": [],
+          "text_ar": "يُظهر دفتره الذي أجرى فيه محاولات لكتابة اسمه."
+        },
+        {
+          "letter": "E",
+          "text": "Büyük ablası ve abisinin okuduğu kitaptan belli kelimeleri tekrarlar.",
+          "images": [],
+          "text_ar": "يكرر كلمات معينة من كتاب تقرأه أخته الكبرى وأخوه."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن الأفعال والسلوكيات التي يمكن تناولها في إطار القراءة والكتابة المبكرة عند سن 3 سنوات وما بعدها؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi erken okuryazarlık becerilerinin okul öncesi dönemde edinilmesindeki avantajlardan biri olamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlkokul 1. sınıfta okuma-yazmanın kolaylaşması",
+          "images": [],
+          "text_ar": "تسهّل القراءة والكتابة في الصف الأول من المدرسة الابتدائية"
+        },
+        {
+          "letter": "B",
+          "text": "İlerleyen yıllarda akademik becerilerin olumlu etkilenmesi",
+          "images": [],
+          "text_ar": "تتأثر المهارات الأكاديمية إيجابًا في السنوات اللاحقة"
+        },
+        {
+          "letter": "C",
+          "text": "İlerleyen yıllarda iyi bir okur-yazar olması",
+          "images": [],
+          "text_ar": "أن يصبح قارئًا وكاتبًا جيدًا في السنوات اللاحقة"
+        },
+        {
+          "letter": "D",
+          "text": "Evdeki ve okuldaki kişilerle iyi iletişim kurabilmesi",
+          "images": [],
+          "text_ar": "أن يقيم تواصلًا جيدًا مع الأشخاص في البيت والمدرسة"
+        },
+        {
+          "letter": "E",
+          "text": "Akranlarından önce okuyabildiğinden onlarla tartışma yaşaması",
+          "images": [],
+          "text_ar": "أن يدخل في جدال مع أقرانه لأنه يقرأ قبلهم"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يمكن أن يكون من مزايا اكتساب مهارات القراءة والكتابة المبكرة في مرحلة ما قبل المدرسة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi erken okuryazarlık kapsamında ele alınabilecek eylem ve davranışlardan 12-24 ay arasında yapılabileceklerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Annesinin elinde en sevdiği kitabını görünce keyifli bir ses çıkarması",
+          "images": [],
+          "text_ar": "أن يُصدر صوتًا ممتعًا عند رؤية كتابه المفضل في يد أمه"
+        },
+        {
+          "letter": "B",
+          "text": "Araba giderken yolda gördüğü sokak tabelalarını okuması",
+          "images": [],
+          "text_ar": "أن يقرأ لافتات الشوارع التي يراها في الطريق أثناء ركوب السيارة"
+        },
+        {
+          "letter": "C",
+          "text": "Annesi kitap okurken kitaptaki resimleri göstermesi",
+          "images": [],
+          "text_ar": "أن يشير إلى الصور في الكتاب بينما تقرأ أمه"
+        },
+        {
+          "letter": "D",
+          "text": "Annesi ninni veya tekerleme okurken başını sallaması",
+          "images": [],
+          "text_ar": "أن يهزّ رأسه بينما تقرأ أمه تهويدة أو أهزوجة"
+        },
+        {
+          "letter": "E",
+          "text": "Annesi alışveriş listesi hazırlarken yazı yazma denemeleri yapması",
+          "images": [],
+          "text_ar": "أن يقوم بمحاولات كتابية بينما تعدّ أمه قائمة المشتريات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من الأفعال والسلوكيات التي يمكن تناولها في إطار القراءة والكتابة المبكرة عند ما بين 12 و24 شهرًا؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların erken okuryazarlık yaşantıları kazandığı alanlar arasında aşağıdakilerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile ile tartışma yapma",
+          "images": [],
+          "text_ar": "إجراء مناقشة مع الأسرة"
+        },
+        {
+          "letter": "B",
+          "text": "Toplumsal alışveriş",
+          "images": [],
+          "text_ar": "التفاعل الاجتماعي"
+        },
+        {
+          "letter": "C",
+          "text": "Teknoloji",
+          "images": [],
+          "text_ar": "التكنولوجيا"
+        },
+        {
+          "letter": "D",
+          "text": "Masallar",
+          "images": [],
+          "text_ar": "الحكايات"
+        },
+        {
+          "letter": "E",
+          "text": "Tekerlemeler",
+          "images": [],
+          "text_ar": "الأهازيج"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا يندرج ضمن مجالات اكتساب الأطفال خبرات القراءة والكتابة المبكرة؟",
+      "review": [
+        "q4.B: «Toplumsal alışveriş» صياغة غير مألوفة تحتمل «التبادل/التفاعل الاجتماعي»؛ نُقلت بمعنى التفاعل الاجتماعي"
+      ]
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Erken okuryazarlık bileşenlerinden yazı ve baskı farkındalığında aşağıdakilerden hangisi öğrenilmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kelimelerin sağdan sola ve yukarıdan aşağıya okunması",
+          "images": [],
+          "text_ar": "قراءة الكلمات من اليمين إلى اليسار ومن الأعلى إلى الأسفل"
+        },
+        {
+          "letter": "B",
+          "text": "Kitabın nasıl tutulacağının öğrenilmesi",
+          "images": [],
+          "text_ar": "تعلم كيفية حمل الكتاب"
+        },
+        {
+          "letter": "C",
+          "text": "Cümlelerin sonunda noktalama işaretlerinin olduğunun öğrenilmesi",
+          "images": [],
+          "text_ar": "تعلم وجود علامات الترقيم في نهاية الجمل"
+        },
+        {
+          "letter": "D",
+          "text": "Kelime ve cümlelerin nasıl oluştuğunun öğrenilmesi",
+          "images": [],
+          "text_ar": "تعلم كيفية تكوّن الكلمات والجمل"
+        },
+        {
+          "letter": "E",
+          "text": "Kitabın dış kapağının olduğunun öğrenilmesi",
+          "images": [],
+          "text_ar": "تعلم أن للكتاب غلافًا خارجيًا"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا يُتعلَّم في الوعي بالكتابة والطباعة، وهو أحد مكونات القراءة والكتابة المبكرة؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde yazı farkındalığında kazanılabilecek becerilerden hepsi bir arada verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konuşma kuralları ve sözcük bilgisi",
+          "images": [],
+          "text_ar": "قواعد الكلام والمفردات"
+        },
+        {
+          "letter": "B",
+          "text": "Yazı kuralları ve harf bilgisi",
+          "images": [],
+          "text_ar": "قواعد الكتابة ومعرفة الحروف"
+        },
+        {
+          "letter": "C",
+          "text": "Sözcük bilgisi, harf bilgisi ve yazı kuralları",
+          "images": [],
+          "text_ar": "المفردات ومعرفة الحروف وقواعد الكتابة"
+        },
+        {
+          "letter": "D",
+          "text": "Sözcük bilgisi ve harf bilgisi",
+          "images": [],
+          "text_ar": "المفردات ومعرفة الحروف"
+        },
+        {
+          "letter": "E",
+          "text": "Harf bilgisi, konuşma kuralları, yazı kuralları",
+          "images": [],
+          "text_ar": "معرفة الحروف وقواعد الكلام وقواعد الكتابة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الخيارات الآتية يرد فيها مجتمعةً كل المهارات التي يمكن اكتسابها في الوعي بالكتابة؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Bebeğin doğumundan itibaren etrafı tanımasıyla ve yazı dilini öğrenmesiyle ifade etmeye başladığı, anaokuluna başlamasından önce kazanılan ve fiziksel, sosyal ve duygusal gelişim alanlarıyla ilişkili olan kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okuryazarlık",
+          "images": [],
+          "text_ar": "القراءة والكتابة"
+        },
+        {
+          "letter": "B",
+          "text": "Hazırbulunuşluk",
+          "images": [],
+          "text_ar": "الاستعداد"
+        },
+        {
+          "letter": "C",
+          "text": "Konuşma",
+          "images": [],
+          "text_ar": "الكلام"
+        },
+        {
+          "letter": "D",
+          "text": "Gıgıldama",
+          "images": [],
+          "text_ar": "المناغاة"
+        },
+        {
+          "letter": "E",
+          "text": "Emekleme",
+          "images": [],
+          "text_ar": "الحبو"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما المفهوم الذي يبدأ الرضيع التعبير عنه منذ ولادته بتعرّفه على محيطه وتعلّمه اللغة المكتوبة، ويُكتسب قبل الالتحاق برياض الأطفال، ويرتبط بمجالات النمو الجسدي والاجتماعي والعاطفي؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki erken okuryazarlık becerilerinden hangileri ulusal değerlendirme araçlarından biri olan “EROT” ile ölçülemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İfade edici dilde sözcük bilgisi",
+          "images": [],
+          "text_ar": "المفردات في اللغة التعبيرية"
+        },
+        {
+          "letter": "B",
+          "text": "Alıcı dilde sözcük bilgisi",
+          "images": [],
+          "text_ar": "المفردات في اللغة الاستقبالية"
+        },
+        {
+          "letter": "C",
+          "text": "Dinlediğini anlama",
+          "images": [],
+          "text_ar": "فهم المسموع"
+        },
+        {
+          "letter": "D",
+          "text": "Genel isimlendirme",
+          "images": [],
+          "text_ar": "التسمية العامة"
+        },
+        {
+          "letter": "E",
+          "text": "Öyküyü anlama",
+          "images": [],
+          "text_ar": "فهم القصة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مهارات القراءة والكتابة المبكرة الآتية لا يمكن قياسها بأداة التقييم الوطنية «EROT»؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi erken okuryazarlık bileşenlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Harf / alfabe bilgisi",
+          "images": [],
+          "text_ar": "معرفة الحروف/الأبجدية"
+        },
+        {
+          "letter": "B",
+          "text": "Cümle bilgisi",
+          "images": [],
+          "text_ar": "معرفة الجمل"
+        },
+        {
+          "letter": "C",
+          "text": "Yazı/ baskı farkındalığı",
+          "images": [],
+          "text_ar": "الوعي بالكتابة/الطباعة"
+        },
+        {
+          "letter": "D",
+          "text": "Ses bilgisel farkındalık",
+          "images": [],
+          "text_ar": "الوعي الصوتي"
+        },
+        {
+          "letter": "E",
+          "text": "Sözcük bilgisi",
+          "images": [],
+          "text_ar": "المفردات"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من مكونات القراءة والكتابة المبكرة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Uluslararası erken okuryazarlık değerlendirme araçlarından hangisi “Yazı Bilgisi, Kelime Tanımlama ve Fonolojik Farkındalık” belirlemeye yöneliktir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "PALS",
+          "images": [],
+          "text_ar": "اختبار PALS للقراءة والكتابة المبكرة"
+        },
+        {
+          "letter": "B",
+          "text": "DIBELS",
+          "images": [],
+          "text_ar": "اختبار DIBELS للمهارات المبكرة"
+        },
+        {
+          "letter": "C",
+          "text": "GTRT",
+          "images": [],
+          "text_ar": "اختبار GTRT للقراءة"
+        },
+        {
+          "letter": "D",
+          "text": "TOPEL",
+          "images": [],
+          "text_ar": "اختبار TOPEL للغة والقراءة المبكرة"
+        },
+        {
+          "letter": "E",
+          "text": "PPVT-4",
+          "images": [],
+          "text_ar": "اختبار PPVT-4 للمفردات"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي أدوات التقييم الدولية للقراءة والكتابة المبكرة يهدف إلى تحديد «معرفة الكتابة، وتعريف الكلمات، والوعي الصوتي»؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "dd4bd1185af03e822a0a0574871f117e28fa346dad3bc52c3e776f9b58fd17eb"
+}

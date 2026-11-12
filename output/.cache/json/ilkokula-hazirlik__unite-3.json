@@ -1,0 +1,442 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "Ünite -3",
+  "exam_slug": "unite-3",
+  "page_title": "İlkokula Hazırlık Ünite -3",
+  "source_url": "https://lolonolo.com/2023/09/18/ilkokula-hazirlik-unite-3/",
+  "scraped_at": "2026-11-12T15:00:58+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum programlarının dayandığı ekolojik sistemler kuramı içinde aşağıdakilerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ekzosistem",
+          "images": [],
+          "text_ar": "النظام الخارجي"
+        },
+        {
+          "letter": "B",
+          "text": "Koronosistem",
+          "images": [],
+          "text_ar": "النظام الزمني"
+        },
+        {
+          "letter": "C",
+          "text": "Mezosistem",
+          "images": [],
+          "text_ar": "النظام الوسيط"
+        },
+        {
+          "letter": "D",
+          "text": "Mikrosistem",
+          "images": [],
+          "text_ar": "النظام المصغر"
+        },
+        {
+          "letter": "E",
+          "text": "Atmosistem",
+          "images": [],
+          "text_ar": "النظام الجوي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن نظرية النظم البيئية التي تستند إليها برامج التكيف مع المدرسة؟",
+      "review": [
+        "q1.B: «Koronosistem» خطأ إملائي محتمل عن «Kronosistem» (النظام الزمني)؛ نُقلت بهذا المعنى"
+      ]
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi okula hazır ailenin özellikleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun özgüven kazanacağı ortamı yaratan",
+          "images": [],
+          "text_ar": "تُهيّئ بيئة يكتسب فيها الطفل الثقة بالنفس"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun gelişim özelliklerini bilen",
+          "images": [],
+          "text_ar": "تعرف خصائص نمو الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Eğitim kurumunun önemini bilen",
+          "images": [],
+          "text_ar": "تدرك أهمية المؤسسة التعليمية"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun karşılaşabileceği her tür uyarıcıyı çevreden kaldıran",
+          "images": [],
+          "text_ar": "تُزيل من المحيط كل أنواع المثيرات التي قد يواجهها الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Eğitim kurumuyla iş birliği kuran",
+          "images": [],
+          "text_ar": "تُقيم تعاونًا مع المؤسسة التعليمية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الخيارات الآتية لا يندرج ضمن خصائص الأسرة الجاهزة للمدرسة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum sürecinde çocuğun geçmesi gereken aşamalar, aşağıdaki seçeneklerin hangisinde doğru sırada ve tam olarak verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul başlama, hazırlık, yerleşme",
+          "images": [],
+          "text_ar": "بدء المدرسة، التهيئة، الاستقرار"
+        },
+        {
+          "letter": "B",
+          "text": "Okula başlama, yerleşme, bütünleşme",
+          "images": [],
+          "text_ar": "بدء المدرسة، الاستقرار، الاندماج"
+        },
+        {
+          "letter": "C",
+          "text": "Hazırlık, yerleşme, bütünleşme",
+          "images": [],
+          "text_ar": "التهيئة، الاستقرار، الاندماج"
+        },
+        {
+          "letter": "D",
+          "text": "Hazırlık, bütünleşme, yerleşme",
+          "images": [],
+          "text_ar": "التهيئة، الاندماج، الاستقرار"
+        },
+        {
+          "letter": "E",
+          "text": "Hazırlık, okula başlama, bütünleşme",
+          "images": [],
+          "text_ar": "التهيئة، بدء المدرسة، الاندماج"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الخيارات الآتية يرد فيها المراحل التي ينبغي أن يمرّ بها الطفل في عملية التكيف مع المدرسة بالترتيب الصحيح وكاملة؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi ilkokul 1. sınıf uyum programı sonunda, öğrencilerin edinebileceği kazanımlar arasında yer alamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bölme ve çarpmayı öğrenir.",
+          "images": [],
+          "text_ar": "يتعلم القسمة والضرب."
+        },
+        {
+          "letter": "B",
+          "text": "Hece ve kelimeleri öğrenir.",
+          "images": [],
+          "text_ar": "يتعلم المقاطع والكلمات."
+        },
+        {
+          "letter": "C",
+          "text": "Kendisini ve ailesini tanır.",
+          "images": [],
+          "text_ar": "يتعرف نفسه وأسرته."
+        },
+        {
+          "letter": "D",
+          "text": "Doğayı, bitki ve hayvanları gözlemler.",
+          "images": [],
+          "text_ar": "يلاحظ الطبيعة والنباتات والحيوانات."
+        },
+        {
+          "letter": "E",
+          "text": "Planlama yapabilir.",
+          "images": [],
+          "text_ar": "يستطيع التخطيط."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي الخيارات الآتية لا يندرج ضمن مخرجات التعلم التي يمكن أن يحققها الطلاب في نهاية برنامج التكيف للصف الأول الابتدائي؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun okula uyum sürecinde iş birliği yapılabilecek paydaşlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Veliler",
+          "images": [],
+          "text_ar": "أولياء الأمور"
+        },
+        {
+          "letter": "B",
+          "text": "Okul yönetimi",
+          "images": [],
+          "text_ar": "إدارة المدرسة"
+        },
+        {
+          "letter": "C",
+          "text": "Komşular",
+          "images": [],
+          "text_ar": "الجيران"
+        },
+        {
+          "letter": "D",
+          "text": "Diğer öğretmenler",
+          "images": [],
+          "text_ar": "المعلمون الآخرون"
+        },
+        {
+          "letter": "E",
+          "text": "Rehber öğretmenler",
+          "images": [],
+          "text_ar": "المرشدون المعلمون"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من أصحاب المصلحة الذين يمكن التعاون معهم في عملية تكيف الطفل مع المدرسة؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde, çocuğun okula uyumunda yer alan boyutlar bir arada ve doğru biçimde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hazır çocuk ve hazır okul",
+          "images": [],
+          "text_ar": "طفل جاهز ومدرسة جاهزة"
+        },
+        {
+          "letter": "B",
+          "text": "Hazır müdür, hazır çocuk, hazır aile",
+          "images": [],
+          "text_ar": "مدير جاهز وطفل جاهز وأسرة جاهزة"
+        },
+        {
+          "letter": "C",
+          "text": "Hazır müdür ve hazır aile",
+          "images": [],
+          "text_ar": "مدير جاهز وأسرة جاهزة"
+        },
+        {
+          "letter": "D",
+          "text": "Hazır aile, hazır çocuk, hazır okul",
+          "images": [],
+          "text_ar": "أسرة جاهزة وطفل جاهز ومدرسة جاهزة"
+        },
+        {
+          "letter": "E",
+          "text": "Hazır aile ve hazır çocuk",
+          "images": [],
+          "text_ar": "أسرة جاهزة وطفل جاهز"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الخيارات الآتية يرد فيها مجتمعةً وعلى نحو صحيح أبعاد تكيف الطفل مع المدرسة؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi, okula uyum sürecinde “hazır çocuk” kavramında çocuğun hazır hale gelmesi gereken gelişim alanlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Motor",
+          "images": [],
+          "text_ar": "الحركي"
+        },
+        {
+          "letter": "B",
+          "text": "Psikolojik",
+          "images": [],
+          "text_ar": "النفسي"
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal- duyuşsal",
+          "images": [],
+          "text_ar": "الاجتماعي-الوجداني"
+        },
+        {
+          "letter": "D",
+          "text": "Fiziksel",
+          "images": [],
+          "text_ar": "الجسدي"
+        },
+        {
+          "letter": "E",
+          "text": "Bilişsel",
+          "images": [],
+          "text_ar": "المعرفي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي الخيارات الآتية ليس من مجالات النمو التي ينبغي أن يصبح فيها الطفل جاهزًا في مفهوم «الطفل الجاهز» ضمن عملية التكيف مع المدرسة؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum programının temel ilkeleri arasında aşağıdakilerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Paydaşlarla iş birliği",
+          "images": [],
+          "text_ar": "التعاون مع أصحاب المصلحة"
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmenin merkez olması",
+          "images": [],
+          "text_ar": "أن يكون المعلم هو المحور"
+        },
+        {
+          "letter": "C",
+          "text": "Okula uyum programını özümseme",
+          "images": [],
+          "text_ar": "استيعاب برنامج التكيف مع المدرسة"
+        },
+        {
+          "letter": "D",
+          "text": "Okula uyum programını değerlendirme",
+          "images": [],
+          "text_ar": "تقييم برنامج التكيف مع المدرسة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğu ve aileyi tanıma",
+          "images": [],
+          "text_ar": "التعرف على الطفل والأسرة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن المبادئ الأساسية لبرنامج التكيف مع المدرسة؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okula uyum sürecinde kaçınılması gereken davranışlar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ailenin çocukla sınıfa girmesi",
+          "images": [],
+          "text_ar": "دخول الأسرة مع الطفل إلى الصف"
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmenden korkutulması",
+          "images": [],
+          "text_ar": "تخويف الطفل من المعلم"
+        },
+        {
+          "letter": "C",
+          "text": "Okuldan sıkılıp sıkılmadığının sorgulanması",
+          "images": [],
+          "text_ar": "السؤال عن مدى شعوره بالملل من المدرسة"
+        },
+        {
+          "letter": "D",
+          "text": "Okuldan vedalaşma sürecinin çok kısa tutulması",
+          "images": [],
+          "text_ar": "جعل عملية الوداع عند المدرسة قصيرة جدًا"
+        },
+        {
+          "letter": "E",
+          "text": "Aile bireylerinin çocuğun okula gitmesine yönelik tutarlı olmaları",
+          "images": [],
+          "text_ar": "أن يكون أفراد الأسرة متسقين في ما يتعلق بذهاب الطفل إلى المدرسة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن السلوكيات التي ينبغي تجنبها في عملية التكيف مع المدرسة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum programında “çocuğu merkeze alma” sürecinde hazırlanacak etkinliklerde, öğretmenin aşağıdaki sorulardan hangisine cevap verecek nitelikte etkinlik hazırlaması beklenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu etkinlikle sınıfımdaki her çocuğa yarar sağlamalı mıyım?",
+          "images": [],
+          "text_ar": "هل ينبغي أن أضمن استفادة كل طفل في صفي من هذا النشاط؟"
+        },
+        {
+          "letter": "B",
+          "text": "Bu etkinlikle hangi çocukların yarar sağlaması için özel çaba göstermeliyim?",
+          "images": [],
+          "text_ar": "ما الأطفال الذين ينبغي أن أبذل جهدًا خاصًا لضمان استفادتهم من هذا النشاط؟"
+        },
+        {
+          "letter": "C",
+          "text": "Bu etkinlikle çocukların hangi gereksinimleri karşılanır?",
+          "images": [],
+          "text_ar": "ما احتياجات الأطفال التي يلبيها هذا النشاط؟"
+        },
+        {
+          "letter": "D",
+          "text": "Bu etkinlikle hangi çocuklar yarar sağlar?",
+          "images": [],
+          "text_ar": "أي الأطفال يستفيدون من هذا النشاط؟"
+        },
+        {
+          "letter": "E",
+          "text": "Bu etkinlikle çocuklar için hangi yöntem-teknikleri seçsem daha yararlı olur?",
+          "images": [],
+          "text_ar": "ما الأساليب والتقنيات التي لو اخترتها لهذا النشاط لكانت أكثر فائدة للأطفال؟"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في الأنشطة التي ستُعدّ في عملية «جعل الطفل في المركز» ضمن برنامج التكيف مع المدرسة، لا يُتوقع من المعلم أن يعدّ نشاطًا يجيب عن أي من الأسئلة التالية؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "d99f3c90c48d23a772b9432397a1513679827267910c031449ed8ac6055cb05c"
+}

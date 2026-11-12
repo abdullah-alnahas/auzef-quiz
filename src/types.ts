@@ -4,10 +4,20 @@ export type ExamType =
   | "butunleme"
   | "yaz-okulu"
   | "uc-ders"
+  | "unite"
+  | "deneme"
   | "unknown";
 
-/** Course-level practice scope: vize, final(+bütünleme) or everything. */
-export type Scope = "vize" | "final" | "all";
+/** One selectable group in a course-level combined test. */
+export type ScopeGroup =
+  | "vize"
+  | "vize-deneme"
+  | "final"
+  | "final-deneme"
+  | "unit";
+
+/** Canonical scope code, e.g. "vize+final" (persisted on attempts). */
+export type Scope = string;
 
 export interface RichText {
   text: string;
@@ -59,6 +69,7 @@ export interface ExamSummary {
   course: string;
   exam: string;
   type: ExamType;
+  mock: boolean;
   questionCount: number;
   contentHash: string;
   reviewFlags: number;

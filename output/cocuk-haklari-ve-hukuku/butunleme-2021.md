@@ -3,7 +3,7 @@ course: ÇOCUK HAKLARI VE HUKUKU
 exam: 2021 Bütünleme Soruları
 source_url: https://lolonolo.com/2021/09/21/cocuk-haklari-ve-hukuku-2021-butunleme/
 question_count: 36
-scraped_at: 2026-11-12T11:32:29+03:00
+scraped_at: 2026-11-12T14:58:14+03:00
 ---
 
 ### Q1

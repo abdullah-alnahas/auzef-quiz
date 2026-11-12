@@ -1,0 +1,442 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -6",
+  "exam_slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-6",
+  "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -6",
+  "source_url": "https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-6/",
+  "scraped_at": "2026-11-12T15:01:05+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel değerlendirmede gelişim seviyesi 2 yaş civarında çıkan 5 yaşındaki çocuk için hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Davranışları değerlendirilirken 2 yaşındaki çocuklarla kıyaslanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي مقارنة سلوكياته بأطفال في الثانية من العمر عند تقييمها."
+        },
+        {
+          "letter": "B",
+          "text": "5 yaş çocuğundan beklenen davranışları sergiler.",
+          "images": [],
+          "text_ar": "يُظهر السلوكيات المتوقعة من طفل في الخامسة."
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimsel değerlendirme sonucuna göre davranışlar değerlendirilemez.",
+          "images": [],
+          "text_ar": "لا يمكن تقييم السلوكيات وفق نتيجة التقييم النمائي."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk yaşıtları ile rahatlıkla anlaşabilir.",
+          "images": [],
+          "text_ar": "يستطيع الطفل أن يتفاهم بسهولة مع أقرانه."
+        },
+        {
+          "letter": "E",
+          "text": "5 yaşındaki bir çocuğa gelişimsel değerlendirme yapılmamalıdır.",
+          "images": [],
+          "text_ar": "لا ينبغي إجراء تقييم نمائي لطفل في الخامسة."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في التقييم النمائي، أي مما يلي صحيح بشأن طفل عمره 5 سنوات ظهر مستوى نموه نحو السنتين؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel değerlendirme sonuçlarının yorumlanması konusunda hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece gelişim testi sonucuna göre karar verilir.",
+          "images": [],
+          "text_ar": "يُتخذ القرار وفق نتيجة اختبار النمو فقط."
+        },
+        {
+          "letter": "B",
+          "text": "Test sonucu, çocuğun klinik durumuyla birlikte yorumlanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي تفسير نتيجة الاختبار إلى جانب الحالة الإكلينيكية للطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Test sonucuna göre tanı konur. D) Test sonucunun doğru olduğu kabul edilir.",
+          "images": [],
+          "text_ar": "يُوضع التشخيص وفق نتيجة الاختبار، ويُقبل أن نتيجة الاختبار صحيحة."
+        },
+        {
+          "letter": "D",
+          "text": "Test sonucunun doğru olduğu kabul edilir.",
+          "images": [],
+          "text_ar": "يُقبل أن نتيجة الاختبار صحيحة."
+        },
+        {
+          "letter": "E",
+          "text": "Çevresel faktörler test yorumlanırken dikkate alınmamalıdır.",
+          "images": [],
+          "text_ar": "ينبغي ألّا تُراعى العوامل البيئية عند تفسير الاختبار."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي صحيح بشأن تفسير نتائج التقييم النمائي؟",
+      "review": [
+        "q2.C: الخيار في المصدر يدمج بقايا الخيار «D)»؛ تُرجم المعنى كاملًا دون رمز الخيار."
+      ]
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ülkemizde kullanılan gelişim değerlendirme araçlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ankara Gelişim Tarama Envanteri",
+          "images": [],
+          "text_ar": "قائمة أنقرة للمسح النمائي"
+        },
+        {
+          "letter": "B",
+          "text": "Denver II Gelişimsel Tarama Testi",
+          "images": [],
+          "text_ar": "اختبار دنفر II للمسح النمائي"
+        },
+        {
+          "letter": "C",
+          "text": "Gazi Erken Çocukluk Gelişimi Değerlendirme Aracı",
+          "images": [],
+          "text_ar": "أداة غازي لتقييم نمو الطفولة المبكرة"
+        },
+        {
+          "letter": "D",
+          "text": "Bayley Bebekler için Gelişim Değerlendirme Ölçeği",
+          "images": [],
+          "text_ar": "مقياس بايلي لتقييم نمو الرضع"
+        },
+        {
+          "letter": "E",
+          "text": "Aile Hayatı ve Çocuk Yetiştirme Tutumu Ölçeği",
+          "images": [],
+          "text_ar": "مقياس حياة الأسرة واتجاه تنشئة الطفل"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أدوات التقييم النمائي المستخدمة في بلدنا؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Ankara Gelişim Tarama Envanteri’nin özelliği değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul öncesi dönem çocuklarının gelişimsel değerlendirmesinde kullanılır",
+          "images": [],
+          "text_ar": "تُستخدم في التقييم النمائي لأطفال مرحلة ما قبل المدرسة."
+        },
+        {
+          "letter": "B",
+          "text": "Türkiye’de geliştirilmiştir.",
+          "images": [],
+          "text_ar": "طُوّرت في تركيا."
+        },
+        {
+          "letter": "C",
+          "text": "Tüm maddeler çocuğun performansına göre klinisyen tarafından doldurulur.",
+          "images": [],
+          "text_ar": "يملأ الطبيب السريري جميع الفقرات وفق أداء الطفل."
+        },
+        {
+          "letter": "D",
+          "text": "154 maddeden oluşur.",
+          "images": [],
+          "text_ar": "تتكون من 154 فقرة."
+        },
+        {
+          "letter": "E",
+          "text": "Türk çocukları için norm tablosu vardır.",
+          "images": [],
+          "text_ar": "لها جدول معايير للأطفال الأتراك."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من خصائص قائمة أنقرة للمسح النمائي؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi gelişimsel değerlendirme konusunda yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gelişimsel değerlendirmenin özenli bir şekilde yapılması gerekir.",
+          "images": [],
+          "text_ar": "يجب إجراء التقييم النمائي بعناية."
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirmede sadece çocuktan bilgi alınır.",
+          "images": [],
+          "text_ar": "لا تُؤخذ المعلومات في التقييم إلا من الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimsel değerlendirmede çocuğun doğum ayı göz önünde bulundurulmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي مراعاة شهر ولادة الطفل في التقييم النمائي."
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirme öncesi çocuk hakkında ebeveyninden bilgi alınması gerekir.",
+          "images": [],
+          "text_ar": "يجب الحصول على معلومات عن الطفل من والديه قبل التقييم."
+        },
+        {
+          "letter": "E",
+          "text": "Prematüre bebeklerin gelişimleri için düzeltilmiş yaş kullanılır.",
+          "images": [],
+          "text_ar": "يُستخدم العمر المصحح في تقييم نمو الرضّع المولودين مبكّرًا."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من العبارات التالية غير صحيح بشأن التقييم النمائي؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi gelişimsel bir sorunu değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gelişim gecikmesi",
+          "images": [],
+          "text_ar": "تأخر النمو"
+        },
+        {
+          "letter": "B",
+          "text": "Gelişimsel gerileme",
+          "images": [],
+          "text_ar": "التراجع النمائي"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimsel sapma",
+          "images": [],
+          "text_ar": "الانحراف النمائي"
+        },
+        {
+          "letter": "D",
+          "text": "Gelişimsel bozukluk",
+          "images": [],
+          "text_ar": "الاضطراب النمائي"
+        },
+        {
+          "letter": "E",
+          "text": "Gelişimsel dönüm noktası",
+          "images": [],
+          "text_ar": "المعلم النمائي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس مشكلة نمائية؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Normal gelişim için aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Normal gelişim, tamamen genetik olarak belirlenir.",
+          "images": [],
+          "text_ar": "النمو الطبيعي محدَّد وراثيًا تحديدًا كاملًا."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun gelişimini takip etmek için her çocuğa düzenli olarak gelişim testi yapılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي إجراء اختبار نمو لكل طفل بانتظام لمتابعة نموه."
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim takibi için gelişimsel dönüm noktaları kullanılabilir.",
+          "images": [],
+          "text_ar": "يمكن استخدام المعالم النمائية لمتابعة النمو."
+        },
+        {
+          "letter": "D",
+          "text": "Normal gelişim, izole alanların bağımsız gelişimi sonucu ortaya çıkar.",
+          "images": [],
+          "text_ar": "النمو الطبيعي ينشأ عن النمو المستقل للمجالات المعزولة."
+        },
+        {
+          "letter": "E",
+          "text": "Sosyoekonomik faktörlerin gelişim üzerinde etkisi yoktur.",
+          "images": [],
+          "text_ar": "لا تأثير للعوامل الاجتماعية-الاقتصادية في النمو."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية صحيح بشأن النمو الطبيعي؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi gelişimsel değerlendirmenin amaçlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun gelişim düzeyinin belirlenip ihtiyaçlarının tespiti",
+          "images": [],
+          "text_ar": "تحديد مستوى نمو الطفل وتعيين احتياجاته"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun gelişiminin takip edilmesi",
+          "images": [],
+          "text_ar": "متابعة نمو الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa yapılan müdahalelerin etkinliğinin değerlendirilmesi",
+          "images": [],
+          "text_ar": "تقييم فاعلية التدخلات التي تُجرى مع الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun davranışlarının gelişimsel bağlamda ele alınabilmesi",
+          "images": [],
+          "text_ar": "إمكانية تناول سلوكيات الطفل في سياق نمائي"
+        },
+        {
+          "letter": "E",
+          "text": "Hastalık tanısı konması",
+          "images": [],
+          "text_ar": "تشخيص المرض"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أهداف التقييم النمائي؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel sapma nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tipik gelişim sürecinde olması beklenmeyen bir özelliğin ortaya çıkması",
+          "images": [],
+          "text_ar": "ظهور سمة لا يُتوقع وجودها في مسار النمو النموذجي"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun kazandığı gelişimsel becerileri kaybetmesi",
+          "images": [],
+          "text_ar": "فقدان الطفل المهارات النمائية التي اكتسبها"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim alanlarında anlamlı düzeyde gecikme olması",
+          "images": [],
+          "text_ar": "وجود تأخر ذي دلالة في مجالات النمو"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun tipik bir gelişim yörüngesi izlemesi",
+          "images": [],
+          "text_ar": "أن يتبع الطفل مسارًا نمائيًا نموذجيًا"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun belli becerileri kazanması için gereken beceriler",
+          "images": [],
+          "text_ar": "المهارات التي يحتاجها الطفل لاكتساب مهارات معينة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما الانحراف النمائي؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel değerlendirmede yapılacak hatanın fark edilebilmesi için ne yapılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değerlendirme öncesi veliden bilgi alınmaması",
+          "images": [],
+          "text_ar": "عدم الحصول على معلومات من ولي الأمر قبل التقييم"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukla kısa bir süre oyun oynayarak çocuğun gelişimsel seviyesi hakkında fikir sahibi olunması",
+          "images": [],
+          "text_ar": "اللعب مع الطفل مدة قصيرة لتكوين فكرة عن مستوى نموه"
+        },
+        {
+          "letter": "C",
+          "text": "Her seferinde aynı ölçüm aracının kullanılması",
+          "images": [],
+          "text_ar": "استخدام أداة القياس نفسها في كل مرة"
+        },
+        {
+          "letter": "D",
+          "text": "Tüm çocuklara iki kere test yapılması",
+          "images": [],
+          "text_ar": "إجراء الاختبار مرتين لجميع الأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Etiketleyici bir dil kullanılmaması",
+          "images": [],
+          "text_ar": "عدم استخدام لغة موسومة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما الذي ينبغي فعله لكي يُلاحَظ الخطأ الذي قد يقع في التقييم النمائي؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "64df83e02370baa91cb69762fd33cdae1f5e171c7e941a9ac0779324c71bbcb4"
+}

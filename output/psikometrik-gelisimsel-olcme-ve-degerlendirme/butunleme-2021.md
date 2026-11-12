@@ -3,7 +3,7 @@ course: PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME
 exam: 2021 Bütünleme Soruları
 source_url: https://lolonolo.com/2021/11/17/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-2021-butunleme/
 question_count: 33
-scraped_at: 2026-11-12T11:32:49+03:00
+scraped_at: 2026-11-12T14:58:32+03:00
 ---
 
 ### Q1

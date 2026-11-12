@@ -1,0 +1,433 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Çocuk Gelişimi Uygulamaları-1 Ünite -4",
+  "exam_slug": "cocuk-gelisimi-uygulamalari-1-unite-4",
+  "page_title": "Çocuk Gelişimi Uygulamaları-1 Ünite -4",
+  "source_url": "https://lolonolo.com/2023/09/26/cocuk-gelisimi-uygulamalari-1-unite-4/",
+  "scraped_at": "2026-11-12T15:00:50+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Okul Öncesi Eğitim programında çocuklar okula geldiklerinde ilk uygulanan günlük akış aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun Zamanı",
+          "images": [],
+          "text_ar": "وقت اللعب"
+        },
+        {
+          "letter": "B",
+          "text": "Hoş Geldin Zamanı",
+          "images": [],
+          "text_ar": "وقت الترحيب"
+        },
+        {
+          "letter": "C",
+          "text": "Etkinlik Zamanı",
+          "images": [],
+          "text_ar": "وقت النشاط"
+        },
+        {
+          "letter": "D",
+          "text": "Kahvaltı Zamanı",
+          "images": [],
+          "text_ar": "وقت الفطور"
+        },
+        {
+          "letter": "E",
+          "text": "Güne Başlama Zamanı",
+          "images": [],
+          "text_ar": "وقت بدء اليوم"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في برنامج تعليم ما قبل المدرسة، أي مما يلي هو أول تسلسل يومي يُطبَّق عند وصول الأطفال إلى المدرسة؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki verilen bilgilerden hangisi Okul Öncesi Eğitim Programı kapsamında doğru bir bilgi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğretmen merkezli bir programdır.",
+          "images": [],
+          "text_ar": "برنامج يتمحور حول المعلم."
+        },
+        {
+          "letter": "B",
+          "text": "Oyun temelli bir programdır.",
+          "images": [],
+          "text_ar": "برنامج قائم على اللعب."
+        },
+        {
+          "letter": "C",
+          "text": "Esnek bir programdır.",
+          "images": [],
+          "text_ar": "برنامج مرن."
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirme çok yönlü olarak gerçekleştirilir.",
+          "images": [],
+          "text_ar": "يُجرى التقييم بشكل متعدد الأوجه."
+        },
+        {
+          "letter": "E",
+          "text": "Gelişim odaklı bir programdır.",
+          "images": [],
+          "text_ar": "برنامج يركز على النمو."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من المعلومات التالية ليس صحيحًا في نطاق برنامج تعليم ما قبل المدرسة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Sınıf içerisinde etkinlik yapan Belma Öğretmen çocuklara “Biraz önce okuduğumuz hikaye kitabında hangi kahramanlar vardı?” diye soruyor. Bu soru aşağıdaki sorulardan hangisine girmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Betimleyici Soru",
+          "images": [],
+          "text_ar": "سؤال وصفي"
+        },
+        {
+          "letter": "B",
+          "text": "Kazanıma Yönelik Soru",
+          "images": [],
+          "text_ar": "سؤال موجّه نحو مخرجات التعلم"
+        },
+        {
+          "letter": "C",
+          "text": "Duyuşsal Soru",
+          "images": [],
+          "text_ar": "سؤال وجداني"
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirici Soru",
+          "images": [],
+          "text_ar": "سؤال تقويمي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "تسأل المعلمة بلما، أثناء نشاط داخل الصف، الأطفال: «من كانت الشخصيات في كتاب القصة الذي قرأناه قبل قليل؟» إلى أي نوع من الأسئلة التالية ينتمي هذا السؤال؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "I. Programı Değerlendirme II. Çocuğu Değerlendirme III. Öğretmenin Kendini Değerlendirmesi Okul Öncesi Eğitim Programında yukarıdaki değerlendirme modellerinden hangisi ya da hangileri yapılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "E",
+          "text": "I-II-III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. تقييم البرنامج II. تقييم الطفل III. تقييم المعلم لذاته. في برنامج تعليم ما قبل المدرسة، أي من نماذج التقييم المذكورة أعلاه أو أيها ينبغي تنفيذه؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Okul Öncesi Eğitim Programında aşağıdaki hangi gelişim alanı için ayrı bir kazanım listesi oluşturulmamıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel Gelişim",
+          "images": [],
+          "text_ar": "النمو المعرفي"
+        },
+        {
+          "letter": "B",
+          "text": "Dil Gelişimi",
+          "images": [],
+          "text_ar": "تطور اللغة"
+        },
+        {
+          "letter": "C",
+          "text": "Ahlak Gelişimi",
+          "images": [],
+          "text_ar": "النمو الأخلاقي"
+        },
+        {
+          "letter": "D",
+          "text": "Motor Gelişimi",
+          "images": [],
+          "text_ar": "النمو الحركي"
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal Duygusal Gelişim",
+          "images": [],
+          "text_ar": "النمو الاجتماعي-العاطفي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مجال من مجالات النمو التالية لم تُوضع له قائمة مستقلة لمخرجات التعلم في برنامج تعليم ما قبل المدرسة؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "I. Programda yıllık, aylık ve günlük plan hazırlanmalıdır. II. Etkinlikler bilinmeyenden bilinene doğru ilerlemelidir. III. Köşeler yerine öğrenme merkezleri yer alır. Yukarıda verilen bilgilerden hangisi ya da hangileri Okul Öncesi Eğitim Programı için doğru verilen bir bilgidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "E",
+          "text": "I-II-III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. يجب إعداد خطط سنوية وشهرية ويومية في البرنامج. II. يجب أن تتقدم الأنشطة من المجهول إلى المعلوم. III. تُستخدم مراكز التعلم بدلًا من الزوايا. أي من المعلومات المذكورة أعلاه صحيح أو أيها صحيحة بالنسبة لبرنامج تعليم ما قبل المدرسة؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Sınıf ne kadar küçük olursa olsun, bir okul öncesi sınıfında en az kaç tane öğrenme merkezi olma zorunluluğu vardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1",
+          "images": [],
+          "text_ar": "مركز واحد"
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "images": [],
+          "text_ar": "مركزان"
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "images": [],
+          "text_ar": "3 مراكز"
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "images": [],
+          "text_ar": "4 مراكز"
+        },
+        {
+          "letter": "E",
+          "text": "5",
+          "images": [],
+          "text_ar": "5 مراكز"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "مهما كان الصف صغيرًا، فما الحد الأدنى الإلزامي لعدد مراكز التعلم في صف ما قبل المدرسة؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Türkiye’de uygulanan Okul Öncesi Eğitim Programının temel amaçlarından birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlkokulda gerekli olan temel becerileri kazandırmak",
+          "images": [],
+          "text_ar": "إكساب المهارات الأساسية اللازمة في المدرسة الابتدائية"
+        },
+        {
+          "letter": "B",
+          "text": "En az 1 yabancı dil ve 1 sanat alanında çocukları desteklemek",
+          "images": [],
+          "text_ar": "دعم الأطفال في مجال لغة أجنبية واحدة على الأقل وفن واحد على الأقل"
+        },
+        {
+          "letter": "C",
+          "text": "Türkçeyi doğru ve güzel kullanmasını sağlamak",
+          "images": [],
+          "text_ar": "تمكينهم من استخدام التركية استخدامًا صحيحًا وجميلًا"
+        },
+        {
+          "letter": "D",
+          "text": "Dezavantajlı çocuklar ve aileleri için demokratik eğitim fırsatları sunmak",
+          "images": [],
+          "text_ar": "تقديم فرص تعليمية ديمقراطية للأطفال المحرومين وأسرهم"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklara iyi alışkanlıklar kazandırmak",
+          "images": [],
+          "text_ar": "إكساب الأطفال عادات جيدة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من الأهداف الأساسية لبرنامج تعليم ما قبل المدرسة المطبق في تركيا؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Türkiye’de şu an uygulanan Okul Öncesi Eğitim Programı hangi yılda geliştirilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2002",
+          "images": [],
+          "text_ar": "عام 2002"
+        },
+        {
+          "letter": "B",
+          "text": "2006",
+          "images": [],
+          "text_ar": "عام 2006"
+        },
+        {
+          "letter": "C",
+          "text": "2010",
+          "images": [],
+          "text_ar": "عام 2010"
+        },
+        {
+          "letter": "D",
+          "text": "2013",
+          "images": [],
+          "text_ar": "عام 2013"
+        },
+        {
+          "letter": "E",
+          "text": "2018",
+          "images": [],
+          "text_ar": "عام 2018"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "في أي عام طُوِّر برنامج تعليم ما قبل المدرسة المطبق حاليًا في تركيا؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Okul Öncesi Eğitim Programında özel gereksinimli çocuklar için etkinlikler üzerinde yapılan düzenlemeler ne olarak adlandırılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gün Akışı",
+          "images": [],
+          "text_ar": "التدفق اليومي"
+        },
+        {
+          "letter": "B",
+          "text": "Oryantasyon",
+          "images": [],
+          "text_ar": "التوجيه"
+        },
+        {
+          "letter": "C",
+          "text": "Bütünleştirme",
+          "images": [],
+          "text_ar": "الدمج"
+        },
+        {
+          "letter": "D",
+          "text": "Planlama",
+          "images": [],
+          "text_ar": "التخطيط"
+        },
+        {
+          "letter": "E",
+          "text": "Uyarlama",
+          "images": [],
+          "text_ar": "التكييف"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في برنامج تعليم ما قبل المدرسة، ماذا تُسمّى التعديلات التي تُجرى على الأنشطة من أجل الأطفال ذوي الاحتياجات الخاصة؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "a709abe515dbc2327a8e93daff70214ec5f4652450ca9a302959d30b26abb635"
+}

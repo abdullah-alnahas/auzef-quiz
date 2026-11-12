@@ -1,0 +1,439 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Çocuk Gelişimi Uygulamaları-1 Ünite -6",
+  "exam_slug": "cocuk-gelisimi-uygulamalari-1-unite-6",
+  "page_title": "Çocuk Gelişimi Uygulamaları-1 Ünite -6",
+  "source_url": "https://lolonolo.com/2023/09/26/cocuk-gelisimi-uygulamalari-1-unite-6/",
+  "scraped_at": "2026-11-12T15:00:49+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Sağlık Bakanlığına bağlı kuruluşlarda çalışan çocuk gelişimciler seçeneklerden hangisinde çalışamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sağlığın Geliştirilmesi Genel Müdürlüğü",
+          "images": [],
+          "text_ar": "المديرية العامة لتعزيز الصحة"
+        },
+        {
+          "letter": "B",
+          "text": "Halk Sağlığı Genel Müdürlüğü",
+          "images": [],
+          "text_ar": "المديرية العامة للصحة العامة"
+        },
+        {
+          "letter": "C",
+          "text": "Sağlık Hizmetleri Genel Müdürlüğü",
+          "images": [],
+          "text_ar": "المديرية العامة للخدمات الصحية"
+        },
+        {
+          "letter": "D",
+          "text": "Kamu Hastaneler Genel Müdürlüğü",
+          "images": [],
+          "text_ar": "المديرية العامة للمستشفيات الحكومية"
+        },
+        {
+          "letter": "E",
+          "text": "Aile ve Sosyal Politikalar Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الأسرة والسياسات الاجتماعية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في أي من الخيارات التالية لا يمكن لأخصائيي نمو الطفل العاملين في المؤسسات التابعة لوزارة الصحة أن يعملوا؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Sağlık Bakanlığına bağlı çocuk gelişimcilerin çalışabilecekleri kurumlardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Denetimli Serbestlik Müdürlüğü",
+          "images": [],
+          "text_ar": "مديرية الإفراج المشروط"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk Hastalıkları Polikliniği",
+          "images": [],
+          "text_ar": "عيادة أمراض الأطفال"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk Gelişimi birimi",
+          "images": [],
+          "text_ar": "وحدة نمو الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk Şube Büro Amirliği",
+          "images": [],
+          "text_ar": "مديرية مكتب فرع الأحداث"
+        },
+        {
+          "letter": "E",
+          "text": "Gözlem ve Sınıflandırma Merkezi",
+          "images": [],
+          "text_ar": "مركز الملاحظة والتصنيف"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من المؤسسات التي يمكن لأخصائيي نمو الطفل العاملين في وزارة الصحة العمل فيها؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk İzlem Merkezlerinde seçeneklerden hangisi çalışmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikolog",
+          "images": [],
+          "text_ar": "أخصائي نفسي"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk Gelişimci",
+          "images": [],
+          "text_ar": "أخصائي نمو الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Hemşire",
+          "images": [],
+          "text_ar": "ممرض"
+        },
+        {
+          "letter": "D",
+          "text": "Hâkim",
+          "images": [],
+          "text_ar": "قاضٍ"
+        },
+        {
+          "letter": "E",
+          "text": "Polis",
+          "images": [],
+          "text_ar": "شرطي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من الخيارات التالية لا يعمل في مراكز متابعة الطفل؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Yatak başı destek uygulamaları ile ilgili hangi seçenek yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun stresi azaltılacak",
+          "images": [],
+          "text_ar": "سيُخفَّض توتر الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Hastaneye uyum süreci zorlaşacak",
+          "images": [],
+          "text_ar": "ستصبح عملية التكيف مع المستشفى أصعب"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun kendisini rahatlıkla ifadesini sağlamak",
+          "images": [],
+          "text_ar": "تمكين الطفل من التعبير عن نفسه بسهولة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun hastane personeline güvenini sağlamak",
+          "images": [],
+          "text_ar": "إكساب الطفل الثقة في العاملين في المستشفى"
+        },
+        {
+          "letter": "E",
+          "text": "Çeşitli uyarıcılar ile ortam zenginleştirilecek",
+          "images": [],
+          "text_ar": "ستُثرى البيئة بمثيرات متنوعة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من الخيارات التالية غير صحيحة بشأن تطبيقات الدعم بجانب السرير؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Hastane oyun odalarında çocuk gelişimcinin en sık kullandığı etkinlik hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun Etkinliği",
+          "images": [],
+          "text_ar": "نشاط اللعب"
+        },
+        {
+          "letter": "B",
+          "text": "Hikâye Etkinliği",
+          "images": [],
+          "text_ar": "نشاط القصة"
+        },
+        {
+          "letter": "C",
+          "text": "Drama",
+          "images": [],
+          "text_ar": "الدراما"
+        },
+        {
+          "letter": "D",
+          "text": "Sanat etkinliği",
+          "images": [],
+          "text_ar": "نشاط فني"
+        },
+        {
+          "letter": "E",
+          "text": "Müzik etkinliği",
+          "images": [],
+          "text_ar": "نشاط موسيقي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما النشاط الأكثر استخدامًا من قبل أخصائي نمو الطفل في غرف اللعب في المستشفيات؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Sağlık Bakanlığına bağlı Halk Sağlığı Genel Müdürlüğü bünyesindedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kamu Hastaneleri Müdürlüğü",
+          "images": [],
+          "text_ar": "مديرية المستشفيات الحكومية"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk Gelişimi Birimi",
+          "images": [],
+          "text_ar": "وحدة نمو الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimsel Pediatri Ünitesi",
+          "images": [],
+          "text_ar": "وحدة طب الأطفال النمائي"
+        },
+        {
+          "letter": "D",
+          "text": "Toplum Sağlığı Merkezleri",
+          "images": [],
+          "text_ar": "مراكز صحة المجتمع"
+        },
+        {
+          "letter": "E",
+          "text": "Hastane Oyun odaları",
+          "images": [],
+          "text_ar": "غرف اللعب في المستشفيات"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي يتبع المديرية العامة للصحة العامة التابعة لوزارة الصحة؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Hastanelerde çalışan çocuk gelişimciler ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlaç yazar.",
+          "images": [],
+          "text_ar": "يكتب الوصفات الطبية."
+        },
+        {
+          "letter": "B",
+          "text": "Aileye danışmanlık yapar.",
+          "images": [],
+          "text_ar": "يقدم الإرشاد للأسرة."
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim takibi yapar.",
+          "images": [],
+          "text_ar": "يتابع النمو."
+        },
+        {
+          "letter": "D",
+          "text": "Gelişim destek programı uygular.",
+          "images": [],
+          "text_ar": "يطبق برنامج دعم نمائي."
+        },
+        {
+          "letter": "E",
+          "text": "İstismara uğrayan çocuklarla ilgilenir",
+          "images": [],
+          "text_ar": "يتابع الأطفال المعرضين للإساءة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من العبارات التالية عن أخصائيي نمو الطفل العاملين في المستشفيات غير صحيحة؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk İzlem Merkezlerinin ana amacı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Suça bulaşmış çocukları rehabilite etmek",
+          "images": [],
+          "text_ar": "تأهيل الأطفال المتورطين في الجريمة"
+        },
+        {
+          "letter": "B",
+          "text": "İstismar mağduru çocuğun beden ve ruh sağlığını korumak",
+          "images": [],
+          "text_ar": "حماية الصحة الجسدية والنفسية للطفل ضحية الإساءة"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk işçiliği ile mücadele emek",
+          "images": [],
+          "text_ar": "مكافحة عمالة الأطفال"
+        },
+        {
+          "letter": "D",
+          "text": "Anne babası ayrılmış çocuğu kuruma yerleştirmek",
+          "images": [],
+          "text_ar": "إيداع الطفل الذي انفصل والداه في مؤسسة"
+        },
+        {
+          "letter": "E",
+          "text": "İhmale uğramış çocuğun haklarını korumak",
+          "images": [],
+          "text_ar": "حماية حقوق الطفل المهمَل"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما الهدف الأساسي لمراكز متابعة الطفل؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi biriminde gelişimleri desteklenen grup seçeneklerden hangisinde eksik ya da yanlış verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0- 15 yaş",
+          "images": [],
+          "text_ar": "0-15 سنة"
+        },
+        {
+          "letter": "B",
+          "text": "tipik gelişim gösteren",
+          "images": [],
+          "text_ar": "الذين يظهرون نموًا نمطيًا"
+        },
+        {
+          "letter": "C",
+          "text": "Atipik gelişim gösteren",
+          "images": [],
+          "text_ar": "الذين يظهرون نموًا غير نمطي"
+        },
+        {
+          "letter": "D",
+          "text": "Özel gereksinimli",
+          "images": [],
+          "text_ar": "ذوو الاحتياجات الخاصة"
+        },
+        {
+          "letter": "E",
+          "text": "0-18 yaş",
+          "images": [],
+          "text_ar": "0-18 سنة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في أي من الخيارات التالية وردت الفئة التي يُدعم نموها في وحدة نمو الطفل ناقصة أو خاطئة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aile Merkezli Bütüncül izlem modeli uygulanan Sağlık Bakanlığına bağlı çocuk gelişimcilerin çalışma alanı aşağıdaki seçeneklerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk İzlem Merkezi",
+          "images": [],
+          "text_ar": "مركز متابعة الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Ana Çocuk Sağlığı Merkezi",
+          "images": [],
+          "text_ar": "مركز صحة الأم والطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimsel Pediatri Birimi",
+          "images": [],
+          "text_ar": "وحدة طب الأطفال النمائي"
+        },
+        {
+          "letter": "D",
+          "text": "Oyun Odaları",
+          "images": [],
+          "text_ar": "غرف اللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk gelişimi Birimi",
+          "images": [],
+          "text_ar": "وحدة نمو الطفل"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما مجال عمل أخصائيي نمو الطفل التابعين لوزارة الصحة الذين يُطبَّق عليهم نموذج المتابعة الشمولية المتمركزة حول الأسرة؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "d544cc91c6557cf96505dc6f7ac096d83fc769a2298b04a407c8b9ab182bfb54"
+}

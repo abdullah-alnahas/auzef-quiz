@@ -21,12 +21,16 @@ def classify(text: str):
         return "unite"
     if "yaz okulu" in t or "yaz-okulu" in t:
         return "yaz-okulu"
+    if "üç ders" in t or "uc ders" in t:
+        return "uc-ders"
     if "büt" in t or "but" in t:
         return "butunleme"
     if "vize" in t or "ara sınav" in t or "arasınav" in t:
         return "vize"
     if "final" in t:
         return "final"
+    if "deneme" in t:
+        return "deneme"
     return None
 
 

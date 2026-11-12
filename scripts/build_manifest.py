@@ -46,6 +46,7 @@ def main() -> None:
             "exam": d["exam"],
             "exam_slug": d["exam_slug"],
             "type": by_id.get((d["course_slug"], d["exam_slug"]), {}).get("type", "unknown"),
+            "mock": bool(by_id.get((d["course_slug"], d["exam_slug"]), {}).get("mock")),
             "source_url": d["source_url"],
             "file": f"{d['course_slug']}/{d['exam_slug']}.md",
             "question_count": d["question_count"],

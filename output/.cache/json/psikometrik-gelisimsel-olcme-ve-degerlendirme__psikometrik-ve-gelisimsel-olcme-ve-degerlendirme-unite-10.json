@@ -1,0 +1,439 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -10",
+  "exam_slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-10",
+  "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -10",
+  "source_url": "https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-10/",
+  "scraped_at": "2026-11-12T15:01:06+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ölçeklerden hangisi değerlendirici tarafından çocuğu gözleyerek ve ebeveyne sorularak doldurulur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukluk Çağı Anksiyete ve Depresyon Ölçeği Yeniden Düzenlenmiş",
+          "images": [],
+          "text_ar": "مقياس القلق والاكتئاب في مرحلة الطفولة - النسخة المنقّحة"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukluk Çağı Otizm Derecelendirme Ölçeği",
+          "images": [],
+          "text_ar": "مقياس تقدير التوحد في مرحلة الطفولة"
+        },
+        {
+          "letter": "C",
+          "text": "Weiss İşlevsellikte Bozulma Ölçeği",
+          "images": [],
+          "text_ar": "مقياس فايس للخلل الوظيفي"
+        },
+        {
+          "letter": "D",
+          "text": "Güçler ve Güçlükler Anketi",
+          "images": [],
+          "text_ar": "استبيان القدرات والصعوبات"
+        },
+        {
+          "letter": "E",
+          "text": "Conners Anababa Değerlendirme Ölçeği",
+          "images": [],
+          "text_ar": "مقياس كونرز لتقييم الوالدين"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من المقاييس التالية يملؤه المقيّم بملاحظة الطفل وسؤال أحد الوالدين؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dikkat eksikliği hiperaktivite bozukluğu ( DEHB )’nun değerlendirilmesinde kullanılan ölçeklerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Weiss İşlevsellikte Bozulma Ölçeği",
+          "images": [],
+          "text_ar": "مقياس فايس للخلل الوظيفي"
+        },
+        {
+          "letter": "B",
+          "text": "Dikkat Eksikliği ve Yıkıcı Davranış Bozuklukları için DSM IV'e Dayalı Tarama ve Değerlendirme Ölçeği",
+          "images": [],
+          "text_ar": "مقياس المسح والتقييم المستند إلى DSM IV لنقص الانتباه واضطرابات السلوك التخريبي"
+        },
+        {
+          "letter": "C",
+          "text": "Conners Anababa Değerlendirme Ölçekleri",
+          "images": [],
+          "text_ar": "مقاييس كونرز لتقييم الوالدين"
+        },
+        {
+          "letter": "D",
+          "text": "Conners Öğretmen Değerlendirme Ölçekleri",
+          "images": [],
+          "text_ar": "مقاييس كونرز لتقييم المعلم"
+        },
+        {
+          "letter": "E",
+          "text": "Durumluk ve Sürekli Kaygı Envanteri",
+          "images": [],
+          "text_ar": "قائمة القلق الظرفي والسمة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من المقاييس المستخدمة في تقييم اضطراب نقص الانتباه وفرط النشاط (DEHB)؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi psikolojik problem tarama amacıyla kullanılan ölçekler hakkında doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sık kullanılan ölçekler değildir.",
+          "images": [],
+          "text_ar": "ليست مقاييس شائعة الاستخدام."
+        },
+        {
+          "letter": "B",
+          "text": "Spesifik problemleri tararlar.",
+          "images": [],
+          "text_ar": "تمسح مشكلات محددة."
+        },
+        {
+          "letter": "C",
+          "text": "Sadece araştırmalarda kullanılır.",
+          "images": [],
+          "text_ar": "تُستخدم في البحوث فقط."
+        },
+        {
+          "letter": "D",
+          "text": "Geniş kitlelerde psikolojik problemi olan kişilerin tahmin edilmesi için kullanılabilir.",
+          "images": [],
+          "text_ar": "يمكن استخدامها لتقدير عدد الأشخاص الذين لديهم مشكلات نفسية في مجموعات كبيرة."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklarda zeka değerlendirmesi için kullanılır.",
+          "images": [],
+          "text_ar": "تُستخدم لتقييم الذكاء لدى الأطفال."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من العبارات التالية صحيح بشأن المقاييس المستخدمة لغرض مسح المشكلات النفسية؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ölçeklerden hangisi hem çocuğun belli bir anda hem de genel olarak nasıl hissettiğini ölçmeyi amaçlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Porteus Labirentleri Testi",
+          "images": [],
+          "text_ar": "اختبار بورتيوس للمتاهات"
+        },
+        {
+          "letter": "B",
+          "text": "Durumluk ve Sürekli Kaygı Envanteri",
+          "images": [],
+          "text_ar": "قائمة القلق الظرفي والسمة"
+        },
+        {
+          "letter": "C",
+          "text": "Çocukluk Çağı Anksiyete Tarama Ölçeği",
+          "images": [],
+          "text_ar": "مقياس مسح القلق في مرحلة الطفولة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukluk Çağı Depresyon Ölçeği",
+          "images": [],
+          "text_ar": "مقياس الاكتئاب في مرحلة الطفولة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukluk Çağı Anksiyete ve Depresyon Ölçeği Yeniden Düzenlenmiş",
+          "images": [],
+          "text_ar": "مقياس القلق والاكتئاب في مرحلة الطفولة - النسخة المنقّحة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من المقاييس التالية يهدف إلى قياس كيف يشعر الطفل في لحظة معينة وفي العموم أيضًا؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ruh sağlığı alanında ölçek kullanımının faydaları arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçekler, her zaman güvenilir bilgiler verir.",
+          "images": [],
+          "text_ar": "تعطي المقاييس معلومات موثوقة دائمًا."
+        },
+        {
+          "letter": "B",
+          "text": "Klinik değerlendirmenin alternatifi olduğu için daha çok kişiye hizmet verilmesini sağlar.",
+          "images": [],
+          "text_ar": "تتيح تقديم الخدمة لعدد أكبر من الأشخاص لأنها بديل عن التقييم الإكلينيكي."
+        },
+        {
+          "letter": "C",
+          "text": "Ölçekler, soyut psikolojik sorunların sayısallaştırılmasını sağlar.",
+          "images": [],
+          "text_ar": "تتيح المقاييس تحويل المشكلات النفسية المجردة إلى أرقام."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçekler, çocuğun okumayı bilip bilmediğinin öğrenilmesini sağlar.",
+          "images": [],
+          "text_ar": "تتيح المقاييس معرفة ما إذا كان الطفل يعرف القراءة."
+        },
+        {
+          "letter": "E",
+          "text": "Ebeveynlere ölçek doldurtularak anlama becerileri değerlendirilir.",
+          "images": [],
+          "text_ar": "تُقيَّم مهارات الفهم لدى الوالدين بتكليفهم بملء مقياس."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من فوائد استخدام المقاييس في مجال الصحة النفسية؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dikkat eksikliği hiperaktivite bozukluğu ( DEHB )’nun değerlendirilmesinde ölçek kullanımı hakkında doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçekler yardımıyla çocuğun ebeveyni ve öğretmeninden bilgi alınabilir.",
+          "images": [],
+          "text_ar": "يمكن بمساعدة المقاييس الحصول على معلومات من والدي الطفل ومعلمه."
+        },
+        {
+          "letter": "B",
+          "text": "DEHB ölçekleri çocuğun zekasının tespitini sağlar.",
+          "images": [],
+          "text_ar": "تتيح مقاييس DEHB تحديد ذكاء الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk, ölçeklerin içeriğini önceden bilmelidir.",
+          "images": [],
+          "text_ar": "يجب أن يعرف الطفل محتوى المقاييس مسبقًا."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçekler, sadece tanı koymak için kullanılır.",
+          "images": [],
+          "text_ar": "تُستخدم المقاييس لتشخيص الحالة فقط."
+        },
+        {
+          "letter": "E",
+          "text": "Ölçeklerle DEHB tanısı güvenle konabilir.",
+          "images": [],
+          "text_ar": "يمكن تشخيص DEHB بثقة بواسطة المقاييس."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي صحيح بشأن استخدام المقاييس في تقييم اضطراب نقص الانتباه وفرط النشاط (DEHB)؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi ruh sağlığı alanında ölçek kullanımı konusunda doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçek kullanımı, klinik değerlendirmeye alternatiftir.",
+          "images": [],
+          "text_ar": "استخدام المقاييس بديل عن التقييم الإكلينيكي."
+        },
+        {
+          "letter": "B",
+          "text": "Ölçekler, geniş bir belirti kümesinin hızlı bir şekilde incelenmesini sağlar.",
+          "images": [],
+          "text_ar": "تتيح المقاييس فحص مجموعة واسعة من الأعراض بسرعة."
+        },
+        {
+          "letter": "C",
+          "text": "Ölçekler aynı anda birden çok kişiye uygulanmamalıdır.",
+          "images": [],
+          "text_ar": "يجب ألّا تُطبَّق المقاييس على أكثر من شخص في الوقت نفسه."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçeklerde genelde hata bulunmaz.",
+          "images": [],
+          "text_ar": "لا يوجد خطأ في المقاييس عمومًا."
+        },
+        {
+          "letter": "E",
+          "text": "Öğretmenlerin doldurduğu ölçeklerde genellikle hata bulunmaz.",
+          "images": [],
+          "text_ar": "لا يوجد خطأ عمومًا في المقاييس التي يملؤها المعلمون."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من العبارات التالية صحيح بشأن استخدام المقاييس في مجال الصحة النفسية؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ruh sağlığı alanında ölçek kullanımı için doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçekler, klinik değerlendirme yapılamadığı zamanlarda tanı konup tedavi kararı vermek için kullanılır.",
+          "images": [],
+          "text_ar": "تُستخدم المقاييس عند تعذّر إجراء التقييم الإكلينيكي لتشخيص الحالة واتخاذ قرار العلاج."
+        },
+        {
+          "letter": "B",
+          "text": "Belli bir ölçek, sadece bir kere uygulanmalı ve takipte kullanılmamalıdır.",
+          "images": [],
+          "text_ar": "يجب تطبيق مقياس معين مرة واحدة فقط وألّا يُستخدم في المتابعة."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuklar, ölçek doldursa bile verdikleri bilgiler güvenilir değildir.",
+          "images": [],
+          "text_ar": "حتى إذا ملأ الأطفال المقياس فإن المعلومات التي يقدمونها غير موثوقة."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçekler, çocuğun anlatmakta zorlandığı şeyleri ifade etmesi için farklı bir yol sağlar.",
+          "images": [],
+          "text_ar": "توفّر المقاييس طريقًا مختلفًا يعبّر به الطفل عن أمور يجد صعوبة في الحديث عنها."
+        },
+        {
+          "letter": "E",
+          "text": "Ölçekler tarama amaçlı olarak kullanılamaz.",
+          "images": [],
+          "text_ar": "لا يمكن استخدام المقاييس لأغراض المسح."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي صحيح بشأن استخدام المقاييس في مجال الصحة النفسية؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kaygı bozuklukları için doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaygı bozuklukları, neredeyse toplumun tamamında görülür.",
+          "images": [],
+          "text_ar": "تظهر اضطرابات القلق لدى المجتمع بأكمله تقريبًا."
+        },
+        {
+          "letter": "B",
+          "text": "Kaygı, anormal bir duygudur ve her zaman bir probleme işaret eder.",
+          "images": [],
+          "text_ar": "القلق عاطفة غير طبيعية ويشير دائمًا إلى وجود مشكلة."
+        },
+        {
+          "letter": "C",
+          "text": "Kaygı bozukluklarının değerlendirmesinde özdeğerlendirme ölçekleri çok önemlidir.",
+          "images": [],
+          "text_ar": "مقاييس التقييم الذاتي مهمة جدًا في تقييم اضطرابات القلق."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçekler, kaygı bozukluklarının tanısını koymak için kullanılır.",
+          "images": [],
+          "text_ar": "تُستخدم المقاييس لتشخيص اضطرابات القلق."
+        },
+        {
+          "letter": "E",
+          "text": "Kaygı bozukluklarında ölçek sonucuna göre tanı ve tedavi düzenlenir.",
+          "images": [],
+          "text_ar": "في اضطرابات القلق يُنظَّم التشخيص والعلاج وفق نتيجة المقياس."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح بشأن اضطرابات القلق؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ölçeklerden hangisi otizm spektrum bozukluklarının değerlendirmesinde kullanılan bir ölçek değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gilliam Otıstık Bozukluk Derecelendirme Ölçeği",
+          "images": [],
+          "text_ar": "مقياس جيليام لتقدير اضطراب التوحد"
+        },
+        {
+          "letter": "B",
+          "text": "Otizm Davranış Kontrol Listesi",
+          "images": [],
+          "text_ar": "قائمة تدقيق سلوك التوحد"
+        },
+        {
+          "letter": "C",
+          "text": "Çocukluk Çağı Otizm Derecelendirme Ölçeği",
+          "images": [],
+          "text_ar": "مقياس تقدير التوحد في مرحلة الطفولة"
+        },
+        {
+          "letter": "D",
+          "text": "Değiştirilmiş Erken Çocukluk Dönemi Otizm Tarama Ölçeği",
+          "images": [],
+          "text_ar": "مقياس المسح المعدّل للتوحد في مرحلة الطفولة المبكرة"
+        },
+        {
+          "letter": "E",
+          "text": "Weiss İşlevsellikte Bozulma Ölçeği",
+          "images": [],
+          "text_ar": "مقياس فايس للخلل الوظيفي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من المقاييس التالية ليس مقياسًا يُستخدم في تقييم اضطرابات طيف التوحد؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "9d601b4bbda361408eb51bb386e19d732b5371316be1297a038c674617d9fae6"
+}

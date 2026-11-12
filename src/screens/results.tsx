@@ -1,8 +1,9 @@
 import { useEffect, useState } from "preact/hooks";
 import { Badge, RichTextView } from "../components.tsx";
+import { parseScope, scopeCode } from "../combine.ts";
 import { loadCombinedExam, loadExam } from "../data.ts";
 import { percent, score } from "../engine.ts";
-import { scopeKey, t } from "../i18n.ts";
+import { scopeGroupKey, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   deleteSession,
@@ -45,7 +46,7 @@ export function Results({
             setFailed(true);
             return;
           }
-          loaded = await loadCombinedExam(course, stored.scope);
+          loaded = await loadCombinedExam(course, parseScope(stored.scope));
         } else {
           loaded = await loadExam(stored.examId);
         }
@@ -85,7 +86,7 @@ export function Results({
       <h1>{t(prefs.lang, "results")}</h1>
       <p class="muted">
         {exam.scope
-          ? `${exam.course} — ${t(prefs.lang, scopeKey(exam.scope))}`
+          ? `${exam.course} — ${parseScope(exam.scope).map((group) => t(prefs.lang, scopeGroupKey(group))).join(" + ")}`
           : exam.exam}
       </p>
 
@@ -144,7 +145,7 @@ export function Results({
           void deleteSession(sessionKey(exam.examId, attempt.mode)).finally(() =>
             navigate(
               exam.scope
-                ? `/combined/${exam.courseId}/${exam.scope}/${attempt.mode}`
+                ? `/combined/${exam.courseId}/${scopeCode(parseScope(exam.scope))}/${attempt.mode}`
                 : `/quiz/${exam.examId}/${attempt.mode}`,
             ),
           );

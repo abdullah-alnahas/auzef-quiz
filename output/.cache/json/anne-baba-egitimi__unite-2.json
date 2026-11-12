@@ -1,0 +1,229 @@
+{
+  "course": "ANNE BABA EĞİTİMİ",
+  "course_slug": "anne-baba-egitimi",
+  "exam": "Ünite -2",
+  "exam_slug": "unite-2",
+  "page_title": "Anne Baba Eğitimi Ünite -2",
+  "source_url": "https://lolonolo.com/2022/10/31/anne-baba-egitimi-unite-2/",
+  "scraped_at": "2026-11-12T15:00:47+03:00",
+  "answer_source": "markup",
+  "question_count": 5,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Genel amacı üniversitenin çevreye açık olması ve kuramsal bilgilerin pratikte test edilmesi olarak saptanan aile eğitim programı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ana baba okulu",
+          "images": [],
+          "text_ar": "مدرسة الوالدين"
+        },
+        {
+          "letter": "B",
+          "text": "Erken destek projesi",
+          "images": [],
+          "text_ar": "مشروع الدعم المبكر"
+        },
+        {
+          "letter": "C",
+          "text": "Baba destek programı",
+          "images": [],
+          "text_ar": "برنامج دعم الأب"
+        },
+        {
+          "letter": "D",
+          "text": "Aile eğitimi programı",
+          "images": [],
+          "text_ar": "برنامج تعليم الأسرة"
+        },
+        {
+          "letter": "E",
+          "text": "Anne eğitimi programı",
+          "images": [],
+          "text_ar": "برنامج تعليم الأم"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما برنامج تعليم الأسرة الذي حُدّد هدفه العام في انفتاح الجامعة على محيطها وفي اختبار المعارف النظرية عمليًا؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Erken Destek Projesinin ürünü olan programdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ana baba okulu",
+          "images": [],
+          "text_ar": "مدرسة الوالدين"
+        },
+        {
+          "letter": "B",
+          "text": "Erken destek projesi",
+          "images": [],
+          "text_ar": "مشروع الدعم المبكر"
+        },
+        {
+          "letter": "C",
+          "text": "Baba destek programı",
+          "images": [],
+          "text_ar": "برنامج دعم الأب"
+        },
+        {
+          "letter": "D",
+          "text": "Anne Çocuk Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تعليم الأم والطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Anne eğitimi programı",
+          "images": [],
+          "text_ar": "برنامج تعليم الأم"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي هو البرنامج الذي نتج عن مشروع الدعم المبكر؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Ülkemizde sistemli ve programlı bir Ana-Baba Okulu modeli kaç yılında gerçekleştirilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1989",
+          "images": [],
+          "text_ar": "عام 1989"
+        },
+        {
+          "letter": "B",
+          "text": "2000",
+          "images": [],
+          "text_ar": "عام 2000"
+        },
+        {
+          "letter": "C",
+          "text": "1962",
+          "images": [],
+          "text_ar": "عام 1962"
+        },
+        {
+          "letter": "D",
+          "text": "1954",
+          "images": [],
+          "text_ar": "عام 1954"
+        },
+        {
+          "letter": "E",
+          "text": "1992",
+          "images": [],
+          "text_ar": "عام 1992"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في أي عام نُفِّذ نموذج منظم ومبرمج لمدرسة الوالدين في بلدنا؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Ana-Baba Okulu programında yer verilen konulardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karı-Koca İlişkilerinden Doğan Sorunlar.",
+          "images": [],
+          "text_ar": "المشكلات الناشئة عن علاقات الزوجين."
+        },
+        {
+          "letter": "B",
+          "text": "Eşler Arasında Problem Çözme.",
+          "images": [],
+          "text_ar": "حل المشكلات بين الزوجين."
+        },
+        {
+          "letter": "C",
+          "text": "Yaygın Anne-Baba Tutumları.",
+          "images": [],
+          "text_ar": "اتجاهات الوالدين الشائعة."
+        },
+        {
+          "letter": "D",
+          "text": "Çocukla Sağlıklı İletişim Nasıl Kurulur?",
+          "images": [],
+          "text_ar": "كيف يُبنى تواصل صحي مع الطفل؟"
+        },
+        {
+          "letter": "E",
+          "text": "Zihinsel Eğitim Programı (ZEP)",
+          "images": [],
+          "text_ar": "برنامج التعليم العقلي (ZEP)"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من الموضوعات التي يتناولها برنامج مدرسة الوالدين؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Baba Destek Programı (BADEP) kaç yılında uygulanmaya başlamıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1989",
+          "images": [],
+          "text_ar": "عام 1989"
+        },
+        {
+          "letter": "B",
+          "text": "1998",
+          "images": [],
+          "text_ar": "عام 1998"
+        },
+        {
+          "letter": "C",
+          "text": "1962",
+          "images": [],
+          "text_ar": "عام 1962"
+        },
+        {
+          "letter": "D",
+          "text": "1996",
+          "images": [],
+          "text_ar": "عام 1996"
+        },
+        {
+          "letter": "E",
+          "text": "1992",
+          "images": [],
+          "text_ar": "عام 1992"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "في أي عام بدأ تطبيق برنامج دعم الأب (BADEP)؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "b64709387a4079d9193aaff2de15b136d6d325e0745fdc7ff393bcc6122461bb"
+}

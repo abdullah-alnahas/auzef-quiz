@@ -1,0 +1,865 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "Final Deneme Sınavı -4",
+  "exam_slug": "final-deneme-sinavi-4",
+  "page_title": "İlkokula Hazırlık Final Deneme Sınavı -4",
+  "source_url": "https://lolonolo.com/2023/09/22/ilkokula-hazirlik-final-deneme-sinavi-4/",
+  "scraped_at": "2026-11-12T15:00:58+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 1948 yılı ilkokul programının genel amaç başlıkları arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplumsal",
+          "images": [],
+          "text_ar": "اجتماعي"
+        },
+        {
+          "letter": "B",
+          "text": "Kişisel",
+          "images": [],
+          "text_ar": "شخصي"
+        },
+        {
+          "letter": "C",
+          "text": "İnsan Münasebetleri",
+          "images": [],
+          "text_ar": "العلاقات الإنسانية"
+        },
+        {
+          "letter": "D",
+          "text": "Ekonomik Hayat",
+          "images": [],
+          "text_ar": "الحياة الاقتصادية"
+        },
+        {
+          "letter": "E",
+          "text": "Vicdan Münasebetleri",
+          "images": [],
+          "text_ar": "علاقات الضمير"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن العناوين العامة للأهداف في برنامج المدرسة الابتدائية لعام 1948؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yapılandırmacı öğrenme yaklaşımında izlenen adımlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yeni bilginin kazanılması",
+          "images": [],
+          "text_ar": "اكتساب المعرفة الجديدة"
+        },
+        {
+          "letter": "B",
+          "text": "Bilginin farkında olunması",
+          "images": [],
+          "text_ar": "الوعي بالمعرفة"
+        },
+        {
+          "letter": "C",
+          "text": "Bilginin anlaşılması",
+          "images": [],
+          "text_ar": "فهم المعرفة"
+        },
+        {
+          "letter": "D",
+          "text": "Bilginin uygulanması",
+          "images": [],
+          "text_ar": "تطبيق المعرفة"
+        },
+        {
+          "letter": "E",
+          "text": "Önceki bilgilerin bir etkisinin olmaması",
+          "images": [],
+          "text_ar": "ألا يكون للمعارف السابقة أي أثر"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من الخطوات المتبعة في المقاربة البنائية للتعلم؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi okula hazır ailenin özellikleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun özgüven kazanacağı ortamı yaratan",
+          "images": [],
+          "text_ar": "تُهيّئ بيئة يكتسب فيها الطفل الثقة بالنفس"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun gelişim özelliklerini bilen",
+          "images": [],
+          "text_ar": "تعرف خصائص نمو الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Eğitim kurumunun önemini bilen",
+          "images": [],
+          "text_ar": "تدرك أهمية المؤسسة التعليمية"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun karşılaşabileceği her tür uyarıcıyı çevreden kaldıran",
+          "images": [],
+          "text_ar": "تُزيل من المحيط كل أنواع المثيرات التي قد يواجهها الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Eğitim kurumuyla iş birliği kuran",
+          "images": [],
+          "text_ar": "تُقيم تعاونًا مع المؤسسة التعليمية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الخيارات الآتية لا يندرج ضمن خصائص الأسرة الجاهزة للمدرسة؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 1936 yılı ilkokul programında yer alan eğitim durumlarına ilişkin esaslardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ezberleyerek öğrenmenin önemini anlatma",
+          "images": [],
+          "text_ar": "بيان أهمية التعلم بالحفظ"
+        },
+        {
+          "letter": "B",
+          "text": "Resim ve şekillerle ders anlatma",
+          "images": [],
+          "text_ar": "تدريس الدروس بالرسوم والأشكال"
+        },
+        {
+          "letter": "C",
+          "text": "Hayatla ilişkilendirme",
+          "images": [],
+          "text_ar": "الربط بالحياة"
+        },
+        {
+          "letter": "D",
+          "text": "Sorun çözme tekniklerini kullanma",
+          "images": [],
+          "text_ar": "استخدام تقنيات حل المشكلات"
+        },
+        {
+          "letter": "E",
+          "text": "Öğretim ilkelerine uyma",
+          "images": [],
+          "text_ar": "مراعاة مبادئ التدريس"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من المبادئ المتعلقة بالحالات التعليمية الواردة في برنامج المدرسة الابتدائية لعام 1936؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi MEB tarafından okul öncesi eğitim programında çocukta bulunması gereken hazırbulunuşluk ölçütleri arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun kendi temizliğini yapabilmesi",
+          "images": [],
+          "text_ar": "أن يتمكن الطفل من العناية بنظافته الشخصية"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun anne ve evden kopmaması",
+          "images": [],
+          "text_ar": "ألا ينفصل الطفل عن أمه والبيت"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun sorumluluk almaktan korkmaması",
+          "images": [],
+          "text_ar": "ألا يخاف الطفل من تحمّل المسؤولية"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun teneffüste kendini koruyabilmesi",
+          "images": [],
+          "text_ar": "أن يستطيع الطفل حماية نفسه في وقت الاستراحة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun öğretmenle iletişim kurabilmesi",
+          "images": [],
+          "text_ar": "أن يستطيع الطفل التواصل مع المعلم"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن معايير الاستعداد التي ينبغي أن تتوفر في الطفل وفق برنامج تعليم ما قبل المدرسة الصادر عن وزارة التربية الوطنية؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 1924 yılı ilkokul programının genel özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu programla devreler ortadan kalkmıştır.",
+          "images": [],
+          "text_ar": "بهذا البرنامج أُلغيت المراحل."
+        },
+        {
+          "letter": "B",
+          "text": "İlkokul öğretim süresi beş yıla inmiştir.",
+          "images": [],
+          "text_ar": "خُفّضت مدة التعليم الابتدائي إلى خمس سنوات."
+        },
+        {
+          "letter": "C",
+          "text": "Erkek ve kız öğrenciler için tek program düzenlenmiştir.",
+          "images": [],
+          "text_ar": "وُضع برنامج واحد للطلاب والطالبات."
+        },
+        {
+          "letter": "D",
+          "text": "Yenisi hazırlanıncaya kadar geçici bir program olma özelliği taşımaktadır.",
+          "images": [],
+          "text_ar": "كان برنامجًا مؤقتًا إلى أن يُعدّ برنامج جديد."
+        },
+        {
+          "letter": "E",
+          "text": "Programdaki dersler arasında ilişki kurulmamıştır.",
+          "images": [],
+          "text_ar": "لم تُقم علاقة بين دروس البرنامج."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من الخصائص العامة لبرنامج المدرسة الابتدائية لعام 1924؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi test dışı tekniklerden gözlem tekniğinde kullanılabilecek “iyi bir gözlemci” olmaya yönelik adımlar arasında yer alamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözlemlenecek olaya spontane karar vermeli",
+          "images": [],
+          "text_ar": "أن يقرر بعفوية الحدث الذي ستُجرى ملاحظته"
+        },
+        {
+          "letter": "B",
+          "text": "Görme ve işitme duyularının sağlıklı olması",
+          "images": [],
+          "text_ar": "أن تكون حاستا البصر والسمع سليمتين"
+        },
+        {
+          "letter": "C",
+          "text": "Kendi duygu ve ön yargılarını bırakması",
+          "images": [],
+          "text_ar": "أن يتخلى عن مشاعره وتحيزاته"
+        },
+        {
+          "letter": "D",
+          "text": "Dikkat becerisinin olması",
+          "images": [],
+          "text_ar": "أن يمتلك مهارة الانتباه"
+        },
+        {
+          "letter": "E",
+          "text": "Eğitimli ve deneyimli olmalı",
+          "images": [],
+          "text_ar": "أن يكون مدربًا وذا خبرة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا يندرج ضمن خطوات أن يكون المرء «ملاحظًا جيدًا» في تقنية الملاحظة، إحدى التقنيات غير الاختبارية؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun hazırbulunuşluğunu “sosyal yapılandırmacı kurama” göre değerlendirebilecek maddeler arasında yer alamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğa bütüncül yaklaşılması",
+          "images": [],
+          "text_ar": "النظر إلى الطفل نظرة كلية"
+        },
+        {
+          "letter": "B",
+          "text": "Toplumun değer ve beklentilerinin dikkate alınması",
+          "images": [],
+          "text_ar": "مراعاة قيم المجتمع وتوقعاته"
+        },
+        {
+          "letter": "C",
+          "text": "Kültürel farklılıkların göz ardı edilmesi",
+          "images": [],
+          "text_ar": "تجاهل الفروق الثقافية"
+        },
+        {
+          "letter": "D",
+          "text": "Uygulamalar yapılması",
+          "images": [],
+          "text_ar": "إجراء تطبيقات"
+        },
+        {
+          "letter": "E",
+          "text": "Önceki değerlendirmelerin dikkate alınması",
+          "images": [],
+          "text_ar": "مراعاة التقييمات السابقة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يندرج ضمن البنود التي يمكن أن يُقيَّم بها استعداد الطفل وفق «النظرية البنائية الاجتماعية»؟",
+      "review": [
+        "q8.D: عبارة «Uygulamalar yapılması» عامة في المصدر؛ نُقلت بمعناها العام"
+      ]
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi ilkokul 1. sınıf uyum programı sonunda, öğrencilerin edinebileceği kazanımlar arasında yer alamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bölme ve çarpmayı öğrenir.",
+          "images": [],
+          "text_ar": "يتعلم القسمة والضرب."
+        },
+        {
+          "letter": "B",
+          "text": "Hece ve kelimeleri öğrenir.",
+          "images": [],
+          "text_ar": "يتعلم المقاطع والكلمات."
+        },
+        {
+          "letter": "C",
+          "text": "Kendisini ve ailesini tanır.",
+          "images": [],
+          "text_ar": "يتعرف نفسه وأسرته."
+        },
+        {
+          "letter": "D",
+          "text": "Doğayı, bitki ve hayvanları gözlemler.",
+          "images": [],
+          "text_ar": "يلاحظ الطبيعة والنباتات والحيوانات."
+        },
+        {
+          "letter": "E",
+          "text": "Planlama yapabilir.",
+          "images": [],
+          "text_ar": "يستطيع التخطيط."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي الخيارات الآتية لا يندرج ضمن مخرجات التعلم التي يمكن أن يحققها الطلاب في نهاية برنامج التكيف للصف الأول الابتدائي؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi ilkokula hazırlığın değerlendirilmesi sürecinde uzmanların uyması gereken prensiplerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçme araçlarının gelişimsel özelliklere uygun olmas",
+          "images": [],
+          "text_ar": "أن تكون أدوات القياس ملائمة للخصائص النمائية"
+        },
+        {
+          "letter": "B",
+          "text": "Mahremiyet güvencesi",
+          "images": [],
+          "text_ar": "ضمان الخصوصية"
+        },
+        {
+          "letter": "C",
+          "text": "Bireyi tanıma tekniklerinin araç olması",
+          "images": [],
+          "text_ar": "أن تكون تقنيات التعرف على الفرد وسيلة"
+        },
+        {
+          "letter": "D",
+          "text": "Fırsat eşitliği",
+          "images": [],
+          "text_ar": "تكافؤ الفرص"
+        },
+        {
+          "letter": "E",
+          "text": "Tek ölçme aracının kullanılması",
+          "images": [],
+          "text_ar": "استخدام أداة قياس واحدة فقط"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي الخيارات الآتية ليس من المبادئ التي ينبغي أن يلتزم بها الخبراء في عملية تقييم الاستعداد للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun ilkokula hazırbulunuşluğunu etkileyen modellerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çevresel model",
+          "images": [],
+          "text_ar": "النموذج البيئي"
+        },
+        {
+          "letter": "B",
+          "text": "Yetenek modeli",
+          "images": [],
+          "text_ar": "نموذج القدرة"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimsel model",
+          "images": [],
+          "text_ar": "النموذج النمائي"
+        },
+        {
+          "letter": "D",
+          "text": "Çevresel- girdi modeli",
+          "images": [],
+          "text_ar": "نموذج المدخلات البيئية"
+        },
+        {
+          "letter": "E",
+          "text": "Yeteneksel- girdi modeli",
+          "images": [],
+          "text_ar": "نموذج المدخلات القدرية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من النماذج المؤثرة في استعداد الطفل للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukta hazırbulunuşluğu değerlendiren kuramlar arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal yapılandırmacı kuram",
+          "images": [],
+          "text_ar": "النظرية البنائية الاجتماعية"
+        },
+        {
+          "letter": "B",
+          "text": "Çevreselci kuram",
+          "images": [],
+          "text_ar": "النظرية البيئية"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişselci kuram",
+          "images": [],
+          "text_ar": "النظرية المعرفية"
+        },
+        {
+          "letter": "D",
+          "text": "Olgunlaşmacı kuram",
+          "images": [],
+          "text_ar": "النظرية النضجية"
+        },
+        {
+          "letter": "E",
+          "text": "Etkileşimci kuram",
+          "images": [],
+          "text_ar": "النظرية التفاعلية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يندرج ضمن النظريات التي تقيّم استعداد الطفل؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde, çocuğun okula uyumunda yer alan boyutlar bir arada ve doğru biçimde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hazır çocuk ve hazır okul",
+          "images": [],
+          "text_ar": "طفل جاهز ومدرسة جاهزة"
+        },
+        {
+          "letter": "B",
+          "text": "Hazır müdür, hazır çocuk, hazır aile",
+          "images": [],
+          "text_ar": "مدير جاهز وطفل جاهز وأسرة جاهزة"
+        },
+        {
+          "letter": "C",
+          "text": "Hazır müdür ve hazır aile",
+          "images": [],
+          "text_ar": "مدير جاهز وأسرة جاهزة"
+        },
+        {
+          "letter": "D",
+          "text": "Hazır aile, hazır çocuk, hazır okul",
+          "images": [],
+          "text_ar": "أسرة جاهزة وطفل جاهز ومدرسة جاهزة"
+        },
+        {
+          "letter": "E",
+          "text": "Hazır aile ve hazır çocuk",
+          "images": [],
+          "text_ar": "أسرة جاهزة وطفل جاهز"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الخيارات الآتية يرد فيها مجتمعةً وعلى نحو صحيح أبعاد تكيف الطفل مع المدرسة؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde gözlem listesi kullanmanın avantajlarından biri yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğretmene yardımcı olma",
+          "images": [],
+          "text_ar": "مساعدة المعلم"
+        },
+        {
+          "letter": "B",
+          "text": "Öğrencilerin kavga etme nedenlerini ortaya koyma",
+          "images": [],
+          "text_ar": "بيان أسباب تشاجر الطلاب"
+        },
+        {
+          "letter": "C",
+          "text": "Gözlemlenen olaya kolay odaklanma",
+          "images": [],
+          "text_ar": "سهولة التركيز على الحدث الملاحَظ"
+        },
+        {
+          "letter": "D",
+          "text": "Öğrenciyle ilgili bilgi toplama",
+          "images": [],
+          "text_ar": "جمع المعلومات عن الطالب"
+        },
+        {
+          "letter": "E",
+          "text": "Bir grubun özelliklerini tanımlama",
+          "images": [],
+          "text_ar": "وصف خصائص مجموعة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي الخيارات الآتية لا يندرج ضمن مزايا استخدام قائمة الملاحظة؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum programlarının dayandığı ekolojik sistemler kuramı içinde aşağıdakilerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ekzosistem",
+          "images": [],
+          "text_ar": "النظام الخارجي"
+        },
+        {
+          "letter": "B",
+          "text": "Koronosistem",
+          "images": [],
+          "text_ar": "النظام الزمني"
+        },
+        {
+          "letter": "C",
+          "text": "Mezosistem",
+          "images": [],
+          "text_ar": "النظام الوسيط"
+        },
+        {
+          "letter": "D",
+          "text": "Mikrosistem",
+          "images": [],
+          "text_ar": "النظام المصغر"
+        },
+        {
+          "letter": "E",
+          "text": "Atmosistem",
+          "images": [],
+          "text_ar": "النظام الجوي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن نظرية النظم البيئية التي تستند إليها برامج التكيف مع المدرسة؟",
+      "review": [
+        "q15.B: «Koronosistem» خطأ إملائي محتمل عن «Kronosistem» (النظام الزمني)؛ نُقلت بهذا المعنى"
+      ]
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki hazırbulunuşluğu değerlendirme tekniklerinden hangisi “Test Dışı Teknikler” arasında yer alamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözlem",
+          "images": [],
+          "text_ar": "الملاحظة"
+        },
+        {
+          "letter": "B",
+          "text": "Özellik/ kayıt çizelgesi",
+          "images": [],
+          "text_ar": "جدول الخصائص/التسجيل"
+        },
+        {
+          "letter": "C",
+          "text": "Olay/ vaka kaydı",
+          "images": [],
+          "text_ar": "تسجيل الأحداث/الحالات"
+        },
+        {
+          "letter": "D",
+          "text": "Mülakat",
+          "images": [],
+          "text_ar": "المقابلة"
+        },
+        {
+          "letter": "E",
+          "text": "Ölçekler",
+          "images": [],
+          "text_ar": "المقاييس"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي تقنيات تقييم الاستعداد الآتية لا يندرج ضمن «التقنيات غير الاختبارية»؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisine 1968 ilkokul programının “yöntem ve teknikler” bölümünde yer verilmemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Buluş yoluyla öğretim",
+          "images": [],
+          "text_ar": "التدريس بطريقة الاكتشاف"
+        },
+        {
+          "letter": "B",
+          "text": "Anlatım yoluyla öğretim",
+          "images": [],
+          "text_ar": "التدريس بطريقة الإلقاء"
+        },
+        {
+          "letter": "C",
+          "text": "cevap yoluyla öğretim",
+          "images": [],
+          "text_ar": "التدريس بطريقة السؤال والجواب"
+        },
+        {
+          "letter": "D",
+          "text": "Proje ile öğretim",
+          "images": [],
+          "text_ar": "التدريس بالمشروع"
+        },
+        {
+          "letter": "E",
+          "text": "Deneylerle öğretim",
+          "images": [],
+          "text_ar": "التدريس بالتجارب"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لم يُدرج في قسم «الأساليب والتقنيات» في برنامج المدرسة الابتدائية لعام 1968؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "“En genel şekilde çocuğun yeni öğrenmeleri gerçekleştirebilmeleri için kendisinde aranan bilişsel, duyuşsal ve devinişsel yeterliklerdir.” şeklinde tanımlanan kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hazırbulunuşluk",
+          "images": [],
+          "text_ar": "الاستعداد"
+        },
+        {
+          "letter": "B",
+          "text": "Öğrenme",
+          "images": [],
+          "text_ar": "التعلم"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim",
+          "images": [],
+          "text_ar": "النمو"
+        },
+        {
+          "letter": "D",
+          "text": "Büyüme",
+          "images": [],
+          "text_ar": "النمو الجسمي"
+        },
+        {
+          "letter": "E",
+          "text": "Olgunlaşma",
+          "images": [],
+          "text_ar": "النضج"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما المفهوم المعرّف بأنه «الكفايات المعرفية والوجدانية والحركية التي تُطلب في الطفل بصورة عامة ليتمكن من تحقيق تعلمات جديدة»؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi ilkokula hazırlık sürecinde çocuklardaki temel gelişimsel özelliklerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olgunlaşma",
+          "images": [],
+          "text_ar": "النضج"
+        },
+        {
+          "letter": "B",
+          "text": "Duygusal gelişim",
+          "images": [],
+          "text_ar": "النمو العاطفي"
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal gelişim",
+          "images": [],
+          "text_ar": "النمو الاجتماعي"
+        },
+        {
+          "letter": "D",
+          "text": "Uyum sağlama",
+          "images": [],
+          "text_ar": "التكيف"
+        },
+        {
+          "letter": "E",
+          "text": "Dil gelişimi",
+          "images": [],
+          "text_ar": "تطور اللغة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الخيارات الآتية ليس من الخصائص النمائية الأساسية عند الأطفال في عملية الاستعداد للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum programında “çocuğu merkeze alma” sürecinde hazırlanacak etkinliklerde, öğretmenin aşağıdaki sorulardan hangisine cevap verecek nitelikte etkinlik hazırlaması beklenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu etkinlikle sınıfımdaki her çocuğa yarar sağlamalı mıyım?",
+          "images": [],
+          "text_ar": "هل ينبغي أن أضمن استفادة كل طفل في صفي من هذا النشاط؟"
+        },
+        {
+          "letter": "B",
+          "text": "Bu etkinlikle hangi çocukların yarar sağlaması için özel çaba göstermeliyim?",
+          "images": [],
+          "text_ar": "ما الأطفال الذين ينبغي أن أبذل جهدًا خاصًا لضمان استفادتهم من هذا النشاط؟"
+        },
+        {
+          "letter": "C",
+          "text": "Bu etkinlikle çocukların hangi gereksinimleri karşılanır?",
+          "images": [],
+          "text_ar": "ما احتياجات الأطفال التي يلبيها هذا النشاط؟"
+        },
+        {
+          "letter": "D",
+          "text": "Bu etkinlikle hangi çocuklar yarar sağlar?",
+          "images": [],
+          "text_ar": "أي الأطفال يستفيدون من هذا النشاط؟"
+        },
+        {
+          "letter": "E",
+          "text": "Bu etkinlikle çocuklar için hangi yöntem-teknikleri seçsem daha yararlı olur?",
+          "images": [],
+          "text_ar": "ما الأساليب والتقنيات التي لو اخترتها لهذا النشاط لكانت أكثر فائدة للأطفال؟"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في الأنشطة التي ستُعدّ في عملية «جعل الطفل في المركز» ضمن برنامج التكيف مع المدرسة، لا يُتوقع من المعلم أن يعدّ نشاطًا يجيب عن أي من الأسئلة التالية؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "fe51c2fede1c3a236a3a14d3fd0d46192057bb64f8f5f53569bfd1cd18304a07"
+}

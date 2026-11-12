@@ -1,0 +1,1048 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Ünite-2",
+  "exam_slug": "unite-2",
+  "page_title": "Çocuk Gelişimi Uygulamaları I Ünite-2",
+  "source_url": "https://lolonolo.com/2021/10/16/cocuk-gelisimi-uygulamalari-i-unite-2/",
+  "scraped_at": "2026-11-12T15:00:51+03:00",
+  "answer_source": "markup",
+  "question_count": 25,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Besleyici değeri olmayan ve besin olmayan maddelerin en az bir aylık süre boyunca ısrarlı olarak yenmesi  ile karakterize olan yeme bozukluğu aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tıkınırcasına Yeme Bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب نهم الطعام"
+        },
+        {
+          "letter": "B",
+          "text": "Bulimiya Nervoza",
+          "images": [],
+          "text_ar": "الشره العصبي"
+        },
+        {
+          "letter": "C",
+          "text": "Kaçıngan/Kısıtlayıcı Yiyecek Alım Bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب تجنب/تقييد تناول الطعام"
+        },
+        {
+          "letter": "D",
+          "text": "Anoreksiya Nervoza",
+          "images": [],
+          "text_ar": "فقدان الشهية العصبي"
+        },
+        {
+          "letter": "E",
+          "text": "Pika",
+          "images": [],
+          "text_ar": "البيكا"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ما اضطراب الأكل الذي يتسم بتناول مواد غير مغذية وغير غذائية بإصرار لمدة شهر واحد على الأقل؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Enürezis ile ilgili aşağıda verilen bilgilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Primer enürezis oluşumunda uyanma ile ilgili sorunlar, düşük mesane kapasitesi, ailesel yatkınlık gibi etkenler ön plandadır",
+          "images": [],
+          "text_ar": "في نشوء التبول اللاإرادي الأولي تكون عوامل مثل مشكلات الاستيقاظ وانخفاض سعة المثانة والاستعداد العائلي في المقدمة."
+        },
+        {
+          "letter": "B",
+          "text": "Enürezisi olan çocukların %80’i sekonder enürez tanısı alır.",
+          "images": [],
+          "text_ar": "80% من الأطفال المصابين بالتبول اللاإرادي يُشخَّصون بالتبول اللاإرادي الثانوي."
+        },
+        {
+          "letter": "C",
+          "text": "Enürezis tanısı konulabilmesi için çocuğun 5 yaşından küçük olması gerekir.",
+          "images": [],
+          "text_ar": "لكي يُشخَّص التبول اللاإرادي يجب أن يكون عمر الطفل أقل من 5 سنوات."
+        },
+        {
+          "letter": "D",
+          "text": "İdrar kaçırma davranışı çocuğun isteği dışında ortaya çıkmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن يحدث سلوك تبليل البول خارج إرادة الطفل."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "جميع ما سبق"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من المعلومات التالية عن التبول اللاإرادي صحيح؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Anoreksiya Nervoza hastalarında psikiyatrik değerlendirme ve tedavisinde yapılması gerekenlerden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yetersiz beslenmeye bağlı vücut-organ fonksiyonlarının değerlendirlmesi için detaylı laboratuvar testleri",
+          "images": [],
+          "text_ar": "اختبارات مخبرية مفصلة لتقييم وظائف أعضاء الجسم المرتبطة بسوء التغذية"
+        },
+        {
+          "letter": "B",
+          "text": "Anoreksiya Nervoza ilişkili fizik bulguların değerlendirilmesi",
+          "images": [],
+          "text_ar": "تقييم العلامات الجسدية المرتبطة بفقدان الشهية العصبي"
+        },
+        {
+          "letter": "C",
+          "text": "Hastanın ve ailenin Anoreksiya Nervoza, ilişkili riskler ve tedavi şekli ve süreci konusunda bilgilendirilmesi",
+          "images": [],
+          "text_ar": "إعلام المريض والأسرة بفقدان الشهية العصبي والمخاطر المرتبطة به وشكل العلاج ومساره"
+        },
+        {
+          "letter": "D",
+          "text": "Vücut kitle indeksinin normal sınırlara gelmesinin sağlanması",
+          "images": [],
+          "text_ar": "ضمان وصول مؤشر كتلة الجسم إلى الحدود الطبيعية"
+        },
+        {
+          "letter": "E",
+          "text": "Hastane yatış ihtiyacının değerlendirilmesi",
+          "images": [],
+          "text_ar": "تقييم الحاجة إلى إدخال المريض إلى المستشفى"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي يُعدّ من الأمور التي يجب القيام بها في التقييم والعلاج النفسي لمرضى فقدان الشهية العصبي؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "I-Pika II-Geviş getirme bozukluğu III-Kaçıngan kısıtlı yiyecek alımı bozukluğu IV-Anoreksiya nervoza Yetersiz/kötü ebeveyn-çocuk ilişkisi yukarıdaki beslenme/yeme bozuklukların hangilerinin etiyolojisinde rol oynayabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, III",
+          "images": [],
+          "text_ar": "I و III"
+        },
+        {
+          "letter": "B",
+          "text": "I, III, IV",
+          "images": [],
+          "text_ar": "I و III و IV"
+        },
+        {
+          "letter": "C",
+          "text": "II , III, IV",
+          "images": [],
+          "text_ar": "II و III و IV"
+        },
+        {
+          "letter": "D",
+          "text": "I, II, III",
+          "images": [],
+          "text_ar": "I و II و III"
+        },
+        {
+          "letter": "E",
+          "text": "I, II, III,IV",
+          "images": [],
+          "text_ar": "I و II و III و IV"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I- البيكا II- اضطراب الاجترار III- اضطراب تجنب/تقييد تناول الطعام IV- فقدان الشهية العصبي قد تؤدي العلاقة الوالدية-الطفلية غير الكافية أو السيئة دورًا في مسبّبات أي من اضطرابات التغذية/الأكل أعلاه؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "I- Gece bağırsak kontrolü becerisi II- Gündüz bağırsak kontrolü becerisi III- Gece mesane kontrolü becerisi IV- Gündüz mesane kontrolü becerisi Normal gelişim gösteren çocuklarda tuvalet kontrol becerileri hangi sırayla gelişmesi en muhtemeldir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, II, III, IV",
+          "images": [],
+          "text_ar": "I و II و III و IV"
+        },
+        {
+          "letter": "B",
+          "text": "I, II, IV, III",
+          "images": [],
+          "text_ar": "I و II و IV و III"
+        },
+        {
+          "letter": "C",
+          "text": "I, III, II, IV",
+          "images": [],
+          "text_ar": "I و III و II و IV"
+        },
+        {
+          "letter": "D",
+          "text": "II, I, III, IV",
+          "images": [],
+          "text_ar": "II و I و III و IV"
+        },
+        {
+          "letter": "E",
+          "text": "II, I, IV, III",
+          "images": [],
+          "text_ar": "II و I و IV و III"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I- مهارة التحكم في الأمعاء ليلًا II- مهارة التحكم في الأمعاء نهارًا III- مهارة التحكم في المثانة ليلًا IV- مهارة التحكم في المثانة نهارًا بأي ترتيب يُرجَّح أن تتطور مهارات التحكم في استخدام المرحاض لدى الأطفال ذوي النمو الطبيعي؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Kaçıngan kısıtlı yiyecek alım bozukluğu olan çocuklarda sağlıklı beslenme davranışları gelişmesi için aşağıdakilerden  hangisi yapılmamalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğa öğün aralarında tok kalması için bol bol kuruyemiş yiyecekler verilmelidir.",
+          "images": [],
+          "text_ar": "ينبغي إعطاء الطفل كميات كبيرة من المكسرات بين الوجبات ليبقى شبعانًا."
+        },
+        {
+          "letter": "B",
+          "text": "Öğün saatleri 3-4 saat aralıklarla düzenlenmelidir.",
+          "images": [],
+          "text_ar": "ينبغي تنظيم أوقات الوجبات على فترات من 3-4 ساعات."
+        },
+        {
+          "letter": "C",
+          "text": "Ebeveynler çocuğun önüne yemekleri küçük porsiyonlarda koymalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يضع الوالدان الطعام أمام الطفل بكميات صغيرة."
+        },
+        {
+          "letter": "D",
+          "text": "Öğünler 20-30 dakikadan fazla sürmemelidir.",
+          "images": [],
+          "text_ar": "ينبغي ألا تستغرق الوجبات أكثر من 20-30 دقيقة."
+        },
+        {
+          "letter": "E",
+          "text": "Yemek sırasında çocuğun dikkatini dağıtacak oyuncaklar ya da televizyon olmamalıdır.",
+          "images": [],
+          "text_ar": "يجب ألا توجد أثناء الطعام ألعاب أو تلفاز تشتت انتباه الطفل."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا ينبغي فعله لتطوير سلوكيات التغذية الصحية لدى الأطفال المصابين باضطراب تجنب/تقييد تناول الطعام؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Dünya Sağlık Örgütü Vücut Kitle İndeksini kaçın altında olmasıyla düşük vücut ağırlığı olarak tanımlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "18.5",
+          "images": [],
+          "text_ar": "قيمة 18.5"
+        },
+        {
+          "letter": "B",
+          "text": "20.3",
+          "images": [],
+          "text_ar": "قيمة 20.3"
+        },
+        {
+          "letter": "C",
+          "text": "21.3",
+          "images": [],
+          "text_ar": "قيمة 21.3"
+        },
+        {
+          "letter": "D",
+          "text": "19.5",
+          "images": [],
+          "text_ar": "قيمة 19.5"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "تحت أي قيمة لمؤشر كتلة الجسم تُعرّف منظمة الصحة العالمية انخفاض وزن الجسم؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "I-Pika II-Geviş Getirme Bozukluğu III-Kaçıngan Kısıtlı Yiyecek Alımı Bozukluğu IV-Anoreksiya Nervoza Yukardaki beslenme/yeme bozukluklarının hangisinde beden ağırlığını ya da biçimini algılamada bozukluk olması tanı kriterleri  arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "C",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I و II و III"
+        },
+        {
+          "letter": "D",
+          "text": "I,II ve IV",
+          "images": [],
+          "text_ar": "I و II و IV"
+        },
+        {
+          "letter": "E",
+          "text": "II, III, IV",
+          "images": [],
+          "text_ar": "II و III و IV"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I- البيكا II- اضطراب الاجترار III- اضطراب تجنب/تقييد تناول الطعام IV- فقدان الشهية العصبي في أي من اضطرابات التغذية/الأكل أعلاه لا يُعدّ اضطراب إدراك وزن الجسم أو شكله من معايير التشخيص؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Kaçıngan/Kısıtlı Yiyecek Alımı Bozukluğunun DSM-5 tanı kriterlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişinin vücut ağırlığını ya da biçimini nasıl algıladığıyla ilgili bir bozukluk",
+          "images": [],
+          "text_ar": "اضطراب في كيفية إدراك الشخص لوزن جسمه أو شكله"
+        },
+        {
+          "letter": "B",
+          "text": "Enteral (tüp yardımıyla) beslenme ya da ağızdan besin destekçilerine bağlı kalma",
+          "images": [],
+          "text_ar": "الاعتماد على التغذية المعوية (عبر أنبوب) أو على مكملات غذائية فموية"
+        },
+        {
+          "letter": "C",
+          "text": "Belirgin bir beslenme eksikliği",
+          "images": [],
+          "text_ar": "نقص تغذوي واضح"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklarda beklenen kilo alımını sağlayamama ya da büyümenin duraklaması",
+          "images": [],
+          "text_ar": "عدم تحقيق زيادة الوزن المتوقعة لدى الأطفال أو توقف النمو"
+        },
+        {
+          "letter": "E",
+          "text": "Ruhsal-toplumsal işlevselliğin belirgin olarak düşmesi",
+          "images": [],
+          "text_ar": "انخفاض واضح في الأداء الوظيفي النفسي الاجتماعي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من معايير تشخيص DSM-5 لاضطراب تجنب/تقييد تناول الطعام؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kaçıngan kısıtlı yiyecek alım bozukluğunun klinik tablolarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnfantil anoreksiya",
+          "images": [],
+          "text_ar": "فقدان الشهية الطفولي"
+        },
+        {
+          "letter": "B",
+          "text": "Anoreksiya nevroza",
+          "images": [],
+          "text_ar": "فقدان الشهية العصبي"
+        },
+        {
+          "letter": "C",
+          "text": "Travma sonrası beslenme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التغذية بعد الصدمة"
+        },
+        {
+          "letter": "D",
+          "text": "Duyusal nedenlere bağlı beslenme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التغذية الناجم عن أسباب حسية"
+        },
+        {
+          "letter": "E",
+          "text": "Bakımveren-bebek etkileşiminde karşılılık ile ilişkili beslenme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التغذية المرتبط بالتبادل في التفاعل بين مقدم الرعاية والرضيع"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من الصور السريرية لاضطراب تجنب/تقييد تناول الطعام؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Enkoprezis olgularında, psikoterapinin altta yatan ruhsal bozukluklara ve aile içi dinamiklere faydalı olabileceğinden  aşağıdaki terapilerden hangisi uygulanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nöroterapi",
+          "images": [],
+          "text_ar": "العلاج العصبي"
+        },
+        {
+          "letter": "B",
+          "text": "Sanat terapisi",
+          "images": [],
+          "text_ar": "العلاج بالفن"
+        },
+        {
+          "letter": "C",
+          "text": "Aile terapisi",
+          "images": [],
+          "text_ar": "العلاج الأسري"
+        },
+        {
+          "letter": "D",
+          "text": "Diyalektik davranış terapisi",
+          "images": [],
+          "text_ar": "العلاج السلوكي الجدلي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "في حالات التغوط اللاإرادي، ونظرًا لأن العلاج النفسي قد يفيد الاضطرابات النفسية الكامنة والديناميكيات الأسرية، أي من العلاجات التالية يُطبَّق؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Enürezis hastalarında oluşan rahatsızlıklarda yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikososyal etkenler",
+          "images": [],
+          "text_ar": "العوامل النفسية الاجتماعية"
+        },
+        {
+          "letter": "B",
+          "text": "Ciddi kardiyak ve metabolik problemler",
+          "images": [],
+          "text_ar": "مشكلات قلبية واستقلابية خطيرة"
+        },
+        {
+          "letter": "C",
+          "text": "Uyku ile ilgili problemler",
+          "images": [],
+          "text_ar": "مشكلات متعلقة بالنوم"
+        },
+        {
+          "letter": "D",
+          "text": "Hormonal etkenler",
+          "images": [],
+          "text_ar": "العوامل الهرمونية"
+        },
+        {
+          "letter": "E",
+          "text": "Mesane fizyolojisi ile ilgili sorunlar",
+          "images": [],
+          "text_ar": "مشكلات متعلقة بفسيولوجيا المثانة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يرد ضمن الاضطرابات التي تحدث لدى مرضى التبول اللاإرادي؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Pika tedavisinde uygulanması gereken psikoterapi türlerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sanat terapisi",
+          "images": [],
+          "text_ar": "العلاج بالفن"
+        },
+        {
+          "letter": "B",
+          "text": "Oyun terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب"
+        },
+        {
+          "letter": "C",
+          "text": "Davranışçı psikoterapi",
+          "images": [],
+          "text_ar": "العلاج النفسي السلوكي"
+        },
+        {
+          "letter": "D",
+          "text": "Grup tedavisi",
+          "images": [],
+          "text_ar": "العلاج الجماعي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي يُعدّ من أنواع العلاج النفسي التي ينبغي تطبيقها في علاج البيكا؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Chaator bebeklik ve erken çocukluk döneminde görülen yeme bozukluklarını daha iyi tanımlamak amacıyla nedenlerine yönelik sınıflandırma sistemi önermiştir. Aşağıdakilerden hangisi bunlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olgu düzenlemesindeki çözümlere bağlı yeme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب الأكل المرتبط بحلول تنظيم الحالة"
+        },
+        {
+          "letter": "B",
+          "text": "Bakım veren-bebek etkileşiminde karşılılık ile ilişkili beslenme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التغذية المرتبط بالتبادل في التفاعل بين مقدم الرعاية والرضيع"
+        },
+        {
+          "letter": "C",
+          "text": "İnfantil anoreksiya",
+          "images": [],
+          "text_ar": "فقدان الشهية الطفولي"
+        },
+        {
+          "letter": "D",
+          "text": "Duyusal nedenlere bağlı yeme reddi",
+          "images": [],
+          "text_ar": "رفض الطعام الناجم عن أسباب حسية"
+        },
+        {
+          "letter": "E",
+          "text": "Eşlik eden tıbbı durumla ilişkili beslenme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التغذية المرتبط بحالة طبية مصاحبة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "اقترح تشاتور نظام تصنيف قائمًا على الأسباب لوصف اضطرابات الأكل التي تظهر في الرضاعة والطفولة المبكرة وصفًا أفضل. أي مما يلي ليس من هذه الاضطرابات؟",
+      "review": [
+        "q14.A: المصطلح التركي «olgu düzenlemesi» غامض؛ نُقل بمعنى تنظيم الحالة"
+      ]
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "I- Enkoprezis tanı ve tedavi sürecinde kabızlığın eşlik edip etmemesi önemli rol oynamaktadır. II- 7 yaşındaki çocuklarda enkoprezis görülme sıklığı 4 yaşındaki çocuklardan daha fazladır. III- Enkoprezis tanısı istemdışı dışkı kaçıran çocuklara konulamaz. Enkoprezis ile ilgili yukardakilerden hangisi/hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "D",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "E",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I و II و III"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "I- في عملية تشخيص التغوط اللاإرادي وعلاجه، يؤدي وجود الإمساك أو عدمه دورًا مهمًا. II- شيوع التغوط اللاإرادي لدى الأطفال في السابعة من العمر أكبر منه لدى الأطفال في الرابعة. III- لا يمكن تشخيص التغوط اللاإرادي لدى الأطفال الذين يمررون البراز لا إراديًا. أي مما ورد أعلاه صحيح بشأن التغوط اللاإرادي؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi DSM-5’e göre beslenme/yeme bozuklukları kategorisinde yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Pika",
+          "images": [],
+          "text_ar": "البيكا"
+        },
+        {
+          "letter": "B",
+          "text": "Geviş getirme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب الاجترار"
+        },
+        {
+          "letter": "C",
+          "text": "Obezite",
+          "images": [],
+          "text_ar": "السمنة"
+        },
+        {
+          "letter": "D",
+          "text": "Kaçıngan kısıtlı yiyecek alım bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب تجنب/تقييد تناول الطعام"
+        },
+        {
+          "letter": "E",
+          "text": "Tıkanırcasına yeme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب نهم الطعام"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يرد ضمن فئة اضطرابات التغذية/الأكل وفق DSM-5؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Başını geriye itme, ıkınma, karın kaslarını kasma, sırtını kamburlaştırma, dilini emme gibi tipik beden hareketlerine neden olan beslenme bozukluğu aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anoreksiya Nervoza",
+          "images": [],
+          "text_ar": "فقدان الشهية العصبي"
+        },
+        {
+          "letter": "B",
+          "text": "Bulimiya nervoza",
+          "images": [],
+          "text_ar": "الشره العصبي"
+        },
+        {
+          "letter": "C",
+          "text": "Kaçıngan/Kısıtlı Yiyecek Alımı Bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب تجنب/تقييد تناول الطعام"
+        },
+        {
+          "letter": "D",
+          "text": "Geri Çıkarma (Geviş Getirme) Bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب الاجترار (إخراج الطعام)"
+        },
+        {
+          "letter": "E",
+          "text": "Pika",
+          "images": [],
+          "text_ar": "البيكا"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما اضطراب التغذية الذي يسبب حركات جسدية نمطية مثل إرجاع الرأس إلى الخلف، والشدّ، وتقليص عضلات البطن، وتقويس الظهر، ومصّ اللسان؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki davranışlardan hangisi pika tanısı düşündürmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "4 yaşındaki çocuğun boya yemesi",
+          "images": [],
+          "text_ar": "طفل في الرابعة من عمره يأكل الطلاء"
+        },
+        {
+          "letter": "B",
+          "text": "3 yaşındaki çocuğun kum yemesi",
+          "images": [],
+          "text_ar": "طفل في الثالثة من عمره يأكل الرمل"
+        },
+        {
+          "letter": "C",
+          "text": "22 aylık çocuğun saç yemesi",
+          "images": [],
+          "text_ar": "طفل عمره 22 شهرًا يأكل الشعر"
+        },
+        {
+          "letter": "D",
+          "text": "14 aylık çocuğun mercimek yemesi",
+          "images": [],
+          "text_ar": "طفل عمره 14 شهرًا يأكل العدس"
+        },
+        {
+          "letter": "E",
+          "text": "5 yaşındaki çocuğun kumaş yemesi",
+          "images": [],
+          "text_ar": "طفل في الخامسة من عمره يأكل القماش"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من السلوكيات التالية لا يوحي بتشخيص البيكا؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Rahatsızlıklardan hangisi kendiliğinden iyileşme görülebilen bir bozukluktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Pika",
+          "images": [],
+          "text_ar": "البيكا"
+        },
+        {
+          "letter": "B",
+          "text": "Anoreksiya Nervoza",
+          "images": [],
+          "text_ar": "فقدان الشهية العصبي"
+        },
+        {
+          "letter": "C",
+          "text": "Bulimiya nervoza",
+          "images": [],
+          "text_ar": "الشره العصبي"
+        },
+        {
+          "letter": "D",
+          "text": "Enürezis",
+          "images": [],
+          "text_ar": "التبول اللاإرادي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من الاضطرابات التالية يمكن أن يشفى تلقائيًا؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Kişinin beden algısındaki bozulmayla birlikte yeme kısıtlaması ve düşük vücut ağırlığıyla seyreden ciddi yeme bozukluğu aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Geri Çıkarma (Geviş Getirme) Bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب الاجترار (إخراج الطعام)"
+        },
+        {
+          "letter": "B",
+          "text": "Anoreksiya Nervoza",
+          "images": [],
+          "text_ar": "فقدان الشهية العصبي"
+        },
+        {
+          "letter": "C",
+          "text": "Kaçıngan/Kısıtlı Yiyecek Alımı Bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب تجنب/تقييد تناول الطعام"
+        },
+        {
+          "letter": "D",
+          "text": "Dışa atım bozuklukları",
+          "images": [],
+          "text_ar": "اضطرابات الإخراج"
+        },
+        {
+          "letter": "E",
+          "text": "Bulimiya nervoza",
+          "images": [],
+          "text_ar": "الشره العصبي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما اضطراب الأكل الخطير الذي يتسم بتقييد الطعام وانخفاض وزن الجسم مع اضطراب في صورة الجسم؟"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "Yumuşak ve pütürlü besinlerle ek gıdayla tanışma kaçıncı ayda başlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0-6 ay",
+          "images": [],
+          "text_ar": "0-6 أشهر"
+        },
+        {
+          "letter": "B",
+          "text": "9-12 ay",
+          "images": [],
+          "text_ar": "9-12 شهرًا"
+        },
+        {
+          "letter": "C",
+          "text": "12 ay ve sonrası",
+          "images": [],
+          "text_ar": "12 شهرًا وما بعدها"
+        },
+        {
+          "letter": "D",
+          "text": "6-9 ay",
+          "images": [],
+          "text_ar": "6-9 أشهر"
+        },
+        {
+          "letter": "E",
+          "text": "2-4 ay",
+          "images": [],
+          "text_ar": "2-4 أشهر"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "في أي شهر يبدأ التعرف على الأغذية التكميلية بالأطعمة اللينة والمهروسة؟"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "I. Yalnızca anne sütü  II. Kendi kendine beslenmeye kademeli geçiş  III. Aile sofrasında yerini alma  IV. Yeme tercihlerinin başlaması Yukarıda verilenlerden hangileri 1 yaş sonrası ile ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "C",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III و IV"
+        },
+        {
+          "letter": "D",
+          "text": "II, III, IV",
+          "images": [],
+          "text_ar": "II و III و IV"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. حليب الأم فقط II. الانتقال التدريجي إلى التغذية الذاتية III. أخذ مكانه على مائدة الأسرة IV. بدء تفضيلات الطعام أي مما ورد أعلاه يتعلق بما بعد عمر السنة؟"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuklarda beslenme önerilerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun açlık sinyallerini güçlendirmek için öğün saatleri 3-4 saat aralıklarla düzenlenmelidir.",
+          "images": [],
+          "text_ar": "ينبغي تنظيم أوقات الوجبات على فترات من 3-4 ساعات لتقوية إشارات الجوع لدى الطفل."
+        },
+        {
+          "letter": "B",
+          "text": "Ebeveynler çocuğun önüne yemekleri küçük porsiyonlarda koymalıdır ve çocuğun ikinci/üçüncü/dördüncü sefer istemesine  fırsat sağlamalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يضع الوالدان الطعام أمام الطفل بكميات صغيرة وأن يتيحا له فرصة الطلب مرة ثانية أو ثالثة أو رابعة."
+        },
+        {
+          "letter": "C",
+          "text": "Yemek sırasında çocuğun dikkatini dağıtacak oyuncaklar ya da televizyon olmamalıdır.",
+          "images": [],
+          "text_ar": "يجب ألا توجد أثناء الطعام ألعاب أو تلفاز تشتت انتباه الطفل."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk belirli bir besine karşı şiddetli olumsuz yanıtlar veriyorsa ebeveynler bu besini çocuğa dayatmaktan vazgeçmelidir.",
+          "images": [],
+          "text_ar": "إذا أبدى الطفل استجابات سلبية شديدة تجاه غذاء معين، ينبغي أن يتوقف الوالدان عن فرضه عليه."
+        },
+        {
+          "letter": "E",
+          "text": "Ebeveynler çocuğu ne kadar az yediği için eleştirmeli ne kadar çok yediği için de övmelidir.",
+          "images": [],
+          "text_ar": "ينبغي أن ينتقد الوالدان الطفل على قلة ما يأكله وأن يمدحاه على كثرة ما يأكله."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من توصيات التغذية لدى الأطفال؟"
+    },
+    {
+      "n": 24,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi enkoprezise sebep olan durumlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bağırsak hareketlerinin yavaşlaması",
+          "images": [],
+          "text_ar": "تباطؤ حركات الأمعاء"
+        },
+        {
+          "letter": "B",
+          "text": "Ağrılı dışkılama nedeniyle tuvalet korkusu gelişmesi",
+          "images": [],
+          "text_ar": "تطور خوف من المرحاض بسبب التبرز المؤلم"
+        },
+        {
+          "letter": "C",
+          "text": "Korku nedeniyle dışkının tutulması",
+          "images": [],
+          "text_ar": "حبس البراز بسبب الخوف"
+        },
+        {
+          "letter": "D",
+          "text": "Dışkının bağırsak kanalında beklemesi ve sertleşmesi",
+          "images": [],
+          "text_ar": "بقاء البراز في القناة المعوية وتصلبه"
+        },
+        {
+          "letter": "E",
+          "text": "Bağırsak hareketlerinin hızlanması",
+          "images": [],
+          "text_ar": "تسارع حركات الأمعاء"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من الحالات المسببة للتغوط اللاإرادي؟"
+    },
+    {
+      "n": 25,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bulimiya nervoza tanı kriterleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vücut kitle indeksinin 15’in altında olması",
+          "images": [],
+          "text_ar": "أن يكون مؤشر كتلة الجسم أقل من 15"
+        },
+        {
+          "letter": "B",
+          "text": "Kişinin beden algısını aşırı anlam yüklemesi",
+          "images": [],
+          "text_ar": "أن يُحمّل الشخص صورة جسمه معنى مفرطًا"
+        },
+        {
+          "letter": "C",
+          "text": "Yeme ataklarının varlığı",
+          "images": [],
+          "text_ar": "وجود نوبات أكل"
+        },
+        {
+          "letter": "D",
+          "text": "Yemek yemekle ilgili kontrol kaybı hissedilmesi",
+          "images": [],
+          "text_ar": "الإحساس بفقدان السيطرة على الأكل"
+        },
+        {
+          "letter": "E",
+          "text": "Uygunsuz telafi edici davranışların görülmesi",
+          "images": [],
+          "text_ar": "ظهور سلوكيات تعويضية غير مناسبة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا يرد ضمن معايير تشخيص الشره العصبي؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "9bdb77aa20b5ce4a5833c84ffc5b555c3312da6656c336be897296ba6b7ed5db"
+}

@@ -1,0 +1,862 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -3",
+  "exam_slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-3",
+  "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -3",
+  "source_url": "https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-3/",
+  "scraped_at": "2026-11-12T15:01:04+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi özgül öğrenme güçlüğü test bataryasında yer alan testlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gessel gelişim figürleri testi",
+          "images": [],
+          "text_ar": "اختبار جيسل لأشكال النمو"
+        },
+        {
+          "letter": "B",
+          "text": "Küplerle desen",
+          "images": [],
+          "text_ar": "تصميم بالمكعبات"
+        },
+        {
+          "letter": "C",
+          "text": "Head sağ-sol ayırt etme testi",
+          "images": [],
+          "text_ar": "اختبار هيد للتمييز بين اليمين واليسار"
+        },
+        {
+          "letter": "D",
+          "text": "Harris lateralleşme testi",
+          "images": [],
+          "text_ar": "اختبار هاريس للجانبية"
+        },
+        {
+          "letter": "E",
+          "text": "Yazma testi",
+          "images": [],
+          "text_ar": "اختبار الكتابة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من الاختبارات التي تتضمنها بطارية اختبارات صعوبات التعلم النوعية؟",
+      "review": [
+        "q1.A: اسم «Gessel» في المصدر يُرجَّح أنه «Gesell»، وأُبقيت صورة الاسم كما وردت."
+      ]
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Değerlendirme raporunun içeriği konusunda aileye bilgi verilirken özellikle neye dikkat edilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukla oyun oynamaya",
+          "images": [],
+          "text_ar": "إلى اللعب مع الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Görüşmenin çok kısa tutulmasına",
+          "images": [],
+          "text_ar": "إلى أن تكون المقابلة قصيرة جدًا"
+        },
+        {
+          "letter": "C",
+          "text": "Tüm aile üyelerinin orada olmasına",
+          "images": [],
+          "text_ar": "إلى حضور جميع أفراد الأسرة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukla ilgili olumlu bir dil kullanmaya",
+          "images": [],
+          "text_ar": "إلى استخدام لغة إيجابية بشأن الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Gerçekleri gizlemeye",
+          "images": [],
+          "text_ar": "إلى إخفاء الحقائق"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "إلى أي أمر ينبغي الانتباه بوجه خاص عند إبلاغ الأسرة بمحتوى تقرير التقييم؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçme ve değerlendirme yaptıran kişinin haklarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilgilendirilme hakkı",
+          "images": [],
+          "text_ar": "الحق في الحصول على المعلومات"
+        },
+        {
+          "letter": "B",
+          "text": "Gizlilik hakkı",
+          "images": [],
+          "text_ar": "الحق في السرية"
+        },
+        {
+          "letter": "C",
+          "text": "Saygılı hizmet alma hakkı",
+          "images": [],
+          "text_ar": "الحق في تلقي خدمة تحترم الشخص"
+        },
+        {
+          "letter": "D",
+          "text": "Test geliştirme hakkı",
+          "images": [],
+          "text_ar": "الحق في تطوير الاختبارات"
+        },
+        {
+          "letter": "E",
+          "text": "Yeterli hizmet alma hakkı",
+          "images": [],
+          "text_ar": "الحق في تلقي خدمة كافية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من حقوق من يُجرى له القياس والتقييم؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Sınıf normları hangi amaçla kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun sınıfın ortalama beceri düzeyine göre durumunun belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد وضع الطفل بالنسبة إلى متوسط مستوى مهارات الصف"
+        },
+        {
+          "letter": "B",
+          "text": "Farklı yaşlardaki çocukların beceri seviyesinin belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد مستوى مهارات الأطفال في أعمار مختلفة"
+        },
+        {
+          "letter": "C",
+          "text": "Test edilen bireyin norm grubuna göre yüzdesinin belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد النسبة المئوية للفرد المختبر وفق مجموعة المعايير"
+        },
+        {
+          "letter": "D",
+          "text": "Testlerin bir sınıfın tamamına uygulanabilmesi",
+          "images": [],
+          "text_ar": "إمكانية تطبيق الاختبارات على الصف بأكمله"
+        },
+        {
+          "letter": "E",
+          "text": "Sınıflardaki çocukların başarısının artırılması",
+          "images": [],
+          "text_ar": "زيادة تحصيل الأطفال في الصفوف"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "لأي غرض تُستخدم معايير الصف؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçme ve değerlendirme raporu yazılmasının amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yönlendirme sebebine yönelik uygun açıklamalar üretilmesi",
+          "images": [],
+          "text_ar": "إنتاج تفسيرات مناسبة لسبب الإحالة"
+        },
+        {
+          "letter": "B",
+          "text": "Bireyin psikolojik durumunu tanımlanması",
+          "images": [],
+          "text_ar": "وصف الحالة النفسية للفرد"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun güçlü yanlarının belirlenip çözüm için kullanılması",
+          "images": [],
+          "text_ar": "تحديد جوانب القوة لدى الطفل واستخدامها في الحل"
+        },
+        {
+          "letter": "D",
+          "text": "Problemlere yönelik bilimsel olarak kanıtlanmış öneriler sunulması",
+          "images": [],
+          "text_ar": "تقديم توصيات مثبتة علميًا للمشكلات"
+        },
+        {
+          "letter": "E",
+          "text": "Ailenin arzu ettiği şekilde bir içerik üretilmesi.",
+          "images": [],
+          "text_ar": "إنتاج محتوى بالصورة التي ترغبها الأسرة."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أهداف كتابة تقرير القياس والتقييم؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Hangi testler için yaş normlarının mevcut olması önemlidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Likert tipi ölçekler",
+          "images": [],
+          "text_ar": "المقاييس من نوع ليكرت"
+        },
+        {
+          "letter": "B",
+          "text": "Gelişim testleri",
+          "images": [],
+          "text_ar": "اختبارات النمو"
+        },
+        {
+          "letter": "C",
+          "text": "Kişilik testleri",
+          "images": [],
+          "text_ar": "اختبارات الشخصية"
+        },
+        {
+          "letter": "D",
+          "text": "Ebeveynlik stili testleri",
+          "images": [],
+          "text_ar": "اختبارات أسلوب الوالدية"
+        },
+        {
+          "letter": "E",
+          "text": "Memnuniyet anketleri",
+          "images": [],
+          "text_ar": "استبيانات الرضا"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "لأي اختبارات تكون أهمية لوجود معايير عمرية؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Zeka için aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sir Francis Galton, zekanın duysal özelliklerle bağlantılı olduğunu öne sürmüştür.",
+          "images": [],
+          "text_ar": "ذهب السير فرانسيس غالتون إلى أن الذكاء مرتبط بالخصائص الحسية."
+        },
+        {
+          "letter": "B",
+          "text": "Zeka bölümü (IQ) terimi ilk kez William Stern tarafından kullanılmıştır.",
+          "images": [],
+          "text_ar": "استُخدم مصطلح حاصل الذكاء (IQ) لأول مرة على يد وليام شتيرن."
+        },
+        {
+          "letter": "C",
+          "text": "Günümüzdeki şekliyle ilk zeka testini Alfred Binet geliştirmiştir.",
+          "images": [],
+          "text_ar": "طوّر ألفريد بينيه أول اختبار ذكاء بشكله الحالي."
+        },
+        {
+          "letter": "D",
+          "text": "Zeka testleri ilk kez 19. yy’ın başında İngiltere’de kullanılmıştır.",
+          "images": [],
+          "text_ar": "استُخدمت اختبارات الذكاء لأول مرة في مطلع القرن 19 في إنجلترا."
+        },
+        {
+          "letter": "E",
+          "text": "Jean Piaget zekayı, dış dünyaya adapte olma üzerinden tanımlamıştır.",
+          "images": [],
+          "text_ar": "عرّف جان بياجيه الذكاء من خلال التكيّف مع العالم الخارجي."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من العبارات التالية غير صحيح بشأن الذكاء؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dikkat testidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tematik Algı Testi",
+          "images": [],
+          "text_ar": "اختبار الإدراك الموضوعي"
+        },
+        {
+          "letter": "B",
+          "text": "Gazi Beier Cümle Tamamlama Testi",
+          "images": [],
+          "text_ar": "اختبار غازي باير لإكمال الجمل"
+        },
+        {
+          "letter": "C",
+          "text": "Ankara Artikülasyon Testi",
+          "images": [],
+          "text_ar": "اختبار أنقرة للنطق"
+        },
+        {
+          "letter": "D",
+          "text": "Metropolitan Okul Olgunluğu Testi",
+          "images": [],
+          "text_ar": "اختبار ميتروبوليتان للنضج المدرسي"
+        },
+        {
+          "letter": "E",
+          "text": "Stroop Testi",
+          "images": [],
+          "text_ar": "اختبار ستروب"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي اختبار انتباه؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Bir testin güvenirliğinin hesaplanmasında hangisi kullanılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Testin farklı ölçümlerde benzer sonuçlar vermesi",
+          "images": [],
+          "text_ar": "أن يعطي الاختبار نتائج متشابهة في قياسات مختلفة"
+        },
+        {
+          "letter": "B",
+          "text": "Testin farklı değerlendiricilerde benzer sonuçlar vermesi",
+          "images": [],
+          "text_ar": "أن يعطي الاختبار نتائج متشابهة لدى مقيّمين مختلفين"
+        },
+        {
+          "letter": "C",
+          "text": "Paralel formların benzer sonuçlar vermesi",
+          "images": [],
+          "text_ar": "أن تعطي الصور الموازية نتائج متشابهة"
+        },
+        {
+          "letter": "D",
+          "text": "Maddelerin tutarlı bir şekilde aynı değişkeni değerlendirmesi",
+          "images": [],
+          "text_ar": "أن تقيس الفقرات المتغير نفسه على نحو متسق"
+        },
+        {
+          "letter": "E",
+          "text": "Testin ölçüt ile benzer sonuçlar vermesi",
+          "images": [],
+          "text_ar": "أن يعطي الاختبار نتائج متشابهة مع المحك"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يُستخدم في حساب ثبات الاختبار؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi psikolojik değerlendirme raporlarının içeriğini oluşturmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanımlayıcı bilgiler",
+          "images": [],
+          "text_ar": "المعلومات التعريفية"
+        },
+        {
+          "letter": "B",
+          "text": "Yüzdelik normlar",
+          "images": [],
+          "text_ar": "المعايير المئينية"
+        },
+        {
+          "letter": "C",
+          "text": "Geçmiş bilgisi",
+          "images": [],
+          "text_ar": "معلومات التاريخ السابق"
+        },
+        {
+          "letter": "D",
+          "text": "Özet ve öneriler",
+          "images": [],
+          "text_ar": "الملخص والتوصيات"
+        },
+        {
+          "letter": "E",
+          "text": "Yönlendirme nedeni",
+          "images": [],
+          "text_ar": "سبب الإحالة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يشكّل محتوى تقارير التقييم النفسي؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Dikkat nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ortamdaki diğer unsurları görmezden gelip, istediği bilgiye odaklanabilmektir.",
+          "images": [],
+          "text_ar": "القدرة على تجاهل العناصر الأخرى في البيئة والتركيز على المعلومة المطلوبة."
+        },
+        {
+          "letter": "B",
+          "text": "Mevcut durumu iyi analiz edip uygun kelimeleri seçebilmektir.",
+          "images": [],
+          "text_ar": "القدرة على تحليل الوضع القائم تحليلًا جيدًا واختيار الكلمات المناسبة."
+        },
+        {
+          "letter": "C",
+          "text": "Somut nesne ve olaylarla doğrudan ilişkili olmayan kelimelerle düşünebilmektir.",
+          "images": [],
+          "text_ar": "القدرة على التفكير بكلمات لا ترتبط ارتباطًا مباشرًا بالأشياء والأحداث الملموسة."
+        },
+        {
+          "letter": "D",
+          "text": "Bilgiyi alma, anlama ve uygun cevabı vermenin zamanlamasıdır.",
+          "images": [],
+          "text_ar": "توقيت تلقي المعلومة وفهمها وإعطاء الاستجابة المناسبة."
+        },
+        {
+          "letter": "E",
+          "text": "Yeni durumları doğru değerlendirmek ve ona uygun tepkiler ortaya koymaktır.",
+          "images": [],
+          "text_ar": "القدرة على تقييم المواقف الجديدة تقييمًا صحيحًا وإظهار استجابات مناسبة لها."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما الانتباه؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme ve değerlendirme konusunda etik çalışan bir uygulayıcı hangisini yapar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yeterli bilgisi olmadığı testleri uygulayarak para kazanır.",
+          "images": [],
+          "text_ar": "يكسب المال بتطبيق اختبارات لا يملك عنها معرفة كافية."
+        },
+        {
+          "letter": "B",
+          "text": "Standarda uygun olmayan uygulamayı sonuç raporunda yazar.",
+          "images": [],
+          "text_ar": "يكتب في تقرير النتائج التطبيق الذي لا يتوافق مع المعايير."
+        },
+        {
+          "letter": "C",
+          "text": "Test prosedürü konusunda çocuğa yalan söyler.",
+          "images": [],
+          "text_ar": "يكذب على الطفل بشأن إجراء الاختبار."
+        },
+        {
+          "letter": "D",
+          "text": "Testlerle kafasındaki hipotezi doğrulamaya çalışır.",
+          "images": [],
+          "text_ar": "يحاول إثبات الفرضية التي في ذهنه بالاختبارات."
+        },
+        {
+          "letter": "E",
+          "text": "Tecrübesi olmayan testleri seçerek deneyim kazanır.",
+          "images": [],
+          "text_ar": "يكتسب الخبرة باختيار اختبارات لا خبرة له بها."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي يفعله المطبّق الذي يعمل وفق الأخلاقيات في القياس والتقييم؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçeğin kullanım rahatlığı ile ilgili değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kolay uygulanması",
+          "images": [],
+          "text_ar": "سهولة تطبيقه"
+        },
+        {
+          "letter": "B",
+          "text": "Kolay puanlanması",
+          "images": [],
+          "text_ar": "سهولة تصحيحه"
+        },
+        {
+          "letter": "C",
+          "text": "Ucuz olması",
+          "images": [],
+          "text_ar": "انخفاض تكلفته"
+        },
+        {
+          "letter": "D",
+          "text": "Farklı ölçümlerde tutarlı sonuçlar vermesi",
+          "images": [],
+          "text_ar": "أن يعطي نتائج متسقة في قياسات مختلفة"
+        },
+        {
+          "letter": "E",
+          "text": "Kolay yorumlanması",
+          "images": [],
+          "text_ar": "سهولة تفسيره"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي لا يتعلق بسهولة استخدام المقياس؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Özgül Öğrenme Güçlüğü Test Bataryasının değerlendirdiği becerilerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okuma",
+          "images": [],
+          "text_ar": "القراءة"
+        },
+        {
+          "letter": "B",
+          "text": "Yazma",
+          "images": [],
+          "text_ar": "الكتابة"
+        },
+        {
+          "letter": "C",
+          "text": "Sağ-sol ayırt etme",
+          "images": [],
+          "text_ar": "التمييز بين اليمين واليسار"
+        },
+        {
+          "letter": "D",
+          "text": "Lateralleşme",
+          "images": [],
+          "text_ar": "الجانبية"
+        },
+        {
+          "letter": "E",
+          "text": "Sözel zeka",
+          "images": [],
+          "text_ar": "الذكاء اللفظي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من المهارات التي تقيسها بطارية اختبارات صعوبات التعلم النوعية؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi projektif test değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rorschach Mürekkep Lekesi Testi",
+          "images": [],
+          "text_ar": "اختبار رورشاخ لبقع الحبر"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklar için Algı Testi",
+          "images": [],
+          "text_ar": "اختبار الإدراك للأطفال"
+        },
+        {
+          "letter": "C",
+          "text": "Luisa Düss Psikanalitik Hikayeler Testi",
+          "images": [],
+          "text_ar": "اختبار لويزا دوس للقصص التحليلية النفسية"
+        },
+        {
+          "letter": "D",
+          "text": "Peabody Resim Kelime Eşleştirme Testi",
+          "images": [],
+          "text_ar": "اختبار بيبودي لمطابقة الكلمات بالصور"
+        },
+        {
+          "letter": "E",
+          "text": "Gazi Beier Cümle Tamamlama Testi",
+          "images": [],
+          "text_ar": "اختبار غازي باير لإكمال الجمل"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس اختبارًا إسقاطيًا؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genetik faktörler zeka üzerinde etkilidir.",
+          "images": [],
+          "text_ar": "العوامل الوراثية مؤثرة في الذكاء."
+        },
+        {
+          "letter": "B",
+          "text": "Çevresel faktörler zeka üzerinde etkilidir.",
+          "images": [],
+          "text_ar": "العوامل البيئية مؤثرة في الذكاء."
+        },
+        {
+          "letter": "C",
+          "text": "Zeka puanları bebeklikten itibaren değişmez.",
+          "images": [],
+          "text_ar": "درجات الذكاء لا تتغير منذ مرحلة الرضاعة."
+        },
+        {
+          "letter": "D",
+          "text": "Zekanın kalıtsallığı yaşla birlikte artar.",
+          "images": [],
+          "text_ar": "تزداد وراثية الذكاء مع تقدم العمر."
+        },
+        {
+          "letter": "E",
+          "text": "18 yaşından sonra zeka skorlarında belirgin değişme olması beklenmez.",
+          "images": [],
+          "text_ar": "لا يُتوقع حدوث تغير واضح في درجات الذكاء بعد سن 18."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية غير صحيح؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Bir ölçüm aracının psikometrik olarak sağlam olduğunun söylenmesi için aşağıdakilerden hangisi gereklidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçüm aracının sonuçlarında hataya rastlanmamalıdır.",
+          "images": [],
+          "text_ar": "ألّا يُرصد أي خطأ في نتائج أداة القياس."
+        },
+        {
+          "letter": "B",
+          "text": "Ölçüm aracı, ölçmeyi amaçladığı değişkeni doğru bir şekilde ölçmeli ve sonuçları tutarlı olmalıdır.",
+          "images": [],
+          "text_ar": "أن تقيس أداة القياس المتغير الذي تهدف إلى قياسه قياسًا صحيحًا وأن تكون نتائجها متسقة."
+        },
+        {
+          "letter": "C",
+          "text": "Ölçüm aracı, klinik yargıya varmayı kolaylaştırmalıdır.",
+          "images": [],
+          "text_ar": "أن تُسهّل أداة القياس التوصل إلى حكم إكلينيكي."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçüm aracı, kolay uygulanmalı, puanlanmalı ve yorumlanmalıdır.",
+          "images": [],
+          "text_ar": "أن تكون أداة القياس سهلة التطبيق والتصحيح والتفسير."
+        },
+        {
+          "letter": "E",
+          "text": "Ölçüm aracı, tüm çocuklarda kullanılabilmelidir.",
+          "images": [],
+          "text_ar": "أن تكون أداة القياس قابلة للاستخدام مع جميع الأطفال."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لازم للقول بأن أداة القياس متينة سيكومتريًا؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi zeka kuramı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İki Etmenli Zeka Kuramı",
+          "images": [],
+          "text_ar": "نظرية العاملين للذكاء"
+        },
+        {
+          "letter": "B",
+          "text": "Küme Etmen Kuramı",
+          "images": [],
+          "text_ar": "نظرية العوامل المجموعية"
+        },
+        {
+          "letter": "C",
+          "text": "Çoklu Zeka Kuramı",
+          "images": [],
+          "text_ar": "نظرية الذكاءات المتعددة"
+        },
+        {
+          "letter": "D",
+          "text": "Cattell-Horn-Carroll Kuramı",
+          "images": [],
+          "text_ar": "نظرية كاتيل-هورن-كارول"
+        },
+        {
+          "letter": "E",
+          "text": "Psikoanalitik Kuram",
+          "images": [],
+          "text_ar": "النظرية التحليلية النفسية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس نظرية من نظريات الذكاء؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Zekanın tanımlanmasında kullanılan bilgi işleme modeli hakkında hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilginin nasıl öğrenildiği ve problem çözmek için nasıl kullanıldığına odaklanır.",
+          "images": [],
+          "text_ar": "يركز على كيفية تعلّم المعلومات وكيفية استخدامها في حل المشكلات."
+        },
+        {
+          "letter": "B",
+          "text": "Günümüzde kabul gören bir model değildir.",
+          "images": [],
+          "text_ar": "ليس نموذجًا مقبولًا في الوقت الحاضر."
+        },
+        {
+          "letter": "C",
+          "text": "Zekayı, içsel zeka, müziksel zeka gibi alanlara ayırarak inceler.",
+          "images": [],
+          "text_ar": "يدرس الذكاء بتقسيمه إلى مجالات مثل الذكاء الداخلي والذكاء الموسيقي."
+        },
+        {
+          "letter": "D",
+          "text": "Modelde insanın doğa ile ilişkisi merkezde bulunur.",
+          "images": [],
+          "text_ar": "تقع علاقة الإنسان بالطبيعة في مركز النموذج."
+        },
+        {
+          "letter": "E",
+          "text": "Cattell-Horn-Carroll kuramı bu modele dayanır.",
+          "images": [],
+          "text_ar": "تستند نظرية كاتيل-هورن-كارول إلى هذا النموذج."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي صحيح بشأن نموذج معالجة المعلومات المستخدم في تعريف الذكاء؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dil-konuşma testidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Stanford Binet Testi",
+          "images": [],
+          "text_ar": "اختبار ستانفورد-بينيه"
+        },
+        {
+          "letter": "B",
+          "text": "Metropolitan Okul Olgunluğu Testi",
+          "images": [],
+          "text_ar": "اختبار ميتروبوليتان للنضج المدرسي"
+        },
+        {
+          "letter": "C",
+          "text": "Ankara Artikülasyon Testi",
+          "images": [],
+          "text_ar": "اختبار أنقرة للنطق"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklar için Algı Testi",
+          "images": [],
+          "text_ar": "اختبار الإدراك للأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Frankfurter Testi",
+          "images": [],
+          "text_ar": "اختبار فرانكفورت"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي اختبار لغة وكلام؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "ca7d6ff7f8a6fb84e9560440846633a4d4c0e1094f63b5a7ee0547f78ebcbd67"
+}

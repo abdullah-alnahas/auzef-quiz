@@ -1,0 +1,439 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -8",
+  "exam_slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-8",
+  "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -8",
+  "source_url": "https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-8/",
+  "scraped_at": "2026-11-12T15:01:05+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi zeka testi uygulanılırken dikkat edilmesi gereken noktalardandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk, zeka testine tok, uykusunu almış, dinlenmiş ve sağlıklı bir şekilde girmelidir.",
+          "images": [],
+          "text_ar": "يجب أن يدخل الطفل اختبار الذكاء وهو شبعان وقد أخذ كفايته من النوم ومستريح ومعافى."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk, test ortamını önceden görmemelidir.",
+          "images": [],
+          "text_ar": "يجب ألّا يرى الطفل بيئة الاختبار قبل ذلك."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk, test uygulayıcısıyla test öncesinde tanışmamalıdır.",
+          "images": [],
+          "text_ar": "يجب ألّا يتعرّف الطفل إلى مطبّق الاختبار قبل الاختبار."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk, test öncesinde hiçbir ilaç kullanılmamalıdır.",
+          "images": [],
+          "text_ar": "يجب ألّا يتناول الطفل أي دواء قبل الاختبار."
+        },
+        {
+          "letter": "E",
+          "text": "Çocukta geçici bir sorun varsa beklenmeden test yapılır ve raporda sorun belirtilir.",
+          "images": [],
+          "text_ar": "إذا كانت لدى الطفل مشكلة مؤقتة يُجرى الاختبار دون انتظار وتُذكر المشكلة في التقرير."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من العبارات التالية من النقاط الواجب مراعاتها عند تطبيق اختبار الذكاء؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Zeka testi konusunda hangi ifade doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zeka testlerini uygulamak için test kılavuzunun okunması yeterlidir.",
+          "images": [],
+          "text_ar": "تكفي قراءة دليل الاختبار لتطبيق اختبارات الذكاء."
+        },
+        {
+          "letter": "B",
+          "text": "Zeka testi uygulanırken çocuğun performansının ve tepkilerinin gözlenmesi ihmal edilebilir.",
+          "images": [],
+          "text_ar": "يمكن إهمال ملاحظة أداء الطفل واستجاباته أثناء تطبيق اختبار الذكاء."
+        },
+        {
+          "letter": "C",
+          "text": "Test sırasında yapılan gözlemler sır niteliği taşıdığı için test raporuna yazılmaz.",
+          "images": [],
+          "text_ar": "لا تُكتب الملاحظات التي تُجرى أثناء الاختبار في تقرير الاختبار لأنها ذات طابع سري."
+        },
+        {
+          "letter": "D",
+          "text": "Test davranışı, çocuğun problemlerin daha iyi anlaşılması için ipucu sağlayabilir.",
+          "images": [],
+          "text_ar": "يمكن أن يوفر سلوك الطفل في الاختبار دلائل تساعد على فهم مشكلاته فهمًا أفضل."
+        },
+        {
+          "letter": "E",
+          "text": "IQ puanı kalıcı bir yeteneğin ve başarının göstergesidir.",
+          "images": [],
+          "text_ar": "درجة IQ مؤشر على قدرة دائمة وتحقيق دائم."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي عبارة صحيحة بشأن اختبار الذكاء؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi zeka testinin yorumlanması için doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Normal IQ aralığı 90-109’dur.",
+          "images": [],
+          "text_ar": "نطاق IQ الطبيعي هو 90-109."
+        },
+        {
+          "letter": "B",
+          "text": "Test çocukla ilgili başka bilgi olmadan yorumlanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي تفسير الاختبار دون أي معلومات أخرى عن الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Test sonucu yorumlanırken testin ölçtüğü beceriler ayrı ayrı değerlendirilmelidir.",
+          "images": [],
+          "text_ar": "عند تفسير نتيجة الاختبار ينبغي تقييم المهارات التي يقيسها الاختبار كلًا على حدة."
+        },
+        {
+          "letter": "D",
+          "text": "Zeka testi sonucu elde edilen IQ puanı yorumlanmadan önce bakılacak yer test davranışıdır.",
+          "images": [],
+          "text_ar": "قبل تفسير درجة IQ الناتجة عن اختبار الذكاء يُنظر إلى سلوك الطفل في الاختبار."
+        },
+        {
+          "letter": "E",
+          "text": "Zeka testi sonucu test öncesinde edinilen bilgilerle anlamlı bir bütün oluşturmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن تشكّل نتيجة اختبار الذكاء مع المعلومات المكتسبة قبل الاختبار كلًا ذا معنى."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح بشأن تفسير اختبار الذكاء؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi zeka testi kullanımı konusunda doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ebeveynlerin çocuğun kapasitesini merak etmesi üzerine zeka testi yapılabilir.",
+          "images": [],
+          "text_ar": "يمكن إجراء اختبار الذكاء بدافع فضول الوالدين بشأن قدرات الطفل."
+        },
+        {
+          "letter": "B",
+          "text": "Zeka testi yapılması herkes tarafından istenebilir.",
+          "images": [],
+          "text_ar": "يمكن لأي شخص أن يطلب إجراء اختبار الذكاء."
+        },
+        {
+          "letter": "C",
+          "text": "Zeka testi sırasında çocuğun performansını olumsuz etkileyebilecek faktörler elden geldiğince azaltılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي تقليل العوامل التي قد تؤثر سلبًا في أداء الطفل أثناء اختبار الذكاء قدر الإمكان."
+        },
+        {
+          "letter": "D",
+          "text": "Küçük çocukların dikkat süresi kısa olduğu için ön bilgi alınmaksızın test yapılmalıdır.",
+          "images": [],
+          "text_ar": "بما أن مدة انتباه الأطفال الصغار قصيرة فينبغي إجراء الاختبار دون الحصول على معلومات مسبقة."
+        },
+        {
+          "letter": "E",
+          "text": "Küçük çocuklarda zeka testi sonuçları neredeyse hatasızdır.",
+          "images": [],
+          "text_ar": "نتائج اختبار الذكاء لدى الأطفال الصغار تكاد تكون خالية من الخطأ."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية صحيح بشأن استخدام اختبار الذكاء؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi zeka testi kullanılırken dikkat edilmesi gereken noktalardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zeka testleri, klinik değerlendirmenin bir parçası olarak kullanılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي استخدام اختبارات الذكاء جزءًا من التقييم الإكلينيكي."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk, zeka testinden önce ayrıntılı bir şekilde değerlendirilmelidir.",
+          "images": [],
+          "text_ar": "ينبغي تقييم الطفل تقييمًا مفصّلًا قبل اختبار الذكاء."
+        },
+        {
+          "letter": "C",
+          "text": "Değerlendirici, test öncesinde çocuğun problemini bilmemelidir.",
+          "images": [],
+          "text_ar": "لا ينبغي أن يعرف المقيّم مشكلة الطفل قبل الاختبار."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğu yeterince tanımadan zeka testi istenmesi doğru değildir.",
+          "images": [],
+          "text_ar": "ليس صحيحًا طلب اختبار ذكاء دون معرفة الطفل معرفة كافية."
+        },
+        {
+          "letter": "E",
+          "text": "Zeka testleri, testi yorumlayabilecek kişiler tarafından istenmelidir.",
+          "images": [],
+          "text_ar": "ينبغي أن يطلب اختبارات الذكاء أشخاص قادرون على تفسيرها."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية ليس من النقاط الواجب مراعاتها عند استخدام اختبار الذكاء؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Türkiye’de geliştirilmiş bir zeka testidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Porteus Labirentleri Testi",
+          "images": [],
+          "text_ar": "اختبار بورتيوس للمتاهات"
+        },
+        {
+          "letter": "B",
+          "text": "Anadolu Sak Zeka Testi",
+          "images": [],
+          "text_ar": "اختبار أنادولو ساك للذكاء"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel Değerlendirme Sistemi",
+          "images": [],
+          "text_ar": "نظام التقييم المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Goodenough Harris İnsan Resmi Çizme Testi",
+          "images": [],
+          "text_ar": "اختبار غودإنوف-هاريس لرسم الإنسان"
+        },
+        {
+          "letter": "E",
+          "text": "Stanford Binet Testi",
+          "images": [],
+          "text_ar": "اختبار ستانفورد-بينيه"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي اختبار ذكاء طُوّر في تركيا؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi zeka testi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Stroop Testi",
+          "images": [],
+          "text_ar": "اختبار ستروب"
+        },
+        {
+          "letter": "B",
+          "text": "Wechsler Çocuklar için Zeka Ölçeği-R",
+          "images": [],
+          "text_ar": "مقياس وكسلر للذكاء للأطفال-R"
+        },
+        {
+          "letter": "C",
+          "text": "Stanford Binet Testi",
+          "images": [],
+          "text_ar": "اختبار ستانفورد-بينيه"
+        },
+        {
+          "letter": "D",
+          "text": "Leiter Uluslararası Performans Ölçeği",
+          "images": [],
+          "text_ar": "مقياس لايتر الدولي للأداء"
+        },
+        {
+          "letter": "E",
+          "text": "Goodenough Harris İnsan Resmi Çizme Testi",
+          "images": [],
+          "text_ar": "اختبار غودإنوف-هاريس لرسم الإنسان"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس اختبار ذكاء؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "İşitme problemi olan bir çocuğun değerlendirilmesinde hangi zeka testi kullanılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel Değerlendirme Sistemi",
+          "images": [],
+          "text_ar": "نظام التقييم المعرفي"
+        },
+        {
+          "letter": "B",
+          "text": "Anadolu Sak Zeka Testi",
+          "images": [],
+          "text_ar": "اختبار أنادولو ساك للذكاء"
+        },
+        {
+          "letter": "C",
+          "text": "Leiter Uluslararası Performans Ölçeği",
+          "images": [],
+          "text_ar": "مقياس لايتر الدولي للأداء"
+        },
+        {
+          "letter": "D",
+          "text": "Stanford Binet Testi",
+          "images": [],
+          "text_ar": "اختبار ستانفورد-بينيه"
+        },
+        {
+          "letter": "E",
+          "text": "Wechsler Çocuklar için Zeka Ölçeği-IV",
+          "images": [],
+          "text_ar": "مقياس وكسلر للذكاء للأطفال-IV"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي اختبار ذكاء ينبغي استخدامه في تقييم طفل لديه مشكلة سمعية؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Wechsler Çocuklar için Zeka Ölçeği-R’ın alt testlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sözcük bulma",
+          "images": [],
+          "text_ar": "إيجاد المفردات"
+        },
+        {
+          "letter": "B",
+          "text": "Küplerle desen",
+          "images": [],
+          "text_ar": "تصميم بالمكعبات"
+        },
+        {
+          "letter": "C",
+          "text": "Şifre",
+          "images": [],
+          "text_ar": "الشفرة"
+        },
+        {
+          "letter": "D",
+          "text": "Labirentler",
+          "images": [],
+          "text_ar": "المتاهات"
+        },
+        {
+          "letter": "E",
+          "text": "İnsan çizme",
+          "images": [],
+          "text_ar": "رسم الإنسان"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من الاختبارات الفرعية لمقياس وكسلر للذكاء للأطفال-R؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi zekanın ölçülmesi konusunda doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaşamın ilk iki yılında zeka ölçümü çocuğun gelişimsel değerlendirmesinden ibarettir.",
+          "images": [],
+          "text_ar": "في أول سنتين من الحياة يقتصر قياس الذكاء على التقييم النمائي للطفل."
+        },
+        {
+          "letter": "B",
+          "text": "Küçük yaşlarda elde edilen IQ puanlarının devamlılığı düşüktür.",
+          "images": [],
+          "text_ar": "استمرارية درجات IQ التي تُحصَّل في الأعمار الصغيرة منخفضة."
+        },
+        {
+          "letter": "C",
+          "text": "Zeka bölümü, zeka yaşının kronolojik yaşa bölünüp 100 ile çarpılmasıyla elde edilir.",
+          "images": [],
+          "text_ar": "يُحصَل على حاصل الذكاء بقسمة العمر العقلي على العمر الزمني ثم ضرب الناتج في 100."
+        },
+        {
+          "letter": "D",
+          "text": "Zeka bölümünün doğru hesaplanabilmesi için çocuk testte uygun performans göstermelidir.",
+          "images": [],
+          "text_ar": "لكي يُحسب حاصل الذكاء حسابًا صحيحًا يجب أن يُظهر الطفل أداءً مناسبًا في الاختبار."
+        },
+        {
+          "letter": "E",
+          "text": "Zeka bölümünün doğru hesaplanabilmesi için testin herhangi bir ülkedeki normları kullanılabilir.",
+          "images": [],
+          "text_ar": "لكي يُحسب حاصل الذكاء حسابًا صحيحًا يمكن استخدام معايير الاختبار في أي بلد."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من العبارات التالية غير صحيح بشأن قياس الذكاء؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "71bacc5b49cbf1c21093734c88345e554e11d37447379c63202b5e74819b2863"
+}

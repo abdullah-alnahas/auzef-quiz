@@ -62,29 +62,43 @@ test("results show every choice with chosen and correct marks", async ({ page })
   await expect(page.locator(".review-choice .review-tag").first()).toBeVisible();
 });
 
-test("course-level vize set combines all vize exams", async ({ page }) => {
+test("course-level scope toggles combine the selected groups", async ({ page }) => {
   await openCourse(page);
   const expected = await page.evaluate(async () => {
     const manifest = await (await fetch("./data/manifest.json")).json();
     const course = manifest.courses[0];
-    const vize = course.exams.filter((exam: { type: string }) => exam.type === "vize");
+    const count = (types: string[], mock: boolean) =>
+      course.exams.filter(
+        (exam: { type: string; mock: boolean }) =>
+          types.includes(exam.type) && exam.mock === mock,
+      );
+    const vize = count(["vize"], false);
+    const vizeDeneme = count(["vize"], true);
     return {
-      exams: vize.length,
-      questions: vize.reduce(
-        (sum: number, exam: { questionCount: number }) => sum + exam.questionCount,
-        0,
-      ),
+      vizeExams: vize.length,
+      combinedExams: vize.length + vizeDeneme.length,
     };
   });
-  expect(expected.exams).toBeGreaterThan(1);
+  expect(expected.vizeExams).toBeGreaterThan(1);
 
-  await page.locator(".test-all").getByRole("button", { name: "النصفي", exact: true }).click();
-  await expect(page.locator(".test-all")).toContainText(`${expected.exams}`);
-  await expect(page.locator(".combined-list li")).toHaveCount(expected.exams);
+  // Default scope is vize + final; turn final off, leaving vize only.
+  await page
+    .locator(".test-all")
+    .getByRole("button", { name: "النهائي + التكميلي", exact: true })
+    .click();
+  await expect(page.locator(".test-all")).toContainText(`${expected.vizeExams}`);
+  await expect(page.locator(".combined-list li")).toHaveCount(expected.vizeExams);
+
+  // Add the vize deneme group: the set must grow by the deneme exams.
+  await page
+    .locator(".test-all")
+    .getByRole("button", { name: "النصفي التجريبي", exact: true })
+    .click();
+  await expect(page.locator(".combined-list li")).toHaveCount(expected.combinedExams);
   await page.locator(".test-all").getByRole("button", { name: "تدريب", exact: true }).click();
-  await expect(page.locator("h1")).toHaveText("النصفي");
-  await expect(page.locator(".quiz-meta")).toContainText(`1 من ${expected.questions}`);
-  await expect(page.locator(".combined-source li")).toHaveCount(expected.exams);
+
+  await expect(page.locator("h1")).toHaveText("النصفي + النصفي التجريبي");
+  await expect(page.locator(".combined-source li")).toHaveCount(expected.combinedExams);
   await expect(page.locator("p.muted.small").first()).toContainText("من");
   await expect(page.locator(".choice").first()).toBeVisible();
   expect(page.url()).toContain("/combined/");

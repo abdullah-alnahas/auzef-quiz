@@ -82,8 +82,10 @@ score.
   progress, theme and reset controls.
 - **Course** – exams grouped by term, question counts, download state
   (`none/partial/complete/update`), Practice/Exam entry points, download exam or
-  whole course, remove downloaded content, and a **test-all** panel: Vize,
-  Final (+ Bütünleme) or Vize + Final across the whole course in one session.
+  whole course, remove downloaded content, and a **test-all** panel with
+  independent toggles: Vize, Vize Deneme, Final (+ Bütünleme), Final Deneme and
+  Üniteler. Any combination can be started as one session; bütünleme always
+  belongs to the Final group, and its denemeleri to Final Deneme.
 - **Quiz** – Turkish (LTR) and Arabic (RTL) blocks; Arabic visibility is a
   preference independent of UI language; long text, `<br>`, images, tables;
   4–5 choices with letter/TR/AR; bookmark, navigator, progress, review badge.
@@ -96,7 +98,8 @@ score.
   keys only, filters (all/incorrect/unanswered/bookmarked), retry (previous
   attempts kept). Every question expands to its full choice list, with the
   chosen and correct options marked and the source exam shown for combined
-  sets.
+  sets. Combined headers list the included exams and each question names its
+  source exam.
 
 ## Offline
 
@@ -124,8 +127,8 @@ score.
 
 ## Measured budgets
 
-- Initial JS: 51.73 kB raw / **17.66 kB gzip** (budget 60 kB gzip).
-- CSS: 2.77 kB gzip.
+- Initial JS: 53.66 kB raw / **18.22 kB gzip** (budget 60 kB gzip).
+- CSS: 2.84 kB gzip.
 - Lighthouse 13 (mobile, local preview): Performance **100**, Accessibility
   **100**, LCP **1.3 s**, TBT 10 ms, CLS 0.
 - Playwright budget test also asserts JS transfer < 60 kB and LCP < 2.5 s.

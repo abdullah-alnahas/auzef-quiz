@@ -1,0 +1,598 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Ünite-9",
+  "exam_slug": "unite-9",
+  "page_title": "Çocuk Gelişimi Uygulamaları I Ünite-9",
+  "source_url": "https://lolonolo.com/2021/12/16/cocuk-gelisimi-uygulamalari-i-unite-9/",
+  "scraped_at": "2026-11-12T15:00:51+03:00",
+  "answer_source": "markup",
+  "question_count": 14,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Dikkat Eksikliği Hiperaktivite Bozukluğunda prognozu olumlu etkileyen bireysel faktörlerden  biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Erken tanıyla birlikte bütüncül ve istikrarlı tedavi almış olması",
+          "images": [],
+          "text_ar": "تلقيه تشخيصًا مبكرًا مع علاج شامل ومستقر"
+        },
+        {
+          "letter": "B",
+          "text": "Aile ortamının iyi olması",
+          "images": [],
+          "text_ar": "جودة البيئة الأسرية"
+        },
+        {
+          "letter": "C",
+          "text": "Doğru ve etkili çocuk yetiştirme tutumları",
+          "images": [],
+          "text_ar": "اتجاهات صحيحة وفعالة في تنشئة الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal çevrenin güvenli ve destekleyici olması",
+          "images": [],
+          "text_ar": "أن تكون البيئة الاجتماعية آمنة وداعمة"
+        },
+        {
+          "letter": "E",
+          "text": "Ailede ciddi psikiyatrik hastalık olmaması",
+          "images": [],
+          "text_ar": "عدم وجود مرض نفسي خطير في الأسرة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي من العوامل الفردية التي تؤثر إيجابًا في مآل اضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi DEHB olan çocuklarda ebeveynlere yönelik eğitimlerin amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ebeveynlerin tutarlı disiplin yaklaşımlarını arttırmak",
+          "images": [],
+          "text_ar": "زيادة أساليب الانضباط المتسقة لدى الوالدين"
+        },
+        {
+          "letter": "B",
+          "text": "Gerektiğinde ebeveynlerin kendileri için de psikiyatrik destek almalarını sağlamak",
+          "images": [],
+          "text_ar": "تمكين الوالدين من الحصول على دعم نفسي لأنفسهم عند الحاجة"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun ev içindeki sorunlu davranışını arttırmak",
+          "images": [],
+          "text_ar": "زيادة السلوك المشكل للطفل داخل المنزل"
+        },
+        {
+          "letter": "D",
+          "text": "Ebeveynlerin problem çözme ve baş etme becerilerini arttırmak",
+          "images": [],
+          "text_ar": "زيادة مهارات حل المشكلات والتعامل لدى الوالدين"
+        },
+        {
+          "letter": "E",
+          "text": "Ebeveynlerin iletişim becerilerini arttırmak",
+          "images": [],
+          "text_ar": "زيادة مهارات التواصل لدى الوالدين"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من أهداف التدريبات الموجهة للوالدين في حالة الأطفال المصابين باضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi DEHB olan çocuklarda en sık eşlik eden psikiyatrik bozukluktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karşıt olma karşı gelme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب العناد والتحدي"
+        },
+        {
+          "letter": "B",
+          "text": "Özgül öğrenme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التعلم الخاص"
+        },
+        {
+          "letter": "C",
+          "text": "Tik bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التيك"
+        },
+        {
+          "letter": "D",
+          "text": "Obsesif kompulsif bozukluk",
+          "images": [],
+          "text_ar": "اضطراب الوسواس القهري"
+        },
+        {
+          "letter": "E",
+          "text": "Bipolar bozukluk",
+          "images": [],
+          "text_ar": "الاضطراب ثنائي القطب"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي هو الاضطراب النفسي الأكثر مرافقة للأطفال المصابين باضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi DEHB olan 8 yaşındaki bir çocuğun tedavi ve yönetiminde çocuk gelişimi uzmanının görev veya  işlevlerinden birisi olması beklenmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "DEHB hakkında ebeveyne yönelik psikoeğitim vermek",
+          "images": [],
+          "text_ar": "تقديم تعليم نفسي للوالدين حول اضطراب نقص الانتباه وفرط النشاط"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal ve akademik zorlukları konusunda çocuğa yardım etmek",
+          "images": [],
+          "text_ar": "مساعدة الطفل في صعوباته الاجتماعية والأكاديمية"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk disiplini konusunda ebeveyne yardım etmek",
+          "images": [],
+          "text_ar": "مساعدة الوالدين في انضباط الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "İlaç tedavisiyle ilgili gözlemlerini hekimle paylaşmak",
+          "images": [],
+          "text_ar": "مشاركة ملاحظاته المتعلقة بالعلاج الدوائي مع الطبيب"
+        },
+        {
+          "letter": "E",
+          "text": "İlaç tedavisi başlamaya karar vermek veya sonuçlarını aileyle tartışmak",
+          "images": [],
+          "text_ar": "اتخاذ قرار بدء العلاج الدوائي أو مناقشة نتائجه مع الأسرة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يُتوقع أن يكون من مهام أو وظائف أخصائي نمو الطفل في علاج وإدارة طفل في الثامنة من عمره مصاب باضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Çocukluk çağı DEHB hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukluk çağının en sık görülen psikiyatrik bozukluklarından biridir.",
+          "images": [],
+          "text_ar": "هو من أكثر الاضطرابات النفسية شيوعًا في مرحلة الطفولة."
+        },
+        {
+          "letter": "B",
+          "text": "Tedavisinde farmakoterapi (ilaç) ön planda yer almaktadır.",
+          "images": [],
+          "text_ar": "يحتل العلاج الدوائي مكانًا بارزًا في علاجه."
+        },
+        {
+          "letter": "C",
+          "text": "Etiyolojisinde (nedenleri) genetik ve çevresel faktörler rol oynar.",
+          "images": [],
+          "text_ar": "تؤدي العوامل الوراثية والبيئية دورًا في مسبّباته."
+        },
+        {
+          "letter": "D",
+          "text": "Tedavisinde terapi yöntemlerinin yeri yoktur.",
+          "images": [],
+          "text_ar": "لا مكان لأساليب العلاج النفسي في علاجه."
+        },
+        {
+          "letter": "E",
+          "text": "Erkeklerde kızlardan daha sık görülür.",
+          "images": [],
+          "text_ar": "يظهر لدى الذكور أكثر من الإناث."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من العبارات التالية غير صحيح بشأن اضطراب نقص الانتباه وفرط النشاط في مرحلة الطفولة؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Dikkati dağıtan diğer uyaranlardan etkilenmeden dikkati istenilen bir konu üzerine yönlendirebilme hangi dikkat  türüdür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sürekli dikkat",
+          "images": [],
+          "text_ar": "الانتباه المتواصل"
+        },
+        {
+          "letter": "B",
+          "text": "Bölünmüş dikkat",
+          "images": [],
+          "text_ar": "الانتباه المنقسم"
+        },
+        {
+          "letter": "C",
+          "text": "Sürdürlebilir dikkat",
+          "images": [],
+          "text_ar": "الانتباه المداوم"
+        },
+        {
+          "letter": "D",
+          "text": "Seçici dikkat",
+          "images": [],
+          "text_ar": "الانتباه الانتقائي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي نوع من الانتباه هو القدرة على توجيه الانتباه إلى موضوع مطلوب دون التأثر بالمحفزات الأخرى المشتتة؟",
+      "review": [
+        "q6.C: المصدر يكرر معنى الانتباه المستمر الوارد في الخيار A مع خطأ مطبعي في الكلمة"
+      ]
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "DEHB ile ilgili aşağıdakilerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Başkalarının sözünü kesmek dürtüsellik göstergesidir",
+          "images": [],
+          "text_ar": "مقاطعة كلام الآخرين مؤشر على الاندفاعية."
+        },
+        {
+          "letter": "B",
+          "text": "DEHB olan çocukların motor beceri gerektiren topa vurma ve bisiklete binme gibi etkinliklerde becerikli oldukları görülür.",
+          "images": [],
+          "text_ar": "يُلاحظ أن الأطفال المصابين باضطراب نقص الانتباه وفرط النشاط بارعون في الأنشطة التي تتطلب مهارات حركية مثل ركل الكرة وركوب الدراجة."
+        },
+        {
+          "letter": "C",
+          "text": "Kız çocuklarına oranla erkek çocuklarda daha sık rastlanır.",
+          "images": [],
+          "text_ar": "يظهر لدى الذكور أكثر من الإناث."
+        },
+        {
+          "letter": "D",
+          "text": "DEHB olan çocuklar ileriki yıllarda yasalara uymakta zorlanırlar.",
+          "images": [],
+          "text_ar": "يجد الأطفال المصابون باضطراب نقص الانتباه وفرط النشاط صعوبة في الالتزام بالقوانين في السنوات اللاحقة."
+        },
+        {
+          "letter": "E",
+          "text": "DEHB’li çocukların IQ’ları genellikle normaldir.",
+          "images": [],
+          "text_ar": "معدل ذكاء الأطفال المصابين باضطراب نقص الانتباه وفرط النشاط طبيعي عادةً."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح بشأن اضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Hangisi okul çağı çocuklarında görülen DEHB özelliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İç huzursuzluğu",
+          "images": [],
+          "text_ar": "القلق الداخلي"
+        },
+        {
+          "letter": "B",
+          "text": "Akademik performansta düşüş",
+          "images": [],
+          "text_ar": "انخفاض الأداء الأكاديمي"
+        },
+        {
+          "letter": "C",
+          "text": "Ders sırasında arkadaşlarıyla konuşma",
+          "images": [],
+          "text_ar": "التحدث مع الأصدقاء أثناء الدرس"
+        },
+        {
+          "letter": "D",
+          "text": "Oyun ilişkilerine uyum sağlamakta güçlük çekme",
+          "images": [],
+          "text_ar": "صعوبة التكيف مع علاقات اللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "جميع ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي من خصائص اضطراب نقص الانتباه وفرط النشاط لدى أطفال سن المدرسة؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "DEHB hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "DEHB büyük ölçüde genetik faktörlerin etkisiyle ortaya çıkmaktadır.",
+          "images": [],
+          "text_ar": "ينشأ اضطراب نقص الانتباه وفرط النشاط إلى حد كبير بتأثير عوامل وراثية."
+        },
+        {
+          "letter": "B",
+          "text": "DEHB doğrudan zeka ile ilişkili bir durum değildir.",
+          "images": [],
+          "text_ar": "اضطراب نقص الانتباه وفرط النشاط ليس حالة مرتبطة مباشرة بالذكاء."
+        },
+        {
+          "letter": "C",
+          "text": "Olguların hepsinde dikkat eksikliği ve hiperaktivite/dürtüsellik vardır.",
+          "images": [],
+          "text_ar": "توجد لدى جميع الحالات نقص انتباه وفرط نشاط أو اندفاعية."
+        },
+        {
+          "letter": "D",
+          "text": "DEHB belirtileri sıklıkla ergenlik ve erişkinlikte de devam eder.",
+          "images": [],
+          "text_ar": "غالبًا ما تستمر أعراض اضطراب نقص الانتباه وفرط النشاط في المراهقة والرشد أيضًا."
+        },
+        {
+          "letter": "E",
+          "text": "DEHB ilaçla tedavi edilebilen bir durumdur.",
+          "images": [],
+          "text_ar": "اضطراب نقص الانتباه وفرط النشاط حالة يمكن علاجها بالأدوية."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية غير صحيح بشأن اضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "I- Çocuğun zekasının iyi olması II- Çocuğun çok hareketli olması III- Çocuğun davranım bozukluğunun olmaması IV- Ailenin ilgili ve destekleyici olması Yukarıdakilerden hangileri DEHB olan çocuklarda iyi prognoz (gidişat) ile ilişkilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "B",
+          "text": "I, II, IV",
+          "images": [],
+          "text_ar": "I و II و IV"
+        },
+        {
+          "letter": "C",
+          "text": "I, III, IV",
+          "images": [],
+          "text_ar": "I و III و IV"
+        },
+        {
+          "letter": "D",
+          "text": "II, III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "E",
+          "text": "II, III, IV",
+          "images": [],
+          "text_ar": "II و III و IV"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I- أن يكون ذكاء الطفل جيدًا II- أن يكون الطفل كثير الحركة III- ألا يكون لدى الطفل اضطراب سلوك IV- أن تكون الأسرة مهتمة وداعمة أي مما ورد أعلاه يرتبط بمآل جيد لدى الأطفال المصابين باضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "30 yaşında psikiyatri başvurusunda bulunan çocukluk çağında DEHB tanısı olan erkek bir olguda erişkinlik döneminde  aşağıdaki bozuklukların hangisinin daha nadir görülmesi beklenir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Madde kullanım bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب تعاطي المواد"
+        },
+        {
+          "letter": "B",
+          "text": "Anoreksiya nervosa",
+          "images": [],
+          "text_ar": "فقدان الشهية العصبي"
+        },
+        {
+          "letter": "C",
+          "text": "İki uçlu (bipolar) bozukluk",
+          "images": [],
+          "text_ar": "الاضطراب ثنائي القطب"
+        },
+        {
+          "letter": "D",
+          "text": "DEHB",
+          "images": [],
+          "text_ar": "اضطراب نقص الانتباه وفرط النشاط"
+        },
+        {
+          "letter": "E",
+          "text": "Major depresyon",
+          "images": [],
+          "text_ar": "الاكتئاب الجسيم"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "في حالة ذكر في الثلاثين من عمره راجع العيادة النفسية وكان قد شُخِّص في طفولته باضطراب نقص الانتباه وفرط النشاط، أي من الاضطرابات التالية يُتوقع أن يظهر بمعدل أقل في مرحلة الرشد؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Hangisi okul öncesi dönem çocuklarında görülen DEHB özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gece uyumaya karşı direnç gösterirler.",
+          "images": [],
+          "text_ar": "يُبدون مقاومة للنوم ليلًا."
+        },
+        {
+          "letter": "B",
+          "text": "Düşme ve yaralanma daha sık görülmektedir.",
+          "images": [],
+          "text_ar": "تكثر لديهم حالات السقوط والإصابات."
+        },
+        {
+          "letter": "C",
+          "text": "Anasınıfında arkadaşları ile sık sorun yaşarlar.",
+          "images": [],
+          "text_ar": "يواجهون مشكلات متكررة مع أصدقائهم في الروضة."
+        },
+        {
+          "letter": "D",
+          "text": "Dinledikleri hikâyeyi karmaşık olarak anlatırlar.",
+          "images": [],
+          "text_ar": "يروون القصة التي يستمعون إليها بطريقة معقدة."
+        },
+        {
+          "letter": "E",
+          "text": "Düzenli ve temizdirler.",
+          "images": [],
+          "text_ar": "هم منظمون ونظيفون."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من خصائص اضطراب نقص الانتباه وفرط النشاط لدى أطفال مرحلة ما قبل المدرسة؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "2013’te ülkemizde yapılan bir çalışmada DEHB prevelansı yüzde kaç olarak bulunmuştur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "% 5.8",
+          "images": [],
+          "text_ar": "5.8 بالمئة"
+        },
+        {
+          "letter": "B",
+          "text": "% 4.4",
+          "images": [],
+          "text_ar": "4.4 بالمئة"
+        },
+        {
+          "letter": "C",
+          "text": "%12.3",
+          "images": [],
+          "text_ar": "12.3 بالمئة"
+        },
+        {
+          "letter": "D",
+          "text": "%7.1",
+          "images": [],
+          "text_ar": "7.1 بالمئة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "في دراسة أُجريت في بلدنا عام 2013، ما نسبة شيوع اضطراب نقص الانتباه وفرط النشاط التي وُجدت؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun istenmeyen davranışının hemen ardından belirli bir süre ortamdan uzaklaştırma yöntemine ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Pekiştirme",
+          "images": [],
+          "text_ar": "التعزيز"
+        },
+        {
+          "letter": "B",
+          "text": "Ödül verme",
+          "images": [],
+          "text_ar": "تقديم المكافأة"
+        },
+        {
+          "letter": "C",
+          "text": "Cezalandırma",
+          "images": [],
+          "text_ar": "العقاب"
+        },
+        {
+          "letter": "D",
+          "text": "Söndürme",
+          "images": [],
+          "text_ar": "الإطفاء"
+        },
+        {
+          "letter": "E",
+          "text": "Mola verme",
+          "images": [],
+          "text_ar": "الاستراحة (المهلة الزمنية)"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ما اسم أسلوب إبعاد الطفل عن البيئة لفترة معينة فورًا بعد سلوكه غير المرغوب فيه؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "2301ed15b9e651acc6a2517d6438a2f616f93e94cd9995b76a3547c61fdb2dc6"
+}

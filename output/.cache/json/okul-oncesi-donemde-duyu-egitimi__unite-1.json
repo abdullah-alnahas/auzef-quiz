@@ -1,0 +1,352 @@
+{
+  "course": "OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ",
+  "course_slug": "okul-oncesi-donemde-duyu-egitimi",
+  "exam": "Ünite -1",
+  "exam_slug": "unite-1",
+  "page_title": "Okul Öncesi Dönemde Duyu Eğitimi Ünite -1",
+  "source_url": "https://lolonolo.com/2022/09/28/okul-oncesi-donemde-duyu-egitimi-unite-1/",
+  "scraped_at": "2026-11-12T15:01:01+03:00",
+  "answer_source": "markup",
+  "question_count": 8,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukların potansiyel gelişim düzeylerine ulaşabilmesi için gerekli olan etmenlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ebeveynler ile yakın ilişki",
+          "images": [],
+          "text_ar": "علاقة وثيقة بالوالدين"
+        },
+        {
+          "letter": "B",
+          "text": "Kaliteli ev ortamı",
+          "images": [],
+          "text_ar": "بيئة منزلية عالية الجودة"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişime uygun çeşitli materyallerin sağlanması",
+          "images": [],
+          "text_ar": "توفير وسائل تعليمية متنوعة مناسبة للنمو"
+        },
+        {
+          "letter": "D",
+          "text": "Oyun oynama, şarkı söyleme gibi etkinliklerin yapılması",
+          "images": [],
+          "text_ar": "القيام بأنشطة مثل اللعب والغناء"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun kendiliğinden büyüyebilmesi için özgürlük tanınması",
+          "images": [],
+          "text_ar": "منح الطفل الحرية لينمو من تلقاء نفسه"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من العوامل اللازمة ليتمكن الأطفال من الوصول إلى مستويات نموهم الكامن؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların deneyimler yoluyla öğrenmelerini sağlamak için tüm duyularını kullanmaları gerekmektedir. Ağırlıklı olarak hangi duyu ile gerçekleşir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Koku Duyusu",
+          "images": [],
+          "text_ar": "حاسة الشم"
+        },
+        {
+          "letter": "B",
+          "text": "İşitme Duyusu",
+          "images": [],
+          "text_ar": "حاسة السمع"
+        },
+        {
+          "letter": "C",
+          "text": "Görme Duyusu",
+          "images": [],
+          "text_ar": "حاسة البصر"
+        },
+        {
+          "letter": "D",
+          "text": "Dokunma Duyusu",
+          "images": [],
+          "text_ar": "حاسة اللمس"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "لكي يتعلم الأطفال من خلال الخبرات، يلزمهم استخدام جميع حواسهم. بأي حاسة يحدث ذلك بشكل أساسي؟",
+      "review": [
+        "q2.stem: الجملة الأصلية مبتورة؛ تُرجمت وفق القراءة الأرجح."
+      ]
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Hangi yaşlar anne, baba ya da bakıcının çocukla olumlu iletişim ve etkileşim içine girmesi ile hem zihinsel hem de kişilik yapısı olarak sağlıklı ve yaşamda başarılı bireyler yetişmesinde etkili yaş dönemidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beş-altı yaşlar",
+          "images": [],
+          "text_ar": "سنوات الخامسة والسادسة"
+        },
+        {
+          "letter": "B",
+          "text": "Ergenlik çağları",
+          "images": [],
+          "text_ar": "سنوات المراهقة"
+        },
+        {
+          "letter": "C",
+          "text": "İlkokul dönemi",
+          "images": [],
+          "text_ar": "مرحلة المدرسة الابتدائية"
+        },
+        {
+          "letter": "D",
+          "text": "İlk üç yıl",
+          "images": [],
+          "text_ar": "السنوات الثلاث الأولى"
+        },
+        {
+          "letter": "E",
+          "text": "Hiçbiri",
+          "images": [],
+          "text_ar": "لا شيء مما سبق"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي المراحل العمرية تكون فيها العلاقة الإيجابية والتفاعل بين الأم أو الأب أو مقدم الرعاية والطفل مؤثرين في تنشئة أفراد أصحاء عقليًا وشخصيًا وناجحين في الحياة؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Yaşamın ilk aylarında bebeğin çevreye uyum sağlamak ve yaşamını sürdürmek amacıyla verdikleri tepkiler hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Amaçlı tepki",
+          "images": [],
+          "text_ar": "استجابة هادفة"
+        },
+        {
+          "letter": "B",
+          "text": "Kontrollü tepki",
+          "images": [],
+          "text_ar": "استجابة مضبوطة"
+        },
+        {
+          "letter": "C",
+          "text": "Refleksif tepki",
+          "images": [],
+          "text_ar": "استجابة انعكاسية"
+        },
+        {
+          "letter": "D",
+          "text": "Sıradan tepki",
+          "images": [],
+          "text_ar": "استجابة عادية"
+        },
+        {
+          "letter": "E",
+          "text": "Ağlama tepkisi",
+          "images": [],
+          "text_ar": "استجابة البكاء"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما الاستجابات التي يبديها الرضيع في الأشهر الأولى من حياته للتكيف مع محيطه والاستمرار في الحياة؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Yenidoğan bir bebeğin çevreyi tanıması için kullandığı en temel araç hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duyular",
+          "images": [],
+          "text_ar": "الحواس"
+        },
+        {
+          "letter": "B",
+          "text": "Oyunlar",
+          "images": [],
+          "text_ar": "الألعاب"
+        },
+        {
+          "letter": "C",
+          "text": "Duygular",
+          "images": [],
+          "text_ar": "العواطف"
+        },
+        {
+          "letter": "D",
+          "text": "Aileler",
+          "images": [],
+          "text_ar": "الأسر"
+        },
+        {
+          "letter": "E",
+          "text": "Akranlar",
+          "images": [],
+          "text_ar": "الأقران"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما الوسيلة الأساسية التي يستخدمها المولود الجديد للتعرف على محيطه؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Doğum sonrasından kaç yaş civarına kadar sinaps oluşumu oldukça hızlıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "16 yaş",
+          "images": [],
+          "text_ar": "16 سنة"
+        },
+        {
+          "letter": "B",
+          "text": "14 yaş",
+          "images": [],
+          "text_ar": "14 سنة"
+        },
+        {
+          "letter": "C",
+          "text": "10 yaş",
+          "images": [],
+          "text_ar": "10 سنوات"
+        },
+        {
+          "letter": "D",
+          "text": "6 yaş",
+          "images": [],
+          "text_ar": "6 سنوات"
+        },
+        {
+          "letter": "E",
+          "text": "5 yaş",
+          "images": [],
+          "text_ar": "5 سنوات"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "حتى أي عمر تقريبًا يكون تكوين المشابك سريعًا جدًا بعد الولادة؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Kaç yaş civarında beyinde nöral budama başlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3 yaş",
+          "images": [],
+          "text_ar": "3 سنوات"
+        },
+        {
+          "letter": "B",
+          "text": "9 yaş",
+          "images": [],
+          "text_ar": "9 سنوات"
+        },
+        {
+          "letter": "C",
+          "text": "8 yaş",
+          "images": [],
+          "text_ar": "8 سنوات"
+        },
+        {
+          "letter": "D",
+          "text": "6 yaş",
+          "images": [],
+          "text_ar": "6 سنوات"
+        },
+        {
+          "letter": "E",
+          "text": "5 yaş",
+          "images": [],
+          "text_ar": "5 سنوات"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "في أي عمر تقريبًا يبدأ التشذيب العصبي في الدماغ؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun gelişimini etkileyen faktörler arasında aşağıdakilerden hangisi yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun kişilik özelliği",
+          "images": [],
+          "text_ar": "سمة شخصية الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun görünümü",
+          "images": [],
+          "text_ar": "مظهر الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun karakteri",
+          "images": [],
+          "text_ar": "طبع الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun çevresi",
+          "images": [],
+          "text_ar": "محيط الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Toplum",
+          "images": [],
+          "text_ar": "المجتمع"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن العوامل المؤثرة في نمو الطفل؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "504bca7a54768122d86fd3cbc3bfee3801515fc5ca8a9c223bf23bf892d0f674"
+}

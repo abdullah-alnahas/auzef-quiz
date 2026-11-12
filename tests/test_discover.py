@@ -13,7 +13,8 @@ from discover import classify, is_mock, norm, period_of
     ("2025-26 Final Soruları", "final"),
     ("Yaz Okulu 2023", "yaz-okulu"),
     ("Ünite 3 Soruları", "unite"),
-    ("2024 Üç Ders Soruları", None),
+    ("2024 Üç Ders Soruları", "uc-ders"),
+    ("2021 Deneme -1", "deneme"),
 ])
 def test_classify(text, expected):
     assert classify(text) == expected

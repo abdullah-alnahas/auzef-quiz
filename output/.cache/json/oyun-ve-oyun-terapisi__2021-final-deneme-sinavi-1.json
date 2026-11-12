@@ -1,0 +1,859 @@
+{
+  "course": "OYUN VE OYUN TERAPİSİ",
+  "course_slug": "oyun-ve-oyun-terapisi",
+  "exam": "2021 Final Deneme Sınavı -1",
+  "exam_slug": "2021-final-deneme-sinavi-1",
+  "page_title": "Oyun ve Oyun Terapisi 2021 Final Deneme Sınavı -1",
+  "source_url": "https://lolonolo.com/2021/11/28/oyun-ve-oyun-terapisi-2021-final-deneme-sinavi-1/",
+  "scraped_at": "2026-11-12T15:01:03+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki örneklerden hangisi çocuk merkezli oyun terapisi için belirlenen sınırlardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyuncaklara zarar vermeden oynanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي اللعب دون إتلاف الألعاب."
+        },
+        {
+          "letter": "B",
+          "text": "Terapistin canını acıtacak uygulamalara izin verilmez.",
+          "images": [],
+          "text_ar": "لا يُسمح بتطبيقات تؤذي المعالج."
+        },
+        {
+          "letter": "C",
+          "text": "Oyun odasından oyuncak eve götürülmez.",
+          "images": [],
+          "text_ar": "لا تُنقل الألعاب من غرفة اللعب إلى المنزل."
+        },
+        {
+          "letter": "D",
+          "text": "Oyun odasına zarar verilmez.",
+          "images": [],
+          "text_ar": "لا تُلحق أضرار بغرفة اللعب."
+        },
+        {
+          "letter": "E",
+          "text": "Oyun odasında bağırmasına izin verilmez.",
+          "images": [],
+          "text_ar": "لا يُسمح له بالصراخ في غرفة اللعب."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من الأمثلة الآتية ليس من الحدود المحددة للعلاج باللعب المتمركز حول الطفل؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk merkezli oyun terapistinin göstermesi gereken tutumlardan birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğa seanslardan önce bilgi vermek ve yapılandırma hakkında konuşmak",
+          "images": [],
+          "text_ar": "تقديم معلومات للطفل قبل الجلسات والحديث معه عن البنية التنظيمية"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun kendisine verdiği role girmek",
+          "images": [],
+          "text_ar": "الدخول في الدور الذي يسنده إليه الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun yaptığı hareketleri düzeltmek",
+          "images": [],
+          "text_ar": "تصحيح الحركات التي يقوم بها الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Açıklamak yerine çocuğu anlamak",
+          "images": [],
+          "text_ar": "فهم الطفل بدلًا من تفسيره"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğa sınır konulacaksa önceden haber vermek",
+          "images": [],
+          "text_ar": "إبلاغ الطفل مسبقًا إذا كان سيُوضع حد ما"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من الاتجاهات التي ينبغي أن يُظهرها معالج اللعب المتمركز حول الطفل؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bilişsel davranışçı oyun terapileri ile çocuk merkezli oyun terapiler arasındaki benzer özelliktir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Seanslarda rol yapma ve modelleme kullanılması",
+          "images": [],
+          "text_ar": "استخدام لعب الأدوار والنمذجة في الجلسات"
+        },
+        {
+          "letter": "B",
+          "text": "Yönlendirilmiş oyun seansları",
+          "images": [],
+          "text_ar": "جلسات لعب موجهة"
+        },
+        {
+          "letter": "C",
+          "text": "Oyun terapisinde sınırların olması",
+          "images": [],
+          "text_ar": "وجود حدود في العلاج باللعب"
+        },
+        {
+          "letter": "D",
+          "text": "Övgü ve pekiştireçlerin kullanılması",
+          "images": [],
+          "text_ar": "استخدام الثناء والمعززات"
+        },
+        {
+          "letter": "E",
+          "text": "Oyuncak seçimini bazen terapistin yapması",
+          "images": [],
+          "text_ar": "أن يختار المعالج الألعاب أحيانًا"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من الخصائص المشتركة بين العلاج باللعب المعرفي السلوكي والعلاج باللعب المتمركز حول الطفل؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Bilişsel davranışçı oyu terapilerine ebeveynlerin dahil edilmesi önemlidir. Aşağıdakilerden hangisi bunun bir nedeni değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ebeveynler koterapist görevi görürler.",
+          "images": [],
+          "text_ar": "يقوم الوالدان بدور المعالج المشارك."
+        },
+        {
+          "letter": "B",
+          "text": "Evdeki uygulamaları ebeveynler de yürütür.",
+          "images": [],
+          "text_ar": "ينفّذ الوالدان أيضًا التطبيقات في المنزل."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğu görüşmeye ebeveynleri getirmektedir.",
+          "images": [],
+          "text_ar": "الوالدان هما من يحضران الطفل إلى المقابلة."
+        },
+        {
+          "letter": "D",
+          "text": "Duygusal ve davranışsal sorunların gözlemlenmesi ve derecelendirmesinde aileler yardımcıdır.",
+          "images": [],
+          "text_ar": "تساعد الأسر في ملاحظة المشكلات العاطفية والسلوكية وتقدير درجاتها."
+        },
+        {
+          "letter": "E",
+          "text": "Terapi seanslarının etkinliğini arttırmak için gereklidir.",
+          "images": [],
+          "text_ar": "لازم لزيادة فعالية جلسات العلاج."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "إشراك الوالدين في العلاج باللعب المعرفي السلوكي أمر مهم. أي مما يلي ليس سببًا لذلك؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki kuramcılardan hangisinin çocuk merkezli oyun terapisi için katkısından bahsedilmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Axline",
+          "images": [],
+          "text_ar": "أكسلين"
+        },
+        {
+          "letter": "B",
+          "text": "Rogers",
+          "images": [],
+          "text_ar": "روجرز"
+        },
+        {
+          "letter": "C",
+          "text": "Landreth",
+          "images": [],
+          "text_ar": "لاندريث"
+        },
+        {
+          "letter": "D",
+          "text": "Schaefer",
+          "images": [],
+          "text_ar": "شيفر"
+        },
+        {
+          "letter": "E",
+          "text": "Beck",
+          "images": [],
+          "text_ar": "بيك"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من المنظرين الآتية أسماؤهم لا يُذكر إسهامه في العلاج باللعب المتمركز حول الطفل؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Oyunda çocuk kuklalardan birisini terapiste verir ve “sen de anne ol” der. Bunun üstüne terapist “ben anneyim” der. Ancak kuklayı alıp çocuk demeden “anneyim temizlik yapıyorum” vs. derse, bu çocuğun hayal gücüne müdahaledir, uygun değildir. “Tamam ben anneyim, bu nasıl bir anne?” gibi tanımlayıcı sorular sorabilir. Bu şekilde seans içeriğine sahip oyun terapisi hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Filial terapi",
+          "images": [],
+          "text_ar": "العلاج الفيليالي"
+        },
+        {
+          "letter": "B",
+          "text": "Bilişsel davranışçı oyun terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب المعرفي السلوكي"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk merkezli oyun terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب المتمركز حول الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Yapılandırılmış oyun terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب المنظم"
+        },
+        {
+          "letter": "E",
+          "text": "Psikodinamik oyun terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب النفسي الدينامي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "في اللعب يعطي الطفل إحدى الدمى للمعالج ويقول «كن أنت أيضًا أمًا». فيرد المعالج «أنا أم». لكن إذا أخذ الدمية وقال من دون أن يطلب الطفل «أنا أم أقوم بالتنظيف» وما شابه، فإن هذا تدخل في خيال الطفل وغير مناسب. ويمكنه أن يطرح أسئلة وصفية مثل «حسنًا أنا أم، أي نوع من الأمهات هذه؟». أي علاج باللعب يتضمن محتوى الجلسات على هذا النحو؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "“Yüzümü çizmen halinde oyun odasından ayrılmamız gerekeceğini söylediğimi hatırla. Yüzümü çizmeyi seçtiğin için, şimdi odadan çıkmak zorundayız” Terapistin bu ifadesi hangi kavrama denk düşer?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ilişki kurma",
+          "images": [],
+          "text_ar": "إقامة العلاقة"
+        },
+        {
+          "letter": "B",
+          "text": "empatik konuşma",
+          "images": [],
+          "text_ar": "الكلام المتعاطف"
+        },
+        {
+          "letter": "C",
+          "text": "sınırları ifade etme",
+          "images": [],
+          "text_ar": "التعبير عن الحدود"
+        },
+        {
+          "letter": "D",
+          "text": "uyarıda bulunma",
+          "images": [],
+          "text_ar": "التنبيه"
+        },
+        {
+          "letter": "E",
+          "text": "sonucunu uygulama",
+          "images": [],
+          "text_ar": "تطبيق النتيجة المترتبة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "«تذكّر أنني قلت إننا سنضطر إلى مغادرة غرفة اللعب إذا رسمت على وجهي. ولأنك اخترت الرسم على وجهي، علينا الآن الخروج من الغرفة.» أي مفهوم يقابله هذا التعبير الصادر عن المعالج؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi psikodinamik oyun terapileri ile bilişsel davranışçı oyun terapileri arasındaki benzer özelliktir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun savunma düzeneklerinin gözlemlenip yorumlanması",
+          "images": [],
+          "text_ar": "ملاحظة آليات الدفاع لدى الطفل وتفسيرها"
+        },
+        {
+          "letter": "B",
+          "text": "Öğretici tekniklerin oyunda kullanılması",
+          "images": [],
+          "text_ar": "استخدام تقنيات تعليمية في اللعب"
+        },
+        {
+          "letter": "C",
+          "text": "Terapistin gözlemci olması, yön vermemesi",
+          "images": [],
+          "text_ar": "أن يكون المعالج مراقبًا ولا يوجّه"
+        },
+        {
+          "letter": "D",
+          "text": "Terapötik ilişkinin önemli olması",
+          "images": [],
+          "text_ar": "أهمية العلاقة العلاجية"
+        },
+        {
+          "letter": "E",
+          "text": "Hedefe yönelik olması",
+          "images": [],
+          "text_ar": "كونه موجّهًا نحو هدف"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي من الخصائص المشتركة بين العلاج باللعب النفسي الدينامي والعلاج باللعب المعرفي السلوكي؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Bilişsel davranışçı oyun terapileri ile ilgili önemli çalışmaları kim yapmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Knell",
+          "images": [],
+          "text_ar": "كنيل"
+        },
+        {
+          "letter": "B",
+          "text": "Pavlov",
+          "images": [],
+          "text_ar": "بافلوف"
+        },
+        {
+          "letter": "C",
+          "text": "Beck",
+          "images": [],
+          "text_ar": "بيك"
+        },
+        {
+          "letter": "D",
+          "text": "Freud",
+          "images": [],
+          "text_ar": "فرويد"
+        },
+        {
+          "letter": "E",
+          "text": "Winnicott",
+          "images": [],
+          "text_ar": "وينييكوت"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "من أجرى الدراسات المهمة المتعلقة بالعلاج باللعب المعرفي السلوكي؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bilişsel davranışçı terapilerin temel sayıltılarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Birey erken dönem olumsuz yaşantıları ile davranışını şekillendirir.",
+          "images": [],
+          "text_ar": "يشكّل الفرد سلوكه من خلال خبراته السلبية المبكرة."
+        },
+        {
+          "letter": "B",
+          "text": "Terapi süreci şimdi ve buradaya odaklıdır.",
+          "images": [],
+          "text_ar": "تركز عملية العلاج على «هنا والآن»."
+        },
+        {
+          "letter": "C",
+          "text": "Terapist ile danışan bir işbirliği içerisindedirler.",
+          "images": [],
+          "text_ar": "يكون المعالج والمسترشد في تعاون."
+        },
+        {
+          "letter": "D",
+          "text": "Hedefi vardır ve sorun çözmeye yöneliktir.",
+          "images": [],
+          "text_ar": "له هدف وهو موجّه نحو حل المشكلات."
+        },
+        {
+          "letter": "E",
+          "text": "Seanslara gündem oluşturulur ve yapılandırılmıştır.",
+          "images": [],
+          "text_ar": "تُحدَّد أجندة للجلسات وتكون منظمة."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من الافتراضات الأساسية للعلاج المعرفي السلوكي؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Axline’nın temel ilkeleri arasında değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Terapist odadayken çocukladır yani onunla gerçekten ilgilenir ve sıcak bir ilişki kurar.",
+          "images": [],
+          "text_ar": "يكون المعالج مع الطفل حين يكون في الغرفة، أي يهتم به اهتمامًا حقيقيًا ويقيم علاقة دافئة."
+        },
+        {
+          "letter": "B",
+          "text": "Terapist çocuğu herhangi bir koşul ileri sürmeden kabul eder.",
+          "images": [],
+          "text_ar": "يقبل المعالج الطفل دون أن يشترط أي شرط."
+        },
+        {
+          "letter": "C",
+          "text": "Terapist ilişkide güven ve özgürlüğü sağlamalıdır. Sınırlar olmamalıdır çünkü çocuğun yaratıcılığını baltalar.",
+          "images": [],
+          "text_ar": "ينبغي أن يوفر المعالج الثقة والحرية في العلاقة. ولا ينبغي أن تكون هناك حدود لأنها تقوّض إبداع الطفل."
+        },
+        {
+          "letter": "D",
+          "text": "Terapist çocuğun duygularını iyi gözlemler, yakaladıkça yansıtır ve çocuğun farkındalığının artmasını sağlar.",
+          "images": [],
+          "text_ar": "يلاحظ المعالج مشاعر الطفل جيدًا، ويعكسها كلما أدركها، ويساعد على زيادة وعي الطفل."
+        },
+        {
+          "letter": "E",
+          "text": "Terapist, çocukta sorumluluk duygusu olduğuna inanır. Çocuktaki sorun çözme becerisinin olduğuna inanır.",
+          "images": [],
+          "text_ar": "يؤمن المعالج بأن لدى الطفل إحساسًا بالمسؤولية. ويؤمن بأن لديه قدرة على حل المشكلات."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من المبادئ الأساسية عند أكسلين؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bilişsel davranışçı oyun terapisi seansları ile ilgili doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile ve çocukla birlikte tedavi hedefleri planlanır.",
+          "images": [],
+          "text_ar": "يمكن إنهاء المقابلات دون تحضير."
+        },
+        {
+          "letter": "B",
+          "text": "Süre kısıtlıdır.",
+          "images": [],
+          "text_ar": "عدد الجلسات محدد والوقت محدود."
+        },
+        {
+          "letter": "C",
+          "text": "Görüşmeler hazırlıksız sonlandırılabilir.",
+          "images": [],
+          "text_ar": "يمكن تخطيط أهداف العلاج مع الأسرة والطفل."
+        },
+        {
+          "letter": "D",
+          "text": "Gerektiğinde oyun odası sınırları belirtilir.",
+          "images": [],
+          "text_ar": "تُحدَّد حدود غرفة اللعب عند الحاجة."
+        },
+        {
+          "letter": "E",
+          "text": "Canlandırma ve modelleme kullanılan tekniklerdendir.",
+          "images": [],
+          "text_ar": "التمثيل والنمذجة من التقنيات المستخدمة."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن جلسات العلاج باللعب المعرفي السلوكي؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Dilek havuzu çalışmaları hangi basamak için kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değerlendirme",
+          "images": [],
+          "text_ar": "التقييم"
+        },
+        {
+          "letter": "B",
+          "text": "Rahatlama",
+          "images": [],
+          "text_ar": "الاسترخاء"
+        },
+        {
+          "letter": "C",
+          "text": "Sonlandırma",
+          "images": [],
+          "text_ar": "الإنهاء"
+        },
+        {
+          "letter": "D",
+          "text": "Tedavi planı oluşturma",
+          "images": [],
+          "text_ar": "إعداد خطة العلاج"
+        },
+        {
+          "letter": "E",
+          "text": "Psikoeğitim",
+          "images": [],
+          "text_ar": "التربية النفسية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "لأي مرحلة تُستخدم أنشطة «بركة الأمنيات»؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk merkezli oyun terapisinde terapistin dikkat etmesi gereken tutumları olmalıdır. Aşağıdakilerden hangisi bunlardan birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Soru sormamalıdır.",
+          "images": [],
+          "text_ar": "ألّا يطرح أسئلة."
+        },
+        {
+          "letter": "B",
+          "text": "Oyuncakları sadece adlandırabilir.",
+          "images": [],
+          "text_ar": "أن يقتصر على تسمية الألعاب."
+        },
+        {
+          "letter": "C",
+          "text": "Onay ve onaylamama ifadesi kullanmamalıdır.",
+          "images": [],
+          "text_ar": "ألّا يستخدم عبارات الموافقة والرفض."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk istemezse yardım etmemelidir.",
+          "images": [],
+          "text_ar": "ألّا يقدّم المساعدة إذا لم يرغب الطفل."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun gizliliğini ihmal etmemelidir.",
+          "images": [],
+          "text_ar": "ألّا يهمل خصوصية الطفل."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "في العلاج باللعب المتمركز حول الطفل اتجاهات ينبغي أن يراعيها المعالج. أي مما يلي ليس منها؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinde bilişsel davranışçı oyun terapistinin özellikleri sıralanmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Empatik tutuma sahiptir, işbirliğini sever ancak daha çok gözlemcidir.",
+          "images": [],
+          "text_ar": "يتسم باتجاه تعاطفي، ويحب التعاون، لكنه مراقب في الأغلب."
+        },
+        {
+          "letter": "B",
+          "text": "İşbirliğine açık, çocuğu olduğu gibi kabullenen, “şimdi ve burada” prensibiyle çalışır.",
+          "images": [],
+          "text_ar": "منفتح على التعاون، يقبل الطفل كما هو، ويعمل بمبدأ «هنا والآن»."
+        },
+        {
+          "letter": "C",
+          "text": "Empatik ve ilgilidir, çocuğu yönlendirici olmamaya çalışır.",
+          "images": [],
+          "text_ar": "متعاطف ومهتم، ويحاول ألّا يكون موجِّهًا للطفل."
+        },
+        {
+          "letter": "D",
+          "text": "Pasif ve gözlemcidirler ve farkındalık ve duygu eğitimi yaparlar.",
+          "images": [],
+          "text_ar": "سلبيون ومراقبون، ويقومون بتدريب الوعي والمشاعر."
+        },
+        {
+          "letter": "E",
+          "text": "Psikoterapist oldukları için çocuğu koşulsuz kabul ederler ve yönlendirme yapmazlar.",
+          "images": [],
+          "text_ar": "لأنهم معالجون نفسيون يقبلون الطفل قبولًا غير مشروط ولا يوجّهونه."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي يعدّد خصائص معالج اللعب المعرفي السلوكي؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Kukla röportajı bilişsel davranışçı oyun terapisinde hangi amaçla kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değerlendirme",
+          "images": [],
+          "text_ar": "التقييم"
+        },
+        {
+          "letter": "B",
+          "text": "Duyguları tanıma",
+          "images": [],
+          "text_ar": "التعرف على المشاعر"
+        },
+        {
+          "letter": "C",
+          "text": "Sonlandırmaa",
+          "images": [],
+          "text_ar": "الإنهاء"
+        },
+        {
+          "letter": "D",
+          "text": "Psikoeğitim",
+          "images": [],
+          "text_ar": "التربية النفسية"
+        },
+        {
+          "letter": "E",
+          "text": "Rahatlama",
+          "images": [],
+          "text_ar": "الاسترخاء"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "لأي غرض تُستخدم «مقابلة الدمى» في العلاج باللعب المعرفي السلوكي؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "I- Terapist odadayken çocukladır yani onunla gerçekten ilgilenir ve sıcak bir ilişki kurar. II- Terapist çocuğu herhangi bir koşul ileri sürmeden kabul eder. III-Terapist ilişkide güven ve özgürlüğü sağlamalıdır. Çocuk böylece kendini ifade etme özgürlüğüne sahip olur. Çocuğun her davranışını sınırsız kabul eder. IV-Terapist çocuğun duygularını iyi gözlemler, yakaladıkça yansıtır ve çocuğun farkındalığının artmasını sağlar. V-Terapist, çocukta sorumluluk duygusu olduğuna inanır. Çocuktaki sorun çözme becerisinin olduğuna inanır. Yukarıdaki ifadelerden hangileri çocuk merkezli oyun terapileri ile doğrudur? En uygun şıkkı işaretleyiniz.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "جميع ما سبق"
+        },
+        {
+          "letter": "B",
+          "text": "I,II,III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        },
+        {
+          "letter": "C",
+          "text": "I,II,IV,V",
+          "images": [],
+          "text_ar": "I وII وIV وV"
+        },
+        {
+          "letter": "D",
+          "text": "II,III,V",
+          "images": [],
+          "text_ar": "II وIII وV"
+        },
+        {
+          "letter": "E",
+          "text": "I,II,III,IV",
+          "images": [],
+          "text_ar": "I وII وIII وIV"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I- يكون المعالج مع الطفل حين يكون في الغرفة، أي يهتم به اهتمامًا حقيقيًا ويقيم علاقة دافئة. II- يقبل المعالج الطفل دون أن يشترط أي شرط. III- ينبغي أن يوفر المعالج الثقة والحرية في العلاقة. وبذلك يصبح للطفل حرية التعبير عن نفسه. ويقبل كل سلوك للطفل بلا حدود. IV- يلاحظ المعالج مشاعر الطفل جيدًا، ويعكسها كلما أدركها، ويساعد على زيادة وعي الطفل. V- يؤمن المعالج بأن لدى الطفل إحساسًا بالمسؤولية. ويؤمن بأن لديه قدرة على حل المشكلات. أي من العبارات أعلاه صحيح بشأن العلاج باللعب المتمركز حول الطفل؟ اختر الخيار الأنسب."
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Bilişsel davranışçı oyun terapileri ile ilgili hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel terapi ve oyun terapisi tekniklerini bütünleştirmiştir.",
+          "images": [],
+          "text_ar": "دمج تقنيات العلاج المعرفي والعلاج باللعب."
+        },
+        {
+          "letter": "B",
+          "text": "Sanat malzemeleri ve kuklalar özellikle oyun materyalleri arasında olmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن تكون المواد الفنية والدمى على وجه الخصوص ضمن مواد اللعب."
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların ebeveynleri de bilişsel davranışçı terapiye gitmelidirler.",
+          "images": [],
+          "text_ar": "ينبغي أن يخضع والدا الأطفال أيضًا للعلاج المعرفي السلوكي."
+        },
+        {
+          "letter": "D",
+          "text": "Psikoeğitim önemli bir müdahale basamağıdır.",
+          "images": [],
+          "text_ar": "التربية النفسية خطوة تدخل مهمة."
+        },
+        {
+          "letter": "E",
+          "text": "Seanslar hakkında bilgilendirme ebeveynlere de yapılır, koterapist rolündedirler.",
+          "images": [],
+          "text_ar": "يُقدَّم إعلام عن الجلسات للوالدين أيضًا، إذ يقومان بدور المعالج المشارك."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي غير صحيح بشأن العلاج باللعب المعرفي السلوكي؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk merkezli oyun terapileri ile ilgili hangi ifade doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Seanslarda terapist aktif olarak çocuğun oyununa katılır.",
+          "images": [],
+          "text_ar": "يشارك المعالج بنشاط في لعب الطفل خلال الجلسات."
+        },
+        {
+          "letter": "B",
+          "text": "Seanslarda terapist çocuğun verdiği rolleri oynar.",
+          "images": [],
+          "text_ar": "يؤدي المعالج الأدوار التي يسندها إليه الطفل في الجلسات."
+        },
+        {
+          "letter": "C",
+          "text": "Terapistin seanslarda soru sorması ve yorum yapması beklenir.",
+          "images": [],
+          "text_ar": "يُتوقع من المعالج أن يطرح أسئلة ويقدّم تفسيرات في الجلسات."
+        },
+        {
+          "letter": "D",
+          "text": "Serbest oyun içeriğine sahiptir ve bir yapısı yoktur.",
+          "images": [],
+          "text_ar": "يتضمن لعبًا حرًا وليس له بنية."
+        },
+        {
+          "letter": "E",
+          "text": "Oyunun temel hedefi sorunun çözümüdür.",
+          "images": [],
+          "text_ar": "الهدف الأساسي للعب هو حل المشكلة."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي عبارة صحيحة بشأن العلاج باللعب المتمركز حول الطفل؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk merkezli oyun terapisi ile ilgili hangisi yanlış ifadedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk yönetir, terapist izler.",
+          "images": [],
+          "text_ar": "الطفل يقود والمعالج يتابع."
+        },
+        {
+          "letter": "B",
+          "text": "Serbest oyun içerir ve oyun terapisindeki sınırlar burada yoktur.",
+          "images": [],
+          "text_ar": "يتضمن لعبًا حرًا، ولا وجود للحدود المعروفة في العلاج باللعب هنا."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun özgürce oyun oynayarak kendisini ortaya koyacağını savunur.",
+          "images": [],
+          "text_ar": "يرى أن الطفل سيكشف عن نفسه باللعب بحرية."
+        },
+        {
+          "letter": "D",
+          "text": "İlişki kurma ilk hedeflenen amaçtır.",
+          "images": [],
+          "text_ar": "إقامة العلاقة هي الهدف الأول."
+        },
+        {
+          "letter": "E",
+          "text": "Terapist kendisine verilen role uyum sağlar",
+          "images": [],
+          "text_ar": "يتكيف المعالج مع الدور المُسند إليه."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي عبارة غير صحيحة بشأن العلاج باللعب المتمركز حول الطفل؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "e2861083a41a8fb852da9dfaa8239cb7ac456f05483f933153389aa4a8fdf983"
+}

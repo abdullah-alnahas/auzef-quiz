@@ -3,7 +3,7 @@ course: ÇOCUKLUKTA YABANCI DİL OLARAK TÜRKÇE ÖĞRETİMİ
 exam: Final Soruları
 source_url: https://lolonolo.com/2021/12/09/cocuklukta-yabanci-dil-olarak-turkce-ogretimi-final-sorulari/
 question_count: 40
-scraped_at: 2026-11-12T11:32:33+03:00
+scraped_at: 2026-11-12T14:58:18+03:00
 ---
 
 ### Q1

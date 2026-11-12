@@ -1,0 +1,439 @@
+{
+  "course": "OYUN VE OYUN TERAPİSİ",
+  "course_slug": "oyun-ve-oyun-terapisi",
+  "exam": "Ünite-8",
+  "exam_slug": "unite-8",
+  "page_title": "Oyun ve Oyun Terapisi Ünite-8",
+  "source_url": "https://lolonolo.com/2025/10/03/oyun-ve-oyun-terapisi-unite-8/",
+  "scraped_at": "2026-11-12T15:01:02+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisinde kullanılan materyallerin seçimi neye bağlıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun gelişim düzeyine ve terapötik hedeflere",
+          "images": [],
+          "text_ar": "على مستوى نمو الطفل والأهداف العلاجية"
+        },
+        {
+          "letter": "B",
+          "text": "Terapistin kişisel tercihlerine",
+          "images": [],
+          "text_ar": "على تفضيلات المعالج الشخصية"
+        },
+        {
+          "letter": "C",
+          "text": "Sadece yaşa",
+          "images": [],
+          "text_ar": "على العمر فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Ailenin isteğine",
+          "images": [],
+          "text_ar": "على رغبة الأسرة"
+        },
+        {
+          "letter": "E",
+          "text": "Oyun alanının büyüklüğüne",
+          "images": [],
+          "text_ar": "على حجم مساحة اللعب"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "على ماذا يعتمد اختيار المواد المستخدمة في العلاج باللعب؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisi hangi psikoterapi kuramlarından etkilenmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikanalitik, hümanistik, bilişsel-davranışçı",
+          "images": [],
+          "text_ar": "التحليلية، والإنسانية، والمعرفية السلوكية"
+        },
+        {
+          "letter": "B",
+          "text": "Davranışçı sadece",
+          "images": [],
+          "text_ar": "السلوكية فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Sadece hümanistik",
+          "images": [],
+          "text_ar": "الإنسانية فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel sadece",
+          "images": [],
+          "text_ar": "المعرفية فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Nörolojik",
+          "images": [],
+          "text_ar": "العصبية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "بأي نظريات في العلاج النفسي تأثر العلاج باللعب؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi oyun terapisi sürecinde dikkat edilmesi gereken bir unsurdur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Terapistin sınırları net koyması",
+          "images": [],
+          "text_ar": "أن يضع المعالج الحدود بوضوح"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğa sürekli müdahale etmek",
+          "images": [],
+          "text_ar": "التدخل المستمر مع الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Oyun sırasında akademik konulara girmek",
+          "images": [],
+          "text_ar": "الخوض في موضوعات أكاديمية أثناء اللعب"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun oyun sürecini sürekli kesmek",
+          "images": [],
+          "text_ar": "مقاطعة عملية لعب الطفل باستمرار"
+        },
+        {
+          "letter": "E",
+          "text": "Oyun materyallerini sınırlamak",
+          "images": [],
+          "text_ar": "تقييد مواد اللعب"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي عنصر ينبغي مراعاته في عملية العلاج باللعب؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi oyun terapisinin temel amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun duygularını ifade etmesi",
+          "images": [],
+          "text_ar": "أن يعبّر الطفل عن مشاعره"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun akademik başarısını artırmak",
+          "images": [],
+          "text_ar": "رفع التحصيل الأكاديمي للطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Duygusal iyilik halini desteklemek",
+          "images": [],
+          "text_ar": "دعم الحالة العاطفية الإيجابية"
+        },
+        {
+          "letter": "D",
+          "text": "Gelişimsel zorluklarla başa çıkmayı kolaylaştırmak",
+          "images": [],
+          "text_ar": "تسهيل التعامل مع الصعوبات النمائية"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun iç dünyasını anlamak",
+          "images": [],
+          "text_ar": "فهم العالم الداخلي للطفل"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من الأهداف الأساسية للعلاج باللعب؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisi çocuklarda hangi gelişimsel sorunlarda daha etkili olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duygusal ve davranışsal sorunlarda",
+          "images": [],
+          "text_ar": "في المشكلات العاطفية والسلوكية"
+        },
+        {
+          "letter": "B",
+          "text": "Sadece motor gelişim gecikmelerinde",
+          "images": [],
+          "text_ar": "في تأخر النمو الحركي فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnızca fiziksel hastalıklarda",
+          "images": [],
+          "text_ar": "في الأمراض الجسدية فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Akademik eksikliklerde",
+          "images": [],
+          "text_ar": "في القصور الأكاديمي"
+        },
+        {
+          "letter": "E",
+          "text": "Hiçbir gelişimsel sorun için uygun değildir.",
+          "images": [],
+          "text_ar": "لا يناسب أي مشكلة نمائية."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في أي من المشكلات النمائية عند الأطفال قد يكون العلاج باللعب أكثر فعالية؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel sorunların erken tanısının önemi nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece akademik başarı için gereklidir.",
+          "images": [],
+          "text_ar": "لازم للتحصيل الأكاديمي فقط."
+        },
+        {
+          "letter": "B",
+          "text": "Müdahale planlaması ve çocuğun sağlıklı gelişimi için kritiktir.",
+          "images": [],
+          "text_ar": "حاسم لتخطيط التدخل ولنمو الطفل نموًا سليمًا."
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal becerilerin gelişimini engeller.",
+          "images": [],
+          "text_ar": "يعيق نمو المهارات الاجتماعية."
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların fiziksel sağlığını artırır.",
+          "images": [],
+          "text_ar": "يزيد صحة الأطفال الجسدية."
+        },
+        {
+          "letter": "E",
+          "text": "Aileler için bilgi kaynağıdır.",
+          "images": [],
+          "text_ar": "مصدر معلومات للأسر."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما أهمية التشخيص المبكر للمشكلات النمائية؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Yönlendirilmiş oyun terapisi ile yönlendirilmemiş oyun terapisi arasındaki temel fark nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yönlendirilmiş oyun terapisi tamamen çocuk kontrolündedir.",
+          "images": [],
+          "text_ar": "العلاج باللعب التوجيهي يخضع لسيطرة الطفل تمامًا."
+        },
+        {
+          "letter": "B",
+          "text": "Yönlendirilmemiş oyun terapisi terapist kontrolündedir.",
+          "images": [],
+          "text_ar": "العلاج باللعب غير التوجيهي يخضع لسيطرة المعالج."
+        },
+        {
+          "letter": "C",
+          "text": "Yönlendirilmiş terapi daha yapılandırılmıştır.",
+          "images": [],
+          "text_ar": "العلاج التوجيهي أكثر تنظيمًا."
+        },
+        {
+          "letter": "D",
+          "text": "İkisi de tamamen aynı yöntemdir.",
+          "images": [],
+          "text_ar": "كلاهما الطريقة نفسها تمامًا."
+        },
+        {
+          "letter": "E",
+          "text": "Yönlendirilmemiş terapi sadece grup oyunudur.",
+          "images": [],
+          "text_ar": "العلاج غير التوجيهي ليس إلا لعبًا جماعيًا."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما الفرق الأساسي بين العلاج باللعب التوجيهي والعلاج باللعب غير التوجيهي؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisi uygulamasında aşağıdakilerden hangisi doğru bir yaklaşımdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun gelişimsel düzeyine uygun oyun tekniklerinin seçilmesi",
+          "images": [],
+          "text_ar": "اختيار تقنيات لعب تناسب مستوى نمو الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Terapistin oyunu tamamen kontrol etmesi",
+          "images": [],
+          "text_ar": "أن يسيطر المعالج على اللعب تمامًا"
+        },
+        {
+          "letter": "C",
+          "text": "Oyun sürecinde sonuç odaklı olunması",
+          "images": [],
+          "text_ar": "أن يكون التركيز على النتائج في عملية اللعب"
+        },
+        {
+          "letter": "D",
+          "text": "Sadece sözel ifade üzerinde durulması",
+          "images": [],
+          "text_ar": "الاقتصار على التعبير اللفظي"
+        },
+        {
+          "letter": "E",
+          "text": "Oyun materyallerinin çocuğa zarar vermesi",
+          "images": [],
+          "text_ar": "أن تؤذي مواد اللعب الطفل"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي مقاربة صحيحة في تطبيق العلاج باللعب؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisinde terapistin rolü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğa oyunla direktif vermek",
+          "images": [],
+          "text_ar": "إعطاء الطفل توجيهات من خلال اللعب"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun kendini ifade etmesine rehberlik etmek",
+          "images": [],
+          "text_ar": "إرشاد الطفل في التعبير عن نفسه"
+        },
+        {
+          "letter": "C",
+          "text": "Sadece gözlemci olmak",
+          "images": [],
+          "text_ar": "أن يكون مراقبًا فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Sadece oyun materyali sağlamak",
+          "images": [],
+          "text_ar": "أن يوفر مواد اللعب فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Oyunları yasaklamak",
+          "images": [],
+          "text_ar": "تحريم الألعاب"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما دور المعالج في العلاج باللعب؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel sorunlar en çok hangi alanlarda çocukların gelişimini etkiler?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel, sosyal ve duygusal alanlar",
+          "images": [],
+          "text_ar": "المجالات المعرفية والاجتماعية والعاطفية"
+        },
+        {
+          "letter": "B",
+          "text": "Sadece motor beceriler",
+          "images": [],
+          "text_ar": "المهارات الحركية فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnızca dil becerileri",
+          "images": [],
+          "text_ar": "مهارات اللغة فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Akademik başarı",
+          "images": [],
+          "text_ar": "التحصيل الأكاديمي"
+        },
+        {
+          "letter": "E",
+          "text": "Fiziksel görünüm",
+          "images": [],
+          "text_ar": "المظهر الجسدي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في أي المجالات تؤثر المشكلات النمائية في نمو الأطفال أكثر؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "a91dbec29b5a9a32f5dc098b9375c2268af4a7fd10e399a6d4ad70763a67f96b"
+}

@@ -1,0 +1,439 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -3",
+  "exam_slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-3",
+  "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -3",
+  "source_url": "https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-3/",
+  "scraped_at": "2026-11-12T15:01:05+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun değerlendirilmesinde ısınma faaliyeti kullanılmasının sebebi nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun yeni ortam ve kişiye uyum göstermesine yardımcı olmak",
+          "images": [],
+          "text_ar": "مساعدة الطفل على التكيّف مع البيئة والشخص الجديدين"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğu mutlu etmek",
+          "images": [],
+          "text_ar": "إسعاد الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Değerlendiricinin dinlenmesi",
+          "images": [],
+          "text_ar": "حصول المقيّم على الراحة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun ebeveynini etkilemek",
+          "images": [],
+          "text_ar": "التأثير في والدي الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun özgüvenini olumlu etkilemek",
+          "images": [],
+          "text_ar": "التأثير الإيجابي في ثقة الطفل بنفسه"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما سبب استخدام نشاط التهيئة في تقييم الطفل؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun test performansını en uygun hale getirmek için hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Test sonrası sonuç hakkında bilgi verilir",
+          "images": [],
+          "text_ar": "تُقدَّم معلومات عن النتيجة بعد الاختبار"
+        },
+        {
+          "letter": "B",
+          "text": "Isınma faaliyeti kullanılır",
+          "images": [],
+          "text_ar": "يُستخدم نشاط التهيئة"
+        },
+        {
+          "letter": "C",
+          "text": "Odanın düzeni çocuğa uygun hale getirilir",
+          "images": [],
+          "text_ar": "يُهيَّأ ترتيب الغرفة بما يناسب الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Teste yumuşak geçiş yapılır",
+          "images": [],
+          "text_ar": "يُنتقل إلى الاختبار انتقالًا لطيفًا"
+        },
+        {
+          "letter": "E",
+          "text": "Gerekirse prosedürde değişiklik yapılır.",
+          "images": [],
+          "text_ar": "يُعدَّل الإجراء عند الحاجة."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا يُفعل لجعل أداء الطفل في الاختبار في أنسب صورة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Ölçüm araçları aşağıdakilerden hangi şekilde kullanılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukla ilgili bilgi sahibi olmadan önce",
+          "images": [],
+          "text_ar": "قبل الحصول على معلومات عن الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun durumunu anlamak için tek başına",
+          "images": [],
+          "text_ar": "بمفردها لفهم حالة الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğu iyi tanıyıp sorunu öğrendikten sonra hipotez test etmek amacıyla",
+          "images": [],
+          "text_ar": "بعد معرفة الطفل جيدًا وتحديد المشكلة، بهدف اختبار الفرضيات"
+        },
+        {
+          "letter": "D",
+          "text": "Okulda çocuğun velisine bilgi vermeden",
+          "images": [],
+          "text_ar": "في المدرسة دون إبلاغ ولي أمر الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun ailesi merak ettiği için",
+          "images": [],
+          "text_ar": "لأن أسرة الطفل تشعر بالفضول"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "كيف ينبغي استخدام أدوات القياس؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukların ölçme ve değerlendirmesinde erişkinlerden farklı olarak dikkate alınmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçüm aracının geçerli olması",
+          "images": [],
+          "text_ar": "أن تكون أداة القياس صادقة"
+        },
+        {
+          "letter": "B",
+          "text": "Ölçüm yapılacak odanın sessiz olması",
+          "images": [],
+          "text_ar": "أن تكون الغرفة التي يُجرى فيها القياس هادئة"
+        },
+        {
+          "letter": "C",
+          "text": "Ölçüm aracının güvenilir olması",
+          "images": [],
+          "text_ar": "أن تكون أداة القياس ثابتة"
+        },
+        {
+          "letter": "D",
+          "text": "Etiketleyici bir dil kullanılmaması",
+          "images": [],
+          "text_ar": "عدم استخدام لغة موسومة"
+        },
+        {
+          "letter": "E",
+          "text": "Oyun ve hikaye gibi yöntemler kullanılması",
+          "images": [],
+          "text_ar": "استخدام طرق مثل اللعب والقصة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ينبغي مراعاته في قياس الأطفال وتقييمهم على نحو يختلف عن البالغين؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun dikkat süresinin kısa olması değerlendirmede hangi değişikliğe neden olmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Performansının yakından takip edilmesini gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم متابعة أدائه عن قرب."
+        },
+        {
+          "letter": "B",
+          "text": "Ölçme işlemini çocuğun keyif alacağı bir formatta sunmayı gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم تقديم عملية القياس في صيغة يستمتع بها الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "İşlem süresi uzarsa mola verilmesi gibi esneklikleri gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم مرونات مثل منح استراحة إذا طال وقت الإجراء."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğa saygılı davranılmasını gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم معاملة الطفل باحترام."
+        },
+        {
+          "letter": "E",
+          "text": "Odada çocuğun dikkatini dağıtacak nesnelerin bulunmamasını gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم ألّا توجد في الغرفة أشياء تشتّت انتباه الطفل."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي تغيير لا يسببه قِصر مدة انتباه الطفل في التقييم؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların dili kullanma becerilerinin sınırlı olması ölçme ve değerlendirmede nasıl bir farklılığa neden olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece çocukla konuşarak karar verilmesini sağlar.",
+          "images": [],
+          "text_ar": "يجعل اتخاذ القرار يقتصر على التحدث مع الطفل."
+        },
+        {
+          "letter": "B",
+          "text": "Sözel diyalogda dikkatinin kolaylıkla dağılmasına neden olur.",
+          "images": [],
+          "text_ar": "يؤدي إلى سهولة تشتت انتباه الطفل في الحوار اللفظي."
+        },
+        {
+          "letter": "C",
+          "text": "Gürültüsüz bir ortamda çalışılmasını gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم العمل في بيئة خالية من الضوضاء."
+        },
+        {
+          "letter": "D",
+          "text": "Gizliliğe daha çok dikkat edilmesini gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم مزيدًا من الاهتمام بالسرية."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuktan bilgi alınmamasına neden olur.",
+          "images": [],
+          "text_ar": "يؤدي إلى عدم الحصول على معلومات من الطفل."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "كيف يؤدي محدودية مهارات الأطفال في استخدام اللغة إلى اختلاف في القياس والتقييم؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme işlemi öncesinde hangisi yapılmamalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun kullandığı ilaçların öğrenilmesi",
+          "images": [],
+          "text_ar": "معرفة الأدوية التي يستخدمها الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun herhangi bir sağlık sorunu varsa öğrenilmesi",
+          "images": [],
+          "text_ar": "معرفة ما إذا كان الطفل يعاني أي مشكلة صحية"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa yapılacak işlem hakkında bilgi verilmesi",
+          "images": [],
+          "text_ar": "إبلاغ الطفل بالإجراء الذي سيُجرى"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukla uzun süre oyun oynanması",
+          "images": [],
+          "text_ar": "اللعب مع الطفل مدة طويلة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun velisine bilgi verilmesi",
+          "images": [],
+          "text_ar": "إبلاغ ولي أمر الطفل"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي لا ينبغي فعله قبل عملية القياس؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların psikolojik değerlendirmesi ile ilgili ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Etiketleyici bir dil kullanılmamalıdır.",
+          "images": [],
+          "text_ar": "لا ينبغي استخدام لغة موسومة."
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirmede çocuğun eksiklerine odaklanılması gerekir.",
+          "images": [],
+          "text_ar": "ينبغي التركيز في التقييم على نواحي نقص الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların dikkati erişkinlere göre daha kolay dağılır.",
+          "images": [],
+          "text_ar": "يتشتت انتباه الأطفال بسهولة أكبر من البالغين."
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirmede esnek davranmak önemlidir.",
+          "images": [],
+          "text_ar": "من المهم التحلي بالمرونة في التقييم."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun velisiyle iyi bir ilişki ve iletişim kurmak çok önemlidir.",
+          "images": [],
+          "text_ar": "من المهم جدًا بناء علاقة وتواصل جيدين مع ولي أمر الطفل."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من العبارات التالية غير صحيح بشأن التقييم النفسي للأطفال؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Ölçüm öncesi yapılacak işlem hakkında neden bilgi verilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun uygun performans sergilemesi için",
+          "images": [],
+          "text_ar": "ليُظهر الطفل أداءً مناسبًا"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukla arkadaş olmak için",
+          "images": [],
+          "text_ar": "ليصبح المقيّم صديقًا للطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Ölçeğin iç tutarlılığını yükseltmek için",
+          "images": [],
+          "text_ar": "لرفع الاتساق الداخلي للمقياس"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun test sırasında soru sormaması için",
+          "images": [],
+          "text_ar": "لكيلا يطرح الطفل أسئلة أثناء الاختبار"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun psikoloji konusundaki bilgisini artırmak için",
+          "images": [],
+          "text_ar": "لزيادة معرفة الطفل بعلم النفس"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "لماذا ينبغي إعطاء معلومات عن الإجراء الذي سيُجرى قبل القياس؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun test sırasında sıkıldığı, esnediği ve teste devam etmek istemediğini söylediği durumda ne yapılabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Annesinden çocuğunu uyarması istenir.",
+          "images": [],
+          "text_ar": "يُطلب من الأم أن تنبّه طفلها."
+        },
+        {
+          "letter": "B",
+          "text": "Başka bir gün tamamlanmak üzere test ara verilir.",
+          "images": [],
+          "text_ar": "يُوقف الاختبار مؤقتًا لإكماله في يوم آخر."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa testi bitirirse ödül verileceği söylenir.",
+          "images": [],
+          "text_ar": "يُقال للطفل إنه سيحصل على مكافأة إذا أنهى الاختبار."
+        },
+        {
+          "letter": "D",
+          "text": "Test bu şekilde tamamlanır.",
+          "images": [],
+          "text_ar": "يُكمل الاختبار على هذه الحال."
+        },
+        {
+          "letter": "E",
+          "text": "Testin çocuğa uygun olmadığına karar verilir.",
+          "images": [],
+          "text_ar": "يُقرر أن الاختبار غير مناسب للطفل."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ماذا يمكن فعله إذا شعر الطفل بالملل أثناء الاختبار وتثاءب وقال إنه لا يريد متابعة الاختبار؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "2643c582783699c4d2abac79fdac807b3b98b79cd57a875afac67a18de25c384"
+}

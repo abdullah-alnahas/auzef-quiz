@@ -1,0 +1,859 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Çocuk Gelişimi Uygulamaları -1 Vize Deneme Sınavı -4",
+  "exam_slug": "cocuk-gelisimi-uygulamalari-1-vize-deneme-sinavi-4",
+  "page_title": "Çocuk Gelişimi Uygulamaları -1 Vize Deneme Sınavı -4",
+  "source_url": "https://lolonolo.com/2023/09/28/cocuk-gelisimi-uygulamalari-1-vize-deneme-sinavi-4/",
+  "scraped_at": "2026-11-12T15:00:48+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aile Danışmanı olabilmek için aşağıda verilenlerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile Danışmanlığı sertifikası için Milli Eğitim Bakanlığından izin alınması gereklidir.",
+          "images": [],
+          "text_ar": "يجب الحصول على إذن من وزارة التربية الوطنية للحصول على شهادة الإرشاد الأسري."
+        },
+        {
+          "letter": "B",
+          "text": "Tıp fakültesi mezunları direkt olarak aile danışmanı unvanını alabilirler.",
+          "images": [],
+          "text_ar": "يمكن لخريجي كليات الطب الحصول على لقب مرشد أسري مباشرة."
+        },
+        {
+          "letter": "C",
+          "text": "4 yıllık lisans programlarından mezun olanlar en az beş yüz saati teorik ve en az kırk saati süpervizyon eşliğinde eğitim almalıdırlar.",
+          "images": [],
+          "text_ar": "يجب على خريجي برامج البكالوريوس ذات الأربع سنوات تلقي تدريب لا يقل عن خمسمائة ساعة نظرية وأربعين ساعة على الأقل تحت إشراف."
+        },
+        {
+          "letter": "D",
+          "text": "Aile danışmanlığı sertifika programına katılmak isteyenler için en az altı yıllık lisans eğitimi şartı bulunmaktadır.",
+          "images": [],
+          "text_ar": "يُشترط على الراغبين في الالتحاق ببرنامج شهادة الإرشاد الأسري أن يكونوا قد أكملوا ست سنوات على الأقل من التعليم الجامعي."
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal hizmet, çocuk gelişimi gibi belirli bölümlerden mezun olanlar, belirlenen süre ve içerikteki eğitimi tamamladıktan sonra aile danışmanı sertifikası alabilirler.",
+          "images": [],
+          "text_ar": "يمكن لخريجي تخصصات معينة مثل الخدمة الاجتماعية ونمو الطفل الحصول على شهادة مرشد أسري بعد إتمام التدريب بالمدة والمحتوى المحددين."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي صحيح بشأن شروط أن يصبح المرء مرشدًا أسريًا؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aile Danışma Merkezlerinde görev alacak olan Çocuk Gelişimciler lisans mezuniyetleri haricinde hangi eğitim programını almak zorundadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitimde Drama Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج التدريب على الدراما في التعليم"
+        },
+        {
+          "letter": "B",
+          "text": "Aile Danışmanlığı Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تدريب الإرشاد الأسري"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk Ergen Psikopatoloji Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تدريب علم النفس المرضي للطفل والمراهق"
+        },
+        {
+          "letter": "D",
+          "text": "Oyun Terapi Programı",
+          "images": [],
+          "text_ar": "برنامج العلاج باللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk-Aile İletişim Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تدريب التواصل بين الطفل والأسرة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي برنامج تدريبي يجب أن يتلقاه أخصائيو نمو الطفل الذين سيعملون في مراكز الإرشاد الأسري إلى جانب شهادة البكالوريوس؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Formal Değerlendirme ile informal Değerlendirme Araçları ile ilgili verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Formal değerlendirme araçlarının önceden geçerlik güvenirlik çalışması yapılmalıdır.",
+          "images": [],
+          "text_ar": "يجب إجراء دراسات الصدق والثبات لأدوات التقييم الرسمية مسبقًا."
+        },
+        {
+          "letter": "B",
+          "text": "İnformal değerlendirme araçlarında sayısal bir sonuç vardır.",
+          "images": [],
+          "text_ar": "توجد في أدوات التقييم غير الرسمية نتيجة عددية."
+        },
+        {
+          "letter": "C",
+          "text": "Formal değerlendirme araçları daha ekonomiktir.",
+          "images": [],
+          "text_ar": "أدوات التقييم الرسمية أكثر اقتصادية."
+        },
+        {
+          "letter": "D",
+          "text": "İnformal değerlendirme araçları formal değerlendirme araçlarına göre daha uzun sürer.",
+          "images": [],
+          "text_ar": "تستغرق أدوات التقييم غير الرسمية وقتًا أطول من أدوات التقييم الرسمية."
+        },
+        {
+          "letter": "E",
+          "text": "Formal değerlendirme araçları büyük örneklem gruplarında yapılmış ve standardize edilmiştir.",
+          "images": [],
+          "text_ar": "طُبِّقت أدوات التقييم الرسمية على مجموعات كبيرة من العينات ووُحِّدت معاييرها."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من المعلومات التالية عن أدوات التقييم الرسمية وأدوات التقييم غير الرسمية غير صحيحة؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk Destek Merkezlerinde çocuklara hangi eğitim programı uygulanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ANKA Çocuk Destek Programı",
+          "images": [],
+          "text_ar": "برنامج دعم الطفل ANKA"
+        },
+        {
+          "letter": "B",
+          "text": "DESTEK Çocuk Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج DESTEK لتعليم الأطفال"
+        },
+        {
+          "letter": "C",
+          "text": "FLOORTİME Çocuk Destek Programı",
+          "images": [],
+          "text_ar": "برنامج دعم الطفل فلورتايم"
+        },
+        {
+          "letter": "D",
+          "text": "Montessori Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج مونتيسوري التعليمي"
+        },
+        {
+          "letter": "E",
+          "text": "Terapötik Oyun Destek Programı",
+          "images": [],
+          "text_ar": "برنامج الدعم باللعب العلاجي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي برنامج تعليمي يُطبَّق على الأطفال في مراكز دعم الطفل؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimciler Kültür ve Turizm Bakanlığı’na bağlı hangi kurumda çalışabilirler?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hastanelerde",
+          "images": [],
+          "text_ar": "في المستشفيات"
+        },
+        {
+          "letter": "B",
+          "text": "Kütüphanelerde",
+          "images": [],
+          "text_ar": "في المكتبات"
+        },
+        {
+          "letter": "C",
+          "text": "Üniversitelerde",
+          "images": [],
+          "text_ar": "في الجامعات"
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal Hizmet Merkezlerinde",
+          "images": [],
+          "text_ar": "في مراكز الخدمة الاجتماعية"
+        },
+        {
+          "letter": "E",
+          "text": "Meslek liselerinde",
+          "images": [],
+          "text_ar": "في الثانويات المهنية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "في أي مؤسسة تابعة لوزارة الثقافة والسياحة يمكن لأخصائيي نمو الطفل العمل؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Sosyal Hizmet Merkezlerinin temel hedef kitlesi hangi grupları içerir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece kadınlar",
+          "images": [],
+          "text_ar": "النساء فقط"
+        },
+        {
+          "letter": "B",
+          "text": "Sadece yaşlılar",
+          "images": [],
+          "text_ar": "كبار السن فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnızca çocuklar",
+          "images": [],
+          "text_ar": "الأطفال فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Dezavantajlı Veya Riskli Gruplar",
+          "images": [],
+          "text_ar": "الفئات المحرومة أو المعرضة للخطر"
+        },
+        {
+          "letter": "E",
+          "text": "Sadece gençler",
+          "images": [],
+          "text_ar": "الشباب فقط"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الفئات تشملها الفئة المستهدفة الأساسية لمراكز الخدمة الاجتماعية؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Çocuklarla yapılan araştırmalarda çocuğun yaşına ve anlama kapasitesine uygun olarak hangi bilgilerin açıklanması esastır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun geçmişi",
+          "images": [],
+          "text_ar": "ماضي الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Araştırmanın maliyeti",
+          "images": [],
+          "text_ar": "تكلفة البحث"
+        },
+        {
+          "letter": "C",
+          "text": "Araştırmanın amacı, yöntemi, süresi ve olası riskleri",
+          "images": [],
+          "text_ar": "هدف البحث ومنهجه ومدته ومخاطره المحتملة"
+        },
+        {
+          "letter": "D",
+          "text": "Araştırmayı kimin finanse ettiği",
+          "images": [],
+          "text_ar": "الجهة التي تمول البحث"
+        },
+        {
+          "letter": "E",
+          "text": "Araştırmacıların geçmişi",
+          "images": [],
+          "text_ar": "ماضي الباحثين"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "في البحوث التي تُجرى مع الأطفال، ما المعلومات التي يجب بيانها بما يتناسب مع عمر الطفل وقدرته على الفهم؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi alanında çalışan profesyoneller için hangi dernek çocuklarla çalışırken gözetilmesi gereken etik prensipleri belirlemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "WHO",
+          "images": [],
+          "text_ar": "منظمة الصحة العالمية (WHO)"
+        },
+        {
+          "letter": "B",
+          "text": "UNICEF",
+          "images": [],
+          "text_ar": "صندوق الأمم المتحدة للطفولة (UNICEF)"
+        },
+        {
+          "letter": "C",
+          "text": "UNDP",
+          "images": [],
+          "text_ar": "برنامج الأمم المتحدة الإنمائي (UNDP)"
+        },
+        {
+          "letter": "D",
+          "text": "UNESCO",
+          "images": [],
+          "text_ar": "منظمة الأمم المتحدة للتربية والعلم والثقافة (UNESCO)"
+        },
+        {
+          "letter": "E",
+          "text": "UNEP",
+          "images": [],
+          "text_ar": "برنامج الأمم المتحدة للبيئة (UNEP)"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي جمعية وضعت المبادئ الأخلاقية التي يجب مراعاتها عند العمل مع الأطفال للمهنيين العاملين في مجال نمو الطفل؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi aile içi iletişimin, çocuğun gelişimine olumlu etkilerinden biri olarak belirtilmemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kritik düşünme yeteneği kazanma",
+          "images": [],
+          "text_ar": "اكتساب القدرة على التفكير الناقد"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal becerilerin gelişimi",
+          "images": [],
+          "text_ar": "تطور المهارات الاجتماعية"
+        },
+        {
+          "letter": "C",
+          "text": "Özgüvenin azalması",
+          "images": [],
+          "text_ar": "انخفاض الثقة بالنفس"
+        },
+        {
+          "letter": "D",
+          "text": "Duygusal düzenleme becerisi kazanma",
+          "images": [],
+          "text_ar": "اكتساب مهارة التنظيم العاطفي"
+        },
+        {
+          "letter": "E",
+          "text": "Güvenli bağlanma stilini benimseme",
+          "images": [],
+          "text_ar": "تبني نمط تعلق آمن"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لم يُذكر من الآثار الإيجابية للتواصل داخل الأسرة على نمو الطفل؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun tanı ve değerlendirme süreci ile ilgili verilen bilgilerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanı ve değerlendirme sürecinde birçok farklı uzman görev almalıdır.",
+          "images": [],
+          "text_ar": "يجب أن يشارك في عملية التشخيص والتقييم عدد من الأخصائيين المختلفين."
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirme yaparken İnformal değerlendirme araçları yerine formal değerlendirme araçlarına daha çok yer verilmelidir.",
+          "images": [],
+          "text_ar": "عند التقييم ينبغي إعطاء مكان أكبر لأدوات التقييم الرسمية بدلًا من أدوات التقييم غير الرسمية."
+        },
+        {
+          "letter": "C",
+          "text": "Tanı ve değerlendirme sadece bir kez değil sürekli olacak şekilde gerçekleştirilmelidir.",
+          "images": [],
+          "text_ar": "يجب أن يتم التشخيص والتقييم باستمرار لا مرة واحدة فقط."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun değerlendirilmesinde aile izin vermez ise değerlendirme yapılamaz.",
+          "images": [],
+          "text_ar": "إذا لم تسمح الأسرة بتقييم الطفل فلا يمكن إجراء التقييم."
+        },
+        {
+          "letter": "E",
+          "text": "Tanı ve değerlendirme sürecinde çocuğun gönüllü olması gerekmektedir.",
+          "images": [],
+          "text_ar": "يجب أن يكون الطفل راغبًا في عملية التشخيص والتقييم."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من المعلومات التالية عن عملية تشخيص الطفل وتقييمه غير صحيحة؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk odaklı danışmanlık sürecinin hangi aşamasında problem durumu ile ilgili bilgi alınır ve ilk hipotezler oluşturulur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değerlendirme",
+          "images": [],
+          "text_ar": "التقييم"
+        },
+        {
+          "letter": "B",
+          "text": "Hedef Belirleme",
+          "images": [],
+          "text_ar": "تحديد الهدف"
+        },
+        {
+          "letter": "C",
+          "text": "İlk Görüşme/Planlama",
+          "images": [],
+          "text_ar": "المقابلة الأولى/التخطيط"
+        },
+        {
+          "letter": "D",
+          "text": "Müdahale/Uygulama",
+          "images": [],
+          "text_ar": "التدخل/التطبيق"
+        },
+        {
+          "letter": "E",
+          "text": "Strateji Geliştirme",
+          "images": [],
+          "text_ar": "تطوير الاستراتيجية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "في أي مرحلة من مراحل عملية الإرشاد المتمركز حول الطفل تُجمع المعلومات عن الحالة المشكلة وتُصاغ الفرضيات الأولى؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Tipik gelişim gösteren ve 3 yaşından büyük bir çocuğun ne kadar sürelik periyotlarla gelişiminin takip edilmesi ve gerekli gelişimsel değerlendirmelerin yapılması gerekir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ayda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة في الشهر"
+        },
+        {
+          "letter": "B",
+          "text": "3 Ayda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة كل 3 أشهر"
+        },
+        {
+          "letter": "C",
+          "text": "6 Ayda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة كل 6 أشهر"
+        },
+        {
+          "letter": "D",
+          "text": "Yılda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة في السنة"
+        },
+        {
+          "letter": "E",
+          "text": "2 Yılda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة كل سنتين"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "بأي فترات زمنية ينبغي متابعة نمو طفل يظهر نموًا نمطيًا ويتجاوز عمره 3 سنوات، وإجراء التقييمات النمائية اللازمة؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Umut Evleri, hangi bakanlığın alt birimlerine bağlı olarak hizmet vermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Milli Eğitim Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة التربية الوطنية"
+        },
+        {
+          "letter": "B",
+          "text": "Sağlık Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الصحة"
+        },
+        {
+          "letter": "C",
+          "text": "İçişleri Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الداخلية"
+        },
+        {
+          "letter": "D",
+          "text": "Aile ve Sosyal Hizmetler Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الأسرة والخدمات الاجتماعية"
+        },
+        {
+          "letter": "E",
+          "text": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة العمل والضمان الاجتماعي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "إلى أي وزارة تتبع الوحدات الفرعية التي تقدّم بيوت الأمل خدماتها من خلالها؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki soru örneklerinden hangisi çocuğun yaşadığı fiziksel çevre ile ilgili soruya örnek olarak verilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun odası kaç m² dir?",
+          "images": [],
+          "text_ar": "كم مترًا مربعًا مساحة غرفة الطفل؟"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun alışkınlıkları nelerdir?",
+          "images": [],
+          "text_ar": "ما عادات الطفل؟"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun genel ruh hali nasıldır?",
+          "images": [],
+          "text_ar": "كيف هي الحالة المزاجية العامة للطفل؟"
+        },
+        {
+          "letter": "D",
+          "text": "Baba ve çocuk bir günü birlikte nasıl geçirmektedir?",
+          "images": [],
+          "text_ar": "كيف يقضي الأب والطفل يومًا معًا؟"
+        },
+        {
+          "letter": "E",
+          "text": "Ebeveynlerin öğrenim durumları nedir?",
+          "images": [],
+          "text_ar": "ما المستوى التعليمي للوالدين؟"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من نماذج الأسئلة التالية يمكن أن يُقدَّم مثالًا على سؤال يتعلق بالبيئة المادية التي يعيش فيها الطفل؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda verilen aile tiplerinden hangisi, boşanmış ebeveynlerin belirli dönemlerde çocuklarını yanlarında tuttukları aile yapısını ifade eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuksuz Aile",
+          "images": [],
+          "text_ar": "أسرة بلا أطفال"
+        },
+        {
+          "letter": "B",
+          "text": "Geniş Aile",
+          "images": [],
+          "text_ar": "أسرة ممتدة"
+        },
+        {
+          "letter": "C",
+          "text": "Birleşik Aile",
+          "images": [],
+          "text_ar": "أسرة مركبة"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız Yaşayan Birey",
+          "images": [],
+          "text_ar": "فرد يعيش وحده"
+        },
+        {
+          "letter": "E",
+          "text": "Dönüşümlü Velayetli Aile",
+          "images": [],
+          "text_ar": "أسرة ذات حضانة متبادلة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من أنماط الأسرة التالية يعبّر عن بنية أسرية يحتفظ فيها الوالدان المطلقان بأطفالهما معهما في فترات محددة؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Toplum Sağlığı Merkezlerinin ana görevi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların fiziksel ihtiyaçlarına yanıt vermek",
+          "images": [],
+          "text_ar": "تلبية الاحتياجات الجسدية للأطفال"
+        },
+        {
+          "letter": "B",
+          "text": "Öğrencilere eğitim vermek",
+          "images": [],
+          "text_ar": "تقديم التعليم للطلاب"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnızca çocuklara yönelik hizmet vermek",
+          "images": [],
+          "text_ar": "تقديم خدمات للأطفال فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Toplumun ve bireylerin sağlığını korumak ve sağlık düzeylerini yükseltmek",
+          "images": [],
+          "text_ar": "حماية صحة المجتمع والأفراد والارتقاء بمستوياتهم الصحية"
+        },
+        {
+          "letter": "E",
+          "text": "Aile danışmanlığı yapmak",
+          "images": [],
+          "text_ar": "تقديم الإرشاد الأسري"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي هو المهمة الرئيسية لمراكز صحة المجتمع؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "I. Metropolitan Okul Olgunluğu Testi II. Denver II III. Erken Matematik Kabiliyetleri Testi Yukarıda verilen testlerden hangisi veya hangileri Hazırbulunuşluk Testlerine dâhil edilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "E",
+          "text": "I-II-III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "I. اختبار ميتروبوليتان للنضج المدرسي II. اختبار دنفر II؛ III. اختبار القدرات الرياضية المبكرة. أي من الاختبارات المذكورة أعلاه أو أي منها يمكن إدراجه ضمن اختبارات الاستعداد؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi mesleki etik kodları arasında hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk ve yetişkinlerle saygı ve güven ilişkisi kurmak",
+          "images": [],
+          "text_ar": "إقامة علاقة احترام وثقة مع الأطفال والبالغين"
+        },
+        {
+          "letter": "B",
+          "text": "Yeni fikir ve bilgileri reddetme",
+          "images": [],
+          "text_ar": "رفض الأفكار والمعلومات الجديدة"
+        },
+        {
+          "letter": "C",
+          "text": "Meslektaşlarına rehber olmak",
+          "images": [],
+          "text_ar": "أن يكون مرشدًا لزملائه"
+        },
+        {
+          "letter": "D",
+          "text": "Yapılan hizmetlerin hukuki boyutlarının farkında olmak",
+          "images": [],
+          "text_ar": "إدراك الأبعاد القانونية للخدمات المقدمة"
+        },
+        {
+          "letter": "E",
+          "text": "Her bireyin benzersizliği ve değerine saygı duymak",
+          "images": [],
+          "text_ar": "احترام تفرد كل فرد وقيمته"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من مدونات الأخلاق المهنية في مجال نمو الطفل؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Bir çocuk evinde kalan çocuklar arasında en fazla kaç yaş aranmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1 Yaş",
+          "images": [],
+          "text_ar": "سنة واحدة"
+        },
+        {
+          "letter": "B",
+          "text": "2 Yaş",
+          "images": [],
+          "text_ar": "سنتان"
+        },
+        {
+          "letter": "C",
+          "text": "3 Yaş",
+          "images": [],
+          "text_ar": "3 سنوات"
+        },
+        {
+          "letter": "D",
+          "text": "4 Yaş",
+          "images": [],
+          "text_ar": "4 سنوات"
+        },
+        {
+          "letter": "E",
+          "text": "5 Yaş",
+          "images": [],
+          "text_ar": "5 سنوات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما أقصى فارق عمري يُشترط بين الأطفال المقيمين في بيت الأطفال؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk Odaklı Aile Danışmanlığında hangi yaklaşım, aile dinamikleri ve çocuğun bireysel ihtiyaçlarına eş zamanlı dikkat ederek bir bütün olarak ele almayı ifade eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çözüm Odaklı Yaklaşım",
+          "images": [],
+          "text_ar": "المقاربة المتمركزة حول الحل"
+        },
+        {
+          "letter": "B",
+          "text": "Ebeveyn Destek ve Eğitimi",
+          "images": [],
+          "text_ar": "دعم الوالدين وتعليمهما"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun İhtiyaçlarına Duyarlılık",
+          "images": [],
+          "text_ar": "الحساسية لاحتياجات الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Aile Dinamiklerinin İncelenmesi",
+          "images": [],
+          "text_ar": "فحص ديناميات الأسرة"
+        },
+        {
+          "letter": "E",
+          "text": "Bütüncül Yaklaşım",
+          "images": [],
+          "text_ar": "المقاربة الشمولية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مقاربة في الإرشاد الأسري المتمركز حول الطفل تعني تناوله بوصفه كلًّا متكاملًا مع الاهتمام المتزامن بديناميات الأسرة والاحتياجات الفردية للطفل؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "7eee8921e525e6d749553c07946272ed2a550e81f736b7e825b2e08767ff690e"
+}

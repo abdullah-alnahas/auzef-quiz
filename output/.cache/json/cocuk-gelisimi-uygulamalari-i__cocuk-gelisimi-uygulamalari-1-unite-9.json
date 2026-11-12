@@ -1,0 +1,439 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Çocuk Gelişimi Uygulamaları-1 Ünite -9",
+  "exam_slug": "cocuk-gelisimi-uygulamalari-1-unite-9",
+  "page_title": "Çocuk Gelişimi Uygulamaları-1 Ünite -9",
+  "source_url": "https://lolonolo.com/2023/09/27/cocuk-gelisimi-uygulamalari-1-unite-9/",
+  "scraped_at": "2026-11-12T15:00:50+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Milli Eğitim Bakanlığına bağlı olarak açılan kurumlarda etkinlik odaları ya da sınıflar çocuk başına belli bir metre karede olması gerekmektedir. Aşağıdaki hangi kurumda çocuk başına düşen metre kare oranı en yüksek olmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anadolu Lisesi",
+          "images": [],
+          "text_ar": "ثانوية الأناضول"
+        },
+        {
+          "letter": "B",
+          "text": "Ortaokul",
+          "images": [],
+          "text_ar": "المدرسة المتوسطة"
+        },
+        {
+          "letter": "C",
+          "text": "İlkokul",
+          "images": [],
+          "text_ar": "المدرسة الابتدائية"
+        },
+        {
+          "letter": "D",
+          "text": "Anasınıfı",
+          "images": [],
+          "text_ar": "الصف التحضيري"
+        },
+        {
+          "letter": "E",
+          "text": "Meslek Lisesi",
+          "images": [],
+          "text_ar": "الثانوية المهنية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "في المؤسسات التابعة لوزارة التربية الوطنية، يجب أن تكون غرف الأنشطة أو الصفوف بمساحة معينة لكل طفل. في أي من المؤسسات التالية يجب أن تكون حصة المتر المربع لكل طفل هي الأعلى؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Özel Eğitim Anaokulu açmak için en önemli koşul aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Akıllı bina olması",
+          "images": [],
+          "text_ar": "أن تكون مبنى ذكيًا"
+        },
+        {
+          "letter": "B",
+          "text": "Müstakil bir yapı olması",
+          "images": [],
+          "text_ar": "أن تكون مبنى مستقلًا"
+        },
+        {
+          "letter": "C",
+          "text": "Bahçesinin olması",
+          "images": [],
+          "text_ar": "أن يكون لها حديقة"
+        },
+        {
+          "letter": "D",
+          "text": "Yerden ısıtma sisteminde olması",
+          "images": [],
+          "text_ar": "أن تكون مزودة بنظام تدفئة أرضية"
+        },
+        {
+          "letter": "E",
+          "text": "Şehirden uzak bir alanda olması",
+          "images": [],
+          "text_ar": "أن تكون في منطقة بعيدة عن المدينة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما الشرط الأهم لفتح روضة أطفال للتربية الخاصة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Milli Eğitim Bakanlığına bağlı olarak bir kurum açarken açılacak olan kurumun yüksek gerilim hattından en az ne kadar uzaklıkta olması gerekmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "50 metre",
+          "images": [],
+          "text_ar": "50 مترًا"
+        },
+        {
+          "letter": "B",
+          "text": "100 metre",
+          "images": [],
+          "text_ar": "100 متر"
+        },
+        {
+          "letter": "C",
+          "text": "200 metre",
+          "images": [],
+          "text_ar": "200 متر"
+        },
+        {
+          "letter": "D",
+          "text": "250 metre",
+          "images": [],
+          "text_ar": "250 مترًا"
+        },
+        {
+          "letter": "E",
+          "text": "500 metre",
+          "images": [],
+          "text_ar": "500 متر"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "عند إنشاء مؤسسة تابعة لوزارة التربية الوطنية، فما الحد الأدنى للمسافة التي يجب أن تفصلها عن خط الضغط العالي؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Aile Danışmanlığı Merkezi Açmak için gerekli olan fiziksel özelliklerden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Muhakkak bekleme salonu olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن تكون هناك صالة انتظار بالضرورة."
+        },
+        {
+          "letter": "B",
+          "text": "En az 2 adet görüşme odası olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن تكون هناك غرفتا مقابلة على الأقل."
+        },
+        {
+          "letter": "C",
+          "text": "En az 750 kişi kapasiteli konferans salonu olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن تكون هناك قاعة مؤتمرات بسعة 750 شخصًا على الأقل."
+        },
+        {
+          "letter": "D",
+          "text": "Yönetici odası ya da odaları olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن يكون هناك مكتب أو مكاتب للمدير."
+        },
+        {
+          "letter": "E",
+          "text": "Hem çocukların kayıtlarının hem de kuruma ait resmi belgelerin depolanması için arşivin olması gerekmektedir.",
+          "images": [],
+          "text_ar": "يجب أن يوجد أرشيف لحفظ سجلات الأطفال والوثائق الرسمية الخاصة بالمؤسسة."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من الخصائص الفيزيائية اللازمة لفتح مركز إرشاد أسري؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ortaöğretim kurumlarının temel hedeflerinden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireysel çalışmaya özendirmek",
+          "images": [],
+          "text_ar": "التشجيع على العمل الفردي"
+        },
+        {
+          "letter": "B",
+          "text": "Öğrencinin gelişiminin desteklenmesi",
+          "images": [],
+          "text_ar": "دعم نمو الطالب"
+        },
+        {
+          "letter": "C",
+          "text": "Öğrencilere iyi düzeyde genel kültür bilgisinin kazandırılması",
+          "images": [],
+          "text_ar": "إكساب الطلاب مستوى جيدًا من المعرفة الثقافية العامة"
+        },
+        {
+          "letter": "D",
+          "text": "Düzenli çalışma becerisini kazandırmak",
+          "images": [],
+          "text_ar": "إكساب مهارة العمل المنتظم"
+        },
+        {
+          "letter": "E",
+          "text": "Farklı yabancı dil beceri ve kullanımını desteklemek",
+          "images": [],
+          "text_ar": "دعم مهارات اللغات الأجنبية المختلفة واستخدامها"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من الأهداف الأساسية لمؤسسات التعليم الثانوي؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Kaç yaşını doldurmuş çocuklar ebeveynlerin yazılı izni olmadan ilkokula kayıt yaptırabilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "48 aylık",
+          "images": [],
+          "text_ar": "48 شهرًا"
+        },
+        {
+          "letter": "B",
+          "text": "52 aylık",
+          "images": [],
+          "text_ar": "52 شهرًا"
+        },
+        {
+          "letter": "C",
+          "text": "58 aylık",
+          "images": [],
+          "text_ar": "58 شهرًا"
+        },
+        {
+          "letter": "D",
+          "text": "66 aylık",
+          "images": [],
+          "text_ar": "66 شهرًا"
+        },
+        {
+          "letter": "E",
+          "text": "69 aylık",
+          "images": [],
+          "text_ar": "69 شهرًا"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي الأطفال الذين أتموا كم شهرًا يمكنهم التسجيل في المدرسة الابتدائية دون إذن كتابي من الوالدين؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Milli Eğitim Bakanlığına bağlı olarak açılacak bir kurumun alkollü içecek satışı yapan yerlerden en az ne kadar uzakta olması gerekmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "50 metre",
+          "images": [],
+          "text_ar": "50 مترًا"
+        },
+        {
+          "letter": "B",
+          "text": "100 metre",
+          "images": [],
+          "text_ar": "100 متر"
+        },
+        {
+          "letter": "C",
+          "text": "200 metre",
+          "images": [],
+          "text_ar": "200 متر"
+        },
+        {
+          "letter": "D",
+          "text": "250 metre",
+          "images": [],
+          "text_ar": "250 مترًا"
+        },
+        {
+          "letter": "E",
+          "text": "500 metre",
+          "images": [],
+          "text_ar": "500 متر"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "على أي مسافة على الأقل يجب أن تكون المؤسسة التي ستُفتح تابعًا لوزارة التربية الوطنية من الأماكن التي تبيع المشروبات الكحولية؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Üniversite bünyesinde açılan ve 36-72 aylık çocuklara hem eğitimsel hem de gelişimsel destek veren okul öncesi kurumlara ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bağımsız Anaokulları",
+          "images": [],
+          "text_ar": "رياض الأطفال المستقلة"
+        },
+        {
+          "letter": "B",
+          "text": "İlkokula Bağlı Anaokulları",
+          "images": [],
+          "text_ar": "رياض الأطفال الملحقة بالمدرسة الابتدائية"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk Üniversiteleri",
+          "images": [],
+          "text_ar": "جامعات الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Bilim Sanat Okulları",
+          "images": [],
+          "text_ar": "مدارس العلوم والفنون"
+        },
+        {
+          "letter": "E",
+          "text": "Uygulama Anaokulları",
+          "images": [],
+          "text_ar": "رياض الأطفال التطبيقية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ماذا تُسمَّى مؤسسات ما قبل المدرسة التي تُنشأ داخل الجامعات وتقدم للأطفال بين 36 و72 شهرًا دعمًا تعليميًا ونمائيًا معًا؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Özel bir anaokulu açarken okulda en az kaç çocuğun olması gerekmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5 çocuk",
+          "images": [],
+          "text_ar": "5 أطفال"
+        },
+        {
+          "letter": "B",
+          "text": "10 çocuk",
+          "images": [],
+          "text_ar": "10 أطفال"
+        },
+        {
+          "letter": "C",
+          "text": "20 çocuk",
+          "images": [],
+          "text_ar": "20 طفلًا"
+        },
+        {
+          "letter": "D",
+          "text": "25 çocuk",
+          "images": [],
+          "text_ar": "25 طفلًا"
+        },
+        {
+          "letter": "E",
+          "text": "50 çocuk",
+          "images": [],
+          "text_ar": "50 طفلًا"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "عند فتح روضة أطفال خاصة، ما الحد الأدنى لعدد الأطفال الذين يجب أن يكونوا في المدرسة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Bir çocuk gelişimci olarak Özel Gereksinimli Çocuklar için bir ilkokul açmak istiyorsunuz. Yönetmeliğe göre açacağınız okulda en az kaç sınıfın olması gerekmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1 sınıf",
+          "images": [],
+          "text_ar": "صف واحد"
+        },
+        {
+          "letter": "B",
+          "text": "2 sınıf",
+          "images": [],
+          "text_ar": "صفان"
+        },
+        {
+          "letter": "C",
+          "text": "3 sınıf",
+          "images": [],
+          "text_ar": "3 صفوف"
+        },
+        {
+          "letter": "D",
+          "text": "4 sınıf",
+          "images": [],
+          "text_ar": "4 صفوف"
+        },
+        {
+          "letter": "E",
+          "text": "5 sınıf",
+          "images": [],
+          "text_ar": "5 صفوف"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "بصفتك أخصائي نمو الطفل، ترغب في إنشاء مدرسة ابتدائية للأطفال ذوي الاحتياجات الخاصة. وفقًا للائحة، فما الحد الأدنى لعدد الصفوف في المدرسة التي ستفتحها؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "1723ceed935a7788b92d8e088ea7c8b1bac94c31e08f1ad50f647e9becbf5e48"
+}

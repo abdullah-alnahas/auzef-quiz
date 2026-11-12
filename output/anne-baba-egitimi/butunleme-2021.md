@@ -3,7 +3,7 @@ course: ANNE BABA EĞİTİMİ
 exam: 2021 Bütünleme Soruları
 source_url: https://lolonolo.com/2021/10/29/anne-baba-egitimi-butunleme-2021-sorulari/
 question_count: 37
-scraped_at: 2026-11-12T11:32:22+03:00
+scraped_at: 2026-11-12T14:58:07+03:00
 ---
 
 ### Q1

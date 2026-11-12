@@ -19,7 +19,8 @@ CONFIG = ROOT / "config"
 JSONDIR = ROOT / "output/.cache/json"
 
 TYPE_TR = {"vize": "Vize", "final": "Final", "butunleme": "Bütünleme",
-           "yaz-okulu": "Yaz Okulu", "uc-ders": "Üç Ders"}
+           "yaz-okulu": "Yaz Okulu", "uc-ders": "Üç Ders", "unite": "Ünite",
+           "deneme": "Deneme"}
 
 
 def norm_label(s: str) -> str:
@@ -219,6 +220,12 @@ def is_compilation_body(questions: list) -> bool:
     return False
 
 
+def slugify_label(value: str) -> str:
+    """URL-safe slug for a mock/unit set, preserving its own label."""
+    folded = ascii_fold(value)
+    return re.sub(r"[^a-z0-9]+", "-", folded).strip("-") or "set"
+
+
 def strip_course(title: str, course: str) -> str:
     t = norm_label(title)
     c = norm_label(course)
@@ -259,23 +266,25 @@ def main() -> None:
             continue
 
         title = strip_course(d["page_title"], e["course"])
-        # A shared course page also lists exams for other programmes (e.g.
-        # "Anatomi (TDS)" for Tıbbi Dokümantasyon). The corpus is the child
-        # development programme, so a page that names another programme in its
-        # own title is out of scope rather than a defective exam.
-        if is_mock_page(d["page_title"]):
+        # Mock ("Deneme") and unit ("Ünite") sets are now part of the corpus
+        # when the course page explicitly lists them. The title guards below
+        # only reject *accidental* mocks/units cross-listed as real exams.
+        explicit_mock = bool(e.get("mock"))
+        explicit_unit = e.get("type") == "unite" or e.get("reason") == "unit"
+        if is_mock_page(d["page_title"]) and not explicit_mock:
             e.update({"status": "skipped_quality", "quality_reason": "mock_page",
                       "page_title": d["page_title"],
                       "question_count": d["question_count"]})
             out.append(e)
             continue
-        if is_unit_page(d["page_title"]):
+        if is_unit_page(d["page_title"]) and not explicit_unit:
             e.update({"status": "skipped_quality", "quality_reason": "unit_page",
                       "page_title": d["page_title"],
                       "question_count": d["question_count"]})
             out.append(e)
             continue
-        if is_other_programme(d["page_title"], e["course_slug"]):
+        if is_other_programme(d["page_title"], e["course_slug"]) \
+                and not (explicit_mock or explicit_unit):
             e.update({"status": "skipped_quality",
                       "quality_reason": "other_programme",
                       "page_title": d["page_title"],
@@ -284,30 +293,40 @@ def main() -> None:
             continue
         ttype = classify(title) or classify(e["label"]) or e["type"]
         tper = period(title) or e["period"] or "unknown"
+        if explicit_unit:
+            ttype = "unite"
+        elif explicit_mock:
+            ttype = e.get("type") or ttype
         # A "Vize Ve Final Soruları" page with no term is a unit-by-unit study
         # compilation, not a sitting of an exam. It spans many units with its
         # own numbering, so it is out of scope rather than a defective exam.
         # A term-less page with dozens of questions is a unit question bank,
         # not one sitting (e.g. "Final Soruları-1" with 91 questions).
-        if d["question_count"] > 60 and tper == "unknown":
+        if not (explicit_mock or explicit_unit) and d["question_count"] > 60 and tper == "unknown":
             e.update({"status": "skipped_quality", "quality_reason": "compilation",
                       "page_title": d["page_title"],
                       "question_count": d["question_count"]})
             out.append(e)
             continue
-        if is_compilation_title(title):
+        if not (explicit_mock or explicit_unit) and is_compilation_title(title):
             e.update({"status": "skipped_quality", "quality_reason": "compilation",
                       "page_title": d["page_title"],
                       "question_count": d["question_count"]})
             out.append(e)
             continue
-        # One consistent display form across courses; the slug carries identity.
-        # When the page names no term, do not invent "unknown": drop the period.
-        tname = f"{TYPE_TR.get(ttype, ttype.title())} Soruları"
-        display = tname if tper == "unknown" else f"{tper} {tname}"
-        slug = f"{ttype}-{tper}" if ttype != "unknown" else "exam"
+        # Mock/unit sets keep their own label ("2021 Vize Deneme Sınavı",
+        # "Ünite-1"). Real exams keep the normalised term form.
+        if explicit_mock or ttype == "unite":
+            display = norm_label(strip_course(d["page_title"], e["course"])) \
+                or norm_label(e["label"])
+            slug = slugify_label(display)
+        else:
+            tname = f"{TYPE_TR.get(ttype, ttype.title())} Soruları"
+            display = tname if tper == "unknown" else f"{tper} {tname}"
+            slug = f"{ttype}-{tper}" if ttype != "unknown" else "exam"
         e.update({"label": display, "type": ttype, "period": tper,
                   "slug": slug, "page_title": d["page_title"],
+                  "mock": bool(explicit_mock or is_mock_page(d["page_title"])),
                   "question_count": d["question_count"],
                   "answer_source": d["answer_source"],
                   "status": "parsed"})
@@ -338,7 +357,9 @@ def main() -> None:
             final.append(e)
             continue
         chash = sha256_json(d["questions"])
-        if chash in hashes:
+        # Mock and unit sets are deliberately kept even when they repeat a
+        # real exam: they are separate practice sets, not duplicate pages.
+        if not (e.get("mock") or ttype == "unite") and chash in hashes:
             e["status"] = "duplicate_content"
             e["duplicate_of"] = hashes[chash]
             final.append(e)
@@ -364,8 +385,9 @@ def main() -> None:
             e["quality_reason"] = f"same_questions_as:{prev}"
             final.append(e)
             continue
-        sigs[(e["course_slug"], sig)] = f"{e['course_slug']}/{e['slug']}"
-        hashes[chash] = f"{e['course_slug']}/{e['slug']}"
+        if not (e.get("mock") or ttype == "unite"):
+            sigs[(e["course_slug"], sig)] = f"{e['course_slug']}/{e['slug']}"
+            hashes[chash] = f"{e['course_slug']}/{e['slug']}"
         d["content_hash"] = sha256_json(d["questions"])
         if e["url"] in existing:
             carry_translations(d, existing[e["url"]])

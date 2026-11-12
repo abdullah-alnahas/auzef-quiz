@@ -1,0 +1,856 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Çocuk Gelişimi Uygulamaları -1 Vize Deneme Sınavı -2",
+  "exam_slug": "cocuk-gelisimi-uygulamalari-1-vize-deneme-sinavi-2",
+  "page_title": "Çocuk Gelişimi Uygulamaları -1 Vize Deneme Sınavı -2",
+  "source_url": "https://lolonolo.com/2023/09/27/cocuk-gelisimi-uygulamalari-1-vize-deneme-sinavi-2/",
+  "scraped_at": "2026-11-12T15:00:48+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aile Danışma Merkezlerinde görev alacak olan Çocuk Gelişimciler lisans mezuniyetleri haricinde hangi eğitim programını almak zorundadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitimde Drama Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج التدريب على الدراما في التعليم"
+        },
+        {
+          "letter": "B",
+          "text": "Aile Danışmanlığı Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تدريب الإرشاد الأسري"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk Ergen Psikopatoloji Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تدريب علم النفس المرضي للطفل والمراهق"
+        },
+        {
+          "letter": "D",
+          "text": "Oyun Terapi Programı",
+          "images": [],
+          "text_ar": "برنامج العلاج باللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk-Aile İletişim Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تدريب التواصل بين الطفل والأسرة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي برنامج تدريبي يجب أن يتلقاه أخصائيو نمو الطفل الذين سيعملون في مراكز الإرشاد الأسري إلى جانب شهادة البكالوريوس؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki verilen bilgilerden hangisi Okul Öncesi Eğitim Programı kapsamında doğru bir bilgi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğretmen merkezli bir programdır.",
+          "images": [],
+          "text_ar": "برنامج متمركز حول المعلم."
+        },
+        {
+          "letter": "B",
+          "text": "Oyun temelli bir programdır.",
+          "images": [],
+          "text_ar": "برنامج قائم على اللعب."
+        },
+        {
+          "letter": "C",
+          "text": "Esnek bir programdır.",
+          "images": [],
+          "text_ar": "برنامج مرن."
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirme çok yönlü olarak gerçekleştirilir.",
+          "images": [],
+          "text_ar": "يُجرى التقييم على نحو متعدد الأوجه."
+        },
+        {
+          "letter": "E",
+          "text": "Gelişim odaklı bir programdır.",
+          "images": [],
+          "text_ar": "برنامج متمركز حول النمو."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من المعلومات التالية غير صحيحة في نطاق برنامج تعليم ما قبل المدرسة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk odaklı danışmanlıkta hangi yaklaşım, çocuğun olumsuz düşünce kalıplarını ve davranışlarını tanımlamaya ve değiştirmeye yardımcı olmayı amaçlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun Terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب"
+        },
+        {
+          "letter": "B",
+          "text": "Çözüm Odaklı Kısa Terapi",
+          "images": [],
+          "text_ar": "العلاج القصير المتمركز حول الحل"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel Davranışçı Terapi",
+          "images": [],
+          "text_ar": "العلاج المعرفي السلوكي"
+        },
+        {
+          "letter": "D",
+          "text": "Sanat ve Ekspresif Terapiler",
+          "images": [],
+          "text_ar": "العلاجات الفنية والتعبيرية"
+        },
+        {
+          "letter": "E",
+          "text": "Öyküsel Aile Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد الأسري السردي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مقاربة في الإرشاد المتمركز حول الطفل تهدف إلى المساعدة في تحديد أنماط التفكير والسلوك السلبية لدى الطفل وتغييرها؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda verilen çocuğu tanıma ve değerlendirme süreçleri ile ilgili bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukları değerlendirirken çocuğun güçlü yanlarına odaklanmalıdır.",
+          "images": [],
+          "text_ar": "عند تقييم الأطفال ينبغي التركيز على جوانب القوة لديهم."
+        },
+        {
+          "letter": "B",
+          "text": "Hem çocuğun hem de ebeveynin izni olmalıdır.",
+          "images": [],
+          "text_ar": "يجب الحصول على موافقة كل من الطفل والوالدين."
+        },
+        {
+          "letter": "C",
+          "text": "Ortaya çıkan tanılar tüm herkesle rahatça paylaşılmalıdır.",
+          "images": [],
+          "text_ar": "يجب مشاركة التشخيصات الناتجة مع الجميع بحرية."
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirme yaparken tüm gelişim alanı bir bütün şekilde ele alınmalıdır.",
+          "images": [],
+          "text_ar": "عند التقييم ينبغي تناول مجالات النمو جميعها بوصفها كلًّا متكاملًا."
+        },
+        {
+          "letter": "E",
+          "text": "Hem formal hem de İnformal değerlendirmeyi birlikte yapmak sonucun güvenirliğini arttırır.",
+          "images": [],
+          "text_ar": "إجراء التقييم الرسمي وغير الرسمي معًا يزيد ثبات النتيجة."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من المعلومات التالية عن عمليات التعرف على الطفل وتقييمه غير صحيحة؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "“Duvall Aile Yaşam Döngüsü” modelini geliştiren kişi kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evelyn Patterson",
+          "images": [],
+          "text_ar": "إيفلين باترسون"
+        },
+        {
+          "letter": "B",
+          "text": "Sarah Riggio",
+          "images": [],
+          "text_ar": "سارة ريجيو"
+        },
+        {
+          "letter": "C",
+          "text": "Mikulincer & Shaver",
+          "images": [],
+          "text_ar": "ميكولينسر وشيفر"
+        },
+        {
+          "letter": "D",
+          "text": "E.G Duvall",
+          "images": [],
+          "text_ar": "إ. ج. دوفال"
+        },
+        {
+          "letter": "E",
+          "text": "Patterson & Repacholi",
+          "images": [],
+          "text_ar": "باترسون وريباشولي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "من هو الشخص الذي طوّر نموذج «دورة حياة الأسرة» لدوفال؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Sosyal Hizmet Merkezlerinin temel hedef kitlesi hangi grupları içerir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece kadınlar",
+          "images": [],
+          "text_ar": "النساء فقط"
+        },
+        {
+          "letter": "B",
+          "text": "Sadece yaşlılar",
+          "images": [],
+          "text_ar": "كبار السن فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnızca çocuklar",
+          "images": [],
+          "text_ar": "الأطفال فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Dezavantajlı Veya Riskli Gruplar",
+          "images": [],
+          "text_ar": "الفئات المحرومة أو المعرضة للخطر"
+        },
+        {
+          "letter": "E",
+          "text": "Sadece gençler",
+          "images": [],
+          "text_ar": "الشباب فقط"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الفئات تشملها الفئة المستهدفة الأساسية لمراكز الخدمة الاجتماعية؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Okul Öncesi Eğitim programında çocuklar okula geldiklerinde ilk uygulanan günlük akış aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun Zamanı",
+          "images": [],
+          "text_ar": "وقت اللعب"
+        },
+        {
+          "letter": "B",
+          "text": "Hoş Geldin Zamanı",
+          "images": [],
+          "text_ar": "وقت الترحيب"
+        },
+        {
+          "letter": "C",
+          "text": "Etkinlik Zamanı",
+          "images": [],
+          "text_ar": "وقت النشاط"
+        },
+        {
+          "letter": "D",
+          "text": "Kahvaltı Zamanı",
+          "images": [],
+          "text_ar": "وقت الفطور"
+        },
+        {
+          "letter": "E",
+          "text": "Güne Başlama Zamanı",
+          "images": [],
+          "text_ar": "وقت بدء اليوم"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في برنامج تعليم ما قبل المدرسة، أي مما يلي هو أول تسلسل يومي يُطبَّق عند وصول الأطفال إلى المدرسة؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi formal değerlendirme araçlarından birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hazırbulunuşluk Testleri",
+          "images": [],
+          "text_ar": "اختبارات الاستعداد"
+        },
+        {
+          "letter": "B",
+          "text": "Başarı Testleri",
+          "images": [],
+          "text_ar": "اختبارات التحصيل"
+        },
+        {
+          "letter": "C",
+          "text": "Gözlem Formları",
+          "images": [],
+          "text_ar": "استمارات الملاحظة"
+        },
+        {
+          "letter": "D",
+          "text": "Yetenek Testleri",
+          "images": [],
+          "text_ar": "اختبارات القدرات"
+        },
+        {
+          "letter": "E",
+          "text": "Gelişimsel Tarama Testleri",
+          "images": [],
+          "text_ar": "اختبارات المسح النمائي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من أدوات التقييم الرسمية؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "“Erken yaşta tanı konulan durumlar için alınacak önlemler, çocuğun gelişimi için büyük önem taşır.” ifadesi çocuğu tanıma ve değerlendirme sürecindeki uygulanacak olan hangi genel ilke kapsamına girmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Erkenlik İlkesi",
+          "images": [],
+          "text_ar": "مبدأ التبكير"
+        },
+        {
+          "letter": "B",
+          "text": "Bütünlük İlkesi",
+          "images": [],
+          "text_ar": "مبدأ التكامل"
+        },
+        {
+          "letter": "C",
+          "text": "Gizlilik İlkesi",
+          "images": [],
+          "text_ar": "مبدأ السرية"
+        },
+        {
+          "letter": "D",
+          "text": "İşbirliği İlkesi",
+          "images": [],
+          "text_ar": "مبدأ التعاون"
+        },
+        {
+          "letter": "E",
+          "text": "Yeterlilik İlkesi",
+          "images": [],
+          "text_ar": "مبدأ الكفاية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "«تكتسب التدابير المتخذة في الحالات التي تُشخَّص في سن مبكرة أهمية كبيرة لنمو الطفل.» تدخل العبارة أعلاه في نطاق أي مبدأ عام من المبادئ التي تُطبَّق في عملية التعرف على الطفل وتقييمه؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi TÜİK’in 2019 tarihli “Aile Yapısı Araştırması”na göre Türkiye’de en yaygın olan aile tipidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Geniş Aile",
+          "images": [],
+          "text_ar": "أسرة ممتدة"
+        },
+        {
+          "letter": "B",
+          "text": "Çekirdek Aile",
+          "images": [],
+          "text_ar": "أسرة نووية"
+        },
+        {
+          "letter": "C",
+          "text": "Tek Ebeveynli Aile",
+          "images": [],
+          "text_ar": "أسرة أحادية الوالد"
+        },
+        {
+          "letter": "D",
+          "text": "Birleşik Aile",
+          "images": [],
+          "text_ar": "أسرة مركبة"
+        },
+        {
+          "letter": "E",
+          "text": "Foster (Koruyucu) Aile",
+          "images": [],
+          "text_ar": "أسرة حاضنة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "وفقًا لبحث «بنية الأسرة» لعام 2019 الصادر عن المعهد التركي للإحصاء TÜİK، أي مما يلي هو نمط الأسرة الأكثر شيوعًا في تركيا؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi informal değerlendirme araçlarından birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ev Ödevleri",
+          "images": [],
+          "text_ar": "الواجبات المنزلية"
+        },
+        {
+          "letter": "B",
+          "text": "Görüşme Notları",
+          "images": [],
+          "text_ar": "ملاحظات المقابلات"
+        },
+        {
+          "letter": "C",
+          "text": "Gözlem Listeleri",
+          "images": [],
+          "text_ar": "قوائم الملاحظة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların Resimleri",
+          "images": [],
+          "text_ar": "رسوم الأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Ankara Gelişim Tarama Envanteri",
+          "images": [],
+          "text_ar": "قائمة أنقرة للمسح النمائي (AGTE)"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أدوات التقييم غير الرسمية؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğu tanıma ve değerlendirme amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk için gelişimsel destek programı hazırlamak",
+          "images": [],
+          "text_ar": "إعداد برنامج دعم نمائي للطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun gelişimsel takibini yapmak",
+          "images": [],
+          "text_ar": "إجراء المتابعة النمائية للطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun ilgi ve ihtiyaçlarını tespit etmek",
+          "images": [],
+          "text_ar": "تحديد ميول الطفل واحتياجاته"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun zayıf yönlerini belirlemek",
+          "images": [],
+          "text_ar": "تحديد جوانب الضعف عند الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların bireysel farklılıklarını ortaya çıkartmak",
+          "images": [],
+          "text_ar": "إظهار الفروق الفردية بين الأطفال"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من أهداف التعرف على الطفل وتقييمه؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi, sağlıksız aile özelliklerinden biri olarak gösterilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Etkili İletişim",
+          "images": [],
+          "text_ar": "التواصل الفعّال"
+        },
+        {
+          "letter": "B",
+          "text": "Duygusal Yabancılaşma",
+          "images": [],
+          "text_ar": "الاغتراب العاطفي"
+        },
+        {
+          "letter": "C",
+          "text": "Destekleyici Ortam",
+          "images": [],
+          "text_ar": "بيئة داعمة"
+        },
+        {
+          "letter": "D",
+          "text": "Güven",
+          "images": [],
+          "text_ar": "الثقة"
+        },
+        {
+          "letter": "E",
+          "text": "Esneklik",
+          "images": [],
+          "text_ar": "المرونة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي يُعد من خصائص الأسرة غير السليمة؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Bir çocuk evinde kalan çocuklar arasında en fazla kaç yaş aranmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1 Yaş",
+          "images": [],
+          "text_ar": "سنة واحدة"
+        },
+        {
+          "letter": "B",
+          "text": "2 Yaş",
+          "images": [],
+          "text_ar": "سنتان"
+        },
+        {
+          "letter": "C",
+          "text": "3 Yaş",
+          "images": [],
+          "text_ar": "3 سنوات"
+        },
+        {
+          "letter": "D",
+          "text": "4 Yaş",
+          "images": [],
+          "text_ar": "4 سنوات"
+        },
+        {
+          "letter": "E",
+          "text": "5 Yaş",
+          "images": [],
+          "text_ar": "5 سنوات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما أقصى فارق عمري يُشترط بين الأطفال المقيمين في بيت الأطفال؟",
+      "review": [
+        "q14.stem: صياغة المصدر («en fazla kaç yaş aranmaktadır») تحتمل الفارق العمري الأقصى أو الحد الأقصى للعمر؛ اخترت الفارق العمري."
+      ]
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aile Danışmanlığı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile danışmanı, ailelerin karşılaştığı sorunlara çözüm üreten bir uzmandır.",
+          "images": [],
+          "text_ar": "المرشد الأسري أخصائي يضع حلولًا للمشكلات التي تواجه الأسر."
+        },
+        {
+          "letter": "B",
+          "text": "Aile danışmanlığı sertifikası alabilmek için belirlenen bazı meslek grupları arasında Çocuk Gelişimi, Hemşirelik ve Sosyoloji bulunmaktadır.",
+          "images": [],
+          "text_ar": "من بين بعض الفئات المهنية المحددة التي يجوز لها الحصول على شهادة الإرشاد الأسري: نمو الطفل والتمريض وعلم الاجتماع."
+        },
+        {
+          "letter": "C",
+          "text": "Aile danışmanlarının ana görevi sadece aile içi sorunları değerlendirmek ve tedavi etmektir.",
+          "images": [],
+          "text_ar": "المهمة الرئيسية للمرشدين الأسريين هي فقط تقييم المشكلات داخل الأسرة وعلاجها."
+        },
+        {
+          "letter": "D",
+          "text": "Aile danışmanlığı eğitimi ve sertifikasyonu, Aile ve Sosyal Politikalar Bakanlığı'nın sorumluluğundadır.",
+          "images": [],
+          "text_ar": "يتولى تدريب المرشدين الأسريين ومنح شهاداتهم وزارة الأسرة والسياسات الاجتماعية."
+        },
+        {
+          "letter": "E",
+          "text": "Aile danışmanı, aile bireylerine bilgi ve beceri kazandırmayı amaçlayan eğitim programlarının düzenlenmesinde rol alır.",
+          "images": [],
+          "text_ar": "يشارك المرشد الأسري في تنظيم برامج تدريبية تهدف إلى إكساب أفراد الأسرة معارف ومهارات."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية عن الإرشاد الأسري غير صحيحة؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Sınıf içerisinde etkinlik yapan Belma Öğretmen çocuklara “Biraz önce okuduğumuz hikaye kitabında hangi kahramanlar vardı?” diye soruyor. Bu soru aşağıdaki sorulardan hangisine girmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Betimleyici Soru",
+          "images": [],
+          "text_ar": "سؤال وصفي"
+        },
+        {
+          "letter": "B",
+          "text": "Kazanıma Yönelik Soru",
+          "images": [],
+          "text_ar": "سؤال موجّه نحو مخرجات التعلم"
+        },
+        {
+          "letter": "C",
+          "text": "Duyuşsal Soru",
+          "images": [],
+          "text_ar": "سؤال وجداني"
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirici Soru",
+          "images": [],
+          "text_ar": "سؤال تقويمي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "تسأل المعلمة بلما، أثناء نشاط داخل الصف، الأطفال: «من كانت الشخصيات في كتاب القصة الذي قرأناه قبل قليل؟» إلى أي نوع من الأسئلة التالية ينتمي هذا السؤال؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk Destek Merkezlerinde çocuklara hangi eğitim programı uygulanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ANKA Çocuk Destek Programı",
+          "images": [],
+          "text_ar": "برنامج دعم الطفل ANKA"
+        },
+        {
+          "letter": "B",
+          "text": "DESTEK Çocuk Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج DESTEK لتعليم الأطفال"
+        },
+        {
+          "letter": "C",
+          "text": "FLOORTİME Çocuk Destek Programı",
+          "images": [],
+          "text_ar": "برنامج دعم الطفل فلورتايم"
+        },
+        {
+          "letter": "D",
+          "text": "Montessori Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج مونتيسوري التعليمي"
+        },
+        {
+          "letter": "E",
+          "text": "Terapötik Oyun Destek Programı",
+          "images": [],
+          "text_ar": "برنامج الدعم باللعب العلاجي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي برنامج تعليمي يُطبَّق على الأطفال في مراكز دعم الطفل؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "I. Programda yıllık, aylık ve günlük plan hazırlanmalıdır. II. Etkinlikler bilinmeyenden bilinene doğru ilerlemelidir. III. Köşeler yerine öğrenme merkezleri yer alır. Yukarıda verilen bilgilerden hangisi ya da hangileri Okul Öncesi Eğitim Programı için doğru verilen bir bilgidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "E",
+          "text": "I-II-III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. يجب إعداد خطة سنوية وشهرية ويومية في البرنامج. II. يجب أن تتقدم الأنشطة من المجهول إلى المعلوم. III. تُستبدل الزوايا بمراكز التعلم. أي من المعلومات المذكورة أعلاه أو أي منها صحيحة بشأن برنامج تعليم ما قبل المدرسة؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Türkiye’de şu an uygulanan Okul Öncesi Eğitim Programı hangi yılda geliştirilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2002",
+          "images": [],
+          "text_ar": "عام 2002"
+        },
+        {
+          "letter": "B",
+          "text": "2006",
+          "images": [],
+          "text_ar": "عام 2006"
+        },
+        {
+          "letter": "C",
+          "text": "2010",
+          "images": [],
+          "text_ar": "عام 2010"
+        },
+        {
+          "letter": "D",
+          "text": "2013",
+          "images": [],
+          "text_ar": "عام 2013"
+        },
+        {
+          "letter": "E",
+          "text": "2018",
+          "images": [],
+          "text_ar": "عام 2018"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "في أي عام طُوِّر برنامج تعليم ما قبل المدرسة المطبق حاليًا في تركيا؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Umut Evleri, hangi bakanlığın alt birimlerine bağlı olarak hizmet vermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Milli Eğitim Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة التربية الوطنية"
+        },
+        {
+          "letter": "B",
+          "text": "Sağlık Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الصحة"
+        },
+        {
+          "letter": "C",
+          "text": "İçişleri Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الداخلية"
+        },
+        {
+          "letter": "D",
+          "text": "Aile ve Sosyal Hizmetler Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الأسرة والخدمات الاجتماعية"
+        },
+        {
+          "letter": "E",
+          "text": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة العمل والضمان الاجتماعي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "إلى أي وزارة تتبع الوحدات الفرعية التي تقدّم بيوت الأمل خدماتها من خلالها؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "c8c41f74755238346815591ac40aced118c7429a91b93c608f4390437c1807b2"
+}

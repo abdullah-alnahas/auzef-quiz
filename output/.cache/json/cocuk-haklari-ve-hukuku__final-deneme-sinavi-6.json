@@ -1,0 +1,859 @@
+{
+  "course": "ÇOCUK HAKLARI VE HUKUKU",
+  "course_slug": "cocuk-haklari-ve-hukuku",
+  "exam": "Final Deneme Sınavı -6",
+  "exam_slug": "final-deneme-sinavi-6",
+  "page_title": "Çocuk Hakları ve Hukuku Final Deneme Sınavı -6",
+  "source_url": "https://lolonolo.com/2022/11/14/cocuk-haklari-ve-hukuku-final-deneme-sinavi-6/",
+  "scraped_at": "2026-11-12T15:00:54+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "A ile B evlidir. B, karısı A’yı, C ile aldatmıştır ve C hamile kalmıştır. 9 ay sonra doğum yapan C’nin çocuğunu koca B, karısı A’nın üzerine kaydettirmiştir. Bu durumu fark eden A dava açmak istemektedir. A’nın açması gereken davanın adı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nüfus kütüğündeki yanlış kaydın düzeltilmesi davası",
+          "images": [],
+          "text_ar": "دعوى تصحيح القيد الخاطئ في سجل النفوس"
+        },
+        {
+          "letter": "B",
+          "text": "Soybağının reddi davası",
+          "images": [],
+          "text_ar": "دعوى نفي النسب"
+        },
+        {
+          "letter": "C",
+          "text": "Boşanma davası",
+          "images": [],
+          "text_ar": "دعوى الطلاق"
+        },
+        {
+          "letter": "D",
+          "text": "Analık davası",
+          "images": [],
+          "text_ar": "دعوى الأمومة"
+        },
+        {
+          "letter": "E",
+          "text": "Babalık davası",
+          "images": [],
+          "text_ar": "دعوى الأبوة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "A و B متزوجان. خان B زوجته A مع C، وحملت C. وبعد 9 أشهر أنجبت C طفلًا، فسجّله الزوج B على أنه طفل زوجته A. وتريد A التي أدركت ذلك رفع دعوى. ما اسم الدعوى التي يجب أن ترفعها A؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "On iki yaşındaki Z’ye halası Bayan C oldukça pahalı bir bilgisayar hediye etmiştir. Henüz küçük olduğu için bilgisayar kullanmasını uygun görmeyen anne babası ise durumu sonradan öğrenmiştir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Söz konusu işlemin geçerliliği ile ilgili olarak aşağıdaki ifadelerden hangisi söylenebilir?",
+          "images": [],
+          "text_ar": "أي من العبارات التالية يمكن قولها بشأن صحة التصرف المذكور؟"
+        },
+        {
+          "letter": "B",
+          "text": "İşlem geçerlidir. Çünkü olayda Z herhangi bir borç altına girmemiştir. Sadece kazanımda bulunmuştur.",
+          "images": [],
+          "text_ar": "التصرف صحيح، لأن Z لم يلتزم بأي دين في الواقعة، بل حصل على كسب فقط."
+        },
+        {
+          "letter": "C",
+          "text": "İşlem geçerlidir. Fakat Z’nin anne ve babası bu işlemi yanı bağışlamayı iptal edebilirler.",
+          "images": [],
+          "text_ar": "التصرف صحيح، لكن والدي Z يمكنهما إبطال هذا التبرع الجانبي."
+        },
+        {
+          "letter": "D",
+          "text": "Z on iki yaşında olduğu için tam ehliyetsizdir. Dolayısıyla bu bağışlama işlemi her durumda geçersizdir.",
+          "images": [],
+          "text_ar": "Z فاقد الأهلية تمامًا لأنه في الثانية عشرة، ولذلك هذا التبرع باطل في جميع الأحوال."
+        },
+        {
+          "letter": "E",
+          "text": "Bağışlama tek taraflı bir hukuki işlem olduğu için işlem geçerlidir.",
+          "images": [],
+          "text_ar": "التصرف صحيح لأن التبرع تصرف قانوني منفرد."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أهدت السيدة C، عمة Z البالغ اثنتي عشرة سنة، حاسوبًا باهظ الثمن. أما والداه اللذان لم يجدا مناسبًا أن يستخدم حاسوبًا لأنه ما زال صغيرًا فقد علما بالأمر لاحقًا."
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki şıklardan hangisi soybağının reddi davasında davacı olabilecek kişilerden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Koca",
+          "images": [],
+          "text_ar": "الزوج"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk",
+          "images": [],
+          "text_ar": "الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Baba olduğu iddia edilen kişi",
+          "images": [],
+          "text_ar": "من يُدّعى أنه الأب"
+        },
+        {
+          "letter": "D",
+          "text": "Kocanın altsoyu",
+          "images": [],
+          "text_ar": "فروع الزوج"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun teyzesi",
+          "images": [],
+          "text_ar": "خالة الطفل"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من الخيارات التالية ليس من الأشخاص الذين يمكن أن يكونوا مدعين في دعوى نفي النسب؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sınırlı ehliyetsiz çocuğun bizzat yapabileceği işlemlerden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rekabet yasağı sözleşmesi yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد حظر المنافسة"
+        },
+        {
+          "letter": "B",
+          "text": "Vakıf kurmak",
+          "images": [],
+          "text_ar": "إنشاء وقف"
+        },
+        {
+          "letter": "C",
+          "text": "Önemli miktarda bağışlama sözleşmesi yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد تبرع بمبلغ كبير"
+        },
+        {
+          "letter": "D",
+          "text": "Karşılık olmaksızın kendisini borçtan kurtaran sözleşme yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد يعفيه من الدين دون مقابل"
+        },
+        {
+          "letter": "E",
+          "text": "Borçlu sıfatıyla kefalet sözleşmesi yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد كفالة بصفته مدينًا"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي من التصرفات التي يستطيع الطفل ناقص الأهلية القيام بها بنفسه؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "I. Tanıyan baba olmalıdır. II. Kanun tanıma hakkını anneye ve biyolojik babaya vermiştir. III. Çocuğun başka bir erkek ile soybağı ilişkisi olmamalıdır. Yukarıda tanımanın esasına ilişkin verilen şartlardan hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I و III"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. يجب أن يكون المُقِرّ أبًا.\nII. أعطى القانون حق الإقرار للأم وللأب البيولوجي.\nIII. يجب ألا يكون للطفل علاقة نسب مع رجل آخر.\nأي الشروط المذكورة أعلاه بشأن أساس الإقرار غير صحيح؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "I. Soybağının reddi, dava açmak suretiyle gerçekleşen bir hukuki sonuçtur. II. Soybağının reddi davasını kocanın açması durumunda davalı olarak sadece anne yer alır. III. Türk Medeni Kanunu, soybağının reddi davasını istenildiği zaman açılabilecek bir dava olarak görmüştür, bu yüzden herhangi bir hak düşürücü süreye tabi tutmamıştır. Yukarıda soybağının reddi davası ile ilgili verilen bilgilerden hangisi veya hangileri yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I و III"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. نفي النسب نتيجة قانونية تتحقق برفع الدعوى.\nII. إذا رفع الزوج دعوى نفي النسب، فإن المدعى عليها هي الأم فقط.\nIII. اعتبر القانون المدني التركي دعوى نفي النسب دعوى يمكن رفعها في أي وقت، ولذلك لم يخضعها لأي مدة سقوط.\nأي مما ورد أعلاه بشأن دعوى نفي النسب غير صحيح؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "I. Evlat edinilen küçük ise evlat edinen isterse küçüğe yeni bir isim verebilir. II. Evlat edinilen çocuk, evlat edinenin soyadını alır. III. Evlat edinme evlatlık ile evlat edinen arasında bir soybağı ilişkisi kurar. IV. Evlat edinen ile evlatlık veya onlardan biri ile diğerinin altsoyu ve eşi arasında kesin evlenme engeli doğmaz. Yukarıda evlat edinme ilişkisinin sonuçlarıyla ilgili verilen bilgilerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, II, III, IV",
+          "images": [],
+          "text_ar": "I و II و III و IV"
+        },
+        {
+          "letter": "B",
+          "text": "I, II, III",
+          "images": [],
+          "text_ar": "I و II و III"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "D",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III و IV"
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I و III"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. إذا كان المتبنَّى قاصرًا جاز للمتبنّي أن يمنحه اسمًا جديدًا إن أراد.\nII. يأخذ الطفل المتبنَّى اسم عائلة المتبنّي.\nIII. ينشئ التبني علاقة نسب بين المتبنَّى والمتبنّي.\nIV. لا ينشأ مانع مطلق من الزواج بين المتبنّي والمتبنَّى، أو بين أحدهما وفروع الآخر وزوجه.\nأي من المعلومات المذكورة أعلاه أو أيها صحيح بشأن آثار علاقة التبني؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki hususlardan hangisinde hak ehliyetinin değil, fiil ehliyetinin sınırlanması söz konusudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişinin kendi dinini belirleyebilme hakkı, ergin olmasına bağlıdır.",
+          "images": [],
+          "text_ar": "حق الشخص في تحديد دينه مرهون ببلوغه سن الرشد."
+        },
+        {
+          "letter": "B",
+          "text": "Kişi evli değilse, evlat edinebilmek için otuz yaşını doldurmuş olması gerekmektedir.",
+          "images": [],
+          "text_ar": "إذا لم يكن الشخص متزوجًا، يجب أن يكون قد أتم الثلاثين ليتمكن من التبني."
+        },
+        {
+          "letter": "C",
+          "text": "Kişinin ölüme bağlı tasarruflardan miras sözleşmesi yapabilmesi için on sekiz yaşını doldurmuş olması gerekmektedir.",
+          "images": [],
+          "text_ar": "لكي يتمكن الشخص من إبرام عقد الميراث من بين التصرفات المضافة إلى الموت، يجب أن يكون قد أتم الثامنة عشرة."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun ergin kılınması isteminde bulunabilmesi için on beş yaşını tamamlamış olması gerekmektedir.",
+          "images": [],
+          "text_ar": "لكي يتمكن الطفل من تقديم طلب إكسابه صفة الراشد، يجب أن يكون قد أتم الخامسة عشرة."
+        },
+        {
+          "letter": "E",
+          "text": "Kişinin geçerli olarak kefil olabilmesi için ergin olması, kısıtlı olmaması ve ayırt etme gücüne de sahip olması gerekir.",
+          "images": [],
+          "text_ar": "لكي يكون الشخص كفيلًا صحيحًا يجب أن يكون راشدًا وغير محجور ويتمتع بقدرة التمييز."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في أي من المسائل التالية يتعلق الأمر بتقييد أهلية الأداء لا أهلية الوجوب؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Evliliklerinde bazı anlaşmazlıklar yaşayan A ve B, 25.08.2011 tarihinde mahkeme kararıyla boşanırlar. 14.09.2011 tarihinde C ile tanışan A, 03.11.2011 tarihinde C ile nikah masasına oturur. 08.12.2011 tarihinde A hamile olduğunu öğrenir ve kocası C’ye hamile olduğunu söyler. Hamile olduğunu öğrendikten 4 ay sonra doğum sancıları gelen A, çocuğunu sağlıklı bir şekilde kucağına alır. A’nın doğum yaptığını öğrenen B, çocuğun boşandıkları tarihten itibaren 300 gün geçmeden önce doğduğunu, çocuğun 4 ay içinde tıbben bu kadar gelişim gösteremeyeceğini bu yüzden çocuğun babasının C olmadığını, kendisinin baba olduğunu iddia eder. Yukarıda verilen olay Türk Medeni Kanununda yer alan hangi kenar başlığında anlatılmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Babalık karinesi",
+          "images": [],
+          "text_ar": "قرينة الأبوة"
+        },
+        {
+          "letter": "B",
+          "text": "Küçüklerin evlat edinilmesi",
+          "images": [],
+          "text_ar": "تبني القاصرين"
+        },
+        {
+          "letter": "C",
+          "text": "Karinelerin çakışması",
+          "images": [],
+          "text_ar": "تعارض القرائن"
+        },
+        {
+          "letter": "D",
+          "text": "Evlilik içinde ana rahmine düşme",
+          "images": [],
+          "text_ar": "العلوق داخل الزواج"
+        },
+        {
+          "letter": "E",
+          "text": "Sonradan evlenme",
+          "images": [],
+          "text_ar": "الزواج اللاحق"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "تحدث بعض الخلافات في زواج A و B، فيُطلقان بحكم قضائي بتاريخ 25.08.2011. ويتعرف A في 14.09.2011 على C، ويجلس في 03.11.2011 مع C على مائدة الزفاف. وفي 08.12.2011 يعلم A أنه حامل ويخبر زوجها C بحمله. وبعد 4 أشهر من علمه بالحمل تأتيه آلام الولادة فيضع طفله سليمًا في حضنه. ويعلم B بأن A قد أنجبت، فيدّعي أن الطفل وُلد قبل انقضاء 300 يوم من تاريخ طلاقهما، وأن الطفل لا يمكن أن يكون قد نما طبيًا إلى هذا الحد في غضون 4 أشهر، ولذلك فإن والد الطفل ليس C بل هو والده. تحت أي عنوان جانبي في القانون المدني التركي وردت الواقعة المذكورة أعلاه؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "I. Evlat edinme kan bağı esasına dayanır. II. Evlat edinmedeki amaç, çocuk sahibi olamayan kişilerin çocuk sevgisini tadarak ana-baba olma sevincini yaşamaları, böylece soylarını devam ettirerek miraslarına kendi soylarına bırakabilmeleridir. III. Evlat edinmedeki amaç, evlilik dışı çocukların aile ilişkisi içerisinde yetişmelerinin sağlanması ve böylece kendilerine destek olunmasıdır. Yukarıda verilen bilgilerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I و II و III"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "C",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I و III"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. يقوم التبني على أساس النسب بالدم.\nII. الهدف من التبني هو أن يذوق الأشخاص الذين لا يستطيعون الإنجاب حلاوة محبة الطفل ويعيشوا فرحة الأبوة والأمومة، فيُديموا نسلهم ويتمكنوا من ترك ميراثهم لنسلهم.\nIII. الهدف من التبني هو ضمان نشأة الأطفال المولودين خارج الزواج في إطار علاقة أسرية، وتقديم الدعم لهم بذلك.\nأي من المعلومات المذكورة أعلاه أو أيها صحيح؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Ayırt etme gücüne sahip küçük, aşağıdaki işlemlerden hangisini yasal temsilcinin iznine gerek duymadan yapabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evlenmek",
+          "images": [],
+          "text_ar": "الزواج"
+        },
+        {
+          "letter": "B",
+          "text": "Miras sözleşmesi yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد الميراث"
+        },
+        {
+          "letter": "C",
+          "text": "İsmini değiştirmek",
+          "images": [],
+          "text_ar": "تغيير اسمه"
+        },
+        {
+          "letter": "D",
+          "text": "On beş yaşını da doldurmuş ise vasiyetname yapmak",
+          "images": [],
+          "text_ar": "عمل وصية إذا كان قد أتم الخامسة عشرة"
+        },
+        {
+          "letter": "E",
+          "text": "Spor arabasını satmak",
+          "images": [],
+          "text_ar": "بيع سيارة رياضية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "القاصر المتمتع بقدرة التمييز، أي من التصرفات التالية يستطيع القيام بها دون حاجة إلى إذن الممثل القانوني؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "I. Evli olmayan kişiler birlikte evlât edinebilirler. II. Eşlerin evlat edinebilmeleri için en az üç yıldır evli olmaları gerekir. III. Eşlerin evlat edinebilmeleri için her ikisinin de otuz yaşını doldurmuş olması gerekir. Yukarıda verilen bilgilerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "E",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I و II و III"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "I. يجوز للأشخاص غير المتزوجين أن يتبنوا معًا.\nII. يشترط لكي يتمكن الزوجان من التبني أن يكونا متزوجين منذ ثلاث سنوات على الأقل.\nIII. يشترط لكي يتمكن الزوجان من التبني أن يكون كل منهما قد أتم الثلاثين من عمره.\nأي من المعلومات المذكورة أعلاه أو أيها صحيح؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "I. Babalık davasında, iddiaların ispatlanması ile mahkeme babalığa hükmeder. II. Babanın ölmüş olması sebebiyle babalık davasının mirasçılara karşı açılması durumunda, mirasçılardan çocuk adına bakım nafakası istenmesi mümkün değildir., III. Baba olduğu iddia edilen kişiye karşı açılan dava olumlu sonuçlandıktan sonra, ana babadan kanunda belirlenen bazı giderlerini talep edebilir. Babalık davasının sonuçları ile ilgili yukarıda verilen ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hiçbiri",
+          "images": [],
+          "text_ar": "لا شيء"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "D",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III و IV"
+        },
+        {
+          "letter": "E",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I و IV"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "I. في دعوى الأبوة، يحكم القاضي بالأبوة عند إثبات الادعاءات.\nII. إذا رُفعت دعوى الأبوة على الورثة بسبب وفاة الأب، فلا يمكن طلب نفقة الإعالة من الورثة باسم الطفل.\nIII. بعد أن تنتهي الدعوى المرفوعة على من يُدّعى أنه الأب بنتيجة إيجابية، يمكن للطفل أن يطالب والديه ببعض نفقاته المحددة في القانون.\nأي من العبارات المذكورة أعلاه بشأن نتائج دعوى الأبوة غير صحيح؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "I. Tanıma, babanın nüfus memuruna veya mahkemeye yazılı başvurusu ya da resmi senette veya vasiyetnamesinde yapacağı beyanla olur. II. Tanıma vasiyetname ile yapılamaz. III. Tanıma, miras sözleşmesi şeklinde yapılan bir ölüme bağlı tasarruf ile yapılıyorsa yapan kişinin tam fiil ehliyetine sahip olması gerekir. Yukarıdakilerden hangisi tanımanın şekline ilişkin şartlar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "D",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I و III"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. يقع الإقرار بطلب كتابي من الأب إلى موظف النفوس أو إلى المحكمة، أو بإقرار في سند رسمي أو في وصية.\nII. لا يمكن الإقرار بوصية.\nIII. إذا كان الإقرار يتم بتصرف مضاف إلى الموت في صورة عقد ميراث، فيجب أن يكون المقرِّر تام الأهلية.\nأي مما ورد أعلاه ليس من شروط شكل الإقرار؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "I. Çocuk ile ana arasında soybağı sadece doğum yoluyla kurulabilir. II. Çocuk ile ana arasında soybağının kurulabilmesi için ananın evli olması gerekir. III. Babalık karinesi aksi ispat edilebilen adi bir karinedir. IV. Kocanın baba olarak kabul edilebilmesi için evliliğin geçerli bir evlilik olması gerekir. Yukarıda verilen ifadelerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "B",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III و IV"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "E",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I و II و III"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "I. لا يمكن أن ينشأ النسب بين الطفل وأمه إلا عن طريق الولادة.\nII. لكي ينشأ النسب بين الطفل وأمه يجب أن تكون الأم متزوجة.\nIII. قرينة الأبوة قرينة عادية قابلة لإثبات العكس.\nIV. لكي يُعتبر الزوج أبًا يجب أن يكون الزواج صحيحًا.\nأي مما ورد أعلاه صحيح؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yanlış bir bilgidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Soybağının reddi hakkı, mevcut olan bir hukuki ilişkiyi sona erdirdiği için bozucu yenilik doğuran bir hak niteliğindedir ve ancak dava yoluyla kullanılabilir.",
+          "images": [],
+          "text_ar": "حق نفي النسب، لأنه ينهي علاقة قانونية قائمة، يُعد حقًا إنشائيًا هادمًا ولا يُستخدم إلا عن طريق الدعوى."
+        },
+        {
+          "letter": "B",
+          "text": "Soybağının reddi davası açma hakkı kişiye sıkı sıkıya bağlı haklardan biri değildir.",
+          "images": [],
+          "text_ar": "حق رفع دعوى نفي النسب ليس من الحقوق المرتبطة ارتباطًا وثيقًا بالشخص."
+        },
+        {
+          "letter": "C",
+          "text": "Koca kısıtlı olsa bile ayırt etme gücüne sahip ise yasal temsilcisinin iznini almadan da soybağının reddi davasını açabilir.",
+          "images": [],
+          "text_ar": "للزوج، وإن كان محجورًا، إذا كان يتمتع بقدرة التمييز، أن يرفع دعوى نفي النسب دون الحصول على إذن ممثله القانوني."
+        },
+        {
+          "letter": "D",
+          "text": "Kocanın ayırt etme gücünden tamamen yoksun olması sebebi ile tam ehliyetsiz olması durumunda yasal temsilcinin koca adına soybağının reddi davasını açma hakkı yoktur.",
+          "images": [],
+          "text_ar": "إذا كان الزوج فاقد الأهلية تمامًا بسبب انعدام قدرته على التمييز، فلا يحق للممثل القانوني رفع دعوى نفي النسب نيابة عن الزوج."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun kocanın cinsel ilişkisinden olmasının imkânsız olduğunun ispatlanması ile kocanın baba olmadığı ispatlanabilir.",
+          "images": [],
+          "text_ar": "يمكن إثبات أن الزوج ليس الأب بإثبات استحالة أن يكون الطفل ناتجًا عن علاقة جنسية مع الزوج."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي معلومة خاطئة؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "I. Evlilik devam ederken veya evliliğin sona ermesinden başlayarak üçyüzbeş gün içerisinde doğan çocuğun babası kocadır. II. Doğal soybağı, çocuk ile anne ve babası arasındaki biyolojik olarak kendiliğinden kurulan ve kan bağı olarak ortaya çıkan soybağını ifade eder. III. Yapay soybağı, kan bağı esasına ve biyolojik-genetik temellere dayalı olmadan iki kişi arasında mahkeme kararı ile ortaya çıkan yapay bir bağdır. Yukarıda verilen bilgilerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "C",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I و III"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. يكون الزوج أبًا للطفل المولود أثناء استمرار الزواج أو خلال ثلاثمائة وخمسة أيام من انتهائه.\nII. النسب الطبيعي يعني النسب الذي ينشأ تلقائيًا بين الطفل وأمه وأبيه على أساس بيولوجي ويظهر كرابطة دم.\nIII. النسب الاصطناعي رابطة مصطنعة تنشأ بين شخصين بحكم قضائي دون أن تقوم على رابطة الدم والأساس البيولوجي الجيني.\nأي مما ورد أعلاه صحيح؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "I. Evlat edinme ile birlikte evlatlığın kendi ailesi ile soybağı ilişkisi sona erer. II. Ana ve babanın rızası, çocuğun doğumundan itibaren altı hafta geçmeden verilemez. III. Ana ve babanın küçüğün evlat edinilmesine yönelik rızaları kesin olmalıdır. Yukarıda çocuğun ana ve babasının çocuğun evlat edinilmesinde göstermesi gereken rızayla ilgili verilen bilgilerden hangisi veya hangileri yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I و III"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "I. ينتهي بالتبني رابط النسب بين المتبنَّى وأسرته الأصلية.\nII. لا يجوز إعطاء رضا الأم والأب قبل مرور ستة أسابيع من ولادة الطفل.\nIII. يجب أن يكون رضا الأم والأب بتبني القاصر رضا نهائيًا.\nأي من المعلومات المذكورة أعلاه أو أيها غير صحيح بشأن الرضا الذي يجب على والدي الطفل إبداؤه عند تبنيه؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Kişinin kendi fiilleri ve işlemleriyle kendi lehine haklar ve kendi aleyhine borçlar oluşturabilme iktidarına ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ayni hak",
+          "images": [],
+          "text_ar": "الحق العيني"
+        },
+        {
+          "letter": "B",
+          "text": "Fiil ehliyeti",
+          "images": [],
+          "text_ar": "أهلية الأداء"
+        },
+        {
+          "letter": "C",
+          "text": "Mutlak hak",
+          "images": [],
+          "text_ar": "الحق المطلق"
+        },
+        {
+          "letter": "D",
+          "text": "Hak ehliyeti",
+          "images": [],
+          "text_ar": "أهلية الوجوب"
+        },
+        {
+          "letter": "E",
+          "text": "Şahsa sıkı sıkıya bağlı haklar",
+          "images": [],
+          "text_ar": "الحقوق المرتبطة ارتباطًا وثيقًا بالشخص"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما اسم القدرة على إنشاء حقوق لصالح الشخص والتزامات عليه من خلال أفعاله وتصرفاته؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "I. Tam evlat edinmede, evlatlık ile evlat edinen arasında, evlilik içerisinde meydana gelen kan bağına dayanan soybağı ilişkisinin tamamen aynısı meydana gelir. II. Sınırlı evlat edinme de bir taraftan evlatlık ile asıl ailesi arasındaki ilişki sınırlı da olsa devam ederken diğer taraftan evlatlık ile evlat edinen arasında sınırlı bir hısımlık ilişkisi meydana gelir. III. Evlatlık, sadece evlat edinen ile hısım olur. Yukarıda verilen bilgilerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I و III"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "D",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I و II و III"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. في التبني التام تنشأ بين المتبنَّى والمتبنّي علاقة نسب مماثلة تمامًا لعلاقة النسب القائمة على الدم داخل الزواج.\nII. في التبني المحدود، تستمر من ناحية علاقة المتبنَّى بأسرته الأصلية وإن كانت محدودة، وتنشأ من ناحية أخرى بين المتبنَّى والمتبنّي علاقة قرابة محدودة.\nIII. لا يصبح المتبنَّى قريبًا إلا للمتبنّي.\nأي من المعلومات المذكورة أعلاه أو أيها صحيح؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "a1d0e3013fcc3c5bae1eee435c5ebaddaae3d7b2e573d99cc493a486e400ef98"
+}

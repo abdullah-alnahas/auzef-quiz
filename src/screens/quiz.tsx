@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from "preact/hooks";
+import { parseScope } from "../combine.ts";
 import { Badge, Dialog, RichTextView, TableView } from "../components.tsx";
 import {
   EmptyScopeError,
@@ -18,7 +19,7 @@ import {
   select,
   type SessionState,
 } from "../engine.ts";
-import { scopeKey, t } from "../i18n.ts";
+import { scopeGroupKey, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   deleteSession,
@@ -29,7 +30,7 @@ import {
   sessionKey,
   setBookmark,
 } from "../storage.ts";
-import type { Exam, Mode, Question, Scope } from "../types.ts";
+import type { Exam, Mode, Question, ScopeGroup } from "../types.ts";
 
 type Failure =
   | { kind: "offline" }
@@ -40,13 +41,13 @@ type QuizProps = ScreenProps & {
   mode: Mode;
   examId?: string;
   courseId?: string;
-  scope?: Scope;
+  scopeGroups?: ScopeGroup[];
 };
 
 export function Quiz({
   examId,
   courseId,
-  scope,
+  scopeGroups,
   mode,
   prefs,
   updatePref,
@@ -70,13 +71,13 @@ export function Quiz({
     void (async () => {
       try {
         let loaded: Exam;
-        if (courseId && scope) {
+        if (courseId && scopeGroups && scopeGroups.length > 0) {
           const course = manifest.courses.find((entry) => entry.courseId === courseId);
           if (!course) {
             if (alive) setFailure({ kind: "empty" });
             return;
           }
-          loaded = await loadCombinedExam(course, scope);
+          loaded = await loadCombinedExam(course, scopeGroups);
         } else if (examId) {
           loaded = await loadExam(examId);
         } else {
@@ -113,7 +114,7 @@ export function Quiz({
     return () => {
       alive = false;
     };
-  }, [examId, courseId, scope, mode, retryKey, manifest]);
+  }, [examId, courseId, scopeGroups, mode, retryKey, manifest]);
 
   useEffect(() => {
     if (!exam || !session) return;
@@ -208,7 +209,9 @@ export function Quiz({
   };
 
   const unanswered = exam.questions.filter((q) => !session.answers[q.id]).length;
-  const title = exam.scope ? t(prefs.lang, scopeKey(exam.scope)) : exam.exam;
+  const title = exam.scope
+    ? parseScope(exam.scope).map((group) => t(prefs.lang, scopeGroupKey(group))).join(" + ")
+    : exam.exam;
 
   const navState = (
     question: Question,
