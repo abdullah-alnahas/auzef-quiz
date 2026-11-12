@@ -129,6 +129,33 @@ test("home still loads when IndexedDB is unavailable", async ({ page }) => {
   await expect(page.locator(".banner-bad")).toContainText("تعذّر حفظ التقدّم");
 });
 
+test("results show an error, not an endless spinner, when storage fails", async ({
+  page,
+}) => {
+  await openCourse(page);
+  await page.locator(".exam-card").first().locator(".secondary").click();
+  await expect(page.locator(".choice").first()).toBeVisible();
+  await page.locator(".choice").first().click();
+  await page.getByRole("button", { name: "تسليم" }).first().click();
+  await page.locator("dialog .primary").click();
+  await expect(page.locator("h1")).toHaveText("النتيجة");
+
+  await page.addInitScript(() => {
+    const original = IDBObjectStore.prototype.getAll;
+    IDBObjectStore.prototype.getAll = function (
+      this: IDBObjectStore,
+      ...args: Parameters<IDBObjectStore["getAll"]>
+    ) {
+      if (this.name === "bookmarks") {
+        throw new DOMException("blocked", "UnknownError");
+      }
+      return original.apply(this, args);
+    };
+  });
+  await page.reload();
+  await expect(page.locator("main p.notice")).toHaveText("حدث خطأ");
+});
+
 test("results screen has no axe violations", async ({ page }) => {
   await openCourse(page);
   await page.locator(".exam-card").first().locator(".secondary").click();

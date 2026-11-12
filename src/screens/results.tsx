@@ -16,52 +16,74 @@ import type { Exam } from "../types.ts";
 
 type Filter = "all" | "incorrect" | "unanswered" | "bookmarked";
 
+/** Loading, failure and ready are the only reachable results states. */
+type LoadState =
+  | { kind: "loading" }
+  | { kind: "failed" }
+  | {
+      kind: "ready";
+      attempt: Attempt;
+      exam: Exam;
+      bookmarks: Set<number>;
+    };
+
 export function Results({
   attemptId,
   prefs,
   navigate,
   manifest,
 }: ScreenProps & { attemptId: number }) {
-  const [attempt, setAttempt] = useState<Attempt | null>(null);
-  const [exam, setExam] = useState<Exam | null>(null);
-  const [bookmarks, setBookmarks] = useState<Set<number>>(new Set());
+  const [state, setState] = useState<LoadState>({ kind: "loading" });
   const [filter, setFilter] = useState<Filter>("all");
-  const [failed, setFailed] = useState(false);
 
   useEffect(() => {
+    let alive = true;
+    setState({ kind: "loading" });
     void (async () => {
-      const stored = await getAttempt(attemptId);
-      if (!stored) {
-        setFailed(true);
-        return;
-      }
-      setAttempt(stored);
       try {
+        const stored = await getAttempt(attemptId);
+        if (!stored) {
+          if (alive) setState({ kind: "failed" });
+          return;
+        }
         let loaded: Exam;
         if (stored.scope) {
           const course = manifest.courses.find(
             (entry) => entry.courseId === stored.courseId,
           );
           if (!course) {
-            setFailed(true);
+            if (alive) setState({ kind: "failed" });
             return;
           }
           loaded = await loadCombinedExam(course, parseScope(stored.scope));
         } else {
           loaded = await loadExam(stored.examId);
         }
-        setExam(loaded);
+        const marks = await listBookmarks(stored.examId);
+        if (alive) {
+          setState({
+            kind: "ready",
+            attempt: stored,
+            exam: loaded,
+            bookmarks: new Set(marks.map((mark) => mark.number)),
+          });
+        }
       } catch {
-        setFailed(true);
-        return;
+        if (alive) setState({ kind: "failed" });
       }
-      const marks = await listBookmarks(stored.examId);
-      setBookmarks(new Set(marks.map((mark) => mark.number)));
     })();
+    return () => {
+      alive = false;
+    };
   }, [attemptId, manifest]);
 
-  if (failed) return <p class="notice">{t(prefs.lang, "error")}</p>;
-  if (!attempt || !exam) return <p class="muted">{t(prefs.lang, "loading")}</p>;
+  if (state.kind === "failed") {
+    return <p class="notice">{t(prefs.lang, "error")}</p>;
+  }
+  if (state.kind === "loading") {
+    return <p class="muted">{t(prefs.lang, "loading")}</p>;
+  }
+  const { attempt, exam, bookmarks } = state;
 
   const result = score(exam, attempt.answers);
   const shown = exam.questions.filter((question) => {
