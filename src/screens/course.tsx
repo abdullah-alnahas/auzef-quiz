@@ -67,14 +67,17 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
     groups.set(key, [...(groups.get(key) ?? []), exam]);
   }
 
-  const download = async (exam: ExamSummary): Promise<void> => {
+  /** Returns false when this exam failed, so a bulk run can report it. */
+  const download = async (exam: ExamSummary): Promise<boolean> => {
     setError(false);
     try {
       await downloadExam(exam, (value) =>
         setProgress((current) => ({ ...current, [exam.examId]: value })),
       );
+      return true;
     } catch {
       setError(true);
+      return false;
     } finally {
       setProgress((current) => {
         const next = { ...current };
@@ -87,10 +90,17 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
 
   const downloadAll = async (): Promise<void> => {
     setBusy(true);
-    for (const exam of course.exams) {
-      if ((await courseStatus([exam]))[exam.examId] === "complete") continue;
-      await download(exam);
+    setError(false);
+    let failed = false;
+    try {
+      for (const exam of course.exams) {
+        if ((await courseStatus([exam]))[exam.examId] === "complete") continue;
+        failed = !(await download(exam)) || failed;
+      }
+    } catch {
+      failed = true;
     }
+    setError(failed);
     setBusy(false);
   };
 

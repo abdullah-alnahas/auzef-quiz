@@ -91,6 +91,29 @@ test.describe("download failures", () => {
     await card.getByRole("button", { name: "تنزيل الامتحان" }).click();
     await expect(card.locator(".pill-complete")).toBeVisible();
   });
+
+  test("a bulk download keeps reporting an earlier failure", async ({ page }) => {
+    await openCourse(page);
+    let failed = false;
+    await page.route("**/data/exams/*.json", async (route) => {
+      if (!failed) {
+        failed = true;
+        await route.abort();
+        return;
+      }
+      await route.continue();
+    });
+
+    const cards = page.locator(".exam-card");
+    const total = await cards.count();
+    expect(total).toBeGreaterThan(1);
+
+    await page.getByRole("button", { name: "تنزيل المقرر" }).click();
+    await expect(page.locator(".exam-card .pill-complete")).toHaveCount(total - 1, {
+      timeout: 20_000,
+    });
+    await expect(page.locator(".notice-bad")).toBeVisible();
+  });
 });
 
 test("home still loads when IndexedDB is unavailable", async ({ page }) => {
