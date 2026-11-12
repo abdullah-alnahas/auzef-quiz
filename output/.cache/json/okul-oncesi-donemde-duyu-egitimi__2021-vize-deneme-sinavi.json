@@ -19,30 +19,36 @@
         {
           "letter": "A",
           "text": "Düşük algıya sahip",
-          "images": []
+          "images": [],
+          "text_ar": "ذو إدراك منخفض"
         },
         {
           "letter": "B",
           "text": "Uyum bozukluğuna sahip",
-          "images": []
+          "images": [],
+          "text_ar": "ذو اضطراب في التكيّف"
         },
         {
           "letter": "C",
           "text": "Duyusal kaçınma",
-          "images": []
+          "images": [],
+          "text_ar": "التجنب الحسي"
         },
         {
           "letter": "D",
           "text": "Yüksek algılamaya sahip",
-          "images": []
+          "images": [],
+          "text_ar": "ذو إدراك مرتفع"
         },
         {
           "letter": "E",
           "text": "Duyusal duyarlılık",
-          "images": []
+          "images": [],
+          "text_ar": "الحساسية الحسية"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "stem_ar": "I. قد لا يدركون ما يدركه الآخرون.\nII. قد لا يستطيعون تكييف أنفسهم مع المواقف والمثيرات الجديدة.\nIII. كثيرًا ما ينسون المعلومات التي اكتسبوها.\nأي من سمات الشخصية الحسية وردت خصائصها أعلاه؟"
     },
     {
       "n": 2,
@@ -54,30 +60,36 @@
         {
           "letter": "A",
           "text": "İşitme",
-          "images": []
+          "images": [],
+          "text_ar": "السمع"
         },
         {
           "letter": "B",
           "text": "Koklama",
-          "images": []
+          "images": [],
+          "text_ar": "الشم"
         },
         {
           "letter": "C",
           "text": "Tatma",
-          "images": []
+          "images": [],
+          "text_ar": "التذوق"
         },
         {
           "letter": "D",
           "text": "Dokunma",
-          "images": []
+          "images": [],
+          "text_ar": "اللمس"
         },
         {
           "letter": "E",
           "text": "Görme",
-          "images": []
+          "images": [],
+          "text_ar": "البصر"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "stem_ar": "القوقعة وعضو كورتي من الأعضاء الموجودة في أي عضو حسي؟"
     },
     {
       "n": 3,
@@ -89,30 +101,36 @@
         {
           "letter": "A",
           "text": "Oksipital lob",
-          "images": []
+          "images": [],
+          "text_ar": "الفص القذالي"
         },
         {
           "letter": "B",
           "text": "Parietal lob",
-          "images": []
+          "images": [],
+          "text_ar": "الفص الجداري"
         },
         {
           "letter": "C",
           "text": "Serebellum",
-          "images": []
+          "images": [],
+          "text_ar": "المخيخ"
         },
         {
           "letter": "D",
           "text": "Temporal lob",
-          "images": []
+          "images": [],
+          "text_ar": "الفص الصدغي"
         },
         {
           "letter": "E",
           "text": "Frontal lob",
-          "images": []
+          "images": [],
+          "text_ar": "الفص الجبهي"
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "stem_ar": "في أي جزء من الدماغ تندمج المعلومات المستمدة من الحواس؟"
     },
     {
       "n": 4,
@@ -124,30 +142,36 @@
         {
           "letter": "A",
           "text": "Koklama",
-          "images": []
+          "images": [],
+          "text_ar": "الشم"
         },
         {
           "letter": "B",
           "text": "Tatma",
-          "images": []
+          "images": [],
+          "text_ar": "التذوق"
         },
         {
           "letter": "C",
           "text": "Denge",
-          "images": []
+          "images": [],
+          "text_ar": "التوازن"
         },
         {
           "letter": "D",
           "text": "İşitme",
-          "images": []
+          "images": [],
+          "text_ar": "السمع"
         },
         {
           "letter": "E",
           "text": "Görme",
-          "images": []
+          "images": [],
+          "text_ar": "البصر"
         }
       ],
-      "answer": "E"
+      "answer": "E",
+      "stem_ar": "حين يحاول طفل في مرحلة ما قبل المدرسة معرفة جنس أحد الأشخاص الذين يقابله، أي حاسة يستخدم أولًا من الناحية الحسية؟"
     },
     {
       "n": 5,
@@ -159,30 +183,36 @@
         {
           "letter": "A",
           "text": "Görme",
-          "images": []
+          "images": [],
+          "text_ar": "البصر"
         },
         {
           "letter": "B",
           "text": "Hareket",
-          "images": []
+          "images": [],
+          "text_ar": "الحركة"
         },
         {
           "letter": "C",
           "text": "İşitme",
-          "images": []
+          "images": [],
+          "text_ar": "السمع"
         },
         {
           "letter": "D",
           "text": "Dokunma",
-          "images": []
+          "images": [],
+          "text_ar": "اللمس"
         },
         {
           "letter": "E",
           "text": "Denge",
-          "images": []
+          "images": [],
+          "text_ar": "التوازن"
         }
       ],
-      "answer": "E"
+      "answer": "E",
+      "stem_ar": "قدرة الطفل على إبقاء جسده ورقبته ورأسه مستقيمة في مواجهة الجاذبية ترتبط بأي حاسة؟"
     },
     {
       "n": 6,
@@ -194,30 +224,36 @@
         {
           "letter": "A",
           "text": "Göz kontağı kurma",
-          "images": []
+          "images": [],
+          "text_ar": "إقامة التواصل البصري"
         },
         {
           "letter": "B",
           "text": "Ses tonlarını ayırt etme",
-          "images": []
+          "images": [],
+          "text_ar": "تمييز نبرات الصوت"
         },
         {
           "letter": "C",
           "text": "Anne kokusunu arama",
-          "images": []
+          "images": [],
+          "text_ar": "البحث عن رائحة الأم"
         },
         {
           "letter": "D",
           "text": "Gördüklerini hatırlama",
-          "images": []
+          "images": [],
+          "text_ar": "تذكّر ما يراه"
         },
         {
           "letter": "E",
           "text": "Isı değişimini algılama",
-          "images": []
+          "images": [],
+          "text_ar": "إدراك تغيّر الحرارة"
         }
       ],
-      "answer": "E"
+      "answer": "E",
+      "stem_ar": "في التربية الحسية للرضع، أي المؤشرات التالية يمكننا اعتماده من أجل حاسة اللمس؟"
     },
     {
       "n": 7,
@@ -229,30 +265,36 @@
         {
           "letter": "A",
           "text": "işitsel olarak öğrenen bir çocuktur",
-          "images": []
+          "images": [],
+          "text_ar": "طفلة تتعلم سمعيًّا"
         },
         {
           "letter": "B",
           "text": "Harekete duyarlı bir çocuktur",
-          "images": []
+          "images": [],
+          "text_ar": "طفلة حساسة للحركة"
         },
         {
           "letter": "C",
           "text": "Dikkatini odaklamada beceriklidir",
-          "images": []
+          "images": [],
+          "text_ar": "بارعة في تركيز انتباهها"
         },
         {
           "letter": "D",
           "text": "Bilişsel olarak üst düzey becerisi vardır",
-          "images": []
+          "images": [],
+          "text_ar": "لديها مهارات معرفية عالية المستوى"
         },
         {
           "letter": "E",
           "text": "Seslere duyarlılığı vardır.",
-          "images": []
+          "images": [],
+          "text_ar": "لديها حساسية تجاه الأصوات."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "stem_ar": "أيجان، البالغة خمس سنوات، تجد صعوبة في المشاركة في أنشطة صف الروضة. فكل حركة داخل الصف أو خارجه تؤدي على وجه الخصوص إلى تشتّت انتباهها. في ضوء هذه المعلومات، أي مما يلي يمكن قوله عن أيجان؟"
     },
     {
       "n": 8,
@@ -264,30 +306,36 @@
         {
           "letter": "A",
           "text": "İşitme",
-          "images": []
+          "images": [],
+          "text_ar": "السمع"
         },
         {
           "letter": "B",
           "text": "Dokunma",
-          "images": []
+          "images": [],
+          "text_ar": "اللمس"
         },
         {
           "letter": "C",
           "text": "Koklama",
-          "images": []
+          "images": [],
+          "text_ar": "الشم"
         },
         {
           "letter": "D",
           "text": "Tat alma",
-          "images": []
+          "images": [],
+          "text_ar": "التذوق"
         },
         {
           "letter": "E",
           "text": "Görme",
-          "images": []
+          "images": [],
+          "text_ar": "البصر"
         }
       ],
-      "answer": "E"
+      "answer": "E",
+      "stem_ar": "أي حاسة تُعالَج في الفص القذالي من الدماغ؟"
     },
     {
       "n": 9,
@@ -299,30 +347,36 @@
         {
           "letter": "A",
           "text": "Koklama",
-          "images": []
+          "images": [],
+          "text_ar": "الشم"
         },
         {
           "letter": "B",
           "text": "Tatma",
-          "images": []
+          "images": [],
+          "text_ar": "التذوق"
         },
         {
           "letter": "C",
           "text": "İşitme",
-          "images": []
+          "images": [],
+          "text_ar": "السمع"
         },
         {
           "letter": "D",
           "text": "Görme",
-          "images": []
+          "images": [],
+          "text_ar": "البصر"
         },
         {
           "letter": "E",
           "text": "Dokunma",
-          "images": []
+          "images": [],
+          "text_ar": "اللمس"
         }
       ],
-      "answer": "E"
+      "answer": "E",
+      "stem_ar": "أثناء حصة اللعب في فناء المدرسة، يلعب فرقان في الغالب في منطقة الرمل. يمرّر يديه في التراب، ويفحص الحجارة ذات الملمس المختلف التي يجدها، ويفرّق بين الحجارة الخشنة والناعمة.\nبالنظر إلى الحالة المذكورة أعلاه، أي سمة حسية يمكن القول إنها سائدة عند فرقان؟"
     },
     {
       "n": 10,
@@ -334,30 +388,36 @@
         {
           "letter": "A",
           "text": "Anne karnından itibaren",
-          "images": []
+          "images": [],
+          "text_ar": "منذ وجوده في رحم الأم"
         },
         {
           "letter": "B",
           "text": "Yetişkinlikte",
-          "images": []
+          "images": [],
+          "text_ar": "في مرحلة الرشد"
         },
         {
           "letter": "C",
           "text": "Bir yaş civarında",
-          "images": []
+          "images": [],
+          "text_ar": "في نحو السنة الأولى"
         },
         {
           "letter": "D",
           "text": "Doğumla beraber",
-          "images": []
+          "images": [],
+          "text_ar": "مع الولادة"
         },
         {
           "letter": "E",
           "text": "Üç yaş civarında",
-          "images": []
+          "images": [],
+          "text_ar": "في نحو الثالثة من العمر"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "stem_ar": "منذ متى تبدأ الحواس تُستخدم استخدامًا نشطًا في حياة الفرد؟"
     },
     {
       "n": 11,
@@ -369,30 +429,36 @@
         {
           "letter": "A",
           "text": "Pasif dokunma",
-          "images": []
+          "images": [],
+          "text_ar": "اللمس السلبي"
         },
         {
           "letter": "B",
           "text": "Dolaylı dokunma",
-          "images": []
+          "images": [],
+          "text_ar": "اللمس غير المباشر"
         },
         {
           "letter": "C",
           "text": "Aktif dokunma",
-          "images": []
+          "images": [],
+          "text_ar": "اللمس النشط"
         },
         {
           "letter": "D",
           "text": "Doğrudan dokunma",
-          "images": []
+          "images": [],
+          "text_ar": "اللمس المباشر"
         },
         {
           "letter": "E",
           "text": "Etkin dokunma",
-          "images": []
+          "images": [],
+          "text_ar": "اللمس الفعّال"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "stem_ar": "الإحساس بالأشياء وتحريكها دون لمسها باليد يُسمّى أي نوع من اللمس؟"
     },
     {
       "n": 12,
@@ -404,30 +470,36 @@
         {
           "letter": "A",
           "text": "Tuzlu tatlar",
-          "images": []
+          "images": [],
+          "text_ar": "الطعوم المالحة"
         },
         {
           "letter": "B",
           "text": "Ekşi tatlar",
-          "images": []
+          "images": [],
+          "text_ar": "الطعوم الحامضة"
         },
         {
           "letter": "C",
           "text": "Acı tatlar",
-          "images": []
+          "images": [],
+          "text_ar": "الطعوم المرة"
         },
         {
           "letter": "D",
           "text": "Soğuk tatlar",
-          "images": []
+          "images": [],
+          "text_ar": "الطعوم الباردة"
         },
         {
           "letter": "E",
           "text": "Nötr tatlar",
-          "images": []
+          "images": [],
+          "text_ar": "الطعوم المحايدة"
         }
       ],
-      "answer": "D"
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من الطعوم التي يستطيع الأطفال حديثو الولادة تمييزها؟"
     },
     {
       "n": 13,
@@ -439,30 +511,36 @@
         {
           "letter": "A",
           "text": "Banyoda tek bir pozisyon belirlemek",
-          "images": []
+          "images": [],
+          "text_ar": "تحديد وضعية واحدة في الحمام"
         },
         {
           "letter": "B",
           "text": "Tek başına oturabileceği ortam sağlamak",
-          "images": []
+          "images": [],
+          "text_ar": "توفير بيئة يستطيع الجلوس فيها بمفرده"
         },
         {
           "letter": "C",
           "text": "Hareket oyununda belirgin örüntüler kurma",
-          "images": []
+          "images": [],
+          "text_ar": "بناء أنماط واضحة في لعبة الحركة"
         },
         {
           "letter": "D",
           "text": "Giysileri çocuğun görüş hizasındaki çekmecelere yerleştirmek",
-          "images": []
+          "images": [],
+          "text_ar": "وضع الملابس في أدراج على مستوى نظر الطفل"
         },
         {
           "letter": "E",
           "text": "Halka açık alanda özgürlük tanımak",
-          "images": []
+          "images": [],
+          "text_ar": "منحه الحرية في الأماكن العامة"
         }
       ],
-      "answer": "E"
+      "answer": "E",
+      "stem_ar": "علي في حياته اليومية ينزعج انزعاجًا مفرطًا من الحركات المحيطة به، ويستجيب بالبكاء للحركات المفاجئة في البيئات التي لا يعرفها. وفقًا لذلك، وبحسب النموذج الذي ينتمي إليه علي، أي مما يلي ليس من الأمور التي يمكن القيام بها لدعم الطفل؟"
     },
     {
       "n": 14,
@@ -474,30 +552,36 @@
         {
           "letter": "A",
           "text": "Proprioseptif",
-          "images": []
+          "images": [],
+          "text_ar": "الحس العميق"
         },
         {
           "letter": "B",
           "text": "Wernikülasyon",
-          "images": []
+          "images": [],
+          "text_ar": "ورنيكولاسيون"
         },
         {
           "letter": "C",
           "text": "Retrosentif",
-          "images": []
+          "images": [],
+          "text_ar": "ريتروسنتيف"
         },
         {
           "letter": "D",
           "text": "Vestibüler",
-          "images": []
+          "images": [],
+          "text_ar": "الدهليزي"
         },
         {
           "letter": "E",
           "text": "Brokal",
-          "images": []
+          "images": [],
+          "text_ar": "بروكال"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "stem_ar": "أي حاسة تُعرف أيضًا بأنها الحاسة التي تُدرك وضعية الجسم دون تحريك الأطراف، وهي خارج الحواس الخمس؟"
     },
     {
       "n": 15,
@@ -509,30 +593,36 @@
         {
           "letter": "A",
           "text": "Sabah uyandığında Emine'nin çoktan evden çıkmış olduğunu fark ettim",
-          "images": []
+          "images": [],
+          "text_ar": "عندما استيقظت في الصباح أدركت أن أمينة كانت قد خرجت من البيت منذ وقت"
         },
         {
           "letter": "B",
           "text": "Bazı günler kendimi mutsuz hissediyorum",
-          "images": []
+          "images": [],
+          "text_ar": "في بعض الأيام أشعر بعدم السعادة"
         },
         {
           "letter": "C",
           "text": "Hasan hayatımda tanığım en sıcakkanlı insandı",
-          "images": []
+          "images": [],
+          "text_ar": "كان حسن أكثر الناس دماثة عرفتهم في حياتي"
         },
         {
           "letter": "D",
           "text": "Büyük bir çaba göstermeme rağmen bu konuları bir türlü anlayamıyorum",
-          "images": []
+          "images": [],
+          "text_ar": "على الرغم من بذلي جهدًا كبيرًا، لا أستطيع فهم هذه الموضوعات بأي حال"
         },
         {
           "letter": "E",
           "text": "Yumuşak ses tonu ve görünümüyle bizi etkiledi",
-          "images": []
+          "images": [],
+          "text_ar": "لقد أثّر فينا بنبرة صوته الناعمة ومظهره"
         }
       ],
-      "answer": "E"
+      "answer": "E",
+      "stem_ar": "أي العبارات التالية إذا قالها فرد قد يدل على أنه أكثر تأثرًا بالحواس من غيره؟"
     },
     {
       "n": 16,
@@ -544,30 +634,36 @@
         {
           "letter": "A",
           "text": "10 ay",
-          "images": []
+          "images": [],
+          "text_ar": "10 أشهر"
         },
         {
           "letter": "B",
           "text": "18 ay",
-          "images": []
+          "images": [],
+          "text_ar": "18 شهرًا"
         },
         {
           "letter": "C",
           "text": "3 ay",
-          "images": []
+          "images": [],
+          "text_ar": "3 أشهر"
         },
         {
           "letter": "D",
           "text": "1 ay",
-          "images": []
+          "images": [],
+          "text_ar": "شهر واحد"
         },
         {
           "letter": "E",
           "text": "5 ay",
-          "images": []
+          "images": [],
+          "text_ar": "5 أشهر"
         }
       ],
-      "answer": "E"
+      "answer": "E",
+      "stem_ar": "في أي شهر تقريبًا يستطيع الرضع تحديد مصدر الصوت وتمييز نبرات الصوت؟"
     },
     {
       "n": 17,
@@ -579,30 +675,36 @@
         {
           "letter": "A",
           "text": "Duyu farkındalığı",
-          "images": []
+          "images": [],
+          "text_ar": "الوعي الحسي"
         },
         {
           "letter": "B",
           "text": "Duyusal arayış",
-          "images": []
+          "images": [],
+          "text_ar": "البحث الحسي"
         },
         {
           "letter": "C",
           "text": "Duyusal duyarlılık",
-          "images": []
+          "images": [],
+          "text_ar": "الحساسية الحسية"
         },
         {
           "letter": "D",
           "text": "Düşük algılama",
-          "images": []
+          "images": [],
+          "text_ar": "الإدراك المنخفض"
         },
         {
           "letter": "E",
           "text": "Duyusal kaçınma",
-          "images": []
+          "images": [],
+          "text_ar": "التجنب الحسي"
         }
       ],
-      "answer": "E"
+      "answer": "E",
+      "stem_ar": "يُنصح بتطبيق أنشطة موجهة إلى الإدراك البصري، مثل عدم وضع ألعاب الحمّام ووضع نوع واحد من الطعام في الطبق، وفق أي نموذج؟"
     },
     {
       "n": 18,
@@ -614,30 +716,36 @@
         {
           "letter": "A",
           "text": "Üç yaş civarında",
-          "images": []
+          "images": [],
+          "text_ar": "في نحو الثالثة من العمر"
         },
         {
           "letter": "B",
           "text": "Doğumla beraber",
-          "images": []
+          "images": [],
+          "text_ar": "مع الولادة"
         },
         {
           "letter": "C",
           "text": "Anne karnında",
-          "images": []
+          "images": [],
+          "text_ar": "في رحم الأم"
         },
         {
           "letter": "D",
           "text": "Ergenlikte",
-          "images": []
+          "images": [],
+          "text_ar": "في المراهقة"
         },
         {
           "letter": "E",
           "text": "Bir yaş civarında",
-          "images": []
+          "images": [],
+          "text_ar": "في نحو السنة الأولى"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "stem_ar": "نيل طفلة وُلدت بصحة جيدة. وهي تدرك ما تراه وتسمعه وما تلمسه وتتذوقه في محيطها، وتستخدمه استخدامًا فعّالًا في حياتها. منذ أي عملية نمائية تبدأ نيل استخدام حواسها بشكل نشط؟"
     },
     {
       "n": 19,
@@ -649,30 +757,36 @@
         {
           "letter": "A",
           "text": "Dikkat",
-          "images": []
+          "images": [],
+          "text_ar": "الانتباه"
         },
         {
           "letter": "B",
           "text": "Ayırt etme",
-          "images": []
+          "images": [],
+          "text_ar": "التمييز"
         },
         {
           "letter": "C",
           "text": "Eşleştirme",
-          "images": []
+          "images": [],
+          "text_ar": "المطابقة"
         },
         {
           "letter": "D",
           "text": "Refleks",
-          "images": []
+          "images": [],
+          "text_ar": "الانعكاس"
         },
         {
           "letter": "E",
           "text": "Bellek",
-          "images": []
+          "images": [],
+          "text_ar": "الذاكرة"
         }
       ],
-      "answer": "D"
+      "answer": "D",
+      "stem_ar": "في التربية الحسية، أي من عمليات التعلم التالية لا يلزم تناولها؟"
     },
     {
       "n": 20,
@@ -684,30 +798,36 @@
         {
           "letter": "A",
           "text": "Duyusal duyarlık",
-          "images": []
+          "images": [],
+          "text_ar": "الحساسية الحسية"
         },
         {
           "letter": "B",
           "text": "Duyusal arayış",
-          "images": []
+          "images": [],
+          "text_ar": "البحث الحسي"
         },
         {
           "letter": "C",
           "text": "Duyusal uyarım",
-          "images": []
+          "images": [],
+          "text_ar": "التحفيز الحسي"
         },
         {
           "letter": "D",
           "text": "Duyusal kaçınma",
-          "images": []
+          "images": [],
+          "text_ar": "التجنب الحسي"
         },
         {
           "letter": "E",
           "text": "Düşük algılama",
-          "images": []
+          "images": [],
+          "text_ar": "الإدراك المنخفض"
         }
       ],
-      "answer": "E"
+      "answer": "E",
+      "stem_ar": "لاحظت المعلمة نازان في أنشطة التربية الحسية التي خططت لها في صفها أن عليًّا يواجه صعوبة في لمس أشياء معينة وفي الإمساك بها بيده. في هذه الحالة، أي مما يلي ينبغي التفكير فيه بشأن علي؟"
     },
     {
       "n": 21,
@@ -719,30 +839,39 @@
         {
           "letter": "A",
           "text": "Seçicilik",
-          "images": []
+          "images": [],
+          "text_ar": "الانتقائية"
         },
         {
           "letter": "B",
           "text": "Ayırt etme",
-          "images": []
+          "images": [],
+          "text_ar": "التمييز"
         },
         {
           "letter": "C",
           "text": "Tanımlama",
-          "images": []
+          "images": [],
+          "text_ar": "التحديد"
         },
         {
           "letter": "D",
           "text": "Dokunma",
-          "images": []
+          "images": [],
+          "text_ar": "اللمس"
         },
         {
           "letter": "E",
           "text": "Tanıma",
-          "images": []
+          "images": [],
+          "text_ar": "التعرّف"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "stem_ar": "طفل في الثانية من عمره يركّز انتباهه على أكثر خصائص شيء ما جذبًا للاهتمام. في هذه الحالة، أي مما يلي يقوم به الطفل إدراكيًّا؟",
+      "review": [
+        "q21.E: كلمة tanıma هنا بمعنى التعرّف لا الإقرار الوارد في المسرد (المعنى القانوني)."
+      ]
     },
     {
       "n": 22,
@@ -754,30 +883,36 @@
         {
           "letter": "A",
           "text": "Çocukların işbirliğine ve koordinasyona yönlendirir",
-          "images": []
+          "images": [],
+          "text_ar": "توجّه الأطفال إلى التعاون والتناسق"
         },
         {
           "letter": "B",
           "text": "Çocukları ulaşabilecekleri düzeyin gerisinde bırakır",
-          "images": []
+          "images": [],
+          "text_ar": "تُبقي الأطفال دون المستوى الذي يمكنهم بلوغه"
         },
         {
           "letter": "C",
           "text": "Çocukların bulundukları çevreye ilgi duymasını sağlar",
-          "images": []
+          "images": [],
+          "text_ar": "تجعل الأطفال يهتمون بالبيئة التي يعيشون فيها"
         },
         {
           "letter": "D",
           "text": "Çocukları duyularını kullanmaya teşvik eder",
-          "images": []
+          "images": [],
+          "text_ar": "تشجع الأطفال على استخدام حواسهم"
         },
         {
           "letter": "E",
           "text": "Çocukları görsel ve işitsel olarak uyarır",
-          "images": []
+          "images": [],
+          "text_ar": "تحفّز الأطفال بصريًّا وسمعيًّا"
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "stem_ar": "ما أثر البيئات الفقيرة حسيًا في نمو الأطفال؟"
     },
     {
       "n": 23,
@@ -789,30 +924,36 @@
         {
           "letter": "A",
           "text": "Duyuların geri planda tutularak açıklanması",
-          "images": []
+          "images": [],
+          "text_ar": "الشرح مع إبقاء الحواس في الخلفية"
         },
         {
           "letter": "B",
           "text": "Sadece beden diline ağırlık verilmesi",
-          "images": []
+          "images": [],
+          "text_ar": "التركيز على لغة الجسد فقط"
         },
         {
           "letter": "C",
           "text": "Ses tonunu yükselterek açıklama yapılması",
-          "images": []
+          "images": [],
+          "text_ar": "الشرح برفع نبرة الصوت"
         },
         {
           "letter": "D",
           "text": "Durumu üstü kapalı cümlelerle açıklama",
-          "images": []
+          "images": [],
+          "text_ar": "شرح الحالة بجمل غامضة"
         },
         {
           "letter": "E",
           "text": "Duyulara yönelik sıfatların kullanılması",
-          "images": []
+          "images": [],
+          "text_ar": "استخدام صفات موجهة إلى الحواس"
         }
       ],
-      "answer": "E"
+      "answer": "E",
+      "stem_ar": "في التواصل بين الأشخاص، وعند تقديم أوصاف لحالة معينة، أي صيغة تعبيرية موجهة إلى الحواس يمكن استخدامها لمساعدة الطرف الآخر على إدراك الحالة الموصوفة حسيًّا؟"
     },
     {
       "n": 24,
@@ -824,30 +965,36 @@
         {
           "letter": "A",
           "text": "Duyusal arama",
-          "images": []
+          "images": [],
+          "text_ar": "البحث الحسي"
         },
         {
           "letter": "B",
           "text": "Duyusal duyarlılık",
-          "images": []
+          "images": [],
+          "text_ar": "الحساسية الحسية"
         },
         {
           "letter": "C",
           "text": "Duyusal uyarım",
-          "images": []
+          "images": [],
+          "text_ar": "التحفيز الحسي"
         },
         {
           "letter": "D",
           "text": "Düşük tahammül",
-          "images": []
+          "images": [],
+          "text_ar": "التحمّل المنخفض"
         },
         {
           "letter": "E",
           "text": "Duyusal oturaklılık",
-          "images": []
+          "images": [],
+          "text_ar": "الاستقرار الحسي"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "stem_ar": "وفق نموذج دن الحسي، في أي بند يقع الطفل الذي يبكي بسهولة؟"
     },
     {
       "n": 25,
@@ -859,30 +1006,36 @@
         {
           "letter": "A",
           "text": "Duyusal arayış",
-          "images": []
+          "images": [],
+          "text_ar": "البحث الحسي"
         },
         {
           "letter": "B",
           "text": "Düşük algılama",
-          "images": []
+          "images": [],
+          "text_ar": "الإدراك المنخفض"
         },
         {
           "letter": "C",
           "text": "Duyusal duyarlılık",
-          "images": []
+          "images": [],
+          "text_ar": "الحساسية الحسية"
         },
         {
           "letter": "D",
           "text": "Duyusal yeterlilik",
-          "images": []
+          "images": [],
+          "text_ar": "الكفاءة الحسية"
         },
         {
           "letter": "E",
           "text": "Duyusal kaçınma",
-          "images": []
+          "images": [],
+          "text_ar": "التجنب الحسي"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "stem_ar": "إدا تبدي اهتمامًا بالألعاب ذات الريش الناعم، وتميل إلى إمساكها وحملها باستمرار، وملامسة ريشها بيدها ومعانقتها. أي مما يلي هو النمط الحسي الذي تُظهره إدا وفق التكامل الحسي؟"
     },
     {
       "n": 26,
@@ -894,30 +1047,36 @@
         {
           "letter": "A",
           "text": "Görme",
-          "images": []
+          "images": [],
+          "text_ar": "البصر"
         },
         {
           "letter": "B",
           "text": "Dokunma",
-          "images": []
+          "images": [],
+          "text_ar": "اللمس"
         },
         {
           "letter": "C",
           "text": "Tatma",
-          "images": []
+          "images": [],
+          "text_ar": "التذوق"
         },
         {
           "letter": "D",
           "text": "İşitme",
-          "images": []
+          "images": [],
+          "text_ar": "السمع"
         },
         {
           "letter": "E",
           "text": "Hareket",
-          "images": []
+          "images": [],
+          "text_ar": "الحركة"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "stem_ar": "«انقضت أشهر الشتاء الطويلة. ورحلت السحب السوداء التي كانت تغطي القرية، وأفسحت مكانها لسماء زرقاء صافية. فاضت مياه الجدول المتعرّج كالأفعى، وكانت تجري وهي تغنّي أهازيج الفرح… واكتسى الوادي براعم وأزهارًا متعددة الألوان. وخرجت الحشرات المستيقظة من سباتها من جحورها وبدأت منذ الآن استعدادات الشتاء. وبدأ النمل يتسابق على ملء مخازنه بالطعام لأنه يعلم أن الأيام الدافئة لن تطول.\nورد أعلاه وصف لسرد حكاية معروفة. أي حاسة يمكن القول إنها بارزة في هذا الوصف؟"
     },
     {
       "n": 27,
@@ -929,30 +1088,36 @@
         {
           "letter": "A",
           "text": "Ses çıkarmaya odaklanıyordur",
-          "images": []
+          "images": [],
+          "text_ar": "إنه يركّز على إصدار الصوت"
         },
         {
           "letter": "B",
           "text": "Refleksif tepkiler veriyordur",
-          "images": []
+          "images": [],
+          "text_ar": "إنه يعطي استجابات انعكاسية"
         },
         {
           "letter": "C",
           "text": "Amaca yönelik hareket ediyordur",
-          "images": []
+          "images": [],
+          "text_ar": "إنه يتحرك بهدف"
         },
         {
           "letter": "D",
           "text": "Dikkatini belli bir duruma veriyordur",
-          "images": []
+          "images": [],
+          "text_ar": "إنه يوجه انتباهه إلى موقف معين"
         },
         {
           "letter": "E",
           "text": "Duyularını kullanıyordur",
-          "images": []
+          "images": [],
+          "text_ar": "إنه يستخدم حواسه"
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "stem_ar": "يُظهر رضيع في الشهر السادس أنه يستمتع بالاستماع إلى الصوت الذي يصدره عند تحريك خشخيشة التقطها بيده مرارًا وتكرارًا. أي مما يلي لا يمكن قوله عن هذا الرضيع؟"
     },
     {
       "n": 28,
@@ -964,30 +1129,36 @@
         {
           "letter": "A",
           "text": "Duyusal işlememe sorunu",
-          "images": []
+          "images": [],
+          "text_ar": "مشكلة في المعالجة الحسية"
         },
         {
           "letter": "B",
           "text": "Genel denge bozukluğu",
-          "images": []
+          "images": [],
+          "text_ar": "اضطراب التوازن العام"
         },
         {
           "letter": "C",
           "text": "Duyusal eğilim sapması",
-          "images": []
+          "images": [],
+          "text_ar": "انحراف الميل الحسي"
         },
         {
           "letter": "D",
           "text": "Duygu durum bozukluğu",
-          "images": []
+          "images": [],
+          "text_ar": "اضطراب المزاج"
         },
         {
           "letter": "E",
           "text": "Hareket işlev sorunu",
-          "images": []
+          "images": [],
+          "text_ar": "مشكلة في الوظيفة الحركية"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "stem_ar": "عائشة، عندما تريد تطبيق المعلومات التي تلاحظها وتكتسبها حسيًا في حياتها اليومية، تواجه مشكلة في أداء الحركات المناسبة المتوقعة منها في الوقت والمكان المناسبين. ما هذه الحالة لدى عائشة؟"
     },
     {
       "n": 29,
@@ -999,30 +1170,36 @@
         {
           "letter": "A",
           "text": "Sembol",
-          "images": []
+          "images": [],
+          "text_ar": "الرمز"
         },
         {
           "letter": "B",
           "text": "Ses",
-          "images": []
+          "images": [],
+          "text_ar": "الصوت"
         },
         {
           "letter": "C",
           "text": "Titreşim",
-          "images": []
+          "images": [],
+          "text_ar": "الاهتزاز"
         },
         {
           "letter": "D",
           "text": "Hüzün",
-          "images": []
+          "images": [],
+          "text_ar": "الحزن"
         },
         {
           "letter": "E",
           "text": "Koku",
-          "images": []
+          "images": [],
+          "text_ar": "الرائحة"
         }
       ],
-      "answer": "D"
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من الصور الحسية؟"
     },
     {
       "n": 30,
@@ -1034,30 +1211,36 @@
         {
           "letter": "A",
           "text": "Vestibuler",
-          "images": []
+          "images": [],
+          "text_ar": "الدهليزي"
         },
         {
           "letter": "B",
           "text": "Taktil",
-          "images": []
+          "images": [],
+          "text_ar": "اللمسي"
         },
         {
           "letter": "C",
           "text": "Görsel",
-          "images": []
+          "images": [],
+          "text_ar": "البصري"
         },
         {
           "letter": "D",
           "text": "Oral",
-          "images": []
+          "images": [],
+          "text_ar": "الفموي"
         },
         {
           "letter": "E",
           "text": "işitsel",
-          "images": []
+          "images": [],
+          "text_ar": "السمعي"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "stem_ar": "أي نوع من الحواس يؤثر في وضعية الطفل (القوام) وفي توتر العضلات؟"
     },
     {
       "n": 31,
@@ -1069,30 +1252,36 @@
         {
           "letter": "A",
           "text": "Çocuğun değerlendirilmesinin yapılması",
-          "images": []
+          "images": [],
+          "text_ar": "إجراء تقييم للطفل"
         },
         {
           "letter": "B",
           "text": "Çocuğa uygun program yapılması",
-          "images": []
+          "images": [],
+          "text_ar": "إعداد برنامج مناسب للطفل"
         },
         {
           "letter": "C",
           "text": "çocuğun grup çalışmalarına katılması",
-          "images": []
+          "images": [],
+          "text_ar": "مشاركة الطفل في الأنشطة الجماعية"
         },
         {
           "letter": "D",
           "text": "Destekleyici çalışmalar gerçekleştirilmesi",
-          "images": []
+          "images": [],
+          "text_ar": "تنفيذ أنشطة داعمة"
         },
         {
           "letter": "E",
           "text": "Duyusal uyaranların amaca yönelik kullanılması",
-          "images": []
+          "images": [],
+          "text_ar": "استخدام المثيرات الحسية بشكل هادف"
         }
       ],
-      "answer": "D"
+      "answer": "D",
+      "stem_ar": "في الأطفال الذين يعانون مشكلة في المعالجة الحسية، أي مما يلي ينبغي القيام به لتحقيق التكامل الحسي؟"
     },
     {
       "n": 32,
@@ -1104,30 +1293,36 @@
         {
           "letter": "A",
           "text": "Denge",
-          "images": []
+          "images": [],
+          "text_ar": "التوازن"
         },
         {
           "letter": "B",
           "text": "Tat",
-          "images": []
+          "images": [],
+          "text_ar": "التذوق"
         },
         {
           "letter": "C",
           "text": "İşitme",
-          "images": []
+          "images": [],
+          "text_ar": "السمع"
         },
         {
           "letter": "D",
           "text": "Dokunma",
-          "images": []
+          "images": [],
+          "text_ar": "اللمس"
         },
         {
           "letter": "E",
           "text": "Görme",
-          "images": []
+          "images": [],
+          "text_ar": "البصر"
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "stem_ar": "الرضيع الذي يرفض تناول طعامه بسبب طعمه يستخدم أي حاسة؟"
     },
     {
       "n": 33,
@@ -1139,30 +1334,36 @@
         {
           "letter": "A",
           "text": "ilk 4 ay",
-          "images": []
+          "images": [],
+          "text_ar": "الأشهر الأربعة الأولى"
         },
         {
           "letter": "B",
           "text": "3 yaş sonrası",
-          "images": []
+          "images": [],
+          "text_ar": "بعد سنّ الثالثة"
         },
         {
           "letter": "C",
           "text": "İlk 8 ay",
-          "images": []
+          "images": [],
+          "text_ar": "الأشهر الثمانية الأولى"
         },
         {
           "letter": "D",
           "text": "İlk 1 ay",
-          "images": []
+          "images": [],
+          "text_ar": "الشهر الأول"
         },
         {
           "letter": "E",
           "text": "1 yaş sonrası",
-          "images": []
+          "images": [],
+          "text_ar": "بعد العام الأول"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "stem_ar": "في أي مدة تتشكّل الأجهزة الدماغية التي تُنشئ القدرة على البصر والكلام لدى الأفراد؟"
     },
     {
       "n": 34,
@@ -1174,30 +1375,36 @@
         {
           "letter": "A",
           "text": "Renklerine göre nesneleri eşleştirmek",
-          "images": []
+          "images": [],
+          "text_ar": "مطابقة الأشياء حسب ألوانها"
         },
         {
           "letter": "B",
           "text": "Ortam ışığına odaklanmak",
-          "images": []
+          "images": [],
+          "text_ar": "التركيز على ضوء المحيط"
         },
         {
           "letter": "C",
           "text": "Bozuk gıdanın tadını ayırt etmek",
-          "images": []
+          "images": [],
+          "text_ar": "تمييز طعم الطعام الفاسد"
         },
         {
           "letter": "D",
           "text": "Sayı ve renk kavramını pekiştirmek",
-          "images": []
+          "images": [],
+          "text_ar": "تعزيز مفهوم العدد واللون"
         },
         {
           "letter": "E",
           "text": "Müzikal sesleri tanımak",
-          "images": []
+          "images": [],
+          "text_ar": "التعرّف على الأصوات الموسيقية"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "stem_ar": "أي الحالات التالية يبيّن وظيفة الحواس في توفير الأمان للفرد؟"
     },
     {
       "n": 35,
@@ -1209,30 +1416,36 @@
         {
           "letter": "A",
           "text": "Frontal lob",
-          "images": []
+          "images": [],
+          "text_ar": "الفص الجبهي"
         },
         {
           "letter": "B",
           "text": "Temporal lob",
-          "images": []
+          "images": [],
+          "text_ar": "الفص الصدغي"
         },
         {
           "letter": "C",
           "text": "Parietal lob",
-          "images": []
+          "images": [],
+          "text_ar": "الفص الجداري"
         },
         {
           "letter": "D",
           "text": "Beyincik",
-          "images": []
+          "images": [],
+          "text_ar": "المخيخ"
         },
         {
           "letter": "E",
           "text": "Oksipital lob",
-          "images": []
+          "images": [],
+          "text_ar": "الفص القذالي"
         }
       ],
-      "answer": "E"
+      "answer": "E",
+      "stem_ar": "أي جزء من الدماغ يكون فعالًا في حاسة البصر؟"
     },
     {
       "n": 36,
@@ -1244,30 +1457,36 @@
         {
           "letter": "A",
           "text": "Zararlı olabilecek durumları fark etmeye olanak sağlar.",
-          "images": []
+          "images": [],
+          "text_ar": "يتيح إدراك المواقف التي قد تكون ضارة."
         },
         {
           "letter": "B",
           "text": "Zihinsel yapılanmayı destekler.",
-          "images": []
+          "images": [],
+          "text_ar": "يدعم البناء العقلي."
         },
         {
           "letter": "C",
           "text": "Nesneleyi tanıma algıyı geliştirme becerilerini geliştirir",
-          "images": []
+          "images": [],
+          "text_ar": "يطوّر مهارات التعرّف على الأشياء وتنمية الإدراك"
         },
         {
           "letter": "D",
           "text": "Gelişimin temelini oluşturur",
-          "images": []
+          "images": [],
+          "text_ar": "يشكّل أساس النمو"
         },
         {
           "letter": "E",
           "text": "Fiziksel kondisyonumuzu geliştirir",
-          "images": []
+          "images": [],
+          "text_ar": "يطوّر لياقتنا الجسدية"
         }
       ],
-      "answer": "E"
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن أهمية الحواس؟"
     }
   ],
   "_debug": {

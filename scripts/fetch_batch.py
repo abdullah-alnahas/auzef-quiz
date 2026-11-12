@@ -49,7 +49,7 @@ def main() -> int:
             r = subprocess.run(
                 [sys.executable, str(ROOT / "scripts/fetch_many.py"), url,
                  "--until", "commit", "--block", "media,image,font",
-                 "--timeout", "30", "--wait", "2"],
+                 "--timeout", "90", "--wait", "4"],
                 capture_output=True, text=True, timeout=args.cap, cwd=ROOT)
             rec = r.stdout.strip().splitlines()[-1] if r.stdout.strip() else ""
             if dest.exists() and dest.stat().st_size > 2000:

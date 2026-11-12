@@ -120,7 +120,7 @@ scraped_at: 2026-11-12T15:01:07+03:00
 **Question:** Yakalama refleksi bağlanmayı kolaylaştıran reflekslerden biridir. Aşağıda verilenlerden hangisi yanlıştır? | الانعكاس القبضي من الانعكاسات التي تسهّل التعلق. أي مما يلي غير صحيح؟
 **Choices:**
 - A) Gebeliğin 32. haftasında başlayıp 8-10 ay civarında yerini istemli yakalama hareketine bırakır. — يبدأ في الأسبوع 32 من الحمل ويحل محله حركة القبض الإرادية في نحو 8-10 أشهر.
-- B) Hem elde (palmar) hem de ayakta (plantar) ortaya çıkar. — يظهر في اليد (palmar) وفي القدم (plantar) معًا.
+- B) Hem elde (palmar) hem de ayakta (plantar) ortaya çıkar. — يظهر في اليد (القبض الراحي) وفي القدم (القبض الأخمصي) معًا.
 - C) Bebeğin avuç içine ulnar kenardan kendi parmağını temas ettirdiğinde bebeğin parmakları kapanır ve yakalar. — عندما يلامس الرضيع باطن كفه بإصبعه من الحافة الزندية، تنغلق أصابعه ويقبض.
 - D) Bebeğin bu davranışı anne-baba tarafından toplumsal birtepki olarak değerlendirilebilir. — يمكن أن يعدّ الوالدان هذا السلوك استجابة اجتماعية.
 - E) Anne-baba hoşlarına giden bu davranışı tekrartekrar görebilmek için zaman harcar. — يقضي الوالدان وقتًا لرؤية هذا السلوك الذي يعجبهم مرارًا وتكرارًا.
@@ -189,11 +189,11 @@ scraped_at: 2026-11-12T15:01:07+03:00
 ### Q19
 **Question:** Ainsvvorth’un bağlanma stillerini ortaya çıkardığı yabancı ortam deneyi kaç aşamadan oluşmaktadır? | من كم مرحلة تتكوّن تجربة البيئة الغريبة التي كشفت بها أينسوورث أنماط التعلق؟
 **Choices:**
-- A) 4 — 4 مرات
-- B) 5 — 5 ساعات
+- A) 4 — 4 مراحل
+- B) 5 — 5 مراحل
 - C) 7 — 7 مراحل
-- D) 8 — 8 سنوات
-- E) 9 — 9 أزواج
+- D) 8 — 8 مراحل
+- E) 9 — 9 مراحل
 **Answer:** D
 
 ### Q20

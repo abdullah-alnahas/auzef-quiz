@@ -88,7 +88,7 @@ scraped_at: 2026-11-12T15:01:08+03:00
 **Answer:** A
 
 ### Q9
-**Question:** Aşağıdakilerden hangisi Schaffer ve Emerson’un öne sürdüğü asosyal bağlanma evresi ile ilgilidir? | أي مما يلي يتصل بمرحلة التعلق اللاجتماعي التي طرحها شيفر وإيمرسون؟
+**Question:** Aşağıdakilerden hangisi Schaffer ve Emerson’un öne sürdüğü asosyal bağlanma evresi ile ilgilidir? | أي مما يلي يتصل بمرحلة التعلق غير الاجتماعي التي طرحها شيفر وإيمرسون؟
 **Choices:**
 - A) Doğum-8-12 hafta arası oluşur — تتكون بين الولادة و8-12 أسبوعًا
 - B) Anneye ve diğer insanlara, tanıdık veya tanıdık olmayanlara yanıt farklılaşmamaktadır. — لا تتمايز الاستجابة تجاه الأم وتجاه الآخرين، سواء كانوا مألوفين أو غير مألوفين.
@@ -170,11 +170,11 @@ scraped_at: 2026-11-12T15:01:08+03:00
 ### Q17
 **Question:** Bowly’in bağlanma aşamaları kaç basamaktan oluşmaktadır? | من كم مرحلة تتكون مراحل التعلق عند بولبي؟
 **Choices:**
-- A) 2 — مرتان
-- B) 3 — 3 مرات
-- C) 4 — 4 مرات
-- D) 5 — 5 ساعات
-- E) 6 — 6 أزواج
+- A) 2 — مرحلتان
+- B) 3 — 3 مراحل
+- C) 4 — 4 مراحل
+- D) 5 — 5 مراحل
+- E) 6 — 6 مراحل
 **Answer:** C
 
 ### Q18

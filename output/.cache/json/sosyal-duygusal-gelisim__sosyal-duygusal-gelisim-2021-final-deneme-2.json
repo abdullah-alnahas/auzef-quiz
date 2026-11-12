@@ -19,30 +19,36 @@
         {
           "letter": "A",
           "text": "İlginç bir açılım ya da uyarım sağlama amacıyla oyuna girmek",
-          "images": []
+          "images": [],
+          "text_ar": "الدخول إلى اللعب بهدف تقديم انفتاح أو تحفيز مثير للاهتمام"
         },
         {
           "letter": "B",
           "text": "Oyunu, dışarıdan verilecek talimatlarla yönlendirmek",
-          "images": []
+          "images": [],
+          "text_ar": "توجيه اللعب بتعليمات تُعطى من الخارج"
         },
         {
           "letter": "C",
           "text": "Devam etmekte olan bir oyuna çocuğun girmesine yardım etmek",
-          "images": []
+          "images": [],
+          "text_ar": "مساعدة الطفل على الدخول إلى لعب جارٍ"
         },
         {
           "letter": "D",
           "text": "Oyunun sürdürülmesi amacıyla bir katılımcı olarak oyuna girmek",
-          "images": []
+          "images": [],
+          "text_ar": "الدخول إلى اللعب كمشارك بهدف استمراره"
         },
         {
           "letter": "E",
           "text": "Oyuna hiç katılmayan çocuğa yardım etmek",
-          "images": []
+          "images": [],
+          "text_ar": "مساعدة الطفل الذي لا يشارك في اللعب إطلاقًا"
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من المقاربات التي ينبغي أن يتبناها المعلم عند مشاركته في لعب الأطفال؟"
     },
     {
       "n": 2,
@@ -54,30 +60,36 @@
         {
           "letter": "A",
           "text": "Bilişsel gelişim teorisi",
-          "images": []
+          "images": [],
+          "text_ar": "النظرية المعرفية النمائية"
         },
         {
           "letter": "B",
           "text": "Psikanalitik teori",
-          "images": []
+          "images": [],
+          "text_ar": "النظرية التحليلية النفسية"
         },
         {
           "letter": "C",
           "text": "Etolojik teori",
-          "images": []
+          "images": [],
+          "text_ar": "النظرية الإيثولوجية"
         },
         {
           "letter": "D",
           "text": "Çoklu zeka teorisi",
-          "images": []
+          "images": [],
+          "text_ar": "نظرية الذكاءات المتعددة"
         },
         {
           "letter": "E",
           "text": "Öğrenme teorisi",
-          "images": []
+          "images": [],
+          "text_ar": "نظرية التعلم"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "stem_ar": "ما النظرية التي تؤكد قدرة الرضيع على تمييز مقدمي الرعاية المألوفين لديه عن الغرباء قبل تكوّن التعلق؟"
     },
     {
       "n": 3,
@@ -89,30 +101,36 @@
         {
           "letter": "A",
           "text": "Oyun çocuklara özgür seçim yapma hakkı veren aktif bir eylemdir.",
-          "images": []
+          "images": [],
+          "text_ar": "اللعب فعل نشط يمنح الأطفال حق الاختيار الحر."
         },
         {
           "letter": "B",
           "text": "Oyun içten güdümlüdür.",
-          "images": []
+          "images": [],
+          "text_ar": "اللعب مدفوع بدوافع داخلية."
         },
         {
           "letter": "C",
           "text": "Oyun süreç odaklı değil sonuç odaklı bir eylemdir.",
-          "images": []
+          "images": [],
+          "text_ar": "اللعب فعل موجّه بالنتيجة لا بالعملية."
         },
         {
           "letter": "D",
           "text": "Oyun keyifli bir eylemdir.",
-          "images": []
+          "images": [],
+          "text_ar": "اللعب فعل ممتع."
         },
         {
           "letter": "E",
           "text": "Oyun içerisinde mecazi anlamlar ve doğaçlamalar barındırır",
-          "images": []
+          "images": [],
+          "text_ar": "يتضمن اللعب معاني مجازية وارتجالات."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "stem_ar": "أي مما يلي معلومة خاطئة عن خصائص اللعب؟"
     },
     {
       "n": 4,
@@ -124,30 +142,36 @@
         {
           "letter": "A",
           "text": "Duygusal",
-          "images": []
+          "images": [],
+          "text_ar": "العاطفي"
         },
         {
           "letter": "B",
           "text": "Özbakım",
-          "images": []
+          "images": [],
+          "text_ar": "العناية الذاتية"
         },
         {
           "letter": "C",
           "text": "Bilişsel",
-          "images": []
+          "images": [],
+          "text_ar": "المعرفي"
         },
         {
           "letter": "D",
           "text": "Sosyal",
-          "images": []
+          "images": [],
+          "text_ar": "الاجتماعي"
         },
         {
           "letter": "E",
           "text": "Motor",
-          "images": []
+          "images": [],
+          "text_ar": "الحركي"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "stem_ar": "لعبة تبدأ على النحو التالي: يطلب من المشاركين البالغين أن يسيروا بشكل عشوائي. وأثناء السير يسأل: «بأي شعور استيقظت هذا الصباح وجئت إلى هنا؟» ثم يطلب من الجميع أن يسيروا في أرجاء الصف بشكل عشوائي متقمّصين ذلك الشعور — أي مجال من مجالات النمو يدعمه هذا اللعب أكثر من غيره؟"
     },
     {
       "n": 5,
@@ -159,30 +183,36 @@
         {
           "letter": "A",
           "text": "Reddeden-tepkisiz veya müdahaleci-aşırı uyarıcı",
-          "images": []
+          "images": [],
+          "text_ar": "رافض – غير متجاوب أو متدخل – مفرط التحفيز"
         },
         {
           "letter": "B",
           "text": "Korkutan (örneğin, aşırı ezen)",
-          "images": []
+          "images": [],
+          "text_ar": "مُخيف (مثل: مفرط القهر)"
         },
         {
           "letter": "C",
           "text": "Ürküten (örneğin, taciz eden)",
-          "images": []
+          "images": [],
+          "text_ar": "مُرعب (مثل: مُسيء)"
         },
         {
           "letter": "D",
           "text": "Tutarsız, genellikle yanıt vermeyen (örneğin, depresif)",
-          "images": []
+          "images": [],
+          "text_ar": "غير متسق، غالبًا غير مستجيب (مثل: مصاب بالاكتئاب)"
         },
         {
           "letter": "E",
           "text": "Hassas, duyarlı",
-          "images": []
+          "images": [],
+          "text_ar": "حساس، متجاوب"
         }
       ],
-      "answer": "D"
+      "answer": "D",
+      "stem_ar": "أي مما يلي هو أسلوب التنشئة الوالدية المرتبط بنمط التعلق المعارض؟"
     },
     {
       "n": 6,
@@ -194,30 +224,36 @@
         {
           "letter": "A",
           "text": "Lorenz",
-          "images": []
+          "images": [],
+          "text_ar": "لورنز"
         },
         {
           "letter": "B",
           "text": "Harlow",
-          "images": []
+          "images": [],
+          "text_ar": "هارلو"
         },
         {
           "letter": "C",
           "text": "Spitz",
-          "images": []
+          "images": [],
+          "text_ar": "سبيتز"
         },
         {
           "letter": "D",
           "text": "Freud",
-          "images": []
+          "images": [],
+          "text_ar": "فرويد"
         },
         {
           "letter": "E",
           "text": "Erikson",
-          "images": []
+          "images": [],
+          "text_ar": "إريكسون"
         }
       ],
-      "answer": "E"
+      "answer": "E",
+      "stem_ar": "من هو المنظّر الذي ذهب إلى أن مقدّم الرعاية الذي يستجيب باستمرار لاحتياجات الرضيع ينمّي لديه الشعور بالثقة بالآخرين، بينما مقدّم الرعاية غير المستجيب أو غير المتسق يؤدي إلى تطور الشعور بعدم الأمان؟"
     },
     {
       "n": 7,
@@ -229,30 +265,36 @@
         {
           "letter": "A",
           "text": "Suçluluk",
-          "images": []
+          "images": [],
+          "text_ar": "الشعور بالذنب"
         },
         {
           "letter": "B",
           "text": "Empati yoksunluğu",
-          "images": []
+          "images": [],
+          "text_ar": "غياب التعاطف"
         },
         {
           "letter": "C",
           "text": "Bilişsel olgunluk",
-          "images": []
+          "images": [],
+          "text_ar": "النضج المعرفي"
         },
         {
           "letter": "D",
           "text": "Depresyon",
-          "images": []
+          "images": [],
+          "text_ar": "الاكتئاب"
         },
         {
           "letter": "E",
           "text": "Saldırganlık",
-          "images": []
+          "images": [],
+          "text_ar": "العدوانية"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من النتائج طويلة المدى لحرمان الأم عند بولبي؟"
     },
     {
       "n": 8,
@@ -264,30 +306,36 @@
         {
           "letter": "A",
           "text": "Duygularını, çatışmalarını ve gerginliklerini diğerlerinin kabul edebileceği şekilde ifade edebilmesi",
-          "images": []
+          "images": [],
+          "text_ar": "أن يعبّر عن مشاعره وصراعاته وتوتراته بالطريقة التي يقبلها الآخرون"
         },
         {
           "letter": "B",
           "text": "İş birliği becerisi geliştirmesi",
-          "images": []
+          "images": [],
+          "text_ar": "تنمية مهارة التعاون"
         },
         {
           "letter": "C",
           "text": "Nesnelerin özelliklerini araştırarak keşfedebilmesi",
-          "images": []
+          "images": [],
+          "text_ar": "أن يستكشف خصائص الأشياء ويتفحصها"
         },
         {
           "letter": "D",
           "text": "Sınıftaki diğer çocukların bakış açılarından bazı olayları değerlendirebilmeyi öğrenmesi",
-          "images": []
+          "images": [],
+          "text_ar": "أن يتعلم تقييم بعض الأحداث من وجهات نظر الأطفال الآخرين في الصف"
         },
         {
           "letter": "E",
           "text": "Oyuncaklarını arkadaşları ile paylaşmayı öğrenmesi",
-          "images": []
+          "images": [],
+          "text_ar": "أن يتعلم مشاركة ألعابه مع أصدقائه"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من فوائد اللعب في النمو الاجتماعي للطفل؟"
     },
     {
       "n": 9,
@@ -299,30 +347,36 @@
         {
           "letter": "A",
           "text": "Oyun gerçek hayatın taklidi olmayıp çocuğun yaşantısına uygun düşecek şekilde çarpıtılmış, sanki öyleymiş gibi  değiştirilmiş şeklidir.",
-          "images": []
+          "images": [],
+          "text_ar": "اللعب ليس محاكاة للحياة الواقعية، بل صورة مشوّهة منها بما يلائم حياة الطفل، ومعدّلة كأنها كذلك."
         },
         {
           "letter": "B",
           "text": "Yapılandırılmış oyunlar çocuğu daha çok rahatlatır.",
-          "images": []
+          "images": [],
+          "text_ar": "الألعاب المنظمة تريح الطفل أكثر."
         },
         {
           "letter": "C",
           "text": "Kendi içinde bütünlüğü vardır. Belirli amaca yönelik olmayıp etkinliğin kendisi önemlidir.",
-          "images": []
+          "images": [],
+          "text_ar": "له تكامله الداخلي. وهو ليس موجّهًا نحو هدف محدد، فالنشاط نفسه هو المهم."
         },
         {
           "letter": "D",
           "text": "Oyuna katılmak çocuğun özgür seçimidir.",
-          "images": []
+          "images": [],
+          "text_ar": "المشاركة في اللعب اختيار حر للطفل."
         },
         {
           "letter": "E",
           "text": "Çocuk oyun oynarken eğlenmeli, hoş vakit geçirmelidir.",
-          "images": []
+          "images": [],
+          "text_ar": "ينبغي أن يستمتع الطفل أثناء اللعب وأن يقضي وقتًا طيبًا."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "stem_ar": "لتوصيف أي نشاط بوصفه لعبًا لا بد من معرفة خصائص اللعب. أي مما يلي ليس من خصائص اللعب؟"
     },
     {
       "n": 10,
@@ -334,30 +388,36 @@
         {
           "letter": "A",
           "text": "Olağandışı görünüm",
-          "images": []
+          "images": [],
+          "text_ar": "المظهر غير العادي"
         },
         {
           "letter": "B",
           "text": "Olağandışı davranışlar ve olağandışı durumlar",
-          "images": []
+          "images": [],
+          "text_ar": "السلوكات غير العادية والمواقف غير العادية"
         },
         {
           "letter": "C",
           "text": "Aşırı ağlama",
-          "images": []
+          "images": [],
+          "text_ar": "البكاء المفرط"
         },
         {
           "letter": "D",
           "text": "Bedensel temas",
-          "images": []
+          "images": [],
+          "text_ar": "التلامس الجسدي"
         },
         {
           "letter": "E",
           "text": "Duygusal reddetme",
-          "images": []
+          "images": [],
+          "text_ar": "الرفض العاطفي"
         }
       ],
-      "answer": "D"
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من سلوكات الأم والرضيع التي تصعّب التعلق؟"
     },
     {
       "n": 11,
@@ -369,30 +429,36 @@
         {
           "letter": "A",
           "text": "Kendine güven becerisi",
-          "images": []
+          "images": [],
+          "text_ar": "مهارة الثقة بالنفس"
         },
         {
           "letter": "B",
           "text": "Problem çözme becerisi",
-          "images": []
+          "images": [],
+          "text_ar": "مهارة حل المشكلات"
         },
         {
           "letter": "C",
           "text": "Birlikte hareket etme becerisi",
-          "images": []
+          "images": [],
+          "text_ar": "مهارة التحرك معًا"
         },
         {
           "letter": "D",
           "text": "İşbirliği yapma becerisi",
-          "images": []
+          "images": [],
+          "text_ar": "مهارة التعاون"
         },
         {
           "letter": "E",
           "text": "Özdenetim becerisi",
-          "images": []
+          "images": [],
+          "text_ar": "مهارة ضبط الذات"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "stem_ar": "«يطلب من المجموعة البالغة أن تصطف في صف مستقيم. ويطلب من المشاركين أن يتحركوا في الوقت نفسه وفق الأمر الذي يقوله البالغ. خطوة إلى الأمام في البحر، وخطوة إلى الخلف في البر، وفي المنطقة المحايدة تحريك الأيدي ………… يُقصد به.\nأي مهارة ينبغي أن توضع في الفراغ في اللعبة أعلاه؟"
     },
     {
       "n": 12,
@@ -404,30 +470,36 @@
         {
           "letter": "A",
           "text": "Hassas, duyarlı",
-          "images": []
+          "images": [],
+          "text_ar": "حساس، متجاوب"
         },
         {
           "letter": "B",
           "text": "Korkutan (örneğin, aşırı ezen)",
-          "images": []
+          "images": [],
+          "text_ar": "مُخيف (مثل: مفرط القهر)"
         },
         {
           "letter": "C",
           "text": "Tutarsız, genellikle yanıt vermeyen (örneğin, depresif)",
-          "images": []
+          "images": [],
+          "text_ar": "غير متسق، غالبًا غير مستجيب (مثل: مصاب بالاكتئاب)"
         },
         {
           "letter": "D",
           "text": "Reddeden-tepkisiz veya müdahaleci-aşırı uyarıcı",
-          "images": []
+          "images": [],
+          "text_ar": "رافض – غير متجاوب أو متدخل – مفرط التحفيز"
         },
         {
           "letter": "E",
           "text": "Ürküten (örneğin, taciz eden)",
-          "images": []
+          "images": [],
+          "text_ar": "مُرعب (مثل: مُسيء)"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من أساليب التنشئة الوالدية المرتبطة بنمط التعلق غير الآمن؟"
     },
     {
       "n": 13,
@@ -439,30 +511,36 @@
         {
           "letter": "A",
           "text": "I ve II",
-          "images": []
+          "images": [],
+          "text_ar": "I وII"
         },
         {
           "letter": "B",
           "text": "I, II, III, IV",
-          "images": []
+          "images": [],
+          "text_ar": "I و II و III و IV"
         },
         {
           "letter": "C",
           "text": "Yalnız I",
-          "images": []
+          "images": [],
+          "text_ar": "I فقط"
         },
         {
           "letter": "D",
           "text": "II, III, IV",
-          "images": []
+          "images": [],
+          "text_ar": "II و III و IV"
         },
         {
           "letter": "E",
           "text": "I, II, III",
-          "images": []
+          "images": [],
+          "text_ar": "I و II و III"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "stem_ar": "I. الحساسية: توجيه أفعاله نحو الرضيع باستمرار\nII. الاتجاه الإيجابي: إبداء الميل والاتجاه الإيجابي نحو الرضيع\nIII. التزامن: تفاعل متبادل هادئ ومنظم مع الرضيع\nIV. التبادلية: تفاعل منظم يشترك فيه كل من الأم والرضيع في الشيء نفسه\nوردت أعلاه خصائص مقدّم الرعاية المكوّنة للتعلق الآمن وتوضيحاتها. أي هذه الخصائص والتوضيحات غير صحيح؟"
     },
     {
       "n": 14,
@@ -474,30 +552,36 @@
         {
           "letter": "A",
           "text": "Anne yoksunluğunun uzun vadeli sonuçları mevcuttur.",
-          "images": []
+          "images": [],
+          "text_ar": "لحرمان الأم نتائج طويلة المدى."
         },
         {
           "letter": "B",
           "text": "Bir çocuk yaşamın ilk yılında bağlanma figüründen sürekli bakım almalıdır.",
-          "images": []
+          "images": [],
+          "text_ar": "ينبغي أن يتلقى الطفل رعاية مستمرة من شخصية التعلق في السنة الأولى من حياته."
         },
         {
           "letter": "C",
           "text": "Çocuk doğuştan gelen birincil bağlanma figürüne bağlanma ihtiyacı içindedir.",
-          "images": []
+          "images": [],
+          "text_ar": "لدى الطفل حاجة فطرية إلى التعلق بشخصية التعلق الأولية."
         },
         {
           "letter": "D",
           "text": "Bir çocuk yaşamın ilk iki yılında bağlanma figüründen sürekli bakım almalıdır.",
-          "images": []
+          "images": [],
+          "text_ar": "ينبغي أن يتلقى الطفل رعاية مستمرة من شخصية التعلق خلال السنتين الأوليين من حياته."
         },
         {
           "letter": "E",
           "text": "Çocuğun birincil bakıcı ile bağlanma ilişkisi içsel çalışan modelinin geliştirilmesine yol açar.",
-          "images": []
+          "images": [],
+          "text_ar": "يؤدي تعلق الطفل بمقدّم الرعاية الأول إلى تطوير نموذج عملي داخلي."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "stem_ar": "بأي مما يلي تتعلق فرضية التوجه الأحادي عند بولبي؟"
     },
     {
       "n": 15,
@@ -509,30 +593,36 @@
         {
           "letter": "A",
           "text": "Açık bağlanma",
-          "images": []
+          "images": [],
+          "text_ar": "التعلق الواضح"
         },
         {
           "letter": "B",
           "text": "Hedefi düzeltilmiş ortaklığın oluşturulması",
-          "images": []
+          "images": [],
+          "text_ar": "تكوين الشراكة المصححة الهدف"
         },
         {
           "letter": "C",
           "text": "Çoklu bağlanma",
-          "images": []
+          "images": [],
+          "text_ar": "التعلق المتعدد"
         },
         {
           "letter": "D",
           "text": "Bağlanma başlangıcı",
-          "images": []
+          "images": [],
+          "text_ar": "بداية التعلق"
         },
         {
           "letter": "E",
           "text": "Ön bağlanma",
-          "images": []
+          "images": [],
+          "text_ar": "ما قبل التعلق"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "stem_ar": "أي مما يلي من مراحل التعلق عند شيفر وإيمرسون؟"
     },
     {
       "n": 16,
@@ -544,30 +634,36 @@
         {
           "letter": "A",
           "text": "Ürküten (örneğin, taciz eden)",
-          "images": []
+          "images": [],
+          "text_ar": "مُرعب (مثل: مُسيء)"
         },
         {
           "letter": "B",
           "text": "Tutarsız, genellikle yanıt vermeyen (örneğin, depresif)",
-          "images": []
+          "images": [],
+          "text_ar": "غير متسق، غالبًا غير مستجيب (مثل: مصاب بالاكتئاب)"
         },
         {
           "letter": "C",
           "text": "Korkutan (örneğin, aşırı ezen)",
-          "images": []
+          "images": [],
+          "text_ar": "مُخيف (مثل: مفرط القهر)"
         },
         {
           "letter": "D",
           "text": "Reddeden-tepkisiz veya müdahaleci-aşırı uyarıcı",
-          "images": []
+          "images": [],
+          "text_ar": "رافض – غير متجاوب أو متدخل – مفرط التحفيز"
         },
         {
           "letter": "E",
           "text": "Hassas, duyarlı",
-          "images": []
+          "images": [],
+          "text_ar": "حساس، متجاوب"
         }
       ],
-      "answer": "D"
+      "answer": "D",
+      "stem_ar": "أي مما يلي هو أسلوب التنشئة الوالدية المرتبط بنمط التعلق التجنّبي؟"
     },
     {
       "n": 17,
@@ -579,30 +675,36 @@
         {
           "letter": "A",
           "text": "Ulaşılabilir / umursamaz",
-          "images": []
+          "images": [],
+          "text_ar": "متاحة / غير مبالية"
         },
         {
           "letter": "B",
           "text": "Güvenli / güvensiz",
-          "images": []
+          "images": [],
+          "text_ar": "آمنة / غير آمنة"
         },
         {
           "letter": "C",
           "text": "Duyarlı / duyarsız",
-          "images": []
+          "images": [],
+          "text_ar": "حساسة / غير حساسة"
         },
         {
           "letter": "D",
           "text": "İşbirlikçi / çatışmacı",
-          "images": []
+          "images": [],
+          "text_ar": "متعاونة / صراعية"
         },
         {
           "letter": "E",
           "text": "Kabul / red",
-          "images": []
+          "images": [],
+          "text_ar": "قابلة / رافضة"
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من أبعاد سلوك الأم المرتبطة بأنماط تعلق الطفل عند إينسوورث؟"
     },
     {
       "n": 18,
@@ -614,30 +716,36 @@
         {
           "letter": "A",
           "text": "Spitz",
-          "images": []
+          "images": [],
+          "text_ar": "سبيتز"
         },
         {
           "letter": "B",
           "text": "Harlow",
-          "images": []
+          "images": [],
+          "text_ar": "هارلو"
         },
         {
           "letter": "C",
           "text": "Freud",
-          "images": []
+          "images": [],
+          "text_ar": "فرويد"
         },
         {
           "letter": "D",
           "text": "Lorenz",
-          "images": []
+          "images": [],
+          "text_ar": "لورنز"
         },
         {
           "letter": "E",
           "text": "Erikson",
-          "images": []
+          "images": [],
+          "text_ar": "إريكسون"
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "stem_ar": "من هو المنظّر الذي قارن تأثير التغذية والتحفيز اللمسي على تعلق صغار القرود؟"
     },
     {
       "n": 19,
@@ -649,30 +757,36 @@
         {
           "letter": "A",
           "text": "Umutsuzluk aşaması - Kopma aşaması - Protesto aşaması",
-          "images": []
+          "images": [],
+          "text_ar": "مرحلة اليأس – مرحلة التباعد – مرحلة الاحتجاج"
         },
         {
           "letter": "B",
           "text": "Kopma aşaması - Protesto aşaması - Umutsuzluk aşaması",
-          "images": []
+          "images": [],
+          "text_ar": "مرحلة التباعد – مرحلة الاحتجاج – مرحلة اليأس"
         },
         {
           "letter": "C",
           "text": "Umutsuzluk aşaması - Protesto aşaması - Kopya aşaması",
-          "images": []
+          "images": [],
+          "text_ar": "مرحلة اليأس – مرحلة الاحتجاج – مرحلة التباعد"
         },
         {
           "letter": "D",
           "text": "Protesto aşaması - Umutsuzluk aşaması - Kopma aşaması",
-          "images": []
+          "images": [],
+          "text_ar": "مرحلة الاحتجاج – مرحلة اليأس – مرحلة التباعد"
         },
         {
           "letter": "E",
           "text": "Protesto aşaması - Kopma aşaması - Umutsuzluk aşaması",
-          "images": []
+          "images": [],
+          "text_ar": "مرحلة الاحتجاج – مرحلة التباعد – مرحلة اليأس"
         }
       ],
-      "answer": "D"
+      "answer": "D",
+      "stem_ar": "يرى بولبي أن الرضّع يكوّنون رابطة قوية مع مقدمي الرعاية الأساسيين، وإذا زال هذا التعلق أو اختل نشأ قلق وضيق كبيران. أي مما يلي يذكر مراحل الاستجابة لهذا الانفصال بالترتيب؟"
     },
     {
       "n": 20,
@@ -684,30 +798,36 @@
         {
           "letter": "A",
           "text": "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında direnç veya öfke",
-          "images": []
+          "images": [],
+          "text_ar": "مقاومة أو غضب أثناء إعادة اللقاء مع مزيج من البحث عن القرب"
         },
         {
           "letter": "B",
           "text": "Yabancı tarafından rahatlatılmaya direnç gösterme",
-          "images": []
+          "images": [],
+          "text_ar": "إبداء مقاومة للتهدئة من قِبل الغريب"
         },
         {
           "letter": "C",
           "text": "Bakıcının ayrılmasından dolayı üzgün olma",
-          "images": []
+          "images": [],
+          "text_ar": "الحزن بسبب انفصال مقدّم الرعاية"
         },
         {
           "letter": "D",
           "text": "Bakıcının gidişinden büyük sıkıntı duyma",
-          "images": []
+          "images": [],
+          "text_ar": "الشعور بضيق كبير عند ذهاب مقدّم الرعاية"
         },
         {
           "letter": "E",
           "text": "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında rahatlamada zorluk",
-          "images": []
+          "images": [],
+          "text_ar": "صعوبة في الهدوء أثناء إعادة اللقاء مع مزيج من البحث عن القرب"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "stem_ar": "أي مما يلي من أمثلة سلوك الرضّع ذوي نمط التعلق الآمن في البيئة الغريبة؟"
     }
   ],
   "_debug": {

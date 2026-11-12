@@ -477,7 +477,7 @@
           "letter": "B",
           "text": "Hem elde (palmar) hem de ayakta (plantar) ortaya çıkar.",
           "images": [],
-          "text_ar": "يظهر في اليد (palmar) وفي القدم (plantar) معًا."
+          "text_ar": "يظهر في اليد (القبض الراحي) وفي القدم (القبض الأخمصي) معًا."
         },
         {
           "letter": "C",
@@ -758,13 +758,13 @@
           "letter": "A",
           "text": "4",
           "images": [],
-          "text_ar": "4 مرات"
+          "text_ar": "4 مراحل"
         },
         {
           "letter": "B",
           "text": "5",
           "images": [],
-          "text_ar": "5 ساعات"
+          "text_ar": "5 مراحل"
         },
         {
           "letter": "C",
@@ -776,13 +776,13 @@
           "letter": "D",
           "text": "8",
           "images": [],
-          "text_ar": "8 سنوات"
+          "text_ar": "8 مراحل"
         },
         {
           "letter": "E",
           "text": "9",
           "images": [],
-          "text_ar": "9 أزواج"
+          "text_ar": "9 مراحل"
         }
       ],
       "answer": "D",

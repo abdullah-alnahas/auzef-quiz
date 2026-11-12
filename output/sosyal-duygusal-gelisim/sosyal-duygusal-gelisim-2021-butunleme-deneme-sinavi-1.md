@@ -191,8 +191,8 @@ scraped_at: 2026-11-12T15:01:08+03:00
 **Question:** Freud’un topograk kişilik kuramı ile ilgili aşağıda verilenlerden hangisi yanlıştır? | أي مما يلي غير صحيح بشأن نظرية الشخصية الطبوغرافية عند فرويد؟
 **Choices:**
 - A) Bilinç, dış dünyadan algılanan ya da bedenin kendi içinden gelen algıyı fark eden zihin bölgesidir. — الوعي هو منطقة النفس التي تدرك الإدراك المأخوذ من العالم الخارجي أو الآتي من داخل الجسم.
-- B) Bilinç öncesi, dikkati zorlayarak bilinç düzeyinde algılanan bilişsel olaylardır. — ما قبل الشعور هو الأحداث المعرفية التي تُدرك على مستوى الشعور بإجهاد الانتباه.
-- C) Freud topograk kişilik kuramında özellikle bilinç öncesinin insan hayatında büyük etkiye sahip olduğunu belirtmektedir. — يذكر فرويد في نظرية الشخصية الطبوغرافية أن لما قبل الشعور أثرًا كبيرًا في حياة الإنسان على وجه الخصوص.
+- B) Bilinç öncesi, dikkati zorlayarak bilinç düzeyinde algılanan bilişsel olaylardır. — ما قبل الوعي هو الأحداث المعرفية التي تُدرك على مستوى الوعي بإجهاد الانتباه.
+- C) Freud topograk kişilik kuramında özellikle bilinç öncesinin insan hayatında büyük etkiye sahip olduğunu belirtmektedir. — يذكر فرويد في نظرية الشخصية الطبوغرافية أن لما قبل الوعي أثرًا كبيرًا في حياة الإنسان على وجه الخصوص.
 - D) Bilinç, bilinç öncesi ve bilinçaltı ya da bilinçdışı olmak üzere üç kavram üzerinde şekillenmektedir. — تتشكل الشخصية على ثلاثة مفاهيم: الوعي وما قبل الوعي واللاوعي.
 - E) Bilinçdışı/bilinçaltı, bireyin davranışlarını yönlendiren güdülerdir. — اللاوعي هو الدوافع التي توجّه سلوك الفرد.
 **Answer:** C

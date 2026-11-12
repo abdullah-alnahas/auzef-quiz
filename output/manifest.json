@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T15:12:38+03:00",
+  "generated_at": "2026-11-12T15:29:07+03:00",
   "count": 686,
   "exams": [
     {
@@ -10521,17 +10521,17 @@
       "question_count": 36,
       "answered_count": 36,
       "unknown_count": 0,
-      "review_flags": 0,
+      "review_flags": 1,
       "answer_source": "markup",
-      "status": "partial",
+      "status": "done",
       "scraped_at": "2026-11-12T15:01:02+03:00",
       "content_hash": "5f53c84b5fec11d7c8c1c7fd5ba81512d4bce1908cf851e34ee047ffcda2f7ea",
-      "file_hash": null,
-      "translated": false,
+      "file_hash": "sha256:41344bd544074dfdb043b871f617f8ba99eb608450aeb16c1170a765a91b869e",
+      "translated": true,
       "omitted_questions": [],
-      "state": "translated",
-      "translation_state": "complete",
-      "next_action": "merge"
+      "state": "rendered",
+      "translation_state": "merged",
+      "next_action": "none"
     },
     {
       "course": "OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ",
@@ -13999,7 +13999,7 @@
       "status": "done",
       "scraped_at": "2026-11-12T15:01:08+03:00",
       "content_hash": "adf43b134a2ee38d7c13959ba5458913be800678ab42c70db3654055ff517faa",
-      "file_hash": "sha256:680cfd4302fcfb60e6df220d4fccd694ff377e95b366890d5f9bd20ceeb9e870",
+      "file_hash": "sha256:4e03561cbb9846b7fbd2a602e5f384922ac2b0e472f9c135645059c0f9608c53",
       "translated": true,
       "omitted_questions": [],
       "state": "rendered",
@@ -14020,15 +14020,15 @@
       "unknown_count": 0,
       "review_flags": 0,
       "answer_source": "markup",
-      "status": "partial",
+      "status": "done",
       "scraped_at": "2026-11-12T15:01:08+03:00",
       "content_hash": "283ffa5c6b197f35d9c2db8820ecd3af578afb60d003c9921b30de75ea8ff56d",
-      "file_hash": null,
-      "translated": false,
+      "file_hash": "sha256:a5bcc90f293842ea32ffe5aea66aae9b450b273eaa63ed146911a6dea35784ee",
+      "translated": true,
       "omitted_questions": [],
-      "state": "translation_incomplete",
-      "translation_state": "incomplete",
-      "next_action": "fix_translation"
+      "state": "rendered",
+      "translation_state": "merged",
+      "next_action": "none"
     },
     {
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
@@ -14071,7 +14071,7 @@
       "status": "done",
       "scraped_at": "2026-11-12T15:01:08+03:00",
       "content_hash": "47cf798a61e6f0ad842b3d4dcdbbb4d1b6d0f04b00128f4282c7b1aec316cd43",
-      "file_hash": "sha256:48537f8ff1d1dd8c834765df26e99553e26a891bb4ccc813d26c174fc6b091db",
+      "file_hash": "sha256:597d1e106c7faafb2e5406bdfb8298e7139dc0f60f7e18d870fd6e4584ca651b",
       "translated": true,
       "omitted_questions": [],
       "state": "rendered",
@@ -14095,7 +14095,7 @@
       "status": "done",
       "scraped_at": "2026-11-12T15:01:07+03:00",
       "content_hash": "64b570adfa7190f1463270d3cf09ae2d26ab61cf1e21ee37163132588d2c12a0",
-      "file_hash": "sha256:d9cf9f8b9078f81b60dad4e37791386ebeff229c6b1c6fabc7a909b31d02bb0e",
+      "file_hash": "sha256:a85446247138a57959bbd8ee3af841a182077a808f79fa65c88f82dc32244cc3",
       "translated": true,
       "omitted_questions": [],
       "state": "rendered",
@@ -16826,7 +16826,7 @@
       "next_action": "translate"
     }
   ],
-  "skipped_count": 1385,
+  "skipped_count": 1378,
   "skipped": [
     {
       "course": "ANNE BABA EĞİTİMİ",
@@ -20197,41 +20197,8 @@
     {
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
-      "exam": "Final Deneme -2",
-      "source_url": "https://lolonolo.com/2023/09/28/cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-2/",
-      "status": "fetch_missing",
-      "reason": "fetch_missing",
-      "state": "fetch_pending",
-      "translation_state": "none",
-      "next_action": "fetch"
-    },
-    {
-      "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
-      "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "exam": "Final Deneme -3",
       "source_url": "https://lolonolo.com/2023/09/28/cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-3/",
-      "status": "fetch_missing",
-      "reason": "fetch_missing",
-      "state": "fetch_pending",
-      "translation_state": "none",
-      "next_action": "fetch"
-    },
-    {
-      "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
-      "course_slug": "cocuk-gelisimi-uygulamalari-i",
-      "exam": "Vize Deneme -5",
-      "source_url": "https://lolonolo.com/2023/09/28/cocuk-gelisimi-uygulamalari-1-vize-deneme-sinavi-5/",
-      "status": "fetch_missing",
-      "reason": "fetch_missing",
-      "state": "fetch_pending",
-      "translation_state": "none",
-      "next_action": "fetch"
-    },
-    {
-      "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
-      "course_slug": "cocuk-gelisimi-uygulamalari-i",
-      "exam": "Final Deneme -5",
-      "source_url": "https://lolonolo.com/2023/09/28/cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-5/",
       "status": "fetch_missing",
       "reason": "fetch_missing",
       "state": "fetch_pending",
@@ -20254,50 +20221,6 @@
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "exam": "Final Deneme -8",
       "source_url": "https://lolonolo.com/2023/09/29/cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-8/",
-      "status": "fetch_missing",
-      "reason": "fetch_missing",
-      "state": "fetch_pending",
-      "translation_state": "none",
-      "next_action": "fetch"
-    },
-    {
-      "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
-      "course_slug": "cocuk-gelisimi-uygulamalari-i",
-      "exam": "Final Deneme -9",
-      "source_url": "https://lolonolo.com/2023/09/29/cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-9/",
-      "status": "fetch_missing",
-      "reason": "fetch_missing",
-      "state": "fetch_pending",
-      "translation_state": "none",
-      "next_action": "fetch"
-    },
-    {
-      "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
-      "course_slug": "cocuk-gelisimi-uygulamalari-i",
-      "exam": "Ünite-7",
-      "source_url": "https://lolonolo.com/2023/09/27/cocuk-gelisimi-uygulamalari-1-unite-7/",
-      "status": "fetch_missing",
-      "reason": "fetch_missing",
-      "state": "fetch_pending",
-      "translation_state": "none",
-      "next_action": "fetch"
-    },
-    {
-      "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
-      "course_slug": "cocuk-gelisimi-uygulamalari-i",
-      "exam": "Ünite-5",
-      "source_url": "https://lolonolo.com/2023/09/26/cocuk-gelisimi-uygulamalari-1-unite-5/",
-      "status": "fetch_missing",
-      "reason": "fetch_missing",
-      "state": "fetch_pending",
-      "translation_state": "none",
-      "next_action": "fetch"
-    },
-    {
-      "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
-      "course_slug": "cocuk-gelisimi-uygulamalari-i",
-      "exam": "Ünite-7",
-      "source_url": "https://lolonolo.com/2021/12/10/cocuk-gelisimi-uygulamalari-i-unite-7/",
       "status": "fetch_missing",
       "reason": "fetch_missing",
       "state": "fetch_pending",
@@ -32070,8 +31993,8 @@
     "saved_exams": 686,
     "questions": 14736,
     "unknown": 23,
-    "review": 197,
-    "rendered": 256,
+    "review": 198,
+    "rendered": 258,
     "courses": 54,
     "courses_complete": 0,
     "errors": 0,

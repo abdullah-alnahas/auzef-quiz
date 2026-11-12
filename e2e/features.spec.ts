@@ -101,5 +101,9 @@ test("course-level scope toggles combine the selected groups", async ({ page }) 
   await expect(page.locator(".combined-source li")).toHaveCount(expected.combinedExams);
   await expect(page.locator("p.muted.small").first()).toContainText("من");
   await expect(page.locator(".choice").first()).toBeVisible();
+  await page.locator(".choice").first().click();
+  await expect(page.locator(".choice").first()).toHaveAttribute("aria-pressed", "true");
+  await page.waitForTimeout(500);
+  await expect(page.locator(".choice").first()).toHaveAttribute("aria-pressed", "true");
   expect(page.url()).toContain("/combined/");
 });
