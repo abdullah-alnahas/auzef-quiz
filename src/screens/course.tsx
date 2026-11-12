@@ -6,7 +6,7 @@ import {
   scopeCode,
 } from "../combine.ts";
 import { ConfirmDialog } from "../components.tsx";
-import { scopeGroupKey, t, type Key, type Lang } from "../i18n.ts";
+import { backArrow, scopeGroupKey, t, type Key, type Lang } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   courseStatus,
@@ -75,6 +75,9 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
   /** Returns false when this exam failed, so a bulk run can report it. */
   const download = async (exam: ExamSummary): Promise<boolean> => {
     setError(false);
+    // Mark the row as in flight before the first await so the button reacts
+    // immediately and cannot be triggered twice.
+    setProgress((current) => ({ ...current, [exam.examId]: { done: 0, total: 0 } }));
     try {
       await downloadExam(exam, (value) =>
         setProgress((current) => ({ ...current, [exam.examId]: value })),
@@ -109,18 +112,36 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
     setBusy(false);
   };
 
+  const inFlight = Object.entries(progress)
+    .map(([examId, value]) => ({
+      exam: course.exams.find((entry) => entry.examId === examId),
+      value,
+    }))
+    .filter((entry) => entry.exam);
+
   return (
     <div class="stack">
       <button type="button" class="ghost back" onClick={() => navigate("/")}>
-        ← {t(prefs.lang, "back")}
+        {backArrow(prefs.lang)} {t(prefs.lang, "back")}
       </button>
-      <h1>{course.course}</h1>
+      <h1><bdi lang="tr">{course.course}</bdi></h1>
       <div class="row-actions">
         <button type="button" class="secondary" disabled={busy} onClick={() => void downloadAll()}>
           {t(prefs.lang, "downloadCourse")}
         </button>
       </div>
       {error && <p class="notice notice-bad">{t(prefs.lang, "downloadFailed")}</p>}
+      <p class="visually-hidden" role="status" aria-live="polite">
+        {inFlight.length > 0 && (
+          <>
+            {t(prefs.lang, "downloading")}{" "}
+            <bdi lang="tr">{inFlight[0].exam!.exam}</bdi>
+            {inFlight[0].value.total
+              ? ` ${inFlight[0].value.done}/${inFlight[0].value.total}`
+              : ""}
+          </>
+        )}
+      </p>
 
       <section class="test-all" aria-labelledby="test-all-title">
         <h2 id="test-all-title">{t(prefs.lang, "testAll")}</h2>
@@ -157,7 +178,7 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
           </summary>
           <ul>
             {scoped.map((exam) => (
-              <li key={exam.examId}>{exam.exam}</li>
+              <li key={exam.examId}><bdi lang="tr">{exam.exam}</bdi></li>
             ))}
           </ul>
         </details>
@@ -193,7 +214,11 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
               return (
                 <li key={exam.examId} class="exam-card" data-exam-id={exam.examId}>
                   <div class="exam-head">
-                    <strong>{exam.exam.replace(periodOf(exam.exam), "").trim() || exam.exam}</strong>
+                    <strong>
+                      <bdi lang="tr">
+                        {exam.exam.replace(periodOf(exam.exam), "").trim() || exam.exam}
+                      </bdi>
+                    </strong>
                     <span class="muted">
                       {exam.questionCount} {t(prefs.lang, "questionUnit")}
                     </span>
@@ -232,7 +257,9 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
                         onClick={() => void download(exam)}
                       >
                         {running
-                          ? `${t(prefs.lang, "downloading")} ${running.done}/${running.total}`
+                          ? running.total
+                            ? `${t(prefs.lang, "downloading")} ${running.done}/${running.total}`
+                            : t(prefs.lang, "downloading")
                           : status === "update"
                             ? t(prefs.lang, "retry")
                             : t(prefs.lang, "downloadExam")}

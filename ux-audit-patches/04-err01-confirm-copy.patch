@@ -1,0 +1,45 @@
+diff --git a/src/i18n.ts b/src/i18n.ts
+index fd4f982..06962a9 100644
+--- a/src/i18n.ts
++++ b/src/i18n.ts
+@@ -82,6 +82,7 @@ const ar = {
+   downloadExam: "تنزيل الامتحان",
+   downloadCourse: "تنزيل المقرر",
+   deleteConfirm: "حذف المحتوى المنزَّل لهذا الامتحان؟",
++  deleteAllDownloads: "سيُحذف كل المحتوى المنزَّل من هذا الجهاز. هل تريد المتابعة؟",
+   progress: "التقدّم",
+   start: "ابدأ",
+   continue: "متابعة",
+@@ -187,6 +188,7 @@ const tr: Record<Key, string> = {
+   downloadExam: "Sınavı indir",
+   downloadCourse: "Dersi indir",
+   deleteConfirm: "Bu sınavın indirilen içeriği silinsin mi?",
++  deleteAllDownloads: "Bu cihazdaki tüm indirilen içerik silinecek. Devam edilsin mi?",
+   progress: "İlerleme",
+   start: "Başla",
+   continue: "Devam",
+diff --git a/src/screens/course.tsx b/src/screens/course.tsx
+index b3287c5..bd73da9 100644
+--- a/src/screens/course.tsx
++++ b/src/screens/course.tsx
+@@ -269,6 +269,7 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
+       {removeTarget && (
+         <Dialog titleId="remove-title" onClose={() => setRemoveTarget(null)}>
+           <h2 id="remove-title">{t(prefs.lang, "remove")}</h2>
++          <p><bdi lang="tr">{removeTarget.exam}</bdi></p>
+           <p>{t(prefs.lang, "deleteConfirm")}</p>
+           <div class="dialog-actions">
+             <button type="button" class="ghost" onClick={() => setRemoveTarget(null)}>
+diff --git a/src/screens/home.tsx b/src/screens/home.tsx
+index 5a044e7..e86472d 100644
+--- a/src/screens/home.tsx
++++ b/src/screens/home.tsx
+@@ -149,7 +149,7 @@ export function Home({ manifest, prefs, updatePref, navigate }: ScreenProps) {
+       {confirmDownloads && (
+         <Dialog titleId="downloads-title" onClose={() => setConfirmDownloads(false)}>
+           <h2 id="downloads-title">{t(prefs.lang, "removeDownloads")}</h2>
+-          <p>{t(prefs.lang, "deleteConfirm")}</p>
++          <p>{t(prefs.lang, "deleteAllDownloads")}</p>
+           <div class="dialog-actions">
+             <button type="button" class="ghost" onClick={() => setConfirmDownloads(false)}>
+               {t(prefs.lang, "cancel")}

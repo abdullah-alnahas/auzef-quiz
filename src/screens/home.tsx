@@ -56,9 +56,9 @@ export function Home({ manifest, prefs, updatePref, navigate }: ScreenProps) {
           onClick={() => navigate(`/quiz/${resume.examId}/${resume.mode}`)}
         >
           <span class="resume-label">{t(prefs.lang, "resume")}</span>
-          <strong>{resumeExam.exam}</strong>
+          <strong><bdi lang="tr">{resumeExam.exam}</bdi></strong>
           <span class="muted">
-            {resumeExam.course} ·{" "}
+            <bdi lang="tr">{resumeExam.course}</bdi> ·{" "}
             {t(prefs.lang, resume.mode === "exam" ? "exam" : "practice")} ·{" "}
             {t(prefs.lang, "answeredCount", {
               a: Object.keys(resume.answers).length,
@@ -96,7 +96,7 @@ export function Home({ manifest, prefs, updatePref, navigate }: ScreenProps) {
                   }}
                 >
                   <span class="course-text">
-                    <strong>{course.course}</strong>
+                    <strong><bdi lang="tr">{course.course}</bdi></strong>
                     <span class="muted">
                       {total} {t(prefs.lang, "examUnit")} ·{" "}
                       {course.exams.reduce((n, exam) => n + exam.questionCount, 0)}{" "}

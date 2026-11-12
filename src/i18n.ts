@@ -208,6 +208,11 @@ const SCOPE_GROUP_KEYS: Record<ScopeGroup, Key> = {
   unit: "scopeUnit",
 };
 
+/** "Back" points at the reading start, so the arrow mirrors in RTL. */
+export function backArrow(lang: Lang): string {
+  return lang === "ar" ? "→" : "←";
+}
+
 export function scopeGroupKey(group: ScopeGroup): Key {
   return SCOPE_GROUP_KEYS[group];
 }

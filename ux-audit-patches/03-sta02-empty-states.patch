@@ -1,0 +1,92 @@
+diff --git a/src/i18n.ts b/src/i18n.ts
+index fd4f982..3c80a07 100644
+--- a/src/i18n.ts
++++ b/src/i18n.ts
+@@ -103,6 +103,10 @@ const ar = {
+   fromExam: "من {name}",
+   mockBadge: "تجريبي",
+   unitBadge: "وحدة",
++  noSearchResults: "لا يوجد مقرر يطابق «{q}».",
++  clearSearch: "مسح البحث",
++  noReviewItems: "لا توجد أسئلة في هذا التصنيف.",
++  showAllQuestions: "عرض كل الأسئلة",
+ };
+ 
+ export type Key = keyof typeof ar;
+@@ -208,6 +212,10 @@ const tr: Record<Key, string> = {
+   fromExam: "{name} sınavından",
+   mockBadge: "Deneme",
+   unitBadge: "Ünite",
++  noSearchResults: "«{q}» ile eşleşen ders yok.",
++  clearSearch: "Aramayı temizle",
++  noReviewItems: "Bu filtrede soru yok.",
++  showAllQuestions: "Tüm soruları göster",
+ };
+ 
+ const catalogs: Record<Lang, Record<Key, string>> = { ar, tr };
+diff --git a/src/screens/home.tsx b/src/screens/home.tsx
+index 5a044e7..bacb3ba 100644
+--- a/src/screens/home.tsx
++++ b/src/screens/home.tsx
+@@ -80,7 +80,19 @@ export function Home({ manifest, prefs, updatePref, navigate }: ScreenProps) {
+ 
+       <section aria-labelledby="courses-title" class="stack-sm">
+         <h2 id="courses-title">{t(prefs.lang, "courses")}</h2>
+-        {courses.length === 0 && <p class="muted">{t(prefs.lang, "noExams")}</p>}
++        {courses.length === 0 &&
++          (needle ? (
++            <div class="empty-state">
++              <p class="muted">
++                {t(prefs.lang, "noSearchResults", { q: query.trim() })}
++              </p>
++              <button type="button" class="secondary" onClick={() => setQuery("")}>
++                {t(prefs.lang, "clearSearch")}
++              </button>
++            </div>
++          ) : (
++            <p class="muted">{t(prefs.lang, "noExams")}</p>
++          ))}
+         <ul class="course-list">
+           {courses.map((course) => {
+             const done = course.exams.filter((exam) => touched.has(exam.examId)).length;
+diff --git a/src/screens/results.tsx b/src/screens/results.tsx
+index a7857a8..064de32 100644
+--- a/src/screens/results.tsx
++++ b/src/screens/results.tsx
+@@ -143,6 +143,15 @@ export function Results({
+         ))}
+       </div>
+ 
++      {shown.length === 0 && (
++        <div class="empty-state">
++          <p class="muted">{t(prefs.lang, "noReviewItems")}</p>
++          <button type="button" class="secondary" onClick={() => setFilter("all")}>
++            {t(prefs.lang, "showAllQuestions")}
++          </button>
++        </div>
++      )}
++
+       <button
+         type="button"
+         class="primary"
+diff --git a/src/styles.css b/src/styles.css
+index 543d220..b245026 100644
+--- a/src/styles.css
++++ b/src/styles.css
+@@ -242,6 +242,16 @@ button[aria-disabled="true"] {
+   border: 1px solid var(--border);
+ }
+ 
++.empty-state {
++  display: flex;
++  flex-direction: column;
++  align-items: flex-start;
++  gap: 8px;
++  padding: 12px;
++  border: 1px dashed var(--border);
++  border-radius: var(--radius);
++}
++
+ .notice-bad {
+   background: var(--bad-bg);
+   border-color: var(--bad);

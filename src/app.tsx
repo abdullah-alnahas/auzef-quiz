@@ -33,10 +33,11 @@ export function App() {
   useEffect(() => {
     registerServiceWorker(() => setUpdateReady(true));
     void (async () => {
+      // Blocked storage (private mode, quota, policy) must not stop the app from
+      // loading: fall back to defaults and tell the user progress won't persist.
       try {
         setPrefsState(await loadPrefs());
       } catch {
-        // Storage being unavailable must not block the manifest/content.
         setStorageError(true);
       }
       try {
@@ -52,6 +53,29 @@ export function App() {
     document.documentElement.dir = dirOf(prefs.lang);
     document.documentElement.dataset.theme = prefs.theme === "system" ? "" : prefs.theme;
   }, [prefs.lang, prefs.theme]);
+
+  // Hash routing keeps one document: give every route a distinct title so the
+  // tab, history and screen-reader context describe the current screen.
+  useEffect(() => {
+    const app = t(prefs.lang, "appName");
+    const courseId =
+      route.kind === "course" || route.kind === "combined" ? route.courseId : null;
+    const course = courseId
+      ? manifest?.courses.find((entry) => entry.courseId === courseId)
+      : undefined;
+    const exam =
+      route.kind === "quiz"
+        ? manifest?.courses
+            .flatMap((entry) => entry.exams)
+            .find((entry) => entry.examId === route.examId)
+        : undefined;
+    let page = "";
+    if (route.kind === "course" && course) page = course.course;
+    else if (route.kind === "quiz" && exam) page = exam.exam;
+    else if (route.kind === "combined" && course) page = course.course;
+    else if (route.kind === "results") page = t(prefs.lang, "results");
+    document.title = page ? `${page} — ${app}` : `${app} AUZEF`;
+  }, [prefs.lang, manifest, route]);
 
   const updatePref = useCallback(
     <K extends keyof Prefs>(key: K, value: Prefs[K]): void => {

@@ -1,0 +1,53 @@
+diff --git a/index.html b/index.html
+index 0a0cd02..ce3a834 100644
+--- a/index.html
++++ b/index.html
+@@ -7,6 +7,18 @@
+     <link rel="manifest" href="./manifest.webmanifest" />
+     <link rel="icon" href="./icons/icon-192.png" />
+     <title>مذاكرة AUZEF</title>
++    <script>
++      // Apply the stored theme before first paint. Preferences live in
++      // IndexedDB, which is async, so the theme choice is mirrored here.
++      try {
++        var storedTheme = localStorage.getItem("auzef.theme");
++        if (storedTheme === "light" || storedTheme === "dark") {
++          document.documentElement.dataset.theme = storedTheme;
++        }
++      } catch (error) {
++        /* storage blocked: fall back to the system preference */
++      }
++    </script>
+   </head>
+   <body>
+     <div id="app"></div>
+diff --git a/src/storage.ts b/src/storage.ts
+index 974afcf..edc8cf2 100644
+--- a/src/storage.ts
++++ b/src/storage.ts
+@@ -121,13 +121,25 @@ export async function loadPrefs(): Promise<Prefs> {
+       Object.assign(prefs, { [row.key]: row.value });
+     }
+   }
++  mirrorTheme(prefs.theme);
+   return prefs;
+ }
+ 
+ export async function setPref<K extends keyof Prefs>(key: K, value: Prefs[K]): Promise<void> {
++  if (key === "theme") mirrorTheme(value as Prefs["theme"]);
+   await run("prefs", "readwrite", (s) => s.put({ key, value }));
+ }
+ 
++/** Keep the pre-paint theme hint in localStorage in sync with the real pref. */
++function mirrorTheme(theme: Prefs["theme"]): void {
++  try {
++    if (theme === "system") localStorage.removeItem("auzef.theme");
++    else localStorage.setItem("auzef.theme", theme);
++  } catch {
++    /* storage blocked: IndexedDB remains the source of truth */
++  }
++}
++
+ export function sessionKey(examId: string, mode: Mode): string {
+   return `${examId}:${mode}`;
+ }

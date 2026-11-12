@@ -4,6 +4,7 @@ import {
   Badge,
   ChoiceContent,
   ConfirmDialog,
+  DataValue,
   RichTextView,
   TableView,
 } from "../components.tsx";
@@ -22,7 +23,7 @@ import {
   score,
   select,
 } from "../engine.ts";
-import { scopeTitle, t } from "../i18n.ts";
+import { backArrow, scopeTitle, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   deleteSession,
@@ -146,17 +147,22 @@ export function Quiz({
 
   if (state.kind === "failed") {
     const { failure } = state;
-    const message =
-      failure.kind === "missing"
-        ? t(prefs.lang, "missingExams", {
-            names: failure.missing.join(prefs.lang === "ar" ? "، " : ", "),
-          })
-        : failure.kind === "empty"
-          ? t(prefs.lang, "emptyScope")
-          : t(prefs.lang, "notDownloaded");
+    const separator = prefs.lang === "ar" ? "، " : ", ";
     return (
       <div class="stack">
-        <p class="notice notice-bad">{message}</p>
+        {failure.kind === "missing" ? (
+          <p class="notice notice-bad">
+            <DataValue
+              template={t(prefs.lang, "missingExams", { names: "\u0000" })}
+              value={failure.missing.join(separator)}
+              lang="tr"
+            />
+          </p>
+        ) : (
+          <p class="notice notice-bad">
+            {t(prefs.lang, failure.kind === "empty" ? "emptyScope" : "notDownloaded")}
+          </p>
+        )}
         <div class="row-actions">
           <button type="button" class="primary" onClick={() => setRetryKey((n) => n + 1)}>
             {t(prefs.lang, "retry")}
@@ -250,11 +256,13 @@ export function Quiz({
           onClick={() => navigate(`/course/${exam.courseId}`)}
           aria-label={t(prefs.lang, "back")}
         >
-          {prefs.lang === "ar" ? "→" : "←"}
+          {backArrow(prefs.lang)}
         </button>
         <div class="quiz-title">
-          <h1 class="quiz-title-main">{title}</h1>
-          <span class="muted">{exam.course}</span>
+          <h1 class="quiz-title-main">
+            <bdi lang={exam.scope ? undefined : "tr"}>{title}</bdi>
+          </h1>
+          <span class="muted"><bdi lang="tr">{exam.course}</bdi></span>
         </div>
         <button
           type="button"
@@ -301,7 +309,7 @@ export function Quiz({
           </summary>
           <ul>
             {exam.sourceExams.map((name) => (
-              <li key={name}>{name}</li>
+              <li key={name}><bdi lang="tr">{name}</bdi></li>
             ))}
           </ul>
         </details>
@@ -316,7 +324,11 @@ export function Quiz({
 
       {exam.scope && current.sourceExam && (
         <p class="muted small">
-          {t(prefs.lang, "fromExam", { name: current.sourceExam })}
+          <DataValue
+            template={t(prefs.lang, "fromExam", { name: "\u0000" })}
+            value={current.sourceExam}
+            lang="tr"
+          />
         </p>
       )}
 
@@ -331,6 +343,7 @@ export function Quiz({
         </div>
         <RichTextView
           className="question-tr"
+          id="question-text"
           content={current.turkish}
           lang="tr"
           dir="ltr"

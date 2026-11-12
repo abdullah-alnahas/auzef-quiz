@@ -28,15 +28,17 @@ export function RichTextView({
   className,
   lang,
   dir,
+  id,
 }: {
   content: RichText;
   className?: string;
   lang: string;
   dir: "rtl" | "ltr";
+  id?: string;
 }) {
   const paragraphs = content.text.split(/\n{2,}/);
   return (
-    <div class={className} lang={lang} dir={dir}>
+    <div class={className} id={id} lang={lang} dir={dir}>
       {paragraphs.map((paragraph, index) => (
         <p key={index}>
           {paragraph.split("\n").map((line, lineIndex) => (
@@ -91,6 +93,31 @@ export function ChoiceContent({
   );
 }
 
+/**
+ * A localized sentence that embeds one dynamic data value. The template marks
+ * the slot with a NUL placeholder — `t(lang, "fromExam", { name: "\u0000" })` —
+ * so the value stays its own bidi-isolated, language-tagged run instead of
+ * being reordered by the surrounding RTL paragraph.
+ */
+export function DataValue({
+  template,
+  value,
+  lang,
+}: {
+  template: string;
+  value: string;
+  lang: string;
+}) {
+  const [before, after = ""] = template.split("\u0000");
+  return (
+    <>
+      {before}
+      <bdi lang={lang}>{value}</bdi>
+      {after}
+    </>
+  );
+}
+
 export function TableView({ rows }: { rows: string[][] }) {
   if (!rows.length) return null;
   const [head, ...body] = rows;
@@ -139,9 +166,22 @@ export function Dialog({
   children: ComponentChildren;
 }) {
   const ref = useRef<HTMLDialogElement>(null);
+  const returnTo = useRef<HTMLElement | null>(null);
   useEffect(() => {
+    // Preact removes the <dialog> on close, so the browser cannot restore focus
+    // itself; remember the trigger and put focus back when we unmount.
+    returnTo.current =
+      document.activeElement instanceof HTMLElement ? document.activeElement : null;
     const dialog = ref.current;
     if (dialog && !dialog.open) dialog.showModal();
+    return () => {
+      const target = returnTo.current;
+      // Removing an open <dialog> moves focus to <body> synchronously; restore
+      // on the next task so the browser's focus fixup cannot undo it.
+      setTimeout(() => {
+        if (target?.isConnected) target.focus();
+      }, 0);
+    };
   }, []);
   return (
     <dialog

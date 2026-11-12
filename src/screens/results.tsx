@@ -3,7 +3,7 @@ import { Badge, ChoiceContent, RichTextView } from "../components.tsx";
 import { parseScope, scopeCode } from "../combine.ts";
 import { loadCombinedExam, loadExam } from "../data.ts";
 import { percent, score } from "../engine.ts";
-import { scopeTitle, t } from "../i18n.ts";
+import { backArrow, scopeTitle, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   deleteSession,
@@ -103,13 +103,18 @@ export function Results({
         class="ghost back"
         onClick={() => navigate(`/course/${exam.courseId}`)}
       >
-        ← {t(prefs.lang, "back")}
+        {backArrow(prefs.lang)} {t(prefs.lang, "back")}
       </button>
       <h1>{t(prefs.lang, "results")}</h1>
       <p class="muted">
-        {exam.scope
-          ? `${exam.course} — ${scopeTitle(prefs.lang, parseScope(exam.scope))}`
-          : exam.exam}
+        {exam.scope ? (
+          <>
+            <bdi lang="tr">{exam.course}</bdi> —{" "}
+            {scopeTitle(prefs.lang, parseScope(exam.scope))}
+          </>
+        ) : (
+          <bdi lang="tr">{exam.exam}</bdi>
+        )}
       </p>
 
       <section class="score-card" aria-label={t(prefs.lang, "score")}>
@@ -197,7 +202,7 @@ export function Results({
                 )}
               </div>
               {question.sourceExam && (
-                <p class="muted small">{question.sourceExam}</p>
+                <p class="muted small"><bdi lang="tr">{question.sourceExam}</bdi></p>
               )}
               <RichTextView
                 className="review-tr"

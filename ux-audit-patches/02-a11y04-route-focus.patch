@@ -1,0 +1,55 @@
+diff --git a/src/app.tsx b/src/app.tsx
+index b3927d6..5cf2b6a 100644
+--- a/src/app.tsx
++++ b/src/app.tsx
+@@ -1,4 +1,4 @@
+-import { useCallback, useEffect, useMemo, useState } from "preact/hooks";
++import { useCallback, useEffect, useMemo, useRef, useState } from "preact/hooks";
+ import { parseScope } from "./combine.ts";
+ import { loadManifest } from "./data.ts";
+ import { t, dirOf } from "./i18n.ts";
+@@ -73,6 +73,19 @@ export function App() {
+     document.title = page ? `${page} — ${app}` : `${app} AUZEF`;
+   }, [prefs.lang, manifest, route[0], route[1]]);
+ 
++  // A hash route change swaps the whole view: move focus to the new screen so
++  // keyboard and screen-reader users are not left at the top of the old one.
++  const mainRef = useRef<HTMLElement>(null);
++  const previousRoute = useRef<string | null>(null);
++  const routeKey = `${route[0] ?? ""}/${route[1] ?? ""}`;
++  useEffect(() => {
++    if (!manifest) return;
++    const isFirstRender = previousRoute.current === null;
++    previousRoute.current = routeKey;
++    if (isFirstRender) return;
++    mainRef.current?.focus({ preventScroll: true });
++  }, [routeKey, manifest]);
++
+   const updatePref = useCallback(
+     <K extends keyof Prefs>(key: K, value: Prefs[K]): void => {
+       setPrefsState((current) => ({ ...current, [key]: value }));
+@@ -123,7 +136,7 @@ export function App() {
+         </div>
+       )}
+ 
+-      <main class="app-main">
++      <main class="app-main" ref={mainRef} tabIndex={-1}>
+         {fatal && <p class="notice">{t(prefs.lang, "notDownloaded")}</p>}
+         {!fatal && !props && <p class="muted">{t(prefs.lang, "loading")}</p>}
+         {props && route[0] === "course" && (
+diff --git a/src/styles.css b/src/styles.css
+index 543d220..3867b4e 100644
+--- a/src/styles.css
++++ b/src/styles.css
+@@ -103,6 +103,11 @@ body {
+   padding: 16px 16px 64px;
+ }
+ 
++/* Focus target after a route change; not an interactive control. */
++.app-main:focus {
++  outline: none;
++}
++
+ .stack {
+   display: flex;
+   flex-direction: column;
