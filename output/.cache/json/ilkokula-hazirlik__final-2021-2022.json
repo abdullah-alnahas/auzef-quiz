@@ -1,0 +1,423 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "2021-2022 Final Soruları",
+  "exam_slug": "final-2021-2022",
+  "page_title": "İlkokula Hazırlık 2021-2022 Final",
+  "source_url": "https://lolonolo.com/2022/02/10/ilkokula-hazirlik-2021-2022-final/",
+  "scraped_at": "2026-11-12T02:21:19+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "İlkokul uyum programında aşağıda belirtilen hangi konuya ilişkin örnek etkinliklere yer verilmemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun etkinlikleri",
+          "images": [],
+          "text_ar": "أنشطة اللعب"
+        },
+        {
+          "letter": "B",
+          "text": "Okulu tanıma",
+          "images": [],
+          "text_ar": "التعرف على المدرسة"
+        },
+        {
+          "letter": "C",
+          "text": "Kuralları öğrenme",
+          "images": [],
+          "text_ar": "تعلم القواعد"
+        },
+        {
+          "letter": "D",
+          "text": "Tanışma",
+          "images": [],
+          "text_ar": "التعارف"
+        },
+        {
+          "letter": "E",
+          "text": "Aile bilgilendirme",
+          "images": [],
+          "text_ar": "إعلام الأسرة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من الموضوعات التالية لم تُدرَج أنشطة نموذجية تتعلق به في برنامج التكيف في المدرسة الابتدائية؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangileri ilkokula hazırlık amaçları kapsamında ya da ilkokula hazır bulunuşluk amaçları arasında doğru verilmiştir?  I. Öğrenmeyi geliştirme  II. Özel eğitime gereksinim duyan çocukları belirleme  III. Programı değerlendirme  IV. Zaman içinde değişen eğilimi yakalama  V. Çıta yükseltme sorumluluğunun kullanılması",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, III, V",
+          "images": [],
+          "text_ar": "I وIII وV"
+        },
+        {
+          "letter": "B",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I وIV"
+        },
+        {
+          "letter": "C",
+          "text": "I, II, III, IV, V",
+          "images": [],
+          "text_ar": "I وII وIII وIV وV"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ورد على نحو صحيح في نطاق أهداف الاستعداد للمدرسة الابتدائية أو ضمن أهداف الجاهزية للمدرسة الابتدائية؟\nI. تطوير التعلم\nII. تحديد الأطفال ذوي الاحتياجات إلى التربية الخاصة\nIII. تقييم البرنامج\nIV. مواكبة الاتجاه المتغير بمرور الوقت\nV. الاضطلاع بمسؤولية رفع سقف التوقعات"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "I. Ebeveyn sıcaklığı ve duyarlılığı  II. Çocuğun gelişen özerkliğine destek  III. Öğrenmeye aktif katılım  Yukarıda verilenlerden hangileri çocukların öğrenmesini kolaylaştıran ebeveyn katılım boyutlarını içermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "C",
+          "text": "II-III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "I-II-III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "I. دفء الوالدين وحساسيتهما\nII. دعم استقلالية الطفل النامية\nIII. المشاركة النشطة في التعلم\nأي مما ورد أعلاه يتضمن أبعاد مشاركة الوالدين التي تسهّل تعلم الأطفال؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilkokulda bilgilendirici metinler arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özlü söz",
+          "images": [],
+          "text_ar": "القول المأثور"
+        },
+        {
+          "letter": "B",
+          "text": "Mani",
+          "images": [],
+          "text_ar": "الماني"
+        },
+        {
+          "letter": "C",
+          "text": "Hikaye",
+          "images": [],
+          "text_ar": "قصة"
+        },
+        {
+          "letter": "D",
+          "text": "Karikatür",
+          "images": [],
+          "text_ar": "الكاريكاتير"
+        },
+        {
+          "letter": "E",
+          "text": "Şiir",
+          "images": [],
+          "text_ar": "الشعر"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي يندرج ضمن النصوص المعلوماتية في المدرسة الابتدائية؟",
+      "review": [
+        "q4.B: «Mani» نوع شعري شعبي تركي لا مقابل عربي راسخ له، فنُقل بالتعريب."
+      ]
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "İlkokul uyum haftası programlarında aşağıdakilerden hangisi yoktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okulu tanıma etkinlikleri",
+          "images": [],
+          "text_ar": "أنشطة التعرف على المدرسة"
+        },
+        {
+          "letter": "B",
+          "text": "Kuralları öğrenme etkinlikleri",
+          "images": [],
+          "text_ar": "أنشطة تعلم القواعد"
+        },
+        {
+          "letter": "C",
+          "text": "Eğitim Programından Örnek Etkinlikler",
+          "images": [],
+          "text_ar": "أنشطة نموذجية من البرنامج التعليمي"
+        },
+        {
+          "letter": "D",
+          "text": "Tanıma-Tanışma etkinlikleri",
+          "images": [],
+          "text_ar": "أنشطة التعرف والتعارف"
+        },
+        {
+          "letter": "E",
+          "text": "Oyun etkinlikleri",
+          "images": [],
+          "text_ar": "أنشطة اللعب"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يوجد في برامج أسبوع التكيف في المدرسة الابتدائية؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi program değerlendirilmesi süreçlerinde yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaşamla ilişkilendirme",
+          "images": [],
+          "text_ar": "الربط بالحياة"
+        },
+        {
+          "letter": "B",
+          "text": "Kazanımlara yönelik",
+          "images": [],
+          "text_ar": "التوجّه نحو مخرجات التعلم"
+        },
+        {
+          "letter": "C",
+          "text": "Betimleyici",
+          "images": [],
+          "text_ar": "الوصفية"
+        },
+        {
+          "letter": "D",
+          "text": "Duyuşsal",
+          "images": [],
+          "text_ar": "الوجدانية"
+        },
+        {
+          "letter": "E",
+          "text": "Psikomotor",
+          "images": [],
+          "text_ar": "الحركية النفسية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن عمليات تقييم البرنامج؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki maddelerden hangileri geçiişlerin özellikleriyle ilgili doğrudur?  I. Biryeselleştirilmiş geçişleri  II. Rekabet  III. Planlama  IV. Bilgi paylaşımı, karşılıklı güven ve iletişim  V. Ebeveynleri güçlendirme ve çocuklarının ihtiyaçlarını savunmaya teşvik etme",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "I, III, IV, V",
+          "images": [],
+          "text_ar": "I وIII وIV وV"
+        },
+        {
+          "letter": "C",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من البنود التالية صحيح فيما يتعلق بخصائص الانتقالات؟\nI. انتقالات مُفردَنة\nII. المنافسة\nIII. التخطيط\nIV. تبادل المعلومات والثقة المتبادلة والتواصل\nV. تمكين الوالدين وتشجيعهما على الدفاع عن احتياجات أطفالهما",
+      "review": [
+        "q7.stem: وردت في الأصل كلمتا «geçiişlerin» و«Biryeselleştirilmiş» وفيهما خطأ مطبعي، وقُرئتا «geçişlerin» و«bireyselleştirilmiş»."
+      ]
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden öğretmenin mesleki bilgilerinde yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mevzuat bilgisi",
+          "images": [],
+          "text_ar": "المعرفة بالتشريعات"
+        },
+        {
+          "letter": "B",
+          "text": "Alan eğitimi bilgisi",
+          "images": [],
+          "text_ar": "معرفة تدريس التخصص"
+        },
+        {
+          "letter": "C",
+          "text": "Ölçme ve değerlendirme",
+          "images": [],
+          "text_ar": "القياس والتقييم"
+        },
+        {
+          "letter": "D",
+          "text": "Alan bilgisi",
+          "images": [],
+          "text_ar": "المعرفة التخصصية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي يندرج ضمن المعارف المهنية للمعلم؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden öğretmenlerle ilgili Genel Yeterlilik eşleşmelerinden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tutum ve değerler - Kişisel ve mesleki gelişim",
+          "images": [],
+          "text_ar": "الاتجاهات والقيم - التطور الشخصي والمهني"
+        },
+        {
+          "letter": "B",
+          "text": "Tutum ve değerler - Öğrenciye yaklaşım",
+          "images": [],
+          "text_ar": "الاتجاهات والقيم - التعامل مع الطالب"
+        },
+        {
+          "letter": "C",
+          "text": "Mesleki beceri - Ölçme ve değerlendirme",
+          "images": [],
+          "text_ar": "المهارة المهنية - القياس والتقييم"
+        },
+        {
+          "letter": "D",
+          "text": "Mesleki beceri - Alan eğitimi bilgisi",
+          "images": [],
+          "text_ar": "المهارة المهنية - معرفة تدريس التخصص"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من مطابقات الكفايات العامة المتعلقة بالمعلمين التالية غير صحيحة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Okul öncesi uyum programı ne zaman uygulanmaya başlanmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2007",
+          "images": [],
+          "text_ar": "عام 2007"
+        },
+        {
+          "letter": "B",
+          "text": "2016",
+          "images": [],
+          "text_ar": "عام 2016"
+        },
+        {
+          "letter": "C",
+          "text": "2019",
+          "images": [],
+          "text_ar": "عام 2019"
+        },
+        {
+          "letter": "D",
+          "text": "2006",
+          "images": [],
+          "text_ar": "عام 2006"
+        },
+        {
+          "letter": "E",
+          "text": "2018",
+          "images": [],
+          "text_ar": "عام 2018"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "متى بدأ تطبيق برنامج التكيف في مرحلة ما قبل المدرسة؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "wrappers": 1
+  },
+  "omitted_questions": [
+    {
+      "n": 2,
+      "reason": "choice_count",
+      "stem": "“Başkalarıyla (sözlü veya sözsüz olarak) karşılıklı etkileşime girme, başkalarıyla uzlaşma ve sosyal normları tanıma ve takip etme yeteneği ile belilenir” tanımı aşağıdakilerden hangisidir?"
+    }
+  ],
+  "content_hash": "8cae87a73422582c56d3d491f2e2c0a6d346635410e1de1841b0dbc27c2848fc"
+}

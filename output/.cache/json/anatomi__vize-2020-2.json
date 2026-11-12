@@ -1,0 +1,739 @@
+{
+  "course": "Anatomi",
+  "course_slug": "anatomi",
+  "exam": "2020 Vize Soruları",
+  "exam_slug": "vize-2020-2",
+  "page_title": "Anatomi Vize 2020 Online Deneme -2",
+  "source_url": "https://lolonolo.com/2020/12/05/anatomi-vize-2020-online-deneme-2/",
+  "scraped_at": "2026-11-12T02:21:34+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Yere paralel olarak geçen ve vücudu üst ve alt olmak üzere 2 parçaya ayıran düzleme ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Planum sagittale",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Planum transversum",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Planum medianum",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Planum coronale",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Planum horizontale",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sindirim sistemi basamaklarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Besinin alınması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Besinin sindirilmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Besinin yakılması ve enerjiye dönüştürülmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Besinin dışarı atılması (dışkılama)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Besinin taşınması",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Ana safra kanalı olarak bilinen koledok kanalı ( ductus choledochus )sindirim kanallarının hangi kısmına açılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duedonum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İleum",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Jejunum",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mide",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Caecum",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Yutulan besinlerin soluk borusuna kaçmasını önleyen kıkırdak yapıya ne ad verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Epiglottis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Menisküs",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bursa",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Farenks",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Plica",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "En büyük paranasal sinüs aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sinus sphenoidalis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sinus cavernosus",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sinus maxillaris",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sinus frontalis",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sinus ethmoidalis",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Akciğeri örten zara ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Perikard",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Pia mater",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Plevra",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Periton",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Periosteum",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Bağırsakların yüzeyini ve karın boşluğunu saran zara ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Plevra",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Periton",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Pia mater",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Periost",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Perikard",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Paranasal sinüs’lerin enfeksiyona bağlı içindeki hava yerine sıvı (mukus) birikmesine ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bronşit",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tonsillit",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sinüzit",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Otit",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Farenjit",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Omurların (vertebre) gövdeleri arasında yer alan etrafı halkasal fibröz bir bant ve içinde jelatinöz sıvı olan yapıya ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eklem kıkırdağı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kapsül",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Discus",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Menisküs",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Labrum",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Vücudun sağından soluna veya solundan sağına doğru geçen ve vücudu ön-arka olmak üzere 2 parçaya ayıran düzleme ne ad verilir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Planum medianum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Planum coronale",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Planum transversum",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Planum sagittale",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Planum horizontale",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sindirim sistemi kanalı yapılarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mide",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bağırsaklar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ağız",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Karaciğer",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yemek borusu",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Erkeklerde adem elması olarak da bilinen, daha dar açı ile bir araya gelen kama şeklindeki kıkırdaklardan oluşan larynx kıkırdağı hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İbrik şekilli kıkırdak (cartilago arytennoidea)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yüzük şekilli kıkırdak (cartilago cricoidea)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Boynuzcuk şekilli kıkırdak (cartilago corniculata)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kalkan şekili kıkırdak (cartilago tyhroidea)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gırtlak kapağı kıkırdağı (cartilago epiglottica)",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi solunum sisteminin görevlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Besinlerin mekanik sindirimini sağlamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mikroorganizmalara karşı vücudun korunmasını sağlamak.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Vücudun dengesi (homeostaz) için gerekli olan oksijen ve karbondioksit değişiminin sağlanması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sesin oluşumunu ( fonasyon ) sağlamak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Vücudun hidrojen konsantrasyonunun düzenlenmesi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki yapılardan hangisi alt solunum yollarına ait bir yapıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nazofarenks",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Paranasal sinüsler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Trachea (soluk borusu)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ağız",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Burun",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi paranasal sinüs değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sinus sphenoidalis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sinus maxillaris",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sinus frontalis",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sinus ethmoidalis",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sinus cavernosus",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Dudaklar ile dişler arasında kalan boşluğa ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oropharynx",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Laringopharynx",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Nasopharynx",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalancı ağız boşluğu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gerçek ağız boşluğu",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Sağ akciğer kaç lobdan oluşmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "3",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi solunum sistemine ait bir yapı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bronş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yutak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Akciğerler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ağız",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Burun",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Ağızda, dişler ile arkada yutak darlığı (ıstmus faucium)arasında kalan boşluğa ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yumuşak damak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Vestibulum oris",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Cavitas oris propria",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yutak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sert damak",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Mide mukozasında akut veya kronik inflamasyona bağlı mukozal hasarla giden patolojilere ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Reflu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Polip",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ulser",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Fitik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gastrit",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "81b8e8e2da763f4986437cc0795c8a94e5802ff858bf8b55fdee7aa5309e9f4c"
+}

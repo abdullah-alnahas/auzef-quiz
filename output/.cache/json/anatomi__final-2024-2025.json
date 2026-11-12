@@ -1,0 +1,859 @@
+{
+  "course": "Anatomi",
+  "course_slug": "anatomi",
+  "exam": "2024-2025 Final Soruları",
+  "exam_slug": "final-2024-2025",
+  "page_title": "Anatomi 2024-2025 Final Soruları",
+  "source_url": "https://lolonolo.com/2024/12/30/anatomi-2024-2025-final-sorulari/",
+  "scraped_at": "2026-11-12T02:21:31+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki damarlardan hangisi direkt sağ kulakçığa (atrium) açılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Akciğer atardamarı (pulmoner arter)",
+          "images": [],
+          "text_ar": "الشريان الرئوي"
+        },
+        {
+          "letter": "B",
+          "text": "Vertebral ven",
+          "images": [],
+          "text_ar": "الوريد الفقري"
+        },
+        {
+          "letter": "C",
+          "text": "Akciğer toplardamarı (pulmoner ven)",
+          "images": [],
+          "text_ar": "الوريد الرئوي"
+        },
+        {
+          "letter": "D",
+          "text": "Vena cava inferior",
+          "images": [],
+          "text_ar": "الوريد الأجوف السفلي"
+        },
+        {
+          "letter": "E",
+          "text": "Aorta",
+          "images": [],
+          "text_ar": "الأورطي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الأوعية التالية يصب مباشرة في الأذين الأيمن؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Ana safra kanalı olarak bilinen koledok kanalı (ductus choledochus), sindirim kanallarının hangi kısmına açılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mide",
+          "images": [],
+          "text_ar": "المعدة"
+        },
+        {
+          "letter": "B",
+          "text": "Duodenum",
+          "images": [],
+          "text_ar": "الاثنا عشر"
+        },
+        {
+          "letter": "C",
+          "text": "Jejunum",
+          "images": [],
+          "text_ar": "الصائم"
+        },
+        {
+          "letter": "D",
+          "text": "İleum",
+          "images": [],
+          "text_ar": "اللفائفي"
+        },
+        {
+          "letter": "E",
+          "text": "Caecum",
+          "images": [],
+          "text_ar": "الأعور"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "إلى أي جزء من القناة الهضمية تصب القناة الصفراوية المشتركة المعروفة بالقناة الصفراوية الرئيسية؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Ureterlerden gelen idrar, hangi anatomik yapıda biriktirilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mesane",
+          "images": [],
+          "text_ar": "المثانة"
+        },
+        {
+          "letter": "B",
+          "text": "Calyx renalis major",
+          "images": [],
+          "text_ar": "الكأس الكلوي الكبير"
+        },
+        {
+          "letter": "C",
+          "text": "Urethra",
+          "images": [],
+          "text_ar": "الإحليل"
+        },
+        {
+          "letter": "D",
+          "text": "Pelvis renalis",
+          "images": [],
+          "text_ar": "حوض الكلية"
+        },
+        {
+          "letter": "E",
+          "text": "Böbrekler",
+          "images": [],
+          "text_ar": "الكليتان"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في أي بنية تشريحية يُجمع البول القادم من الحالبين؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki karın içi organlardan hangisi diaphragmanın hemen altında sol tarafta yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çıkan kolon",
+          "images": [],
+          "text_ar": "القولون الصاعد"
+        },
+        {
+          "letter": "B",
+          "text": "Böbrekler",
+          "images": [],
+          "text_ar": "الكليتان"
+        },
+        {
+          "letter": "C",
+          "text": "Yatay kolon",
+          "images": [],
+          "text_ar": "القولون المستعرض"
+        },
+        {
+          "letter": "D",
+          "text": "Karaciğer",
+          "images": [],
+          "text_ar": "الكبد"
+        },
+        {
+          "letter": "E",
+          "text": "Mide",
+          "images": [],
+          "text_ar": "المعدة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من أعضاء البطن التالية يقع في الجانب الأيسر تحت الحجاب الحاجز مباشرة؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Yutulan besinlerin soluk borusuna kaçmasını önleyen kıkırdak yapıya ne ad verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Plica",
+          "images": [],
+          "text_ar": "الطية"
+        },
+        {
+          "letter": "B",
+          "text": "Epiglottis",
+          "images": [],
+          "text_ar": "لسان المزمار"
+        },
+        {
+          "letter": "C",
+          "text": "Menisküs",
+          "images": [],
+          "text_ar": "الغضروف الهلالي"
+        },
+        {
+          "letter": "D",
+          "text": "Discus",
+          "images": [],
+          "text_ar": "القرص"
+        },
+        {
+          "letter": "E",
+          "text": "Bursa",
+          "images": [],
+          "text_ar": "الجراب"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما اسم البنية الغضروفية التي تمنع مرور الطعام المبلوع إلى القصبة الهوائية؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Görme duyusunun beyinde en son gittiği kortikal parça hangi lobdadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Parietal lob",
+          "images": [],
+          "text_ar": "الفص الجداري"
+        },
+        {
+          "letter": "B",
+          "text": "Occipitotemporal lob",
+          "images": [],
+          "text_ar": "الفص القذالي الصدغي"
+        },
+        {
+          "letter": "C",
+          "text": "Temporal lob",
+          "images": [],
+          "text_ar": "الفص الصدغي"
+        },
+        {
+          "letter": "D",
+          "text": "Frontal lob",
+          "images": [],
+          "text_ar": "الفص الجبهي"
+        },
+        {
+          "letter": "E",
+          "text": "Occipital lob",
+          "images": [],
+          "text_ar": "الفص القذالي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في أي فص يقع الجزء القشري الذي تصل إليه حاسة البصر أخيرًا في الدماغ؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki kranyal sinirlerden hangisi sadece duysal özelliktedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "N. abducens (VI. kranyal sinir)",
+          "images": [],
+          "text_ar": "العصب المبعد (العصب القحفي VI)"
+        },
+        {
+          "letter": "B",
+          "text": "N. trigeminus (V. kranyal sinir)",
+          "images": [],
+          "text_ar": "العصب الثلاثي التوائم (العصب القحفي V)"
+        },
+        {
+          "letter": "C",
+          "text": "N. vestibulocochlearis (VIII. kranyal sinir)",
+          "images": [],
+          "text_ar": "العصب الدهليزي القوقعي (العصب القحفي VIII)"
+        },
+        {
+          "letter": "D",
+          "text": "N. oculomotorius (III. kranyal sinir)",
+          "images": [],
+          "text_ar": "العصب المحرك للعين (العصب القحفي III)"
+        },
+        {
+          "letter": "E",
+          "text": "N. facialis (VII. kranyal sinir)",
+          "images": [],
+          "text_ar": "العصب الوجهي (العصب القحفي VII)"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الأعصاب القحفية التالية حسي فقط؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Fetal hayatta bebeğin kalbinde sağ kulakçık (atrium) ile sol kulakçık (atrium) arasında yer alan ve erişkin dönemde kapanan deliğe ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Foramen ovale",
+          "images": [],
+          "text_ar": "الثقبة البيضية"
+        },
+        {
+          "letter": "B",
+          "text": "Mitral kapak",
+          "images": [],
+          "text_ar": "الصمام التاجي"
+        },
+        {
+          "letter": "C",
+          "text": "Septum interatriale",
+          "images": [],
+          "text_ar": "الحاجز بين الأذينين"
+        },
+        {
+          "letter": "D",
+          "text": "Foramen jugulare",
+          "images": [],
+          "text_ar": "الثقبة الوداجية"
+        },
+        {
+          "letter": "E",
+          "text": "Septum interventriculare",
+          "images": [],
+          "text_ar": "الحاجز بين البطينين"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما اسم الثقبة التي تقع في قلب الجنين بين الأذين الأيمن والأذين الأيسر وتُغلق في مرحلة البلوغ؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Beyinde temporal lobun iç kısmında bulunan ve özellikle hafıza ile ilgili olan yapı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Thalamus",
+          "images": [],
+          "text_ar": "المهاد"
+        },
+        {
+          "letter": "B",
+          "text": "Hipofiz",
+          "images": [],
+          "text_ar": "الغدة النخامية"
+        },
+        {
+          "letter": "C",
+          "text": "Epifiz",
+          "images": [],
+          "text_ar": "الغدة الصنوبرية"
+        },
+        {
+          "letter": "D",
+          "text": "Hipokampüs",
+          "images": [],
+          "text_ar": "الحصين"
+        },
+        {
+          "letter": "E",
+          "text": "Hypothalamus",
+          "images": [],
+          "text_ar": "الوطاء"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي البنى التالية تقع في الجزء الداخلي من الفص الصدغي في الدماغ وتتعلق بالذاكرة خاصةً؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Böbreklerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Böbrekler aynı zamanda hormon salgılayan endokrin organlardır.",
+          "images": [],
+          "text_ar": "الكليتان عضوان صماء يفرزان الهرمونات أيضًا."
+        },
+        {
+          "letter": "B",
+          "text": "Vücutta 2 adet böbrek bulunmaktadır.",
+          "images": [],
+          "text_ar": "يوجد في الجسم كليتان."
+        },
+        {
+          "letter": "C",
+          "text": "Böbrekler peritonun arkasında yer almaktadır.",
+          "images": [],
+          "text_ar": "تقع الكليتان خلف البريتوان."
+        },
+        {
+          "letter": "D",
+          "text": "Böbrekler idrarın oluştuğu organlardır.",
+          "images": [],
+          "text_ar": "الكليتان عضوان يتكون فيهما البول."
+        },
+        {
+          "letter": "E",
+          "text": "Sol böbrek sağa göre daha aşağıdadır.",
+          "images": [],
+          "text_ar": "الكلى اليسرى أدنى من الكلى اليمنى."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي العبارات التالية عن الكليتين غير صحيحة؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "İnsan vücudunda soldan sağa veya sağdan sola doğru geçen eksene ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Axis verticalis",
+          "images": [],
+          "text_ar": "المحور العمودي"
+        },
+        {
+          "letter": "B",
+          "text": "Axis transversalis",
+          "images": [],
+          "text_ar": "المحور المستعرض"
+        },
+        {
+          "letter": "C",
+          "text": "Axis sagittalis",
+          "images": [],
+          "text_ar": "المحور السهمي"
+        },
+        {
+          "letter": "D",
+          "text": "Axis medialis",
+          "images": [],
+          "text_ar": "المحور الإنسي"
+        },
+        {
+          "letter": "E",
+          "text": "Axis medianum",
+          "images": [],
+          "text_ar": "المحور الناصف"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ماذا يسمى المحور المار في جسم الإنسان من اليسار إلى اليمين أو من اليمين إلى اليسار؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Üst ekstremiteyi besleyen arter aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Arteria iliaca communis",
+          "images": [],
+          "text_ar": "الشريان الحرقفي المشترك"
+        },
+        {
+          "letter": "B",
+          "text": "Arteria subclavia",
+          "images": [],
+          "text_ar": "الشريان تحت الترقوة"
+        },
+        {
+          "letter": "C",
+          "text": "Arteria carotis communis",
+          "images": [],
+          "text_ar": "الشريان السباتي المشترك"
+        },
+        {
+          "letter": "D",
+          "text": "Arteria renalis",
+          "images": [],
+          "text_ar": "الشريان الكلوي"
+        },
+        {
+          "letter": "E",
+          "text": "Arteria femoralis",
+          "images": [],
+          "text_ar": "الشريان الفخذي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي الشرايين التالية يغذي الطرف العلوي؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki kaslardan hangisi omuz ekleminin stabilizasyonunda büyük önem taşıyan rotator manşet kaslarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "M. subscapularis",
+          "images": [],
+          "text_ar": "العضلة تحت الكتفية"
+        },
+        {
+          "letter": "B",
+          "text": "M. infraspinatus",
+          "images": [],
+          "text_ar": "العضلة تحت الشوكية"
+        },
+        {
+          "letter": "C",
+          "text": "M. supraspinatus",
+          "images": [],
+          "text_ar": "العضلة فوق الشوكية"
+        },
+        {
+          "letter": "D",
+          "text": "M. teres minor",
+          "images": [],
+          "text_ar": "العضلة المدورة الصغرى"
+        },
+        {
+          "letter": "E",
+          "text": "M. teres major",
+          "images": [],
+          "text_ar": "العضلة المدورة الكبرى"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي العضلات التالية لا يُعد من عضلات الكم الدوارة ذات الأهمية الكبيرة في تثبيت مفصل الكتف؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki yapılardan hangisi boyun bölgesinde yer alan spinal sinir ağıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Plexus lumbalis",
+          "images": [],
+          "text_ar": "الضفيرة القطنية"
+        },
+        {
+          "letter": "B",
+          "text": "Plexus coccygeus",
+          "images": [],
+          "text_ar": "الضفيرة العصعصية"
+        },
+        {
+          "letter": "C",
+          "text": "Plexus cervicalis",
+          "images": [],
+          "text_ar": "الضفيرة العنقية"
+        },
+        {
+          "letter": "D",
+          "text": "Plexus sacralis",
+          "images": [],
+          "text_ar": "الضفيرة العجزية"
+        },
+        {
+          "letter": "E",
+          "text": "Plexus brachialis",
+          "images": [],
+          "text_ar": "الضفيرة العضدية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي البنى التالية هي ضفيرة الأعصاب الشوكية الموجودة في منطقة العنق؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki kaslardan hangisi kol kası olmasına rağmen ön kola hareket yaptırmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "M. biceps brachii",
+          "images": [],
+          "text_ar": "العضلة ذات الرأسين العضدية"
+        },
+        {
+          "letter": "B",
+          "text": "M. triceps brachii",
+          "images": [],
+          "text_ar": "العضلة ثلاثية الرؤوس العضدية"
+        },
+        {
+          "letter": "C",
+          "text": "M. brachialis",
+          "images": [],
+          "text_ar": "العضلة العضدية"
+        },
+        {
+          "letter": "D",
+          "text": "M. coracobrachialis",
+          "images": [],
+          "text_ar": "العضلة الغرابية العضدية"
+        },
+        {
+          "letter": "E",
+          "text": "M. supraspinatus",
+          "images": [],
+          "text_ar": "العضلة فوق الشوكية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي العضلات التالية رغم أنها من عضلات العضد لا تحرك الساعد؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Vücutta yüzeyden uzak (derin) anlamına gelen ifade aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Superficialis",
+          "images": [],
+          "text_ar": "سطحي"
+        },
+        {
+          "letter": "B",
+          "text": "Proximalis",
+          "images": [],
+          "text_ar": "قريب"
+        },
+        {
+          "letter": "C",
+          "text": "Profundus",
+          "images": [],
+          "text_ar": "عميق"
+        },
+        {
+          "letter": "D",
+          "text": "Medianus",
+          "images": [],
+          "text_ar": "ناصف"
+        },
+        {
+          "letter": "E",
+          "text": "Distalis",
+          "images": [],
+          "text_ar": "بعيد"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي المصطلحات التالية يعني «بعيدًا عن السطح (عميق)» في الجسم؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Paranasal sinüslerin enfeksiyona bağlı olarak içindeki hava yerine sıvı (mukus) birikmesine verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sinüzit",
+          "images": [],
+          "text_ar": "التهاب الجيوب"
+        },
+        {
+          "letter": "B",
+          "text": "Otit",
+          "images": [],
+          "text_ar": "التهاب الأذن"
+        },
+        {
+          "letter": "C",
+          "text": "Tonsillit",
+          "images": [],
+          "text_ar": "التهاب اللوزتين"
+        },
+        {
+          "letter": "D",
+          "text": "Bronşit",
+          "images": [],
+          "text_ar": "التهاب القصبات"
+        },
+        {
+          "letter": "E",
+          "text": "Farenjit",
+          "images": [],
+          "text_ar": "التهاب البلعوم"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما اسم الحالة التي يتجمع فيها سائل (مخاط) بدل الهواء داخل الجيوب الأنفية المجاورة للأنف بسبب العدوى؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Uyluk ön grup kaslarını uyaran ”n. femoralis” hangi plexusun dalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Plexus pterygoideus",
+          "images": [],
+          "text_ar": "الضفيرة الجناحية"
+        },
+        {
+          "letter": "B",
+          "text": "Plexus brachialis",
+          "images": [],
+          "text_ar": "الضفيرة العضدية"
+        },
+        {
+          "letter": "C",
+          "text": "Plexus sacralis",
+          "images": [],
+          "text_ar": "الضفيرة العجزية"
+        },
+        {
+          "letter": "D",
+          "text": "Plexus lumbalis",
+          "images": [],
+          "text_ar": "الضفيرة القطنية"
+        },
+        {
+          "letter": "E",
+          "text": "Plexus cervicalis",
+          "images": [],
+          "text_ar": "الضفيرة العنقية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "العصب الفخذي (n. femoralis) الذي يغذي مجموعة عضلات الفخذ الأمامية هو فرع من أي ضفيرة؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Tuba uterina bölümlerinden en geniş olanı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ampulla",
+          "images": [],
+          "text_ar": "الأمبولة"
+        },
+        {
+          "letter": "B",
+          "text": "Infundibulum",
+          "images": [],
+          "text_ar": "القمع"
+        },
+        {
+          "letter": "C",
+          "text": "Isthmus",
+          "images": [],
+          "text_ar": "البرزخ"
+        },
+        {
+          "letter": "D",
+          "text": "Fimbria tuba uterina",
+          "images": [],
+          "text_ar": "خملات قناة الرحم"
+        },
+        {
+          "letter": "E",
+          "text": "Pars uterina",
+          "images": [],
+          "text_ar": "الجزء الرحمي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي أجزاء قناة الرحم هو الأوسع؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Merkezi sinir sistemi ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Merkezi sinir sistemi 3 kat zarla kaplıdır.",
+          "images": [],
+          "text_ar": "الجهاز العصبي المركزي مغطى بثلاث طبقات من الأغشية."
+        },
+        {
+          "letter": "B",
+          "text": "Merkezi sinir sisteminde nöron olarak adlandırılan hücreler yer alır.",
+          "images": [],
+          "text_ar": "يضم الجهاز العصبي المركزي خلايا تُسمى العصبونات."
+        },
+        {
+          "letter": "C",
+          "text": "Kol kaslarını uyaran sinirler merkezi sinir sistemi içinde yer almaktadır.",
+          "images": [],
+          "text_ar": "الأعصاب التي تغذي عضلات الذراع تقع داخل الجهاز العصبي المركزي."
+        },
+        {
+          "letter": "D",
+          "text": "Merkezi sinir sisteminin omurganın içindeki bölümüne omurilik denir.",
+          "images": [],
+          "text_ar": "يُسمى الجزء من الجهاز العصبي المركزي الموجود داخل العمود الفقري بالنخاع الشوكي."
+        },
+        {
+          "letter": "E",
+          "text": "Merkezi sinir sistemi kemik yapılar tarafından korunmuştur.",
+          "images": [],
+          "text_ar": "الجهاز العصبي المركزي محمي بالبنى العظمية."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي المعلومات التالية عن الجهاز العصبي المركزي غير صحيحة؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "7cb487d15c9aa2d785d8afe5fe15dd39ec6ee87f5b6822a753d8e5fa34f5dd14"
+}

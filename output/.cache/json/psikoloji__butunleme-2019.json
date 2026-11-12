@@ -1,0 +1,807 @@
+{
+  "course": "Psikoloji ve Psikolojiye Giriş – 1",
+  "course_slug": "psikoloji",
+  "exam": "2019 Bütünleme Soruları",
+  "exam_slug": "butunleme-2019",
+  "page_title": "Psikolojiye Giriş-1 Final ve Büt 2019 Sorular",
+  "source_url": "https://lolonolo.com/2020/12/27/psikolojiye-giris-1-final-ve-but-2019-sorular/",
+  "scraped_at": "2026-11-12T02:21:38+03:00",
+  "answer_source": "inline",
+  "question_count": 23,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki yapılardan hangisi beyin ile endokrin sistem arasında bir taşıma istasyonu görevi görür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hipokampus",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hipotalamus",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Korpus Callosum",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Amigdala",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Limbik Sistem",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Davranışlarımızın çoğunu gizli amaçlar ve bilinç dışı arzular tarafından yönlendirildiğini savunan yaklaşım hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel Yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gestalt ekolü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Psikanalitik Yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hümanistik Yaklaşım",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Hangisi bilimin amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olguları açıklamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kendi kuram/modellerini yayınlamak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öngörülerde bulunmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mevcut olguları açıklayan kuramlar önermek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öngörülerini sınamak",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Bowlby’e göre güvenli bağlanmış bir çocuğun davranışlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk anneden ayrılmakta güçlük çekmez.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaygılandığında kolayca yatıştırılabilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anneyi bir yabancıya tercih eder.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ayrıldıktan sonra anne yanına geldiğinde tepki verir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anne güvenli üs olarak kullanılır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "“ EEG kayıtları alınarak uyanık bilinçli hal ile bilinçsiz haller arasındaki farklı beyin etkinliklerini tanımlayabildiğimiz ve bilinçli deneyim ile bilinçsiz deneyimler arasındaki farkı net bir şekilde görebildiğimiz bir bilinç değişimi durumudur.” Tanımı hangisine aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "uyku",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "rüya",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bilinç",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "bilinçaltı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Hangisinde bilinç düzeyi değişmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Meditasyon",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Uyku",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hipnoz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Halüsilasyon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Cinnet",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Model alma ile öğrenmede hangisi yoktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Harekete geçme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Davranışa dikkat etme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Davranışı hatırlama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Güdülenme-motivasyon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yeni davranış üretme",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Hangisi temel algılama ilkelerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yanılmazlık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Şekil/Zemin algısı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Basitlik/İyi şekil algısı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bütünleme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Benzerlik",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Uyarıcı ne kadar büyükse ya da şiddetliyse ancak farkedilebilir. Fark yaratmak için gerekli değişiklik o kadar büyüktür. Bu cümleyi aşağıdakilerden hangisi tanımlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ebbinghaus eğrisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Weber yasası",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Helmhetz İlkesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Şiddet Prensibi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Uyaran kabulu prensibi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Eğer bir bireyde belirli bir özelliğin (risk alma eğilimi gibi) mevcut olup olmadığını ve ne düzeyde olduğunu bireyin beyanına bağlı olarak görmek istiyorsak ne tür bir veri toplama aracı kullanılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözlem",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Görüşme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anket",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ölçek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Test",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi vücut sistemlerinin eş güdümlü olarak çalışabilmesinin nedenlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eş güdüm ve haberleşmeyi sağlayan sistemler vardır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sinir sistemi sinir akımları yoluyla elektrokimyasal mesaj iletir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sinir sistemi ve endokrin sistem etkileşimli olarak işlev görür.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Endokrin sistem hormonlar yoluyla kimyasal mesaj iletir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sinir sistemi ve endokrin sistemi birbirinden bağımsız olarak çalışır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Sinir sisteminin genel yapısı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Birlikte çalışan, birkaç kısımdan oluşan karmaşık ağsal bir yapıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bu ağ sinir dokularından oluşur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Merkezi sinir sistemi, somatik ve otonom sinir sisteminden oluşur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çevresel sinir sistemi vücudun her yanını saran bir ağdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sinir sisteminin yapı taşı nöronlardır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Nörotransmitterlerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Biyokimyasal bir maddedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Akson uçlarında bulunur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çeşitli işlevler gören farklı nörotransmitterler vardır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Her nörotransmitter bütün reseptörlere bağlanabilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bazıları gelen iletiyi ketler, bazıları ise ateşler.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Bütün gelişim alanları düşünüldüğünde, kısa sürede oldukça hızlı ve önemli değişikliklerin oluştuğu alan aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişilik gelişimi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilişsel gelişim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal gelişim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ahlak gelişimi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Fiziksel ve motor gelişim",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Dünyanın sağ yanından gelen bilgilerin işlendiği bölge aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beynin sol yanı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Beynin sağ yanı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Beynin önü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Beynin sapı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Beynin arkası",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Bir alışveriş merkezinde 100 milyon tl lik alışveriş yapana 10 milyon tl ödül verileceğinin duyurulması hangi pekiştirme tarifesine girer?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sabit oranlı pekiştirme tarifesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Değişken zaman aralıklı pekiştirme Değişken oranlı pekiştirme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sürekli pekiştirme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sabit zaman aralıklı pekiştirme",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Hangisi çalışma belleği bileşeni değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fonolojik döngü",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Görsel mekânsal kopyalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Merkezi yürütme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Episodik (destek) tampon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yürütücü kontrol",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Algısal yanılmalar ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Algı yanılmaları bir çeşit halüsinasyondur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mevcut algının bir yanılgı olduğu açıkça kanıtlanabilir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İşitme, tat ve dokunma duyularında da yanılmalar vardır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Fiziksel bazı yanılmaları, algısal yanılmalardan ayırmak gerekir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnsanların çoğu aynı algısal durumlarda ortak yanılmalar yaşarlar.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi sinaptik iletinin oluşumunda rol almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nörotransmitter",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sinaptik kesecik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Akson",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gliya",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sinaps",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "İşitme malumatı hangi organa ulaştığında sıvıya aktarılmış olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Salyangoz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fovea",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Üzengi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İşitme siniri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kulak zarı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "Ankara’nın başkent olduğunu hatırlayan kişi hangi belleği kullanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşlemsel bellek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Semantik bellek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Episodik bellek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çalışma belleği",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kısa süreli bellek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "Otobiyografik belleğin özellikleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişinin kendi geçmişiyle ilgili anılardır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hatırlananların önemli bir kısmı, “yalnızca bir kez” olan olaylardır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Uzak yıllardaki olaylar daha iyi hatırlanmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Anıların mükemmel olmasa da oldukça iyi hatırlanabilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Otobiyografik bellek, bütün beyine yayılmış, birbirini izleyen zincirleme bir süreçtir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "Bir araştırmacı, hedefinin zihinsel süreçleri basit parçaların birleşimleri olarak anlamak olduğunu belirtiyor. Buna göre araştırmasının tarihsel kökü hangisine dayanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşlevselcilik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yapısalcılık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hümanist yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Evrimci Yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Davranışçılık",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "dcd9a8ec2fefc423d5a98eb536ea26850ad684b0e7cf100478fa570e13f9541a"
+}

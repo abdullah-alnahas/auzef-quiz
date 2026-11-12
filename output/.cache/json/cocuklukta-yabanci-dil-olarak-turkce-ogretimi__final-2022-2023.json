@@ -1,0 +1,865 @@
+{
+  "course": "ÇOCUKLUKTA YABANCI DİL OLARAK TÜRKÇE ÖĞRETİMİ",
+  "course_slug": "cocuklukta-yabanci-dil-olarak-turkce-ogretimi",
+  "exam": "2022-2023 Final Soruları",
+  "exam_slug": "final-2022-2023",
+  "page_title": "Çocuklukta Yabancı Dil Olarak Türkçe Öğretimi 2022-2023 Final",
+  "source_url": "https://lolonolo.com/2023/01/05/cocuklukta-yabanci-dil-olarak-turkce-ogretimi-2022-2023-final/",
+  "scraped_at": "2026-11-12T02:21:16+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Sınama yoluyla öğrenmede aşağıdaki kavramlardan hangilerinden yararlanarak öğrenme gerçekleşmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okuma ve yazma",
+          "images": [],
+          "text_ar": "القراءة والكتابة"
+        },
+        {
+          "letter": "B",
+          "text": "Direktif ve taklit",
+          "images": [],
+          "text_ar": "التوجيه والتقليد"
+        },
+        {
+          "letter": "C",
+          "text": "Talimat ve tekrar",
+          "images": [],
+          "text_ar": "التعليمات والتكرار"
+        },
+        {
+          "letter": "D",
+          "text": "Görme ve duyma",
+          "images": [],
+          "text_ar": "الرؤية والسمع"
+        },
+        {
+          "letter": "E",
+          "text": "Etki ve tepki",
+          "images": [],
+          "text_ar": "التأثير والاستجابة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "في التعلم عن طريق المحاولة والخطأ، أي من المفاهيم الآتية يُستعان بها لتحقيق التعلم؟",
+      "review": [
+        "q1.E: المصطلحان etki ve tepki غامضان في المصدر؛ نُقلا بأقرب معنى"
+      ]
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bir dinleme öncesi etkinliği değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Materyal inceleme",
+          "images": [],
+          "text_ar": "فحص المادة التعليمية"
+        },
+        {
+          "letter": "B",
+          "text": "Ön bilgileri harekete geçirme",
+          "images": [],
+          "text_ar": "تنشيط المعلومات المسبقة"
+        },
+        {
+          "letter": "C",
+          "text": "Amaç belirleme",
+          "images": [],
+          "text_ar": "تحديد الهدف"
+        },
+        {
+          "letter": "D",
+          "text": "Bağlam oluşturma",
+          "images": [],
+          "text_ar": "بناء السياق"
+        },
+        {
+          "letter": "E",
+          "text": "Soru belirleme",
+          "images": [],
+          "text_ar": "تحديد الأسئلة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أنشطة ما قبل الإنصات؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Selinker, ikinci dil edinimi sürecinde anlaşılabilir dil verisi ile karşılaşmanın oldukça önemli olduğunu belirtmekte ve bunu “i” olarak adlandırmaktadır. Bunun ötesinde olan yani bireylerin anlamlandıramadığı dil verisini ise “i+1” olarak adlandırmaktadır. Dil edinicilerinin “i+1” niteliğinde dil verisi ile karşılaşması edinim sürecini olumsuz etkilemektedir. Yukarıda açıklanan ve Selinker’in ortaya koyduğu varsayım aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Etkisel Filtre varsayımı",
+          "images": [],
+          "text_ar": "فرضية المرشح الوجداني"
+        },
+        {
+          "letter": "B",
+          "text": "Karmalaştırma varsayımı",
+          "images": [],
+          "text_ar": "فرضية التهجين"
+        },
+        {
+          "letter": "C",
+          "text": "Ana dilleştirme varsayımı",
+          "images": [],
+          "text_ar": "فرضية التأصيل في اللغة الأم"
+        },
+        {
+          "letter": "D",
+          "text": "Girdi varsayımı",
+          "images": [],
+          "text_ar": "فرضية المدخلات"
+        },
+        {
+          "letter": "E",
+          "text": "Ara dil varsayımı",
+          "images": [],
+          "text_ar": "فرضية اللغة البينية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "يرى سيلينكر أن مواجهة المدخلات اللغوية المفهومة أمر بالغ الأهمية في عملية اكتساب اللغة الثانية، ويسميها «i». أما ما هو أبعد من ذلك، أي المدخلات اللغوية التي لا يستطيع الأفراد إعطاؤها معنى، فيسميها «i+1». ومواجهة مكتسبي اللغة مدخلاتٍ لغوية من نوع «i+1» تؤثر سلبًا في عملية الاكتساب. ما الافتراض الذي شرحه سيلينكر في النص أعلاه؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Konuşmanın üç farklı boyutu aşağıdakilerden hangisinde doğru şekilde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nörolojik fiziksel - toplumsal",
+          "images": [],
+          "text_ar": "عصبي - جسدي - اجتماعي"
+        },
+        {
+          "letter": "B",
+          "text": "Trajik - psikolojik - algısal",
+          "images": [],
+          "text_ar": "مأساوي - نفسي - إدراكي"
+        },
+        {
+          "letter": "C",
+          "text": "Toplumsal - nörolojik - ruhsal",
+          "images": [],
+          "text_ar": "اجتماعي - عصبي - روحي"
+        },
+        {
+          "letter": "D",
+          "text": "Psikolojik fiziksel - ruhsal",
+          "images": [],
+          "text_ar": "نفسي - جسدي - روحي"
+        },
+        {
+          "letter": "E",
+          "text": "Fiziksel - psikolojik toplumsal",
+          "images": [],
+          "text_ar": "جسدي - نفسي - اجتماعي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي يذكر الأبعاد الثلاثة المختلفة للكلام ذكرًا صحيحًا؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "“Temel amaç; çözümleyici ve bütünleyici şemaları tetiklemektedir. Dolayısıyla öğrencinin dünya bilgisi harekete geçirilerek öğrenci yapılacaklara hazır hale getirilir.” Yukarıdaki ifadeler bir etkinliğin hangi bölümünü tarif etmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Etkinlik sırası",
+          "images": [],
+          "text_ar": "أثناء النشاط"
+        },
+        {
+          "letter": "B",
+          "text": "Etkinlik amaçları",
+          "images": [],
+          "text_ar": "أهداف النشاط"
+        },
+        {
+          "letter": "C",
+          "text": "Etkinlik sonrası",
+          "images": [],
+          "text_ar": "بعد النشاط"
+        },
+        {
+          "letter": "D",
+          "text": "Etkinlik değerlendirme",
+          "images": [],
+          "text_ar": "تقييم النشاط"
+        },
+        {
+          "letter": "E",
+          "text": "Etkinlik öncesi",
+          "images": [],
+          "text_ar": "قبل النشاط"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "«الهدف الأساسي هو تحفيز المخططات التحليلية والتكاملية. وبالتالي تُنشَّط معرفة الطالب بالعالم ليصبح مستعدًا لما سيُنجز.» أي أجزاء النشاط تصفها العبارات أعلاه؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Okul öncesi dönemde tema ağırlıklı bir izlence ile öğretim yapılacağından temanın içinde yer alan kavram alanına uygun sözcüklere yer verilmesi gerekecektir. Buna göre okul öncesi dönemde yabancı dil olarak Türkçe öğretiminde temalar belirlenirken aşağıdakilerden hangisine dikkat edilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Temalar rastgele belirlenmelidir.",
+          "images": [],
+          "text_ar": "أن تُحدَّد الموضوعات عشوائيًا."
+        },
+        {
+          "letter": "B",
+          "text": "Yabancı dil olarak Türkçe öğretiminde temalar belirlenirken ailenin görüşü alınmalıdır.",
+          "images": [],
+          "text_ar": "أن يُؤخذ رأي الأسرة عند تحديد الموضوعات في تعليم التركية كلغة أجنبية."
+        },
+        {
+          "letter": "C",
+          "text": "Okul öncesi dönemde tema belirlenirken öncelik zor temalara verilmelidir.",
+          "images": [],
+          "text_ar": "أن تُعطى الأولوية للموضوعات الصعبة عند تحديد الموضوع في مرحلة ما قبل المدرسة."
+        },
+        {
+          "letter": "D",
+          "text": "Temalar sadece soyut konularda olmalıdır.",
+          "images": [],
+          "text_ar": "أن تكون الموضوعات في قضايا مجردة فقط."
+        },
+        {
+          "letter": "E",
+          "text": "Öğrencinin gerçek yaşamda kolaylıkla bağ kurabileceği bir çerçeve içerisinde temalar belirlenmelidir.",
+          "images": [],
+          "text_ar": "أن تُحدَّد الموضوعات في إطار يستطيع الطالب ربطها بسهولة بالحياة الواقعية."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "بما أن التدريس في مرحلة ما قبل المدرسة يُجرى بمنهج دراسي يقوم على المحور الموضوعي، فسيقتضي الأمر إدراج كلمات تناسب المجال المفهومي الوارد ضمن الموضوع. ووفقًا لذلك، ما الذي ينبغي مراعاته عند تحديد الموضوعات في تعليم التركية كلغة أجنبية في مرحلة ما قبل المدرسة؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "“Türkçede ‘-dır’ eki bulunduğu cümleye kesinlik özelliği kattığından dolayı ‘-dır’ ekine bilimsel makalelerde ve kesinlik içeren bağlamlarda sıklıkla karşılaşılmaktadır.” Yukarıdaki metinde bir dilbilgisel yapının hangi özelliği aktarılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel özelliği",
+          "images": [],
+          "text_ar": "السمة المعرفية"
+        },
+        {
+          "letter": "B",
+          "text": "Kullanımsal özelliği",
+          "images": [],
+          "text_ar": "السمة الاستعمالية"
+        },
+        {
+          "letter": "C",
+          "text": "Biçimsel özelliği",
+          "images": [],
+          "text_ar": "السمة الشكلية"
+        },
+        {
+          "letter": "D",
+          "text": "Anlamsal özelliği",
+          "images": [],
+          "text_ar": "السمة الدلالية"
+        },
+        {
+          "letter": "E",
+          "text": "Söylemsel özelliği",
+          "images": [],
+          "text_ar": "السمة الخطابية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "«بما أن اللاحقة ‹-dır› في التركية تضيف إلى الجملة التي ترد فيها خاصية اليقين، فإن هذه اللاحقة تُلاقى كثيرًا في المقالات العلمية والسياقات التي تتضمن اليقين.» أي خصائص البنية النحوية تُنقل في النص أعلاه؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukların alfabe bilgisini arttırabilmek için okul öncesi öğretmenlerinin düzenleyebilecekleri çalışmalardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Birbirleriyle belirli bir konuda münazara yapmalarını sağlamak",
+          "images": [],
+          "text_ar": "أن يتيح لهم إجراء مناظرة بينهم في موضوع محدد"
+        },
+        {
+          "letter": "B",
+          "text": "Harflerin seslerini tanıtmak ve oyun hamurlarından harf şekilleri yapmalarını istemek",
+          "images": [],
+          "text_ar": "أن يعرّفهم بأصوات الحروف ويطلب منهم تشكيل أشكال الحروف من معجون اللعب"
+        },
+        {
+          "letter": "C",
+          "text": "Alfabe harflerini sayıların asıldığı gibi sınıflarına asmak",
+          "images": [],
+          "text_ar": "أن يعلّق حروف الأبجدية في صفوفهم كما تُعلَّق الأعداد"
+        },
+        {
+          "letter": "D",
+          "text": "Kabartma harflerin üzerinden parmakla gitmelerini İstemek",
+          "images": [],
+          "text_ar": "أن يطلب منهم تتبّع الحروف البارزة بأصابعهم"
+        },
+        {
+          "letter": "E",
+          "text": "Havada ve kum üzerinde harf şekillerini çizebilmelerini istemek",
+          "images": [],
+          "text_ar": "أن يطلب منهم رسم أشكال الحروف في الهواء وعلى الرمل"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من الأعمال التي يمكن لمعلمي ما قبل المدرسة تنظيمها لزيادة معرفة الأطفال بالأبجدية؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Türkçede -(y)An eki eylemlere gelerek bu eylemlere sıfat işlevi kazandırmaktadır. Ünlü uyumuna göre bu ek “-an” ve “-en” biçiminde bulunabilir. Aynı zamanda bir ünlü ile biten eyleme eklendiğinde araya “y” ünsüzü girer. Yukarıdaki metinde bir dilbilgisel yapının hangi özelliği aktarılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kullanımsal özelliği",
+          "images": [],
+          "text_ar": "السمة الاستعمالية"
+        },
+        {
+          "letter": "B",
+          "text": "Anlamsal özelliği",
+          "images": [],
+          "text_ar": "السمة الدلالية"
+        },
+        {
+          "letter": "C",
+          "text": "Biçimsel özelliği",
+          "images": [],
+          "text_ar": "السمة الشكلية"
+        },
+        {
+          "letter": "D",
+          "text": "Söylemsel özelliği",
+          "images": [],
+          "text_ar": "السمة الخطابية"
+        },
+        {
+          "letter": "E",
+          "text": "Bilişsel özelliği",
+          "images": [],
+          "text_ar": "السمة المعرفية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "تأتي اللاحقة -(y)An في التركية على الأفعال فتكسبها وظيفة الصفة. ووفقًا لتوافق الحركات، قد ترد هذه اللاحقة في صورة «-an» و«-en». كما أنها إذا أُلحقت بفعل ينتهي بحركة دخل بينهما الحرف الساكن «y». أي خصائص البنية النحوية تُنقل في النص أعلاه؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "“Ara dil, gerek ana dille gerekse hedef dille karşılaştırıldığında bozuk bir dil olarak görülse de kendi içerisinde kural yönetimli olduğu ve dahası bu kuralların oldukça tutarlı olduğu görülmektedir.” Yukarıdaki ifadelerle ara dilin hangi özelliği vurgulanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ara dil, davranışsaldır.",
+          "images": [],
+          "text_ar": "اللغة البينية سلوكية."
+        },
+        {
+          "letter": "B",
+          "text": "Ara dil, bilişseldir.",
+          "images": [],
+          "text_ar": "اللغة البينية معرفية."
+        },
+        {
+          "letter": "C",
+          "text": "Ara dil, sistematiktir.",
+          "images": [],
+          "text_ar": "اللغة البينية نظامية."
+        },
+        {
+          "letter": "D",
+          "text": "Ara dil, geçirgendir.",
+          "images": [],
+          "text_ar": "اللغة البينية قابلة للنفاذ."
+        },
+        {
+          "letter": "E",
+          "text": "Ara dil, dinamiktir.",
+          "images": [],
+          "text_ar": "اللغة البينية ديناميكية."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "«اللغة البينية، وإن بدت لغة معطوبة عند مقارنتها باللغة الأم أو باللغة الهدف، فإنها تُظهر أنها محكومة بقواعد خاصة بها، بل إن هذه القواعد متسقة إلى حد كبير.» أي خصائص اللغة البينية تُبرزها العبارات أعلاه؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Dil, anlama ve anlatma becerilerinden oluşur. Buna göre aşağıdaki dil becerileri ve alt başlıkları eşleştirmelerinden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anlatma - Yazma",
+          "images": [],
+          "text_ar": "التعبير – الكتابة"
+        },
+        {
+          "letter": "B",
+          "text": "Anlatma - Konuşma",
+          "images": [],
+          "text_ar": "التعبير – الكلام"
+        },
+        {
+          "letter": "C",
+          "text": "Anlama - Dinleme",
+          "images": [],
+          "text_ar": "الفهم – الإنصات"
+        },
+        {
+          "letter": "D",
+          "text": "Anlama Yazma",
+          "images": [],
+          "text_ar": "الفهم – الكتابة"
+        },
+        {
+          "letter": "E",
+          "text": "Anlama Okuma",
+          "images": [],
+          "text_ar": "الفهم – القراءة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "تتكوّن اللغة من مهارات الفهم والتعبير. ووفقًا لذلك، أي مما يلي غير صحيح في مطابقة مهارات اللغة وفروعها؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Almanya’da İngilizce kursuna giderek yeni bir dil edinmeye çalışan ana dili Almanca konuşucusunun mevcut durumu iki dillilik bağlamında değerlendirildiğinde aşağıdakilerden hangisi olarak tanımlanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Seçmeli iki dillilik",
+          "images": [],
+          "text_ar": "الثنائية اللغوية الاختيارية"
+        },
+        {
+          "letter": "B",
+          "text": "Eşzamanlı iki dillilik",
+          "images": [],
+          "text_ar": "الثنائية اللغوية المتزامنة"
+        },
+        {
+          "letter": "C",
+          "text": "Durumsal iki dillilik",
+          "images": [],
+          "text_ar": "الثنائية اللغوية الظرفية"
+        },
+        {
+          "letter": "D",
+          "text": "Aile iki dilliliği",
+          "images": [],
+          "text_ar": "الثنائية اللغوية الأسرية"
+        },
+        {
+          "letter": "E",
+          "text": "Eksiltmeli iki dillilik",
+          "images": [],
+          "text_ar": "الثنائية اللغوية الانتقاصية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "إذا قُيّم الوضع الحالي لمتحدث لغته الأم ألمانية يحاول اكتساب لغة جديدة بالالتحاق بدورة للغة الإنجليزية في ألمانيا في سياق الثنائية اللغوية، فأي مما يلي يمكن تعريفه به؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "I. Konuşma, okuma ve yazmayla birlikte geliştirilemez. II. Konuşmanın sadece fiziksel boyutu vardır. III. Konuşma yoluyla öğrenme, anlama, kendini geliştirme daha kolay olmaktadır. IV. Konuşma sırasında çeşitli görüş, düşünce, duygu ve sorunlar paylaşılmakta, başkalarının düşünceleri öğrenilmektedir. Konuşmayla ilgili yukarıda verilen yargılardan hangisi ya da hangileri yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız IV",
+          "images": [],
+          "text_ar": "IV فقط"
+        },
+        {
+          "letter": "C",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "D",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "I. لا يمكن تطوير الكلام إلى جانب القراءة والكتابة. II. للكلام بعد جسدي فقط. III. يصبح التعلم والفهم وتطوير الذات أسهل عن طريق الكلام. IV. أثناء الكلام تُتشارك آراء وأفكار وعواطف ومشكلات متنوعة، وتُتعرَّف أفكار الآخرين. أي من الأحكام المذكورة أعلاه بشأن الكلام غير صحيحة، واحدة كانت أو أكثر؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "” …… konuşma organının belirli hareketleri ile oluşan ve belli bir biçimde sıralanarak aynı dili konuşanlar arasında bir kavram ifadesi için kullanılan kelimeleri oluşturan anlam ayırt edici sestir.” Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ses bilim",
+          "images": [],
+          "text_ar": "علم الأصوات"
+        },
+        {
+          "letter": "B",
+          "text": "Ses birim",
+          "images": [],
+          "text_ar": "الوحدة الصوتية"
+        },
+        {
+          "letter": "C",
+          "text": "Tonlama",
+          "images": [],
+          "text_ar": "النبرة"
+        },
+        {
+          "letter": "D",
+          "text": "Ses",
+          "images": [],
+          "text_ar": "الصوت"
+        },
+        {
+          "letter": "E",
+          "text": "Durak",
+          "images": [],
+          "text_ar": "الوقف"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "«…… صوت مميّز للمعنى يتكوّن من حركات معينة للعضو الناطق، وينتظم بترتيب معين لتكوين الكلمات التي تُستخدم للتعبير عن مفهوم بين متحدثي اللغة نفسها.» أي مما يلي ينبغي وضعه في الفراغ في الجملة أعلاه؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "İkinci dil edinimi sürecinde bireylerin sergiledikleri dil özelliği hem ana dilinden hem de hedef dilden birtakım özellikleri barındırabilir. Selinker’e göre bu dil özelliği hedef dilden gelen girdiler sayesinde hedef dile doğru gelişim gösterir. Selinker’in ortaya koyduğu bu dil aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Amaç dil",
+          "images": [],
+          "text_ar": "اللغة الهدف"
+        },
+        {
+          "letter": "B",
+          "text": "Birinci dil",
+          "images": [],
+          "text_ar": "اللغة الأولى"
+        },
+        {
+          "letter": "C",
+          "text": "Ara dil",
+          "images": [],
+          "text_ar": "اللغة البينية"
+        },
+        {
+          "letter": "D",
+          "text": "Kaynak dil",
+          "images": [],
+          "text_ar": "اللغة المصدر"
+        },
+        {
+          "letter": "E",
+          "text": "İkinci dil",
+          "images": [],
+          "text_ar": "اللغة الثانية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "قد تحمل السمة اللغوية التي يُظهرها الأفراد في عملية اكتساب اللغة الثانية بعض خصائص اللغة الأم وبعض خصائص اللغة الهدف. ويرى سيلينكر أن هذه السمة اللغوية تتطور نحو اللغة الهدف بفضل المدخلات الآتية من اللغة الهدف. ما هذه اللغة التي طرحها سيلينكر؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Bir çocuğun doğumundan itibaren babası ile Fransızca, annesi ile İngilizce etkileşime girmesi durumunda oluşacak iki dillilik aşağıdakilerden hangisi ile tanımlanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eş zamanlı iki dillilik",
+          "images": [],
+          "text_ar": "الثنائية اللغوية المتزامنة"
+        },
+        {
+          "letter": "B",
+          "text": "Yarım iki dillilik",
+          "images": [],
+          "text_ar": "الثنائية اللغوية الناقصة"
+        },
+        {
+          "letter": "C",
+          "text": "Geç iki dillilik",
+          "images": [],
+          "text_ar": "الثنائية اللغوية المتأخرة"
+        },
+        {
+          "letter": "D",
+          "text": "Azınlık iki dilliliği",
+          "images": [],
+          "text_ar": "ثنائية الأقلية اللغوية"
+        },
+        {
+          "letter": "E",
+          "text": "Sıralı iki dillilik",
+          "images": [],
+          "text_ar": "الثنائية اللغوية المتتابعة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "إذا تفاعل طفل منذ ولادته بالفرنسية مع أبيه وبالإنجليزية مع أمه، فبأي مما يلي يمكن تعريف الثنائية اللغوية التي تنشأ؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "“Hiç kimse konuştuğu dilin tüm söz varlığını bilemez.” ifadesiyle vurgulanmak istenen aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ezber yeteneğinin söz varlığını geliştirmek için önemli olduğu",
+          "images": [],
+          "text_ar": "أن قدرة الحفظ مهمة لتنمية المخزون اللفظي"
+        },
+        {
+          "letter": "B",
+          "text": "Dildeki söz sayısının çok geniş olduğu",
+          "images": [],
+          "text_ar": "أن عدد الألفاظ في اللغة واسع جدًا"
+        },
+        {
+          "letter": "C",
+          "text": "Kitap okumanın söz varlığı gelişimindeki rolü",
+          "images": [],
+          "text_ar": "دور قراءة الكتب في تنمية المخزون اللفظي"
+        },
+        {
+          "letter": "D",
+          "text": "Kişinin anlama ve anlatma yeteneğini belirleyen ana ölçütün söz varlığı gücü olduğu",
+          "images": [],
+          "text_ar": "أن المعيار الأساسي الذي يحدد قدرة الشخص على الفهم والتعبير هو قوة مخزونه اللفظي"
+        },
+        {
+          "letter": "E",
+          "text": "Konuşma dilinin sınırlı gösterge içerdiği",
+          "images": [],
+          "text_ar": "أن لغة الكلام تتضمن علامات محدودة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما الذي يُراد التأكيد عليه بعبارة «لا أحد يعرف كامل المخزون اللفظي للغة التي يتحدثها»؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun ana dilini edinimine başladıktan sonra, 4-5 yaşlarında yeni bir edinmeye başlaması durumunda bu sürece verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eşzamanlı iki dillilik",
+          "images": [],
+          "text_ar": "الثنائية اللغوية المتزامنة"
+        },
+        {
+          "letter": "B",
+          "text": "Çekinik iki dillilik",
+          "images": [],
+          "text_ar": "الثنائية اللغوية الكامنة"
+        },
+        {
+          "letter": "C",
+          "text": "Baskın iki dillilik",
+          "images": [],
+          "text_ar": "الثنائية اللغوية المسيطرة"
+        },
+        {
+          "letter": "D",
+          "text": "Sıralı iki dillilik",
+          "images": [],
+          "text_ar": "الثنائية اللغوية المتتابعة"
+        },
+        {
+          "letter": "E",
+          "text": "Aile içi iki dillilik",
+          "images": [],
+          "text_ar": "الثنائية اللغوية داخل الأسرة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما الاسم الذي يُطلق على هذه العملية إذا بدأ الطفل اكتسابًا جديدًا في سن الرابعة أو الخامسة بعد أن بدأ اكتساب لغته الأم؟",
+      "review": [
+        "q18.B: مصطلح çekinik iki dillilik غير مستقر في المصادر العربية؛ نُقل بأقرب معنى"
+      ]
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "“İki dilli çocuklar konuştukları bireylerin diline göre dil seçimi yapabilmektedir. Sözgelimi ana dili Türkçe olan babasıyla Türkçe konuşurken devamında ana dili İngilizce olan annesine İngilizce yanıt verebilmekte, dolayısıyla bir dil dizgesinden diğerine geçebilmektedir.” Yukarıda açıklanan duruma verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fosilleşme",
+          "images": [],
+          "text_ar": "التحجّر"
+        },
+        {
+          "letter": "B",
+          "text": "Kod karıştırma",
+          "images": [],
+          "text_ar": "خلط الشيفرة"
+        },
+        {
+          "letter": "C",
+          "text": "Kod değiştirme",
+          "images": [],
+          "text_ar": "تبديل الشيفرة"
+        },
+        {
+          "letter": "D",
+          "text": "Olumlu aktarım",
+          "images": [],
+          "text_ar": "النقل الإيجابي"
+        },
+        {
+          "letter": "E",
+          "text": "Olumsuz aktarım",
+          "images": [],
+          "text_ar": "النقل السلبي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "«يستطيع الأطفال ثنائيو اللغة اختيار اللغة وفق لغة الأفراد الذين يتحدثون إليهم. فمثلًا، يتحدث بلغته الأم التركية مع أبيه الذي لغته الأم التركية، ثم يرد على أمه التي لغتها الأم الإنجليزية بالإنجليزية، وبذلك ينتقل من نظام لغوي إلى آخر.» ما الاسم الذي يُطلق على الحالة المشروحة أعلاه؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Yazılı materyal üzerinde gerçekleşen bilişsel eyleme verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Edinme",
+          "images": [],
+          "text_ar": "الاكتساب"
+        },
+        {
+          "letter": "B",
+          "text": "Dinleme",
+          "images": [],
+          "text_ar": "الإنصات"
+        },
+        {
+          "letter": "C",
+          "text": "Öğrenme",
+          "images": [],
+          "text_ar": "التعلم"
+        },
+        {
+          "letter": "D",
+          "text": "Okuma",
+          "images": [],
+          "text_ar": "القراءة"
+        },
+        {
+          "letter": "E",
+          "text": "Yazma",
+          "images": [],
+          "text_ar": "الكتابة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما اسم الفعل المعرفي الذي يحدث على مادة مكتوبة؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "c37b9994874131abad811eacb26e7575d9752056bb12d507eddb8ca92204aa11"
+}

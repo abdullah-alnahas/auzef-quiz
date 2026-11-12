@@ -1,0 +1,862 @@
+{
+  "course": "ÇOCUK HAKLARI VE HUKUKU",
+  "course_slug": "cocuk-haklari-ve-hukuku",
+  "exam": "2025-2026 Final Soruları",
+  "exam_slug": "final-2025-2026",
+  "page_title": "Çocuk Hakları ve Hukuku 2025-2026 Final Soruları",
+  "source_url": "https://lolonolo.com/2026/01/10/cocuk-haklari-ve-hukuku-2025-2026-final-sorulari/",
+  "scraped_at": "2026-11-12T02:21:12+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi evlat edinmenin kişisel sonuçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evlat edinilen kişi ergin ise evlat edinenlerin soyadını almak zorunda değildir.",
+          "images": [],
+          "text_ar": "إذا كان الشخص المتبنَّى بالغًا فليس ملزمًا بأخذ اسم عائلة المتبنّين."
+        },
+        {
+          "letter": "B",
+          "text": "Evlat edinme ile birlikte çocuğun bakım, sağlık ve eğitim gibi giderlerini karşılama yükümlülüğü भी evlat edinene geçer.",
+          "images": [],
+          "text_ar": "ينتقل إلى المتبنّي أيضًا التزام تغطية نفقات الطفل كالرعاية والصحة والتعليم."
+        },
+        {
+          "letter": "C",
+          "text": "Evlat edinme sonucunda evlatlık ile evlat edinenler arasında bir soybağı ilişkisi kurulur.",
+          "images": [],
+          "text_ar": "ينشأ نتيجة التبني رابط نسب بين المتبنَّى والمتبنّين."
+        },
+        {
+          "letter": "D",
+          "text": "Evlat edinenlerin küçüğe yeni bir isim verebilmesi için küçüğün ayırt etme gücünden yoksun olması gerekir.",
+          "images": [],
+          "text_ar": "لكي يتمكن المتبنّون من إعطاء القاصر اسمًا جديدًا يجب أن يكون القاصر خاليًا من قدرة التمييز."
+        },
+        {
+          "letter": "E",
+          "text": "Evlat edinilen kişi küçük ise soyadı değişir ve evlat edinenlerin soyadını alır.",
+          "images": [],
+          "text_ar": "إذا كان الشخص المتبنَّى قاصرًا فإن اسم عائلته يتغير ويأخذ اسم عائلة المتبنّين."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من الآثار الشخصية للتبني؟",
+      "review": [
+        "q1.B: في النص التركي كلمة دخيلة غير تركية «भी» بمعنى «أيضًا»؛ تُرجمت بحسب هذا المعنى."
+      ]
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki nedenlerden hangisi mahkeme kararı ile gerçekleşen kısıtlanma nedenleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tecrübesizlik",
+          "images": [],
+          "text_ar": "عدم الخبرة"
+        },
+        {
+          "letter": "B",
+          "text": "Uyuşturucu madde bağımlılığı",
+          "images": [],
+          "text_ar": "إدمان المواد المخدرة"
+        },
+        {
+          "letter": "C",
+          "text": "Alkol bağımlılığı",
+          "images": [],
+          "text_ar": "إدمان الكحول"
+        },
+        {
+          "letter": "D",
+          "text": "Savurganlık",
+          "images": [],
+          "text_ar": "التبذير"
+        },
+        {
+          "letter": "E",
+          "text": "Kötü yaşam tarzı",
+          "images": [],
+          "text_ar": "أسلوب الحياة السيئ"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من الأسباب التالية ليس من أسباب الحجر التي تتم بقرار من المحكمة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun kendi ailesinden tamamen koparılarak evlat edinen kişinin ailesine katılmasına verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tam evlat edinme",
+          "images": [],
+          "text_ar": "التبني التام"
+        },
+        {
+          "letter": "B",
+          "text": "Evlat transferi",
+          "images": [],
+          "text_ar": "نقل المتبنَّى"
+        },
+        {
+          "letter": "C",
+          "text": "Tüm evlat edinme",
+          "images": [],
+          "text_ar": "التبني الشامل"
+        },
+        {
+          "letter": "D",
+          "text": "Evlatlıktan koparma",
+          "images": [],
+          "text_ar": "انتزاع المتبنَّى"
+        },
+        {
+          "letter": "E",
+          "text": "Sınırsız evlat edinme",
+          "images": [],
+          "text_ar": "التبني غير المحدود"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما الاسم الذي يُطلق على انفصال الطفل عن أسرته الأصلية انفصالًا تامًا والتحاقه بأسرة الشخص المتبنّي؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "I. Adabımuaşeret kuralları olarak da bilinir.\nII. İnsanın günlük yaşantısında uyması gereken kurallar ile topluluklarda uyması gereken kurallardan oluşur.\nIII. Toplumsal düzeni sağlamaya yönelik kurallardır.\nIV. Toplumun kendisine uyulmasını zorunluluk olarak kabul ettiği kurallardır.\nYukarıda verilen bilgilerden hangisi veya hangileri örf ve adet kurallarına aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "B",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        },
+        {
+          "letter": "C",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız IV",
+          "images": [],
+          "text_ar": "IV فقط"
+        },
+        {
+          "letter": "E",
+          "text": "II, III ve IV",
+          "images": [],
+          "text_ar": "II وIII وIV"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. تُعرف أيضًا بقواعد آداب المعاشرة.\nII. تتكون من القواعد التي يجب على الإنسان مراعاتها في حياته اليومية والقواعد التي يجب مراعاتها في الجماعات.\nIII. قواعد تهدف إلى ضبط النظام الاجتماعي.\nIV. قواعد يعدّها المجتمع إلزامية المراعاة.\nأي من المعلومات المذكورة أعلاه أو أيها يخص قواعد العرف والعادة؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Boşanma davalarında, boşanma kararı kesinleşinceye kadar geçen sürede ekonomik durumu kötü olan eşin mağdur olmaması için geçici olarak kendisine ödeme yapılması amacıyla karşı tarafa açabileceği dava hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Manevi tazminat",
+          "images": [],
+          "text_ar": "التعويض المعنوي"
+        },
+        {
+          "letter": "B",
+          "text": "Tedbir nafakası",
+          "images": [],
+          "text_ar": "النفقة المؤقتة"
+        },
+        {
+          "letter": "C",
+          "text": "Maddi tazminat",
+          "images": [],
+          "text_ar": "التعويض المادي"
+        },
+        {
+          "letter": "D",
+          "text": "Yoksulluk nafakası",
+          "images": [],
+          "text_ar": "نفقة الفقر"
+        },
+        {
+          "letter": "E",
+          "text": "İştirak nafakası",
+          "images": [],
+          "text_ar": "نفقة المشاركة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "في دعاوى الطلاق، ما الدعوى التي يمكن للزوج ذي الحالة الاقتصادية السيئة أن يرفعها على الطرف الآخر لكي يُدفع له مبلغ مؤقت خلال المدة الممتدة إلى أن يصبح قرار الطلاق نهائيًا، حتى لا يتضرر؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Umumi Hıfzıssıhha Kanunu’na göre 18 yaş altı çocukların çalıştırılabilecekleri iş yerleri arasında yer alır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dans salonları",
+          "images": [],
+          "text_ar": "صالات الرقص"
+        },
+        {
+          "letter": "B",
+          "text": "Gazinolar",
+          "images": [],
+          "text_ar": "الملاهي الليلية"
+        },
+        {
+          "letter": "C",
+          "text": "Spor salonları",
+          "images": [],
+          "text_ar": "الصالات الرياضية"
+        },
+        {
+          "letter": "D",
+          "text": "Kahvehaneler",
+          "images": [],
+          "text_ar": "المقاهي"
+        },
+        {
+          "letter": "E",
+          "text": "Hamamlar",
+          "images": [],
+          "text_ar": "الحمامات العامة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي يُعد من أماكن العمل التي يجوز تشغيل الأطفال دون سن 18 فيها وفقًا لقانون الصحة العامة (Umumi Hıfzıssıhha Kanunu)؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun bakımından sorumlu olan kimselere çocuk yetiştirme konusunda; çocuklara da eğitim ve gelişimleri ile ilgili sorunlarının çözümünde yol göstermeye yönelik rehberlik tedbiridir.\nTanımı verilen tedbir, çocuklar hakkındaki koruyucu ve destekleyici tedbirlerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Güvenlik tedbiri",
+          "images": [],
+          "text_ar": "التدبير الأمني"
+        },
+        {
+          "letter": "B",
+          "text": "Eğitim tedbiri",
+          "images": [],
+          "text_ar": "التدبير التعليمي"
+        },
+        {
+          "letter": "C",
+          "text": "Sağlık tedbiri",
+          "images": [],
+          "text_ar": "التدبير الصحي"
+        },
+        {
+          "letter": "D",
+          "text": "Danışmanlık tedbiri",
+          "images": [],
+          "text_ar": "التدبير الإرشادي"
+        },
+        {
+          "letter": "E",
+          "text": "Barınma tedbiri",
+          "images": [],
+          "text_ar": "تدبير الإيواء"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "هو تدبير إرشادي يهدف إلى إرشاد الأشخاص المسؤولين عن رعاية الطفل في شؤون تنشئته، وإلى إرشاد الأطفال في حل مشكلاتهم المتعلقة بتعليمهم ونموهم.\nما التدبير الموصوف في التعريف من بين التدابير الوقائية والداعمة الخاصة بالأطفال؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Miras sözleşmesi yapabilmek için kaç yaşını doldurmak gerekir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "14 yaş",
+          "images": [],
+          "text_ar": "14 سنة"
+        },
+        {
+          "letter": "B",
+          "text": "15 yaş",
+          "images": [],
+          "text_ar": "15 سنة"
+        },
+        {
+          "letter": "C",
+          "text": "16 yaş",
+          "images": [],
+          "text_ar": "16 سنة"
+        },
+        {
+          "letter": "D",
+          "text": "18 yaş",
+          "images": [],
+          "text_ar": "18 سنة"
+        },
+        {
+          "letter": "E",
+          "text": "17 yaş",
+          "images": [],
+          "text_ar": "17 سنة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "كم سنة يجب إتمامها لإبرام عقد الميراث؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Evlenmenin butlanı ve iptali ile ilgili olarak aşağıda söylenenlerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mutlak butlan kamu düzeni ile ilgili olduğundan herkes tarafından ileri sürülebilir.",
+          "images": [],
+          "text_ar": "البطلان المطلق يتعلق بالنظام العام، لذلك يمكن لكل شخص التمسك به."
+        },
+        {
+          "letter": "B",
+          "text": "Nispi butlan davasını sadece ilgili olan eş açabilir.",
+          "images": [],
+          "text_ar": "لا يرفع دعوى البطلان النسبي إلا الزوج المعني."
+        },
+        {
+          "letter": "C",
+          "text": "Evlenmenin butlanı ve iptali mutlaka bir dava açmak sureti ile gerçekleşir.",
+          "images": [],
+          "text_ar": "لا يتحقق بطلان الزواج وإبطاله إلا برفع دعوى."
+        },
+        {
+          "letter": "D",
+          "text": "Mutlak butlan davası Cumhuriyet Savcısı tarafından da açılabilir.",
+          "images": [],
+          "text_ar": "يمكن أن يرفع مدع عام الجمهورية دعوى البطلان المطلق أيضًا."
+        },
+        {
+          "letter": "E",
+          "text": "Mahkemece verilen butlan ve iptal kararı geçmişe etkili olduğundan evliliğin kurulduğu andan itibaren ortadan kalkmasını sağlar.",
+          "images": [],
+          "text_ar": "قرار البطلان والإبطال الصادر عن المحكمة ذو أثر رجعي، فيؤدي إلى زوال الزواج من لحظة انعقاده."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يقال فيما يلي عن بطلان الزواج وإبطاله غير صحيح؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Kusur ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kural olarak failin taksir nedeni ile cezalandırılabilmesi için bunun kanunda açıkça belirtilmesi gerekir.",
+          "images": [],
+          "text_ar": "كقاعدة عامة، لا يُعاقب الفاعل بسبب الإهمال إلا إذا نصّ القانون على ذلك صراحةً."
+        },
+        {
+          "letter": "B",
+          "text": "Ceza hukukuna hakim olan ilke kusur sorumluluğu ilkesidir.",
+          "images": [],
+          "text_ar": "المبدأ السائد في قانون العقوبات هو مبدأ المسؤولية عن الخطأ."
+        },
+        {
+          "letter": "C",
+          "text": "Kusur sorumluluğu denildiğinde kural olarak kast sorumluluğu akla gelir.",
+          "images": [],
+          "text_ar": "عند الحديث عن المسؤولية عن الخطأ يتبادر إلى الذهن كقاعدة عامة الخطأ العمدي."
+        },
+        {
+          "letter": "D",
+          "text": "Ceza hukukunda yer almayan sorumluluk türlerinden birisi de kusursuz sorumluluktur.",
+          "images": [],
+          "text_ar": "من أنواع المسؤولية التي لا مكان لها في قانون العقوبات المسؤولية بلا خطأ."
+        },
+        {
+          "letter": "E",
+          "text": "Kast için \"hukuka aykırılığı bilmek\" ve \"hukuka aykırı sonucu istemek\" unsurlarından birinin varlığı yeterlidir.",
+          "images": [],
+          "text_ar": "يكفي في القصد وجود أحد العنصرين: \"العلم بمخالفة القانون\" و\"إرادة النتيجة المخالفة للقانون\"."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي غير صحيح بشأن الخطأ؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Bir çocuğun bakımından sorumlu olan kimsenin herhangi bir nedenle görevini yerine getirememesi hâlinde, Sosyal Hizmetler ve Çocuk Esirgeme Kurumu tarafından çocuğun resmî veya özel bakım yurduna yerleştirilmesi ya da koruyucu aile hizmetlerinden veya kurumun bu kapsamda yürüttüğü hizmet modellerinden yararlandırılmasına yönelik tedbir aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Danışmanlık tedbiri",
+          "images": [],
+          "text_ar": "التدبير الإرشادي"
+        },
+        {
+          "letter": "B",
+          "text": "Bakım tedbiri",
+          "images": [],
+          "text_ar": "تدبير الرعاية"
+        },
+        {
+          "letter": "C",
+          "text": "Barınma tedbiri",
+          "images": [],
+          "text_ar": "تدبير الإيواء"
+        },
+        {
+          "letter": "D",
+          "text": "Eğitim tedbiri",
+          "images": [],
+          "text_ar": "التدبير التعليمي"
+        },
+        {
+          "letter": "E",
+          "text": "Sağlık tedbiri",
+          "images": [],
+          "text_ar": "التدبير الصحي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما التدبير الذي يهدف، في حال عدم تمكن الشخص المسؤول عن رعاية الطفل من أداء مهمته لأي سبب، إلى إيداع الطفل في دار رعاية رسمية أو خاصة من قِبل مؤسسة الخدمات الاجتماعية ورعاية الطفل (Sosyal Hizmetler ve Çocuk Esirgeme Kurumu)، أو إلى انتفاعه بخدمات الأسر الحاضنة أو بنماذج الخدمات التي تقدمها المؤسسة في هذا النطاق؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinin sonucunda ortaya çıkan hukuki durum, diğerlerinden farklıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanıma",
+          "images": [],
+          "text_ar": "الإقرار"
+        },
+        {
+          "letter": "B",
+          "text": "Soy bağının reddi",
+          "images": [],
+          "text_ar": "نفي النسب"
+        },
+        {
+          "letter": "C",
+          "text": "Babalık davası",
+          "images": [],
+          "text_ar": "دعوى الأبوة"
+        },
+        {
+          "letter": "D",
+          "text": "Evlat edinme",
+          "images": [],
+          "text_ar": "التبني"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun annesi ile biyolojik babasının evlenmesi",
+          "images": [],
+          "text_ar": "زواج أم الطفل بأبيه البيولوجي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي يختلف الوضع القانوني الناشئ عنه عن الباقي؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "I. Anayasa hukukunda çocukların korunmasına ilişkin temel prensipler yer almaktadır.\nII. Anayasada korunmaya muhtaç çocukların topluma kazandırılması için gereken tedbirlerin devlet eli ile alınacağı ifade edilmiştir.\nIII. Çocuk hukukunun kamu hukuku alanındaki yansıması medeni hukuk alanında görülür.\nÇocuk hukukunun kamu hukuku ve anayasa hukuku içerisindeki yeri hakkında yukarıda verilen bilgilerden hangisi ya da hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "E",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. يتضمن القانون الدستوري المبادئ الأساسية المتعلقة بحماية الأطفال.\nII. نصّ الدستور على أن التدابير اللازمة لإدماج الأطفال المحتاجين إلى الحماية في المجتمع ستُتخذ من قبل الدولة.\nIII. يظهر انعكاس قانون الطفل في مجال القانون العام في مجال القانون المدني.\nأي من المعلومات المذكورة أعلاه أو أيها صحيح بشأن مكانة قانون الطفل في القانون العام والقانون الدستوري؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "I. Evlilik dışı çocuğun velayeti, anne ve babası evli değilse anneye aittir.\nII. Çocuğun velayeti kendisinde olan anne ya da babanın ölmesi halinde velayet, kendiliğinden sağ kalana geçer.\nIII. Evlilik, taraflardan birinin ölümü ile sona erse bile velayet ancak yetkili makamın kararı ile sağ kalan eşe geçer.\nYukarıdaki ifadelerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "I. تكون حضانة الطفل المولود خارج الزواج للأم إذا لم يكن أبواه متزوجين.\nII. إذا توفي الأب أو الأم صاحب الحضانة انتقلت الحضانة تلقائيًا إلى الطرف الباقي على قيد الحياة.\nIII. حتى إذا انتهى الزواج بوفاة أحد الطرفين فإن الحضانة لا تنتقل إلى الزوج الباقي إلا بقرار من الجهة المختصة.\nأي من العبارات أعلاه أو أيها صحيح؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "On sekiz yaş altındakilerin sanayiye ilişkin işlerde gece vakti çalıştırılamayacaklarına ilişkin yasaklama aşağıdakilerden hangisinde yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anayasa",
+          "images": [],
+          "text_ar": "الدستور"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk ve Genç İşçilerin Çalıştırılma Usul ve Esasları Hakkında Yönetmelik",
+          "images": [],
+          "text_ar": "لائحة أصول ومبادئ تشغيل الأطفال والعمال الشباب"
+        },
+        {
+          "letter": "C",
+          "text": "Türk Borçlar Kanunu",
+          "images": [],
+          "text_ar": "قانون الالتزامات التركي"
+        },
+        {
+          "letter": "D",
+          "text": "İş Kanunu",
+          "images": [],
+          "text_ar": "قانون العمل"
+        },
+        {
+          "letter": "E",
+          "text": "Polis Vazife ve Salahiyet Kanunu",
+          "images": [],
+          "text_ar": "قانون واجبات الشرطة وسلطاتها"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "في أي مما يلي يرد الحظر المتعلق بعدم جواز تشغيل من هم دون الثامنة عشرة ليلًا في الأعمال الصناعية؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi tanımanın geçerlilik şartlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanıma vasiyetname, mahkeme veya nüfus memuruna yazılı başvuru ya da resmi senet ile yapılmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن يتم الإقرار بوصية، أو بطلب كتابي إلى المحكمة أو موظف الأحوال المدنية، أو بسند رسمي."
+        },
+        {
+          "letter": "B",
+          "text": "Tanıyan küçük veya kısıtlı ise kanuni temsilcinin rızası olmalıdır.",
+          "images": [],
+          "text_ar": "إذا كان المُقِرّ قاصرًا أو محجورًا وجب رضا ممثله القانوني."
+        },
+        {
+          "letter": "C",
+          "text": "Tanıma, çocuğun kayıtlı olduğu nüfus memurluğuna tanıyan tarafından bildirilmelidir.",
+          "images": [],
+          "text_ar": "يجب أن يُبلّغ المُقِرّ مكتب الأحوال المدنية المقيد فيه الطفل."
+        },
+        {
+          "letter": "D",
+          "text": "Tanıyan kişinin biyolojik baba olması gerekir.",
+          "images": [],
+          "text_ar": "يجب أن يكون المُقِرّ هو الأب البيولوجي."
+        },
+        {
+          "letter": "E",
+          "text": "Tanıma işlemine konu çocuk ile başka bir erkek arasında soybağı ilişkisi bulunmamalıdır.",
+          "images": [],
+          "text_ar": "ألا تكون بين الطفل محل الإقرار ورجل آخر علاقة نسب."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من شروط صحة الإقرار؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "I. Akla uygun davranmak kanunda tanımlanan şartlara uygun davranmak sureti ile gerçekleşir.\nII. Akla uygun davranmamanın ilk sebebi hem biyolojik hem de tabii bir sebep olan yaş küçüklüğüdür.\nIII. Akla uygun davranmak, yapılan davranışın sebep ve sonuçlarını doğru olarak kavrayarak buna uygun davranmayı ifade eder.\nAyırt etme gücü ile ilgili olarak yukarıda verilen bilgilerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. يتحقق التصرف على نحو معقول بالامتثال للشروط المحددة في القانون.\nII. السبب الأول لعدم التصرف على نحو معقول هو صغر السن، وهو سبب بيولوجي وطبيعي في آن واحد.\nIII. يعني التصرف على نحو معقول إدراك أسباب السلوك ونتائجه إدراكًا صحيحًا والتصرف وفقًا لذلك.\nأي من المعلومات المذكورة أعلاه أو أيها صحيح بشأن قدرة التمييز؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi evlenmenin yok sayılması sonucunu doğurur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evli olan bir kişinin resmî memur önünde tekrar evlenmesi",
+          "images": [],
+          "text_ar": "زواج شخص متزوج مرة أخرى أمام موظف رسمي"
+        },
+        {
+          "letter": "B",
+          "text": "Sürekli olarak ayırt etme gücünden yoksun olan birisinin evlenmesi",
+          "images": [],
+          "text_ar": "زواج شخص فاقد لقدرة التمييز بصفة دائمة"
+        },
+        {
+          "letter": "C",
+          "text": "Kardeşlerin birbirleri ile evlenmesi",
+          "images": [],
+          "text_ar": "زواج الأشقاء بعضهم ببعض"
+        },
+        {
+          "letter": "D",
+          "text": "Evlenmeye engel olacak derecede akıl hastalığı olan birisinin evlenmesi",
+          "images": [],
+          "text_ar": "زواج شخص مصاب بمرض عقلي بالغ الحد الذي يمنع الزواج"
+        },
+        {
+          "letter": "E",
+          "text": "Tarafların imam nikâhı ile evlenmesi",
+          "images": [],
+          "text_ar": "زواج الطرفين بعقد زواج ديني"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي يؤدي إلى اعتبار الزواج منعدمًا؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Evlat edinecek kişilerde bulunması gereken özelliklerden hangileri çocuğun üstün yararı ilkesi gereğince diğerlerine göre ikinci planda kalır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun refah içerisinde olmasını sağlayacak maddi varlığa sahip olmaları",
+          "images": [],
+          "text_ar": "امتلاكهم موارد مادية تكفل للطفل العيش في رخاء"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun eğitimini karşılayacak nitelikte olmaları",
+          "images": [],
+          "text_ar": "كونهم مؤهلين لتأمين تعليم الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun bedensel gelişimini karşılayacak nitelikte olmaları",
+          "images": [],
+          "text_ar": "كونهم مؤهلين لتأمين النمو الجسدي للطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun bakımını karşılayacak nitelikte olmaları",
+          "images": [],
+          "text_ar": "كونهم مؤهلين لتأمين رعاية الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun ruhsal gelişimini karşılayacak nitelikte olmaları",
+          "images": [],
+          "text_ar": "كونهم مؤهلين لتأمين النمو النفسي للطفل"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من الخصائص التي يجب أن تتوافر في الأشخاص المتبنّين تبقى في مرتبة ثانوية مقارنة بغيرها وفقًا لمبدأ المصلحة الفضلى للطفل؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Sanat, kültür ve reklam faaliyetlerinde çalışan çocukların çalışma süreleri haftada azami kaç saat olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "30 saat",
+          "images": [],
+          "text_ar": "30 ساعة"
+        },
+        {
+          "letter": "B",
+          "text": "21 saat",
+          "images": [],
+          "text_ar": "21 ساعة"
+        },
+        {
+          "letter": "C",
+          "text": "28 saat",
+          "images": [],
+          "text_ar": "28 ساعة"
+        },
+        {
+          "letter": "D",
+          "text": "35 saat",
+          "images": [],
+          "text_ar": "35 ساعة"
+        },
+        {
+          "letter": "E",
+          "text": "14 saat",
+          "images": [],
+          "text_ar": "14 ساعة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "كم ساعة كحد أقصى يمكن أن تبلغ مدة عمل الأطفال العاملين في أنشطة الفن والثقافة والإعلان في الأسبوع؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "919ed09c7ade9732a9ad4d951578b1ee6740e5b5d1d9e0174a23d12e9c9e4937"
+}

@@ -1,0 +1,862 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "2024-2025 Bütünleme Soruları",
+  "exam_slug": "butunleme-2024-2025",
+  "page_title": "İlkokula Hazırlık 2024-2025 Bütünleme Soruları",
+  "source_url": "https://lolonolo.com/2025/12/12/ilkokula-hazirlik-2024-2025-butunleme-sorulari/",
+  "scraped_at": "2026-11-12T02:21:17+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Test dışı (ölçmeye dayalı olmayan) tekniklerden biri olan “gözlem” hangi durumda kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece sınıf içindeki davranışları incelemek için",
+          "images": [],
+          "text_ar": "لدراسة السلوكيات داخل الصف فقط"
+        },
+        {
+          "letter": "B",
+          "text": "Aile görüşmeleri ve gözlemleri yapmak için",
+          "images": [],
+          "text_ar": "لإجراء مقابلات وملاحظات مع الأسرة"
+        },
+        {
+          "letter": "C",
+          "text": "Sadece akademik performansı değerlendirmek için",
+          "images": [],
+          "text_ar": "لتقييم الأداء الأكاديمي فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun fiziksel sağlığını kontrol etmek için",
+          "images": [],
+          "text_ar": "للتحقق من صحة الطفل الجسدية"
+        },
+        {
+          "letter": "E",
+          "text": "Farklı ortamlarda bireyin çeşitli davranışlarını belirleyebilmek için",
+          "images": [],
+          "text_ar": "لتحديد سلوكيات الفرد المختلفة في بيئات متنوعة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في أي حالة تُستخدم «الملاحظة» بوصفها إحدى التقنيات غير الاختبارية (غير القائمة على القياس)؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinde erken okuryazarlıkta dinlediğini anlama temel dil becerileri bir arada ve doğru olarak yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sözcük bilgisi- söz dizimsel farkındalık- morfolojik farkındalık",
+          "images": [],
+          "text_ar": "المعرفة بالمفردات - الوعي بالتركيب النحوي - الوعي الصرفي"
+        },
+        {
+          "letter": "B",
+          "text": "Sözcük bilgisi- söz dizimsel farkındalık- ev okuryazarlığı",
+          "images": [],
+          "text_ar": "المعرفة بالمفردات - الوعي بالتركيب النحوي - القراءة والكتابة في المنزل"
+        },
+        {
+          "letter": "C",
+          "text": "Sözcük bilgisi- ev okuryazarlığı- morfolojik farkındalık",
+          "images": [],
+          "text_ar": "المعرفة بالمفردات - القراءة والكتابة في المنزل - الوعي الصرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Ev okuryazarlığı- sözcük bilgisi- morfolojik farkındalık",
+          "images": [],
+          "text_ar": "القراءة والكتابة في المنزل - المعرفة بالمفردات - الوعي الصرفي"
+        },
+        {
+          "letter": "E",
+          "text": "Ev okuryazarlığı- sözel çalışma belleği- söz dizimsel farkındalık",
+          "images": [],
+          "text_ar": "القراءة والكتابة في المنزل - الذاكرة العاملة اللفظية - الوعي بالتركيب النحوي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي يضم معًا وعلى نحو صحيح المهارات اللغوية الأساسية لفهم المسموع في تعلم القراءة والكتابة المبكر؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinde hazırbulunuşluk kavramının altında incelendiği kategoriler bir arada yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel, Sosyal, Eğitsel",
+          "images": [],
+          "text_ar": "معرفي، اجتماعي، تعليمي"
+        },
+        {
+          "letter": "B",
+          "text": "Bilişsel, Psikomotor, Eğitsel",
+          "images": [],
+          "text_ar": "معرفي، حركي نفسي، تعليمي"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel, Duyuşsal, Eğitsel",
+          "images": [],
+          "text_ar": "معرفي، وجداني، تعليمي"
+        },
+        {
+          "letter": "D",
+          "text": "Eğitsel, Duyuşsal, Sosyal",
+          "images": [],
+          "text_ar": "تعليمي، وجداني، اجتماعي"
+        },
+        {
+          "letter": "E",
+          "text": "Bilişsel, Psikomotor, Sosyal",
+          "images": [],
+          "text_ar": "معرفي، حركي نفسي، اجتماعي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي يضم معًا الفئات التي يُدرَس تحتها مفهوم الاستعداد؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "İlkokula hazırbulunuşluk değerlendirme sürecinde kullanılacak araçlarla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçme değerlendirmede nicel araçların değerlendirmede bir etkisi yoktur.",
+          "images": [],
+          "text_ar": "ليس للأدوات الكمية أثر في القياس والتقييم."
+        },
+        {
+          "letter": "B",
+          "text": "Ölçme değerlendirmede nitel ve nicel araçlar birlikte kullanılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي استخدام الأدوات النوعية والكمية معًا في القياس والتقييم."
+        },
+        {
+          "letter": "C",
+          "text": "Ölçme değerlendirmede sadece gözlem kullanılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي استخدام الملاحظة فقط في القياس والتقييم."
+        },
+        {
+          "letter": "D",
+          "text": "Sadece değerlendirme ölçütlerine önem verilmelidir.",
+          "images": [],
+          "text_ar": "ينبغي الاهتمام بمعايير التقييم فقط."
+        },
+        {
+          "letter": "E",
+          "text": "Ölçme değerlendirmede sadece standart testler kullanılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي استخدام الاختبارات المعيارية فقط في القياس والتقييم."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "فيما يتعلق بالأدوات التي ستُستخدم في عملية تقييم الاستعداد للمدرسة الابتدائية، أي مما يلي صحيح؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ailelerin ilkokula hazırbulunuşluk sürecinde yapması gereken davranışlardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğa toplamayı-çıkarmayı öğretmek",
+          "images": [],
+          "text_ar": "تعليم الطفل الجمع والطرح"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukla yazma çalışmaları yapmak",
+          "images": [],
+          "text_ar": "إجراء تدريبات الكتابة مع الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa çarpma-bölmeyi öğretmek",
+          "images": [],
+          "text_ar": "تعليم الطفل الضرب والقسمة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukla okuma çalışmaları yapmak",
+          "images": [],
+          "text_ar": "إجراء تدريبات القراءة مع الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukla oyunlar oynamak",
+          "images": [],
+          "text_ar": "اللعب مع الطفل"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي من السلوكيات التي ينبغي أن تقوم بها الأسر في مرحلة الاستعداد للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum sürecinde bir arada çalışması ve iş birliği kurması gereken üç ayrı faktör aşağıdakilerden hangi şıkta doğru olarak verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Veli-öğretmen-komşu",
+          "images": [],
+          "text_ar": "ولي الأمر - المعلم - الجار"
+        },
+        {
+          "letter": "B",
+          "text": "Müdür-veli-öğrenci",
+          "images": [],
+          "text_ar": "المدير - ولي الأمر - الطالب"
+        },
+        {
+          "letter": "C",
+          "text": "Öğretmen-veli-okul",
+          "images": [],
+          "text_ar": "المعلم - ولي الأمر - المدرسة"
+        },
+        {
+          "letter": "D",
+          "text": "Veli-okul-komşu",
+          "images": [],
+          "text_ar": "ولي الأمر - المدرسة - الجار"
+        },
+        {
+          "letter": "E",
+          "text": "Müdür-okul-komşu",
+          "images": [],
+          "text_ar": "المدير - المدرسة - الجار"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "في أي خيار وردت على نحو صحيح العوامل الثلاثة المنفصلة التي ينبغي أن تعمل معًا وتقيم تعاونًا فيما بينها في عملية التكيف مع المدرسة؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki programlardan hangisi cumhuriyet döneminin ilk kapsamlı programı olarak kabul edilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1948 Programı",
+          "images": [],
+          "text_ar": "برنامج 1948"
+        },
+        {
+          "letter": "B",
+          "text": "1962 Programı",
+          "images": [],
+          "text_ar": "برنامج 1962"
+        },
+        {
+          "letter": "C",
+          "text": "1926 Programı",
+          "images": [],
+          "text_ar": "برنامج 1926"
+        },
+        {
+          "letter": "D",
+          "text": "1924 Programı",
+          "images": [],
+          "text_ar": "برنامج 1924"
+        },
+        {
+          "letter": "E",
+          "text": "1936 Programı",
+          "images": [],
+          "text_ar": "برنامج 1936"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي البرامج التالية يُعدّ أول منهج شامل في العهد الجمهوري؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "“Olay/vaka kaydı, anket ve gözlem listeleri” aşağıdaki hangi değerlendirme yöntemleri arasında yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nitel teknikler",
+          "images": [],
+          "text_ar": "الأساليب النوعية"
+        },
+        {
+          "letter": "B",
+          "text": "Nicel teknikler",
+          "images": [],
+          "text_ar": "الأساليب الكمية"
+        },
+        {
+          "letter": "C",
+          "text": "Test teknikleri",
+          "images": [],
+          "text_ar": "الأساليب الاختبارية"
+        },
+        {
+          "letter": "D",
+          "text": "Test dışı teknikler",
+          "images": [],
+          "text_ar": "الأساليب غير الاختبارية"
+        },
+        {
+          "letter": "E",
+          "text": "Gözlem teknikleri",
+          "images": [],
+          "text_ar": "أساليب الملاحظة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "«تسجيل الأحداث/الحالات، والاستبيان، وقوائم الملاحظة» تندرج ضمن أي من طرق التقييم التالية؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okula hazırbulunuşlukta yer alan biyolojik etmenler arasında değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşitme",
+          "images": [],
+          "text_ar": "السمع"
+        },
+        {
+          "letter": "B",
+          "text": "El-göz koordinasyonu",
+          "images": [],
+          "text_ar": "التناسق بين اليد والعين"
+        },
+        {
+          "letter": "C",
+          "text": "Görme",
+          "images": [],
+          "text_ar": "البصر"
+        },
+        {
+          "letter": "D",
+          "text": "Zekâ",
+          "images": [],
+          "text_ar": "الذكاء"
+        },
+        {
+          "letter": "E",
+          "text": "Yaş",
+          "images": [],
+          "text_ar": "العمر"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من العوامل البيولوجية في الاستعداد للمدرسة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilkokula hazırlık aşamasında çocuklarla yapılabilecek çalışmalar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikolojik çalışmalar",
+          "images": [],
+          "text_ar": "أنشطة نفسية"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal çalışmalar",
+          "images": [],
+          "text_ar": "أنشطة اجتماعية"
+        },
+        {
+          "letter": "C",
+          "text": "Fiziksel çalışmalar",
+          "images": [],
+          "text_ar": "أنشطة جسدية"
+        },
+        {
+          "letter": "D",
+          "text": "Dil çalışmaları",
+          "images": [],
+          "text_ar": "أنشطة لغوية"
+        },
+        {
+          "letter": "E",
+          "text": "Öz bakım becerileriyle ilgili çalışmalar",
+          "images": [],
+          "text_ar": "أنشطة تتعلق بمهارات العناية بالذات"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا يندرج ضمن الأنشطة التي يمكن القيام بها مع الأطفال في مرحلة الاستعداد للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Demokratik aile tutumunun temel özellikleri nelerdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuklara tamamen özgürlük tanıması",
+          "images": [],
+          "text_ar": "إتاحة الحرية التامة للأطفال"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukları tamamen kendi haline bırakması",
+          "images": [],
+          "text_ar": "ترك الأطفال تمامًا وشأنهم"
+        },
+        {
+          "letter": "C",
+          "text": "Sevgi ve saygı temelli, herkesin fikrine değer veren bir tutum olması",
+          "images": [],
+          "text_ar": "كونه اتجاهًا يقوم على المحبة والاحترام ويقدّر رأي كل فرد"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklara karşı ilgisiz olması",
+          "images": [],
+          "text_ar": "عدم الاهتمام بالأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Katı kurallar koyması ve çocukları sıkı denetim altında tutması",
+          "images": [],
+          "text_ar": "وضع قواعد صارمة وإبقاء الأطفال تحت رقابة مشددة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما الخصائص الأساسية للاتجاه الديمقراطي في الأسرة؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Anne-babanın yetişme biçimi çocuğa olan tutumunu etkilemektedir.\nAşağıdakilerden hangisi annebabanın yetişme biçimiyle ilgili durumlardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kendileri okula gitmedilerse, çocuklarının da okula gitmelerini istememeleri",
+          "images": [],
+          "text_ar": "عدم رغبتهم في ذهاب أطفالهم إلى المدرسة إن لم يكونوا قد ذهبوا إليها هم"
+        },
+        {
+          "letter": "B",
+          "text": "Kendi anne-baba sorunlarını yansıtmaları",
+          "images": [],
+          "text_ar": "إسقاط مشكلاتهم مع والديهم"
+        },
+        {
+          "letter": "C",
+          "text": "Maddi-manevi eksiklikleri çocuklarına yansıtmaları",
+          "images": [],
+          "text_ar": "إسقاط نقصهم المادي والمعنوي على أطفالهم"
+        },
+        {
+          "letter": "D",
+          "text": "Kendi çocukluklarındaki anılardan etkilenmeleri",
+          "images": [],
+          "text_ar": "تأثرهم بذكريات طفولتهم"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklarına birçok ders aldırmaları",
+          "images": [],
+          "text_ar": "إلحاقهم أطفالهم بدروس كثيرة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "تؤثر طريقة تنشئة الوالدين في اتجاههم نحو الطفل.\nأي مما يلي ليس من الحالات المتعلقة بطريقة تنشئة الوالدين؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Bu programda derslerin adında önemli sadeleştirmeler yapılmış ve Eşya Dersleri adında yeni bir ders konulmuştur. Bahsi geçen ilkokul programı aşağıdaki yıllardan hangisinde hazırlanmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1982",
+          "images": [],
+          "text_ar": "1982 م"
+        },
+        {
+          "letter": "B",
+          "text": "1962",
+          "images": [],
+          "text_ar": "1962 م"
+        },
+        {
+          "letter": "C",
+          "text": "1936",
+          "images": [],
+          "text_ar": "1936 م"
+        },
+        {
+          "letter": "D",
+          "text": "1926",
+          "images": [],
+          "text_ar": "1926 م"
+        },
+        {
+          "letter": "E",
+          "text": "1948",
+          "images": [],
+          "text_ar": "1948 م"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أُجريت في هذا البرنامج تبسيطات مهمة في أسماء المواد، وأُضيفت مادة جديدة باسم «دروس الأشياء». في أي من السنوات التالية أُعدّ برنامج المدرسة الابتدائية المذكور؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilkokul 1. sınıfa başlayacak öğrencileri destekleyici etkinliklerin hedefleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zamanı etkili kullanabilme",
+          "images": [],
+          "text_ar": "القدرة على استخدام الوقت بفاعلية"
+        },
+        {
+          "letter": "B",
+          "text": "Dikkat geliştirme",
+          "images": [],
+          "text_ar": "تنمية الانتباه"
+        },
+        {
+          "letter": "C",
+          "text": "Hedef belirleme",
+          "images": [],
+          "text_ar": "تحديد الأهداف"
+        },
+        {
+          "letter": "D",
+          "text": "Okula uyum sağlayabilme",
+          "images": [],
+          "text_ar": "القدرة على التكيف مع المدرسة"
+        },
+        {
+          "letter": "E",
+          "text": "Sayılarla dört işlem yapabilme",
+          "images": [],
+          "text_ar": "القدرة على إجراء العمليات الحسابية الأربع بالأعداد"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن أهداف الأنشطة الداعمة للطلاب الذين سيلتحقون بالصف الأول من المدرسة الابتدائية؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "İlkokula hazırbulunuşluğun değerlendirilmesinde kullanılan alternatif değerlendirme araçları nelerdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğretmen değerlendirmeleri",
+          "images": [],
+          "text_ar": "تقييمات المعلمين"
+        },
+        {
+          "letter": "B",
+          "text": "Gözlem, anket, mülakat ve oyun teknikleri",
+          "images": [],
+          "text_ar": "أساليب الملاحظة والاستبيان والمقابلة واللعب"
+        },
+        {
+          "letter": "C",
+          "text": "Fiziksel aktivite testleri, gözlemler, anketler",
+          "images": [],
+          "text_ar": "اختبارات النشاط الجسدي، والملاحظات، والاستبيانات"
+        },
+        {
+          "letter": "D",
+          "text": "Sadece aile görüşmeleri",
+          "images": [],
+          "text_ar": "مقابلات الأسرة فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Standart testler",
+          "images": [],
+          "text_ar": "الاختبارات المعيارية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما أدوات التقييم البديلة المستخدمة في تقييم الاستعداد للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi erken okuryazarlık becerilerini etkileyen faktörlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun yaşadığı ve büyüdüğü çevre",
+          "images": [],
+          "text_ar": "البيئة التي يعيش فيها الطفل وينشأ فيها"
+        },
+        {
+          "letter": "B",
+          "text": "İlk okuma yazma dersindeki başarı düzeyi",
+          "images": [],
+          "text_ar": "مستوى النجاح في درس القراءة والكتابة الأولية"
+        },
+        {
+          "letter": "C",
+          "text": "Ailenin çocuğun sözlü dil becerilerini geliştirmesine yönelik destekler",
+          "images": [],
+          "text_ar": "أوجه دعم الأسرة لتطوير مهارات اللغة الشفهية لدى الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun dedesiyle birlikte kitap okuması",
+          "images": [],
+          "text_ar": "قراءة الطفل الكتب مع جده"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun zengin dil gelişimini desteklemek için etkinlik yapmak",
+          "images": [],
+          "text_ar": "القيام بأنشطة لتعزيز التطور اللغوي الغني لدى الطفل"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من العوامل المؤثرة في مهارات القراءة والكتابة المبكرة؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun dilinin ve düşüncelerinin gelişmesiyle oynadığı ve canlandırma yaptığı oyundur.\nBu oyun türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mikro oyun",
+          "images": [],
+          "text_ar": "اللعب المصغّر"
+        },
+        {
+          "letter": "B",
+          "text": "Epistemik oyun",
+          "images": [],
+          "text_ar": "اللعب المعرفي"
+        },
+        {
+          "letter": "C",
+          "text": "Kişisel oyun",
+          "images": [],
+          "text_ar": "اللعب الشخصي"
+        },
+        {
+          "letter": "D",
+          "text": "Oyuncu oyun",
+          "images": [],
+          "text_ar": "اللعب التمثيلي"
+        },
+        {
+          "letter": "E",
+          "text": "Kurallı oyun",
+          "images": [],
+          "text_ar": "اللعب المنظم بقواعد"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "هو اللعب الذي يمارسه الطفل مع تطور لغته وأفكاره ويقوم فيه بالتمثيل.\nما نوع اللعب هذا؟",
+      "review": [
+        "q17.D: مصطلح «Oyuncu oyun» غير واضح الدلالة؛ نُقل بمعنى اللعب التمثيلي على نحو ما ورد في ملف الامتحان النهائي"
+      ]
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinde Türkiye’de “Yapılandırmacı” ve “Davranışçı” yaklaşımların ilk olarak ortaya çıktıkları programların yılları sırasıyla yer verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2005- 1968",
+          "images": [],
+          "text_ar": "2005-1968 م"
+        },
+        {
+          "letter": "B",
+          "text": "2005-1998",
+          "images": [],
+          "text_ar": "2005-1998 م"
+        },
+        {
+          "letter": "C",
+          "text": "1998- 2018",
+          "images": [],
+          "text_ar": "1998-2018 م"
+        },
+        {
+          "letter": "D",
+          "text": "1962- 1998",
+          "images": [],
+          "text_ar": "1962-1998 م"
+        },
+        {
+          "letter": "E",
+          "text": "1948- 2005",
+          "images": [],
+          "text_ar": "1948-2005 م"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي يعرض بالترتيب سنوات البرامج التي ظهرت فيها مقاربتا «البنائية» و«السلوكية» أول مرة في تركيا؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Motor gelişim, sosyal-duyuşsal gelişim, fiziksel gelişim ve bilişsel gelişim alanlarında hazır hale gelmesidir.\nBuradaki hazır olma durumu okula uyum sürecinde aşağıdakilerden hangisi için geçerlidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hazır komşular",
+          "images": [],
+          "text_ar": "الجيران الجاهزون"
+        },
+        {
+          "letter": "B",
+          "text": "Hazır okul",
+          "images": [],
+          "text_ar": "المدرسة الجاهزة"
+        },
+        {
+          "letter": "C",
+          "text": "Hazır bebek",
+          "images": [],
+          "text_ar": "الرضيع الجاهز"
+        },
+        {
+          "letter": "D",
+          "text": "Hazır aile",
+          "images": [],
+          "text_ar": "الأسرة الجاهزة"
+        },
+        {
+          "letter": "E",
+          "text": "Hazır çocuk",
+          "images": [],
+          "text_ar": "الطفل الجاهز"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أن يصبح جاهزًا في مجالات النمو الحركي والاجتماعي-العاطفي والجسدي والمعرفي.\nحالة الاستعداد هذه تنطبق على أي مما يلي في عملية التكيف مع المدرسة؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "2-6 yaş arasında görülen gündelik yaşamda ortaya çıkan gündelik rolleri yapma şeklindeki oyunlardır.\nYukarıda ifade edilen oyun türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yapılandırılmış oyun",
+          "images": [],
+          "text_ar": "اللعب المنظم"
+        },
+        {
+          "letter": "B",
+          "text": "İşlevsel oyun",
+          "images": [],
+          "text_ar": "اللعب الوظيفي"
+        },
+        {
+          "letter": "C",
+          "text": "-mış gibi oyun",
+          "images": [],
+          "text_ar": "اللعب التظاهري"
+        },
+        {
+          "letter": "D",
+          "text": "Sembolik oyun",
+          "images": [],
+          "text_ar": "اللعب الرمزي"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız oyun",
+          "images": [],
+          "text_ar": "اللعب المنفرد"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "هي ألعاب تُرى بين سن 2-6 سنوات وتظهر في الحياة اليومية وتتخذ شكل أداء الأدوار اليومية.\nما نوع اللعب المشار إليه أعلاه مما يلي؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "3905637c26fcb0ebc1a85fac8071435f5ca95f5bdd44a4d5b6222e4bacfe49b6"
+}

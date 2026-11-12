@@ -1,0 +1,631 @@
+{
+  "course": "Bilimsel Araştırma Teknikleri",
+  "course_slug": "bat",
+  "exam": "2021 Final Soruları",
+  "exam_slug": "final-2021",
+  "page_title": "Bilimsel Araştırma Teknikleri 2021 Final Soruları -2",
+  "source_url": "https://lolonolo.com/2021/01/13/bilimsel-arastirma-teknikleri-2021-final-sorulari-2/",
+  "scraped_at": "2026-11-12T02:21:40+03:00",
+  "answer_source": "markup",
+  "question_count": 17,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kayıp değerleri (eksik cevaplar) düzeltilme yöntemlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nötr değer verme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İkili silme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Örneği silme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Emsal cevap verme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Rasgele cevap verme",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "“Toplanan verilerin …………. ve ölçülen olayın veya değişkenin niteliklerine ……………….ölçüsüdür.” Yukarıda geçerlilikle ilgili verilmiş olan ifadede boş bırakılan yere aşağıdakilerden hangisinin getirilmesi uygun olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "tarafsızlığının / uygunluğunun",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "azlığının / denkliğinin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "çokluğunun / denkliğinin",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "çokluğunun / sahip olmasının",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "eksikliğinin / uygunluğunun",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Çeşitli kaynaklardan derlenebilen, üzerinde inceleme yapılabilecek her türlü “bilgi” olarak tanımlanabilen kavram, aşağıdakilerden hangisinde doğru olarak belirtilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Veri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Digit",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Literatür",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sayı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kaynak",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "“Evrendeki olguları çeşitli yollarla inceleyen ve onları açıklayan sistemli bilgi topluluğuna …………… denir.” Yukarıdaki boşluğa uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Teknik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Araştırma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Metodoloji",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Veri",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi araştırma raporunun yazılmasında dikkat edilecek ana ilkelerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Raporda birbiriyle ilişkili, birbirini kapsayan bilgiler, bu ilişkileri göz önünde bulundurularak metne yerleştirilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Araştırma, var olan alan literatür ile ilişkilendirilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilgi ve bulgular, metinden ayrı olacak şekilde yazılmalı, metinle ilgisi olmamalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Araştırma raporlarında, bir alanda elde edilen bilgi ilgililerle paylaşılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hangi bölümden başlanacağını belirlemek ve disiplinli çalışmak için bir iş takvimi oluşturulmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Anakütle bireylerinin tamsayımı yapılsa dahi verilerin tanımlanmasında, gözlenmesinde, toplanmasında ortaya çıkan ve geri dönüşü mümkün olmayan hatalar …………. kapsamında ele alınır. Yukarıdaki boşluğa uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sabit hata",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Seçim hatası",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tesadüfi hata",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kapsam hatası",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sistematik hata",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Sözlük anlamı olarak ahlaki bilim ya da ahlakla ilgili olarak tanımlanmakta olan evrensel kabul gören kurallar bütününe ne ad verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Etik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tertip",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fikir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Düzen",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Görüş",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi rapor yazmada dikkat edilecek ana ilkelerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Herhangi bir takvime bağlı olmadan doğaçlama çalışılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Araştırma raporlarının yazılma amacı, bir alanda elde edilen bilginin ilgililerle paylaşılması olduğundan bu amaçla hazırlanan raporların bölümlerinin de zaman kavramı açısından planlanması gerekir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Raporda bilgi birbirini tamamlayacak şekilde yerleştirilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hangi bölüm için ne kadar zaman harcanacağı bir iş takvimi vasıtasıyla planlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Araştırma, var olan alan literatürü ile ilişkilendirilmelidir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bir araştırma raporunun bölümlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yöntem",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Başlık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Özet",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Anket ham verisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Giriş",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sosyal bilimlerde yapılan araştırmalarda kullanılan temel ölçüm seviyesi türlerinden biri doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eşit aralıklı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Oransal",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sıralama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mukayeseli",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sınıflandırma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "I-Cevaplama sırası II-Cevap seçeneklerinin içeriği III-Cevap seçeneklerini sayısı Yukarıda verilenlerden hangileri yapısal (kapalı uçlu) sorularda dikkat edilmesi gerekenler arasında yer alır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I-II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I-II-III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda verilen raporlama bölümlerinden hangisinin açıklaması yanlış yapılmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaynaklar: Anket verilerinin elde edildiği kişilerin bilgileri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Özet: Araştırmanın içeriği ile ilgili tek paragraflık kısa bilgi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Başlık: Kısa, spesifik, bilgilendirici",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Giriş: İncelenen konu ve önemi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bulgular: İnceleme sonunda bulunanlar",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi veri hazırlama işleminin adımlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Verileri düzenleme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sonuçları yorumlama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Verilerin doğruluğunun kontrolü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Verileri dönüştürme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Verilerin kaydı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Araştırmada verilerin hangi birimlerden elde edileceğinin belirlenmesi aşaması aşağıda verilenlerden hangisindedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Örnekleme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Araştırma modelinin oluşturulması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Araştırmanın planlanması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Araştırmanın tasarımı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ölçekleme",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "“Geçerlilikte yapılan işlem amaca ne kadar uygun olursa geçerlik o kadar …………., amaçtan ne kadar uzak olursa geçerlik o kadar …………..olur. ”Yukarıdaki boşluğa uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "yüksek / düşük",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "kötü / iyi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "az / çok",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "düşük / yüksek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "değersiz / değerli",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "“Geçerliğin yüksek olması, büyük ölçüde, ölçülmek istenen değişkenin ifade edilebilmesine bağlıdır. Bu yönü ile doğrudan ölçmelerde geçerlik daha …………. , dolaylı ölçmelerde ise değişkenin yeterince tanımlanamaması ve kriterlerinin yeterince duyarlı olmaması nedeniyle, geçerlik ………….. olabilmektedir.” Yukarıdaki boşluklara uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "düşük / yüksek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "kötü / iyi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "yüksek / daha düşük",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "düşük / az",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "düşük",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Geçerlik türlerinden hangisi, kullanılan ölçme aracından elde edilen sonuçların daha önceden elde edilen başka ölçümlerle ilişki derecesini tanımlamak için kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yapı geçerliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Görünüş geçerliği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kriter geçerliği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Algısal geçerlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kapsam geçerliği",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "25027bab4d94fded1b1d4274b1b8a1668cbaddb12e577bd67482373318c9db42"
+}

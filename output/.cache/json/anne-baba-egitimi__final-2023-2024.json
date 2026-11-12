@@ -1,0 +1,862 @@
+{
+  "course": "ANNE BABA EĞİTİMİ",
+  "course_slug": "anne-baba-egitimi",
+  "exam": "2023-2024 Final Soruları",
+  "exam_slug": "final-2023-2024",
+  "page_title": "Anne Baba Eğitimi 2023-2024 Final Soruları",
+  "source_url": "https://lolonolo.com/2024/01/17/anne-baba-egitimi-2023-2024-final-sorulari/",
+  "scraped_at": "2026-11-12T02:21:08+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi etkin dinleme koşullarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anne-baba istediği bir çözümü çocuğa zorla kabul ettirmek amacı ile kullanmalıdır.",
+          "images": [],
+          "text_ar": "أن يستخدمه الوالدان بهدف إجبار الطفل على قبول حلّ يرغبان فيه."
+        },
+        {
+          "letter": "B",
+          "text": "Etkin dinleme yeterince deneyim kazanılmadan kullanılmamalıdır.",
+          "images": [],
+          "text_ar": "لا ينبغي استخدام الإنصات الفعّال قبل اكتساب خبرة كافية فيه."
+        },
+        {
+          "letter": "C",
+          "text": "Anne-baba, çocuğa zaman ayırabildiği durumlarda kullanmalıdır.",
+          "images": [],
+          "text_ar": "أن يستخدمه الوالدان في الحالات التي يتمكنان فيها من تخصيص وقت للطفل."
+        },
+        {
+          "letter": "D",
+          "text": "Anne-baba, çocuğu anlamak istediği zaman kullanmalıdır.",
+          "images": [],
+          "text_ar": "أن يستخدمه الوالدان عندما يرغبان في فهم الطفل."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun sorunu olduğu zaman ve sorununu annebabasına anlatmaya karar verdiği zaman kullanılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي استخدامه عندما تكون لدى الطفل مشكلة وعندما يقرر أن يحكي مشكلته لوالديه."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من شروط الإنصات الفعّال؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk: Ahmet bugün benimle hiç oynamadı. Benim istediklerimi yapmıyor. Anne: Öyleyse sen neden onun yapmak istediklerini sormuyorsun? Senden küçüklerle geçinmeyi öğrenmek zorundasın. Yukardaki diyalogda anne aşağıda verilen hangi iletişim engelini kullanmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Emir, göz dağı vermek",
+          "images": [],
+          "text_ar": "الأمر والتهديد"
+        },
+        {
+          "letter": "B",
+          "text": "Çözüm önermek, ad takmak",
+          "images": [],
+          "text_ar": "اقتراح الحلول وإطلاق الألقاب"
+        },
+        {
+          "letter": "C",
+          "text": "Önermek, ahlak dersi vermek",
+          "images": [],
+          "text_ar": "إسداء النصح وإلقاء الدروس الأخلاقية"
+        },
+        {
+          "letter": "D",
+          "text": "Yorumlamak, güven vermek",
+          "images": [],
+          "text_ar": "التفسير وبث الطمأنينة"
+        },
+        {
+          "letter": "E",
+          "text": "Edilgin dinlemek",
+          "images": [],
+          "text_ar": "الإنصات السلبي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "الطفل: لم يلعب معي أحمد اليوم إطلاقًا. إنه لا يفعل ما أريده. الأم: إذن لماذا لا تسأله عما يريد هو أن يفعله؟ عليك أن تتعلم كيف تتفاهم مع من هم أصغر منك. في الحوار أعلاه، أي من عوائق التواصل التالية استخدمت الأم؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Yavuzer’e göre aşağıdakilerden hangisi çocukların davranışlarının normallik ölçütlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Miktar",
+          "images": [],
+          "text_ar": "الكمية"
+        },
+        {
+          "letter": "B",
+          "text": "Cinsel rol beklentisi",
+          "images": [],
+          "text_ar": "توقع الدور الجنسي"
+        },
+        {
+          "letter": "C",
+          "text": "Süreklilik",
+          "images": [],
+          "text_ar": "الاستمرارية"
+        },
+        {
+          "letter": "D",
+          "text": "Teknoloji",
+          "images": [],
+          "text_ar": "التكنولوجيا"
+        },
+        {
+          "letter": "E",
+          "text": "Yaşa uygunluk",
+          "images": [],
+          "text_ar": "ملاءمة العمر"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "وفقًا ليافوزر، أي مما يلي ليس من معايير الحكم على سلوك الأطفال بأنه طبيعي؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun vicdan gelişiminde etkisi olan disiplini uygularken ebeveynlerin dikkat etmeleri gerekenlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Disiplinin amacı kimin haklı kimin haksız olduğunu ispat etmek olmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يكون هدف الانضباط إثبات من على حق ومن على باطل."
+        },
+        {
+          "letter": "B",
+          "text": "Kızgınlık esnasında kesinlikle disiplin uygulanmamalıdır.",
+          "images": [],
+          "text_ar": "لا ينبغي إطلاقًا تطبيق الانضباط أثناء الغضب."
+        },
+        {
+          "letter": "C",
+          "text": "Disiplin öğretici olmak için kullanılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي استخدام الانضباط ليكون تعليميًا."
+        },
+        {
+          "letter": "D",
+          "text": "Disiplin uygun bir zamanda kullanılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي استخدام الانضباط في الوقت المناسب."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklara tercih hakkı verilmelidir.",
+          "images": [],
+          "text_ar": "ينبغي إعطاء الأطفال حق الاختيار."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس مما ينبغي على الوالدين مراعاته عند تطبيق الانضباط المؤثر في نمو ضمير الطفل؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi etkili ebeveyn eğitimi (PET) yaklaşımının temelinde yatan tekniklerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çatışmaları çözme",
+          "images": [],
+          "text_ar": "حل الصراعات"
+        },
+        {
+          "letter": "B",
+          "text": "Pekiştirme",
+          "images": [],
+          "text_ar": "التعزيز"
+        },
+        {
+          "letter": "C",
+          "text": "Ben mesajları yollama",
+          "images": [],
+          "text_ar": "إرسال رسائل الأنا"
+        },
+        {
+          "letter": "D",
+          "text": "Aktif dinleme",
+          "images": [],
+          "text_ar": "الإنصات الفعّال"
+        },
+        {
+          "letter": "E",
+          "text": "Değerleri öğretme",
+          "images": [],
+          "text_ar": "تعليم القيم"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من التقنيات التي يقوم عليها منهج تدريب الوالدين الفعّال (PET)؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki açıklamalardan hangisi otoriter anne baba tutumu ile ilgili değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğa katı, sert, soğuk ve kesin bir tavırla yaklaşırlar.",
+          "images": [],
+          "text_ar": "يتعاملون مع الطفل بموقف صارم وقاسٍ وبارد وحاسم."
+        },
+        {
+          "letter": "B",
+          "text": "Çocukları kurallara uymadıkları zaman cezalandırırlar.",
+          "images": [],
+          "text_ar": "يعاقبون أطفالهم عندما لا يلتزمون بالقواعد."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğu koymuş oldukları kurallara uyması için zorlarlar.",
+          "images": [],
+          "text_ar": "يرغمون الطفل على الالتزام بالقواعد التي وضعوها."
+        },
+        {
+          "letter": "D",
+          "text": "Çocukları ile iletişimleri oldukça yetersiz ve serttir.",
+          "images": [],
+          "text_ar": "تواصلهم مع أطفالهم غير كافٍ جدًا وقاسٍ."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklarına koşulsuz sevgi gösterirler.",
+          "images": [],
+          "text_ar": "يُظهرون لأطفالهم حبًا غير مشروط."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من الأوصاف التالية لا يتعلق باتجاه الوالدين التسلطي؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi anne babasından birini veya her ikisini birden kaybeden çocukların tepkilerini etkileyen değişkenlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hayatta kalan ebeveynin yeniden evlenip evlenmemesi",
+          "images": [],
+          "text_ar": "زواج الوالد الباقي على قيد الحياة مرة أخرى أو عدم زواجه"
+        },
+        {
+          "letter": "B",
+          "text": "Ölen ebeveynin cinsiyeti",
+          "images": [],
+          "text_ar": "جنس الوالد المتوفى"
+        },
+        {
+          "letter": "C",
+          "text": "Ailenin geliri",
+          "images": [],
+          "text_ar": "دخل الأسرة"
+        },
+        {
+          "letter": "D",
+          "text": "Kardeşlerinin olup olmaması",
+          "images": [],
+          "text_ar": "وجود أشقاء للطفل أو عدم وجودهم"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun yaşı",
+          "images": [],
+          "text_ar": "عمر الطفل"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من المتغيرات المؤثرة في ردود أفعال الأطفال الذين فقدوا أحد والديهم أو كليهما؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aile eğitimi yaklaşımları ile ilgili verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitim merkezlerinde aile eğitimi yaklaşımında yüz yüze eğitimle ailelere rehberlik yapılamaması önemli bir eksikliktir.",
+          "images": [],
+          "text_ar": "في مقاربة تعليم الأسرة في مراكز التعليم، يُعدّ عدم إمكانية إرشاد الأسر من خلال التعليم المباشر وجهًا لوجه نقصًا مهمًا."
+        },
+        {
+          "letter": "B",
+          "text": "Evde aile eğitimi yaklaşımında anneye çocuğu ile evinde hizmet götürülmektedir.",
+          "images": [],
+          "text_ar": "في مقاربة تعليم الأسرة في المنزل، تُقدَّم الخدمة للأم مع طفلها في منزلها."
+        },
+        {
+          "letter": "C",
+          "text": "Bütünleştirilmiş aile eğitimi yaklaşımında çocuk eğitim programları ile aile eğitim programı bütünleştirilir.",
+          "images": [],
+          "text_ar": "في مقاربة تعليم الأسرة المدمجة، يُدمج برنامج تعليم الطفل مع برنامج تعليم الأسرة."
+        },
+        {
+          "letter": "D",
+          "text": "Uzaktan öğretim yaklaşımı okuma yazma bilmeyen anne babalara ulaşmak açısından önemlidir.",
+          "images": [],
+          "text_ar": "تُعدّ مقاربة التدريس عن بُعد مهمة من حيث الوصول إلى الوالدين الذين لا يعرفون القراءة والكتابة."
+        },
+        {
+          "letter": "E",
+          "text": "Eğitim merkezlerinde aile eğitimi yaklaşımı iki farklı uygulamayı kapsar.",
+          "images": [],
+          "text_ar": "تشمل مقاربة تعليم الأسرة في مراكز التعليم تطبيقين مختلفين."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من المعلومات التالية عن مقاربات تعليم الأسرة غير صحيحة؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okul öncesi (3-6 yaş) dönem çocuklarının ebeveyn kaybıyla ilgili bilişsel anlamalarını yansıtan bir açıklama değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölen kişi nefes alır.",
+          "images": [],
+          "text_ar": "المتوفى يتنفس."
+        },
+        {
+          "letter": "B",
+          "text": "Ölüm geri dönülebilirdir.",
+          "images": [],
+          "text_ar": "الموت أمر يمكن الرجوع عنه."
+        },
+        {
+          "letter": "C",
+          "text": "Ölen kişi üşür.",
+          "images": [],
+          "text_ar": "المتوفى يشعر بالبرد."
+        },
+        {
+          "letter": "D",
+          "text": "Ölüm geçicidir.",
+          "images": [],
+          "text_ar": "الموت مؤقت."
+        },
+        {
+          "letter": "E",
+          "text": "Ölüm kalıcıdır.",
+          "images": [],
+          "text_ar": "الموت دائم."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس وصفًا يعكس الفهم المعرفي لفقدان الوالدين لدى أطفال مرحلة ما قبل المدرسة (3-6 سنوات)؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Navaro’ya göre çocuklarda öz-denetimi sağlamak için yapılması gerekenlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuklara kuralların nedenleri izah edilmelidir.",
+          "images": [],
+          "text_ar": "ينبغي توضيح أسباب القواعد للأطفال."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk, beklenilen davranışı gösterdiği zaman takdir edilmelidir.",
+          "images": [],
+          "text_ar": "ينبغي تقدير الطفل عندما يُظهر السلوك المتوقع منه."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk, kuralların uygulanması aşamasında pasif rol almalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يؤدي الطفل دورًا سلبيًا في مرحلة تطبيق القواعد."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk, kuralların değişmez olduğunu bilmelidir.",
+          "images": [],
+          "text_ar": "ينبغي أن يعرف الطفل أن القواعد غير قابلة للتغيير."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuktan beklenilen davranışlar açık bir dille ifade edilmelidir.",
+          "images": [],
+          "text_ar": "ينبغي التعبير عن السلوكات المتوقعة من الطفل بلغة واضحة."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "وفقًا لنافارو، أي مما يلي ليس من الأمور التي ينبغي القيام بها لتحقيق ضبط النفس لدى الأطفال؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Primer (esas) nedeni çocuğun gerçeği iyi algılayamaması olan davranış sorunu aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Parmak emme",
+          "images": [],
+          "text_ar": "مص الإصبع"
+        },
+        {
+          "letter": "B",
+          "text": "Kardeş kıskançlığı",
+          "images": [],
+          "text_ar": "غيرة الأشقاء"
+        },
+        {
+          "letter": "C",
+          "text": "Tırnak yeme",
+          "images": [],
+          "text_ar": "قضم الأظافر"
+        },
+        {
+          "letter": "D",
+          "text": "Saldırganlık",
+          "images": [],
+          "text_ar": "العدوانية"
+        },
+        {
+          "letter": "E",
+          "text": "Yalan söyleme",
+          "images": [],
+          "text_ar": "الكذب"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ما هي المشكلة السلوكية التي يكون سببها الأساسي عدم قدرة الطفل على إدراك الواقع إدراكًا جيدًا؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ebeveyn kaybı yaşayan 3 yaş altı çocuklarda ortaya çıkabilecek belirtilerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uyku sorunları",
+          "images": [],
+          "text_ar": "مشكلات النوم"
+        },
+        {
+          "letter": "B",
+          "text": "Gelişimsel sapma",
+          "images": [],
+          "text_ar": "انحراف نمائي"
+        },
+        {
+          "letter": "C",
+          "text": "Beslenme bozuklukları",
+          "images": [],
+          "text_ar": "اضطرابات التغذية"
+        },
+        {
+          "letter": "D",
+          "text": "İntihar davranışları",
+          "images": [],
+          "text_ar": "سلوكات انتحارية"
+        },
+        {
+          "letter": "E",
+          "text": "Artmış ağlama",
+          "images": [],
+          "text_ar": "زيادة البكاء"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من الأعراض التي قد تظهر لدى الأطفال دون سن الثالثة الذين يفقدون أحد والديهم؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Amerika’da, Japonya’da ve Batı toplumlarında annelerin çocuklarına karşı tutumları farklılıklar göstermektedir. Bu açıklamaya göre anne baba tutumlarının etkilendiği değişken aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anne-babanın yetişme biçimi",
+          "images": [],
+          "text_ar": "طريقة تنشئة الوالدين"
+        },
+        {
+          "letter": "B",
+          "text": "Kültürel değerler",
+          "images": [],
+          "text_ar": "القيم الثقافية"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun yaşı",
+          "images": [],
+          "text_ar": "عمر الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Anne-baba arasındaki ilişkiler",
+          "images": [],
+          "text_ar": "العلاقات بين الوالدين"
+        },
+        {
+          "letter": "E",
+          "text": "Ailenin sosyoekonomik durumu",
+          "images": [],
+          "text_ar": "الحالة الاجتماعية والاقتصادية للأسرة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "تختلف مواقف الأمهات تجاه أطفالهن في أمريكا واليابان والمجتمعات الغربية. وفقًا لهذا التوضيح، ما المتغير الذي تتأثر به مواقف الوالدين؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Temelini Frobel’in attığı Klasik Okul Öncesi Eğitim Programı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile/Çocuk Merkezli Okul Öncesi Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تعليم ما قبل المدرسة المتمركز حول الأسرة/الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Uzaktan Okul Öncesi Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تعليم ما قبل المدرسة عن بُعد"
+        },
+        {
+          "letter": "C",
+          "text": "Bilgi-Beceri Merkezli Okul Öncesi Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تعليم ما قبل المدرسة المتمركز حول المعرفة والمهارة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk Merkezli Okul Öncesi Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تعليم ما قبل المدرسة المتمركز حول الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Aile Merkezli Program",
+          "images": [],
+          "text_ar": "البرنامج المتمركز حول الأسرة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما هو برنامج تعليم ما قبل المدرسة الكلاسيكي الذي وضع فروبل أساسه؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Bağlılık türleri çalışması aşağıdakilerden hangisi tarafından gerçekleştirilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bowlby",
+          "images": [],
+          "text_ar": "بولبي"
+        },
+        {
+          "letter": "B",
+          "text": "Ainsworth",
+          "images": [],
+          "text_ar": "أينسورث"
+        },
+        {
+          "letter": "C",
+          "text": "Lorenz",
+          "images": [],
+          "text_ar": "لورنز"
+        },
+        {
+          "letter": "D",
+          "text": "Spitz",
+          "images": [],
+          "text_ar": "سبيتز"
+        },
+        {
+          "letter": "E",
+          "text": "Freud",
+          "images": [],
+          "text_ar": "فرويد"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "من الذي أجرى دراسة أنماط التعلق؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuktan bekledikleri davranışı göstermediği zaman sözel olumsuz disiplin yöntemlerinden biri olan sevgiyi esirgeme disiplin yöntemini kullanan ebeveynlerin kurdukları cümlelerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "“Ben senin annen değilim.”",
+          "images": [],
+          "text_ar": "«أنا لست أمك.»"
+        },
+        {
+          "letter": "B",
+          "text": "“Akşam baban gelince görürsün sen, babana söyleyeyim de seni dövsün.”",
+          "images": [],
+          "text_ar": "«سترى ما سيحدث لك عندما يعود أبوك في المساء، سأخبره ليقوم بضربك.»"
+        },
+        {
+          "letter": "C",
+          "text": "“Sen git komşunun çocuğu ol.”",
+          "images": [],
+          "text_ar": "«اذهب وكن ابن جارنا.»"
+        },
+        {
+          "letter": "D",
+          "text": "“Ben hasta olayım da annesiz kal.”",
+          "images": [],
+          "text_ar": "«أتمنى أن أمرض فتبقى بلا أم.»"
+        },
+        {
+          "letter": "E",
+          "text": "“Ben öleyim de kurtul”",
+          "images": [],
+          "text_ar": "«أتمنى أن أموت فتتخلص مني.»"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من العبارات التي يستخدمها الوالدان اللذان يطبّقان أسلوب الانضباط القائم على حرمان الطفل من الحب، وهو أحد أساليب الانضباط اللفظي السلبي، عندما لا يُظهر الطفل السلوك المتوقع منه؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Erken Destek Projesi kapsamında yürütülen anne destek programının konu başlıklarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anne çocuk ilişkisi",
+          "images": [],
+          "text_ar": "علاقة الأم بالطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Yaratıcı oyun",
+          "images": [],
+          "text_ar": "اللعب الإبداعي"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk sağlığı",
+          "images": [],
+          "text_ar": "صحة الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Sözel ve sayısal becerileri destekleyecek etkinlikler",
+          "images": [],
+          "text_ar": "أنشطة تدعم المهارات اللفظية والعددية"
+        },
+        {
+          "letter": "E",
+          "text": "Sağlıklı beslenme",
+          "images": [],
+          "text_ar": "التغذية السليمة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من الموضوعات التي يتضمنها برنامج دعم الأم الذي يُنفَّذ في إطار مشروع الدعم المبكر؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk konuşurken kendi görüşlerimizi açıklamadan ve geri bildirim kullanmadan yalnızca, dinlediğimizi belirten “onay tepkileri” vererek çocuğu dinlemektir. Yukarıda açıklaması verilen dinleme türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Edilgin dinleme",
+          "images": [],
+          "text_ar": "الإنصات السلبي"
+        },
+        {
+          "letter": "B",
+          "text": "Etkin dinleme",
+          "images": [],
+          "text_ar": "الإنصات الفعّال"
+        },
+        {
+          "letter": "C",
+          "text": "Psikolojik dinleme",
+          "images": [],
+          "text_ar": "الإنصات النفسي"
+        },
+        {
+          "letter": "D",
+          "text": "Olumlu tarzda dinleme",
+          "images": [],
+          "text_ar": "الإنصات بأسلوب إيجابي"
+        },
+        {
+          "letter": "E",
+          "text": "Empatik anlayışla dinleme",
+          "images": [],
+          "text_ar": "الإنصات بتفهم تعاطفي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "هو إنصاتنا إلى الطفل أثناء حديثه دون شرح آرائنا ودون استخدام التغذية الراجعة، بالاقتصار على إعطاء «استجابات إيجابية» تدل على أننا ننصت إليه. ما نوع الإنصات الموصوف أعلاه؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki problem davranışlardan hangisinin primer (esas) nedeni sevilen kişinin başkası ile paylaşılamamasıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnatçılık",
+          "images": [],
+          "text_ar": "العناد"
+        },
+        {
+          "letter": "B",
+          "text": "Tırnak yeme",
+          "images": [],
+          "text_ar": "قضم الأظافر"
+        },
+        {
+          "letter": "C",
+          "text": "Kardeş kıskançlığı",
+          "images": [],
+          "text_ar": "غيرة الأشقاء"
+        },
+        {
+          "letter": "D",
+          "text": "Parmak emme",
+          "images": [],
+          "text_ar": "مص الإصبع"
+        },
+        {
+          "letter": "E",
+          "text": "Saldırganlık",
+          "images": [],
+          "text_ar": "العدوانية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من المشكلات السلوكية التالية سببه الأساسي عدم القدرة على مشاركة شخص محبوب مع شخص آخر؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "….., çocuktan başarılı olması için aşırı bir beklenti içindedirler. Çocuklarının diğer çocuklardan daha başarılı olmasını isterler ve sık sık başka çocuklarla kıyaslarlar. Yukarıdaki cümledeki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Otoriter anne babalar",
+          "images": [],
+          "text_ar": "الوالدان المتسلطان"
+        },
+        {
+          "letter": "B",
+          "text": "Demokratik anne babalar",
+          "images": [],
+          "text_ar": "الوالدان الديمقراطيان"
+        },
+        {
+          "letter": "C",
+          "text": "Tutarsız anne babalar",
+          "images": [],
+          "text_ar": "الوالدان المتذبذبان"
+        },
+        {
+          "letter": "D",
+          "text": "Aşırı koruyucu anne babalar",
+          "images": [],
+          "text_ar": "الوالدان المفرطان في الحماية"
+        },
+        {
+          "letter": "E",
+          "text": "Yetkinci anne babalar",
+          "images": [],
+          "text_ar": "الوالدان الحازمان"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "….. لديهم توقعات مفرطة بأن ينجح الطفل. يريدون أن يكون أطفالهم أكثر نجاحًا من الأطفال الآخرين، وكثيرًا ما يقارنونهم بأطفال آخرين. ما الذي ينبغي وضعه في الفراغ في الجملة أعلاه؟",
+      "review": [
+        "q20.E: \"yetkinci anne babalar\" يحتمل معنى \"authoritative\" أو \"authoritarian\"، فتمت ترجمته بوصفه أسلوبًا حازمًا للتمييز عن الخيار المتسلط."
+      ]
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "dbb6003c6dc0d4b34d2ce67f392e4623a062e983f954e4c4c25c7d2f489ffd8c"
+}

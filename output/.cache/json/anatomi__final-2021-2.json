@@ -1,0 +1,1347 @@
+{
+  "course": "Anatomi",
+  "course_slug": "anatomi",
+  "exam": "2021 Final Soruları",
+  "exam_slug": "final-2021-2",
+  "page_title": "Anatomi Final 2021 Soruları",
+  "source_url": "https://lolonolo.com/2021/01/22/anatomi-final-2021-sorulari/",
+  "scraped_at": "2026-11-12T02:21:34+03:00",
+  "answer_source": "inline",
+  "question_count": 38,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Sinir sisteminin işlevsel en küçük yapı birimi nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Akson",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Myelin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Astrosit",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mikroglia",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Nöron",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Kalbi saran zara ne ad verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dura mater",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Pia mater",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Perikard",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Plevra",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Periton",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi sindirim sistemi basamaklarından değildir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Besinin sindirilmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Besinin alınması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Besinin taşınması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Besinin yakılması ve enerjiye dönüştürülmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Besinin dışarı atılması (dışkılama)",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Beyinde temporal lobun iç kısmında bulunan ve özellikle hafıza ile ilgili yapı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Talamus",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hipokampüs",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hipotalamus",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Epifiz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hipofiz",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Kasların tendon ve kirişlerine oturarak o kasın işlevselliğini artıran kemiklere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Havalı kemikler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sesamoid (susamsı) kemikler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kısa kemikler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Uzun kemikler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yassı kemikler",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Böbrekleri besleyen renal arter hangi arterden çıkmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Splenik arter",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mesenterik arter",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hepatik arter",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aorta",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çölyak arter",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki damarlardan hangisi sağ kulakçığa (atrium) açılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vertebral arter",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Vena cava superior",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aorta",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Akciğer toplardamarı (pulmoner ven)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Akciğer atardamarı (pulmoner arter)",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Beyinden çıkıp iç organlarımıza kadar giden ve serseri sinir olarak da bilinen kranyal sinir aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "N. glossopharyngeus (IX)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "N. fascialis (VII)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "N. opticus (II)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "N. phrenicus",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "N. vagus (X)",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki yapılardan hangisi periferik sistem yapılarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hipokampüs",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Spinal sinirler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Cerebellum",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Talamus",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Beyin sapı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Kolun ekstansör kaslarını uyaran n. radialis hangi plexus’un dalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Plexus brachialis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Plexus lumbalis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Plexus lumbosacralis",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Plexus cervicalis",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Plexus sacralis",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Vücudumuzda kaç çift kranyal sinir bulunmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "15",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "9",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Üst ekstremiteyi besleyen arter aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Arteria renalis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Arteria iliaca communis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Arteria subclavia",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Arteria carotis communis",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Arteria femoralis",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Böbreklerle ilgili aşağıdaki ifadelerden hangisi yanlıştır ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Böbrekler idrarın oluştuğu organlardır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sol böbrek sağa göre daha aşağıdadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Böbrekler peritonun arkasında yer almaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Vücudumuzda 2 adet böbrek bulunmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Böbrekler aynı zamanda hormon salgılayan endokrin organlardır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Böbreklerin venöz kanı renal ven aracılığıyla hangi vene drene olmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vena porta hepatis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Vena iliaca communis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Vena cava inferior",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Vena cava superior",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Vena hepatica",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Sol kalpten temiz kanın tüm vücuda gönderildikten sonra, kirli kanın toplanarak sağ kalbe geri gelmesine ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Portal dolaşım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hücresel dolaşım",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Küçük dolaşım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Büyük dolaşım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Lenfatik dolaşım",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Denge ve motor hareketlerin koordinasyonu ile ilgili merkezi sinir sistemi yapısı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Talamus",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bulbus",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Temporal lob",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Frontal lob",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Cerebellum",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Dudaklar ile dişler arasında kalan boşluğa ne isim verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oropharynx",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Laryngopharynx",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yalancı ağız boşluğu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gerçek ağız boşluğu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Nazopharynx",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Duysal uyarıların beyinde en son gittiği kortikal parça hangi lobdadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Occipitotemporal lob",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Frontal lob",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Temporal lob",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Parietal lob",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Occipital lob",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Diaphragman’nın innervasyonunu sağlayan n. phrenicus hangi plexus’un motor dalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Plexus cervicalis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Plexus sacralis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Plexus lumbosacralis",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Plexus lumbalis",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Plexus brachialis",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Böbrekler aynı zamanda bir endokrin organdır. Aşağıdaki hormonlardan hangisi böbrekler tarafından salgılanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aldosteron",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Östrojen",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eritropoetin",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Progesteron",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Testosteron",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "Cildimizden gelen duysal uyarıların omuriliğe girdiği yere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Arka kolon",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ön kolon",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Orta kolon",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Arka kök",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ön kök",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki kranyal sinirlerden hangisi dil kaslarını uyarmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "N. vestibulocochlearis (VIII. kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "N. trigeminus (V. kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "N. fascialis (VII. kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "N. oculomotorius (III. kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "N. hypoglossus (XII. kranyal sinir)",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "Alın bölgesinde yer alan, alın kemiği olarak da bilinen, kaşların üzerinde yer aldığı kemik aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Parietal kemik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Frontal kemik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Occipital kemik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Temporal kemik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mandibula",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "Modern Anatomi’nin kurucusu olarak bilinen ve bu alanda çalışmalar yapmış bilim insanı kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Maxim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Einstein",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Paracelsus",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Edison",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Vesalius",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "Plexus cervicalis yapısına hangi spinal sinirler katılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "C3-C6",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "C1-C4",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "C2-C5",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "C4-C7",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "C5-T1",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "Kolun ekstansör kaslarını uyaran n. radialis hangi plexus’un dalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Plexus brachialis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Plexus cervicalis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Plexus lumbalis",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Plexus sacralis",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Plexus lumbosacralis",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "Ülkemizde anatominin kurucusu olarak da bilinen bilim insanı kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Şerafeddin Sabuncuoğlu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Zeki Zeren",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hulusi Behçet",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mazhar Paşa",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sami Zan",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "Spinal sinirler hangi tip sinirlerdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mikst (karma) sinir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Duysal sinir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Motor sinir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çoğunlukla motor sinir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çoğunlukla duysal sinir",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki kranyal sinirlerden hangisi göz kaslarını uyaran bir kranyal sinirdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "N. oculomotorius (III. kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "N. fascialis (VII. kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "N. trigeminus (V. kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "N. vestibulocochlearis (VIII. kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "N. olfactorius (I. kranyal sinir)",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "Duyuların kortekse uğramadan önce işlendikleri merkezi sinir sistemi bölümü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hipofiz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hipotalamus",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bulbus",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Epifiz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Talamus",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 31,
+      "type": "legacy_text",
+      "stem": "Uyluk ön grup kaslarını uyaran n. femoralis hangi plexus’un dalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Plexus sacralis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Plexus brachialis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Plexus cervicalis",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Plexus pterygoideus",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Plexus lumbalis",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 32,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki kranyal sinirlerden hangisi sadece motor özelliktedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "N. vestibulocochlearis (VIII. kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "N. trigeminus (V. kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "N. glossopharyngeus (IX. kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "N. abducens (VI. kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "N. fascialis (VII. kranyal sinir)",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 33,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki yapılardan hangisi alt solunum yollarına ait bir yapıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Burun",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ağız",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Nazofarenks",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Paranasal sinüsler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Trachea (soluk borusu)",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 34,
+      "type": "legacy_text",
+      "stem": "N. vestibulocochlearis’in (VIII. kranyal sinir) fonksiyonu aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görme duyusu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Baş ve yüzün ağrı ve ısı duyusu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İşitme ve denge duyusu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mimik kaslarına motor uyarı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Koku duyusu",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 35,
+      "type": "legacy_text",
+      "stem": "Omurilik’ten (medulla spinalis) çıkan sinirlere ne ad verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kranyal sinirler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Duysal sinirler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Motor sinirler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Spinal sinirler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sempatik sinirler",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 36,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki kranyal sinirlerden hangisi görme siniridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "N. Opticus (II kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "N. oculomotorius (III kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "N. Abducens (VI kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "N. vestibulocochlearis (VIII kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "N. facialis (VII kranyal sinir)",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 37,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki kranyal sinirlerden hangisi karma (miks) sinirdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "N. oculomotorius (III kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "N. Abducens (VI kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "N. Trochlearis (IV kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "N. vestibulocochlearis (VIII kranyal sinir)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "N. trigeminus (V kranyal sinir)",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 38,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki yapılardan hangisi solunum sistemine ait bir yapı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bronş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Akciğerler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ağız",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yutak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Burun",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "6a4ccb17ebec446fbfa43ee6a4a14d77817563afbe268252d8f4aad8c98f0c45"
+}

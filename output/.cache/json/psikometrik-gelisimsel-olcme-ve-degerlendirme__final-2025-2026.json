@@ -1,0 +1,865 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "2025-2026 Final Soruları",
+  "exam_slug": "final-2025-2026",
+  "page_title": "Psikometrik – Gelişimsel Ölçme Ve Değerlendirme 2025-2026 Final Soruları",
+  "source_url": "https://lolonolo.com/2026/01/11/psikometrik-gelisimsel-olcme-ve-degerlendirme-2025-2026-final-sorulari/",
+  "scraped_at": "2026-11-12T02:21:25+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi, ölçüm araçlarının norm oluşturma sürecinde örneklem seçimiyle ilgili doğru bir bilgidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tabakalı örneklemede, alt gruplar eşit oranda temsil edilmek zorunda değildir.",
+          "images": [],
+          "text_ar": "في العينة الطبقية، لا يلزم أن تكون المجموعات الفرعية ممثلة بنسب متساوية."
+        },
+        {
+          "letter": "B",
+          "text": "Amaçlı örneklemede seçilen bireyler, evreni yeterince temsil etmeyebilir.",
+          "images": [],
+          "text_ar": "قد لا يمثل الأفراد المختارون في العينة القصدية المجتمع تمثيلًا كافيًا."
+        },
+        {
+          "letter": "C",
+          "text": "Tabakalı örneklemede, alt grupların dengeli temsil edilmesi planlama sürecini kolaylaştırır.",
+          "images": [],
+          "text_ar": "في العينة الطبقية، يُسهّل التمثيل المتوازن للمجموعات الفرعية عملية التخطيط."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklara yönelik ölçüm araçlarında norm oluşturmak için örneklem seçimi önemsizdir.",
+          "images": [],
+          "text_ar": "اختيار العينة غير مهم عند إنشاء المعايير في أدوات القياس الموجهة للأطفال."
+        },
+        {
+          "letter": "E",
+          "text": "Tesadüfi örnekleme, belirli özellikleri hedefleyerek örneklem oluşturur.",
+          "images": [],
+          "text_ar": "تُكوّن العينة العشوائية العينة من خلال استهداف خصائص معينة."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي يُعدّ معلومة صحيحة بشأن اختيار العينة في عملية إنشاء المعايير لأدوات القياس؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okul öncesi eğitimin amaçları arasında değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların psikolojik problemlerinin tanılanıp tedavi edilmesini sağlamak",
+          "images": [],
+          "text_ar": "ضمان تشخيص المشكلات النفسية لدى الأطفال وعلاجها"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyoekonomik açıdan dezavantajlı çocuklara eşit eğitim olanakları sağlamak",
+          "images": [],
+          "text_ar": "توفير فرص تعليمية متكافئة للأطفال المحرومين اجتماعيًا واقتصاديًا"
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların Türkçeyi doğru, etkili ve güzel kullanmalarını teşvik etmek",
+          "images": [],
+          "text_ar": "تشجيع الأطفال على استخدام التركية استخدامًا صحيحًا وفعّالًا وجميلًا"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların beden, zihin ve duygusal gelişimlerini güçlendirmek",
+          "images": [],
+          "text_ar": "تعزيز النمو الجسدي والعقلي والعاطفي للأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların ilkokula geçişini kolaylaştıracak bilgi, beceri ve davranışları geliştirmek",
+          "images": [],
+          "text_ar": "تنمية المعارف والمهارات والسلوكيات التي تُسهّل انتقال الأطفال إلى المدرسة الابتدائية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من أهداف التعليم ما قبل المدرسة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Psikolojik problem tarama amaçlı ölçekler hakkında aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu ölçekler arasında Conners anababa ve öğretmen değerlendirme ölçekleri sayılabilir.",
+          "images": [],
+          "text_ar": "يمكن أن تُذكر ضمن هذه المقاييس مقاييس تقييم كونرز للوالدين والمعلم."
+        },
+        {
+          "letter": "B",
+          "text": "Çeşitli davranışları değerlendirerek çocukların psikolojik sorunlara yönelik riskini belirlemeyi hedefler.",
+          "images": [],
+          "text_ar": "تهدف إلى تحديد خطر إصابة الأطفال بمشكلات نفسية من خلال تقييم سلوكيات متنوعة."
+        },
+        {
+          "letter": "C",
+          "text": "Dikkat eksikliği hiperaktivite bozukluğu tanı ve takibinde sıklıkla kullanılır.",
+          "images": [],
+          "text_ar": "تُستخدم كثيرًا في تشخيص اضطراب نقص الانتباه وفرط النشاط ومتابعته."
+        },
+        {
+          "letter": "D",
+          "text": "Yürütücü işlevlerin değerlendirilmesini sağlayarak çocuğun ruhsal problemini ortaya koyar.",
+          "images": [],
+          "text_ar": "تكشف المشكلة النفسية للطفل من خلال إتاحة تقييم الوظائف التنفيذية."
+        },
+        {
+          "letter": "E",
+          "text": "Beş yüzden fazla soru içeren ve kişilik değerlendirmesini sağlayan testlerdir.",
+          "images": [],
+          "text_ar": "اختبارات تتضمن أكثر من خمسمئة سؤال وتتيح تقييم الشخصية."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي صحيح بشأن المقاييس المخصصة لمسح المشكلات النفسية؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "• Nesneler veya bireyler belirli bir düzen içinde yerleştirilir.\n• Aralarındaki fark ölçülemez.\n• Sayısal işlem imkânı sınırlıdır.\n• Kullanım örnekleri: başarı listeleri, müşteri memnuniyeti\nYukarıda hangi ölçek türünden söz edilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eşit Aralıklı (Interval)",
+          "images": [],
+          "text_ar": "مقياس الفترات المتساوية (Interval)"
+        },
+        {
+          "letter": "B",
+          "text": "Sınıflama (Nominal)",
+          "images": [],
+          "text_ar": "مقياس التصنيف الاسمي (Nominal)"
+        },
+        {
+          "letter": "C",
+          "text": "Eşit Oranlı (Ratio)",
+          "images": [],
+          "text_ar": "مقياس النسبة المتساوية (Ratio)"
+        },
+        {
+          "letter": "D",
+          "text": "Dereceli (Ranked)",
+          "images": [],
+          "text_ar": "مقياس الرتب المتدرجة (Ranked)"
+        },
+        {
+          "letter": "E",
+          "text": "Sıralama (Ordinal)",
+          "images": [],
+          "text_ar": "مقياس الرتب الترتيبية (Ordinal)"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "• تُرتّب الأشياء أو الأفراد في نظام معين.\n• لا يمكن قياس الفرق بينها.\n• إمكانية إجراء العمليات العددية محدودة.\n• أمثلة على الاستخدام: قوائم النجاح، ورضا العملاء\nأي نوع من المقاييس يُشار إليه فيما سبق؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi, çocuklarda ölçme ve değerlendirme sürecinin basamaklarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun gelişim dönemi ve bireysel özelliklerinin gözden geçirilmesi",
+          "images": [],
+          "text_ar": "مراجعة مرحلة نمو الطفل وخصائصه الفردية"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun sosyal medya kullanım alışkanlıklarının detaylı analizi",
+          "images": [],
+          "text_ar": "التحليل التفصيلي لعادات استخدام الطفل لوسائل التواصل الاجتماعي"
+        },
+        {
+          "letter": "C",
+          "text": "Test ve gözlemlerin uygulanması için uygun ortam ve araçların seçilmesi",
+          "images": [],
+          "text_ar": "اختيار البيئة والأدوات المناسبة لتطبيق الاختبارات والملاحظات"
+        },
+        {
+          "letter": "D",
+          "text": "Ebeveyn, öğretmen ve çevresel bilgilerin toplanması",
+          "images": [],
+          "text_ar": "جمع المعلومات من الوالدين والمعلم والبيئة"
+        },
+        {
+          "letter": "E",
+          "text": "Elde edilen verilerin çok kaynaklı olarak yorumlanması",
+          "images": [],
+          "text_ar": "تفسير البيانات التي تم الحصول عليها اعتمادًا على مصادر متعددة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من خطوات عملية القياس والتقييم لدى الأطفال؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Güncel literatüre göre zekâ, birçok bilişsel beceriyi kapsamaktadır.\nAşağıdakilerden hangisi zekânın kapsadığı bilişsel beceriler arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fiziksel dayanıklılık",
+          "images": [],
+          "text_ar": "التحمل الجسدي"
+        },
+        {
+          "letter": "B",
+          "text": "Yeni durumlarla başa çıkma",
+          "images": [],
+          "text_ar": "التعامل مع المواقف الجديدة"
+        },
+        {
+          "letter": "C",
+          "text": "Mantıklı düşünme",
+          "images": [],
+          "text_ar": "التفكير المنطقي"
+        },
+        {
+          "letter": "D",
+          "text": "Dil ve ifade becerisi",
+          "images": [],
+          "text_ar": "مهارة اللغة والتعبير"
+        },
+        {
+          "letter": "E",
+          "text": "Plan yapma",
+          "images": [],
+          "text_ar": "التخطيط"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "وفق الأدبيات الحديثة، يشمل الذكاء العديد من المهارات المعرفية.\nأي مما يلي ليس من المهارات المعرفية التي يشملها الذكاء؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yürütücü işlevlerin değerlendirilmesinde kullanılan testler arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tematik Algı Testi",
+          "images": [],
+          "text_ar": "اختبار الإدراك الموضوعي"
+        },
+        {
+          "letter": "B",
+          "text": "Peabody Resim Kelime Eşleştirme Testi",
+          "images": [],
+          "text_ar": "اختبار بيبودي لمطابقة الكلمات بالصور"
+        },
+        {
+          "letter": "C",
+          "text": "Stroop Testi",
+          "images": [],
+          "text_ar": "اختبار ستروب"
+        },
+        {
+          "letter": "D",
+          "text": "Gazi Beier Cümle Tamamlama Testi",
+          "images": [],
+          "text_ar": "اختبار غازي باير لإكمال الجمل"
+        },
+        {
+          "letter": "E",
+          "text": "Rorschach Mürekkep Lekesi Testi",
+          "images": [],
+          "text_ar": "اختبار رورشاخ لبقع الحبر"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من الاختبارات المستخدمة في تقييم الوظائف التنفيذية؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi PDEA Teorisi’nde tanımlanan bilişsel süreçlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bellek",
+          "images": [],
+          "text_ar": "الذاكرة"
+        },
+        {
+          "letter": "B",
+          "text": "Dikkat",
+          "images": [],
+          "text_ar": "الانتباه"
+        },
+        {
+          "letter": "C",
+          "text": "Eşzamanlı İşlemleme",
+          "images": [],
+          "text_ar": "المعالجة المتزامنة"
+        },
+        {
+          "letter": "D",
+          "text": "Ardıl İşlemleme",
+          "images": [],
+          "text_ar": "المعالجة المتتابعة"
+        },
+        {
+          "letter": "E",
+          "text": "Planlama",
+          "images": [],
+          "text_ar": "التخطيط"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من العمليات المعرفية المحددة في نظرية PDEA؟",
+      "review": [
+        "q8.stem: أُبقيت اختصار PDEA كما في المصدر لأنه الاختصار التركي لنظرية PASS."
+      ]
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Elif, 8 yaşında bir ilkokul öğrencisidir. Okul rehber öğretmeni, Elif’in dikkat ve okuma becerilerini değerlendirmek için bir psikolojik test uygulamak istemektedir. Test öncesinde öğretmen, Elif’e ve velisine sürecin amacı ve testın nasıl yapılacağı hakkında bilgi vermiştir. Test sırasında Elif bazı soruları anlamakta zorlanmış ve rehber öğretmen, standarda uygun olarak yönergeleri açıklamak yerine, hızlıca cevapları göstermiştir. Test uygulayıcısı, proje ve bilgisayar destekli testler konusunda gerekli eğitime sahiptir. Test sonuçları veliye sade ve anlaşılır bir şekilde aktarılmıştır.\nYukarıdaki vaka senaryosunda hangi davranış etik kurallara aykırıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Test sonuçlarının veliye sade ve anlaşılır bir şekilde aktarılmaması",
+          "images": [],
+          "text_ar": "عدم نقل نتائج الاختبار إلى وليّ الأمر بصورة بسيطة وواضحة"
+        },
+        {
+          "letter": "B",
+          "text": "Test sırasında çocuğun yönergeyi anlaması için ek açıklama yapılmaması",
+          "images": [],
+          "text_ar": "عدم تقديم شرح إضافي ليساعد الطفل على فهم التعليمات أثناء الاختبار"
+        },
+        {
+          "letter": "C",
+          "text": "Standarda uygun olmadan, cevapları göstererek testin hızlıca tamamlanması",
+          "images": [],
+          "text_ar": "إكمال الاختبار بسرعة بعرض الإجابات دون الالتزام بالمعيار"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğa ve veliye test süreci hakkında bilgi verilmemesi",
+          "images": [],
+          "text_ar": "عدم إعطاء الطفل ووليّ الأمر معلومات عن عملية الاختبار"
+        },
+        {
+          "letter": "E",
+          "text": "Test uygulayıcısının gerekli eğitim ve yetkinliğe sahip olmaması",
+          "images": [],
+          "text_ar": "عدم امتلاك مطبّق الاختبار التدريب والكفاءة اللازمين"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "إليف طالبة في المدرسة الابتدائية عمرها 8 سنوات. يرغب المرشد المدرسي في تطبيق اختبار نفسي لتقييم مهارات الانتباه والقراءة لدى إليف. قبل الاختبار، قدّم المعلم لإليف ووليّ أمرها معلومات عن هدف العملية وكيفية إجراء الاختبار. أثناء الاختبار، وجدت إليف صعوبة في فهم بعض الأسئلة، فقام المرشد المدرسي بدلًا من شرح التعليمات وفقًا للمعيار بعرض الإجابات بسرعة. يتمتع مطبّق الاختبار بالتدريب اللازم في مجال الاختبارات الإسقاطية والحاسوبية. ونُقلت نتائج الاختبار إلى وليّ الأمر بصورة بسيطة وواضحة.\nأي سلوك في سيناريو الحالة أعلاه يخالف القواعد الأخلاقية؟",
+      "review": [
+        "q9.stem: «proje testler» غامضة في المصدر، وقرئت بمعنى الاختبارات الإسقاطية."
+      ]
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi psikolojide ölçek ve testlerin kullanımının başlıca faydaları arasında değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireysel farklılıkları ortaya koyarak uygun müdahale ve yönlendirmelerin yapılmasına yardımcı olur.",
+          "images": [],
+          "text_ar": "يساعد في إجراء التدخلات والتوجيهات المناسبة من خلال إظهار الفروق الفردية."
+        },
+        {
+          "letter": "B",
+          "text": "Zaman ve kaynak tasarrufu sağlayarak hızlı ve sistematik veri toplanmasını mümkün kılar.",
+          "images": [],
+          "text_ar": "يتيح جمع البيانات بسرعة وبشكل منهجي مع توفير الوقت والموارد."
+        },
+        {
+          "letter": "C",
+          "text": "Klinik görüşmeyi ihtiyaç kalmadan ruhsal bozuklukların tanılanmasını sağlar.",
+          "images": [],
+          "text_ar": "يتيح تشخيص الاضطرابات النفسية دون الحاجة إلى المقابلة الإكلينيكية."
+        },
+        {
+          "letter": "D",
+          "text": "Bireyin farkında olmadığı veya dile getiremediği sorunların tespit edilmesini kolaylaştırır.",
+          "images": [],
+          "text_ar": "يُسهّل الكشف عن المشكلات التي لا يدركها الفرد أو لا يستطيع التعبير عنها."
+        },
+        {
+          "letter": "E",
+          "text": "Soyut psikolojik özellikleri sayısallaştırarak standartlaştırılmış veriler elde edilmesini sağlar.",
+          "images": [],
+          "text_ar": "يتيح الحصول على بيانات معيارية من خلال تحويل الخصائص النفسية المجردة إلى قيم عددية."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من الفوائد الرئيسة لاستخدام المقاييس والاختبارات في علم النفس؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Deniz, 5 yaş 10 aylık bir çocuktur. Ailesi onu önümüzdeki dönem ilkokula başlatmayı planlamaktadır. Ancak okul öncesi öğretmeni, Deniz’in dikkatini sürdürmede zorlandığını, yönergeleri tam olarak takip edemediğini ve ince motor becerilerinde yaşıtlarının gerisinde olduğunu belirtmiştir. Öğretmen, çocuğun ilkokula hazırbulunuşluk düzeyinin değerlendirilmesi için psikolojik bir inceleme yapılmasını önermiştir.\nBu durumda Deniz’in ilkokula başlamaya ne kadar hazır olduğunu belirlemek için hangi testin uygulanması en uygun olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Peabody Resim-Kelime Testi",
+          "images": [],
+          "text_ar": "اختبار بيبودي للصور والكلمات"
+        },
+        {
+          "letter": "B",
+          "text": "Goodenough-Harris İnsan Çiz Testi",
+          "images": [],
+          "text_ar": "اختبار غودإنوف-هاريس لرسم الإنسان"
+        },
+        {
+          "letter": "C",
+          "text": "Porteus Labirent Testi",
+          "images": [],
+          "text_ar": "اختبار بورتيوس للمتاهات"
+        },
+        {
+          "letter": "D",
+          "text": "Metropolitan Okul Olgunluğu Testi",
+          "images": [],
+          "text_ar": "اختبار ميتروبوليتان للنضج المدرسي"
+        },
+        {
+          "letter": "E",
+          "text": "Denver II Gelişimsel Tarama Testi",
+          "images": [],
+          "text_ar": "اختبار دنفر II للمسح النمائي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "دنيز طفل عمره 5 سنوات و10 أشهر. تخطط أسرته لإدخاله المدرسة الابتدائية في الفصل القادم. غير أن معلمة ما قبل المدرسة ذكرت أن دنيز يجد صعوبة في مواصلة الانتباه، ولا يستطيع اتباع التعليمات بشكل كامل، وهو متأخر عن أقرانه في المهارات الحركية الدقيقة. وقد اقترحت المعلمة إجراء فحص نفسي لتقييم مستوى استعداد الطفل للمدرسة الابتدائية.\nفي هذه الحالة، أي اختبار يكون تطبيقه الأنسب لتحديد مدى استعداد دنيز لبدء المدرسة الابتدائية؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "• Tek ve genel bir yetenekten ibaret değildir.\n• Birbiriyle bağımsız yedi temel zihinsel yetenekten oluşur: sözel kavrama, muhakeme, algısal hız, sayısal yetenek, sözel akıcılık, bellek ve görsel-uzamsal beceri.\n• Çok boyutlu bir yapıyı öne çıkarır.\nZekâ ile ilgili yukarıda verilen özellikler hangi zekâ kuramına aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çoklu Zeka Kuramı (Gardner)",
+          "images": [],
+          "text_ar": "نظرية الذكاءات المتعددة (غاردنر)"
+        },
+        {
+          "letter": "B",
+          "text": "Tek Faktör Kuramı (Spearman)",
+          "images": [],
+          "text_ar": "نظرية العامل الواحد (سبيرمان)"
+        },
+        {
+          "letter": "C",
+          "text": "Küme Etmen Kuramı (Thurstone)",
+          "images": [],
+          "text_ar": "نظرية العوامل المجموعية (ثورستون)"
+        },
+        {
+          "letter": "D",
+          "text": "Cattell-Horn-Carroll Kuramı",
+          "images": [],
+          "text_ar": "نظرية كاتيل-هورن-كارول"
+        },
+        {
+          "letter": "E",
+          "text": "Üçlü Zekâ Kuramı (Sternberg)",
+          "images": [],
+          "text_ar": "النظرية الثلاثية للذكاء (ستيرنبرغ)"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "• لا يتكون من قدرة واحدة عامة.\n• يتكون من سبع قدرات عقلية أساسية مستقلة عن بعضها: الفهم اللفظي، والاستدلال، والسرعة الإدراكية، والقدرة العددية، والطلاقة اللفظية، والذاكرة، والمهارة البصرية المكانية.\n• يُبرز بنية متعددة الأبعاد.\nلأي نظرية من نظريات الذكاء تنتمي الخصائص المذكورة أعلاه بشأن الذكاء؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçme ve değerlendirme ilgili doğru bir bilgidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçme, genellikle bireysel olarak yürütülür ve sürece odaklanır.",
+          "images": [],
+          "text_ar": "القياس يُجرى عادة بشكل فردي ويركز على العملية."
+        },
+        {
+          "letter": "B",
+          "text": "Ölçme, verilerin organize edilmesi ve problem çözmeye yönelik çıkarımlar yapılmasını gerektirir.",
+          "images": [],
+          "text_ar": "القياس يتطلب تنظيم البيانات واستخلاص استنتاجات موجهة نحو حل المشكلات."
+        },
+        {
+          "letter": "C",
+          "text": "Değerlendirme, standart prosedürlere dayanarak uygulama ve puanlama ile sınırlıdır.",
+          "images": [],
+          "text_ar": "التقييم يقتصر على التطبيق والتصحيح استنادًا إلى إجراءات معيارية."
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirme, sayısal puan ya da puan seti sağlamayı amaçlar.",
+          "images": [],
+          "text_ar": "التقييم يهدف إلى تقديم درجة عددية أو مجموعة درجات."
+        },
+        {
+          "letter": "E",
+          "text": "Ölçme, belirli bir niteliğe ilişkin sayısal veri elde etmeyi amaçlar.",
+          "images": [],
+          "text_ar": "القياس يهدف إلى الحصول على بيانات عددية تتعلق بسمة معينة."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي يُعدّ معلومة صحيحة عن القياس والتقييم؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "I. Öğretmen Yapımı Testler\nII. Teşhis (Tanılayıcı) Testler\nIII. Yabancı Durum Testi\nIV. Gelişim ve Ruhsal Sağlık Değerlendirmesi\nYukarıdaki testlerden hangileri başarı testleri çeşitleri arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I وIV"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        },
+        {
+          "letter": "E",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. الاختبارات التي يعدّها المعلم\nII. الاختبارات التشخيصية\nIII. اختبار الموقف الغريب\nIV. تقييم النمو والصحة النفسية\nأي من الاختبارات أعلاه يُعدّ من أنواع اختبارات التحصيل؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "1. İlkel hareketler dönemi\n2. Refleksif dönem\n3. Özelleşmiş hareketler dönemi\n4. Temel hareketler dönemi\nMotor gelişim süreci yukarıdaki dört evrede incelenir. Aşağıdakilerden hangisi bu dönemlerin doğru gelişim sırasını göstermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2 -> 1 -> 4 -> 3",
+          "images": [],
+          "text_ar": "2 ثم 1 ثم 4 ثم 3"
+        },
+        {
+          "letter": "B",
+          "text": "4 -> 3 -> 2 -> 1",
+          "images": [],
+          "text_ar": "4 ثم 3 ثم 2 ثم 1"
+        },
+        {
+          "letter": "C",
+          "text": "3 -> 1 -> 4 -> 2",
+          "images": [],
+          "text_ar": "3 ثم 1 ثم 4 ثم 2"
+        },
+        {
+          "letter": "D",
+          "text": "1 -> 2 -> 3 -> 4",
+          "images": [],
+          "text_ar": "1 ثم 2 ثم 3 ثم 4"
+        },
+        {
+          "letter": "E",
+          "text": "1 -> 3 -> 2 -> 4",
+          "images": [],
+          "text_ar": "1 ثم 3 ثم 2 ثم 4"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "1. مرحلة الحركات البدائية\n2. المرحلة الانعكاسية\n3. مرحلة الحركات المتخصصة\n4. مرحلة الحركات الأساسية\nتُدرس عملية النمو الحركي في المراحل الأربع أعلاه. أي مما يلي يُظهر الترتيب النمائي الصحيح لهذه المراحل؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi, psikolojik değerlendirme raporlarının temel amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değerlendirilen bireyin psikolojik durumunu tanımlamak ve bunu kayıt altına almak",
+          "images": [],
+          "text_ar": "وصف الحالة النفسية للفرد الذي يتم تقييمه وتسجيل ذلك"
+        },
+        {
+          "letter": "B",
+          "text": "Bireyin güçlü yönlerini belirlemek ve destek unsuru olarak kullanmak",
+          "images": [],
+          "text_ar": "تحديد جوانب القوة لدى الفرد واستخدامها عنصر دعم"
+        },
+        {
+          "letter": "C",
+          "text": "Tanımlanan problemlere yönelik bilimsel temelli öneriler sunmak",
+          "images": [],
+          "text_ar": "تقديم توصيات ذات أساس علمي للمشكلات المحددة"
+        },
+        {
+          "letter": "D",
+          "text": "Yönlendirme nedenine uygun açıklamalar üretmek ve varsa yöneltilen soruya cevap vermek",
+          "images": [],
+          "text_ar": "إنتاج تفسيرات مناسبة لسبب الإحالة والإجابة عن السؤال المطروح إن وُجد"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun tüm eğitim materyallerini ve ödevlerini yeniden hazırlamak",
+          "images": [],
+          "text_ar": "إعادة إعداد جميع المواد التعليمية والواجبات المنزلية للطفل"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من الأهداف الأساسية لتقارير التقييم النفسي؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "5 yaşındaki Ahmet, sınıfta öğretmeni tarafından gözlemlenmiş ve Ahmet’in bazı davranışlarda zorluk yaşadığı belirtilmiştir. Psikolojik değerlendirme için teste alınmadan önce, testin amacı, süresi ve uygulanış biçimi Ahmet’e ve ailesine yeterince açıklanmamıştır. Isınma faaliyeti ve test sırasında kaygılı ve isteksiz davranan Ahmet’in performansı beklenenden düşük olmuştur.\nYukarıdaki vaka örneğinde hangi aşama uygulanmadığı için çocuğun test performansında belirgin bir düşüklük gözlenmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Test materyallerinin çocuğun gelişim düzeyine uygun olmaması",
+          "images": [],
+          "text_ar": "عدم ملاءمة مواد الاختبار لمستوى نمو الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun teste yorgun ve aç gelmesi",
+          "images": [],
+          "text_ar": "مجيء الطفل إلى الاختبار متعبًا وجائعًا"
+        },
+        {
+          "letter": "C",
+          "text": "Değerlendiricinin ısınma faaliyetini planlamaması",
+          "images": [],
+          "text_ar": "عدم تخطيط المقيّم لنشاط التهيئة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk ve ailesine test sürecinin uygun şekilde açıklanmaması",
+          "images": [],
+          "text_ar": "عدم شرح عملية الاختبار للطفل وأسرته بالشكل المناسب"
+        },
+        {
+          "letter": "E",
+          "text": "Testin uzun sürmesi ve oturumların tek seansta yapılması",
+          "images": [],
+          "text_ar": "استغراق الاختبار وقتًا طويلًا وإجراء الجلسات في جلسة واحدة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "لاحظ معلم أحمد البالغ من العمر 5 سنوات في الصف، وأشار إلى أن أحمد يواجه صعوبة في بعض السلوكيات. قبل إخضاعه للاختبار من أجل التقييم النفسي، لم يُشرح لأحمد وأسرته على نحو كافٍ هدف الاختبار ومدته وطريقة تطبيقه. وقد جاء أداء أحمد، الذي كان قلقًا وغير راغب أثناء نشاط التهيئة والاختبار، أدنى من المتوقع.\nفي مثال الحالة أعلاه، أي مرحلة لم تُطبَّق مما أدى إلى انخفاض واضح في أداء الطفل في الاختبار؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki bilgilerden hangisi Ankara Gelişim Tarama Envanteri’ne (AGTE) aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal uyum ve günlük yaşam becerileri bakımveren formu ile değerlendirilir.",
+          "images": [],
+          "text_ar": "يُقيَّم التوافق الاجتماعي ومهارات الحياة اليومية من خلال استمارة مقدّم الرعاية."
+        },
+        {
+          "letter": "B",
+          "text": "Anne-baba tarafından doldurulur; iletişim, motor, problem çözme ve kişisel-sosyal alanları içerir.",
+          "images": [],
+          "text_ar": "يملؤه الوالدان، ويتضمن مجالات التواصل والحركة وحل المشكلات والشخصي-الاجتماعي."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun performansı gözlemlenir; kişisel-sosyal, ince motor, dil ve kaba motor alanları değerlendirilir.",
+          "images": [],
+          "text_ar": "يُراقب أداء الطفل، وتُقيَّم مجالات الشخصي-الاجتماعي والحركي الدقيق واللغة والحركي الكبير."
+        },
+        {
+          "letter": "D",
+          "text": "Bakımverene sorular yöneltilir; dil-bilişsel, ince motor, kaba motor ve sosyal-öz bakım alanlarını kapsar.",
+          "images": [],
+          "text_ar": "تُوجَّه أسئلة إلى مقدّم الرعاية، ويشمل مجالات اللغة-المعرفي والحركي الدقيق والحركي الكبير والاجتماعي-العناية الذاتية."
+        },
+        {
+          "letter": "E",
+          "text": "0-42 ay bebeklerin bilişsel, dil, motor ve sosyal-duygusal gelişimi ölçülür.",
+          "images": [],
+          "text_ar": "يقيس النمو المعرفي واللغوي والحركي والاجتماعي-العاطفي للرضع من 0 إلى 42 شهرًا."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من المعلومات التالية تخص استبيان أنقرة للمسح النمائي (AGTE)؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Piaget’nin işlem öncesi dönemine (2-6 yaş) ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk, olayları başkalarının bakış açısından değerlendirebilir.",
+          "images": [],
+          "text_ar": "يستطيع الطفل تقييم الأحداث من وجهة نظر الآخرين."
+        },
+        {
+          "letter": "B",
+          "text": "Bu dönemde sembolik ve hayali oyun davranışları sık görülür.",
+          "images": [],
+          "text_ar": "تكثر في هذه المرحلة سلوكيات اللعب الرمزي والتخيلي."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk bu dönemde mantıksal düşünmeyi tam olarak geliştirmiştir.",
+          "images": [],
+          "text_ar": "يكون الطفل في هذه المرحلة قد طوّر التفكير المنطقي بشكل كامل."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk, nesnelere insan özellikleri atfetmez ve gerçekçi düşünür.",
+          "images": [],
+          "text_ar": "لا ينسب الطفل إلى الأشياء خصائص بشرية ويفكر تفكيرًا واقعيًا."
+        },
+        {
+          "letter": "E",
+          "text": "Dil gelişimi yavaştır ve iletişim sınırlıdır.",
+          "images": [],
+          "text_ar": "تطور اللغة بطيء والتواصل محدود."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من العبارات التالية صحيح بشأن مرحلة ما قبل العمليات عند بياجيه (2-6 سنوات)؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Bir öğretmen, sınıfındaki öğrencilerin davranışlarını gözlemleyerek puanlamaktadır. Daha önce başarılı olduğunu düşündüğü bir öğrencinin davranışlarını olduğundan daha olumlu değerlendirirken, diğer öğrencilerin davranışlarını daha katı bir şekilde yorumlamaktadır.\nYukarıdaki durumda gözlemlenen, psikometrik ölçümlerde ortaya çıkabilecek yanılık türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görüşmeci yanlılığı",
+          "images": [],
+          "text_ar": "تحيز المحاور"
+        },
+        {
+          "letter": "B",
+          "text": "Test yanlılığı",
+          "images": [],
+          "text_ar": "تحيز الاختبار"
+        },
+        {
+          "letter": "C",
+          "text": "Hatırlama yanlılığı",
+          "images": [],
+          "text_ar": "تحيز التذكر"
+        },
+        {
+          "letter": "D",
+          "text": "Gözlemci yanlılığı",
+          "images": [],
+          "text_ar": "تحيز الملاحظ"
+        },
+        {
+          "letter": "E",
+          "text": "Bilgi yanlılığı",
+          "images": [],
+          "text_ar": "تحيز المعلومات"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "يقوم معلم بملاحظة سلوكيات الطلاب في صفه وتقدير درجات لها. فهو يقيّم سلوكيات طالب يعتقد أنه كان ناجحًا سابقًا بصورة أكثر إيجابية من حقيقتها، بينما يفسّر سلوكيات الطلاب الآخرين بصورة أكثر تشددًا.\nأي نوع من التحيز الذي يمكن أن يظهر في القياسات السيكومترية يُلاحظ في الحالة أعلاه؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "c8b25310ac452592b8d7d9cfbf8971ae69bf5aa0cd48e3d42da8c5b1fb3d2512"
+}

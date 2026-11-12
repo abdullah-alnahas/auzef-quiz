@@ -1,0 +1,859 @@
+{
+  "course": "Anatomi",
+  "course_slug": "anatomi",
+  "exam": "2023-2024 Vize Soruları",
+  "exam_slug": "vize-2023-2024",
+  "page_title": "Anatomi 2023-2024 Vize Soruları",
+  "source_url": "https://lolonolo.com/2023/11/14/anatomi-2023-2024-vize-sorulari/",
+  "scraped_at": "2026-11-12T02:21:31+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Burnun dış duvarında yer alan ve solunan havanın türbülans akımı oluşturarak yukarı iletilmesini sağlayan uçak kanadı benzeri yapılara verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Septum",
+          "images": [],
+          "text_ar": "الحاجز"
+        },
+        {
+          "letter": "B",
+          "text": "Vestibulum",
+          "images": [],
+          "text_ar": "الدهليز"
+        },
+        {
+          "letter": "C",
+          "text": "Concha (konka)",
+          "images": [],
+          "text_ar": "المحارة"
+        },
+        {
+          "letter": "D",
+          "text": "Ostium",
+          "images": [],
+          "text_ar": "الفتحة"
+        },
+        {
+          "letter": "E",
+          "text": "Sinüs",
+          "images": [],
+          "text_ar": "الجيب"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما اسم الأبنية الشبيهة بجناح الطائرة الواقعة في الجدار الخارجي للأنف، والتي تُحدث تياراً مضطرباً للهواء المستنشق فتنقله إلى الأعلى؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Kasların tendon ve kirişlerine oturarak o kasın işlevselliğini artıran kemiklere verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sesamoid (susamsı) kemikler",
+          "images": [],
+          "text_ar": "العظام السمسمية"
+        },
+        {
+          "letter": "B",
+          "text": "Yassı kemikler",
+          "images": [],
+          "text_ar": "العظام المسطحة"
+        },
+        {
+          "letter": "C",
+          "text": "Kısa kemikler",
+          "images": [],
+          "text_ar": "العظام القصيرة"
+        },
+        {
+          "letter": "D",
+          "text": "Uzun kemikler",
+          "images": [],
+          "text_ar": "العظام الطويلة"
+        },
+        {
+          "letter": "E",
+          "text": "Havalı kemikler",
+          "images": [],
+          "text_ar": "العظام الهوائية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما اسم العظام التي تستقر عليها أوتار العضلات وأربطتها فتزيد من وظيفتها؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sindirim sistemi eklenti organları yapılarındandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bağırsaklar",
+          "images": [],
+          "text_ar": "الأمعاء"
+        },
+        {
+          "letter": "B",
+          "text": "Tükrük bezleri",
+          "images": [],
+          "text_ar": "الغدد اللعابية"
+        },
+        {
+          "letter": "C",
+          "text": "Mide",
+          "images": [],
+          "text_ar": "المعدة"
+        },
+        {
+          "letter": "D",
+          "text": "Ağız",
+          "images": [],
+          "text_ar": "الفم"
+        },
+        {
+          "letter": "E",
+          "text": "Yemek borusu",
+          "images": [],
+          "text_ar": "المريء"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي من الأعضاء الملحقة بالجهاز الهضمي؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Besinlerin yakılıp enerji oluşturulması için gerekli olan oksijenin vücuda alınması ve açığa çıkan karbondioksitin ise dışarı atılmasını sağlayan sisteme verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hareket sistemi",
+          "images": [],
+          "text_ar": "الجهاز الحركي"
+        },
+        {
+          "letter": "B",
+          "text": "Ürogenital sistem",
+          "images": [],
+          "text_ar": "الجهاز البولي التناسلي"
+        },
+        {
+          "letter": "C",
+          "text": "Sindirim sistemi",
+          "images": [],
+          "text_ar": "الجهاز الهضمي"
+        },
+        {
+          "letter": "D",
+          "text": "Sinir sistemi",
+          "images": [],
+          "text_ar": "الجهاز العصبي"
+        },
+        {
+          "letter": "E",
+          "text": "Solunum sistemi",
+          "images": [],
+          "text_ar": "الجهاز التنفسي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ما اسم الجهاز الذي يزود الجسم بالأكسجين اللازم لاحتراق الغذاء وإنتاج الطاقة ويطرح ثاني أكسيد الكربون الناتج إلى الخارج؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Alın kemiği olarak da bilinen, kaşların üzerinde yer alan kemik aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mandibula",
+          "images": [],
+          "text_ar": "الفك السفلي"
+        },
+        {
+          "letter": "B",
+          "text": "Frontal kemik",
+          "images": [],
+          "text_ar": "العظم الجبهي"
+        },
+        {
+          "letter": "C",
+          "text": "Parietal kemik",
+          "images": [],
+          "text_ar": "العظم الجداري"
+        },
+        {
+          "letter": "D",
+          "text": "Temporal kemik",
+          "images": [],
+          "text_ar": "العظم الصدغي"
+        },
+        {
+          "letter": "E",
+          "text": "Occipital kemik",
+          "images": [],
+          "text_ar": "العظم القذالي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي هو العظم المعروف أيضاً بعظم الجبهة والواقع فوق الحاجبين؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Bağırsakların yüzeyini ve karın boşluğunu saran zara verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Perikard",
+          "images": [],
+          "text_ar": "التامور"
+        },
+        {
+          "letter": "B",
+          "text": "Pia mater",
+          "images": [],
+          "text_ar": "الأم الحنون"
+        },
+        {
+          "letter": "C",
+          "text": "Periost",
+          "images": [],
+          "text_ar": "السمحاق"
+        },
+        {
+          "letter": "D",
+          "text": "Periton",
+          "images": [],
+          "text_ar": "الصفاق"
+        },
+        {
+          "letter": "E",
+          "text": "Plevra",
+          "images": [],
+          "text_ar": "الجنبة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما اسم الغشاء الذي يغطي سطح الأمعاء ويحيط بتجويف البطن؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Baş iskeletinin tek oynar kemiği aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Occipital kemik",
+          "images": [],
+          "text_ar": "العظم القذالي"
+        },
+        {
+          "letter": "B",
+          "text": "Frontal kemik",
+          "images": [],
+          "text_ar": "العظم الجبهي"
+        },
+        {
+          "letter": "C",
+          "text": "Mandibula",
+          "images": [],
+          "text_ar": "الفك السفلي"
+        },
+        {
+          "letter": "D",
+          "text": "Temporal kemik",
+          "images": [],
+          "text_ar": "العظم الصدغي"
+        },
+        {
+          "letter": "E",
+          "text": "Maxilla",
+          "images": [],
+          "text_ar": "الفك العلوي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما هي العظمة المتحركة الوحيدة في هيكل الرأس؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Vücudun orta hattına yakın oluşumları için hangi ifade kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anterior",
+          "images": [],
+          "text_ar": "الأمامي"
+        },
+        {
+          "letter": "B",
+          "text": "Medialis",
+          "images": [],
+          "text_ar": "الإنسي"
+        },
+        {
+          "letter": "C",
+          "text": "Medianus",
+          "images": [],
+          "text_ar": "الناصف"
+        },
+        {
+          "letter": "D",
+          "text": "Lateralis",
+          "images": [],
+          "text_ar": "الوحشي"
+        },
+        {
+          "letter": "E",
+          "text": "Inferior",
+          "images": [],
+          "text_ar": "السفلي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي تعبير يُستخدم للأبنية القريبة من الخط الناصف للجسم؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "İnce bağırsakların son kısmı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İleum",
+          "images": [],
+          "text_ar": "اللفائفي"
+        },
+        {
+          "letter": "B",
+          "text": "Jejunum",
+          "images": [],
+          "text_ar": "الصائم"
+        },
+        {
+          "letter": "C",
+          "text": "Duodenum",
+          "images": [],
+          "text_ar": "الاثنا عشر"
+        },
+        {
+          "letter": "D",
+          "text": "Rektum",
+          "images": [],
+          "text_ar": "المستقيم"
+        },
+        {
+          "letter": "E",
+          "text": "Caecum",
+          "images": [],
+          "text_ar": "الأعور"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي هو الجزء الأخير من الأمعاء الدقيقة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Vücudu sağ ve sol olmak üzere iki eşit olmayan parçaya ayıran düzleme verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Planum coronale",
+          "images": [],
+          "text_ar": "المستوى الإكليلي"
+        },
+        {
+          "letter": "B",
+          "text": "Planum horizontale",
+          "images": [],
+          "text_ar": "المستوى الأفقي"
+        },
+        {
+          "letter": "C",
+          "text": "Planum medianum",
+          "images": [],
+          "text_ar": "المستوى الناصف"
+        },
+        {
+          "letter": "D",
+          "text": "Planum sagittale",
+          "images": [],
+          "text_ar": "المستوى السهمي"
+        },
+        {
+          "letter": "E",
+          "text": "Planum transversum",
+          "images": [],
+          "text_ar": "المستوى المستعرض"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما اسم المستوى الذي يقسم الجسم إلى قسمين غير متساويين، أيمن وأيسر؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Mandibula (alt çene kemiği) hangi kemik ile eklem yapmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Frontal kemik",
+          "images": [],
+          "text_ar": "العظم الجبهي"
+        },
+        {
+          "letter": "B",
+          "text": "Parietal kemik",
+          "images": [],
+          "text_ar": "العظم الجداري"
+        },
+        {
+          "letter": "C",
+          "text": "Ethmoid kemik",
+          "images": [],
+          "text_ar": "العظم الغربالي"
+        },
+        {
+          "letter": "D",
+          "text": "Temporal kemik",
+          "images": [],
+          "text_ar": "العظم الصدغي"
+        },
+        {
+          "letter": "E",
+          "text": "Occipital kemik",
+          "images": [],
+          "text_ar": "العظم القذالي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "بأي عظم يتصل الفك السفلي (Mandibula) بالمفصل؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Burun boşluklarını birbirinden ayıran bölmeye verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Concha (konka)",
+          "images": [],
+          "text_ar": "المحارة"
+        },
+        {
+          "letter": "B",
+          "text": "Sinüs",
+          "images": [],
+          "text_ar": "الجيب"
+        },
+        {
+          "letter": "C",
+          "text": "Vestibulum",
+          "images": [],
+          "text_ar": "الدهليز"
+        },
+        {
+          "letter": "D",
+          "text": "Ostium",
+          "images": [],
+          "text_ar": "الفتحة"
+        },
+        {
+          "letter": "E",
+          "text": "Septum",
+          "images": [],
+          "text_ar": "الحاجز"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ما اسم الحاجز الذي يفصل تجويفي الأنف عن بعضهما؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sindirim sistemi kanalı yapılarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karaciğer",
+          "images": [],
+          "text_ar": "الكبد"
+        },
+        {
+          "letter": "B",
+          "text": "Ağız",
+          "images": [],
+          "text_ar": "الفم"
+        },
+        {
+          "letter": "C",
+          "text": "Mide",
+          "images": [],
+          "text_ar": "المعدة"
+        },
+        {
+          "letter": "D",
+          "text": "Bağırsaklar",
+          "images": [],
+          "text_ar": "الأمعاء"
+        },
+        {
+          "letter": "E",
+          "text": "Yemek borusu",
+          "images": [],
+          "text_ar": "المريء"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من أبنية القناة الهضمية؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sindirim sistemi basamaklarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Besinin sindirilmesi",
+          "images": [],
+          "text_ar": "هضم الغذاء"
+        },
+        {
+          "letter": "B",
+          "text": "Besinin yakılması ve enerjiye dönüştürülmesi",
+          "images": [],
+          "text_ar": "احتراق الغذاء وتحويله إلى طاقة"
+        },
+        {
+          "letter": "C",
+          "text": "Besinin taşınması",
+          "images": [],
+          "text_ar": "نقل الغذاء"
+        },
+        {
+          "letter": "D",
+          "text": "Besinin alınması",
+          "images": [],
+          "text_ar": "تناول الغذاء"
+        },
+        {
+          "letter": "E",
+          "text": "Besinin dışarı atılması (dışkılama)",
+          "images": [],
+          "text_ar": "إخراج الغذاء (التبرز)"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من مراحل الهضم؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Vücudun sağından soluna veya solundan sağına doğru geçen ve vücudu ön-arka olmak üzere 2 parçaya ayıran düzleme verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Planum coronale",
+          "images": [],
+          "text_ar": "المستوى الإكليلي"
+        },
+        {
+          "letter": "B",
+          "text": "Planum transversum",
+          "images": [],
+          "text_ar": "المستوى المستعرض"
+        },
+        {
+          "letter": "C",
+          "text": "Planum horizontale",
+          "images": [],
+          "text_ar": "المستوى الأفقي"
+        },
+        {
+          "letter": "D",
+          "text": "Planum medianum",
+          "images": [],
+          "text_ar": "المستوى الناصف"
+        },
+        {
+          "letter": "E",
+          "text": "Planum sagittale",
+          "images": [],
+          "text_ar": "المستوى السهمي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما اسم المستوى الذي يمر من يمين الجسم إلى يساره أو من يساره إلى يمينه، ويقسم الجسم إلى قسمين أمامي وخلفي؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hareket sistemi ile ilgili bir yapı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kas",
+          "images": [],
+          "text_ar": "العضلة"
+        },
+        {
+          "letter": "B",
+          "text": "Eklem",
+          "images": [],
+          "text_ar": "المفصل"
+        },
+        {
+          "letter": "C",
+          "text": "Kemik",
+          "images": [],
+          "text_ar": "العظم"
+        },
+        {
+          "letter": "D",
+          "text": "Plevra",
+          "images": [],
+          "text_ar": "الجنبة"
+        },
+        {
+          "letter": "E",
+          "text": "Fasya",
+          "images": [],
+          "text_ar": "اللفافة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس بنية تتعلق بالجهاز الحركي؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Frontal düzlemde eklem kollarının orta hattan uzaklaşması hareketine verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Adduksiyon",
+          "images": [],
+          "text_ar": "التقريب"
+        },
+        {
+          "letter": "B",
+          "text": "Fleksiyon",
+          "images": [],
+          "text_ar": "الثني"
+        },
+        {
+          "letter": "C",
+          "text": "Abduksiyon",
+          "images": [],
+          "text_ar": "الإبعاد"
+        },
+        {
+          "letter": "D",
+          "text": "Rotasyon",
+          "images": [],
+          "text_ar": "الدوران"
+        },
+        {
+          "letter": "E",
+          "text": "Ekstansiyon",
+          "images": [],
+          "text_ar": "البسط"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما اسم حركة ابتعاد أطراف المفصل عن الخط الناصف في المستوى الأمامي؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi solunum sistemine ait bir yapı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Burun",
+          "images": [],
+          "text_ar": "الأنف"
+        },
+        {
+          "letter": "B",
+          "text": "Bronş",
+          "images": [],
+          "text_ar": "القصبة"
+        },
+        {
+          "letter": "C",
+          "text": "Ağız",
+          "images": [],
+          "text_ar": "الفم"
+        },
+        {
+          "letter": "D",
+          "text": "Yutak",
+          "images": [],
+          "text_ar": "البلعوم"
+        },
+        {
+          "letter": "E",
+          "text": "Akciğerler",
+          "images": [],
+          "text_ar": "الرئتان"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس بنية من الجهاز التنفسي؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi alt solunum yollarına ait bir yapıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Burun",
+          "images": [],
+          "text_ar": "الأنف"
+        },
+        {
+          "letter": "B",
+          "text": "Ağız",
+          "images": [],
+          "text_ar": "الفم"
+        },
+        {
+          "letter": "C",
+          "text": "Paranasal sinüsler",
+          "images": [],
+          "text_ar": "الجيوب حول الأنفية"
+        },
+        {
+          "letter": "D",
+          "text": "Nazofarenks",
+          "images": [],
+          "text_ar": "البلعوم الأنفي"
+        },
+        {
+          "letter": "E",
+          "text": "Trachea (soluk borusu)",
+          "images": [],
+          "text_ar": "الرغامى (القصبة الهوائية)"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ينتمي إلى المجاري التنفسية السفلى؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Normal anatomik duruş ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişi ayakta dik durur.",
+          "images": [],
+          "text_ar": "يقف الشخص منتصباً."
+        },
+        {
+          "letter": "B",
+          "text": "Baş dik durur.",
+          "images": [],
+          "text_ar": "الرأس منتصب."
+        },
+        {
+          "letter": "C",
+          "text": "Gözler karşıya bakar.",
+          "images": [],
+          "text_ar": "العينان تنظران إلى الأمام."
+        },
+        {
+          "letter": "D",
+          "text": "Kollar yanlara sarkık durur.",
+          "images": [],
+          "text_ar": "الذراعان متدليتان إلى الجانبين."
+        },
+        {
+          "letter": "E",
+          "text": "Avuç içleri gövdeye bakar.",
+          "images": [],
+          "text_ar": "راحتا اليدين تواجهان الجذع."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي غير صحيح بشأن الوضع التشريحي الطبيعي؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "20dfe876a5105a70d75c325acea3e48e68b885d34eebcae3cd052b9aa889cc1a"
+}

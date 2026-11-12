@@ -1,16 +1,16 @@
 __pycache__/
 *.pyc
 
-# Generated corpus and browser cache (kept on disk, not versioned)
-output/.cache/
-output/.translate/
+# Raw pages, browser profile, logs and regenerable queues (not versioned)
+output/.cache/html/
+output/.translate/queue/
 output/logs/
-output/assets/
-output/*/*.md
-output/manifest.json
+output/.browser/
+
+# Canonical JSON, translations, rendered Markdown, manifest and assets are
+# versioned so the corpus and the scraper state are reproducible.
 node_modules/
 dist/
 playwright-report/
 test-results/
 ingest-report.json
-output/.browser/

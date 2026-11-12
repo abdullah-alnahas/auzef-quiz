@@ -1,0 +1,862 @@
+{
+  "course": "Anatomi",
+  "course_slug": "anatomi",
+  "exam": "2024-2025 Vize Soruları",
+  "exam_slug": "vize-2024-2025",
+  "page_title": "Anatomi 2024-2025 Vize Soruları",
+  "source_url": "https://lolonolo.com/2024/11/05/anatomi-2024-2025-vize-sorulari/",
+  "scraped_at": "2026-11-12T02:21:30+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi alt solunum yollarına ait bir yapıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Trachea (soluk borusu)",
+          "images": [],
+          "text_ar": "الرغامى (القصبة الهوائية)"
+        },
+        {
+          "letter": "B",
+          "text": "Paranasal sinüsler",
+          "images": [],
+          "text_ar": "الجيوب حول الأنفية"
+        },
+        {
+          "letter": "C",
+          "text": "Nazofarenks",
+          "images": [],
+          "text_ar": "البلعوم الأنفي"
+        },
+        {
+          "letter": "D",
+          "text": "Burun",
+          "images": [],
+          "text_ar": "الأنف"
+        },
+        {
+          "letter": "E",
+          "text": "Ağız",
+          "images": [],
+          "text_ar": "الفم"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من الأبنية التالية ينتمي إلى المجاري التنفسية السفلى؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki kaslardan hangisi alt ekstremiteden üst ekstremiteye kadar uzanarak, kola ekstansiyon, adduksiyon ve iç rotasyon yaptırır ve kollar sabitken gövdeyi yukarı kaldırır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "M. rectus abdominis",
+          "images": [],
+          "text_ar": "العضلة المستقيمة البطنية"
+        },
+        {
+          "letter": "B",
+          "text": "M. biceps brachii",
+          "images": [],
+          "text_ar": "العضلة ذات الرأسين العضدية"
+        },
+        {
+          "letter": "C",
+          "text": "M. pectoralis major",
+          "images": [],
+          "text_ar": "العضلة الصدرية الكبرى"
+        },
+        {
+          "letter": "D",
+          "text": "M. erector spinae",
+          "images": [],
+          "text_ar": "العضلة الناصبة للفقار"
+        },
+        {
+          "letter": "E",
+          "text": "M. latissimus dorsi",
+          "images": [],
+          "text_ar": "العضلة الظهرية العريضة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من العضلات التالية يمتد من الطرف السفلي إلى الطرف العلوي، فيُحدث بسط الذراع وتقريبها ودورانها الداخلي، ويرفع الجذع عندما تكون الذراعان ثابتتين؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki anatomik yapılardan hangisi kalın bağırsak bölümlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnen kolon",
+          "images": [],
+          "text_ar": "القولون النازل"
+        },
+        {
+          "letter": "B",
+          "text": "Yatay kolon",
+          "images": [],
+          "text_ar": "القولون المستعرض"
+        },
+        {
+          "letter": "C",
+          "text": "Duodenum",
+          "images": [],
+          "text_ar": "الاثنا عشر"
+        },
+        {
+          "letter": "D",
+          "text": "Caecum",
+          "images": [],
+          "text_ar": "الأعور"
+        },
+        {
+          "letter": "E",
+          "text": "Çıkan kolon",
+          "images": [],
+          "text_ar": "القولون الصاعد"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من الأبنية التشريحية التالية ليس من أقسام الأمعاء الغليظة؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Mide mukozasında akut veya kronik inflamasyona bağlı mukozal hasarla giden patolojilere ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Reflü",
+          "images": [],
+          "text_ar": "الارتجاع"
+        },
+        {
+          "letter": "B",
+          "text": "Gastrit",
+          "images": [],
+          "text_ar": "التهاب المعدة"
+        },
+        {
+          "letter": "C",
+          "text": "Polip",
+          "images": [],
+          "text_ar": "السلائل"
+        },
+        {
+          "letter": "D",
+          "text": "Fıtık",
+          "images": [],
+          "text_ar": "الفتق"
+        },
+        {
+          "letter": "E",
+          "text": "Ülser",
+          "images": [],
+          "text_ar": "القرحة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما اسم الحالات المرضية المصحوبة بتلف في مخاطية المعدة بسبب التهاب حاد أو مزمن؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Kol kemiğinin (humerus) eklem yaptığı tüm kemik ya da kemikler aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Scapula, radius ve ulna",
+          "images": [],
+          "text_ar": "لوح الكتف والكعبرة والزند"
+        },
+        {
+          "letter": "B",
+          "text": "Radius ve ulna",
+          "images": [],
+          "text_ar": "الكعبرة والزند"
+        },
+        {
+          "letter": "C",
+          "text": "Ul",
+          "images": [],
+          "text_ar": "الزند"
+        },
+        {
+          "letter": "D",
+          "text": "Scapula",
+          "images": [],
+          "text_ar": "لوح الكتف"
+        },
+        {
+          "letter": "E",
+          "text": "Radius",
+          "images": [],
+          "text_ar": "الكعبرة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي عظم أو عظام يتصل بها عظم العضد (humerus) في المفصل؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Akciğerleri örten zara ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Periton",
+          "images": [],
+          "text_ar": "الصفاق"
+        },
+        {
+          "letter": "B",
+          "text": "Perikard",
+          "images": [],
+          "text_ar": "التامور"
+        },
+        {
+          "letter": "C",
+          "text": "Plevra",
+          "images": [],
+          "text_ar": "الجنبة"
+        },
+        {
+          "letter": "D",
+          "text": "Pia mater",
+          "images": [],
+          "text_ar": "الأم الحنون"
+        },
+        {
+          "letter": "E",
+          "text": "Periosteum",
+          "images": [],
+          "text_ar": "السمحاق"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما اسم الغشاء الذي يغطي الرئتين؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "En büyük paranasal sinüs aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sinus ethmoidalis",
+          "images": [],
+          "text_ar": "الجيب الغربالي"
+        },
+        {
+          "letter": "B",
+          "text": "Sinus frontalis",
+          "images": [],
+          "text_ar": "الجيب الجبهي"
+        },
+        {
+          "letter": "C",
+          "text": "Sinus maxillaris",
+          "images": [],
+          "text_ar": "الجيب الفكي العلوي"
+        },
+        {
+          "letter": "D",
+          "text": "Sinus sphenoidalis",
+          "images": [],
+          "text_ar": "الجيب الوتدي"
+        },
+        {
+          "letter": "E",
+          "text": "Sinus cavernosus",
+          "images": [],
+          "text_ar": "الجيب الكهفي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي أكبر جيب حول أنفي؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki karın içi organlardan hangisi diaphragmanın hemen altında sağ tarafta yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karaciğer",
+          "images": [],
+          "text_ar": "الكبد"
+        },
+        {
+          "letter": "B",
+          "text": "Yemek borusu",
+          "images": [],
+          "text_ar": "المريء"
+        },
+        {
+          "letter": "C",
+          "text": "İnen barsak (kolon)",
+          "images": [],
+          "text_ar": "القولون النازل"
+        },
+        {
+          "letter": "D",
+          "text": "Mide",
+          "images": [],
+          "text_ar": "المعدة"
+        },
+        {
+          "letter": "E",
+          "text": "Yatay barsak (kolon)",
+          "images": [],
+          "text_ar": "القولون المستعرض"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من أعضاء البطن التالية يقع على الجانب الأيمن مباشرة تحت الحجاب الحاجز؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Kasın istirahat halindeki gerginliğine ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İzometrik kasılma",
+          "images": [],
+          "text_ar": "التقلص المتساوي القياس"
+        },
+        {
+          "letter": "B",
+          "text": "Konsantrik kasılma",
+          "images": [],
+          "text_ar": "التقلص المقرب"
+        },
+        {
+          "letter": "C",
+          "text": "İzokinetik kasılma",
+          "images": [],
+          "text_ar": "التقلص متساوي الحركة"
+        },
+        {
+          "letter": "D",
+          "text": "Tonus",
+          "images": [],
+          "text_ar": "التوتر العضلي"
+        },
+        {
+          "letter": "E",
+          "text": "Eksantrik kasılma",
+          "images": [],
+          "text_ar": "التقلص المبعد"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما اسم توتر العضلة في حالة الراحة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Erkeklerde ‘’adem elması’’ olarak da bilinen, daha dar açı ile bir araya gelen kama şeklindeki kıkırdaklardan oluşan larynx kıkırdağı hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Boynuzcuk şekilli kıkırdak (cartilago corniculata)",
+          "images": [],
+          "text_ar": "الغضروف القرني"
+        },
+        {
+          "letter": "B",
+          "text": "Yüzük şekilli kıkırdak (cartilago cricoidea)",
+          "images": [],
+          "text_ar": "الغضروف الحلقي"
+        },
+        {
+          "letter": "C",
+          "text": "Gırtlak kapağı kıkırdağı (cartilago epiglottica/ epiglottis)",
+          "images": [],
+          "text_ar": "غضروف لسان المزمار"
+        },
+        {
+          "letter": "D",
+          "text": "İbrik şekilli kıkırdak (cartilago arytenoidea)",
+          "images": [],
+          "text_ar": "الغضروف الطرجهالي"
+        },
+        {
+          "letter": "E",
+          "text": "Kalkan şekilli kıkırdak (cartilago thyroidea)",
+          "images": [],
+          "text_ar": "الغضروف الدرقي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي غضروف من غضاريف الحنجرة يُعرف أيضاً عند الرجال بـ\"تفاحة آدم\"، ويتكون من غضاريف إسفينية تتلاقى بزاوية أضيق؟",
+      "review": [
+        "q10.stem: الوصف في المصدر غير دقيق تشريحياً (الغضاريف الإسفينية)؛ تُرجم كما ورد دون تصحيح."
+      ]
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Yere paralel olarak geçen ve vücudu üst ve alt olmak üzere 2 parçaya ayıran düzleme ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Planum horizontale",
+          "images": [],
+          "text_ar": "المستوى الأفقي"
+        },
+        {
+          "letter": "B",
+          "text": "Planum sagittale",
+          "images": [],
+          "text_ar": "المستوى السهمي"
+        },
+        {
+          "letter": "C",
+          "text": "Planum medianum",
+          "images": [],
+          "text_ar": "المستوى الناصف"
+        },
+        {
+          "letter": "D",
+          "text": "Planum mediale",
+          "images": [],
+          "text_ar": "المستوى الإنسي"
+        },
+        {
+          "letter": "E",
+          "text": "Planum coronale",
+          "images": [],
+          "text_ar": "المستوى الإكليلي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما اسم المستوى الذي يمر موازياً للأرض ويقسم الجسم إلى قسمين علوي وسفلي؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Omuz eklemi içinden geçen, kola ve ön kola fleksiyon yaptıran kas aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "M. coracobrachialis",
+          "images": [],
+          "text_ar": "العضلة الغرابية العضدية"
+        },
+        {
+          "letter": "B",
+          "text": "M. biceps brachii",
+          "images": [],
+          "text_ar": "العضلة ذات الرأسين العضدية"
+        },
+        {
+          "letter": "C",
+          "text": "M. supraspinatus",
+          "images": [],
+          "text_ar": "العضلة فوق الشوكية"
+        },
+        {
+          "letter": "D",
+          "text": "M. brachialis",
+          "images": [],
+          "text_ar": "العضلة العضدية"
+        },
+        {
+          "letter": "E",
+          "text": "M. triceps brachii",
+          "images": [],
+          "text_ar": "العضلة ثلاثية الرؤوس العضدية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي العضلات التالية تمر عبر مفصل الكتف وتُحدث ثني الذراع والساعد؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki kaslardan hangisi ön kola supinasyon yaptırmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "M. supraspinatus",
+          "images": [],
+          "text_ar": "العضلة فوق الشوكية"
+        },
+        {
+          "letter": "B",
+          "text": "M. brachialis",
+          "images": [],
+          "text_ar": "العضلة العضدية"
+        },
+        {
+          "letter": "C",
+          "text": "M. biceps brachii",
+          "images": [],
+          "text_ar": "العضلة ذات الرأسين العضدية"
+        },
+        {
+          "letter": "D",
+          "text": "M. coracobrachialis",
+          "images": [],
+          "text_ar": "العضلة الغرابية العضدية"
+        },
+        {
+          "letter": "E",
+          "text": "M. triceps brachii",
+          "images": [],
+          "text_ar": "العضلة ثلاثية الرؤوس العضدية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي العضلات التالية تُحدث استلقاء الساعد؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Ülkemizde anatominin kurucusu olarak da bilinen bilim insanı kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sami Zan",
+          "images": [],
+          "text_ar": "سامي زان"
+        },
+        {
+          "letter": "B",
+          "text": "Şerafeddin Sabuncuoğlu",
+          "images": [],
+          "text_ar": "شرف الدين صابونجي أوغلو"
+        },
+        {
+          "letter": "C",
+          "text": "Zeki Zeren",
+          "images": [],
+          "text_ar": "زكي زيرين"
+        },
+        {
+          "letter": "D",
+          "text": "Mazhar Paşa",
+          "images": [],
+          "text_ar": "مظهر باشا"
+        },
+        {
+          "letter": "E",
+          "text": "Hulusi Behçet",
+          "images": [],
+          "text_ar": "خلوصي بهجت"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "من هو العالم المعروف أيضاً بأنه مؤسس علم التشريح في بلدنا؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Sagittal düzlemde eklem kolları arasındaki açının artması veya eklem kollarının birbirinden uzaklaşması hareketine ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Abduksiyon",
+          "images": [],
+          "text_ar": "الإبعاد"
+        },
+        {
+          "letter": "B",
+          "text": "Ekstansiyon",
+          "images": [],
+          "text_ar": "البسط"
+        },
+        {
+          "letter": "C",
+          "text": "Fleksiyon",
+          "images": [],
+          "text_ar": "الثني"
+        },
+        {
+          "letter": "D",
+          "text": "Adduksiyon",
+          "images": [],
+          "text_ar": "التقريب"
+        },
+        {
+          "letter": "E",
+          "text": "Rotasyon",
+          "images": [],
+          "text_ar": "الدوران"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما اسم حركة زيادة الزاوية بين طرفي المفصل أو ابتعاد طرفي المفصل عن بعضهما في المستوى السهمي؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi vücutta ön kol yapısına katılan kemikleri ifade eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Humerus",
+          "images": [],
+          "text_ar": "العضد"
+        },
+        {
+          "letter": "B",
+          "text": "Os coxae",
+          "images": [],
+          "text_ar": "عظم الورك"
+        },
+        {
+          "letter": "C",
+          "text": "Sternum",
+          "images": [],
+          "text_ar": "القص"
+        },
+        {
+          "letter": "D",
+          "text": "Radius-ulna",
+          "images": [],
+          "text_ar": "الكعبرة والزند"
+        },
+        {
+          "letter": "E",
+          "text": "Scapula-clavicula",
+          "images": [],
+          "text_ar": "لوح الكتف والترقوة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي يعبر عن العظام التي تدخل في تركيب الساعد في الجسم؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Solunum sisteminin işlevsel (solunum fonksiyonunu gerçekleştiren) en küçük birimi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Burun",
+          "images": [],
+          "text_ar": "الأنف"
+        },
+        {
+          "letter": "B",
+          "text": "Trachea (soluk borusu)",
+          "images": [],
+          "text_ar": "الرغامى (القصبة الهوائية)"
+        },
+        {
+          "letter": "C",
+          "text": "Ağız",
+          "images": [],
+          "text_ar": "الفم"
+        },
+        {
+          "letter": "D",
+          "text": "Akciğerler",
+          "images": [],
+          "text_ar": "الرئتان"
+        },
+        {
+          "letter": "E",
+          "text": "Alveol yapısı",
+          "images": [],
+          "text_ar": "تركيب الحويصلات"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي هو أصغر وحدة وظيفية في الجهاز التنفسي (التي تؤدي وظيفة التنفس)؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki sindirim sistemi organlarından hangisi diaphragma (diyafram) altında yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dişler",
+          "images": [],
+          "text_ar": "الأسنان"
+        },
+        {
+          "letter": "B",
+          "text": "Mide",
+          "images": [],
+          "text_ar": "المعدة"
+        },
+        {
+          "letter": "C",
+          "text": "Yutak",
+          "images": [],
+          "text_ar": "البلعوم"
+        },
+        {
+          "letter": "D",
+          "text": "Ağız",
+          "images": [],
+          "text_ar": "الفم"
+        },
+        {
+          "letter": "E",
+          "text": "Tükrük bezleri",
+          "images": [],
+          "text_ar": "الغدد اللعابية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من أعضاء الجهاز الهضمي التالية يقع تحت الحجاب الحاجز؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "İnsülin ve glukagon gibi kan şekerini regüle eden hormonları sentezleyen ve salgılayan adacıklar hangi organda bulunmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beyin",
+          "images": [],
+          "text_ar": "الدماغ"
+        },
+        {
+          "letter": "B",
+          "text": "Karaciğer",
+          "images": [],
+          "text_ar": "الكبد"
+        },
+        {
+          "letter": "C",
+          "text": "Böbr",
+          "images": [],
+          "text_ar": "الكلية"
+        },
+        {
+          "letter": "D",
+          "text": "Mide",
+          "images": [],
+          "text_ar": "المعدة"
+        },
+        {
+          "letter": "E",
+          "text": "Pankreas",
+          "images": [],
+          "text_ar": "البنكرياس"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في أي عضو توجد الجزر التي تصنع وتفرز هرمونات تنظم سكر الدم مثل الأنسولين والغلوكاغون؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Anterior ne demektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Orta hatta bulunan",
+          "images": [],
+          "text_ar": "الموجود في الخط الناصف"
+        },
+        {
+          "letter": "B",
+          "text": "Yukarıda bulunan",
+          "images": [],
+          "text_ar": "الموجود في الأعلى"
+        },
+        {
+          "letter": "C",
+          "text": "Arka-arkada bulunan",
+          "images": [],
+          "text_ar": "الموجود في الخلف"
+        },
+        {
+          "letter": "D",
+          "text": "Ön-önde bulunan",
+          "images": [],
+          "text_ar": "الموجود في الأمام"
+        },
+        {
+          "letter": "E",
+          "text": "Aşağıda bulunan",
+          "images": [],
+          "text_ar": "الموجود في الأسفل"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ماذا يعني مصطلح Anterior في التشريح؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "00dc65460f0063318b3fc759461cfd680c76551f3cf89a516f1996ee4282e902"
+}

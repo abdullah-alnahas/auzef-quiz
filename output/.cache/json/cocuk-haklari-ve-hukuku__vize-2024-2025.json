@@ -1,0 +1,859 @@
+{
+  "course": "ÇOCUK HAKLARI VE HUKUKU",
+  "course_slug": "cocuk-haklari-ve-hukuku",
+  "exam": "2024-2025 Vize Soruları",
+  "exam_slug": "vize-2024-2025",
+  "page_title": "Çocuk Hakları ve Hukuku 2024-2025 Vize Soruları",
+  "source_url": "https://lolonolo.com/2024/11/08/cocuk-haklari-ve-hukuku-2024-2025-vize-sorulari/",
+  "scraped_at": "2026-11-12T02:21:12+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Babalık davası ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Babalık davası olumlu sonuçlanırsa, çocuk ile baba arasında mahkeme kararından itibaren ileriye etkili olarak soy bağı kurulur.",
+          "images": [],
+          "text_ar": "إذا انتهت دعوى الأبوة لصالح المدعي، ينشأ النسب بين الطفل والأب بأثر فوري من تاريخ قرار المحكمة."
+        },
+        {
+          "letter": "B",
+          "text": "Babalık davası çocuğun doğumundan önce açılabileceği gibi çocuk doğduktan sonra da açılabilir.",
+          "images": [],
+          "text_ar": "يمكن رفع دعوى الأبوة قبل ولادة الطفل كما يمكن رفعها بعد ولادته."
+        },
+        {
+          "letter": "C",
+          "text": "Dava, anne ve çocuk tarafından birlikte açılmışsa cumhuriyet savcısına ve hazineye bildirilir.",
+          "images": [],
+          "text_ar": "إذا رُفعت الدعوى من الأم والطفل معًا، يُبلَّغ مدع عام الجمهورية والخزينة بذلك."
+        },
+        {
+          "letter": "D",
+          "text": "Kayyım tarafından çocuk adına açılacak davada ise sadece babalığa karar verilmesi istenebilir, ana için tazminat talebi söz konusu olamaz.",
+          "images": [],
+          "text_ar": "أما في الدعوى التي يرفعها القيّم باسم الطفل فلا يمكن طلب سوى الحكم بالأبوة، ولا مجال للمطالبة بتعويض للأم."
+        },
+        {
+          "letter": "E",
+          "text": "Baba olduğu iddia edilen kişi ölmüşse dava devlete karşı, hazine davalı gösterilerek açılır.",
+          "images": [],
+          "text_ar": "إذا توفي الشخص المدَّعى أنه الأب، تُرفع الدعوى ضد الدولة بجعل الخزينة مدعى عليها."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي غير صحيح بشأن دعوى الأبوة؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi BM Çocuk Hakları Sözleşmesi’ne göre çocuk hukuku kapsamı içerisinde yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk istismarı ve bu suçlarla mücadele yollarını belirlemek",
+          "images": [],
+          "text_ar": "تحديد طرق مكافحة إساءة الأطفال وهذه الجرائم"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların işlediği suçlardan dolayı cezai sorumluluklarının nasıl olduğunu bilmek",
+          "images": [],
+          "text_ar": "معرفة كيفية قيام المسؤولية الجنائية للأطفال عن الجرائم التي يرتكبونها"
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların ceza hukukunda suçun mağduru ya da suçtan etkilenen olmaları açısından ise çocuklara karşı işlenen suçlar ile ilgilenmek",
+          "images": [],
+          "text_ar": "الاهتمام في قانون العقوبات بالجرائم المرتكبة ضد الأطفال من حيث كون الطفل ضحية للجريمة أو متأثرًا بها"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların hangi yaştan itibaren yargılanabileceklerini belirlemek",
+          "images": [],
+          "text_ar": "تحديد السن التي يجوز من عندها محاكمة الأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "On yedi yaşını tamamlamış ve kanuni temsilcisinin onayı ile evlenmiş bir kişi olmak",
+          "images": [],
+          "text_ar": "أن يكون الشخص قد أتم السابعة عشرة من عمره وتزوج بموافقة ممثله القانوني"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج في نطاق قانون الطفل وفقًا لاتفاقية حقوق الطفل التابعة للأمم المتحدة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kişilerin fiil ehliyetine göre sınıflandırılmasında kullanılan kavramlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınırlı ehliyetsiz",
+          "images": [],
+          "text_ar": "ناقص الأهلية"
+        },
+        {
+          "letter": "B",
+          "text": "Sınırlı ehliyetli",
+          "images": [],
+          "text_ar": "محدود الأهلية"
+        },
+        {
+          "letter": "C",
+          "text": "Sınırsız ehliyetli",
+          "images": [],
+          "text_ar": "ذو أهلية غير محدودة"
+        },
+        {
+          "letter": "D",
+          "text": "Tam ehliyetsiz",
+          "images": [],
+          "text_ar": "عديم الأهلية"
+        },
+        {
+          "letter": "E",
+          "text": "Tam ehliyetli",
+          "images": [],
+          "text_ar": "كامل الأهلية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من المفاهيم المستخدمة في تصنيف الأشخاص وفق أهلية الأداء؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "I. Türk hukuku Kara Avrupası hukuk sisteminin bir parçasıdır.\nII. Kara Avrupası hukuk sistemi Roma hukukunun devamı niteliğindedir.\nIII. Roma hukukunda, günümüz Kara Avrupası’ndaki Anayasa hukukuna karşılık gelen herhangi bir düzenleme ve kural bulunmamaktadır.\nTürk, Roma ve Kara Avrupası hukuklarının birbirleri ile ilgisi hakkında yukarıda verilen bilgilerden hangisi ya da hangileri yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "D",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "E",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. القانون التركي جزء من نظام القانون الأوروبي القاري.\nII. نظام القانون الأوروبي القاري امتداد للقانون الروماني.\nIII. لا يوجد في القانون الروماني أي تنظيم أو قاعدة تقابل قانون الدستور في أوروبا القارية اليوم.\nأي مما سبق من المعلومات عن علاقة القانون التركي بالقانون الروماني وقانون أوروبا القارية غير صحيح؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk ile anne arasındaki soy bağını kuran durumlar, aşağıdakilerden hangisinde birlikte verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Annelik davası ve doğum",
+          "images": [],
+          "text_ar": "دعوى الأمومة والولادة"
+        },
+        {
+          "letter": "B",
+          "text": "Tanıma ve doğum",
+          "images": [],
+          "text_ar": "الإقرار والولادة"
+        },
+        {
+          "letter": "C",
+          "text": "Evlat edinme ve annelik davası",
+          "images": [],
+          "text_ar": "التبني ودعوى الأمومة"
+        },
+        {
+          "letter": "D",
+          "text": "Doğum ve evlat edinme",
+          "images": [],
+          "text_ar": "الولادة والتبني"
+        },
+        {
+          "letter": "E",
+          "text": "Doğum ve tanıma",
+          "images": [],
+          "text_ar": "الولادة والإقرار"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي يذكر معًا الحالات التي تنشئ النسب بين الطفل والأم؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinde çocuk, evlilik içerisinde ana rahmine düşmüş sayılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evlilikten itibaren 180 gün sonra doğmuşsa",
+          "images": [],
+          "text_ar": "إذا وُلد بعد 180 يومًا من الزواج"
+        },
+        {
+          "letter": "B",
+          "text": "Evlilikten itibaren 150 gün sonra doğmuşsa",
+          "images": [],
+          "text_ar": "إذا وُلد بعد 150 يومًا من الزواج"
+        },
+        {
+          "letter": "C",
+          "text": "Evlilikten itibaren 120 gün sonra doğmuşsa",
+          "images": [],
+          "text_ar": "إذا وُلد بعد 120 يومًا من الزواج"
+        },
+        {
+          "letter": "D",
+          "text": "Evlilikten itibaren 100 gün sonra doğmuşsa",
+          "images": [],
+          "text_ar": "إذا وُلد بعد 100 يوم من الزواج"
+        },
+        {
+          "letter": "E",
+          "text": "Evliliğin sona ermesinden itibaren 310 gün sonra doğmuşsa",
+          "images": [],
+          "text_ar": "إذا وُلد بعد 310 يومًا من انتهاء الزواج"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في أي مما يلي يُعدّ الطفل قد حُمل به داخل الزواج؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi geçici evlenme engelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eşin anne ve babası ile olan kayın (dünür) hısımlığı",
+          "images": [],
+          "text_ar": "القرابة بالمصاهرة مع والدي الزوج (الأصهار)"
+        },
+        {
+          "letter": "B",
+          "text": "Evlatlık ilişkisi",
+          "images": [],
+          "text_ar": "علاقة التبني"
+        },
+        {
+          "letter": "C",
+          "text": "Üçüncü dereceye kadar olan kan hısımlığı ilişkisi",
+          "images": [],
+          "text_ar": "علاقة القرابة بالدم حتى الدرجة الثالثة"
+        },
+        {
+          "letter": "D",
+          "text": "Bulaşıcı hastalık",
+          "images": [],
+          "text_ar": "المرض المعدي"
+        },
+        {
+          "letter": "E",
+          "text": "Mevcut evlilik",
+          "images": [],
+          "text_ar": "الزواج القائم"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي يعد من موانع الزواج المؤقتة؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi nispi boşanma sebepleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zina",
+          "images": [],
+          "text_ar": "الزنا"
+        },
+        {
+          "letter": "B",
+          "text": "Evlilik birliğinin sarsılması",
+          "images": [],
+          "text_ar": "اهتزاز رابطة الزواج"
+        },
+        {
+          "letter": "C",
+          "text": "Haysiyetsiz hayat sürme",
+          "images": [],
+          "text_ar": "انتهاج حياة لا كرامة فيها"
+        },
+        {
+          "letter": "D",
+          "text": "Akıl hastalığı",
+          "images": [],
+          "text_ar": "المرض العقلي"
+        },
+        {
+          "letter": "E",
+          "text": "Suç işleme",
+          "images": [],
+          "text_ar": "ارتكاب جريمة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا يندرج في أسباب الطلاق النسبية؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Hayata kast, pek kötü ve onur kırıcı davranış sebebi ile boşanma için aşağıdaki söylenenlerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hayatına kasteden ya da onur kırıcı davranışta bulunan eşini affeden tarafın dava hakkı düşer.",
+          "images": [],
+          "text_ar": "يسقط حق رفع الدعوى عن الطرف الذي يعفو عن زوجه الذي حاول قتله أو ارتكب سلوكًا مخلًا بالشرف."
+        },
+        {
+          "letter": "B",
+          "text": "Hayata kast, pek kötü ve onur kırıcı davranış sebebi ile boşanma davası açmak için kusursuz olsa bile eşin bu eylemleri yapması yeterlidir.",
+          "images": [],
+          "text_ar": "يكفي لرفع دعوى الطلاق لهذا السبب أن تصدر من الزوج هذه الأفعال، حتى لو كان الطرف الآخر غير مخطئ."
+        },
+        {
+          "letter": "C",
+          "text": "Hayata kast, pek kötü ve onur kırıcı davranış sebebi ile boşanma özel bir boşanma sebebidir.",
+          "images": [],
+          "text_ar": "الطلاق بسبب محاولة القتل أو السلوك البالغ السوء والمخل بالشرف من أسباب الطلاق الخاصة."
+        },
+        {
+          "letter": "D",
+          "text": "Hayata kast, pek kötü ve onur kırıcı davranış sebebi ile boşanma davası açma hakkı, boşanma sebebini öğrendikten itibaren altı ay içerisinde dava açılmazsa düşer.",
+          "images": [],
+          "text_ar": "يسقط حق رفع دعوى الطلاق لهذا السبب إذا لم تُرفع الدعوى خلال ستة أشهر من العلم بسبب الطلاق."
+        },
+        {
+          "letter": "E",
+          "text": "Hayata kast, pek kötü ve onur kırıcı davranış sebebi ile boşanma mutlak bir boşanma sebebidir.",
+          "images": [],
+          "text_ar": "الطلاق بسبب محاولة القتل أو السلوك البالغ السوء والمخل بالشرف من أسباب الطلاق المطلقة."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح بشأن الطلاق بسبب محاولة القتل أو السلوك البالغ السوء والمخل بالشرف؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Tam fiil ehliyetli bireylerle ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ayırt etme gücüne sahip olan bir çocuk sınırlı ehliyetsiz olsa da haksız fiillerinden sorumludur.",
+          "images": [],
+          "text_ar": "الطفل الذي يمتلك قدرة التمييز مسؤول عن أفعاله الضارة وإن كان ناقص الأهلية."
+        },
+        {
+          "letter": "B",
+          "text": "Ayırt etme gücüne sahip olup ergin olan ve kısıtlanmamış kimselerdir.",
+          "images": [],
+          "text_ar": "هم الأشخاص الذين يمتلكون قدرة التمييز، وقد بلغوا سن الرشد، ولم يُحجر عليهم."
+        },
+        {
+          "letter": "C",
+          "text": "Tam ehliyetliler hak edinebilir, borç altına girebilir ve hukuka aykırı eylemlerinden sorumlu tutulabilirler.",
+          "images": [],
+          "text_ar": "يستطيع كاملو الأهلية اكتساب الحقوق والالتزام بالديون ومساءلتهم عن أفعالهم المخالفة للقانون."
+        },
+        {
+          "letter": "D",
+          "text": "Tam ehliyetli kişiler, ehliyet açısından tüm hukuki işlemleri yapabilirler.",
+          "images": [],
+          "text_ar": "يستطيع كاملو الأهلية من حيث الأهلية إجراء جميع التصرفات القانونية."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklar, zeki iseler ve hukuken kısıtlanmamışlarsa kural olarak tam ehliyetlidirler.",
+          "images": [],
+          "text_ar": "الأطفال، إذا كانوا أذكياء وغير محجور عليهم قانونًا، فهم كاملو الأهلية من حيث الأصل."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من المعلومات الآتية عن الأشخاص كاملي الأهلية غير صحيح؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "I. Akıl zayıflığı, akli melekelerin yeterince gelişmemesi ya da sonradan gerilemesi durumunu ifade eder.\nII. Akıl zayıflığı, bir akıl hastalığı olmayıp çocuklarda gelişme geriliği ya da çok ileri yaşlılık sebebi ile akli melekelerin gerilemesi durumudur.\nIII. Akıl zayıflığı, tek başına ayırt etme gücünü ortadan kaldırır.\nAkıl zayıflığı ile ilgili olarak yukarıda verilen bilgilerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. يُعبّر ضعف العقل عن حالة عدم اكتمال نمو القدرات العقلية أو تراجعها بعد ذلك.\nII. ضعف العقل ليس مرضًا عقليًا، بل هو حالة تراجع القدرات العقلية عند الأطفال بسبب تأخر النمو أو بسبب التقدم الكبير في العمر.\nIII. ضعف العقل يُزيل بمفرده قدرة التمييز.\nأي مما سبق من المعلومات عن ضعف العقل صحيح؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Taraflar arasında nişan bağı ne zaman kurulmuş olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nişan töreni sona erince",
+          "images": [],
+          "text_ar": "عند انتهاء حفل الخطبة"
+        },
+        {
+          "letter": "B",
+          "text": "Nişan yüzükleri takılınca",
+          "images": [],
+          "text_ar": "عند وضع خاتمي الخطبة"
+        },
+        {
+          "letter": "C",
+          "text": "Nişanlanma ilan edilince",
+          "images": [],
+          "text_ar": "عند إعلان الخطبة"
+        },
+        {
+          "letter": "D",
+          "text": "Nişan defteri imzalanınca",
+          "images": [],
+          "text_ar": "عند توقيع سجل الخطبة"
+        },
+        {
+          "letter": "E",
+          "text": "Taraflar birbirine evlenme vaadedince",
+          "images": [],
+          "text_ar": "عندما يَعِد الطرفان أحدهما الآخر بالزواج"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "متى تنشأ رابطة الخطبة بين الطرفين؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Dede ile torun arasındaki hısımlık ilişkisi hangisinde doğru olarak verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Birinci dereceden alt soy üstsoy kayın hısımlığı",
+          "images": [],
+          "text_ar": "قرابة مصاهرة من الفروع والأصول من الدرجة الأولى"
+        },
+        {
+          "letter": "B",
+          "text": "Birinci dereceden alt soy üst soy kan hısımlığı",
+          "images": [],
+          "text_ar": "قرابة دم من الفروع والأصول من الدرجة الأولى"
+        },
+        {
+          "letter": "C",
+          "text": "Birinci dereceden yan soy kan hısımlığı",
+          "images": [],
+          "text_ar": "قرابة دم من الفرع الجانبي من الدرجة الأولى"
+        },
+        {
+          "letter": "D",
+          "text": "İkinci dereceden alt soy üstsoy kan hısımlığı",
+          "images": [],
+          "text_ar": "قرابة دم من الفروع والأصول من الدرجة الثانية"
+        },
+        {
+          "letter": "E",
+          "text": "İkinci dereceden yan soy kan hısımlığı",
+          "images": [],
+          "text_ar": "قرابة دم من الفرع الجانبي من الدرجة الثانية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الخيارات الآتية يبيّن على نحو صحيح علاقة القرابة بين الجد والحفيد؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "I. Anayasa hukukunda çocukların korunmasına ilişkin temel prensipler yer almaktadır.\nII. Anayasada korunmaya muhtaç çocukların topluma kazandırılması için gereken tedbirlerin devlet eli ile alınacağı ifade edilmiştir.\nIII. Çocuk hukukunun kamu hukuku alanındaki yansıması medeni hukuk alanında görülür.\nÇocuk hukukunun kamu hukuku ve anayasa hukuku içerisindeki yeri hakkında yukarıda verilen bilgilerden hangisi ya da hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "E",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. يتضمن قانون الدستور مبادئ أساسية تتعلق بحماية الأطفال.\nII. نُصّ في الدستور على أن التدابير اللازمة لإدماج الأطفال المحتاجين إلى الحماية في المجتمع تتخذها الدولة.\nIII. يتجلى انعكاس قانون الطفل في مجال القانون العام في مجال القانون المدني.\nأي مما سبق من المعلومات عن مكان قانون الطفل في القانون العام وقانون الدستور صحيح؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "I. 1917 Bolşevik Devrimi ile işçi hareketleri siyasi bir kimlik kazandı.\nII. Sanayi devrimi teknolojik gelişmeler ile ilgili olduğundan hukuka etki etmemiştir.\nIII. Teknolojideki gelişmeler ile birlikte sorumluluk hukukunda gelişmeler yaşanmıştır.\nIV. Yeni sermaye anlayışı ile yeni şirket türleri, kağıt ve kaydi para ile birlikte kıymetli evrak türleri ortaya çıkmıştır.\nRoma site devleti hukuku ile başlayan yaklaşık 2750 yıl süren serüven ile ilgili yukarıdakilerden hangisi ya da hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I,II,III ve IV",
+          "images": [],
+          "text_ar": "I وII وIII وIV"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "C",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "D",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I وIV"
+        },
+        {
+          "letter": "E",
+          "text": "I, III ve IV",
+          "images": [],
+          "text_ar": "I وIII وIV"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. اكتسبت حركات العمال هوية سياسية مع ثورة البلاشفة عام 1917.\nII. لم تؤثر الثورة الصناعية في القانون لأنها تتعلق بالتطورات التكنولوجية.\nIII. شهد قانون المسؤولية تطورات إلى جانب التطورات في التكنولوجيا.\nIV. ظهرت أنواع جديدة من الشركات مع الفهم الجديد لرأس المال، وظهرت أنواع من الأوراق المالية مع النقود الورقية والنقود الدفترية.\nأي مما سبق صحيح بشأن المسيرة التي بدأت بقانون دولة المدينة الرومانية واستمرت نحو 2750 عامًا؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinin sonucunda ortaya çıkan hukuki durum, diğerlerinden farklıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evlat edinme",
+          "images": [],
+          "text_ar": "التبني"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun annesi ile biyolojik babasının evlenmesi",
+          "images": [],
+          "text_ar": "زواج أم الطفل بأبيه البيولوجي"
+        },
+        {
+          "letter": "C",
+          "text": "Soy bağının reddi",
+          "images": [],
+          "text_ar": "نفي النسب"
+        },
+        {
+          "letter": "D",
+          "text": "Babalık davası",
+          "images": [],
+          "text_ar": "دعوى الأبوة"
+        },
+        {
+          "letter": "E",
+          "text": "Tanıma",
+          "images": [],
+          "text_ar": "الإقرار"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي يختلف الوضع القانوني الناشئ عنه عن الباقي؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Hukuk kurallarıyla ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hukuk kuralları, uyulması maddi yaptırıma bağlanmış kurallardır.",
+          "images": [],
+          "text_ar": "القواعد القانونية قواعد رُبط الالتزام بها بجزاء مادي."
+        },
+        {
+          "letter": "B",
+          "text": "Hukuk kurallarının tamamı yaptırıma sahip kurallardır.",
+          "images": [],
+          "text_ar": "جميع القواعد القانونية قواعد ذات جزاء."
+        },
+        {
+          "letter": "C",
+          "text": "Hukuk kurallarını diğer sosyal düzen kurallarından ayıran en belirgin fark kamu gücü ile desteklenen maddi bir yaptırıma sahip olmasıdır.",
+          "images": [],
+          "text_ar": "أبرز فرق يميّز القواعد القانونية عن غيرها من قواعد النظام الاجتماعي هو أنها ذات جزاء مادي تدعمه السلطة العامة."
+        },
+        {
+          "letter": "D",
+          "text": "Hukuk kurallarının değiştirilmesi diğer sosyal düzen kurallarına nazaran daha kolaydır.",
+          "images": [],
+          "text_ar": "تعديل القواعد القانونية أسهل مقارنة بقواعد النظام الاجتماعي الأخرى."
+        },
+        {
+          "letter": "E",
+          "text": "Hukuk kuralını koyan organın devreye girmesiyle koyulan kural değiştirilebilir.",
+          "images": [],
+          "text_ar": "يمكن تعديل القاعدة الموضوعة بتدخّل الجهة التي وضعتها."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من المعلومات الآتية عن القواعد القانونية غير صحيح؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Ergin olmayan vesayet altındaki bir çocuk aşağıdaki işlemlerden hangisini tek başına yapabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Arkadaşına kalem kutusunu hediye etme",
+          "images": [],
+          "text_ar": "إهداء مقلمة إلى صديقه"
+        },
+        {
+          "letter": "B",
+          "text": "Para kazanmayı hedefleyen bir vakıf kurma",
+          "images": [],
+          "text_ar": "تأسيس وقف يهدف إلى كسب المال"
+        },
+        {
+          "letter": "C",
+          "text": "Kedilere bakmayı amaçlayan bir vakıf kurma",
+          "images": [],
+          "text_ar": "تأسيس وقف يهدف إلى رعاية القطط"
+        },
+        {
+          "letter": "D",
+          "text": "Komşusuna kredi borcu için kefil olma",
+          "images": [],
+          "text_ar": "أن يكون كفيلًا لجاره في دين قرض"
+        },
+        {
+          "letter": "E",
+          "text": "Arkadaşına pahalı bir saat hediye etme",
+          "images": [],
+          "text_ar": "إهداء ساعة غالية الثمن إلى صديقه"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من التصرفات الآتية يستطيع طفل غير راشد تحت الوصاية القيام به بمفرده؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Evlenmenin butlanı ve iptali ile ilgili olarak aşağıda söylenenlerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evlenmenin butlanı ve iptali mutlaka bir dava açmak sureti ile gerçekleşir.",
+          "images": [],
+          "text_ar": "لا يتحقق بطلان الزواج وإبطاله إلا برفع دعوى."
+        },
+        {
+          "letter": "B",
+          "text": "Nispi butlan davasını sadece ilgili olan eş açabilir.",
+          "images": [],
+          "text_ar": "لا يرفع دعوى البطلان النسبي إلا الزوج المعني."
+        },
+        {
+          "letter": "C",
+          "text": "Mahkemece verilen butlan ve iptal kararı geçmişe etkili olduğundan evliliğin kurulduğu andan itibaren ortadan kalkmasını sağlar.",
+          "images": [],
+          "text_ar": "قرار البطلان والإبطال الصادر عن المحكمة ذو أثر رجعي، فيؤدي إلى زوال الزواج من لحظة انعقاده."
+        },
+        {
+          "letter": "D",
+          "text": "Mutlak butlan kamu düzeni ile ilgili olduğundan herkes tarafından ileri sürülebilir.",
+          "images": [],
+          "text_ar": "البطلان المطلق يتعلق بالنظام العام، لذلك يمكن لكل شخص التمسك به."
+        },
+        {
+          "letter": "E",
+          "text": "Mutlak butlan davası Cumhuriyet Savcısı tarafından da açılabilir.",
+          "images": [],
+          "text_ar": "يمكن أن يرفع مدع عام الجمهورية دعوى البطلان المطلق أيضًا."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يقال فيما يلي عن بطلان الزواج وإبطاله غير صحيح؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Akıl hastalığı ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir kişi tıbben akıl hastası olsa bile ayırt etme gücüne sahip olabilir.",
+          "images": [],
+          "text_ar": "قد يكون الشخص مصابًا بمرض عقلي من الناحية الطبية ومع ذلك يمتلك قدرة التمييز."
+        },
+        {
+          "letter": "B",
+          "text": "Bir akıl hastalığı olan şizofreninin ilk evrelerinde hasta ayırt etme gücüne sahiptir.",
+          "images": [],
+          "text_ar": "في المراحل الأولى من الفصام، وهو مرض عقلي، يمتلك المريض قدرة التمييز."
+        },
+        {
+          "letter": "C",
+          "text": "Epilepsi ve melankolide hasta nöbet geldiği zamanlarda geçici olarak ayırt etme gücünü kaybeder.",
+          "images": [],
+          "text_ar": "في الصرع والماليخوليا يفقد المريض قدرة التمييز مؤقتًا في أوقات النوبة."
+        },
+        {
+          "letter": "D",
+          "text": "Alkolik olan birisi, kesin olarak ayırt etme gücünden yoksundur.",
+          "images": [],
+          "text_ar": "من كان مدمنًا على الكحول فاقد لقدرة التمييز بصورة قاطعة."
+        },
+        {
+          "letter": "E",
+          "text": "Akıl hastalığı, ayırt etme gücünü tamamen ortadan kaldırıyorsa kişiyi tam ehliyetsiz hale getirir.",
+          "images": [],
+          "text_ar": "إذا كان المرض العقلي يُزيل قدرة التمييز إزالة تامة، فإنه يجعل الشخص عديم الأهلية."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من المعلومات الآتية عن المرض العقلي غير صحيح؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "2f1e7d80ff1360661f28f145d812ce965c247674b23aab5a6f90bae11126a190"
+}

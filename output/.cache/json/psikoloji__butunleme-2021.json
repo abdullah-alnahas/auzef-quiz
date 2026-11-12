@@ -1,0 +1,1312 @@
+{
+  "course": "Psikoloji ve Psikolojiye Giriş – 1",
+  "course_slug": "psikoloji",
+  "exam": "2021 Bütünleme Soruları",
+  "exam_slug": "butunleme-2021",
+  "page_title": "Psikoloji 2021 Bütünleme",
+  "source_url": "https://lolonolo.com/2021/02/24/psikoloji-2021-butunleme/",
+  "scraped_at": "2026-11-12T02:21:38+03:00",
+  "answer_source": "inline",
+  "question_count": 37,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Zil sesine koşullanmış bir organizmanın, çıngırak, çan vb. seslerde koşullu tepki göstermesine ne denilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uyaranların ayırt edilmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hatırlama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Biçimlendirme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sönme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Uyaran genellemesi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Bir araştırmanın yöntem bölümünü tasarlarken aşağıdakilerden hangisinin yapılmasına gerek yoktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kontrol değişkenlerinin belirlenmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Araştırmanın hangi yöntem türü ile tasarlanacağı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Veri toplama sürecinin düzenlenmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hangi ölçme araçlarının kullanılacağı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Makalenin yazılması",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Deneyimlediğimiz yaşantılarla ilgili anılara ilişkin bilgiler hangi bellek türü ile ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Episodik Bellek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kısa Süreli Bellek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Semantik Bellek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İşlemsel Bellek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Flash Bellek",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Hangisi algı yanılmalarının nedenlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Algısal örgütlenme ilkeleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Görme kusuru",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duyu sisteminin fizyolojik özellikleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Algısal değişmezlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Temel algılama ilkeleri",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi temel algısal örgütleme ilkelerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Süreklilik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bütünleme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kavrama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yakınlık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Şekil/Zemin",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Bir baba, çocuğu bardak kırdığında sarsak biri olduğunu ve kendi kırdığında bardağın yanlış yere konulduğunu düşünüyor ise ne tür atıf yapıyordur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Adil dünya inancı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Temel atıf hatası",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Olumsuz tarafgirlik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel cimrilik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Savunma mekanizması",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "M.Serif ‘in Otokinetik etki deneyi ve sonuçları hakkında aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişi tek başına iken de bu ortak atıf çerçevesinden yararlandığını göstermiştir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Belirsiz bir durumda ortak bir atıf çerçevesinin oluştuğunu göstermiştir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir normun nasıl oluştuğunu göstermiştir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Normlarn bilgi verici etkisini ortaya koymuştur",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Normların sosyal kabul/onay işlevini ortaya koymuştur",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Koku sistemi ve koku alma ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnsanlar feromonları işlemleyemezler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Koku alıcı hücreler bir kaç haftada bir yenilenir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnsanlarım koku hassasiyeti yüksektir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kokunun kaynağını bulmada insanlardan çok daha hassas olan türler vardır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Koku duyumunda duyusal adaptasyon çok hızlı gerçekleşir",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Belleğin yapısı, dikkat süreçleri, algı gibi süreçleri açıklamakla ilgilenen alt alan hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gelişim Psikolojisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Endüstri-Örgüt Psikolojisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eğitim Psikolojisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel Psikoloji",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal Psikoloji",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Hangi ölçüm düzeyinde, ilgili özelliğin mutlak sıfır noktası (yokluk hali) vardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınıflandırıcı ölçümler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sıralayıcı ölçümler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İstatistiksel ölçümler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oranlı ölçümler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eşit aralıklı ölçümler",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Hangi örnekte bir tutumu oluşturan bileşenlerin tamamı bulunmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Reçelden nefret ederim, reçel zararlıdır, reçel kan şekerini yükseltir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hiç pasta yemem, annem yapsa bile yemem, pasta şişmanlardır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İlaç içmeyi sevmem, ilaç tedavi eder, ilaçlar kimyasaldır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Enginarı severim, enginar çok yararlıdır, sık sık enginar yerim.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Trafik kuralları gereklidir, bu kurallara uymak gerekir, yoksa kaza olur",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Bir uyaranın şiddeti ne kadar yüksekse, fark eşiği o kadar yüksek olur ifadesi hangisi açıklamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Weber Yasası",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mutlak eşik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dikkat",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kümelenme etkisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duyusal adaptasyon",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi gruplarda normatif etkiyi arttıran etmenlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görevinin karmaşıklığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Görevin zorluğu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Grubun birey için değerli olması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Grup üyelerinden daha yüksek statülü olmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ortak görüşte olan grup üyelerinin sayısı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Bireylerin kendi mensup oldukları grupları, diğerlerinden daha olumlu algılama eğilimlerine ne isim verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal kabul",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Olumsuz tarafgirlik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Grup içi yanlılık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nedensel atıf",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Temel atıf hatası",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Modern anlamda zeka anlayışının temellerini atan kuramcı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "F. Galton",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "J.P.Guilford",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "R.B.Cattell",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "H.Gardner",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "R.Sternberg",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kişilik ve davranış bozukluklarının tedavisinde kullanılan psikolojik tekniklerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel Davranışçı Terapiler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Davranışçı Terapiler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yoga",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Psikanaliz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Psikoterapi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Bireysel ya da grup halinde başka insanların algılarımızı, tutumlarımızı ve davranışlarımızı etkileme sürecini tanımlayan terim hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel cimrilik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal algılama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal kimlik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal etki",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Grup içi yanlılık",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Belirli bir bilginin bellekten geri getirilmesine yardımcı olan ipucuna ne denilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hatırlatıcı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Anahtar ipucu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Geri getirme ipucu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kritik ipucu",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Hangisi bir davranışın yapılma sıklığını arttırmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olumsuz pekiştireç",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Pekistireç",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Olumlu Pekiştireç",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2. tip ceza",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Organizma için hoş sonuçlar",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Bütün İ.Ü. öğrencilerinin, üniversitenin kurumsal imajı hakkındaki görüşlerini belirlemek için hangi veri toplama yolunu kullanma en uygun yoludur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Test uygulamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Görev geliştirmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bireysel görüşme yapmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Anket",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gözlem yapmak",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "Yaratıcılık ile zihinsel bozuklukların bağlantılarıyla ile ilgili olarak hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaratıcı kişilerin ruhsal hastalıkları vardır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sanat alanlarındaki yaratıcı bireylerin tümünde ruhsal hastalıklar görülmez.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaratıcı bilim insanlarında duygu durum bozuklukları nadir görülür.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Her yaratıcı bireyin ruhsal hastalığı yoktur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaratıcıların ruhsal hastalıkları olduğu fikri biyografik incelemelere dayalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "Geçmiş kuşaklardan aktarılmış davranış örüntüleri ve anılar ya da bellek izlerini tanımlayan ve insan zihninin tarih öncesi yıllardan beri aktarılan bir mirasa sahip olduğunu ifade eden kavram hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kültür aktarımı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ortak bilinç dışı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyalleşme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyoloji",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Evrim",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "İnsan özelliklerini faktör analizi yoluyla karşıt çiftlerden oluşan 16 temel özellik boyutuna indiren araştırmacı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Costa ve McCrea",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "S.Freud",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "R.Catell",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "H.Eysenck",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "G.Allport",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Galton tarafından ortaya atılan ilkelerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zeka bir tek doğru cevabı olan nesnel testlerle ölçülebilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İnsanların çoğunluğu normal dağılım eğrisinin ortasında yer alır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnsanların zeka düzeyi değerlendirilemez.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zeka düzeyi normal dağılım gösterir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zekanın bir düzeyi vardır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "Zihin yapısı modeline göre, yaratıcı düşünmeyi sağlayan işlem türü hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yansıtıcı düşünme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yakınsak (konverjant) düşünme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Iraksak (diverjant) düşünme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Problem çözme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Karmaşık düşünme",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "Normların özellikleri ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal açıdan kabul edilebilir davranışları tanımlar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bazı normlar diğer üyeleri gözleyerek edinilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir gruba dahil olmanın ölçütlerinden biri normlarına uygun davranmaktır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal açıdan kabul edilebilir tutumları tanımlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bütün normlar yazılı kurallardır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "İnsanların belirli gruba mensup bulundukları için aynı özelliklere sahip olduklarını düşünme eğilimimize ne isim verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal kabul",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Temel atıf hatası",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Olumsuz tarafgirlik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kalıp yargı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Nedensel atıf",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "Psikopatolojiyi biyolojik ve psikolojik faktörlerin etkileşime girme sonucu oluşan karmaşık bir ürün olarak gören yaklaşım hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikolojik yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Psikanalitik yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bütünleştirici yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Biyolojik yaklaşım",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "Kişiliği ilk kez sistematik ve bilimsel yöntemlerle inceleyen kişi kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Allport",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sheldon",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hipokrat",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Galen",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Freud",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "Normların işlevleri ile ilgili olarak hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir grupta onaylanmayan davranışları önceden bilmemizi sağlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal hayatın daha belirli/düzenli olmasını sağlar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir grupta onay ve kabul edilen davranışları önceden tahmin etmemizi sağlar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal hayatı karmaşık hale getirir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kişilerin davranışlarının tahmin edilebilirliğini arttırır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 31,
+      "type": "legacy_text",
+      "stem": "Sosyal kimlik teorisine göre, grupların işlevleri ile ilgili olarak hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir sosyal kimlik sağlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Değer sistemi sağlar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Davranış örüntüleri sağlar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İş ve olanak sağlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aidiyet hissi sağlar.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 32,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi yaratıcı düşünmenin bir özelliği değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Akıcılık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çok boyutluluk",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Orjinallik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ayrıntılandırma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Esneklik",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 33,
+      "type": "legacy_text",
+      "stem": "“Olumsuz bir bilginin, ilk izlenimi hemen bozmasına ve bu olumsuz izlenimin değişmeye karşı direnç göstermesi” eğilimini tanımlayan kavram hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal kategorizasyon",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Temel atıf hatası",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Olumsuz tarafgirlik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kalıp yargı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Peşin hüküm",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 34,
+      "type": "legacy_text",
+      "stem": "Zekayı, zihin, duygu ve bedeni kullanımını gerektiren bir bütüncül bir yapı olarak ele alan kuramcı kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "R.J.Sternberg",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "C.Spearman",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "H.Gardner",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "J.Guilford",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "R.B.Catell",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 35,
+      "type": "legacy_text",
+      "stem": "Tutum değişimini, tutum bileşenlerinin uyumsuz olduğu durumlarda, üçünün dengesini sağlayacak şekilde değişim gösterdiğini ortaya koyan kuram hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Atıf teorileri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilişsel çelişki kuramı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Birlikte değişim teorisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Temel atıf hatası",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Azınlık etkisi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 36,
+      "type": "legacy_text",
+      "stem": "Motivasyonu öğrenme sürecine dayalı açıklayan görüşler ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yeni motivasyon kaynakları operant koşullanma yoluyla edinilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bazı motivasyon kaynakları sonradan kazanılmıştır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Motivasyonun kaynağı içgüdülerimizdir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Motivasyon kaynakları yalnızca dürtüler ile açıklanamaz.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dışsal etmenler motivasyon kaynağı olabilir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 37,
+      "type": "legacy_text",
+      "stem": "Yaratıcı bireylerin kişilik özellikleri ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yeni deneyimlere açıktırlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlgi alanları çok geniştir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Risk alabilirler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Başkalarının fikirlerini çok ciddiye alırlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İçsel motivasyona sahiptirler.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "9b58e57653be81519e80b097acf94ea6849475e9cf1eb9d3eb5aff5f47ca0588"
+}

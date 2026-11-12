@@ -1,0 +1,859 @@
+{
+  "course": "Anatomi",
+  "course_slug": "anatomi",
+  "exam": "2022-2023 Final Soruları",
+  "exam_slug": "final-2022-2023",
+  "page_title": "Anatomi 2022-2023 Final Soruları",
+  "source_url": "https://lolonolo.com/2022/12/27/anatomi-2022-2023-final-sorulari/",
+  "scraped_at": "2026-11-12T02:21:32+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Omurilikten (medulla spinalis) çıkan spinal sinirlerin oluşturduğu ağ yapısına verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Plexus",
+          "images": [],
+          "text_ar": "الضفيرة"
+        },
+        {
+          "letter": "B",
+          "text": "Nöron",
+          "images": [],
+          "text_ar": "العصبون"
+        },
+        {
+          "letter": "C",
+          "text": "Nucleus",
+          "images": [],
+          "text_ar": "النواة"
+        },
+        {
+          "letter": "D",
+          "text": "Gangliyon",
+          "images": [],
+          "text_ar": "العقدة العصبية"
+        },
+        {
+          "letter": "E",
+          "text": "Arachnoid",
+          "images": [],
+          "text_ar": "العنكبوتية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما اسم الشبكة التي تشكلها الأعصاب الشوكية الخارجة من النخاع الشوكي؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Spinal sinirler hangi tip sinirlerdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duysal sinir",
+          "images": [],
+          "text_ar": "عصب حسي"
+        },
+        {
+          "letter": "B",
+          "text": "Motor sinir",
+          "images": [],
+          "text_ar": "عصب حركي"
+        },
+        {
+          "letter": "C",
+          "text": "Çoğunlukla duysal sinir",
+          "images": [],
+          "text_ar": "عصب حسي في الغالب"
+        },
+        {
+          "letter": "D",
+          "text": "Çoğunlukla motor sinir",
+          "images": [],
+          "text_ar": "عصب حركي في الغالب"
+        },
+        {
+          "letter": "E",
+          "text": "Mikst (karma) sinir",
+          "images": [],
+          "text_ar": "عصب مختلط (مركب)"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ما نوع الأعصاب الشوكية؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Mandibula (alt çene kemiği) hangi kemik ile eklem yapmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ethmoid kemik",
+          "images": [],
+          "text_ar": "العظم الغربالي"
+        },
+        {
+          "letter": "B",
+          "text": "Occipital kemik",
+          "images": [],
+          "text_ar": "العظم القذالي"
+        },
+        {
+          "letter": "C",
+          "text": "Frontal kemik",
+          "images": [],
+          "text_ar": "العظم الجبهي"
+        },
+        {
+          "letter": "D",
+          "text": "Temporal kemik",
+          "images": [],
+          "text_ar": "العظم الصدغي"
+        },
+        {
+          "letter": "E",
+          "text": "Parietal kemik",
+          "images": [],
+          "text_ar": "العظم الجداري"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "مع أي عظم يتصل الفك السفلي (mandibula) بالمفصل؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Nöronda (sinir hücresi) uyarıları alan kısımlara verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Myelin",
+          "images": [],
+          "text_ar": "الميالين"
+        },
+        {
+          "letter": "B",
+          "text": "Ranvier boğumu",
+          "images": [],
+          "text_ar": "عقدة رانفييه"
+        },
+        {
+          "letter": "C",
+          "text": "Çekirdek",
+          "images": [],
+          "text_ar": "النواة"
+        },
+        {
+          "letter": "D",
+          "text": "Akson",
+          "images": [],
+          "text_ar": "المحور"
+        },
+        {
+          "letter": "E",
+          "text": "Dentrit",
+          "images": [],
+          "text_ar": "التغصن"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ما اسم الأجزاء التي تستقبل التنبيهات في العصبون (الخلية العصبية)؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Böbrekleri besleyen renal arter hangi arterden çıkmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çölyak arter",
+          "images": [],
+          "text_ar": "الشريان البطني"
+        },
+        {
+          "letter": "B",
+          "text": "Aorta",
+          "images": [],
+          "text_ar": "الأورطي"
+        },
+        {
+          "letter": "C",
+          "text": "Splenik arter",
+          "images": [],
+          "text_ar": "الشريان الطحالي"
+        },
+        {
+          "letter": "D",
+          "text": "Mesenterik arter",
+          "images": [],
+          "text_ar": "الشريان المساريقي"
+        },
+        {
+          "letter": "E",
+          "text": "Hepatik arter",
+          "images": [],
+          "text_ar": "الشريان الكبدي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "من أي شريان ينشأ الشريان الكلوي المغذي للكليتين؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sindirim sistemi kanalı yapılarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ağız",
+          "images": [],
+          "text_ar": "الفم"
+        },
+        {
+          "letter": "B",
+          "text": "Mide",
+          "images": [],
+          "text_ar": "المعدة"
+        },
+        {
+          "letter": "C",
+          "text": "Bağırsaklar",
+          "images": [],
+          "text_ar": "الأمعاء"
+        },
+        {
+          "letter": "D",
+          "text": "Karaciğer",
+          "images": [],
+          "text_ar": "الكبد"
+        },
+        {
+          "letter": "E",
+          "text": "Yemek borusu",
+          "images": [],
+          "text_ar": "المريء"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من بنى قناة الجهاز الهضمي؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi periferik sistem yapılarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beyin sapı",
+          "images": [],
+          "text_ar": "جذع الدماغ"
+        },
+        {
+          "letter": "B",
+          "text": "Spinal sinirler",
+          "images": [],
+          "text_ar": "الأعصاب الشوكية"
+        },
+        {
+          "letter": "C",
+          "text": "Thalamus",
+          "images": [],
+          "text_ar": "المهاد"
+        },
+        {
+          "letter": "D",
+          "text": "Cerebellum",
+          "images": [],
+          "text_ar": "المخيخ"
+        },
+        {
+          "letter": "E",
+          "text": "Hipokampüs",
+          "images": [],
+          "text_ar": "الحصين"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي يُعد من بنى الجهاز المحيطي؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Kalpte kaç adet ventrikül (karıncık) vardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "4",
+          "images": [],
+          "text_ar": "4 بطينات"
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "images": [],
+          "text_ar": "5 بطينات"
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "images": [],
+          "text_ar": "بطينان"
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "images": [],
+          "text_ar": "بطين واحد"
+        },
+        {
+          "letter": "E",
+          "text": "3",
+          "images": [],
+          "text_ar": "3 بطينات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "كم عدد البطينات في القلب؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "N. vestibulocochlearis’in (VIII. kranyal sinir) fonksiyonu aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mimik kaslarına motor uyarı",
+          "images": [],
+          "text_ar": "تنبيه حركي لعضلات تعبير الوجه"
+        },
+        {
+          "letter": "B",
+          "text": "Görme duyusu",
+          "images": [],
+          "text_ar": "حاسة البصر"
+        },
+        {
+          "letter": "C",
+          "text": "Koku duyusu",
+          "images": [],
+          "text_ar": "حاسة الشم"
+        },
+        {
+          "letter": "D",
+          "text": "Baş ve yüzün ağrı ve ısı duyusu",
+          "images": [],
+          "text_ar": "حس الألم والحرارة في الرأس والوجه"
+        },
+        {
+          "letter": "E",
+          "text": "İşitme ve denge duyusu",
+          "images": [],
+          "text_ar": "حاسة السمع والتوازن"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ما وظيفة العصب الدهليزي القوقعي (العصب القحفي VIII)؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Alın kemiği olarak da bilinen, kaşların üzerinde yer alan kemik aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Frontal kemik",
+          "images": [],
+          "text_ar": "العظم الجبهي"
+        },
+        {
+          "letter": "B",
+          "text": "Mandibula",
+          "images": [],
+          "text_ar": "الفك السفلي"
+        },
+        {
+          "letter": "C",
+          "text": "Occipital kemik",
+          "images": [],
+          "text_ar": "العظم القذالي"
+        },
+        {
+          "letter": "D",
+          "text": "Temporal kemik",
+          "images": [],
+          "text_ar": "العظم الصدغي"
+        },
+        {
+          "letter": "E",
+          "text": "Parietal kemik",
+          "images": [],
+          "text_ar": "العظم الجداري"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي العظام التالية يُعرف أيضًا بعظم الجبهة ويقع فوق الحاجبين؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Vücudu sağ ve sol olmak üzere 2 eşit parçaya ayıran düzleme verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Planum coronale",
+          "images": [],
+          "text_ar": "المستوى الإكليلي"
+        },
+        {
+          "letter": "B",
+          "text": "Planum medianum",
+          "images": [],
+          "text_ar": "المستوى الناصف"
+        },
+        {
+          "letter": "C",
+          "text": "Planum transversum",
+          "images": [],
+          "text_ar": "المستوى المستعرض"
+        },
+        {
+          "letter": "D",
+          "text": "Planum sagittale",
+          "images": [],
+          "text_ar": "المستوى السهمي"
+        },
+        {
+          "letter": "E",
+          "text": "Planum horizontale",
+          "images": [],
+          "text_ar": "المستوى الأفقي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما اسم المستوى الذي يقسم الجسم إلى قسمين متساويين يمينًا ويسارًا؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "İdrarın oluştuğu, böbreklerin işlevsel en küçük yapı birimine verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Osteosit",
+          "images": [],
+          "text_ar": "الخلايا العظمية"
+        },
+        {
+          "letter": "B",
+          "text": "Nöron",
+          "images": [],
+          "text_ar": "العصبون"
+        },
+        {
+          "letter": "C",
+          "text": "Nefron",
+          "images": [],
+          "text_ar": "النفرون"
+        },
+        {
+          "letter": "D",
+          "text": "Purkinje hücresi",
+          "images": [],
+          "text_ar": "خلايا بوركينجي"
+        },
+        {
+          "letter": "E",
+          "text": "Alveol",
+          "images": [],
+          "text_ar": "الحويصلات الهوائية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما اسم أصغر وحدة بنائية وظيفية في الكليتين حيث يتكون البول؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki duyulardan hangisi talamusa uğramadan beyin korteksine gider?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tat",
+          "images": [],
+          "text_ar": "التذوق"
+        },
+        {
+          "letter": "B",
+          "text": "Görme",
+          "images": [],
+          "text_ar": "البصر"
+        },
+        {
+          "letter": "C",
+          "text": "Koku",
+          "images": [],
+          "text_ar": "الشم"
+        },
+        {
+          "letter": "D",
+          "text": "Dokunma",
+          "images": [],
+          "text_ar": "اللمس"
+        },
+        {
+          "letter": "E",
+          "text": "İşitme",
+          "images": [],
+          "text_ar": "السمع"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الحواس التالية يصل إلى قشرة الدماغ دون المرور بالمهاد؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki damarlardan hangisi sağ kulakçığa (atrium) açılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vertebral arter",
+          "images": [],
+          "text_ar": "الشريان الفقري"
+        },
+        {
+          "letter": "B",
+          "text": "Aorta",
+          "images": [],
+          "text_ar": "الأورطي"
+        },
+        {
+          "letter": "C",
+          "text": "Akciğer toplardamarı (pulmoner ven)",
+          "images": [],
+          "text_ar": "الوريد الرئوي"
+        },
+        {
+          "letter": "D",
+          "text": "Akciğer atardamarı (pulmoner arter)",
+          "images": [],
+          "text_ar": "الشريان الرئوي"
+        },
+        {
+          "letter": "E",
+          "text": "Vena cava superior",
+          "images": [],
+          "text_ar": "الوريد الأجوف العلوي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي الأوعية التالية يصب في الأذين الأيمن؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Üriner ve genital sistemin ürogenital sistem olarak beraber ele alınmasının nedeni aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Embriyolojik olarak aynı kabartıdan oluştukları için",
+          "images": [],
+          "text_ar": "لأنهما يتشكلان جنينيًا من النتوء نفسه"
+        },
+        {
+          "letter": "B",
+          "text": "Üriner sistemin hormonal katkılarından dolayı",
+          "images": [],
+          "text_ar": "بسبب الإسهامات الهرمونية للجهاز البولي"
+        },
+        {
+          "letter": "C",
+          "text": "Aynı damardan beslendikleri için",
+          "images": [],
+          "text_ar": "لأنهما يتغذيان من الوعاء نفسه"
+        },
+        {
+          "letter": "D",
+          "text": "Aynı lenfatiklere sahip oldukları için",
+          "images": [],
+          "text_ar": "لأن لهما الأوعية اللمفية نفسها"
+        },
+        {
+          "letter": "E",
+          "text": "Yakın komşuluklarından dolayı",
+          "images": [],
+          "text_ar": "بسبب جوارهما المتقارب"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما سبب معالجة الجهاز البولي والجهاز التناسلي معًا باسم الجهاز البولي التناسلي؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Solunum sisteminin işlevsel (solunum fonksiyonunu gerçekleştiren) en küçük birimi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Burun",
+          "images": [],
+          "text_ar": "الأنف"
+        },
+        {
+          "letter": "B",
+          "text": "Alveol yapısı",
+          "images": [],
+          "text_ar": "بنية الحويصلات الهوائية"
+        },
+        {
+          "letter": "C",
+          "text": "Akciğerler",
+          "images": [],
+          "text_ar": "الرئتان"
+        },
+        {
+          "letter": "D",
+          "text": "Trachea (soluk borusu)",
+          "images": [],
+          "text_ar": "القصبة الهوائية"
+        },
+        {
+          "letter": "E",
+          "text": "Ağız",
+          "images": [],
+          "text_ar": "الفم"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما الوحدة الوظيفية الصغرى للجهاز التنفسي (التي تقوم بوظيفة التنفس)؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Vücutta venin vene açıldığı (toplar damarın toplar damara açıldığı) sisteme verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hücresel dolaşım",
+          "images": [],
+          "text_ar": "الدورة الخلوية"
+        },
+        {
+          "letter": "B",
+          "text": "Lenfatik dolaşım",
+          "images": [],
+          "text_ar": "الدورة اللمفية"
+        },
+        {
+          "letter": "C",
+          "text": "Portal dolaşım",
+          "images": [],
+          "text_ar": "الدورة البابية"
+        },
+        {
+          "letter": "D",
+          "text": "Büyük dolaşım",
+          "images": [],
+          "text_ar": "الدورة الكبرى"
+        },
+        {
+          "letter": "E",
+          "text": "Küçük dolaşım",
+          "images": [],
+          "text_ar": "الدورة الصغرى"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما اسم النظام الذي يصب فيه وريد في وريد؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Ana safra kanalı olarak bilinen koledok kanalı (ductus choledochus), sindirim kanallarının hangi kısmına açılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İleum",
+          "images": [],
+          "text_ar": "اللفائفي"
+        },
+        {
+          "letter": "B",
+          "text": "Jejunum",
+          "images": [],
+          "text_ar": "الصائم"
+        },
+        {
+          "letter": "C",
+          "text": "Caecum",
+          "images": [],
+          "text_ar": "الأعور"
+        },
+        {
+          "letter": "D",
+          "text": "Duodenum",
+          "images": [],
+          "text_ar": "الاثنا عشر"
+        },
+        {
+          "letter": "E",
+          "text": "Mide",
+          "images": [],
+          "text_ar": "المعدة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "إلى أي جزء من القناة الهضمية تصب القناة الصفراوية المشتركة المعروفة بالقناة الصفراوية الرئيسية؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Modern anatominin kurucusu olarak bilinen ve bu alanda çalışmalar yapmış bilim insanı kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vesalius",
+          "images": [],
+          "text_ar": "فيساليوس"
+        },
+        {
+          "letter": "B",
+          "text": "Edison",
+          "images": [],
+          "text_ar": "إديسون"
+        },
+        {
+          "letter": "C",
+          "text": "Paracelsus",
+          "images": [],
+          "text_ar": "باراسيلسوس"
+        },
+        {
+          "letter": "D",
+          "text": "Einstein",
+          "images": [],
+          "text_ar": "أينشتاين"
+        },
+        {
+          "letter": "E",
+          "text": "Maxim",
+          "images": [],
+          "text_ar": "مكسيم"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "من هو العالم الذي يُعرف بأنه مؤسس التشريح الحديث وقام بأعمال في هذا المجال؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi solunum sistemine ait bir yapı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yutak",
+          "images": [],
+          "text_ar": "البلعوم"
+        },
+        {
+          "letter": "B",
+          "text": "Akciğerler",
+          "images": [],
+          "text_ar": "الرئتان"
+        },
+        {
+          "letter": "C",
+          "text": "Burun",
+          "images": [],
+          "text_ar": "الأنف"
+        },
+        {
+          "letter": "D",
+          "text": "Ağız",
+          "images": [],
+          "text_ar": "الفم"
+        },
+        {
+          "letter": "E",
+          "text": "Bronş",
+          "images": [],
+          "text_ar": "القصبة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس بنية تابعة للجهاز التنفسي؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "5f94ad5b1a56741c1bcf96645f3d20075bd3a072b59e3a9f46b32c58bfe3fd25"
+}

@@ -1,0 +1,703 @@
+{
+  "course": "Bilimsel Araştırma Teknikleri",
+  "course_slug": "bat",
+  "exam": "2019 Final Soruları",
+  "exam_slug": "final-2019",
+  "page_title": "Bilimsel Araştırma Teknikleri 2019 Final Soruları",
+  "source_url": "https://lolonolo.com/2019/12/20/bilimsel-arastirma-teknikleri-2019-final-sorulari/",
+  "scraped_at": "2026-11-12T02:21:40+03:00",
+  "answer_source": "inline",
+  "question_count": 19,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Veri kayıtları ile ilgili olarak “cevaplayıcının diğer cevapları incelenerek, eksik cevabı için uygun bir cevap hesaplanır ve verilir” ifadesi eksik cevapların düzeltilmesi seçeneklerinden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Emsal cevap verme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Örneği silme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Nötr değer verme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çoklu silme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İkili silme",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Her ölçme birimi miktarı değişiklik göstermeyen hatalara ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sistematik hata",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sabit hata",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tesadüfi hata",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Muhtemel hata",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tahmini hata",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Tüm mümkün cevapların önceden belirlendiği cevap formatı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Açık uçlu sorular",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yarı yapısal sorular",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yapısal sorular",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Serbest cevaplı sorular",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yapısal olmayan sorular",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Bilimsel etik kurallarına uygun davranan, yaptığı araştırmada veri toplamada dürüst davranan kişi hangi bilimsel etik kuralına uymuştur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tutarlılık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilimsel dürüstlük",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Uygunluk",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yeterlilik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dengelilik",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Araştırma hakkında genel bilgilerin olduğu, amacının kullanılan yöntemin ve elde edilen bulguların kısa ve genel bir biçimde tanıtıldığı bölüm hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Önsöz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Özet",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Giriş",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kaynakça",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dizin",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Anakütle parametresinin gerçek değeri ile anakütleden elde edilecek bütün örneklerden hesaplanacak ortalama değer arasındaki farkla ölçülen hata türü hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sabit hata",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Anakütle hatası",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sistematik hata",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Örneklem hatası",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Analiz hatası",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Standart ölçek ve yeni ölçek geliştirilen ölçek aynı anda bireylere uygulanır ve bireylerin her iki ölçekten aldıkları puanlara göre ilişki katsayı hesaplanması hangi yoldan gerçekleşmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Matematiksel yöntem ile",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fiziki yoldan",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mantık yolu ile",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İstatistiki yoldan",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geometrik yoldan",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Anket ile ilgili verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilimsel bilgi için en önemli temel kaynaklardır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Araştırılmak istenen bir problem hakkında, yanıtlayıcılara görüşlerini almak için tasarlanan soru kağıdının yöneltilmesi ile yapılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Birincil veri toplamada en çok kullanılan yöntemdir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişilerin görüşlerine / algılarına yönelik verileri toplamada en iyi yöntemdir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anket uygulamaları önceden tasarlanmış senaryoya dayalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Hangisi sosyal bilimlerde yapılan araştırma yöntemlerinde kullanılan temel ölçüm türlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eşit aralıklı ölçüm",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sınıflandırma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Oransal ölçüm",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mukayeseli ölçüm",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ordinal ölçüm",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kantitatif araştırma yönteminin özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nicel yöntemler çoğunlukla sonuç odaklıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Veri sayısal değerlere indirgenir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Araştırma sözel yapılır ve sözel yorumlanır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dış değişkenlerin kontrolü nicel araştırmalarda çok önemlidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sonuçların istatistiki olarak özetlenmesi tercih edilir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Bir araştırma probleminin çözümü için doğrulanması ya da yanlışlanması gereken önermeler aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tez",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sözel modeller",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Monografiler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Problem",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hipotez",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Cevaplayıcıların belli veriler baz alınarak sınıflandırıldıkları araç veya mekanizmalar neyi ifade eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hipotez",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ölçek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Geçerlik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nesnellik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yöntem",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Ölçümün kesinliğinin yani hatalardan ne seviyede arındığının anlaşılması için çerçeve sağlayan model nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sabit skor",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Doğru skor",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tesadüfi yöntem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gözlenen skor",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ölçüm",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Kişisel tercihler, tutumlar, inançlar ve bekleyişler gibi verilerin analizinde hangisi kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çoklu regresyon analizi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çoklu ayırma analizi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kümeleme analizi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çok boyutlu ölçekleme analizi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çoklu varyans analizi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Yeni bir olay hakkında uygun kişiler, davranışlar ve durumların gözlenerek birincil verilerin elde edilmesi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Parametre",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Odak grup",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gözlem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Görüşme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Veri analizi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Araştırmanın oluşturulmasında yararlanılan tüm kaynakların sistemli bir biçimde yazıldığı bölüm hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ekler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dizin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İçindekiler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kaynakça",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Rapor",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Bağımsız değişkenin etkilediği değişken hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yarı bağımsız değişken",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Örneklem",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bağımlı değişken",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yarı bağımlı değişken",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anket",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Problemlere güvenilir çözümler aramak amacıyla, planlı ve sistemli olarak verilerin toplanması, çözümlenmesi, yorumlanarak değerlendirilmesi ve rapor edilmesi süreci nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tümdengelim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yöntem",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Teori",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilimsel araştırma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tümevarım",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Ankette yer alan soruların düzeni ile alakalı aşağıda verilen ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sorular ilgi uyandıran bir nitelikte olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sorular mantıklı bir sıra izlemelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaş ve maaş gibi tanımlayıcı bilgiler anketin sonunda istenmelidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mahcup edici, can sıkıcı sorulara anketin sonunda yer verilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Beklenen cevaplara yönelik ipuçları verilmedir",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "source_numbers": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "content_hash": "bd83c760d218122a3fd2e7fd6569a1b069ee9657ca595012240e7cbb3b59f4a7"
+}

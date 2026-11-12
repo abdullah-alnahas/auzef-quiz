@@ -1,0 +1,1414 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "Final Soruları",
+  "exam_slug": "final-unknown",
+  "page_title": "İlkokula Hazırlık Final Soruları",
+  "source_url": "https://lolonolo.com/2021/11/26/ilkokula-hazirlik-final-sorulari/",
+  "scraped_at": "2026-11-12T02:21:18+03:00",
+  "answer_source": "inline",
+  "question_count": 34,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi okul öncesi dönemde okuma yazmaya hazırlık sürecinde yapılabilecek çalışmalardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ses Farkındalığı",
+          "images": [],
+          "text_ar": "الوعي الصوتي"
+        },
+        {
+          "letter": "B",
+          "text": "Yazı farkındalığı",
+          "images": [],
+          "text_ar": "الوعي بالكتابة"
+        },
+        {
+          "letter": "C",
+          "text": "Kalem tutma",
+          "images": [],
+          "text_ar": "الإمساك بالقلم"
+        },
+        {
+          "letter": "D",
+          "text": "Harf tanıtma",
+          "images": [],
+          "text_ar": "تعريف الحروف"
+        },
+        {
+          "letter": "E",
+          "text": "Görsel algı",
+          "images": [],
+          "text_ar": "الإدراك البصري"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من الأعمال التي يمكن القيام بها في عملية الاستعداد للقراءة والكتابة في مرحلة ما قبل المدرسة؟"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi okul öncesi dönemde yapılan okuma-yazmaya hazırlık etkinliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Harf öğretimi",
+          "images": [],
+          "text_ar": "تعليم الحروف"
+        },
+        {
+          "letter": "B",
+          "text": "Harfleri yazdırma",
+          "images": [],
+          "text_ar": "تدريبهم على كتابة الحروف"
+        },
+        {
+          "letter": "C",
+          "text": "Görsel algı çalışmaları",
+          "images": [],
+          "text_ar": "تمارين الإدراك البصري"
+        },
+        {
+          "letter": "D",
+          "text": "El yazısı öğretimi",
+          "images": [],
+          "text_ar": "تعليم الكتابة اليدوية"
+        },
+        {
+          "letter": "E",
+          "text": "Büyük harf yazdırma",
+          "images": [],
+          "text_ar": "تدريبهم على كتابة الحروف الكبيرة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من أنشطة الاستعداد للقراءة والكتابة التي تُنفّذ في مرحلة ما قبل المدرسة؟"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi işitsel algı çalışmalarına örnek olarak verilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dinleme",
+          "images": [],
+          "text_ar": "الإنصات"
+        },
+        {
+          "letter": "B",
+          "text": "Görsel ayırt etme",
+          "images": [],
+          "text_ar": "التمييز البصري"
+        },
+        {
+          "letter": "C",
+          "text": "El-göz koordinasyonu",
+          "images": [],
+          "text_ar": "التناسق بين اليد والعين"
+        },
+        {
+          "letter": "D",
+          "text": "Mekansal ilişkiler",
+          "images": [],
+          "text_ar": "العلاقات المكانية"
+        },
+        {
+          "letter": "E",
+          "text": "Yer-yön ilişkisi",
+          "images": [],
+          "text_ar": "علاقة المكان والاتجاه"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي يمكن تقديمه مثالًا على أنشطة الإدراك السمعي؟"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi ilköğretime hazırlıkta dinleme becerilerinin geliştirilmesine yönelik etkinliklerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaydedilmiş hayvan ve doğa seslerini dinletme",
+          "images": [],
+          "text_ar": "تشغيل تسجيلات لأصوات الحيوانات والطبيعة"
+        },
+        {
+          "letter": "B",
+          "text": "Kitap okuma",
+          "images": [],
+          "text_ar": "قراءة الكتب"
+        },
+        {
+          "letter": "C",
+          "text": "Hikaye anlatma ve hikaye dinleme",
+          "images": [],
+          "text_ar": "سرد القصص والاستماع إليها"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların sıralı yönergeleri takip etmelerini gerektiren ritim çalışmaları yapma",
+          "images": [],
+          "text_ar": "إجراء أنشطة إيقاعية تتطلب متابعة الأطفال لتعليمات متسلسلة"
+        },
+        {
+          "letter": "E",
+          "text": "Hayvan yürüyüşlerini takip etme",
+          "images": [],
+          "text_ar": "متابعة مشيات الحيوانات"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من الأنشطة الموجهة لتنمية مهارات الإنصات في الاستعداد للتعليم الابتدائي؟"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi sesleri ayırt edebilme becerisinin geliştirilmesine yönelik etkinliklerden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sesin ince kalın, yüksek alçak olma gibi özelliklerini açıklama",
+          "images": [],
+          "text_ar": "شرح خصائص الصوت من حيث كونه رفيعًا أو غليظًا وعاليًا أو منخفضًا"
+        },
+        {
+          "letter": "B",
+          "text": "Bir şekil ya da şemanın neye ait olduğunu açıklama",
+          "images": [],
+          "text_ar": "شرح ما ينتمي إليه شكل أو مخطط ما"
+        },
+        {
+          "letter": "C",
+          "text": "Nefes çalışmaları",
+          "images": [],
+          "text_ar": "تمارين التنفس"
+        },
+        {
+          "letter": "D",
+          "text": "Logo, reklam, trafik işareti gibi sembolleri tanımlama",
+          "images": [],
+          "text_ar": "تعريف الرموز كالشعارات والإعلانات وإشارات المرور"
+        },
+        {
+          "letter": "E",
+          "text": "Konuşulan, okunan ve anlatılanların ifade edilmesini sağlama",
+          "images": [],
+          "text_ar": "تمكينهم من التعبير عما يُسمع ويُقرأ ويُروى"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي من الأنشطة الموجهة لتنمية القدرة على تمييز الأصوات؟"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi okul öncesi dönemde gereçkelştirilen okuma yazmaya hazırlık çalışmalarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Temalarla ilgili temel kavramları anlama",
+          "images": [],
+          "text_ar": "فهم المفاهيم الأساسية المتعلقة بالموضوعات"
+        },
+        {
+          "letter": "B",
+          "text": "Metinleri okuma",
+          "images": [],
+          "text_ar": "قراءة النصوص"
+        },
+        {
+          "letter": "C",
+          "text": "Bilgi teknolojilerini kullanma",
+          "images": [],
+          "text_ar": "استخدام تقنيات المعلومات"
+        },
+        {
+          "letter": "D",
+          "text": "Harfleri tanıma",
+          "images": [],
+          "text_ar": "التعرف على الحروف"
+        },
+        {
+          "letter": "E",
+          "text": "Görsel algılama",
+          "images": [],
+          "text_ar": "الإدراك البصري"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي من أنشطة الاستعداد للقراءة والكتابة التي تُنفّذ في مرحلة ما قبل المدرسة؟"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Okul öncesi dönemde çocukta yazı yazma becerisi nasıl başlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karalama çalışmaları ile",
+          "images": [],
+          "text_ar": "بتمارين الخربشة"
+        },
+        {
+          "letter": "B",
+          "text": "Harf-nesne ilişkisini kurmak ile",
+          "images": [],
+          "text_ar": "بإقامة علاقة بين الحرف والشيء"
+        },
+        {
+          "letter": "C",
+          "text": "Alfabedeki harfları tanımak ile",
+          "images": [],
+          "text_ar": "بالتعرف على حروف الأبجدية"
+        },
+        {
+          "letter": "D",
+          "text": "Yetişkin yazılarını taklit etme ile",
+          "images": [],
+          "text_ar": "بتقليد كتابات الكبار"
+        },
+        {
+          "letter": "E",
+          "text": "Öykü kitaplarındaki cümleleri yazmak ile",
+          "images": [],
+          "text_ar": "بكتابة الجمل الواردة في كتب القصص"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "كيف تبدأ مهارة الكتابة عند الطفل في مرحلة ما قبل المدرسة؟"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi okul öncesi dönemde gerçekleştirilen okuma yazmaya hazırlık etkinliklerinin yararlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların ilköğretime hazırlanmasına yardım etmek",
+          "images": [],
+          "text_ar": "مساعدة الأطفال على الاستعداد للتعليم الابتدائي"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların kitaplara ilgi duymasını sağlamak",
+          "images": [],
+          "text_ar": "جعل الأطفال يهتمون بالكتب"
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların yeni kavramlar öğrenmesine olanak sağlamak",
+          "images": [],
+          "text_ar": "إتاحة الفرصة للأطفال لتعلّم مفاهيم جديدة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların okuma yazma öğrenmesini sağlamak",
+          "images": [],
+          "text_ar": "تمكين الأطفال من تعلّم القراءة والكتابة"
+        },
+        {
+          "letter": "E",
+          "text": "Okuryazarlığın önemine dikkat çekmek",
+          "images": [],
+          "text_ar": "لفت الانتباه إلى أهمية القراءة والكتابة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من فوائد أنشطة الاستعداد للقراءة والكتابة في مرحلة ما قبل المدرسة؟"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi el ve göz eşgüdümünün gelişimine yönelik etkinliklerden birisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nefes açıcı çalışmalar",
+          "images": [],
+          "text_ar": "تمارين التنفس"
+        },
+        {
+          "letter": "B",
+          "text": "Eksilen nesneyi bulma çalışmaları",
+          "images": [],
+          "text_ar": "تمارين العثور على الشيء الناقص"
+        },
+        {
+          "letter": "C",
+          "text": "Dikkat ve odaklanma çalışmaları",
+          "images": [],
+          "text_ar": "تمارين الانتباه والتركيز"
+        },
+        {
+          "letter": "D",
+          "text": "Yatay, dikey ve dairesel çizgi çalışmaları",
+          "images": [],
+          "text_ar": "تمارين الخطوط الأفقية والعمودية والدائرية"
+        },
+        {
+          "letter": "E",
+          "text": "Sembelleri tanıma çalışmaları",
+          "images": [],
+          "text_ar": "تمارين التعرف على الرموز"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي من الأنشطة الموجهة لتنمية التناسق بين اليد والعين؟"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi yazma becerilerini desteklemeye yöenlik yapılan sanat etkinliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kalem tutma",
+          "images": [],
+          "text_ar": "الإمساك بالقلم"
+        },
+        {
+          "letter": "B",
+          "text": "Kolaj çalışmaları",
+          "images": [],
+          "text_ar": "أعمال الكولاج"
+        },
+        {
+          "letter": "C",
+          "text": "Engel atlama",
+          "images": [],
+          "text_ar": "تجاوز الحواجز"
+        },
+        {
+          "letter": "D",
+          "text": "Fermuar açma",
+          "images": [],
+          "text_ar": "فتح السحّاب"
+        },
+        {
+          "letter": "E",
+          "text": "Düğme ilikleme",
+          "images": [],
+          "text_ar": "إدخال الأزرار في العُرى"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي من الأنشطة الفنية التي تُنفّذ لدعم مهارات الكتابة؟"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki ifadelerden hangisi okula uyum kavramını en kapsamlı şekilde açıklamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların okul başarısına destek olarak akademik gelişimine katkı sağlama",
+          "images": [],
+          "text_ar": "المساهمة في النمو الأكاديمي للأطفال دعمًا لنجاحهم المدرسي"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların çevresiyle iletişim becerilerini geliştirerek sosyal becerilerini destekleme",
+          "images": [],
+          "text_ar": "دعم المهارات الاجتماعية للأطفال من خلال تنمية مهارات التواصل مع محيطهم"
+        },
+        {
+          "letter": "C",
+          "text": "Duygu kontrolü, öz düzenleme becerilerini geliştirerek duygusal gelişimlerini destekleme",
+          "images": [],
+          "text_ar": "دعم النمو العاطفي للأطفال من خلال تنمية ضبط الانفعالات ومهارات التنظيم الذاتي"
+        },
+        {
+          "letter": "D",
+          "text": "Üst düzey öğrenmenin gerçekleşmesi için öğrenme ortamlarının sahip olması gereken özellikler ile öğrencilerin özelliklerinin uyumlu şekilde bir araya gelme derecesi",
+          "images": [],
+          "text_ar": "درجة توافق خصائص بيئات التعلم التي ينبغي أن تتوافر لتحقيق التعلم الرفيع مع خصائص الطلاب توافقًا متناغمًا"
+        },
+        {
+          "letter": "E",
+          "text": "Okul korkusunu yenme başarısı",
+          "images": [],
+          "text_ar": "النجاح في التغلب على الخوف من المدرسة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من العبارات التالية يشرح مفهوم التكيف مع المدرسة بأشمل صورة؟"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Türkiye’de okula uyum programları hangi yıldan itibaren uygulanmaya başlamıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2006-2007",
+          "images": [],
+          "text_ar": "عام 2006-2007"
+        },
+        {
+          "letter": "B",
+          "text": "2002-2003",
+          "images": [],
+          "text_ar": "عام 2002-2003"
+        },
+        {
+          "letter": "C",
+          "text": "2012-2013",
+          "images": [],
+          "text_ar": "عام 2012-2013"
+        },
+        {
+          "letter": "D",
+          "text": "2019-2020",
+          "images": [],
+          "text_ar": "عام 2019-2020"
+        },
+        {
+          "letter": "E",
+          "text": "2016-2017",
+          "images": [],
+          "text_ar": "عام 2016-2017"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "منذ أي عام بدأت برامج التكيف مع المدرسة تُطبّق في تركيا؟"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Okul öncesi eğitim uyum programında aşağıda belirtilen hangi konuya ilişkin etkinliklere yer verilmemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanıma ve Tanışma",
+          "images": [],
+          "text_ar": "التعرف والتعارف"
+        },
+        {
+          "letter": "B",
+          "text": "Okulu ve Çalışanlarını Tanıma",
+          "images": [],
+          "text_ar": "التعرف على المدرسة والعاملين فيها"
+        },
+        {
+          "letter": "C",
+          "text": "Ölçme ve Değerlendirme",
+          "images": [],
+          "text_ar": "القياس والتقييم"
+        },
+        {
+          "letter": "D",
+          "text": "Öğrenme Merkezlerini Tanıma",
+          "images": [],
+          "text_ar": "التعرف على مراكز التعلم"
+        },
+        {
+          "letter": "E",
+          "text": "Aile Toplantısı",
+          "images": [],
+          "text_ar": "اجتماع الأسرة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من الموضوعات التالية لم تُدرج أنشطة تتعلق به في برنامج التكيف في التعليم ما قبل المدرسة؟"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Türkiye’de okul öncesi ve ilkokulda uygulanan okula uyum programının ne kadar süre uygulanması beklemektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1 ay",
+          "images": [],
+          "text_ar": "شهر واحد"
+        },
+        {
+          "letter": "B",
+          "text": "3 gün",
+          "images": [],
+          "text_ar": "3 أيام"
+        },
+        {
+          "letter": "C",
+          "text": "5 gün",
+          "images": [],
+          "text_ar": "5 أيام"
+        },
+        {
+          "letter": "D",
+          "text": "2 hafta",
+          "images": [],
+          "text_ar": "أسبوعان"
+        },
+        {
+          "letter": "E",
+          "text": "Dönem boyunca",
+          "images": [],
+          "text_ar": "طوال الفصل الدراسي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "كم مدة تطبيق برنامج التكيف مع المدرسة المطبّق في مرحلة ما قبل المدرسة والمدرسة الابتدائية في تركيا؟"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Okula uyum süreci ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınıfta ana dili farklı olan çocukların olması durumunda kaynaştırmaya yönelik çalışmalara ayrı bir yer verilmelidir.",
+          "images": [],
+          "text_ar": "إذا كان في الصف أطفال لغتهم الأم مختلفة، ينبغي تخصيص حيّز مستقل للأنشطة الموجهة لدمجهم."
+        },
+        {
+          "letter": "B",
+          "text": "Okul öncesi ve ilkokul için ortak bir uyum programı kullanılmaktadır.",
+          "images": [],
+          "text_ar": "يُستخدم برنامج تكيف مشترك لمرحلة ما قبل المدرسة والمدرسة الابتدائية."
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların hassas bir dönemde olduğu dikkate alınarak onlara duygusal açıdan yaklaşılmalı ve okula yönelik kaygıları azaltılmalıdır.",
+          "images": [],
+          "text_ar": "مراعاة أن الأطفال في مرحلة حساسة، ينبغي التعامل معهم عاطفيًا وتخفيف قلقهم تجاه المدرسة."
+        },
+        {
+          "letter": "D",
+          "text": "Okula uyum çok yönlü bir süreçtir.",
+          "images": [],
+          "text_ar": "التكيف مع المدرسة عملية متعددة الأوجه."
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların yanısıra ailelere yönelik etkinlikleri de içermektedir.",
+          "images": [],
+          "text_ar": "يتضمن أنشطة موجهة إلى الأسر إلى جانب الأطفال."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح بشأن عملية التكيف مع المدرسة؟"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "İlkokul uyum programında aşağıda belirtilen hangi konuya ilişkin örnek etkinliklere yer verilmemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanışma",
+          "images": [],
+          "text_ar": "التعارف"
+        },
+        {
+          "letter": "B",
+          "text": "Okulu Tanıma",
+          "images": [],
+          "text_ar": "التعرف على المدرسة"
+        },
+        {
+          "letter": "C",
+          "text": "Aileleri Bilgilendirme",
+          "images": [],
+          "text_ar": "إعلام الأسر"
+        },
+        {
+          "letter": "D",
+          "text": "Kuralları Öğrenme",
+          "images": [],
+          "text_ar": "تعلّم القواعد"
+        },
+        {
+          "letter": "E",
+          "text": "Oyun Etkinlikleri",
+          "images": [],
+          "text_ar": "الأنشطة اللعبية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من الموضوعات التالية لم تُدرج أنشطة نموذجية تتعلق به في برنامج التكيف في المدرسة الابتدائية؟"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi okula uyum programlarını uygularken dikkat edilmesi gereken ilkelerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uyum haftasındaki etkinlikler için önceden planlama ve hazırlık yapılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي التخطيط والتحضير المسبق لأنشطة أسبوع التكيف."
+        },
+        {
+          "letter": "B",
+          "text": "Özel gereksinimli çocuklar için gerekli önlemler alınmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي اتخاذ التدابير اللازمة للأطفال ذوي الاحتياجات الخاصة."
+        },
+        {
+          "letter": "C",
+          "text": "Etkinliklerin süresi okulun ve çevrenin şartlarına göre ayarlanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي ضبط مدة الأنشطة وفق ظروف المدرسة والمحيط."
+        },
+        {
+          "letter": "D",
+          "text": "Etkinlikler uyum programda belirtilen etkinliklerden seçilmelidir.",
+          "images": [],
+          "text_ar": "ينبغي اختيار الأنشطة من الأنشطة المحددة في برنامج التكيف."
+        },
+        {
+          "letter": "E",
+          "text": "Uyum Haftası Programı rehber öğretmenlerle birlikte hazırlanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي إعداد برنامج أسبوع التكيف بالتعاون مع المرشدين المعلمين."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من المبادئ الواجب مراعاتها عند تطبيق برامج التكيف مع المدرسة؟"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi özel gereksinimli çocuklara yönelik başarılı bir geçişin ortak özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Planlama gerektirir.",
+          "images": [],
+          "text_ar": "يتطلب تخطيطًا."
+        },
+        {
+          "letter": "B",
+          "text": "Aile odaklı olmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يكون متمركزًا حول الأسرة."
+        },
+        {
+          "letter": "C",
+          "text": "Bilgi paylaşımı, karşılıklı güven ve iletişim gerektirir.",
+          "images": [],
+          "text_ar": "يتطلب تبادل المعلومات والثقة المتبادلة والتواصل."
+        },
+        {
+          "letter": "D",
+          "text": "Ebeveynleri güçlendirmelidir.",
+          "images": [],
+          "text_ar": "ينبغي أن يمكّن الوالدين."
+        },
+        {
+          "letter": "E",
+          "text": "Ebeveynleri çocuklarının ihtiyaçlarını savunmaya teşvik etmelidir.",
+          "images": [],
+          "text_ar": "ينبغي أن يشجع الوالدين على الدفاع عن احتياجات أطفالهم."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من الخصائص المشتركة للانتقال الناجح للأطفال ذوي الاحتياجات الخاصة؟"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi “Özel Eğitim Öğrencilerine Yönelik Uyum Eğitimi Etkinlikleri”nin genel amaçlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okula ve çevreye uyum sağlama",
+          "images": [],
+          "text_ar": "التكيف مع المدرسة والمحيط"
+        },
+        {
+          "letter": "B",
+          "text": "Kendini tanıma ve geliştirme becerilerini uygulama",
+          "images": [],
+          "text_ar": "تطبيق مهارات التعرف على الذات وتطويرها"
+        },
+        {
+          "letter": "C",
+          "text": "Mesleki beceriler kazandırma",
+          "images": [],
+          "text_ar": "إكساب المهارات المهنية"
+        },
+        {
+          "letter": "D",
+          "text": "Topluma uyum sağlayacak yaşam becerilerini kazanma",
+          "images": [],
+          "text_ar": "اكتساب مهارات الحياة التي تتيح التكيف مع المجتمع"
+        },
+        {
+          "letter": "E",
+          "text": "Özel eğitim gereksinimi olan öğrencilerin ailelerini de sürece katarak öğrencilerin uyum süreçlerini kolaylaştırma.",
+          "images": [],
+          "text_ar": "تسهيل عمليات تكيف الطلاب بإشراك أسر الطلاب ذوي الاحتياجات التربوية الخاصة في العملية."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من الأهداف العامة لـ«أنشطة التربية التكيفية لطلاب التربية الخاصة»؟"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi “Özel Eğitim Öğrencilerine Yönelik Uyum Eğitimi Etkinlikleri”nin ilk bölümü Rehberlik Etkinliklerinde yer alan yeterlilik alanlarındandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Günlük Yaşam Becerileri",
+          "images": [],
+          "text_ar": "مهارات الحياة اليومية"
+        },
+        {
+          "letter": "B",
+          "text": "İletişim Becerileri",
+          "images": [],
+          "text_ar": "مهارات التواصل"
+        },
+        {
+          "letter": "C",
+          "text": "Spor ve Fiziksel Etkinlikler",
+          "images": [],
+          "text_ar": "الرياضة والأنشطة البدنية"
+        },
+        {
+          "letter": "D",
+          "text": "Türkçe",
+          "images": [],
+          "text_ar": "اللغة التركية"
+        },
+        {
+          "letter": "E",
+          "text": "Kişilerarası İlişkiler",
+          "images": [],
+          "text_ar": "العلاقات بين الأشخاص"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي من مجالات الكفاية الواردة في أنشطة الإرشاد، وهي الجزء الأول من «أنشطة التربية التكيفية لطلاب التربية الخاصة»؟"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "“Duygularını tanır ve ifade eder. Başkalarının istek ve duygularını fark eder. Kendisinin ve başkalarının olumlu yönlerini ifade eder. Olumsuz duygularıyla baş etme yollarını bilir.” Şeklindeki kazanımlar hangi yeterlilik alanına ilişkin kazanımlardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kendini Kabul Yeterlik Alanı",
+          "images": [],
+          "text_ar": "مجال كفاية تقبل الذات"
+        },
+        {
+          "letter": "B",
+          "text": "Kişilerarası İlişkiler Yeterlik Alanı",
+          "images": [],
+          "text_ar": "مجال كفاية العلاقات بين الأشخاص"
+        },
+        {
+          "letter": "C",
+          "text": "Aile ve Toplum Yeterlik Alanı",
+          "images": [],
+          "text_ar": "مجال كفاية الأسرة والمجتمع"
+        },
+        {
+          "letter": "D",
+          "text": "Eğitsel Gelişim Yeterlik Alanı",
+          "images": [],
+          "text_ar": "مجال كفاية النمو التعليمي"
+        },
+        {
+          "letter": "E",
+          "text": "Okula ve Çevreye Uyum Yeterlik Alanı",
+          "images": [],
+          "text_ar": "مجال كفاية التكيف مع المدرسة والمحيط"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "«يتعرف على مشاعره ويعبر عنها. يدرك رغبات الآخرين ومشاعرهم. يعبر عن الجوانب الإيجابية في نفسه وفي الآخرين. يعرف سبل التعامل مع مشاعره السلبية.» إلى أي مجال كفاية تنتمي هذه المخرجات؟"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "Çocuklar yetenekler, yetersizlik türleri, yaşam koşulları, çevre desteği, gereksinimleri ve gereksinim düzeyleri bakımından birbirinden farklıdırlar. Aynı şekilde, çocukların ebeveynlerin de birbirinden farklı bireysel değerleri ve kaygıları mevcuttur. Bu farklılıklar göz önünde bulundurularak “Bireyselleştirilmiş Aile Hizmeti Planı ve Bireyselleştirilmiş Eğitim Programları” da sürece eklenmelidir” ifadesi başarılı bir geçişin hangi özelliğini açıklamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Planlama",
+          "images": [],
+          "text_ar": "التخطيط"
+        },
+        {
+          "letter": "B",
+          "text": "Bilgi paylaşımı, karşılıklı güven ve iletişim",
+          "images": [],
+          "text_ar": "تبادل المعلومات والثقة المتبادلة والتواصل"
+        },
+        {
+          "letter": "C",
+          "text": "Bireyselleştirilmiş geçişler",
+          "images": [],
+          "text_ar": "الانتقالات الفردية"
+        },
+        {
+          "letter": "D",
+          "text": "Ebeveynleri güçlendirme ve çocuklarının ihtiyaçlarını savunmaya teşvik etme",
+          "images": [],
+          "text_ar": "تمكين الوالدين وتشجيعهما على الدفاع عن احتياجات أطفالهما"
+        },
+        {
+          "letter": "E",
+          "text": "İyileştirilmek ve geliştirilmek üzere yapılan geçiş değerlendirmeleri",
+          "images": [],
+          "text_ar": "تقييمات الانتقال التي تُجرى للتحسين والتطوير"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "يختلف الأطفال في القدرات وأنواع القصور وظروف الحياة ودعم المحيط والاحتياجات ومستوياتها. وبالمثل، لدى آباء الأطفال أيضًا قيم فردية وقلق متفاوت. ومراعاةً لهذه الفروق، ينبغي إضافة «خطة الخدمة الأسرية الفردية والبرامج التربوية الفردية» إلى العملية». أي خصائص الانتقال الناجح يشرح هذا القول؟",
+      "review": [
+        "q22.stem: المصدر يكرر علامة الاقتباس بعد «ينبغي»؛ نُقل المعنى كما هو"
+      ]
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "“Özel Eğitim Öğrencilerine Yönelik Uyum Eğitimi Etkinlikleri”nin Aile Etkinlikleri bölümü ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okuldaki rehberlik öğretmeni tarafından uygulanması beklenir.",
+          "images": [],
+          "text_ar": "يُتوقع تنفيذها من قبل المرشد المعلم في المدرسة."
+        },
+        {
+          "letter": "B",
+          "text": "Öğrencilerin bireysel özellikleri göz önünde bulundurularak seçilen etkinlikler uygulanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي تنفيذ الأنشطة المختارة مع مراعاة الخصائص الفردية للطلاب."
+        },
+        {
+          "letter": "C",
+          "text": "Değişen sosyal yaşam kurallarını fark etme bu bölümün kazanımlarından biridir.",
+          "images": [],
+          "text_ar": "إدراك قواعد الحياة الاجتماعية المتغيرة من مخرجات هذا القسم."
+        },
+        {
+          "letter": "D",
+          "text": "Etkinliklerin tamamının uygulanması zorunludur.",
+          "images": [],
+          "text_ar": "تنفيذ جميع الأنشطة إلزامي."
+        },
+        {
+          "letter": "E",
+          "text": "Ailelere olumsuz duygularla baş etme yollarını öğretir.",
+          "images": [],
+          "text_ar": "يعلّم الأسر سبل التعامل مع المشاعر السلبية."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من المعلومات التالية عن قسم الأنشطة الأسرية في «أنشطة التربية التكيفية لطلاب التربية الخاصة» غير صحيح؟"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi “Özel Eğitim Öğrencilerine Yönelik Uyum Eğitimi Etkinlikleri”nin Öğretimsel Etkinlikler bölümünde yer alan derslerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Türkçe",
+          "images": [],
+          "text_ar": "اللغة التركية"
+        },
+        {
+          "letter": "B",
+          "text": "Hayat Bilgisi",
+          "images": [],
+          "text_ar": "الدراسات الحياتية"
+        },
+        {
+          "letter": "C",
+          "text": "Görsel Sanatlar ve El Becerileri",
+          "images": [],
+          "text_ar": "الفنون البصرية والمهارات اليدوية"
+        },
+        {
+          "letter": "D",
+          "text": "Müzik ve Oyun",
+          "images": [],
+          "text_ar": "الموسيقى واللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Serbest Etkinlikler",
+          "images": [],
+          "text_ar": "الأنشطة الحرة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من المواد الواردة في قسم الأنشطة التعليمية في «أنشطة التربية التكيفية لطلاب التربية الخاصة»؟"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "“Okul öncesi dönemde çocuklar hızlı bir gelişim ve değişim süreci içindedir. Bu dönemde çocukları tanımlayan en belirgin özellik …………….…….olmalıdır”.\nYukarıdaki boşluğa aşağıdaki seçeneklerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dinamik",
+          "images": [],
+          "text_ar": "ديناميكي"
+        },
+        {
+          "letter": "B",
+          "text": "Kararsız",
+          "images": [],
+          "text_ar": "متذبذب"
+        },
+        {
+          "letter": "C",
+          "text": "Kuşkucu",
+          "images": [],
+          "text_ar": "مشكك"
+        },
+        {
+          "letter": "D",
+          "text": "Duygusal",
+          "images": [],
+          "text_ar": "عاطفي"
+        },
+        {
+          "letter": "E",
+          "text": "Yaramaz",
+          "images": [],
+          "text_ar": "مشاغب"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "«يمرّ الأطفال في مرحلة ما قبل المدرسة بعملية نمو وتغير سريعة. وأبرز سمة تصف الأطفال في هذه المرحلة ينبغي أن تكون …………….…….»\nأي الخيارات التالية ينبغي وضعه في الفراغ أعلاه؟"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun kimliğine ilişkin bilgiler içerisinde yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Adı-Soyadı",
+          "images": [],
+          "text_ar": "اسمه ولقبه"
+        },
+        {
+          "letter": "B",
+          "text": "Doğum yeri ve tarihi",
+          "images": [],
+          "text_ar": "مكان ولادته وتاريخها"
+        },
+        {
+          "letter": "C",
+          "text": "Boy ve ağırlığı",
+          "images": [],
+          "text_ar": "طوله ووزنه"
+        },
+        {
+          "letter": "D",
+          "text": "Ev adresi / telefon numarası",
+          "images": [],
+          "text_ar": "عنوان المنزل / رقم الهاتف"
+        },
+        {
+          "letter": "E",
+          "text": "Anne ve baba adı",
+          "images": [],
+          "text_ar": "اسم الأم والأب"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يندرج ضمن المعلومات المتعلقة بهوية الطفل؟"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi çocukların okula hazır bulunuşluklarının nasıl tanımlanabileceği ve ölçülebileceği ile ilgili yaygın modellerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olgunlaştırıcı model",
+          "images": [],
+          "text_ar": "النموذج النضجي"
+        },
+        {
+          "letter": "B",
+          "text": "Çevreci model",
+          "images": [],
+          "text_ar": "النموذج البيئي"
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal yapılandırmacı model",
+          "images": [],
+          "text_ar": "النموذج البنائي الاجتماعي"
+        },
+        {
+          "letter": "D",
+          "text": "Etkileşimci model",
+          "images": [],
+          "text_ar": "النموذج التفاعلي"
+        },
+        {
+          "letter": "E",
+          "text": "Aileci model",
+          "images": [],
+          "text_ar": "النموذج الأسري"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من النماذج الشائعة لتحديد استعداد الأطفال للمدرسة وقياسه؟"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi “LOLLIPOP” testi uygulama kitabında bulunan dört alt ölçekten biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Renkleri ve şekilleri tanıma",
+          "images": [],
+          "text_ar": "التعرف على الألوان والأشكال"
+        },
+        {
+          "letter": "B",
+          "text": "Kelimeleri birleştirme",
+          "images": [],
+          "text_ar": "دمج الكلمات"
+        },
+        {
+          "letter": "C",
+          "text": "Resim tarif etme pozisyon ve uzamsal farkındalık",
+          "images": [],
+          "text_ar": "وصف الصورة والموضع والوعي المكاني"
+        },
+        {
+          "letter": "D",
+          "text": "Sayıları tanıma ve sayma",
+          "images": [],
+          "text_ar": "التعرف على الأعداد وعدّها"
+        },
+        {
+          "letter": "E",
+          "text": "Harfleri tanıma ve sayma",
+          "images": [],
+          "text_ar": "التعرف على الحروف وعدّها"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من المقاييس الفرعية الأربعة الواردة في دليل تطبيق اختبار «LOLLIPOP»؟"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "“Marmara İlköğretime Hazıroluş Ölçeği” , Polat Unutkan tarafından kaç aylık çocukların okula hazırbulunuşluklarını belirlemek amacıyla geliştirilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "60-56",
+          "images": [],
+          "text_ar": "60-56 شهرًا"
+        },
+        {
+          "letter": "B",
+          "text": "60-70",
+          "images": [],
+          "text_ar": "60-70 شهرًا"
+        },
+        {
+          "letter": "C",
+          "text": "60-78",
+          "images": [],
+          "text_ar": "60-78 شهرًا"
+        },
+        {
+          "letter": "D",
+          "text": "56-70",
+          "images": [],
+          "text_ar": "56-70 شهرًا"
+        },
+        {
+          "letter": "E",
+          "text": "56-78",
+          "images": [],
+          "text_ar": "56-78 شهرًا"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "«مقياس الاستعداد للتعليم الابتدائي في مرمرة» أعدّته بولات أونوتكان لتحديد استعداد الأطفال في أي مدى عمري للمدرسة؟"
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi çocukları tanıma ve değerlendirme için gerekli olan ilkelerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kelime Anlama",
+          "images": [],
+          "text_ar": "فهم الكلمات"
+        },
+        {
+          "letter": "B",
+          "text": "Cümleler",
+          "images": [],
+          "text_ar": "الجمل"
+        },
+        {
+          "letter": "C",
+          "text": "Genel Bilgi",
+          "images": [],
+          "text_ar": "المعرفة العامة"
+        },
+        {
+          "letter": "D",
+          "text": "Eşleştirme",
+          "images": [],
+          "text_ar": "المطابقة"
+        },
+        {
+          "letter": "E",
+          "text": "Kültürel farklıklar",
+          "images": [],
+          "text_ar": "الفروق الثقافية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من المبادئ اللازمة لتعرف الأطفال وتقييمهم؟"
+    },
+    {
+      "n": 31,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Brainline Okula Hazırbulunuşluğu Değerlendirme Testinin bölümlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözlem",
+          "images": [],
+          "text_ar": "الملاحظة"
+        },
+        {
+          "letter": "B",
+          "text": "Gözlem ve Egzersiz",
+          "images": [],
+          "text_ar": "الملاحظة والتمارين"
+        },
+        {
+          "letter": "C",
+          "text": "Matematik Becerileri",
+          "images": [],
+          "text_ar": "مهارات الرياضيات"
+        },
+        {
+          "letter": "D",
+          "text": "Dil Gelişimi",
+          "images": [],
+          "text_ar": "تطور اللغة"
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal ve Duygusal Gelişim",
+          "images": [],
+          "text_ar": "النمو الاجتماعي والعاطفي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أقسام اختبار Brainline لتقييم الاستعداد للمدرسة؟"
+    },
+    {
+      "n": 32,
+      "type": "legacy_text",
+      "stem": "“BRIGANCE K & 1 Tarama Envanteri” kaç alt testen oluşur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "8",
+          "images": [],
+          "text_ar": "8 اختبارات فرعية"
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "images": [],
+          "text_ar": "10 اختبارات فرعية"
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "images": [],
+          "text_ar": "12 اختبارًا فرعيًا"
+        },
+        {
+          "letter": "D",
+          "text": "14",
+          "images": [],
+          "text_ar": "14 اختبارًا فرعيًا"
+        },
+        {
+          "letter": "E",
+          "text": "23",
+          "images": [],
+          "text_ar": "23 اختبارًا فرعيًا"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "من كم اختبار فرعي يتكوّن «مخزون BRIGANCE K & 1 للفحص»؟"
+    },
+    {
+      "n": 33,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi “Okula Hazırbulunuşluğu Değerlendirme Amaçları”ndan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrenmeyi geliştirme",
+          "images": [],
+          "text_ar": "تطوير التعلم"
+        },
+        {
+          "letter": "B",
+          "text": "Özel eğitime gereksinimli çocukları belirleme",
+          "images": [],
+          "text_ar": "تحديد الأطفال ذوي الاحتياجات التربوية الخاصة"
+        },
+        {
+          "letter": "C",
+          "text": "Programı değerlendirme",
+          "images": [],
+          "text_ar": "تقييم البرنامج"
+        },
+        {
+          "letter": "D",
+          "text": "Zaman içinde değişen eğilimi yakalama",
+          "images": [],
+          "text_ar": "رصد الاتجاه المتغير بمرور الوقت"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukları akranları ile karşılaştırma",
+          "images": [],
+          "text_ar": "مقارنة الأطفال بأقرانهم"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من «أهداف تقييم الاستعداد للمدرسة»؟"
+    },
+    {
+      "n": 34,
+      "type": "legacy_text",
+      "stem": "“Sosyal yapılandırmacı modele “ göre çocukların hazırbulunuşluklarını değerlendirirken hangi ilke göz önünde bulundurulmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yerel koşullara uyum sağlama",
+          "images": [],
+          "text_ar": "التكيف مع الظروف المحلية"
+        },
+        {
+          "letter": "B",
+          "text": "Farklı ölçme tekniklerinden yararlanma",
+          "images": [],
+          "text_ar": "الاستفادة من تقنيات قياس مختلفة"
+        },
+        {
+          "letter": "C",
+          "text": "Var olan araçları kullanma",
+          "images": [],
+          "text_ar": "استخدام الأدوات الموجودة"
+        },
+        {
+          "letter": "D",
+          "text": "Ailenin sosyo-ekonomik durumu",
+          "images": [],
+          "text_ar": "الوضع الاجتماعي-الاقتصادي للأسرة"
+        },
+        {
+          "letter": "E",
+          "text": "Okula başlayacak çocukların kolektif durumlarına odaklanma",
+          "images": [],
+          "text_ar": "التركيز على الأوضاع الجماعية للأطفال الملتحقين بالمدرسة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "وفق «النموذج البنائي الاجتماعي»، أي مبدأ لا يُراعى عند تقييم استعداد الأطفال؟"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "e78a47ef3908bc57d0a5992a7a14c1b886c5d4475e0ba807e98cea334995a202"
+}

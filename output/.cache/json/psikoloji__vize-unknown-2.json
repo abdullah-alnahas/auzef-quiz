@@ -1,0 +1,739 @@
+{
+  "course": "Psikoloji ve Psikolojiye Giriş – 1",
+  "course_slug": "psikoloji",
+  "exam": "Vize Soruları",
+  "exam_slug": "vize-unknown-2",
+  "page_title": "Psikoloji Online Test (Vize)",
+  "source_url": "https://lolonolo.com/2019/10/02/psikoloji-vize/",
+  "scraped_at": "2026-11-12T02:21:39+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Bir zeka testinin sahip olması gereken özellikler bakımından aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Test her birey için özel olarak hazırlanmış sorulardan oluşmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlgili ülke için norm değerleri belirlenmiş olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Standardizasyon, geçerlik ve güvenirlik çalışmaları yapılmış olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaş grupları için ortalama ham puanlar hesaplanmış olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Testi uygulama ve yorumlamayla ilgili eğitim almış bir testör tarafından uygulanmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Catell’in zeka kuramını tanımlayan ifade aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Üçlü başarılı zeka kuramını ortaya atmıştır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İki kümede topladığı zihinsel yetenekleri tanımlamıştır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zekanın genel olduğunu söylemiştir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bazı açılardan bağımsız 7 zihinsel yetenek belirlemiştir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çoklu zeka kuramını geliştirmiştir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki kuramcılardan hangisi insanların bir ihtiyaçlar hiyerarşisine sahip olduklarını iddia etmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Seligman",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Rogers",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Freud",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Maslow",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Plutchik",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Paralel Dağılımlı Bilgi İşleme Modeli nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilginin insanlara özgü bir olgu olduğunu öne süren modeldir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilginin bilgisayara benzer bir şekilde işlendiğini öne süren modeldir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilginin zihinde yapılandırıldığını öne süren modeldir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilginin nörolojik ağlara benzer bir şekilde işlendiğini öne süren modeldir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilginin öğrenme deneyimlerine dayandığını öne süren modeldir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Darwin, bazı duyguların ifade edilişindeki benzerliği aşağıdakilerden hangisinin bir göstergesi olarak kabul etmiştir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genetik değişkenlik avantajlıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Duygular en sağlıklı türün yaşamasını sağlar .",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bütün türler duyguları öğrenirler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnsanların duyguları benzersizdir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duygular türlerin evriminin bir parçasıdır ve tüm kültürlerde benzer yapılar izlenebilir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Yaratıcılık ve zeka arasındaki ilişkilerle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaratıcılık zekanın bir işlevidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ortalama bir zeka seviyesinden sonra, zeka ile yaratıcılık arasında bir ilişki yoktur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaratıcı bireyler aynı zamanda üstün zekalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zeki olmak ile yaratıcı olmak arasında bir bağlantı bulunmamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Üstün zekalı bireyler aynı zamanda yaratıcıdır",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Hangisi bir problem çözme yolu değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kontrol etme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geriye doğru çalışma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Deneme-yanılma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Höristik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Algoritma",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "“Uyarılmışlık düzeyinin performansı etkileme derecesi, bireyin göreve aşinalığına veya görevin kolaylığına/zorluğuna bağlıdır” ifadesi hangi isimle bilinen ilkeyi tanımlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Papez-Mclean",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Müller-Lyer",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yerkes-Dodson",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "James-Lange",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Cannon-Bard",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Şeyleri birtakım ortak özelliklerine göre sınıflandırabilmek ve bu yolla düzenleyebilmek için kullanılan yapılara ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Teori",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zihinsel temsil",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sıfat",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kavram",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Tomasello’nun insanlarda dil olgusu hakkında öne sürdüğü hipotez hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireyin dünyaya ilişkin düşünme biçimleri, konuştuğu dilin bir ürünüdür",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Daha çok türdeşlerimizle iletişim kurmak, birbirimizi anlamak ve birbirimizden öğrenmek gibi doğuştan getirdiğimiz başka sosyal eğilimlerimizin bir yan ürünüdür",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Beynin sol yarı küresinde bulunan ve sözcük anlama işlevi olan Wernicke bölgesinin bir ürünüdür",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ses bilgisi, söz dizimi ve anlam bilgisini içeren bazı özellikleri ve kuralları çok erken yaşlarda algılamamızı sağlayan, doğuştan getirdiğimiz Dil Edinim Aracı’nın bir ürünüdür",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Beyinde sol frontal lobda bulunan ve sözcük üretme işlevi olan Broca bölgesinin bir ürünüdür",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Freudyen teoride bireyin dürtüleri ve tutkuları dizginleyerek bir polis memuru gibi davranan yönüne ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İd",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Libido",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Süperego",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ego",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Savunma mekanizması",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki kavramlardan hangisi kişilik tanımlanırken vurgulanmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değişkenlik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ayırt edicilik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zaman içinde tutarlılık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Benzersizlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Nisbeten kalıcılık",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Bir dilde daha küçük yapılara bölündüğünde anlamını kaybeden yapıya ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fenomen",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İsim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fonem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Olgu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Morfem",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Kısa zamanda optimum hızda ve etkide yargılama yolu hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anlama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Deneme-yanılma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Algoritma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zihinsel çevirme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Höristik",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "İnsanların problem çözme becerileri ile ilk ilgilenen yaklaşım hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hümanizm",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Evrimsel",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Psikoterapi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gestalt",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki yüz ifadelerinden hangisi evresel olarak kabul edilen 7 duygudan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Korku",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mutluluk",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İğrenme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Endişe",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aşağılama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bir duygu hissettiğimiz durumları tanımlayan bileşenlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olay, nesne ya da düşünceyi yorumlama ve değerlendirme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Olay, nesne ya da düşünceyi fark etme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Harekete geçme veya bir tepki üretme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Uygun fizyolojik tepkilerin oluşması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Uygun fizyolojik tepkilerin ortadan kalkması",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Hangisi yaratıcı bireylerde sık rastlanan kişilik özelliği değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bağımsız davranma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yeni deneyimler yaşamaktan kaçınmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karmaşık/zor olana eğilim göstermek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Belirsizliğe tolerans",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Risk almak",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Zajong’a göre aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hızlı duygusal tepki üretme amigdala sayesinde gerçekleşir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Önce tehdit edici bulunup tepki verilen bir uyaran, bilişsel değerlendirmeden sonra tehdit edici bulunmayabilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir duygu hissetmek için önce bilişsel değerlendirme yapılması gerekmez.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel değerlendirmeler duygulardan daha yavaş ortaya çıkarlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnsanlar bilişsel değerlendirme yapmadan duygusal tepki vermezler.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Yaratıcı bireylerin özellikleri ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaratıcı bireyler her zaman esprili ve şakacı insanlardır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bir bireyin yaratıcı olması için evrensel değeri olan özgün bir üretimi olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaratıcı bireylerin çoğunda akıl hastalıkları görülür.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaratıcı bireyler sınırlı bir ilgi alanı çeşitliliğine sahiptir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaratıcı bireylerin merak ve kurcalama güdülerinin yüksek olduğu düşünülmektedir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "61ba8858b7b2a82d1edc5f4e68219bad37b52ee2e0cc9ec734d4214ae2bde49b"
+}

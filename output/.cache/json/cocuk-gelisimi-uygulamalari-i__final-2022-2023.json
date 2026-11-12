@@ -1,0 +1,865 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "2022-2023 Final Soruları",
+  "exam_slug": "final-2022-2023",
+  "page_title": "Çocuk Gelişimi Uygulamaları-1 2022-2023 Final Soruları",
+  "source_url": "https://lolonolo.com/2023/01/05/cocuk-gelisimi-uygulamalari-1-2022-2023-final-sorulari/",
+  "scraped_at": "2026-11-12T02:21:12+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Denver II gelişim tarama testinde değerlendirilen alanlardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun alanı",
+          "images": [],
+          "text_ar": "مجال اللعب"
+        },
+        {
+          "letter": "B",
+          "text": "Görsel alan",
+          "images": [],
+          "text_ar": "المجال البصري"
+        },
+        {
+          "letter": "C",
+          "text": "İşitme alanı",
+          "images": [],
+          "text_ar": "مجال السمع"
+        },
+        {
+          "letter": "D",
+          "text": "Dil alanı",
+          "images": [],
+          "text_ar": "مجال اللغة"
+        },
+        {
+          "letter": "E",
+          "text": "Aritmetik alan",
+          "images": [],
+          "text_ar": "المجال الحسابي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي من المجالات التي يقيّمها اختبار دنفر II للمسح النمائي؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Okul öncesi çocukların gelişimsel özellikleri hakkında aşağıdaki bilgilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yeni şeyler öğrenmeye veya denemeye İsteksizdirler.",
+          "images": [],
+          "text_ar": "يُبدون عدم رغبة في تعلّم أشياء جديدة أو تجربتها."
+        },
+        {
+          "letter": "B",
+          "text": "Örnek alarak öğrenmeye açıktırlar.",
+          "images": [],
+          "text_ar": "لديهم استعداد للتعلّم عن طريق القدوة."
+        },
+        {
+          "letter": "C",
+          "text": "Öz kontrol becerileri gelişmiştir.",
+          "images": [],
+          "text_ar": "مهارات ضبط الذات لديهم متطوّرة."
+        },
+        {
+          "letter": "D",
+          "text": "Bir konu üzerinde uzunca bir süre dikkatlerini sürdürebilirler.",
+          "images": [],
+          "text_ar": "يستطيعون إدامة انتباههم إلى موضوع واحد مدة طويلة."
+        },
+        {
+          "letter": "E",
+          "text": "Soyutlama becerileri yeterince gelişmiştir.",
+          "images": [],
+          "text_ar": "مهارات التجريد لديهم متطوّرة بما فيه الكفاية."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من المعلومات التالية عن الخصائص النمائية لأطفال ما قبل المدرسة صحيح؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Dikkat eksikliği ve hiperaktivite bozukluğu hakkında aşağıda verilen ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çok nadir görülen bir nörogelişimsel bozukluktur.",
+          "images": [],
+          "text_ar": "هو اضطراب نمائي عصبي نادر جدًا."
+        },
+        {
+          "letter": "B",
+          "text": "Çok yeni bir rahatsızlıktır.",
+          "images": [],
+          "text_ar": "هو اضطراب حديث جدًا."
+        },
+        {
+          "letter": "C",
+          "text": "Ailelere verilen psikoeğitimin tedavide yeri yoktur.",
+          "images": [],
+          "text_ar": "لا مكان للتربية النفسية المقدَّمة للأسرة في العلاج."
+        },
+        {
+          "letter": "D",
+          "text": "Tedavide ilaçlar kullanılır.",
+          "images": [],
+          "text_ar": "تُستخدم الأدوية في العلاج."
+        },
+        {
+          "letter": "E",
+          "text": "Diğer psikiyatrik bozukluklarla birlikte görülmez.",
+          "images": [],
+          "text_ar": "لا يظهر مع غيره من الاضطرابات النفسية."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من العبارات التالية عن اضطراب نقص الانتباه وفرط النشاط صحيح؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi konuşma gecikmesi olan bir çocukta değerlendirilmesi gereken konulardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ailede konuşma gecikmesi olan bireylerin bulunup bulunmadığı",
+          "images": [],
+          "text_ar": "وجود أفراد في الأسرة يعانون تأخرًا في الكلام"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun iletişim kurma konusunda problemleri olup olmaması",
+          "images": [],
+          "text_ar": "وجود مشكلات لدى الطفل في التواصل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocukta işitme problemi olup olmadığı",
+          "images": [],
+          "text_ar": "وجود مشكلة سمعية لدى الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukta gelişim geriliği olup olmadığı",
+          "images": [],
+          "text_ar": "وجود تأخر في النمو لدى الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun aritmetik becerileri",
+          "images": [],
+          "text_ar": "مهارات الطفل الحسابية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من الأمور التي يجب تقييمها في طفل يعاني تأخرًا في الكلام؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Diskalkuli teriminin anlamı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Matematik bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب الرياضيات"
+        },
+        {
+          "letter": "B",
+          "text": "İşitme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب السمع"
+        },
+        {
+          "letter": "C",
+          "text": "Görme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب البصر"
+        },
+        {
+          "letter": "D",
+          "text": "Yazma bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب الكتابة"
+        },
+        {
+          "letter": "E",
+          "text": "Okuma bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب القراءة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما معنى مصطلح الديسكالكوليا؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "I. İlaç tedavisi II. Ebeveyn ve çocuğa yönelik psikoeğitim ve danışmanlık III. Bireysel terapi IV. Hastane yatışı Yukarıdakilerden hangileri davranış sorunları olan çocukların yönetiminde kabul edilebilir uygulamalardandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        },
+        {
+          "letter": "D",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "E",
+          "text": "II ve IV",
+          "images": [],
+          "text_ar": "II وIV"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. العلاج الدوائي\nII. التربية النفسية والإرشاد الموجَّهان إلى الوالدين والطفل\nIII. العلاج الفردي\nIV. الإقامة في المستشفى\nأي مما ورد أعلاه من التطبيقات المقبولة في إدارة الأطفال ذوي المشكلات السلوكية؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki hangisi dikkat eksikliği ve hiperaktivite bozukluğu için yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aşırı hareketlilik ile ilgili sorunlar görülür.",
+          "images": [],
+          "text_ar": "تظهر مشكلات متعلقة بفرط الحركة."
+        },
+        {
+          "letter": "B",
+          "text": "Kaygılarla ilgili belirtiler görülür.",
+          "images": [],
+          "text_ar": "تظهر أعراض متعلقة بالقلق."
+        },
+        {
+          "letter": "C",
+          "text": "Dikkatle ilgili problemler görülür.",
+          "images": [],
+          "text_ar": "تظهر مشكلات متعلقة بالانتباه."
+        },
+        {
+          "letter": "D",
+          "text": "Gelişimsel bir bozukluktur.",
+          "images": [],
+          "text_ar": "هو اضطراب نمائي."
+        },
+        {
+          "letter": "E",
+          "text": "Dürtüsellikle ilgili problemler görülür.",
+          "images": [],
+          "text_ar": "تظهر مشكلات متعلقة بالاندفاعية."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح بشأن اضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "I. Bir gelişim testi olduğu, zeka puanı vermeye yönelik olmadığı II. Test sonunda çocuğa psikiyatrik bir tanı konulacağı III. Ebeveyne de bazı soruların yöneltilebileceği IV. Çocuğun yapamadığı maddelerde çocuğa yardım etmesi gerektiği Yukarıdakilerden hangileri Denver II gelişim tarama testine başlarken ebeveynlere verilen bilgilerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "D",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        },
+        {
+          "letter": "E",
+          "text": "II ve IV",
+          "images": [],
+          "text_ar": "II وIV"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "I. أنه اختبار نمو ولا يهدف إلى إعطاء درجة ذكاء\nII. أنه ستُوضع للطفل تشخيصية نفسية بعد الاختبار\nIII. أنه يمكن توجيه بعض الأسئلة إلى أحد الوالدين\nIV. أنه ينبغي مساعدة الطفل في الفقرات التي لا يستطيع أداءها\nأي مما ورد أعلاه من المعلومات التي تُقدَّم للوالدين عند البدء باختبار دنفر II للمسح النمائي؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "I. Dikkatini sürdürememe II. Sabırsızlık III. Mutsuzluk IV. Korkular Yukarıdaki belirtilerden hangileri dikkat eksikliği ve hiperaktivite bozukluğuna özgü bir belirtidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "D",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        },
+        {
+          "letter": "E",
+          "text": "II ve IV",
+          "images": [],
+          "text_ar": "II وIV"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. عدم القدرة على إدامة الانتباه\nII. نفاد الصبر\nIII. التعاسة\nIV. المخاوف\nأي من الأعراض المذكورة أعلاه عرض خاص باضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Otizm spektrum bozukluğu tanısı olan 6 yaşında bir çocuk annesiyle birlikte çocuk gelişim uzmanına başvuruyor. I. Akranları ile grup oyunları oynayıp oynayamadığı II. Kaç ay anne sütü aldığı III. Göz teması ve ortak dikkatinin ne düzeyde olduğu IV. Sterotipik davranışlarının olup olmadığı Bu çocukla ilgili sadece iyi bir gözlemle yukarıda belirtilen durumların hangileri hakkında bilgi sahibi olunabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I وIV"
+        },
+        {
+          "letter": "C",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "D",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        },
+        {
+          "letter": "E",
+          "text": "II ve IV",
+          "images": [],
+          "text_ar": "II وIV"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "تتوجّه أمّ مع طفلها البالغ من العمر 6 سنوات، والذي شُخِّص باضطراب طيف التوحد، إلى اختصاصي نمو الطفل.\nI. ما إذا كان يستطيع اللعب بألعاب جماعية مع أقرانه\nII. عدد الأشهر التي رضع فيها من ثدي أمه\nIII. مستوى التواصل البصري والانتباه المشترك لديه\nIV. ما إذا كانت لديه سلوكيات نمطية\nبأي من الحالات المذكورة أعلاه يمكن الإلمام من خلال ملاحظة جيدة فقط لهذا الطفل؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki nörolleticilerden hangisi dikkat eksikliği ve hiperaktivite bozukluğunun etiyolojisinde önemli rol oynamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tiroid",
+          "images": [],
+          "text_ar": "الغدة الدرقية"
+        },
+        {
+          "letter": "B",
+          "text": "Dopamin",
+          "images": [],
+          "text_ar": "الدوبامين"
+        },
+        {
+          "letter": "C",
+          "text": "Östrojen",
+          "images": [],
+          "text_ar": "الإستروجين"
+        },
+        {
+          "letter": "D",
+          "text": "Melatonin",
+          "images": [],
+          "text_ar": "الميلاتونين"
+        },
+        {
+          "letter": "E",
+          "text": "Prolaktin",
+          "images": [],
+          "text_ar": "البرولاكتين"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من النواقل العصبية التالية يلعب دورًا مهمًا في مسبّبات اضطراب نقص الانتباه وفرط النشاط؟",
+      "review": [
+        "q11.stem: «nörolletici» على الأرجح خطأ مطبعي عن «nöroiletici» (ناقل عصبي)، فترجمتها على هذا الأساس مع بقاء «الغدة الدرقية» بين الخيارات."
+      ]
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Dikkat eksikliğinin azaltılması için aşağıdakilerden hangisi önerilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dikkati dağıtacak görsel uyaranların azaltılması",
+          "images": [],
+          "text_ar": "تقليل المثيرات البصرية المشتِّتة للانتباه"
+        },
+        {
+          "letter": "B",
+          "text": "Dikkati dağıtacak işitsel uyaranların artırılması",
+          "images": [],
+          "text_ar": "زيادة المثيرات السمعية المشتِّتة للانتباه"
+        },
+        {
+          "letter": "C",
+          "text": "Dikkati dağınık olduğu için hiçbir ödevlerini annesinin yapması",
+          "images": [],
+          "text_ar": "أن تقوم الأم بواجباته كلها لأنه مشتّت الانتباه"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun ders çalışırken bir yere bağlanması",
+          "images": [],
+          "text_ar": "تقييد الطفل في مكان أثناء الدراسة"
+        },
+        {
+          "letter": "E",
+          "text": "Ödev ve görevlerin bir seferde tamamlanması",
+          "images": [],
+          "text_ar": "إنجاز الواجبات والمهام دفعة واحدة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي يمكن اقتراحه لتقليل نقص الانتباه؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "I. Çocukların gelişim sürecini olumsuz etkiler. II. Çocuğun gelişimsel zorluklarının fark edilmesini kolaylaştırır. III. Çocukların öz güvenlerinin gelişmesine yardım IV. Sağlıksız beslenme alışkanlıklarının gelişmesini kolaylaştırır. Kreş ortamıyla ilgili yukarıdaki ifadelerden hangileri yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve IV",
+          "images": [],
+          "text_ar": "II وIV"
+        },
+        {
+          "letter": "B",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "E",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I وIV"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. يؤثر سلبًا في عملية نمو الأطفال.\nII. يسهّل ملاحظة الصعوبات النمائية للطفل.\nIII. يساعد على تنمية ثقة الأطفال بأنفسهم.\nIV. يسهّل تكوّن عادات غذائية غير صحية.\nأي من العبارات المذكورة أعلاه والمتعلقة ببيئة الحضانة غير صحيحة؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "İdrar kaçırma problemi için aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İdrar kaçırma problemleri sıklıkla anne babanın çocuk yetiştirme stili nedeniyle ortaya çıkar.",
+          "images": [],
+          "text_ar": "غالبًا ما تنشأ مشكلات التبول اللا إرادي بسبب أسلوب الوالدين في تنشئة الطفل."
+        },
+        {
+          "letter": "B",
+          "text": "İdrar kaçırma problemlerinde tedavisiz iyileşme nadirdir.",
+          "images": [],
+          "text_ar": "الشفاء دون علاج في مشكلات التبول اللا إرادي نادر."
+        },
+        {
+          "letter": "C",
+          "text": "Daha büyük çocuklarda idrar kaçırma problemi küçük çocuklara göre daha sıktır.",
+          "images": [],
+          "text_ar": "مشكلة التبول اللا إرادي أكثر شيوعًا لدى الأطفال الأكبر سنًا منها لدى الأطفال الصغار."
+        },
+        {
+          "letter": "D",
+          "text": "İdrar kaçırma probleminin tedavisinde çocuğun gün İçinde aldığı sıvı miktarının azaltılması önemlidir.",
+          "images": [],
+          "text_ar": "من المهم في علاج مشكلة التبول اللا إرادي تقليل كمية السوائل التي يتناولها الطفل خلال اليوم."
+        },
+        {
+          "letter": "E",
+          "text": "İdrar kaçırma probleminin tedavisinde öncelikli olarak davranışçı yöntemler kullanılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي في علاج مشكلة التبول اللا إرادي استخدام الأساليب السلوكية أولًا."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي صحيح بشأن مشكلة التبول اللا إرادي؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Otizm spektrum bozukluğu olan bir çocukta aşağıdaki gelişimsel veya işlevsellik alanlarından hangisinde belirgin sorunlar olması tanı koydurucudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öz bakım becerileri",
+          "images": [],
+          "text_ar": "مهارات العناية بالذات"
+        },
+        {
+          "letter": "B",
+          "text": "Okul başarısı",
+          "images": [],
+          "text_ar": "التحصيل الدراسي"
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal iletişim ve etkileşim",
+          "images": [],
+          "text_ar": "التواصل والتفاعل الاجتماعي"
+        },
+        {
+          "letter": "D",
+          "text": "Beslenme ve tuvalet alışkanlıkları",
+          "images": [],
+          "text_ar": "عادات التغذية واستخدام المرحاض"
+        },
+        {
+          "letter": "E",
+          "text": "İnce ve kaba motor beceriler",
+          "images": [],
+          "text_ar": "المهارات الحركية الدقيقة والكلية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "وجود مشكلات واضحة في أي من مجالات النمو أو الأداء الوظيفي التالية لدى طفل مصاب باضطراب طيف التوحد يُعدّ مُشخِّصًا؟",
+      "review": [
+        "q15.stem: صياغة السؤال مبتورة في المصدر؛ نقلت المعنى المقصود: هل وجود مشكلات واضحة في أحد هذه المجالات يُعدّ مُشخِّصًا."
+      ]
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukluk çağındaki nörogelişimsel bozukluklardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tik bozuklukları",
+          "images": [],
+          "text_ar": "اضطرابات العرّات"
+        },
+        {
+          "letter": "B",
+          "text": "Duygudurum bozuklukları",
+          "images": [],
+          "text_ar": "اضطرابات المزاج"
+        },
+        {
+          "letter": "C",
+          "text": "Otizm spektrum bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب طيف التوحد"
+        },
+        {
+          "letter": "D",
+          "text": "Dikkat eksikliği hiperaktivite bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب نقص الانتباه وفرط النشاط"
+        },
+        {
+          "letter": "E",
+          "text": "İletişim bozuklukları",
+          "images": [],
+          "text_ar": "اضطرابات التواصل"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من الاضطرابات النمائية العصبية في مرحلة الطفولة؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "I. Okuma alanı II. Matematik alanı III. Spor alanı IV. Duygudurum alanı Özgül öğrenme bozukluğu olan çocuklarda tanı için yukarıdaki alanlardan hangilerinde sorunlar görülmesi gerekir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I وIV"
+        },
+        {
+          "letter": "C",
+          "text": "II ve IV",
+          "images": [],
+          "text_ar": "II وIV"
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "E",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "I. مجال القراءة\nII. مجال الرياضيات\nIII. مجال الرياضة\nIV. مجال المزاج\nفي الأطفال المصابين باضطراب التعلّم النوعي، أي من المجالات المذكورة أعلاه يجب أن تظهر فيه مشكلات من أجل التشخيص؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Dört yaşında konuşma sorunu ya da gecikmesi ile başvurulan bir vakada aşağıdaki bozukluklardan hangisi bu durumun nedenlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özgül dil bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب اللغة النوعي"
+        },
+        {
+          "letter": "B",
+          "text": "Otizm spektrum bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب طيف التوحد"
+        },
+        {
+          "letter": "C",
+          "text": "İşitme kaybı",
+          "images": [],
+          "text_ar": "فقدان السمع"
+        },
+        {
+          "letter": "D",
+          "text": "Özgül öğrenme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التعلّم النوعي"
+        },
+        {
+          "letter": "E",
+          "text": "Zihinsel yetersizlik",
+          "images": [],
+          "text_ar": "القصور العقلي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "في حالة طفل في الرابعة من عمره يُراجع بسبب مشكلة أو تأخر في الكلام، أي من الاضطرابات التالية ليس من أسباب هذه الحالة؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Orta düzeyde zihinsel yetersizliği olan 18 yaşında bir ergen kız için aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal ilişkilerde espri veya şakalar yapabilir.",
+          "images": [],
+          "text_ar": "يمكنها إلقاء الدعابات أو المزاح في العلاقات الاجتماعية."
+        },
+        {
+          "letter": "B",
+          "text": "Kendi başına yemek yiyebilir, banyo yapabilir.",
+          "images": [],
+          "text_ar": "يمكنها تناول الطعام والاستحمام بنفسها."
+        },
+        {
+          "letter": "C",
+          "text": "Kendinden büyük ya da küçüklerle iyi ilişkiler kurabilir.",
+          "images": [],
+          "text_ar": "يمكنها إقامة علاقات جيدة مع من هم أكبر منها أو أصغر."
+        },
+        {
+          "letter": "D",
+          "text": "Ev işlerinde annesine yardımcı olabilir.",
+          "images": [],
+          "text_ar": "يمكنها مساعدة أمها في الأعمال المنزلية."
+        },
+        {
+          "letter": "E",
+          "text": "Akademik olarak ortaokulu bitirmiş bir çocuk düzeyindedir.",
+          "images": [],
+          "text_ar": "مستواها أكاديميًا مستوى طفل أنهى المرحلة المتوسطة."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن مراهقة تبلغ 18 عامًا تعاني قصورًا عقليًا متوسط الدرجة؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "I. Kaba motor alan II. Sözel alan III. Performans alanı Yukarıdakilerden hangisi veya hangileri Denver II gelişim tarama testinin sorguladığı gelişim alanlarındandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. مجال الحركة الكلية\nII. المجال اللفظي\nIII. مجال الأداء\nأي مما ورد أعلاه أو أي منها من مجالات النمو التي يستقصيها اختبار دنفر II للمسح النمائي؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "c1b1785bcadb2abc6dec993a3c601fff73b7a343937280649287caccf61a8ebe"
+}

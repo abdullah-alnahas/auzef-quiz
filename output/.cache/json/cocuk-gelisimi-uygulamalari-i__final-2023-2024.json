@@ -1,0 +1,859 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "2023-2024 Final Soruları",
+  "exam_slug": "final-2023-2024",
+  "page_title": "Çocuk Gelişimi Uygulamaları -1 2023-2024 Final Soruları",
+  "source_url": "https://lolonolo.com/2024/01/18/cocuk-gelisimi-uygulamalari-1-2023-2024-final-sorulari/",
+  "scraped_at": "2026-11-12T02:21:11+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aile ve Sosyal Hizmetler Bakanlığına bağlı olan Umut Evleri kimler için açılmış ve kimlere hizmet vermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Depremzede çocuklara",
+          "images": [],
+          "text_ar": "للأطفال ضحايا الزلزال"
+        },
+        {
+          "letter": "B",
+          "text": "İhmal ve istismara maruz kalmış çocuklara",
+          "images": [],
+          "text_ar": "للأطفال الذين تعرّضوا للإهمال والإساءة"
+        },
+        {
+          "letter": "C",
+          "text": "Göçmen çocuklara",
+          "images": [],
+          "text_ar": "للأطفال المهاجرين"
+        },
+        {
+          "letter": "D",
+          "text": "Engelli bireylere",
+          "images": [],
+          "text_ar": "للأفراد ذوي الإعاقة"
+        },
+        {
+          "letter": "E",
+          "text": "Okul öncesi eğitim kurumlarına devam eden çocuklara",
+          "images": [],
+          "text_ar": "للأطفال الملتحقين بمؤسسات تعليم ما قبل المدرسة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "لمن أُنشئت بيوت الأمل التابعة لوزارة الأسرة والخدمات الاجتماعية، ولمن تقدّم خدماتها؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi özel yetenekli olan bireyler için açılan kurumlardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rehberlik ve Araştırma Merkezleri",
+          "images": [],
+          "text_ar": "مراكز الإرشاد والبحث"
+        },
+        {
+          "letter": "B",
+          "text": "Uygulama Anaokulları",
+          "images": [],
+          "text_ar": "رياض الأطفال التطبيقية"
+        },
+        {
+          "letter": "C",
+          "text": "Bağımsız Anaokulları",
+          "images": [],
+          "text_ar": "رياض الأطفال المستقلة"
+        },
+        {
+          "letter": "D",
+          "text": "Fen Liseleri",
+          "images": [],
+          "text_ar": "الثانويات العلمية"
+        },
+        {
+          "letter": "E",
+          "text": "Bilim ve Sanat Merkezleri",
+          "images": [],
+          "text_ar": "مراكز العلوم والفنون"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي من المؤسسات المخصّصة للأفراد الموهوبين؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 2013 Okul Öncesi Eğitim Programı kapsamında günlük akış içinde yer almayan bir zaman dilimidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Günü Değerlendirme Zamanı",
+          "images": [],
+          "text_ar": "وقت تقييم اليوم"
+        },
+        {
+          "letter": "B",
+          "text": "Etkinlik Zamanı",
+          "images": [],
+          "text_ar": "وقت النشاط"
+        },
+        {
+          "letter": "C",
+          "text": "Oyun Zamanı",
+          "images": [],
+          "text_ar": "وقت اللعب"
+        },
+        {
+          "letter": "D",
+          "text": "Serbest Zaman",
+          "images": [],
+          "text_ar": "الوقت الحر"
+        },
+        {
+          "letter": "E",
+          "text": "Güne Başlama Zamanı",
+          "images": [],
+          "text_ar": "وقت بدء اليوم"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس فترة زمنية ضمن التدفق اليومي في برنامج تعليم ما قبل المدرسة لعام 2013؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimcilerinin toplum sağlığı merkezlerindeki görevleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitimler verme",
+          "images": [],
+          "text_ar": "تقديم تدريبات"
+        },
+        {
+          "letter": "B",
+          "text": "Öğrencilere birebir ders verme",
+          "images": [],
+          "text_ar": "تدريس الطلاب فرديًا"
+        },
+        {
+          "letter": "C",
+          "text": "Resmî yazışmaları yürütme",
+          "images": [],
+          "text_ar": "إجراء المراسلات الرسمية"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk odaklı aile danışmanlığı yapma",
+          "images": [],
+          "text_ar": "تقديم الإرشاد الأسري الموجّه للطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Gelişimsel değerlendirmeler yapma",
+          "images": [],
+          "text_ar": "إجراء تقييمات نمائية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من مهام أخصائيي نمو الطفل في مراكز صحة المجتمع؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Bir Aile Danışma Merkezi açmayı planlarken, hangi 3 farklı bölümün olması gerekmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bekleme Salonu – Görüşme Odası – Diğer Bölümler",
+          "images": [],
+          "text_ar": "صالة الانتظار – غرفة المقابلة – أقسام أخرى"
+        },
+        {
+          "letter": "B",
+          "text": "Oyun Salonu – Terapi Salonu – Mutfak",
+          "images": [],
+          "text_ar": "قاعة اللعب – قاعة العلاج – المطبخ"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk Bölümü – Ebeveyn Bölümü – Diğer Bölümler",
+          "images": [],
+          "text_ar": "قسم الطفل – قسم الوالدين – أقسام أخرى"
+        },
+        {
+          "letter": "D",
+          "text": "Giriş Bölümü – Bekleme Salonu – Terapi Odaları",
+          "images": [],
+          "text_ar": "قسم المدخل – صالة الانتظار – غرف العلاج"
+        },
+        {
+          "letter": "E",
+          "text": "İdari Bölüm – Eğitim Bölümü – Uygulama Bölümü",
+          "images": [],
+          "text_ar": "قسم إداري – قسم تعليمي – قسم تطبيقي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "عند التخطيط لافتتاح مركز إرشاد أسري، ما الأقسام الثلاثة المختلفة التي يجب أن تتوفر فيه؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Belediyelere bağlı olan Çocuk Evlerinin temel hedef kitlesi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0-1 yaş arası bebekler ve anneleri",
+          "images": [],
+          "text_ar": "الرضّع بين 0-1 سنة وأمهاتهم"
+        },
+        {
+          "letter": "B",
+          "text": "11-15 yaş üstün yetenekli çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الموهوبون بين 11-15 سنة"
+        },
+        {
+          "letter": "C",
+          "text": "Bağımlılıkla mücadele eden çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الذين يصارعون الإدمان"
+        },
+        {
+          "letter": "D",
+          "text": "Üniversiteye hazırlanan ergenler",
+          "images": [],
+          "text_ar": "المراهقون المستعدون للجامعة"
+        },
+        {
+          "letter": "E",
+          "text": "3-5 yaş arası çocuklar",
+          "images": [],
+          "text_ar": "الأطفال بين 3-5 سنوات"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ما الفئة المستهدفة الأساسية لبيوت الطفل التابعة للبلديات؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Bir anaokulu açmak için en az kaç çocuğun okula kayıt yaptırmış olması beklenmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "20",
+          "images": [],
+          "text_ar": "20 طفلًا"
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "images": [],
+          "text_ar": "25 طفلًا"
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "images": [],
+          "text_ar": "10 أطفال"
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "images": [],
+          "text_ar": "30 طفلًا"
+        },
+        {
+          "letter": "E",
+          "text": "15",
+          "images": [],
+          "text_ar": "15 طفلًا"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "كم عدد الأطفال الذين يُتوقع أن يكونوا مسجلين في المدرسة على الأقل لفتح روضة أطفال؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Öğrencinin bilişsel, duygusal ve sosyal ihtiyaçlarına dair değerlendirmelerde bulunarak bu konularda rehberlik sağlar. Aşağıdakilerden hangisi BEP geliştirme biriminde açıklaması verilen görevi yerine getirmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrencinin öğretmen(ler)i",
+          "images": [],
+          "text_ar": "معلم/معلمو الطالب"
+        },
+        {
+          "letter": "B",
+          "text": "Fizyoterapist, ergoterapist veya diğer sağlık profesyonelleri",
+          "images": [],
+          "text_ar": "أخصائي العلاج الطبيعي أو العلاج الوظيفي أو غيره من المهنيين الصحيين"
+        },
+        {
+          "letter": "C",
+          "text": "Okul psikoloğu",
+          "images": [],
+          "text_ar": "الأخصائي النفسي المدرسي"
+        },
+        {
+          "letter": "D",
+          "text": "Okul yöneticisi veya danışmanı",
+          "images": [],
+          "text_ar": "مدير المدرسة أو مرشدها"
+        },
+        {
+          "letter": "E",
+          "text": "Özel eğitim uzmanı",
+          "images": [],
+          "text_ar": "أخصائي التربية الخاصة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "يُجري تقييمات للاحتياجات المعرفية والعاطفية والاجتماعية للطالب ويقدّم الإرشاد في هذه المجالات. أي مما يلي يقوم بالمهمة الموصوفة في وحدة تطوير البرنامج التربوي الفردي؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “Özel Eğitim Hizmetleri Yönetmeliği”nde belirtilen tanımlamalardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel eğitimin amacı, özel ihtiyaçları olan kişilere sağlanan eğitim şeklidir.",
+          "images": [],
+          "text_ar": "الغرض من التربية الخاصة هو شكل التعليم المقدَّم للأشخاص ذوي الاحتياجات الخاصة."
+        },
+        {
+          "letter": "B",
+          "text": "Özel eğitimde birey merkezli yaklaşım benimsenir.",
+          "images": [],
+          "text_ar": "يُعتمد في التربية الخاصة منهج محوره الفرد."
+        },
+        {
+          "letter": "C",
+          "text": "Özel eğitim, bireysel ve gelişimsel özellikleri gözeterek uygun ortamlarda sürdürülen eğitimdir.",
+          "images": [],
+          "text_ar": "التربية الخاصة تعليم يُستمر فيه في بيئات مناسبة مع مراعاة الخصائص الفردية والنمائية."
+        },
+        {
+          "letter": "D",
+          "text": "Özel eğitim, sadece fiziksel engelliler için özel olarak tasarlanmış eğitimdir.",
+          "images": [],
+          "text_ar": "التربية الخاصة تعليم مصمم خصيصًا لذوي الإعاقات الجسدية فقط."
+        },
+        {
+          "letter": "E",
+          "text": "Özel olarak yetiştirilmiş personel ile uygun ortamlarda sürdürülen eğitimdir.",
+          "images": [],
+          "text_ar": "تعليم يُستمر فيه مع كوادر مدرّبة تدريبًا خاصًا في بيئات مناسبة."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من التعريفات الواردة في «لائحة خدمات التربية الخاصة»؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerin hangisi Rehberlik ve Araştırma Merkezleri (RAM)’nde çalışan çocuk gelişimcilerin görevleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Merkezdeki diğer meslek elemanlarıyla ekip çalışması yaparak görevlerine ilişkin kayıtları usulüne uygun şekilde tutmak",
+          "images": [],
+          "text_ar": "إمساك السجلات المتعلقة بمهامهم بالشكل اللائق من خلال العمل الجماعي مع غيرهم من المهنيين في المركز"
+        },
+        {
+          "letter": "B",
+          "text": "Ailelere ve öğretmenlere yalnızca psikolojik konularda rehberlik etmek",
+          "images": [],
+          "text_ar": "إرشاد الأسر والمعلمين في المسائل النفسية فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Çeşitli gelişim ölçeklerinin geliştirilmesi çalışmalarına katılmak",
+          "images": [],
+          "text_ar": "المشاركة في أعمال تطوير مقاييس نمائية متنوعة"
+        },
+        {
+          "letter": "D",
+          "text": "Danışanların fizikî, zihinsel ve sosyal gelişim bakımından incelemelerini yapmak",
+          "images": [],
+          "text_ar": "إجراء فحوص للمراجعين من حيث النمو الجسدي والعقلي والاجتماعي"
+        },
+        {
+          "letter": "E",
+          "text": "Danışanların yaş düzeylerine uygun gelişimlerini değerlendirmek",
+          "images": [],
+          "text_ar": "تقييم نمو المراجعين بما يتناسب مع مستوياتهم العمرية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من مهام أخصائيي نمو الطفل العاملين في مراكز الإرشاد والبحث (RAM)؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi belediyelere bağlı olan Çocuk ve Gençlik Merkezlerinde görev alan çocuk gelişimcilerinin görevlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun ailesindeki bireyleri iş ve meslek sahibi yapmak için çalışmalar yapmak",
+          "images": [],
+          "text_ar": "إجراء أعمال لتمكين أفراد أسرة الطفل من الحصول على عمل ومهنة"
+        },
+        {
+          "letter": "B",
+          "text": "Hasta çocukların tedavilerini kurumda uygulamak",
+          "images": [],
+          "text_ar": "تطبيق علاجات الأطفال المرضى في المؤسسة"
+        },
+        {
+          "letter": "C",
+          "text": "Kuruma gelen çocuklarla ilgilenip, konu ile ilgili veriler toplamak",
+          "images": [],
+          "text_ar": "الاهتمام بالأطفال القادمين إلى المؤسسة وجمع البيانات المتعلقة بهم"
+        },
+        {
+          "letter": "D",
+          "text": "Aileler ve çocuklar için sosyal yardım bulmaya çalışmak",
+          "images": [],
+          "text_ar": "السعي لإيجاد مساعدات اجتماعية للأسر والأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların ilgi ve yeteneklerine uygun kültürel ve sanatsal etkinlikler planlamak",
+          "images": [],
+          "text_ar": "تخطيط أنشطة ثقافية وفنية تلائم ميول الأطفال ومواهبهم"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من مهام أخصائيي نمو الطفل العاملين في مراكز الطفل والشباب التابعة للبلديات؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Çerçeve öğretim programında yer alan çocuk gelişimi ve eğitimi alanı kapsamında hangi alt dallar yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Müzik ve Dans",
+          "images": [],
+          "text_ar": "الموسيقى والرقص"
+        },
+        {
+          "letter": "B",
+          "text": "Sanat ve Yaratıcılık",
+          "images": [],
+          "text_ar": "الفن والإبداع"
+        },
+        {
+          "letter": "C",
+          "text": "Oyun Eğitimi ve Drama",
+          "images": [],
+          "text_ar": "تعليم اللعب والدراما"
+        },
+        {
+          "letter": "D",
+          "text": "Erken Çocukluk Eğitimi ve Özel Eğitim",
+          "images": [],
+          "text_ar": "تعليم الطفولة المبكرة والتربية الخاصة"
+        },
+        {
+          "letter": "E",
+          "text": "Psikoloji ve Davranış Bilimleri",
+          "images": [],
+          "text_ar": "علم النفس وعلوم السلوك"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما الفروع الفرعية التي يضمها مجال نمو الطفل وتعليمه ضمن إطار البرنامج التعليمي؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda verilen bilim insanlarından hangisi çocuk ile çalışan araştırmacılar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Maria Montesorri",
+          "images": [],
+          "text_ar": "ماريا مونتيسوري"
+        },
+        {
+          "letter": "B",
+          "text": "Jean Piaget",
+          "images": [],
+          "text_ar": "جان بياجيه"
+        },
+        {
+          "letter": "C",
+          "text": "John Locke",
+          "images": [],
+          "text_ar": "جون لوك"
+        },
+        {
+          "letter": "D",
+          "text": "Philippe Aries",
+          "images": [],
+          "text_ar": "فيليب أرييس"
+        },
+        {
+          "letter": "E",
+          "text": "Vern L. Bengtson",
+          "images": [],
+          "text_ar": "فيرن ل. بينغتسون"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من العلماء المذكورين أدناه ليس من الباحثين الذين عملوا مع الأطفال؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "3308 sayılı Mesleki Eğitim Kanunu’na göre, meslek dersi öğretmenleri işbirliği sürecinde aşağıda yer alan rollerden hangisini üstlenmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mesleki eğitim öğretmeni",
+          "images": [],
+          "text_ar": "معلم التعليم المهني"
+        },
+        {
+          "letter": "B",
+          "text": "Koordinatör öğretmen",
+          "images": [],
+          "text_ar": "المعلم المنسّق"
+        },
+        {
+          "letter": "C",
+          "text": "Mentor öğretmen",
+          "images": [],
+          "text_ar": "المعلم الموجّه"
+        },
+        {
+          "letter": "D",
+          "text": "Rehber öğretmen",
+          "images": [],
+          "text_ar": "المعلم المرشد"
+        },
+        {
+          "letter": "E",
+          "text": "Danışman öğretmen",
+          "images": [],
+          "text_ar": "المعلم المستشار"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "وفقًا لقانون التعليم المهني رقم 3308، أي الأدوار التالية يتولاه معلمو المواد المهنية في عملية التعاون؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "TÜİK’in 2019 tarihli “Aile Yapısı Araştırması”na göre Türkiye’de en yaygın olan aile yapısı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuksuz aile",
+          "images": [],
+          "text_ar": "الأسرة بلا أطفال"
+        },
+        {
+          "letter": "B",
+          "text": "Tek ebeveynli aile",
+          "images": [],
+          "text_ar": "الأسرة أحادية الوالد"
+        },
+        {
+          "letter": "C",
+          "text": "Çekirdek aile",
+          "images": [],
+          "text_ar": "الأسرة النووية"
+        },
+        {
+          "letter": "D",
+          "text": "Geniş aile",
+          "images": [],
+          "text_ar": "الأسرة الممتدة"
+        },
+        {
+          "letter": "E",
+          "text": "Birleşik aile",
+          "images": [],
+          "text_ar": "الأسرة المركّبة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "وفقًا لـ«بحث بنية الأسرة» لعام 2019 الذي أجراه معهد الإحصاء التركي، ما نمط الأسرة الأكثر انتشارًا في تركيا؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Sağlık Bakanlığına bağlı kurumların hangisinde çocuk gelişimciler görev yapmamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Acil Sağlık Hizmetleri Genel Müdürlüğü",
+          "images": [],
+          "text_ar": "المديرية العامة لخدمات الصحة الطارئة"
+        },
+        {
+          "letter": "B",
+          "text": "Sağlık Hizmetleri Genel Müdürlüğü",
+          "images": [],
+          "text_ar": "المديرية العامة للخدمات الصحية"
+        },
+        {
+          "letter": "C",
+          "text": "Halk Sağlığı Genel Müdürlüğü",
+          "images": [],
+          "text_ar": "المديرية العامة للصحة العامة"
+        },
+        {
+          "letter": "D",
+          "text": "Kamu Hastaneleri Genel Müdürlüğü",
+          "images": [],
+          "text_ar": "المديرية العامة للمستشفيات الحكومية"
+        },
+        {
+          "letter": "E",
+          "text": "Sağlığın Geliştirilmesi Genel Müdürlüğü",
+          "images": [],
+          "text_ar": "المديرية العامة لتعزيز الصحة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في أي من المؤسسات التابعة لوزارة الصحة لا يعمل أخصائيو نمو الطفل؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi mesleki ve teknik eğitimin temel amacını doğru ifade etmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrencilere yabancı dil öğretmek",
+          "images": [],
+          "text_ar": "تعليم الطلاب لغة أجنبية"
+        },
+        {
+          "letter": "B",
+          "text": "Öğrencilere tarih bilgisi kazandırmak",
+          "images": [],
+          "text_ar": "تزويد الطلاب بالمعرفة التاريخية"
+        },
+        {
+          "letter": "C",
+          "text": "Ekonomik ve sosyal sektörlerin işgücü taleplerini karşılamak",
+          "images": [],
+          "text_ar": "تلبية احتياجات القطاعات الاقتصادية والاجتماعية من القوى العاملة"
+        },
+        {
+          "letter": "D",
+          "text": "Bilimsel araştırma yapmak",
+          "images": [],
+          "text_ar": "إجراء بحث علمي"
+        },
+        {
+          "letter": "E",
+          "text": "Genel bilgi aktarmak",
+          "images": [],
+          "text_ar": "نقل المعرفة العامة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي يعبّر بدقة عن الهدف الأساسي للتعليم المهني والتقني؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Belediyelere bağlı olan Anne-Çocuk Oyun Merkezlerinin işlevi ile ilgili verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Merkezde sadece 1 merkez sorumlusu görev alır.",
+          "images": [],
+          "text_ar": "يعمل في المركز مسؤول واحد فقط."
+        },
+        {
+          "letter": "B",
+          "text": "Merkezde farklı meslek alanlarından profesyoneller yer alır.",
+          "images": [],
+          "text_ar": "يضم المركز مهنيين من مجالات مهنية مختلفة."
+        },
+        {
+          "letter": "C",
+          "text": "Hem lisans hem de ön lisans mezunu çocuk gelişimcileri bu merkezde görev alabilirler.",
+          "images": [],
+          "text_ar": "يمكن لأخصائيي نمو الطفل من حملة البكالوريوس ومن حملة الدرجة المتوسطة على حد سواء العمل في هذا المركز."
+        },
+        {
+          "letter": "D",
+          "text": "Bu merkezde anneler ve çocuklar kayıt edilir.",
+          "images": [],
+          "text_ar": "يُسجَّل في هذا المركز الأمهات والأطفال."
+        },
+        {
+          "letter": "E",
+          "text": "Hem hafta içi hem de hafta sonu hizmet vermektedir.",
+          "images": [],
+          "text_ar": "يقدّم الخدمة في أيام الأسبوع وفي عطلة نهاية الأسبوع على حد سواء."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي المعلومات التالية عن وظيفة مراكز اللعب للأم والطفل التابعة للبلديات غير صحيحة؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Erken Matematik Kabiliyetleri Ölçeği hangi tür formal değerlendirme araçlarından birisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlgi veya Yetenek Testi",
+          "images": [],
+          "text_ar": "اختبار الميول أو القدرات"
+        },
+        {
+          "letter": "B",
+          "text": "Gözlem Formu",
+          "images": [],
+          "text_ar": "استمارة ملاحظة"
+        },
+        {
+          "letter": "C",
+          "text": "Hazırbulunuşluk Testi",
+          "images": [],
+          "text_ar": "اختبار الاستعداد"
+        },
+        {
+          "letter": "D",
+          "text": "Genel Gelişim Tarama Testi",
+          "images": [],
+          "text_ar": "اختبار المسح النمائي العام"
+        },
+        {
+          "letter": "E",
+          "text": "Başarı Testi",
+          "images": [],
+          "text_ar": "اختبار التحصيل"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "إلى أي نوع من أدوات التقييم الرسمية ينتمي مقياس القدرات الرياضية المبكرة؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Amerikan Pediatri Akademisine göre çocuk gelişimi biriminde standart tarama araçları ve gelişimsel değerlendirme testlerinin uygulanma amacı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların sosyal becerilerini belirlemek",
+          "images": [],
+          "text_ar": "تحديد المهارات الاجتماعية للأطفال"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların aşı takip süreçlerini kontrol etmek",
+          "images": [],
+          "text_ar": "مراقبة عمليات متابعة تطعيمات الأطفال"
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların fiziksel ve zihinsel gelişimlerini değerlendirmek",
+          "images": [],
+          "text_ar": "تقييم النمو الجسدي والعقلي للأطفال"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların eğitim seviyesini belirlemek",
+          "images": [],
+          "text_ar": "تحديد المستوى التعليمي للأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların beslenme alışkanlıklarını incelemek",
+          "images": [],
+          "text_ar": "دراسة عادات التغذية لدى الأطفال"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "وفقًا للأكاديمية الأمريكية لطب الأطفال، ما الهدف من تطبيق أدوات المسح المعيارية واختبارات التقييم النمائي في وحدة نمو الطفل؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "41ff544e1ad880a3c01b21702a96a00aedf37cae0c6f3c79b75ad0f4c4842311"
+}

@@ -1,0 +1,667 @@
+{
+  "course": "Bilimsel Araştırma Teknikleri",
+  "course_slug": "bat",
+  "exam": "2020 Vize Soruları",
+  "exam_slug": "vize-2020",
+  "page_title": "Bilimsel Araştırma Teknikleri 2020 Vize Soruları Online-2",
+  "source_url": "https://lolonolo.com/2020/12/02/bilimsel-arastirma-teknikleri-2020-vize-sorulari-online-2/",
+  "scraped_at": "2026-11-12T02:21:40+03:00",
+  "answer_source": "markup",
+  "question_count": 18,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Kantitatif araştırmalarda …………….. veri toplama araçları kullanılırken, kalitatif araştırmalarda ……………. veri toplama araçları kullanılır. Yukarıdaki boşluklara uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Araştırmacının kendi / standardize edilmiş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sözel / sayısal",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dinamik / statik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Esnek / sabit",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Standardize edilmiş / araştırmacının kendi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Bu aşamada araştırma probleminin niteliği, içeriği, önemi ve geçmişi saptanmaya çalışılır. Bu aşama büyük ölçüde bir literatür çalışmasını gerektirir. Yukarıda yer alan süreci içeren araştırmanın planlanması aşaması aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Araştırma konusunun belirlenmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Araştırma amaçlarının belirlenmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Araştırmanın modellenmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Araştırmanın yönteminin seçimi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Araştırma hipotezlerinin belirlenmesi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Psikoloji, sosyoloji, antropoloji, eğitim gibi sosyal bilim alanlarında insan ve toplum davranışları gibi sayılarla açıklanması zor olan araştırmalara ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nicel araştırma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kalitatif araştırma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kantitatif araştırma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Grafiksel araştırma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Nümerik araştırma",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Sayısal hâle dönüştürülmüş değişkenlerin incelenmesine, ilişkilerin ve neden-sonuçların ortaya konmasına dayanan araştırmalara ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nominal araştırma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sözel araştırma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kalitatif araştırma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nitel araştırma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kantitatif araştırma",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "”Evrendeki olguları çeşitli yollarla inceleyen ve onları açıklayan sistemli bilgi topluluğuna ……………….. denir.” Yukarıdaki boşluğa uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Teknik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Araştırma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Metodoloji",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Veri",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "I. Sözel model II. Grafiksel model III. Soyut model IV. Matematiksel model V. Varsayımsal model VI. Somut model Yukarıda yer alan ifadelerden hangileri araştırma planlamasında kullanılan modeller arasında yer alır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I,II,IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I,III,VI",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I,II,III",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "I. Karar alıcılarla görüşmek II. Alanın uzmanlarıyla mülakatlar yapmak III. İkincil veri analizi IV. Kalitatif araştırma Yukarıda verilen ifadelerden hangisi bir araştırmacının problem belirleme sürecinde kullanabileceği kaynakları ve yapması gerekenleri belirtir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I, II, III ve IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "III",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "1- Araştırma raporunun hazırlanması ve sunulması 2- Araştırma modelinin ve hipotezlerin belirlenmesi 3- Veri hazırlama ve analizi 4- Veri toplama araçlarının geliştirilmesi ve veri toplama 5- Araştırma yönteminin tasarımı, ana kütle ve örneklemin belirlenmesi 6- Araştırma probleminin ve amaçlarının tanımlanması Yukarıda bilimsel yöntemin aşamaları rastgele verilmiştir. Doğru sıralamanın hangisi olduğunu işaretleyiniz.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6-2-5-4-3-1",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "6-4-3-1-2-5",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "6-1-4-3-1-2",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "6-2-3-1-5-4",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "6-4-2-5-3-1",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Araştırmada verilerin hangi birimlerden elde edileceğinin belirlenmesi aşaması aşağıda verilenlerden hangisindedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Araştırmanın tasarımı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Örnekleme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ölçekleme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Araştırma modelinin oluşturulması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Araştırmanın planlanması",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "“Ana kütleyi temsil edebilecek nitelikte bir miktar birimin oluşturduğu alt gruba …………. denmektedir” Yukarıdaki boşluğa uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Grup",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Seçim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Örneklem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Birim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Küme",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi projektif araştırma tekniklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cümle tamamlama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Resimler ve kelimeler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kelime çağrışım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Benzerlikler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Matematiksel tahminlemeler",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi tanımlayıcı araştırmaların amaçları arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlişkilendirilen değişkenlikler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Algılamaları belirlemek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İlgili gruplarının özellikleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hipotezin belirlenmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anakütle içinde belli bir davranış",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Çeşitli kaynaklardan derlenebilen, üzerinde inceleme yapılabilecek her türlü “bilgi” olarak tanımlanabilen kavram, aşağıdakilerden hangisinde doğru olarak belirtilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaynak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Digit",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Literatür",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sayı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Veri",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Birincil veri toplama araçları olarak anket, deney ve gözlem sıkça kullanılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İkincil veriler için, birincil verilerden farklı olarak veri kaynakları değil veri toplama yöntemleri söz konusudur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İkincil veriler, araştırmacının amaçları doğrultusunda ilgili ana kütle hakkında kişisel olarak topladığı orijinal verilerdir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Birincil verilerin zaman, emek ve masraftan tasarruf sağlaması ve toplama kolaylığı gibi avantajları vardır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Birincil veriler, araştırmacının amaçlarına uygun olabilecek ve daha önceden kaynaklarda yer alan bilgilerdir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Problemin tanımlanmasında yapılacak yanlışlıklar araştırmanın sonucuna etki edeceğinden problemin çok iyi tanımlanması gerekmektedir. Aksi takdirde iyi tanımlanmamış problemler olduğunda aşağıda verilenlerden hangisi şirketlerin karşılaşacağı durumlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Para kaybı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Düşük maliyet, yüksek verim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yüksek maliyet, düşük verim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zaman kaybı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Emek kaybı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi literatür taramasının sonuçlarının sunumunda kullanılan modelin aşamaları arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ne",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "nerede",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "nasıl",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "kim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "ne zaman",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kalitatif araştırmanın sınırlılıklarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kalitatif çalışmalar, araştırmanın hedef anakütlesini temsil eden örnekleri çoğu zaman sağlayamazlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kalitatif bir araştırma küçük örnek hacimlerine uygulanabilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kalitatif araştırma kullanılabilirliği araştırmacının ve moderatörün yeteneği ile yakından ilişkilidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Değişkenlerin kesin sınırları ile saptanabilmesi ve aralarındaki ilişkilerin ölçülebilir olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kalitatif araştırma küçük farkları kantitatif araştırmadaki gibi kolaylıkla ayıramaz.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "……………… veri toplama ve araştırma projesinin aşamalarının analizine yol gösteren plandır. Toplanacak bilginin tipini, veri kaynaklarını ve veri toplama sürecini belirleyen çatıdır. Yukarıdaki boşluğa uygun olan seçenek aşağıdakilerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Araştırma modeli",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Araştırmanın yöntemi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Araştırma tasarımı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Araştırmanın hipotezi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Araştırma problemi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "b7edab57c6a1ab96e1ae0492d11ce794551e86685e2534e6c702986f29cbb7ed"
+}

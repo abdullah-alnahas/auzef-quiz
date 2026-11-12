@@ -1,0 +1,859 @@
+{
+  "course": "OYUN VE OYUN TERAPİSİ",
+  "course_slug": "oyun-ve-oyun-terapisi",
+  "exam": "2025-2026 Vize Soruları",
+  "exam_slug": "vize-2025-2026",
+  "page_title": "Oyun ve Oyun Terapisi 2025-2026 Vize Soruları",
+  "source_url": "https://lolonolo.com/2025/11/20/oyun-ve-oyun-terapisi-2025-2026-vize-sorulari/",
+  "scraped_at": "2026-11-12T02:21:22+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisinde uygun malzeme seçimi, terapötik sürecin niteliğini doğrudan etkileyerek çocuğun kendini güvende hissetmesini ve terapiye aktif katılımını kolaylaştırır.\nAşağıdakilerden hangisi, oyun terapisi materyallerinin seçimiyle ilgili temel ilkelerle çelişen bir uygulama olarak değerlendirilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Terapi odasında, hem sembolik hem de yapılandırılmamış oyuncaklara yer vererek çocuğun serbest ifadesini teşvik etmek",
+          "images": [],
+          "text_ar": "إتاحة ألعاب رمزية وأخرى غير منظَّمة في غرفة العلاج لتشجيع التعبير الحر عند الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Malzeme seçiminde, çocuğun gelişim düzeyine uygunluk kadar kültürel arka planının da göz önünde bulundurulması",
+          "images": [],
+          "text_ar": "مراعاة الخلفية الثقافية للطفل في اختيار المواد إلى جانب ملاءمتها لمستوى نموه"
+        },
+        {
+          "letter": "C",
+          "text": "Boşanma yaşamış bir çocuk için ev içi eşyalardan oluşan figürlerin oyunda kullanılmasını sağlamak",
+          "images": [],
+          "text_ar": "إتاحة استخدام مجسمات لأدوات منزلية في اللعب مع طفل مرّ بتجربة طلاق"
+        },
+        {
+          "letter": "D",
+          "text": "Malzemelerin sade, tehditkâr olmayan ve yaratıcı kullanıma açık olacak şekilde tasarlanmış olması",
+          "images": [],
+          "text_ar": "أن تكون المواد مصمَّمة بحيث تكون بسيطة وغير مهدِّدة ومفتوحة للاستخدام الإبداعي"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun dikkatini sürekli canlı tutmak amacıyla terapi odasına 150'den fazla farklı oyuncak ve materyalin yerleştirilmesi",
+          "images": [],
+          "text_ar": "وضع أكثر من 150 لعبة ومادة مختلفة في غرفة العلاج بهدف إبقاء انتباه الطفل حيًّا باستمرار"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "يؤثر اختيار المواد المناسبة في العلاج باللعب تأثيرًا مباشرًا في جودة العملية العلاجية، فيسهّل على الطفل الشعور بالأمان والمشاركة النشطة في العلاج.\nأي مما يلي يُعد تطبيقًا يتعارض مع المبادئ الأساسية لاختيار مواد العلاج باللعب؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisinde terapistin çocuğun oyununa “aktif katılım” göstermesi hangi durumda terapötik süreci olumsuz etkileyebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Terapist oyunun anlamını sessizce gözlemliyorsa",
+          "images": [],
+          "text_ar": "إذا كان المعالج يلاحظ معنى اللعب بصمت"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk oyun içinde terapiste rol biçiyorsa",
+          "images": [],
+          "text_ar": "إذا كان الطفل يحدد للمعالج دورًا في اللعب"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun kendi içsel süreçlerini yansıttığı sembolik oyunu kesintiye uğratıyorsa",
+          "images": [],
+          "text_ar": "إذا كان يقطع اللعب الرمزي الذي يعكس فيه الطفل عملياته الداخلية"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk oyunun yönünü değiştirmeyi teklif ettiğinde kabul ediyorsa",
+          "images": [],
+          "text_ar": "إذا كان يقبل اقتراح الطفل تغيير اتجاه اللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Terapist oyuna empatik bir biçimde eşlik ediyorsa",
+          "images": [],
+          "text_ar": "إذا كان المعالج يرافق اللعب بطريقة تعاطفية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "في أي حالة يمكن أن تؤثر مشاركة المعالج «النشطة» في لعب الطفل تأثيرًا سلبيًا في العملية العلاجية؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Deneyimsel Oyun Terapisinde bir çocuk “ormanda örümceklerden kaçtığı” bir oyun kuruyorsa, terapist bu oyunu nasıl yorumlamalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyunun sembolik anlamlarını ve travmatik yansımalarını değerlendirmelidir.",
+          "images": [],
+          "text_ar": "ينبغي أن يقيّم المعاني الرمزية للعبة وانعكاساتها الصدمية."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğu oyundan uzaklaştırmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يُبعِد الطفل عن اللعب."
+        },
+        {
+          "letter": "C",
+          "text": "Oyunun süresini sınırlamalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يحدّ من مدة اللعب."
+        },
+        {
+          "letter": "D",
+          "text": "Oyunu gerçeklik temelli davranışla yönlendirmelidir.",
+          "images": [],
+          "text_ar": "ينبغي أن يوجّه اللعب بسلوك قائم على الواقع."
+        },
+        {
+          "letter": "E",
+          "text": "Sadece korku temasına odaklanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يركّز على ثيمة الخوف فقط."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "إذا بنى طفل في العلاج باللعب الخبراتي لعبة «يهرب فيها من العناكب في الغابة»، فكيف ينبغي للمعالج أن يفسّر هذه اللعبة؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "I. Olumlu benlik algısı oluşturma\nII. Çocuğun sorumluluk almasını ve özerk olma duygusunu destekleyerek özgüven geliştirmesine yardımcı olma\nIII. Kendisini kabulüne yardımcı olma\nIV. Karar verme mekanizmasında ebeveyne bağlı olmasını sağlama\nYukarıdakilerden hangisi veya hangileri ebeveyn danışmanlıklarında da önemli olan çocuk merkezli oyun terapisinin terapötik amaçları arasında yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "I, III ve IV",
+          "images": [],
+          "text_ar": "I وIII وIV"
+        },
+        {
+          "letter": "C",
+          "text": "II ve IV",
+          "images": [],
+          "text_ar": "II وIV"
+        },
+        {
+          "letter": "D",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        },
+        {
+          "letter": "E",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "I. تكوين إدراك ذاتي إيجابي\nII. مساعدة الطفل على تنمية ثقته بنفسه بدعم تحمّله المسؤولية وشعوره بالاستقلالية\nIII. مساعدته على قبول نفسه\nIV. جعله معتمدًا على والديه في آلية اتخاذ القرار\nأي مما يلي، أو أيها، يُعد من الأهداف العلاجية للعلاج باللعب المتمركز حول الطفل، وهي أهداف مهمة أيضًا في إرشاد الوالدين؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Deneyimsel Oyun Terapisinde terapistin sessizliği, aşağıdaki hangi koşulda terapötik olarak en işlevsel hale gelir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Terapist duygusal gerilimi azaltmak isterken",
+          "images": [],
+          "text_ar": "حين يريد المعالج تخفيف التوتر العاطفي"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk duygusal bir içsel deneyimi oyunla yeniden yaşarken",
+          "images": [],
+          "text_ar": "حين يعيد الطفل عيش خبرة داخلية عاطفية عبر اللعب"
+        },
+        {
+          "letter": "C",
+          "text": "Oyun materyalleriyle temas kurmakta zorlanırken",
+          "images": [],
+          "text_ar": "حين يجد صعوبة في التواصل مع مواد اللعب"
+        },
+        {
+          "letter": "D",
+          "text": "Seans süresi dolmak üzereyken",
+          "images": [],
+          "text_ar": "حين تقترب مدة الجلسة من الانتهاء"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk oyun sırasında yönlendirme beklerken",
+          "images": [],
+          "text_ar": "حين ينتظر الطفل التوجيه أثناء اللعب"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "في أي من الحالات التالية يصبح صمت المعالج أكثر وظيفية من الناحية العلاجية في العلاج باللعب الخبراتي؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Çocukla oyun aracılığı ile gerçekleştirilen psikoterapi sürecinde, oyun çocukların serbest çağrışımda bulunmalarına destek olarak çözümleyemedikleri duyguları ve çatışmaları ifade etmelerine ve dönüştürmelerine alan açar.\nYukarıda bahsedilen oyun terapisi türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk merkezli oyun terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب المتمركز حول الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Adleryan oyun terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب الأدلري"
+        },
+        {
+          "letter": "C",
+          "text": "Theraplay",
+          "images": [],
+          "text_ar": "ثيرابلاي"
+        },
+        {
+          "letter": "D",
+          "text": "Psikanalitik çocuk oyun terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب التحليلي النفسي للأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Deneyimsel oyun terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب الخبراتي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "في عملية العلاج النفسي التي تُجرى مع الطفل بوساطة اللعب، يدعم اللعب تداعي الأطفال الحر، ويفتح لهم مجالًا للتعبير عن العواطف والصراعات التي لم يتمكنوا من حلّها، ولتحويلها.\nما نوع العلاج باللعب المذكور أعلاه؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "İletişimde ben dili kullanmak önemlidir. Sen dili karşı tarafı anlamaktan uzak ve suçlayıcı iken ben dili yargılamadan karşı tarafa duygularımızı aktarmamızı sağlar. Ebeveyn danışmanlıklarında da örneklerle ele alınan ben diline uygun cümle aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beni dinlemediğinde kendimi anlaşılmamış hissediyorum.",
+          "images": [],
+          "text_ar": "عندما لا تنصت إليّ أشعر بأنني غير مفهوم."
+        },
+        {
+          "letter": "B",
+          "text": "Hiçbir zaman odanı toplamıyorsun çok dağınık bir çocuksun.",
+          "images": [],
+          "text_ar": "أنت لا ترتّب غرفتك أبدًا، أنت طفل شديد الفوضى."
+        },
+        {
+          "letter": "C",
+          "text": "Hep aynı hatayı yapıyorsun ve hiç ders çıkarmıyorsun.",
+          "images": [],
+          "text_ar": "أنت ترتكب الخطأ نفسه دائمًا ولا تتعلم منه أبدًا."
+        },
+        {
+          "letter": "D",
+          "text": "Kaç kere söylememe rağmen hiç yardımcı olmuyorsun.",
+          "images": [],
+          "text_ar": "رغم أنني قلت ذلك مرات عديدة، فإنك لا تساعد أبدًا."
+        },
+        {
+          "letter": "E",
+          "text": "Ödevlerini yapmıyorsun bu yüzden hep düşük notlar alıyorsun.",
+          "images": [],
+          "text_ar": "أنت لا تؤدي واجباتك، ولذلك تحصل دائمًا على درجات منخفضة."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "من المهم استخدام لغة «أنا» في التواصل. فبينما تكون لغة «أنت» بعيدة عن فهم الطرف الآخر وذات طابع لوم، تتيح لغة «أنا» نقل مشاعرنا إلى الطرف الآخر دون حكم. أي الجمل التالية توافق لغة «أنا» التي تُتناول بأمثلة في إرشاد الوالدين أيضًا؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisi ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun terapisi çocukların doğal iletişim diline dayanır.",
+          "images": [],
+          "text_ar": "يقوم العلاج باللعب على لغة التواصل الطبيعية لدى الأطفال."
+        },
+        {
+          "letter": "B",
+          "text": "Terapist oyunun yönünü belirleyerek çocuğun duygularını yönetir.",
+          "images": [],
+          "text_ar": "يحدد المعالج اتجاه اللعب فيدير عواطف الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Oyun, çocuğun bastırılmış duygularını güvenli biçimde ifade etmesini sağlar.",
+          "images": [],
+          "text_ar": "يتيح اللعب للطفل التعبير عن عواطفه المكبوتة بشكل آمن."
+        },
+        {
+          "letter": "D",
+          "text": "Terapötik süreçte oyun, hem tanısal hem de iyileştirici işlev taşır.",
+          "images": [],
+          "text_ar": "يحمل اللعب في العملية العلاجية وظيفة تشخيصية وشافية في آن واحد."
+        },
+        {
+          "letter": "E",
+          "text": "Oyun terapisti, çocuğun seçtiği oyuna koşulsuz kabul ile yaklaşır.",
+          "images": [],
+          "text_ar": "يقبل معالج اللعب اللعبة التي يختارها الطفل قبولًا غير مشروط."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من العبارات التالية عن العلاج باللعب غير صحيح؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisi, çocukların kendilerini ifade etmelerine, duygusal sorunlarını işlemelerine ve gelişimsel becerilerini desteklemelerine olanak tanıyan yapılandırılmış bir terapi yöntemidir. Bu sürecin merkezinde, çocuğun duygu ve düşüncelerini sembolik yollarla ortaya koymasına yardımcı olan terapi malzemeleri yer alır. Bu bağlamda, terapi malzemelerinin seçiminde dikkat alınması gereken ilkeler yer almaktadır.\nAşağıdakilerden hangisi terapötik oyun materyali seçiminde dikkate alınması gereken bir etik ilkedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kültürel çeşitliliği yansıtan materyaller bulundurmak",
+          "images": [],
+          "text_ar": "توفير مواد تعكس التنوع الثقافي"
+        },
+        {
+          "letter": "B",
+          "text": "Karmaşık teknolojik oyuncaklara ağırlık vermek",
+          "images": [],
+          "text_ar": "إعطاء الأولوية للألعاب التكنولوجية المعقدة"
+        },
+        {
+          "letter": "C",
+          "text": "Duygusal ifadeyi sınırlayan materyalleri seçmek",
+          "images": [],
+          "text_ar": "اختيار مواد تحدّ من التعبير العاطفي"
+        },
+        {
+          "letter": "D",
+          "text": "Tek cinsiyeti temsil eden oyuncakları tercih etmek",
+          "images": [],
+          "text_ar": "تفضيل الألعاب التي تمثل جنسًا واحدًا"
+        },
+        {
+          "letter": "E",
+          "text": "Oyuncakların terapistin tercihine göre seçilmesi",
+          "images": [],
+          "text_ar": "اختيار الألعاب بحسب تفضيل المعالج"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "العلاج باللعب طريقة علاجية منظَّمة تتيح للأطفال التعبير عن أنفسهم ومعالجة مشكلاتهم العاطفية ودعم مهاراتهم النمائية. وفي مركز هذه العملية توجد مواد العلاج التي تساعد الطفل على إظهار عواطفه وأفكاره بطرق رمزية. وفي هذا السياق توجد مبادئ يجب مراعاتها عند اختيار مواد العلاج.\nأي مما يلي مبدأ أخلاقي ينبغي مراعاته عند اختيار مواد اللعب العلاجية؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun oyun içinde “yeniden canlandırdığı” olaylar genellikle aşağıdaki süreçlerden hangisinin göstergesidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal model alma",
+          "images": [],
+          "text_ar": "النمذجة الاجتماعية"
+        },
+        {
+          "letter": "B",
+          "text": "Motor becerilerin gelişimi",
+          "images": [],
+          "text_ar": "تطور المهارات الحركية"
+        },
+        {
+          "letter": "C",
+          "text": "Davranışsal tekrar eğilimi",
+          "images": [],
+          "text_ar": "ميل التكرار السلوكي"
+        },
+        {
+          "letter": "D",
+          "text": "Bilinçdışı çatışmaların sembolik olarak dışa vurumu",
+          "images": [],
+          "text_ar": "التعبير الرمزي عن الصراعات اللاواعية"
+        },
+        {
+          "letter": "E",
+          "text": "Öğrenme süreci",
+          "images": [],
+          "text_ar": "عملية التعلم"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "الأحداث التي «يعيد الطفل تمثيلها» في اللعب هي عادةً مؤشر على أي من العمليات التالية؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "1. Duvarı boyamayı seçersen bugün boyalarınla oynamamayı seçmiş olursun.\n2. Duvarı boyamak istediğini biliyorum.\n3. Dilersen kağıtları boyayabilirsin.\n4. Duvar boyamak için değil.\nDuvarı boyamak isteyen bir çocuğa sınır koymak isteyen bir ebeveyn yukarıdaki cümleleri hangi sırayla söylemelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3-1-2-4",
+          "images": [],
+          "text_ar": "بالترتيب 3-1-2-4"
+        },
+        {
+          "letter": "B",
+          "text": "1-4-3-2",
+          "images": [],
+          "text_ar": "بالترتيب 1-4-3-2"
+        },
+        {
+          "letter": "C",
+          "text": "2-1-3-4",
+          "images": [],
+          "text_ar": "بالترتيب 2-1-3-4"
+        },
+        {
+          "letter": "D",
+          "text": "2-4-3-1",
+          "images": [],
+          "text_ar": "بالترتيب 2-4-3-1"
+        },
+        {
+          "letter": "E",
+          "text": "1-2-4-3",
+          "images": [],
+          "text_ar": "بالترتيب 1-2-4-3"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "1. إذا اخترت طلاء الجدار فسيكون قد اخترت اليوم ألا تلعب بألوانك.\n2. أعرف أنك تريد طلاء الجدار.\n3. يمكنك أن تلوّن الأوراق إن أردت.\n4. ليس لطلاء الجدار.\nبأي ترتيب ينبغي لوالد يريد وضع حدود لطفل يرغب في طلاء الجدار أن يقول الجمل أعلاه؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisi odasında oyuncakların düzenlenme biçimi terapötik açıdan neden önemlidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun oyuncakları daha hızlı bulmasını sağlamak için",
+          "images": [],
+          "text_ar": "لتمكين الطفل من العثور على الألعاب بسرعة أكبر"
+        },
+        {
+          "letter": "B",
+          "text": "Oyun süresini kısaltmak için",
+          "images": [],
+          "text_ar": "لتقصير مدة اللعب"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun içsel düzeni dış dünyada sembolik olarak deneyimlemesini desteklediği için",
+          "images": [],
+          "text_ar": "لأنه يدعم الطفل في اختبار نظامه الداخلي رمزيًا في العالم الخارجي"
+        },
+        {
+          "letter": "D",
+          "text": "Oda estetiğini artırmak için",
+          "images": [],
+          "text_ar": "لتحسين جمال الغرفة"
+        },
+        {
+          "letter": "E",
+          "text": "Terapistin seans kontrolünü kolaylaştırmak için",
+          "images": [],
+          "text_ar": "لتسهيل تحكم المعالج في الجلسة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "لماذا تُعد طريقة ترتيب الألعاب في غرفة العلاج باللعب مهمة من الناحية العلاجية؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Ebeveyn önce bir yastıkla başlayarak çocuğun üstünde durmasına yardım eder. Dengesini sağlayınca yastıklar ekler. Dengeyi sağlayınca ebeveyn ellerini çeker bununla birlikte çocuk da tek başına dengede kalmayı deneyimler. En sonunda da ebeveynin kollarına ya da aşağıya zıplar. Yukarıda Theraplay yaklaşımı ile ilgili oyun örneği verilmiştir. Bu oyun Theraplay’ın hangi boyutuna aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yapı",
+          "images": [],
+          "text_ar": "البنية"
+        },
+        {
+          "letter": "B",
+          "text": "Mücadele",
+          "images": [],
+          "text_ar": "التحدي"
+        },
+        {
+          "letter": "C",
+          "text": "İlgi",
+          "images": [],
+          "text_ar": "التفاعل"
+        },
+        {
+          "letter": "D",
+          "text": "Bağlılık",
+          "images": [],
+          "text_ar": "الارتباط"
+        },
+        {
+          "letter": "E",
+          "text": "Besleme",
+          "images": [],
+          "text_ar": "الرعاية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "يبدأ الوالد بوسادة واحدة ويساعد الطفل على الوقوف عليها. وعندما يتمكن من التوازن يضيف وسائد. وعندما يحقق التوازن يسحب الوالد يديه، فيختبر الطفل عندئذ البقاء متوازنًا بمفرده. وفي النهاية يقفز إلى ذراعي والده أو إلى الأسفل. ورد أعلاه مثال على لعبة من مقاربة ثيرابلاي. إلى أي بُعد من أبعاد ثيرابلاي تنتمي هذه اللعبة؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisinin tarihsel gelişiminde aşağıdaki isimlerden hangisi, oyunun bilinçdışı süreçleri açığa çıkaran sembolik işlevine vurgu yapmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Virginia Axline",
+          "images": [],
+          "text_ar": "فيرجينيا أكسلين"
+        },
+        {
+          "letter": "B",
+          "text": "Carl Rogers",
+          "images": [],
+          "text_ar": "كارل روجرز"
+        },
+        {
+          "letter": "C",
+          "text": "Anna Freud",
+          "images": [],
+          "text_ar": "آنا فرويد"
+        },
+        {
+          "letter": "D",
+          "text": "Alfred Adler",
+          "images": [],
+          "text_ar": "ألفريد أدلر"
+        },
+        {
+          "letter": "E",
+          "text": "Melanie Klein",
+          "images": [],
+          "text_ar": "ميلاني كلاين"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من الأسماء التالية أكّد في التطور التاريخي للعلاج باللعب على الوظيفة الرمزية للعب في الكشف عن العمليات اللاواعية؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Terapötik oyun alanında oyuncaklar “sembolik, agresif ve yaratıcı” kategorilerde seçilir. Bu sınıflandırmanın temel amacı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyuncak sayısını sınırlamak",
+          "images": [],
+          "text_ar": "الحد من عدد الألعاب"
+        },
+        {
+          "letter": "B",
+          "text": "Terapistin gözlem kolaylığını artırmak",
+          "images": [],
+          "text_ar": "تسهيل ملاحظة المعالج"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun farklı duygu ve dürtü alanlarını güvenli biçimde dışa vurmasını sağlamak",
+          "images": [],
+          "text_ar": "تمكين الطفل من التعبير الآمن عن مجالات عواطفه ودوافعه المختلفة"
+        },
+        {
+          "letter": "D",
+          "text": "Oyun sürecini yapılandırmak",
+          "images": [],
+          "text_ar": "تنظيم عملية اللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun yaşına göre oyuncak ayrımı yapmak",
+          "images": [],
+          "text_ar": "تصنيف الألعاب بحسب عمر الطفل"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "تُختار الألعاب في مجال اللعب العلاجي ضمن فئات «رمزية وعدوانية وإبداعية». ما الهدف الأساسي من هذا التصنيف؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi oyun terapisinde süpervizyonun temel amaçlarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Terapistin kişisel süreçlerini paylaşması",
+          "images": [],
+          "text_ar": "مشاركة المعالج عملياته الشخصية"
+        },
+        {
+          "letter": "B",
+          "text": "Ebeveyn-çocuk çatışmalarını çözmek",
+          "images": [],
+          "text_ar": "حل الصراعات بين الوالدين والطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun tanı sürecini tamamlamak",
+          "images": [],
+          "text_ar": "إتمام عملية تشخيص الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Yeni oyun teknikleri geliştirmek",
+          "images": [],
+          "text_ar": "تطوير تقنيات لعب جديدة"
+        },
+        {
+          "letter": "E",
+          "text": "Terapötik sınır ihlallerini önlemek ve profesyonel gelişimi desteklemek",
+          "images": [],
+          "text_ar": "منع تجاوزات الحدود العلاجية ودعم التطور المهني"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي من الأهداف الأساسية للإشراف في العلاج باللعب؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisinde terapötik sürecin merkezinde yer alan en temel unsur aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Terapist ile çocuk arasındaki ilişki",
+          "images": [],
+          "text_ar": "العلاقة بين المعالج والطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Ebeveyn katılım düzeyi",
+          "images": [],
+          "text_ar": "مستوى مشاركة الوالدين"
+        },
+        {
+          "letter": "C",
+          "text": "Seans süresinin uzunluğu",
+          "images": [],
+          "text_ar": "طول مدة الجلسة"
+        },
+        {
+          "letter": "D",
+          "text": "Kullanılan oyuncak çeşitliliği",
+          "images": [],
+          "text_ar": "تنوع الألعاب المستخدمة"
+        },
+        {
+          "letter": "E",
+          "text": "Terapötik ortamın fiziksel düzeni",
+          "images": [],
+          "text_ar": "الترتيب المادي للبيئة العلاجية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما العنصر الأساسي الأهم الذي يقع في مركز العملية العلاجية في العلاج باللعب؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Kum tepsisi terapisinde çocuğun oluşturduğu sahneler genellikle hangi psikolojik süreç hakkında bilgi verir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel gelişim düzeyi",
+          "images": [],
+          "text_ar": "مستوى النمو المعرفي"
+        },
+        {
+          "letter": "B",
+          "text": "Dışsal motivasyon",
+          "images": [],
+          "text_ar": "الدافعية الخارجية"
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal statü farkındalığı",
+          "images": [],
+          "text_ar": "الوعي بالمكانة الاجتماعية"
+        },
+        {
+          "letter": "D",
+          "text": "Motor beceri yeterliliği",
+          "images": [],
+          "text_ar": "كفاية المهارات الحركية"
+        },
+        {
+          "letter": "E",
+          "text": "Bilinçdışı çatışmalar ve içsel temsiller",
+          "images": [],
+          "text_ar": "الصراعات اللاواعية والتمثلات الداخلية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "عن أي عملية نفسية تعطي المشاهد التي يبنيها الطفل في العلاج بصينية الرمل معلومات عادةً؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisi, çocuk gelişiminin hangi temel ilkesine dayanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun çocukta bilişsel gerilemeye neden olur.",
+          "images": [],
+          "text_ar": "يسبب اللعب تراجعًا معرفيًا عند الطفل."
+        },
+        {
+          "letter": "B",
+          "text": "Oyun terapisi yalnızca travma sonrası kullanılabilir.",
+          "images": [],
+          "text_ar": "لا يمكن استخدام العلاج باللعب إلا بعد الصدمة."
+        },
+        {
+          "letter": "C",
+          "text": "Duygusal gelişim, oyun deneyimleriyle paralel ilerler.",
+          "images": [],
+          "text_ar": "يتقدم النمو العاطفي بالتوازي مع خبرات اللعب."
+        },
+        {
+          "letter": "D",
+          "text": "Oyun yalnızca eğlence işlevi görür.",
+          "images": [],
+          "text_ar": "يؤدي اللعب وظيفة التسلية فقط."
+        },
+        {
+          "letter": "E",
+          "text": "Gelişim sürecinde oyun terapisi gereksizdir.",
+          "images": [],
+          "text_ar": "العلاج باللعب غير ضروري في عملية النمو."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "على أي مبدأ أساسي من مبادئ نمو الطفل يقوم العلاج باللعب؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Bu terapi yaklaşımında terapist çocuğun yalnızca var olan sorununa değil, çocuğun içsel çatışmalarına, aile dinamiklerine, aktarımlarına ve sosyal çevresine de bütüncül olarak bakması gerekmektedir. Bu süreçte terapist, ebeveynlerle haftalık ya da iki haftada bir düzenli görüşmeler yapmalı ve bu görüşmelerin önemini vurgulamalıdır.\nYukarıda verilen oyun terapisi yaklaşımı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Deneyimsel Oyun Terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب الخبراتي"
+        },
+        {
+          "letter": "B",
+          "text": "Psikanalitik Oyun Terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب التحليلي النفسي"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk Merkezli Oyun Terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب المتمركز حول الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel Davranışçı Oyun Terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب المعرفي السلوكي"
+        },
+        {
+          "letter": "E",
+          "text": "Theraplay",
+          "images": [],
+          "text_ar": "ثيرابلاي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "في هذه المقاربة العلاجية يُطلب من المعالج أن ينظر نظرة كلية لا إلى مشكلة الطفل القائمة فحسب، بل إلى صراعاته الداخلية وديناميات أسرته وتحويلاته وبيئته الاجتماعية أيضًا. وفي هذه العملية ينبغي للمعالج أن يعقد مقابلات منتظمة مع الوالدين أسبوعيًا أو كل أسبوعين، وأن يؤكد أهمية هذه المقابلات.\nما مقاربة العلاج باللعب الواردة أعلاه؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "ada70cc369d3ba526682fe1cfb734da75f0749fabdb31381c61328664f9891ef"
+}

@@ -1,0 +1,862 @@
+{
+  "course": "OYUN VE OYUN TERAPİSİ",
+  "course_slug": "oyun-ve-oyun-terapisi",
+  "exam": "2025-2026 Final Soruları",
+  "exam_slug": "final-2025-2026",
+  "page_title": "Oyun ve Oyun Terapisi 2025-2026 Final Soruları",
+  "source_url": "https://lolonolo.com/2026/01/13/oyun-ve-oyun-terapisi-2025-2026-final-sorulari/",
+  "scraped_at": "2026-11-12T02:21:23+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Filial terapiyi geliştiren kişiler aşağıdakilerden hangileridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "John Bowlby ve Mary Ainsworth",
+          "images": [],
+          "text_ar": "جون بولبي وماري أينسورث"
+        },
+        {
+          "letter": "B",
+          "text": "Garry Landreth ve Rise VanFleet",
+          "images": [],
+          "text_ar": "غاري لاندريث ورايز فانفليت"
+        },
+        {
+          "letter": "C",
+          "text": "Bernard ve Louise Guerney",
+          "images": [],
+          "text_ar": "برنارد ولويز غيرني"
+        },
+        {
+          "letter": "D",
+          "text": "Anna Freud ve Melanie Klein",
+          "images": [],
+          "text_ar": "آنا فرويد وميلاني كلاين"
+        },
+        {
+          "letter": "E",
+          "text": "Carl Rogers ve Virginia Axline",
+          "images": [],
+          "text_ar": "كارل روجرز وفيرجينيا أكسلين"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "من هم الأشخاص الذين طوّروا العلاج الفيليالي؟",
+      "review": [
+        "q1.stem: Filial terapi: لا يوجد مقابل عربي مستقر، فاعتمدت النقل الصوتي «العلاج الفيليالي» في هذا الملف."
+      ]
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi oyun terapisi sürecinde güvenliğin sağlanmasına yönelik terapist davranışına örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınır ihlali olduğunda tepkisiz kalmak",
+          "images": [],
+          "text_ar": "البقاء دون رد فعل عند حدوث تجاوز للحدود"
+        },
+        {
+          "letter": "B",
+          "text": "Seans süresini çocuğun talebine göre belirsiz bırakmak",
+          "images": [],
+          "text_ar": "ترك مدة الجلسة غير محددة بحسب طلب الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Oyun materyallerini sınırlamadan sunmak",
+          "images": [],
+          "text_ar": "تقديم مواد اللعب دون تقييد"
+        },
+        {
+          "letter": "D",
+          "text": "Seanslarda duygular ortaya çıktığında hemen konuyu değiştirmek",
+          "images": [],
+          "text_ar": "تغيير الموضوع فورًا عند ظهور العواطف في الجلسات"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun duygularını isimlendirip yargılamadan kabul etmek",
+          "images": [],
+          "text_ar": "تسمية عواطف الطفل وقبولها دون حكم"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي مثال على سلوك المعالج الهادف إلى توفير الأمان في عملية العلاج باللعب؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Yönlendirmesiz oyun terapisinde, terapötik ortamın güvenli ve yapılandırılmış kalması için bazı sınırlar belirlenir. Aşağıdakilerden hangisi, bu terapi ekolünde belirlenen sınırlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Seans süresine dair tutarlı zaman sınırları uygulanması",
+          "images": [],
+          "text_ar": "تطبيق حدود زمنية ثابتة لمدة الجلسة"
+        },
+        {
+          "letter": "B",
+          "text": "Oyuncakların sadece oyun odasında kullanılabileceğine dair mekânsal sınır konulması",
+          "images": [],
+          "text_ar": "وضع حد مكاني يقضي باستخدام الألعاب في غرفة اللعب فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Terapistin, çocuğun kendine ya da başkasına zarar vermesini önlemek için fiziksel sınırlama getirmesi",
+          "images": [],
+          "text_ar": "فرض المعالج تقييدًا جسديًا لمنع الطفل من إيذاء نفسه أو غيره"
+        },
+        {
+          "letter": "D",
+          "text": "Terapistin, çocuğun duygularını kabul ederken zarar verici davranışları sınırlandırması",
+          "images": [],
+          "text_ar": "قبول المعالج لعواطف الطفل مع تقييد السلوكيات الضارة"
+        },
+        {
+          "letter": "E",
+          "text": "Terapistin oyun içeriklerini ebeveynle detaylı biçimde paylaşarak çocuğun gelişimini açıklaması",
+          "images": [],
+          "text_ar": "مشاركة المعالج محتويات اللعب بالتفصيل مع الوالدين وشرح نمو الطفل"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "تُحدَّد بعض الحدود في العلاج باللعب غير التوجيهي لكي تبقى البيئة العلاجية آمنة ومنظَّمة. أي مما يلي ليس من الحدود المحددة في هذه المدرسة العلاجية؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Terapötik süreçte çocuğun duygularını ifade etmesine, kendi hızında ilerlemesine ve içsel çatışmalarını oyun yoluyla keşfetmesine alan tanıyan bir yaklaşım, terapistin yönlendirici değil takip eden bir rolde olduğu kuramla ilişkilidir. Bu yaklaşımda oyun, çocuk için bir iletişim aracı olarak görülür ve terapist, çocuğun liderliğini kabul ederek iyileşme sürecine eşlik eder.\nBu açıklama aşağıdaki yaklaşımlardan hangisine aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çözüm odaklı oyun terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب المرتكز على الحلول"
+        },
+        {
+          "letter": "B",
+          "text": "Filial terapi",
+          "images": [],
+          "text_ar": "العلاج الفيليالي"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel davranışçı oyun terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب المعرفي السلوكي"
+        },
+        {
+          "letter": "D",
+          "text": "Yönlendirmesiz oyun terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب غير التوجيهي"
+        },
+        {
+          "letter": "E",
+          "text": "Psikanalitik oyun terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب التحليلي النفسي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "المقاربة التي تتيح للطفل في العملية العلاجية التعبير عن عواطفه والتقدّم بالوتيرة التي تناسبه واستكشاف صراعاته الداخلية عبر اللعب، ويكون فيها المعالج في دور متابع لا موجه، ترتبط بالنظرية التي يُنظر فيها إلى اللعب بوصفه وسيلة تواصل بالنسبة للطفل، ويرافق فيها المعالج عملية الشفاء بقبوله قيادة الطفل.\nإلى أي من المقاربات التالية ينتمي هذا الوصف؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Filial terapide kullanılan oyunlar genellikle nasıl seçilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ebeveynin tercihine göre",
+          "images": [],
+          "text_ar": "بحسب تفضيل الوالدين"
+        },
+        {
+          "letter": "B",
+          "text": "Kurallı oyunlardan",
+          "images": [],
+          "text_ar": "من الألعاب ذات القواعد"
+        },
+        {
+          "letter": "C",
+          "text": "Akademik içerikli oyunlardan",
+          "images": [],
+          "text_ar": "من الألعاب ذات المحتوى الأكاديمي"
+        },
+        {
+          "letter": "D",
+          "text": "Terapist tarafından yönlendirilmiş şekilde",
+          "images": [],
+          "text_ar": "بشكل موجَّه من المعالج"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun spontan ilgisine göre",
+          "images": [],
+          "text_ar": "بحسب اهتمام الطفل التلقائي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "كيف تُختار عادةً الألعاب المستخدمة في العلاج الفيليالي؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Virginia Axline’ın sekiz ilkesinden biri olan “çocuğun duygularını özgürce ifade etmesine izin verme” ilkesi hangi psikolojik kavrama dayanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Katarsis",
+          "images": [],
+          "text_ar": "التنفيس"
+        },
+        {
+          "letter": "B",
+          "text": "Modelleme",
+          "images": [],
+          "text_ar": "النمذجة"
+        },
+        {
+          "letter": "C",
+          "text": "Pekiştirme",
+          "images": [],
+          "text_ar": "التعزيز"
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel yeniden yapılandırma",
+          "images": [],
+          "text_ar": "إعادة البناء المعرفي"
+        },
+        {
+          "letter": "E",
+          "text": "Duygusal bastırma",
+          "images": [],
+          "text_ar": "الكبت العاطفي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "على أي مفهوم نفسي يقوم مبدأ «السماح للطفل بالتعبير عن عواطفه بحرية»، وهو أحد مبادئ فيرجينيا أكسلين الثمانية؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Terapist, çocuğun duygusal tepkilerini yönlendirmeden kabul ettiğinde hangi terapötik süreç desteklenir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Otoriteye uyum",
+          "images": [],
+          "text_ar": "الامتثال للسلطة"
+        },
+        {
+          "letter": "B",
+          "text": "Davranışsal disiplin",
+          "images": [],
+          "text_ar": "الانضباط السلوكي"
+        },
+        {
+          "letter": "C",
+          "text": "İçsel kontrol ve öz düzenleme gelişimi",
+          "images": [],
+          "text_ar": "تطور الضبط الداخلي والتنظيم الذاتي"
+        },
+        {
+          "letter": "D",
+          "text": "Duygusal baskılama",
+          "images": [],
+          "text_ar": "كبت العواطف"
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal taklit",
+          "images": [],
+          "text_ar": "المحاكاة الاجتماعية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "عندما يقبل المعالج ردود فعل الطفل العاطفية دون توجيه، فما العملية العلاجية التي تُدعَم؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Melanie Klein’ın psikanalitik oyun terapisi ile Carl Rogers’ın hümanistik yaklaşımı karşılaştırıldığında, iki yaklaşım arasındaki en temel fark aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Klein oyunu bir iletişim biçimi olarak görürken Rogers yalnızca gözlem aracı olarak kullanır.",
+          "images": [],
+          "text_ar": "ترى كلاين اللعب شكلًا من أشكال التواصل، بينما يستخدمه روجرز أداةً للملاحظة فقط."
+        },
+        {
+          "letter": "B",
+          "text": "Klein, oyunu bilinçdışının dışavurumu olarak yorumlarken Rogers, oyunu çocuğun kendini gerçekleştirme süreci olarak görür.",
+          "images": [],
+          "text_ar": "تُفسِّر كلاين اللعب بأنه تعبير عن اللاوعي، بينما يرى روجرز اللعب عملية تحقيق الطفل لذاته."
+        },
+        {
+          "letter": "C",
+          "text": "Klein terapötik ilişkiyi merkeze alırken Rogers bilinçdışı analize odaklanır.",
+          "images": [],
+          "text_ar": "تضع كلاين العلاقة العلاجية في المركز، بينما يركّز روجرز على التحليل اللاواعي."
+        },
+        {
+          "letter": "D",
+          "text": "Her iki yaklaşım da oyunun yönlendirilmesi gerektiğini savunur.",
+          "images": [],
+          "text_ar": "تذهب المقاربتان إلى أن اللعب ينبغي أن يُوجَّه."
+        },
+        {
+          "letter": "E",
+          "text": "Klein çocuğun özgürlüğünü ön plana çıkarırken Rogers sınırlandırıcı bir yaklaşım benimser.",
+          "images": [],
+          "text_ar": "تبرز كلاين حرية الطفل، بينما يتبنى روجرز مقاربة تقييدية."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "عند مقارنة العلاج باللعب التحليلي النفسي عند ميلاني كلاين بالمقاربة الإنسانية عند كارل روجرز، ما الفرق الأساسي الأكبر بين المقاربتين؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Filial terapide ebeveynin çocuğa sınır koyma biçimi hangi ilkeyle uyumludur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Koşullu onay",
+          "images": [],
+          "text_ar": "القبول المشروط"
+        },
+        {
+          "letter": "B",
+          "text": "Oyun içi ödül-ceza sistemi",
+          "images": [],
+          "text_ar": "نظام المكافأة والعقاب داخل اللعب"
+        },
+        {
+          "letter": "C",
+          "text": "Sessiz gözlem",
+          "images": [],
+          "text_ar": "الملاحظة الصامتة"
+        },
+        {
+          "letter": "D",
+          "text": "Empatik sınır koyma",
+          "images": [],
+          "text_ar": "وضع الحدود التعاطفي"
+        },
+        {
+          "letter": "E",
+          "text": "Katı disiplin yaklaşımı",
+          "images": [],
+          "text_ar": "مقاربة الانضباط الصارم"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "بأي مبدأ يتوافق أسلوب الوالدين في وضع الحدود للطفل في العلاج الفيليالي؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisinde materyal seçiminin terapötik işlevi düşünüldüğünde, aşağıdakilerden hangisi en doğru açıklamadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Her oyuncak belirli bir davranışı öğretmek amacıyla seçilmelidir.",
+          "images": [],
+          "text_ar": "ينبغي اختيار كل لعبة بهدف تعليم سلوك معين."
+        },
+        {
+          "letter": "B",
+          "text": "Oyun materyali seçimi terapistin kişisel tercihine bağlıdır.",
+          "images": [],
+          "text_ar": "يعتمد اختيار مواد اللعب على التفضيل الشخصي للمعالج."
+        },
+        {
+          "letter": "C",
+          "text": "Materyaller çocuğun yaşına ve gelişim düzeyine göre yönlendirici biçimde sınırlandırılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي تقييد المواد بشكل موجَّه بحسب عمر الطفل ومستوى نموه."
+        },
+        {
+          "letter": "D",
+          "text": "Oyuncakların sembolik anlamları çocuğa açıklanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي شرح المعاني الرمزية للألعاب للطفل."
+        },
+        {
+          "letter": "E",
+          "text": "Materyaller, çocuğun iç dünyasını sembolik olarak dışa vurmasına olanak sağlayacak çeşitlilikte ve tarafsızlıkta olmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن تكون المواد متنوعة ومحايدة بما يتيح للطفل التعبير الرمزي عن عالمه الداخلي."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "بالنظر إلى الوظيفة العلاجية لاختيار المواد في العلاج باللعب، أي مما يلي هو التفسير الأصح؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi oyun terapisinde öfkeye işaret eden gözlemsel bir ipucu değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyuncak bebekleri besleme ve koruma davranışları",
+          "images": [],
+          "text_ar": "سلوكيات إطعام الدمى وحمايتها"
+        },
+        {
+          "letter": "B",
+          "text": "Terapistle çatışmacı ilişkiler",
+          "images": [],
+          "text_ar": "علاقات صراعية مع المعالج"
+        },
+        {
+          "letter": "C",
+          "text": "Tekrarlayan saldırgan temalar",
+          "images": [],
+          "text_ar": "ثيمات عدوانية متكررة"
+        },
+        {
+          "letter": "D",
+          "text": "Materyalleri yok etme eğilimi",
+          "images": [],
+          "text_ar": "الميل إلى إتلاف المواد"
+        },
+        {
+          "letter": "E",
+          "text": "Kontrolcü oyun davranışları",
+          "images": [],
+          "text_ar": "سلوكيات لعب تحكّمية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس مؤشرًا ملاحظًا يدل على الغضب في العلاج باللعب؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "DEHB’li çocuklarla çalışırken oyun terapisinde en çok hangi uygulama etkili olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uzun süreli serbest oyun",
+          "images": [],
+          "text_ar": "اللعب الحر الطويل الأمد"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun dikkatini sınamadan serbestçe izlemesi",
+          "images": [],
+          "text_ar": "مراقبة الطفل بحرية دون اختبار انتباهه"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğu grup oyunlarına yönlendirme",
+          "images": [],
+          "text_ar": "توجيه الطفل إلى ألعاب جماعية"
+        },
+        {
+          "letter": "D",
+          "text": "Kısa ve yapılandırılmış oyun etkinlikleri",
+          "images": [],
+          "text_ar": "أنشطة لعب قصيرة ومنظَّمة"
+        },
+        {
+          "letter": "E",
+          "text": "Tamamen özgür bırakma",
+          "images": [],
+          "text_ar": "الترك الحر التام"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "عند العمل مع الأطفال المصابين باضطراب نقص الانتباه وفرط الحركة، أي تطبيق يكون أكثر فعالية في العلاج باللعب؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Bir oyun terapisti, çocuğun seans içeriğini velisiyle paylaşmadan önce çocuğa “Senin anlattıklarını gizli tutmam gerekiyor, ancak kendine veya bir başkasına zarar verme düşüncen olursa bunu paylaşmam gerekir.” diyorsa, bu tutum hangi iki etik ilkeyi aynı anda korur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sır saklama ve koşulsuz kabul",
+          "images": [],
+          "text_ar": "حفظ السر والقبول غير المشروط"
+        },
+        {
+          "letter": "B",
+          "text": "Gizlilik ve güvenli sınır",
+          "images": [],
+          "text_ar": "السرية والحد الآمن"
+        },
+        {
+          "letter": "C",
+          "text": "Eşitlik ve otonomi",
+          "images": [],
+          "text_ar": "المساواة والاستقلالية"
+        },
+        {
+          "letter": "D",
+          "text": "Yönlendirmesizlik ve empati",
+          "images": [],
+          "text_ar": "عدم التوجيه والتعاطف"
+        },
+        {
+          "letter": "E",
+          "text": "Duygusal yansıtma ve içtenlik",
+          "images": [],
+          "text_ar": "الانعكاس العاطفي والصدق"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "إذا قال معالج باللعب للطفل قبل مشاركة محتوى الجلسة مع ولي أمره: «يجب أن أحتفظ بما تخبرني به سرًا، ولكن إذا كانت لديك فكرة عن إيذاء نفسك أو إيذاء غيرك فيجب أن أشاركها»، فما المبدآن الأخلاقيان اللذان يحميهما هذا الموقف في الوقت نفسه؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Donald Winnicott’un “oyun alanı” (potential space) kavramı ile Bernard Guerney’in “Filial terapi” yaklaşımı birlikte değerlendirildiğinde, bu iki anlayışın ortak terapötik vurgusu aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyunun sembolik analizinin merkeziliği",
+          "images": [],
+          "text_ar": "مركزية التحليل الرمزي للعب"
+        },
+        {
+          "letter": "B",
+          "text": "İlişki içindeki güvenli duygusal alanın iyileştirici gücü",
+          "images": [],
+          "text_ar": "القوة الشافية للفضاء العاطفي الآمن داخل العلاقة"
+        },
+        {
+          "letter": "C",
+          "text": "Terapistin yönlendirici rolü",
+          "images": [],
+          "text_ar": "الدور التوجيهي للمعالج"
+        },
+        {
+          "letter": "D",
+          "text": "Ebeveynin duygusal olarak geri planda kalması",
+          "images": [],
+          "text_ar": "بقاء الوالدين في الخلفية عاطفيًا"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun oyun davranışının bilişsel yönü",
+          "images": [],
+          "text_ar": "الجانب المعرفي لسلوك اللعب عند الطفل"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "عند النظر إلى مفهوم «فضاء اللعب» (potential space) عند دونالد وينيكوت وإلى مقاربة «العلاج الفيليالي» عند برنارد غيرني معًا، ما التأكيد العلاجي المشترك بين هذين الفهمين؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "“Duygu Termometresi” metaforu çocuklara hangi beceriyi kazandırmayı hedefler?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duyguların farklı yoğunluk düzeylerinde yaşanabileceğini fark etme",
+          "images": [],
+          "text_ar": "إدراك أن العواطف يمكن أن تُعاش بمستويات شدّة مختلفة"
+        },
+        {
+          "letter": "B",
+          "text": "Duygularını doğru yanlış olarak sınıflandırma",
+          "images": [],
+          "text_ar": "تصنيف عواطفه إلى صحيحة وخاطئة"
+        },
+        {
+          "letter": "C",
+          "text": "Duyguları yalnızca sözel olarak ifade etme",
+          "images": [],
+          "text_ar": "التعبير عن العواطف لفظيًا فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Duyguların sadece olumsuz olduğunu anlama",
+          "images": [],
+          "text_ar": "إدراك أن العواطف سلبية فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Duygularını tamamen bastırma",
+          "images": [],
+          "text_ar": "كبت عواطفه تمامًا"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما المهارة التي يهدف استعارة «ميزان الحرارة العاطفي» إلى تنميتها عند الأطفال؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Bir çocuk, oyuncak doktor setiyle sürekli “ameliyat etme” oyunu oynuyor ve figürleri iyileştirdiğini söylüyor.\nBu oyun en çok hangi süreçle açıklanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Motor beceri gelişimi",
+          "images": [],
+          "text_ar": "تطور المهارات الحركية"
+        },
+        {
+          "letter": "B",
+          "text": "Nesne sürekliliği arayışı",
+          "images": [],
+          "text_ar": "البحث عن ديمومة الأشياء"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel çarpıtmalar",
+          "images": [],
+          "text_ar": "التشوهات المعرفية"
+        },
+        {
+          "letter": "D",
+          "text": "Onarıcı deneyim arayışı",
+          "images": [],
+          "text_ar": "البحث عن خبرة ترميمية"
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal izolasyon",
+          "images": [],
+          "text_ar": "العزلة الاجتماعية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "طفل يلعب باستمرار لعبة «الجراحة» بمجموعة الطبيب اللعبة، ويقول إنه يشفي المجسمات.\nبأي عملية يمكن تفسير هذا اللعب على الأرجح؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "“Oyun, çocuğun dünyayı dönüştürme gücünü deneyimlediği ilk alandır; burada güç, kontrol ve yaratıcılık bir aradadır.”\nBu ifade oyunun hangi iki işlevinin terapötik açıdan bütünleştiğini gösterir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişisel güçlenme ve duygusal regülasyon",
+          "images": [],
+          "text_ar": "التمكين الشخصي والتنظيم العاطفي"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal öğrenme ve davranışsal gözlem",
+          "images": [],
+          "text_ar": "التعلم الاجتماعي والملاحظة السلوكية"
+        },
+        {
+          "letter": "C",
+          "text": "Modelleme ve yönlendirme",
+          "images": [],
+          "text_ar": "النمذجة والتوجيه"
+        },
+        {
+          "letter": "D",
+          "text": "Katarsis ve bilişsel yapılandırma",
+          "images": [],
+          "text_ar": "التنفيس والبناء المعرفي"
+        },
+        {
+          "letter": "E",
+          "text": "İçe dönüklük ve soyutlama",
+          "images": [],
+          "text_ar": "الانطواء والتجريد"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "«اللعب هو المجال الأول الذي يختبر فيه الطفل قدرته على تحويل العالم؛ وفيه تجتمع القوة والتحكم والإبداع.»\nأي وظيفتين للعب يبيّن هذا التعبير تكاملهما من الناحية العلاجية؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapistinin “güvenli sınır” koymasının temel amacı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Terapötik gücü sınırlandırmak",
+          "images": [],
+          "text_ar": "تقييد القوة العلاجية"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun davranışlarını kısıtlamak",
+          "images": [],
+          "text_ar": "تقييد سلوكيات الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Güven duygusunu ve yapı hissini sürdürmek",
+          "images": [],
+          "text_ar": "الحفاظ على شعور الثقة والإحساس بالبنية"
+        },
+        {
+          "letter": "D",
+          "text": "Seans süresini korumak",
+          "images": [],
+          "text_ar": "الحفاظ على مدة الجلسة"
+        },
+        {
+          "letter": "E",
+          "text": "Oyunun eğitsel yönünü artırmak",
+          "images": [],
+          "text_ar": "زيادة الجانب التعليمي للعب"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما الهدف الأساسي من وضع معالج اللعب «حدًا آمنًا»؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisinde Freud’un “tekrarlama zorlantısı (repetition compulsion)” kavramı ile Piaget’nin “asimilasyon” kavramı birlikte düşünüldüğünde, aşağıdakilerden hangisi bu iki kavramın ortak yönünü en doğru biçimde açıklar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Her ikisi de oyunu bilişsel gelişimin bir sonucu olarak görür.",
+          "images": [],
+          "text_ar": "يرى كلاهما أن اللعب نتيجة للنمو المعرفي."
+        },
+        {
+          "letter": "B",
+          "text": "Oyun, geçmiş deneyimlerin yeniden işlenmesi ve içsel dengenin kurulması için bir araçtır.",
+          "images": [],
+          "text_ar": "اللعب أداة لإعادة معالجة الخبرات الماضية وإقامة التوازن الداخلي."
+        },
+        {
+          "letter": "C",
+          "text": "Oyun, yalnızca sosyal öğrenmenin gerçekleştiği bir ortamdır.",
+          "images": [],
+          "text_ar": "اللعب مجرد بيئة يحدث فيها التعلم الاجتماعي."
+        },
+        {
+          "letter": "D",
+          "text": "Oyun, dışsal kontrolü artıran bir etkinliktir.",
+          "images": [],
+          "text_ar": "اللعب نشاط يزيد التحكم الخارجي."
+        },
+        {
+          "letter": "E",
+          "text": "Oyun, davranışsal pekiştirmeyle öğrenilen bir süreçtir.",
+          "images": [],
+          "text_ar": "اللعب عملية تُتعلَّم بالتعزيز السلوكي."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "عند التفكير معًا في مفهوم «الإكراه على التكرار» (repetition compulsion) عند فرويد ومفهوم «التمثل» عند بياجيه في العلاج باللعب، أي مما يلي يوضح الجانب المشترك بين المفهومين على أدق وجه؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Otizm spektrum bozukluğu olan çocuklarda oyun terapisinde duyusal oyunların kullanımı hangi amaca hizmet eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal rol öğrenimini hızlandırmak",
+          "images": [],
+          "text_ar": "تسريع تعلم الأدوار الاجتماعية"
+        },
+        {
+          "letter": "B",
+          "text": "Dürtüselliği artırmak",
+          "images": [],
+          "text_ar": "زيادة الاندفاعية"
+        },
+        {
+          "letter": "C",
+          "text": "Duyusal bütünleme becerilerini desteklemek",
+          "images": [],
+          "text_ar": "دعم مهارات التكامل الحسي"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğu disipline etmek",
+          "images": [],
+          "text_ar": "تأديب الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Öğrenme güçlüklerini ortadan kaldırmak",
+          "images": [],
+          "text_ar": "إزالة صعوبات التعلم"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما الهدف الذي يخدمه استخدام الألعاب الحسية في العلاج باللعب لدى الأطفال المصابين باضطراب طيف التوحد؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "8c8367cb227f5c4c3a735e3ede4fc32c52af4816c872171d09160ddb08d0fc16"
+}

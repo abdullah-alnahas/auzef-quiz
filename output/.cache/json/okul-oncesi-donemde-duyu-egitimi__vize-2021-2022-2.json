@@ -1,0 +1,1654 @@
+{
+  "course": "OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ",
+  "course_slug": "okul-oncesi-donemde-duyu-egitimi",
+  "exam": "2021-2022 Vize Soruları",
+  "exam_slug": "vize-2021-2022-2",
+  "page_title": "Okul Öncesi Dönemde Duyu Eğitimi Vize",
+  "source_url": "https://lolonolo.com/2021/11/30/okul-oncesi-donemde-duyu-egitimi-vize/",
+  "scraped_at": "2026-11-12T02:21:22+03:00",
+  "answer_source": "inline",
+  "question_count": 40,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Duyularla ilgili aşağıdaki tanımlardan hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uyaran, organizmada duyusal veya davranışsal bir tepki ortaya çıkaran herhangi bir güç, nesne veya olaydır.",
+          "images": [],
+          "text_ar": "المثير هو أي قوة أو شيء أو حدث يُحدث استجابة حسية أو سلوكية في الكائن الحي."
+        },
+        {
+          "letter": "B",
+          "text": "Reseptörler duyu organlarının yapısında bulunan uyaranları alıp beyne ileten özelleşmiş hücre, hücre grubu ve sinir yapılarıdır.",
+          "images": [],
+          "text_ar": "المستقبلات هي خلايا ومجموعات خلايا وتراكيب عصبية متخصصة موجودة في بنية الأعضاء الحسية، تستقبل المثيرات وتنقلها إلى الدماغ."
+        },
+        {
+          "letter": "C",
+          "text": "Serebral korteks, duyuların beyinde işlemlendiği ve anlamlandırıldığı bölümdür.",
+          "images": [],
+          "text_ar": "القشرة الدماغية هي الجزء الذي تُعالَج فيه الحواس وتُمنح معناها في الدماغ."
+        },
+        {
+          "letter": "D",
+          "text": "Merkezi sinir sistemi, sinir sisteminin beyin ve omurilik haricindeki kısmına verilen addır.",
+          "images": [],
+          "text_ar": "الجهاز العصبي المركزي هو اسم الجزء من الجهاز العصبي الواقع خارج الدماغ والنخاع الشوكي."
+        },
+        {
+          "letter": "E",
+          "text": "Çevresel sinir sistemi, merkezi sinir sistemi ile organlar arasındaki iletişimi sağlayan sinir sistemine verilen addır.",
+          "images": [],
+          "text_ar": "الجهاز العصبي المحيطي هو اسم الجهاز العصبي الذي يحقق التواصل بين الجهاز العصبي المركزي والأعضاء."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من التعريفات التالية المتعلقة بالحواس غير صحيح؟"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Duyuların algılanması süreciyle ilgili hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duyuların algılanması ve işlenmesi bir süreç içerisinde gerçekleşir.",
+          "images": [],
+          "text_ar": "يحدث إدراك الحواس ومعالجتها ضمن عملية متدرجة."
+        },
+        {
+          "letter": "B",
+          "text": "Uyarılan reseptörler, uyarıyı beyindeki serebral kortekste bulunan duyu merkezine gönderilir.",
+          "images": [],
+          "text_ar": "تُرسل المستقبلات المستثارة المثير إلى المركز الحسي الموجود في القشرة الدماغية."
+        },
+        {
+          "letter": "C",
+          "text": "Sonra duyu merkezi kendisine iletilen uyaranları algılayarak yorumlar.",
+          "images": [],
+          "text_ar": "ثم يدرك المركز الحسي المثيرات المنقولة إليه ويفسرها."
+        },
+        {
+          "letter": "D",
+          "text": "Duyu reseptörleri, merkezi sinir sistemine vücudun içinden ve dışından bilgi veren özelleşmiş yapılardır.",
+          "images": [],
+          "text_ar": "مستقبلات الحواس تراكيب متخصصة تقدم معلومات للجهاز العصبي المركزي من داخل الجسم وخارجه."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كل ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي صحيح فيما يتعلق بعملية إدراك الحواس؟"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi uyaranın türüne göre reseptörler sınıflamasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kimyasal reseptörler",
+          "images": [],
+          "text_ar": "المستقبلات الكيميائية"
+        },
+        {
+          "letter": "B",
+          "text": "Isı reseptörleri",
+          "images": [],
+          "text_ar": "مستقبلات الحرارة"
+        },
+        {
+          "letter": "C",
+          "text": "His reseptörleri",
+          "images": [],
+          "text_ar": "مستقبلات الإحساس"
+        },
+        {
+          "letter": "D",
+          "text": "Ağrı reseptörleri",
+          "images": [],
+          "text_ar": "مستقبلات الألم"
+        },
+        {
+          "letter": "E",
+          "text": "Mekanik reseptörler",
+          "images": [],
+          "text_ar": "المستقبلات الميكانيكية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يندرج ضمن تصنيف المستقبلات حسب نوع المثير؟"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Reseptörlerin bulundukları yerlere göre işlevleri ile ilgili hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ekteroseptörler, vücudun dışında deride bulunur ve derinin maruz kaldığı çevresel etkiyi yansıtır.",
+          "images": [],
+          "text_ar": "توجد المستقبلات الخارجية في الجلد على سطح الجسم، وتعكس التأثير البيئي الذي يتعرض له الجلد."
+        },
+        {
+          "letter": "B",
+          "text": "İnteroseptörler, vücudun iç kısmında bulunan tansiyon ve pH değişimi gibi çeşitli uyaranları alır.",
+          "images": [],
+          "text_ar": "تستقبل المستقبلات الداخلية مثيرات متنوعة داخل الجسم مثل تغيرات ضغط الدم والأس الهيدروجيني."
+        },
+        {
+          "letter": "C",
+          "text": "Teleseptörler, koku, ses, görüntü gibi uzaktan gelen uyaranları alır.",
+          "images": [],
+          "text_ar": "تستقبل المستقبلات البعيدة المثيرات الآتية من مسافة مثل الرائحة والصوت والصورة."
+        },
+        {
+          "letter": "D",
+          "text": "Proprioseptörler, kas, tendon, eklemler ve iç kulağın denge ile ilgili kısmında yer alırlar.",
+          "images": [],
+          "text_ar": "توجد المستقبلات الحسية العميقة في العضلات والأوتار والمفاصل والجزء المتعلق بالتوازن في الأذن الداخلية."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كل ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي صحيح فيما يتعلق بوظائف المستقبلات حسب مواضعها؟"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Çocuklarda duyu gelişimiyle ilgili aşağıdakilerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duyular bebeklik ve erken çocukluk yıllarında genel gelişime paralel olarak hızlı bir gelişim gösterir.",
+          "images": [],
+          "text_ar": "تُظهر الحواس نموًا سريعًا بالتوازي مع النمو العام في سنتي الرضاعة والطفولة المبكرة."
+        },
+        {
+          "letter": "B",
+          "text": "Yeni doğan bebeklerde tat duyusunun fazla gelişmemiş olmasına rağmen koku duyusu kısmen gelişmiştir",
+          "images": [],
+          "text_ar": "رغم أن حاسة التذوق لدى المواليد الجدد ليست متطورة كثيرًا، فإن حاسة الشم متطورة جزئيًا."
+        },
+        {
+          "letter": "C",
+          "text": "Yeni doğmuş bir bebek henüz görme keskinliği kazanmadığından çevresindeki nesneleri tam olarak algılayamaz.",
+          "images": [],
+          "text_ar": "لا يستطيع المولود الجديد إدراك الأشياء المحيطة به إدراكًا كاملًا لأنه لم يكتسب حدة البصر بعد."
+        },
+        {
+          "letter": "D",
+          "text": "Oral dönemde olan bebek çevresini tanımak için eline geçen nesneleri ağzına götürmeye çalışır.",
+          "images": [],
+          "text_ar": "يحاول الرضيع في المرحلة الفموية وضع الأشياء التي تصل إلى يده في فمه للتعرف على محيطه."
+        },
+        {
+          "letter": "E",
+          "text": "Bebekler ilk olarak kendi el ve ayaklarını inceler, ardından yakın çevresini incelemeye başlar.",
+          "images": [],
+          "text_ar": "يفحص الرضع أولًا أيديهم وأقدامهم، ثم يبدؤون في فحص محيطهم القريب."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح فيما يتعلق بنمو الحواس عند الأطفال؟"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki duyulardan hangisi özel duyular içinde yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görme",
+          "images": [],
+          "text_ar": "البصر"
+        },
+        {
+          "letter": "B",
+          "text": "Tat alma",
+          "images": [],
+          "text_ar": "التذوق"
+        },
+        {
+          "letter": "C",
+          "text": "Koku alma",
+          "images": [],
+          "text_ar": "الشم"
+        },
+        {
+          "letter": "D",
+          "text": "Denge",
+          "images": [],
+          "text_ar": "التوازن"
+        },
+        {
+          "letter": "E",
+          "text": "İşitme",
+          "images": [],
+          "text_ar": "السمع"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من الحواس التالية لا يندرج ضمن الحواس الخاصة؟"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki duyulardan hangisi genel-derin duyular içinde yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Derin ağrı",
+          "images": [],
+          "text_ar": "الألم العميق"
+        },
+        {
+          "letter": "B",
+          "text": "Denge",
+          "images": [],
+          "text_ar": "التوازن"
+        },
+        {
+          "letter": "C",
+          "text": "Koku alma",
+          "images": [],
+          "text_ar": "الشم"
+        },
+        {
+          "letter": "D",
+          "text": "Beden farkındalığı",
+          "images": [],
+          "text_ar": "الوعي بالجسد"
+        },
+        {
+          "letter": "E",
+          "text": "Derin basınç",
+          "images": [],
+          "text_ar": "الضغط العميق"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من الحواس التالية لا يندرج ضمن الحواس العامة العميقة؟"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Gözün katmanlarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözdeki tabakalar dıştan içe doğru sert tabaka (sklera), damar tabaka (koroid), ağ tabaka (retina) olarak sıralanır.",
+          "images": [],
+          "text_ar": "تترتب طبقات العين من الخارج إلى الداخل على النحو التالي: الطبقة الصلبة (sklera)، والطبقة الوعائية (koroid)، والشبكية (retina)."
+        },
+        {
+          "letter": "B",
+          "text": "Sert tabaka gözün iç kısmını korumakla görevlidir.",
+          "images": [],
+          "text_ar": "تتولى الطبقة الصلبة حماية الجزء الداخلي من العين."
+        },
+        {
+          "letter": "C",
+          "text": "Damar tabaka gözün katmanlarına oksijen ve besin taşımaktadır.",
+          "images": [],
+          "text_ar": "تنقل الطبقة الوعائية الأكسجين والمواد الغذائية إلى طبقات العين."
+        },
+        {
+          "letter": "D",
+          "text": "Ağ tabaka, gözün optik sinirleri yapmakla görevli sinir tabakasıdır.",
+          "images": [],
+          "text_ar": "الشبكية هي الطبقة العصبية المسؤولة عن تكوين العصب البصري للعين."
+        },
+        {
+          "letter": "E",
+          "text": "Damar tabaka, göz ve beyin arasında bağlantıyı sağlayarak bütünlük oluşturmaktadır.",
+          "images": [],
+          "text_ar": "تحقق الطبقة الوعائية الترابط بين العين والدماغ وتشكل وحدة متكاملة."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي غير صحيح فيما يتعلق بطبقات العين؟"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kulak ile ilişkili yapılardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Korti organı",
+          "images": [],
+          "text_ar": "عضو كورتي"
+        },
+        {
+          "letter": "B",
+          "text": "Yarım daire kanalları",
+          "images": [],
+          "text_ar": "القنوات الهلالية"
+        },
+        {
+          "letter": "C",
+          "text": "Koroid",
+          "images": [],
+          "text_ar": "المشيمية"
+        },
+        {
+          "letter": "D",
+          "text": "Salyangoz",
+          "images": [],
+          "text_ar": "القوقعة"
+        },
+        {
+          "letter": "E",
+          "text": "Çekiç-örs-üzengi kemikçikleri",
+          "images": [],
+          "text_ar": "العظيمات: المطرقة والسندان والركاب"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من التراكيب المرتبطة بالأذن؟"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Tat alma organ olan dille ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dilin tat almasında gö¬revli olan özel dokuya epitel doku adı verilmektedir.",
+          "images": [],
+          "text_ar": "يُطلق على النسيج المتخصص المسؤول عن تذوق اللسان اسم النسيج الظهاري."
+        },
+        {
+          "letter": "B",
+          "text": "Epitel doku üzerinde tat almaya yarayan tat tomurcukları bulunur.",
+          "images": [],
+          "text_ar": "توجد على النسيج الظهاري براعم تذوق تُستخدم في التذوق."
+        },
+        {
+          "letter": "C",
+          "text": "Ağızdaki tat tomurcukları ve resep¬törler yardımıyla acı, tatlı, ekşi ve tuzlu olmak üzere dört esas tat duyuları iletilir.",
+          "images": [],
+          "text_ar": "بمساعدة براعم التذوق والمستقبلات في الفم، تُنقل أربعة أحاسيس تذوق أساسية هي المر والحلو والحامض والمالح."
+        },
+        {
+          "letter": "D",
+          "text": "Dilin uç kısımları acı, yanları tuzlu ve ekşi, arkası ise tatlı duyusunu algılamak için özelleşmiştir.",
+          "images": [],
+          "text_ar": "تخصصت أطراف اللسان لإدراك الطعم المر، وجانباه لإدراك المالح والحامض، ومؤخرته لإدراك الحلو."
+        },
+        {
+          "letter": "E",
+          "text": "Acı, tatlı, ekşi ve tuzlu haricinde umami ve su tadı olma üzere iki tür tat duyusu daha vardır.",
+          "images": [],
+          "text_ar": "بالإضافة إلى المر والحلو والحامض والمالح، يوجد نوعان آخران من أحاسيس التذوق هما الأومامي وطعم الماء."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي غير صحيح فيما يتعلق باللسان بوصفه عضو التذوق؟"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Eğitim alanındaki önemli düşünürlerle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Comenius, erken çocuklukta en iyi öğrenmenin duyular yoluyla olduğunu savunmakadır.",
+          "images": [],
+          "text_ar": "يرى كومينيوس أن أفضل تعلم في الطفولة المبكرة يحدث عن طريق الحواس."
+        },
+        {
+          "letter": "B",
+          "text": "Duyu temelli eğitime yönelik ünlü Resimli Dünya (Orbis Pictus) isimli ilk ça­lışma Comenius’a aittir.",
+          "images": [],
+          "text_ar": "أول عمل شهير في التربية القائمة على الحواس، وهو «العالم المصور» (Orbis Pictus)، يعود إلى كومينيوس."
+        },
+        {
+          "letter": "C",
+          "text": "Boş levha (tabula rasa) kavramı Comenius tarafından ortaya atılmıştır.",
+          "images": [],
+          "text_ar": "طرح كومينيوس مفهوم اللوح الفارغ (tabula rasa)."
+        },
+        {
+          "letter": "D",
+          "text": "J.J. Rousseau, çocuğun her şeyi öğrenebilecek nitelikte doğduğunu, ancak gelişimsel olarak her şeyi algılayamadığı için yetişkinle­rin desteğinin olması gerektiği görüşünü savunmaktadır.",
+          "images": [],
+          "text_ar": "يرى J.J. Rousseau أن الطفل يولد قادرًا على تعلم كل شيء، لكنه لا يستطيع إدراك كل شيء من الناحية النمائية، ولذلك يجب أن يحظى بدعم الكبار."
+        },
+        {
+          "letter": "E",
+          "text": "J.J. Rousseau, çocuğun keşfetme ar­zusunun duyuları yoluyla karşılandığını belirtmiştir.",
+          "images": [],
+          "text_ar": "أشار J.J. Rousseau إلى أن رغبة الطفل في الاستكشاف تُلبَّى عن طريق حواسه."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي غير صحيح فيما يتعلق بالمفكرين البارزين في مجال التعليم؟"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Eğitim alanındaki önemli düşünürlerden Pestalozzi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Pestalozzi, erken çocukluk yıllarında eğitimin doğayla uyumlu olması gerektiğini belirtmekte ve gözlem yaparak somut dene­yimler kazanmanın, çocuklar için en iyi öğrenme yolu olduğu­nu savunmaktadır.",
+          "images": [],
+          "text_ar": "يذكر Pestalozzi أن التعليم في سنوات الطفولة المبكرة يجب أن يكون متوائمًا مع الطبيعة، ويرى أن اكتساب خبرات ملموسة عبر الملاحظة هو أفضل طريق للتعلم لدى الأطفال."
+        },
+        {
+          "letter": "B",
+          "text": "Pestalozzi’ye göre, her tür eğitimin duyusal izlenimlere dayanmakta ve bunlar yardımıyla çocuğun potan­siyel özellikleri gelişmektedir.",
+          "images": [],
+          "text_ar": "يرى Pestalozzi أن كل أنواع التعليم تقوم على الانطباعات الحسية، وبمساعدتها تتطور الخصائص الكامنة لدى الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Pestalozzi, sayma, ölçme, hissetme ve dokunma için kullanılan ma­nipülatif materyallerin, çocukların kavramları öğrenme sürecinde­ki önemine vurgu yapmıştır.",
+          "images": [],
+          "text_ar": "أكد Pestalozzi على أهمية الوسائل التعليمية الملموسة المستخدمة في العد والقياس والإحساس واللمس في عملية تعلم الأطفال المفاهيم."
+        },
+        {
+          "letter": "D",
+          "text": "Pestalozzi’nin eğitim programı, alan gezileri gibi etkinlikler üzerine kurulmuştur.",
+          "images": [],
+          "text_ar": "قام البرنامج التعليمي لدى Pestalozzi على أنشطة مثل الرحلات الميدانية."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كل ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي صحيح فيما يتعلق بـ Pestalozzi، أحد المفكرين البارزين في مجال التعليم؟"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Bebeklik ve ilk çocukluk dönemindeki duyu gelişimiyle ilgili hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bebekler gelişimlerinin her aşamasında duyularını kullanarak, var olan potansiyellerini bir üst noktaya taşımaya gayret eder.",
+          "images": [],
+          "text_ar": "يسعى الرضع في كل مرحلة من مراحل نموهم إلى الارتقاء بقدراتهم الكامنة إلى مستوى أعلى باستخدام حواسهم."
+        },
+        {
+          "letter": "B",
+          "text": "Her bebek yaşama aynı duyu hassasiyeti ile gelemeyebilmektedir.",
+          "images": [],
+          "text_ar": "قد لا يأتي كل رضيع إلى الحياة بالحساسية الحسية نفسها."
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim ve öğrenme hızının her ço­cukta aynı olmaması, kalıtımsal ve çevresel faktörlerin ilişkisi sonucu oluşan duyusal farklılıklardan kaynaklanmaktadır.",
+          "images": [],
+          "text_ar": "يرجع اختلاف سرعة النمو والتعلم من طفل إلى آخر إلى الفروق الحسية الناتجة عن تفاعل العوامل الوراثية والبيئية."
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların duyularının farklı düzeylerde uyarılması, onların düşünme ve anlama yollarını etkilemektedir.",
+          "images": [],
+          "text_ar": "يؤثر استثارة حواس الأطفال بمستويات مختلفة في طرق تفكيرهم وفهمهم."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كل ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي صحيح فيما يتعلق بنمو الحواس في مرحلتي الرضاعة والطفولة الأولى؟"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Freud ve Psiko-seksüel gelişim kuramına göre aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bebekler farklı aşamalardan geçerek kişiliklerini geliştiririler.",
+          "images": [],
+          "text_ar": "يطور الرضع شخصياتهم بالمرور بمراحل مختلفة."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklukta cinsel dürtüler, vücudun oral, anal ve ge(n)ital bölgelerinde gezinerek odaklanmaktadır.",
+          "images": [],
+          "text_ar": "تتجول الدوافع الجنسية في الطفولة وتتركز في مناطق الجسم الفموية والشرجية والتناسلية."
+        },
+        {
+          "letter": "C",
+          "text": "Bebeklik dönemi, Freud’un cinsel gelişim dönemlerinden ilki olan anal döneme rastlamaktadır.",
+          "images": [],
+          "text_ar": "تتوافق مرحلة الرضاعة مع المرحلة الشرجية، وهي أولى مراحل النمو الجنسي عند فرويد."
+        },
+        {
+          "letter": "D",
+          "text": "Bebeklik döneminde, bebeğin haz odağı emmek, ısırmak, yutmak ve dudaklarla oynamak üzerine şekillenmektedir.",
+          "images": [],
+          "text_ar": "في مرحلة الرضاعة يتشكل مصدر متعة الرضيع حول المص والعض والبلع واللعب بالشفاه."
+        },
+        {
+          "letter": "E",
+          "text": "Bebeğin bu dönemi sağlıklı bir şekilde atlatabilmesi için, temel bakım veren kişilerin bebeğe oral uyarımlarda bulunması gerekmektedir.",
+          "images": [],
+          "text_ar": "لكي يجتاز الرضيع هذه المرحلة بشكل صحي، يجب أن يقدم مقدمو الرعاية الأساسيون للرضيع استثارة فموية."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يمكن قوله وفقًا لفرويد ونظريته في النمو النفسي-الجنسي؟"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Erikson’un psiko-sosyal gelişim kuramıyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Erikson bu kuramında insan gelişimini sekiz döneme ayırmaktadır.",
+          "images": [],
+          "text_ar": "يقسم إريكسون في هذه النظرية نمو الإنسان إلى ثماني مراحل."
+        },
+        {
+          "letter": "B",
+          "text": "Her dönemde bireyin döneme özgü çözmesi gereken gelişimsel bir görev bulunmaktadır.",
+          "images": [],
+          "text_ar": "توجد في كل مرحلة مهمة نمائية على الفرد أن يحلها وتكون خاصة بتلك المرحلة."
+        },
+        {
+          "letter": "C",
+          "text": "Bireyin her bir dönemde yüzleştiği bir kriz bulunmakta ve bu krizlerin çözümü sağlıklı bir gelişime işaret etmektedir.",
+          "images": [],
+          "text_ar": "يواجه الفرد أزمة في كل مرحلة، وحل هذه الأزمات يشير إلى نمو صحي."
+        },
+        {
+          "letter": "D",
+          "text": "Bebeğin ilk yaşının sonuna kadar yaşadığı güvene karşı güvensizlik döneminde, oral-motor beceriler ön plandadır.",
+          "images": [],
+          "text_ar": "في مرحلة الثقة مقابل عدم الثقة التي يعيشها الرضيع حتى نهاية سنته الأولى، تكون المهارات الفموية-الحركية في المقدمة."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كل ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي صحيح فيما يتعلق بنظرية إريكسون في النمو النفسي-الاجتماعي؟"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Piaget’in bilişsel gelişim kuramıyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların bilişsel dünyalarını aktif olarak kendilerinin yapılandırmaktadırlar.",
+          "images": [],
+          "text_ar": "يبني الأطفال عوالمهم المعرفية بأنفسهم بشكل نشط."
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların keşif amaçlı fiziksel ve sosyal eylemlerle bilgiyi inşa etmektedirler.",
+          "images": [],
+          "text_ar": "يبني الأطفال المعرفة من خلال أفعال جسدية واجتماعية تستهدف الاستكشاف."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuklar keşif yoluyla edindikleri deneyimlerini kullanarak çevresindeki olay ve durumları anlamaktadırlar.",
+          "images": [],
+          "text_ar": "يفهم الأطفال الأحداث والمواقف المحيطة بهم باستخدام خبراتهم التي اكتسبوها بالاستكشاف."
+        },
+        {
+          "letter": "D",
+          "text": "0-2 yaş döneminde bebek, duyusal deneyimlerini fiziksel, motor eylemle­riyle koordine ederek dünyayı anlamaya çalışmaktadır.",
+          "images": [],
+          "text_ar": "في مرحلة 0-2 سنة يحاول الرضيع فهم العالم بتنسيق خبراته الحسية مع أفعاله الجسدية والحركية."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كل ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي صحيح فيما يتعلق بنظرية بياجيه في النمو المعرفي؟"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Vygotsky’nin sosyo-kültürel gelişim kuramına göre hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vygotsky çocukların bilişsel gelişimlerinde sosyal çevre ve kültürel yapının önemi üzerinde durmaktadır.",
+          "images": [],
+          "text_ar": "يركز فيغوتسكي على أهمية البيئة الاجتماعية والبنية الثقافية في النمو المعرفي للأطفال."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğa rehberlik yapan ve çocuğun öğrenmesine anlamlı kat­kılar sağlayan yetişkinler sayesinde, çocuk bilişsel olarak gelişmektedir.",
+          "images": [],
+          "text_ar": "يتطور الطفل معرفيًا بفضل الكبار الذين يرشدونه ويقدمون مساهمات ذات معنى في تعلمه."
+        },
+        {
+          "letter": "C",
+          "text": "Vygotsky çocukların mevcut bir öğrenme kapasitesine sahip olduğunu ve bu kapasiteyi yetişkin ya da akranlarının yardımıyla yapılandırabi­leceğini savunmaktadır.",
+          "images": [],
+          "text_ar": "يرى فيغوتسكي أن الأطفال يمتلكون قدرة تعلم موجودة، وأنهم يستطيعون بناء هذه القدرة بمساعدة الكبار أو الأقران."
+        },
+        {
+          "letter": "D",
+          "text": "Bu süreçte yetişkinin bebeği cesaretlendirmesi ve doğru şemayı oluşturması için onu desteklemesi gerekmektedir.",
+          "images": [],
+          "text_ar": "في هذه العملية يجب أن يشجع الكبير الرضيع ويدعمه لتكوين المخطط الصحيح."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كل ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي صحيح وفقًا لنظرية فيغوتسكي في النمو الاجتماعي-الثقافي؟"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Bandura’nın sosyal bilişsel kuramına göre aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bandura, bilişsel süreçlerin çevreyle ve davranışlarla önemli bir şekilde bağlantılı olduğunu vurgulamaktadır.",
+          "images": [],
+          "text_ar": "يؤكد باندورا أن العمليات المعرفية ترتبط ارتباطًا وثيقًا بالبيئة والسلوكيات."
+        },
+        {
+          "letter": "B",
+          "text": "Bandura’ya göre gözlem yapan çocuk, gözlemlerini belleğe kaydetmekte ve gözlenen bilgiyi sembolleştirip kodlayarak hafızada saklamaktadır.",
+          "images": [],
+          "text_ar": "يرى باندورا أن الطفل المُلاحِظ يسجل ملاحظاته في الذاكرة، ويحتفظ بالمعلومات المُلاحَظة في ذاكرته بعد ترميزها وتمثيلها رمزيًا."
+        },
+        {
+          "letter": "C",
+          "text": "Kurama göre çocuk neyi taklit edeceği ile ilgili seçici davranmaz, herhangi bir durum taklit edilenilir.",
+          "images": [],
+          "text_ar": "وفقًا للنظرية، لا يتصرف الطفل انتقائيًا فيما يتعلق بما يقلده، بل يمكن تقليد أي موقف."
+        },
+        {
+          "letter": "D",
+          "text": "Başkaları tarafından çocuğa sunulan ödül, ceza ya da diğer dönütler sonrasında, çocuk bu sunulanlara dayalı öz yeterlilik bilinci geliştirileceğini savunur.",
+          "images": [],
+          "text_ar": "يرى أن وعي الطفل بالكفاءة الذاتية يتطور بعد المكافأة أو العقاب أو غيرها من التغذيات الراجعة التي يقدمها الآخرون له، استنادًا إلى ما قُدِّم له."
+        },
+        {
+          "letter": "E",
+          "text": "Kurama göre çocuğun çevresel yaşantısında karşılaşabileceği güç durumların üstesinden gelebilmesi için güdülenmesi gerekmekte­dir.",
+          "images": [],
+          "text_ar": "وفقًا للنظرية، يحتاج الطفل إلى أن يكون مُحفَّزًا للتغلب على المواقف الصعبة التي قد يواجهها في حياته البيئية."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي غير صحيح وفقًا للنظرية المعرفية الاجتماعية لباندورا؟"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Bowlby’nin bağlanma kuramına göre aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bowlby yaşamın birinci yılında bağlanmanın ve bakım verenin duyarlılığının önemini vurgulamaktadır.",
+          "images": [],
+          "text_ar": "يؤكد بولبي على أهمية التعلق وحساسية مقدم الرعاية في السنة الأولى من الحياة."
+        },
+        {
+          "letter": "B",
+          "text": "Bowlby, hem bebeklerin hem de temel ba­kım veren kişilerin bağlanma davranışının ortaya çıkmasında biyolojik olarak donanımlı bir şekilde dünyaya geldiklerini be­lirtmektir.",
+          "images": [],
+          "text_ar": "يشير بولبي إلى أن الرضع ومقدمي الرعاية الأساسيين يأتون إلى العالم مجهزين بيولوجيًا لظهور سلوك التعلق."
+        },
+        {
+          "letter": "C",
+          "text": "Bebeğin gelişimsel açıdan potansiyelini üst seviyelere çıkarması, ailesi özel­likle annesi ile kuracağı ilişkinin düzeyine bağlıdır.",
+          "images": [],
+          "text_ar": "يعتمد ارتقاء الرضيع بقدراته الكامنة إلى مستويات عليا من الناحية النمائية على مستوى العلاقة التي يقيمها مع أسرته، ولا سيما أمه."
+        },
+        {
+          "letter": "D",
+          "text": "Bu ilişkinin kurulmasında ise duyu­sal öğrenme deneyimlere bağlı etkileşim gerekmektedir.",
+          "images": [],
+          "text_ar": "ويتطلب إقامة هذه العلاقة تفاعلًا مرتبطًا بخبرات التعلم الحسي."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كل ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي صحيح وفقًا لنظرية بولبي في التعلق؟"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Montessori yaklaşımına göre hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Montessori her çocuğun doğumla birlik­te çevresini keşfetme eğiliminde olduğundan bahsetmektedir.",
+          "images": [],
+          "text_ar": "تذكر مونتيسوري أن كل طفل يميل منذ الولادة إلى استكشاف محيطه."
+        },
+        {
+          "letter": "B",
+          "text": "Duyular, küçük çocukların öğrenmelerini gerçekleştirmelerinde diğer eğitim programlarına göre ikinci plandadır.",
+          "images": [],
+          "text_ar": "تأتي الحواس في المرتبة الثانية مقارنة بالبرامج التعليمية الأخرى في تحقيق تعلم الأطفال الصغار."
+        },
+        {
+          "letter": "C",
+          "text": "Bebekler, doğdukları andan itibaren her yeni objeyi tanımak için ağzına doğru götürmekte ya da etraflarındaki yüzeyi tanımaya çalış­maktadır.",
+          "images": [],
+          "text_ar": "يحمل الرضع كل شيء جديد إلى أفواههم منذ لحظة الولادة للتعرف عليه، أو يحاولون التعرف على الأسطح المحيطة بهم."
+        },
+        {
+          "letter": "D",
+          "text": "Doğumdan üç yaşına kadar çocuk farkında olmaksızın çevresi tarafından etkilenmekte ve çevresinde etkileştiği her şeyi zihinsel olarak emmektedir.",
+          "images": [],
+          "text_ar": "من الولادة حتى الثالثة من العمر يتأثر الطفل بمحيطه دون وعي، ويمتص عقليًا كل ما يتفاعل معه في محيطه."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يمكن قوله وفقًا لمنهج مونتيسوري؟"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "Otizm spektrum bozukluğu olan çocuklardaki duyusal problemlerle ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnsan yüzüne bakmak ve göz teması kurmakta problem yaşayabilirler.",
+          "images": [],
+          "text_ar": "قد يواجهون مشكلة في النظر إلى وجوه الناس وإقامة التواصل البصري."
+        },
+        {
+          "letter": "B",
+          "text": "Hareket eden, dönen ya da parlak olan bazı nesnelere çok uzun süre bakabilirler.",
+          "images": [],
+          "text_ar": "قد ينظرون مدة طويلة جدًا إلى بعض الأشياء المتحركة أو الدوارة أو اللامعة."
+        },
+        {
+          "letter": "C",
+          "text": "Zaman zaman ışıktan ciddi biçimde rahatsızlık duyabilirler.",
+          "images": [],
+          "text_ar": "قد ينزعجون انزعاجًا شديدًا من الضوء أحيانًا."
+        },
+        {
+          "letter": "D",
+          "text": "Seslere karşı oldukça farklı tepkiler verebilirler.",
+          "images": [],
+          "text_ar": "قد يبدون استجابات مختلفة جدًا تجاه الأصوات."
+        },
+        {
+          "letter": "E",
+          "text": "Ses ve ışıkla ilgili problemleri olsa da koku duyusuyla ilgili belirgin bir problem yaşamazlar.",
+          "images": [],
+          "text_ar": "رغم أن لديهم مشكلات متعلقة بالصوت والضوء، فإنهم لا يعانون مشكلة واضحة تتعلق بحاسة الشم."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن المشكلات الحسية لدى الأطفال ذوي اضطراب طيف التوحد؟"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "Otizm spektrum bozukluğu olan çocuklardaki duyusal problemlerle ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kucağa alınmaya tepki gösterebilir, fiziksel teması reddedebilirler.",
+          "images": [],
+          "text_ar": "قد يبدون رد فعل عند احتضانهم، وقد يرفضون التلامس الجسدي."
+        },
+        {
+          "letter": "B",
+          "text": "Acıya karşı duyarsızlık gösterebilirler.",
+          "images": [],
+          "text_ar": "قد يبدون عدم إحساس بالألم."
+        },
+        {
+          "letter": "C",
+          "text": "Pek çoğunun soğuğa ve sıcağa aşırı derecede tepki gösterirler.",
+          "images": [],
+          "text_ar": "يبدي معظمهم رد فعل مفرطًا تجاه البرد والحرارة."
+        },
+        {
+          "letter": "D",
+          "text": "Gıdaların tatlarına karşı aşırı hassasiyet gösterebilir bu nedenle beslenme alışkanlıkları ile ilgili ciddi sorunlar yaşayabilirler.",
+          "images": [],
+          "text_ar": "قد يبدون حساسية مفرطة تجاه أطعمة معينة، ولذلك قد يواجهون مشكلات جدية في عادات التغذية."
+        },
+        {
+          "letter": "E",
+          "text": "İp atlama, dans, yüzme gibi büyük kas motor becerilerin kullanılmasını gerektiren bazı hareketle­ri daha geç öğrenebilirler.",
+          "images": [],
+          "text_ar": "قد يتعلمون بعض الحركات التي تتطلب استخدام المهارات الحركية للعضلات الكبيرة، مثل نط الحبل والرقص والسباحة، في وقت متأخر."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن المشكلات الحسية لدى الأطفال ذوي اضطراب طيف التوحد؟"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "Otizm spektrum bozukluğu olan çocuklardaki motor ve duyusal gelişimi desteklemek amacıyla aşağıdaki oyun/aktivitelerden hangisi önerilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İp atlama",
+          "images": [],
+          "text_ar": "نط الحبل"
+        },
+        {
+          "letter": "B",
+          "text": "Trambolinde zıplama",
+          "images": [],
+          "text_ar": "القفز على الترامبولين"
+        },
+        {
+          "letter": "C",
+          "text": "El arabası ile yürüme",
+          "images": [],
+          "text_ar": "المشي على الأيدي كعجلة العربة"
+        },
+        {
+          "letter": "D",
+          "text": "Sürünme oyunları",
+          "images": [],
+          "text_ar": "ألعاب الزحف"
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كل ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من الألعاب أو الأنشطة التالية يُوصى بها لدعم النمو الحركي والحسي لدى الأطفال ذوي اضطراب طيف التوحد؟"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "Görme yetersizliği olan çocuklarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görme yetersizliği olan çocukların görme duyularının zayıflığı ya da yokluğu nedeniyle diğer tüm duyularının keskinliği otomatik olarak gelişir.",
+          "images": [],
+          "text_ar": "بسبب ضعف حاسة البصر أو غيابها لدى الأطفال ذوي القصور البصري، تتطور حدة جميع حواسهم الأخرى تلقائيًا."
+        },
+        {
+          "letter": "B",
+          "text": "Görme yetersizliği olan bebeklerin dokunma ve işitme duyularının eşiği yüksektir.",
+          "images": [],
+          "text_ar": "عتبة حاستي اللمس والسمع لدى الرضع ذوي القصور البصري مرتفعة."
+        },
+        {
+          "letter": "C",
+          "text": "Görme yetersizliği olan çocuklar sahip oldukları duyuları daha iyi kullanarak, kon­santrasyon ve dikkat ile çok hassas ayrımlar yapmayı öğrenmektedirler.",
+          "images": [],
+          "text_ar": "يتعلم الأطفال ذوو القصور البصري استخدام حواسهم المتاحة على نحو أفضل، وإجراء تمييزات دقيقة جدًا بالتركيز والانتباه."
+        },
+        {
+          "letter": "D",
+          "text": "Görme yetersizliği olan çocuklar için görme sınırlılıkları doğrultusunda duyu temelli eğitim programları bireysel olarak tasarlanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي تصميم برامج تربوية قائمة على الحواس بشكل فردي للأطفال ذوي القصور البصري وفقًا لحدود قدرتهم البصرية."
+        },
+        {
+          "letter": "E",
+          "text": "Görme yetersizliği olan çocukların en önemli duyusu işitmedir.",
+          "images": [],
+          "text_ar": "أهم حاسة لدى الأطفال ذوي القصور البصري هي السمع."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من العبارات التالية غير صحيحة فيما يتعلق بالأطفال ذوي القصور البصري؟"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "Görme yetersizliği olan çocuklarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu çocuklara farklı sesler dinletilerek sesler arasındaki farkları ayırt etmesi sağlanabilir.",
+          "images": [],
+          "text_ar": "يمكن تمكين هؤلاء الأطفال من التمييز بين الأصوات بإسماعهم أصواتًا مختلفة."
+        },
+        {
+          "letter": "B",
+          "text": "İşitsel becerileri desteklemeye yönelik duyu temelli eğitimde, bu eğitimin hareket temelli olmasını sağlamak önemlidir.",
+          "images": [],
+          "text_ar": "في التربية القائمة على الحواس الهادفة إلى دعم المهارات السمعية، من المهم أن يكون هذا التعليم قائمًا على الحركة."
+        },
+        {
+          "letter": "C",
+          "text": "Koku duyusu, görme yetersizliği olan çocukların öğrenmelerini hızlandırmada sanıldığı kadar önemli değildir.",
+          "images": [],
+          "text_ar": "حاسة الشم ليست مهمة في تسريع تعلم الأطفال ذوي القصور البصري بالقدر الذي يُظن."
+        },
+        {
+          "letter": "D",
+          "text": "Ağzını kullanarak keşfetmeye çalışan görme yeter­sizliği olan çocuk için tat duyusu oldukça önemlidir.",
+          "images": [],
+          "text_ar": "حاسة التذوق مهمة جدًا للطفل ذي القصور البصري الذي يحاول الاستكشاف باستخدام فمه."
+        },
+        {
+          "letter": "E",
+          "text": "Dokunma duyusu; görme yetersizliği olan çocuklarda çevreyle ilgili bilgi toplamak için oldukça önemli bilgi kaynağıdır.",
+          "images": [],
+          "text_ar": "حاسة اللمس مصدر معلومات مهم جدًا لجمع المعلومات عن المحيط لدى الأطفال ذوي القصور البصري."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية غير صحيحة فيما يتعلق بالأطفال ذوي القصور البصري؟"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "İşitme yetersizliği olan çocuklarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşitme yetersizliği olan çocuklarda dil problemi de görülebilmektedir.",
+          "images": [],
+          "text_ar": "قد تظهر لدى الأطفال ذوي القصور السمعي مشكلات لغوية أيضًا."
+        },
+        {
+          "letter": "B",
+          "text": "Bu çocuklar dili geliştirmek için gerekli zihinsel kapasiteye sahip olamamaktadır.",
+          "images": [],
+          "text_ar": "هؤلاء الأطفال لا يمتلكون القدرة العقلية اللازمة لتطوير اللغة."
+        },
+        {
+          "letter": "C",
+          "text": "İşitme yetersizliği, çocuklarda duyusal yoksunluk ve algısal azalmaya yol açabilir.",
+          "images": [],
+          "text_ar": "قد يؤدي القصور السمعي عند الأطفال إلى الحرمان الحسي وانخفاض الإدراك."
+        },
+        {
+          "letter": "D",
+          "text": "Görmeyi rehber duyu olarak kullanan işitme yetersizliği olan çocuk, çevre­sinde görsel olarak kontrol edemediği değişiklikleri ürkütücü deneyimler sonucunda öğrenir.",
+          "images": [],
+          "text_ar": "الطفل ذو القصور السمعي الذي يستخدم البصر حاسةً مرشدة يتعلم التغيرات التي لا يستطيع التحكم فيها بصريًا في محيطه نتيجة تجارب مخيفة."
+        },
+        {
+          "letter": "E",
+          "text": "İşitme yetersizliği olan çocuk için, titreşimler duyumsal sinyal olmaya baş­lar.",
+          "images": [],
+          "text_ar": "بالنسبة للطفل ذي القصور السمعي، تبدأ الاهتزازات في أن تصبح إشارات حسية."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من العبارات التالية غير صحيحة فيما يتعلق بالأطفال ذوي القصور السمعي؟"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "İşitme yetersizliği olan çocuklarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşitme duyusunun yetersizliğinde; görme duyusu, çocuklar için ol­dukça önem kazanmaktadır.",
+          "images": [],
+          "text_ar": "في حالة قصور حاسة السمع، تكتسب حاسة البصر أهمية كبيرة لدى الأطفال."
+        },
+        {
+          "letter": "B",
+          "text": "İşitme yetersizliği olan çocukların görme duyusunu desteklemek için, çocukların konuşmacının yüzünü konuşma de­vam ederken tam olarak görmesini sağlamak gerekmektedir.",
+          "images": [],
+          "text_ar": "لدعم حاسة البصر لدى الأطفال ذوي القصور السمعي، يجب تمكين الأطفال من رؤية وجه المتحدث بوضوح أثناء استمرار الكلام."
+        },
+        {
+          "letter": "C",
+          "text": "Düşük olan sesler, çok yüksek hale getirildi­ğinde dokunma reseptörleri uyarılabilir, çocuklar ses kaynağına dokunarak sesi işitebilirler.",
+          "images": [],
+          "text_ar": "عند رفع الأصوات المنخفضة إلى مستوى عالٍ جدًا يمكن استثارة مستقبلات اللمس، فيستطيع الأطفال سماع الصوت بلمس مصدر الصوت."
+        },
+        {
+          "letter": "D",
+          "text": "İşitme duyusu ile denge duyusu yakın ilişki içerisinde olduğundan işitmeyle ilgili bir hasarda denge duyusu da olumsuz etkilenebilmektedir.",
+          "images": [],
+          "text_ar": "لأن حاسة السمع وحاسة التوازن على علاقة وثيقة، فقد تتأثر حاسة التوازن سلبًا عند حدوث ضرر يتعلق بالسمع."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كل ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من العبارات التالية صحيحة فيما يتعلق بالأطفال ذوي القصور السمعي؟"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "Serebral palsy ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bulaşıcı olmayan bir beyin hastalığıdır.",
+          "images": [],
+          "text_ar": "هو مرض دماغي غير معدٍ."
+        },
+        {
+          "letter": "B",
+          "text": "Semptomlar ilerleyen dönemlerde kötüleşme gösterir.",
+          "images": [],
+          "text_ar": "تزداد الأعراض سوءًا في المراحل اللاحقة."
+        },
+        {
+          "letter": "C",
+          "text": "Kronik bir hastalıktır.",
+          "images": [],
+          "text_ar": "هو مرض مزمن."
+        },
+        {
+          "letter": "D",
+          "text": "Fiziksel ve motor yetersizlikleri içermektedir.",
+          "images": [],
+          "text_ar": "يتضمن قصورًا جسديًا وحركيًا."
+        },
+        {
+          "letter": "E",
+          "text": "Duygusal ve davranışsal bozukluklar eşlik edebilir.",
+          "images": [],
+          "text_ar": "قد تصاحبه اضطرابات عاطفية وسلوكية."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن الشلل الدماغي؟"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "Serebral palsy ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Serebral palsyli çocukların büyük çoğunluğunda motor problemlere ek olarak; işitme yetersizlikleri, görme yetersizlikleri algısal bozukluklar görülebilmektedir.",
+          "images": [],
+          "text_ar": "لدى الغالبية العظمى من الأطفال المصابين بالشلل الدماغي، بالإضافة إلى المشكلات الحركية، قد تظهر قصورات سمعية وقصورات بصرية واضطرابات إدراكية."
+        },
+        {
+          "letter": "B",
+          "text": "Bu bireylerde en yaygın görülen göz problemi şaşılıktır.",
+          "images": [],
+          "text_ar": "أكثر مشكلات العين شيوعًا لدى هؤلاء الأفراد هو الحَوَل."
+        },
+        {
+          "letter": "C",
+          "text": "Serebral palsyli çocuklarda işitmenin etkilenmesinin nedeni çok düşük doğum ağırlığı, kernikterus, yenidoğan menenjiti gibi nedenlerdir.",
+          "images": [],
+          "text_ar": "تعود أسباب تأثر السمع لدى الأطفال المصابين بالشلل الدماغي إلى أسباب مثل انخفاض وزن الولادة الشديد واليرقان النووي والتهاب السحايا عند المواليد."
+        },
+        {
+          "letter": "D",
+          "text": "Serebral palsyli çocukların önemli bölümünde tat ve kokulara karşı hassasiyet görülmektedir.",
+          "images": [],
+          "text_ar": "تظهر حساسية تجاه المذاقات والروائح لدى نسبة كبيرة من الأطفال المصابين بالشلل الدماغي."
+        },
+        {
+          "letter": "E",
+          "text": "Serebral palsyli çocukların büyük kısmında gelişim basamakları yaşlarıyla uyumludur.",
+          "images": [],
+          "text_ar": "لدى معظم الأطفال المصابين بالشلل الدماغي تكون مراحل النمو متوافقة مع أعمارهم."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن الشلل الدماغي؟",
+      "review": [
+        "q29.C: استُخدم مصطلح «اليرقان النووي» مقابل kernikterus وهو المقابل الطبي المتعارف عليه."
+      ]
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "Serebral palsy ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duyusal problemler sıklıkla eşlik eder.",
+          "images": [],
+          "text_ar": "كثيرًا ما تصاحبه مشكلات حسية."
+        },
+        {
+          "letter": "B",
+          "text": "Gelişim basamakları yaşıtlarının gerisinde olabilmektedir.",
+          "images": [],
+          "text_ar": "قد تتأخر مراحل النمو عن أقرانهم."
+        },
+        {
+          "letter": "C",
+          "text": "Serebral palsynin nedenlerinden biri gebelik döneminde yaşanan hastalıklardır.",
+          "images": [],
+          "text_ar": "من أسباب الشلل الدماغي الأمراض التي تحدث خلال فترة الحمل."
+        },
+        {
+          "letter": "D",
+          "text": "Motor problemler duyusal problemlerden daha nadir görülür.",
+          "images": [],
+          "text_ar": "المشكلات الحركية أقل شيوعًا من المشكلات الحسية."
+        },
+        {
+          "letter": "E",
+          "text": "Şaşılık gibi görmeyle ilgili problemler görülebilmektedir.",
+          "images": [],
+          "text_ar": "قد تظهر مشكلات متعلقة بالبصر مثل الحَوَل."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي غير صحيح فيما يتعلق بالشلل الدماغي؟"
+    },
+    {
+      "n": 31,
+      "type": "legacy_text",
+      "stem": "Özgül öğrenme bozukluğu ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel öğrenme bozukluğu olan çocukların dili kullanma ya da anla­ma ile ilgili zorlukları olabilmektedir.",
+          "images": [],
+          "text_ar": "قد يواجه الأطفال ذوو اضطراب التعلم النوعي صعوبات في استخدام اللغة أو فهمها."
+        },
+        {
+          "letter": "B",
+          "text": "Temelinde görsel algılama sorunlarının olduğu öne sürülmüştür, ancak görsel takipte sorun yaşamazlar.",
+          "images": [],
+          "text_ar": "قِيل إن مشكلات الإدراك البصري تكمن في أساسه، لكنهم لا يواجهون مشكلات في التتبع البصري."
+        },
+        {
+          "letter": "C",
+          "text": "Özel öğrenme bozukluğu olan çocukların işitsel bellekleri yaşıtlarına kıyasla zayıftır.",
+          "images": [],
+          "text_ar": "الذاكرة السمعية لدى الأطفال ذوي اضطراب التعلم النوعي أضعف مقارنة بأقرانهم."
+        },
+        {
+          "letter": "D",
+          "text": "Birbirlerine benzeyen sesleri ayırmada zorluklar yaşayabilmektedirler.",
+          "images": [],
+          "text_ar": "قد يواجهون صعوبات في التمييز بين الأصوات المتشابهة."
+        },
+        {
+          "letter": "E",
+          "text": "Özel öğrenme bo­zukluğu olan çocuklar nesneleri dokunarak tanımlamada güçlük çekerler.",
+          "images": [],
+          "text_ar": "يجد الأطفال ذوو اضطراب التعلم النوعي صعوبة في التعرف على الأشياء عن طريق اللمس."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن اضطراب التعلم النوعي؟"
+    },
+    {
+      "n": 32,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki hastalık ya da bozukluklardan hangisi için duyu temelli eğitim desteği önemlidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özgül öğrenme bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التعلم النوعي"
+        },
+        {
+          "letter": "B",
+          "text": "Down Sendromu",
+          "images": [],
+          "text_ar": "متلازمة داون"
+        },
+        {
+          "letter": "C",
+          "text": "Dikkat eksikliği ve hiperaktivite bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب نقص الانتباه وفرط النشاط"
+        },
+        {
+          "letter": "D",
+          "text": "Serebral palsy",
+          "images": [],
+          "text_ar": "الشلل الدماغي"
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كل ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "لأي من الأمراض أو الاضطرابات التالية يكون دعم التربية القائمة على الحواس مهمًا؟"
+    },
+    {
+      "n": 33,
+      "type": "legacy_text",
+      "stem": "Özgül öğrenme bozukluğu ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu tür çocuklar çevreleri tarafından dikkatsiz olarak nitelendirilebilirler.",
+          "images": [],
+          "text_ar": "قد يصف المحيطون بهؤلاء الأطفال بأنهم قليلو الانتباه."
+        },
+        {
+          "letter": "B",
+          "text": "Akademik başarı olarak ak­ranlarına göre daha düşük bir seviye gösterebilirler.",
+          "images": [],
+          "text_ar": "قد يظهرون مستوى أدنى من أقرانهم في التحصيل الأكاديمي."
+        },
+        {
+          "letter": "C",
+          "text": "Yazarken satır takibinde zorlansalar da, okurken böyle bir güçlük yaşamazlar.",
+          "images": [],
+          "text_ar": "رغم أنهم يجدون صعوبة في تتبع السطر أثناء الكتابة، فإنهم لا يواجهون مثل هذه الصعوبة أثناء القراءة."
+        },
+        {
+          "letter": "D",
+          "text": "İşitsel bellekleri yaşıtlarına göre zayıftır.",
+          "images": [],
+          "text_ar": "ذاكرتهم السمعية أضعف من أقرانهم."
+        },
+        {
+          "letter": "E",
+          "text": "Özel öğrenme bo­zukluğu yaşayan çocukların çoğunda dil gecikmesi görülür.",
+          "images": [],
+          "text_ar": "يظهر تأخر لغوي لدى معظم الأطفال ذوي اضطراب التعلم النوعي."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي غير صحيح فيما يتعلق باضطراب التعلم النوعي؟"
+    },
+    {
+      "n": 34,
+      "type": "legacy_text",
+      "stem": "Üstün ve özel yetenekli çocuklarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duyularla ilgili tüm uyaranlara karşı aşırı duyarlı olmakla birlikte tepkileri de aşırı duyarlı olabilmektedir.",
+          "images": [],
+          "text_ar": "يكونون شديدي الحساسية تجاه جميع المثيرات الحسية، كما قد تكون استجاباتهم شديدة الحساسية."
+        },
+        {
+          "letter": "B",
+          "text": "Ayrıntılara dikkat ederek başkalarının fark edemediği detayları kolaylıkla fark edebilmektedirler.",
+          "images": [],
+          "text_ar": "يلاحظون التفاصيل وينتبهون بسهولة إلى تفاصيل لا يلاحظها الآخرون."
+        },
+        {
+          "letter": "C",
+          "text": "Görsel becerileri yaşıtlarından üstündür ancak, dinleme becerileri düşüktür.",
+          "images": [],
+          "text_ar": "مهاراتهم البصرية أرقى من أقرانهم، لكن مهارات الإنصات لديهم منخفضة."
+        },
+        {
+          "letter": "D",
+          "text": "Tat ve dokunma duyusuyla ilgili aşırı hassasiyet gösterebilirler.",
+          "images": [],
+          "text_ar": "قد يبدون حساسية مفرطة تتعلق بحاستي التذوق واللمس."
+        },
+        {
+          "letter": "E",
+          "text": "Motor gelişimleri akranlarına göre daha hızlıdır.",
+          "images": [],
+          "text_ar": "نموهم الحركي أسرع من أقرانهم."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية غير صحيحة فيما يتعلق بالأطفال الموهوبين وذوي القدرات الخاصة؟"
+    },
+    {
+      "n": 35,
+      "type": "legacy_text",
+      "stem": "Dikkat eksikliği ve hiperaktivite bozukluğu olan çocuklarla ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özensiz yanlışlar yapar, dikkatini yeterince sürdüremezler.",
+          "images": [],
+          "text_ar": "يرتكبون أخطاء ناتجة عن عدم الدقة، ولا يستطيعون مواصلة انتباههم بالقدر الكافي."
+        },
+        {
+          "letter": "B",
+          "text": "Yaşıtlarına göre zeka puanları daha yüksektir.",
+          "images": [],
+          "text_ar": "درجات ذكائهم أعلى من أقرانهم."
+        },
+        {
+          "letter": "C",
+          "text": "Çoğu zaman yaptıkları işi sonlandırmada güçlük çekerler.",
+          "images": [],
+          "text_ar": "غالبًا ما يجدون صعوبة في إنهاء العمل الذي يقومون به."
+        },
+        {
+          "letter": "D",
+          "text": "Yerinde oturmak ve sessiz kalmakta zorluk yaşarlar.",
+          "images": [],
+          "text_ar": "يواجهون صعوبة في الجلوس في مكانهم والبقاء صامتين."
+        },
+        {
+          "letter": "E",
+          "text": "Karşısındakinin sözünü keser, düşünmeden davranırlar",
+          "images": [],
+          "text_ar": "يقاطعون حديث من أمامهم ويتصرفون دون تفكير."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن الأطفال ذوي اضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 36,
+      "type": "legacy_text",
+      "stem": "Dikkat eksikliği ve hiperaktivite bozukluğu ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul çağı çocuklarında sık görülen durumlardan biridir.",
+          "images": [],
+          "text_ar": "هو من الحالات الشائعة لدى الأطفال في سن المدرسة."
+        },
+        {
+          "letter": "B",
+          "text": "Tipik özellikleri arasında dikkatsizlik, hiperaktivite ve dürtüsellik bulunur.",
+          "images": [],
+          "text_ar": "من خصائصه النموذجية قلة الانتباه وفرط النشاط والاندفاعية."
+        },
+        {
+          "letter": "C",
+          "text": "Belirtiler her çocukta aynı şekilde ve derece seyretmeyebilir.",
+          "images": [],
+          "text_ar": "قد لا تسير الأعراض بالطريقة والدرجة نفسها لدى كل طفل."
+        },
+        {
+          "letter": "D",
+          "text": "Duyusal problemler özgül öğrenme bozukluğuna kıyasla daha sık eşlik eder.",
+          "images": [],
+          "text_ar": "تصاحب المشكلات الحسية هذا الاضطراب أكثر من اضطراب التعلم النوعي."
+        },
+        {
+          "letter": "E",
+          "text": "Okunanı ya da söylenileni dinleme ile ilgili sorunlar sık görülür.",
+          "images": [],
+          "text_ar": "كثيرًا ما تظهر مشكلات تتعلق بالإنصات إلى ما يُقرأ أو يُقال."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن اضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 37,
+      "type": "legacy_text",
+      "stem": "Dikkat eksikliği ve hiperaktivite bozukluğu olan çocuklarla ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşitsel uyaranlara karşı yaşıtlarına göre daha az tepki verebilirler.",
+          "images": [],
+          "text_ar": "قد يبدون استجابة أقل تجاه المثيرات السمعية مقارنة بأقرانهم."
+        },
+        {
+          "letter": "B",
+          "text": "Görsel uyaranlara işitsel uyaranlardan daha fazla tepki verirler.",
+          "images": [],
+          "text_ar": "يبدون استجابة أكبر للمثيرات البصرية من المثيرات السمعية."
+        },
+        {
+          "letter": "C",
+          "text": "Denge ve dokunma duyusu ile ilgili problemler yaşayabilirler.",
+          "images": [],
+          "text_ar": "قد يواجهون مشكلات تتعلق بحاستي التوازن واللمس."
+        },
+        {
+          "letter": "D",
+          "text": "Şekil-zemin algısı ile ilgili güçlükler yaşayabilirler.",
+          "images": [],
+          "text_ar": "قد يواجهون صعوبات تتعلق بإدراك الشكل والخلفية."
+        },
+        {
+          "letter": "E",
+          "text": "Yürürken eşyalara çarpabilir, sakarlık gösterebilirler.",
+          "images": [],
+          "text_ar": "قد يصطدمون بالأشياء أثناء المشي ويبدون عدم براعة."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يمكن قوله عن الأطفال ذوي اضطراب نقص الانتباه وفرط النشاط؟"
+    },
+    {
+      "n": 38,
+      "type": "legacy_text",
+      "stem": "Down Sendromuyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zihinsel yetersizliğin sık önemli sebeplerinden biridir.",
+          "images": [],
+          "text_ar": "هي أحد الأسباب المهمة الشائعة للقصور العقلي."
+        },
+        {
+          "letter": "B",
+          "text": "Görülme sıklığı 1/600 ila 1/1000 arasındadır.",
+          "images": [],
+          "text_ar": "يتراوح معدل انتشارها بين 1/600 و1/1000."
+        },
+        {
+          "letter": "C",
+          "text": "Kısa boy, şişkin kısa parmaklar, verev göz kapakları ile karakterizedir.",
+          "images": [],
+          "text_ar": "تتميز بقصر القامة وأصابع قصيرة ممتلئة وجفون مائلة."
+        },
+        {
+          "letter": "D",
+          "text": "Görme yetersizliği, tipik gelişim gösteren çocuklardan daha sık görülmektedir.",
+          "images": [],
+          "text_ar": "يظهر القصور البصري لدى هؤلاء الأطفال أكثر من الأطفال ذوي النمو النموذجي."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كل ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي صحيح فيما يتعلق بمتلازمة داون؟"
+    },
+    {
+      "n": 39,
+      "type": "legacy_text",
+      "stem": "Down Sendromuyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Myopi, şaşılık, gözyaşı kanallarında tıkanıklık gibi durumlar sık görülür.",
+          "images": [],
+          "text_ar": "كثيرًا ما تظهر حالات مثل قِصَر النظر والحَوَل وانسداد القنوات الدمعية."
+        },
+        {
+          "letter": "B",
+          "text": "Yüksek frekans işitme kaybı sık gö­rülen işitme yetersizliği türüdür.",
+          "images": [],
+          "text_ar": "فقدان السمع عالي التردد هو نوع القصور السمعي الشائع."
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim sürecinde fark edilmeden oluşabilecek işitme kaybı dil gelişimini de olumsuz etkiler.",
+          "images": [],
+          "text_ar": "قد يحدث فقدان السمع دون أن يُلاحظ خلال عملية النمو، ويؤثر سلبًا في تطور اللغة أيضًا."
+        },
+        {
+          "letter": "D",
+          "text": "Hipotoni nedeniyle baş kontrolü gecikebilir.",
+          "images": [],
+          "text_ar": "قد يتأخر التحكم في الرأس بسبب انخفاض التوتر العضلي."
+        },
+        {
+          "letter": "E",
+          "text": "İnce motor becerilerde sorun yaşasalar da, kaba motor problemler sık değildir.",
+          "images": [],
+          "text_ar": "رغم أنهم يواجهون مشكلات في المهارات الحركية الدقيقة، فإن المشكلات الحركية الكبرى ليست شائعة."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي غير صحيح فيما يتعلق بمتلازمة داون؟"
+    },
+    {
+      "n": 40,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi duyusal bütünleme sorunları olan çocukların ortak özelliklerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dikkat problemi yaşarlar ve görevlere odaklanmada zorluk çekerler.",
+          "images": [],
+          "text_ar": "يعانون مشكلة في الانتباه ويجدون صعوبة في التركيز على المهام."
+        },
+        {
+          "letter": "B",
+          "text": "Hareket koordinasyonu ile ilgili sorunlar söz konusudur.",
+          "images": [],
+          "text_ar": "توجد لديهم مشكلات تتعلق بتناسق الحركة."
+        },
+        {
+          "letter": "C",
+          "text": "Dokunmaya, ışığa ya da sese karşı aşırı hassasiyet gösterirler.",
+          "images": [],
+          "text_ar": "يبدون حساسية مفرطة تجاه اللمس أو الضوء أو الصوت."
+        },
+        {
+          "letter": "D",
+          "text": "Bedenin uzayda kapladığı yerle ilgili farkındalık eksikliği vardır.",
+          "images": [],
+          "text_ar": "لديهم نقص في الوعي بالمكان الذي يشغله الجسم في الفضاء."
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": [],
+          "text_ar": "كل ما سبق"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي من الخصائص المشتركة لدى الأطفال ذوي مشكلات التكامل الحسي؟"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "45ac33c2ee99bbe1b14b74fe37a713821556785bcbac2b5a9b057cb63eb85483"
+}

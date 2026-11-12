@@ -1,0 +1,865 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "2022-2023 Vize Soruları",
+  "exam_slug": "vize-2022-2023",
+  "page_title": "Çocuk Gelişimi Uygulamaları-1 2022-2023 Vize Soruları",
+  "source_url": "https://lolonolo.com/2022/11/18/cocuk-gelisimi-uygulamalari-1-2022-2023-vize-sorulari/",
+  "scraped_at": "2026-11-12T02:21:11+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Kabızlığın dışkı kaçırma (enkoprezis) sorununa neden olma mekanizması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bağırsak kanalında bekleyen dışkının sertleşmesi",
+          "images": [],
+          "text_ar": "تصلّب البراز المتبقي في الأمعاء"
+        },
+        {
+          "letter": "B",
+          "text": "Bağırsak kanalında oluşan dışkı kitlesinin dışkılama fizyolojisini bozması",
+          "images": [],
+          "text_ar": "إخلال كتلة البراز المتكوّنة في الأمعاء بفسيولوجيا التغوّط"
+        },
+        {
+          "letter": "C",
+          "text": "Sertleşen dışkının ağrılı dışkılama nedeniyle korku oluşturması",
+          "images": [],
+          "text_ar": "تسبّب البراز المتصلّب في نشوء الخوف بسبب التغوّط المؤلم"
+        },
+        {
+          "letter": "D",
+          "text": "Kabızlığın katı ve lifsiz gıdalarla aşırı beslenmeye yol açması",
+          "images": [],
+          "text_ar": "تسبُّب الإمساك في الإفراط في التغذية بالأطعمة الصلبة الخالية من الألياف"
+        },
+        {
+          "letter": "E",
+          "text": "Korku ve bağırsak hareketlerinin yavaşlaması nedeniyle dışkının tutulması",
+          "images": [],
+          "text_ar": "احتباس البراز بسبب الخوف وتباطؤ حركة الأمعاء"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي غير صحيح بشأن آلية تسبّب الإمساك في مشكلة سلس البراز (enkoprezis)؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "I. Tedavi şekli bozukluğun türüne ve şiddetine göre farklılıklar gösterebilir. II. Birçok durumda ilaç tedavisi uygulandıktan sonra bozukluk tamamen düzelir. III. Özel eğitim ve rehabilitasyon, nörogelişimsel bozukluğu olan çocuklarda sıklıkla gerekir. IV. Bütün nörogelişimsel bozuklukların ilaç tedavisi bulunmaktadır. Çocukluk çağındaki nörogelişimsel/psikiyatrik bozuklukların tedavi ve yönetimiyle ilgili yukarıdaki ifadelerden hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I وIV"
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "D",
+          "text": "II ve IV",
+          "images": [],
+          "text_ar": "II وIV"
+        },
+        {
+          "letter": "E",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. قد تختلف طريقة العلاج باختلاف نوع الاضطراب وشدته. II. في كثير من الحالات يزول الاضطراب تمامًا بعد تطبيق العلاج الدوائي. III. كثيرًا ما يلزم التعليم الخاص وإعادة التأهيل للأطفال ذوي الاضطرابات النمائية العصبية. IV. توجد علاجات دوائية لجميع الاضطرابات النمائية العصبية. أي من العبارات أعلاه صحيحة بشأن علاج الاضطرابات النمائية العصبية/النفسية في مرحلة الطفولة وإدارتها؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi nörogelişimsel bozuklukların ortaya çıkmasında önemli çevresel faktörlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gebelikte sigara kullanımı",
+          "images": [],
+          "text_ar": "التدخين أثناء الحمل"
+        },
+        {
+          "letter": "B",
+          "text": "İleri anne-baba yaşı",
+          "images": [],
+          "text_ar": "تقدّم سن الوالدين"
+        },
+        {
+          "letter": "C",
+          "text": "Gebelikte folik asit kullanımı",
+          "images": [],
+          "text_ar": "استخدام حمض الفوليك أثناء الحمل"
+        },
+        {
+          "letter": "D",
+          "text": "Gebelikte alkol kullanımı",
+          "images": [],
+          "text_ar": "تناول الكحول أثناء الحمل"
+        },
+        {
+          "letter": "E",
+          "text": "Gebelikte madde kullanımı",
+          "images": [],
+          "text_ar": "تعاطي المواد المخدرة أثناء الحمل"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من العوامل البيئية المهمة في ظهور الاضطرابات النمائية العصبية؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "I. Annesi çağırdığında ismine tepki vermemesi II. Uyku düzensizlikleri III. İştah problemleri IV. Sterotipik davranışlarının olması Otizm spektrum bozukluğu tanısı olan 4 yaşında bir çocuk gözlemlendiğinde yukarıdaki belirtilerden hangileri saptanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "C",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        },
+        {
+          "letter": "D",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "E",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I وIV"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. عدم استجابته لاسمه عندما تناديه أمه II. اضطرابات النوم III. مشكلات الشهية IV. وجود سلوكيات نمطية عند ملاحظة طفل في الرابعة من عمره مشخَّص باضطراب طيف التوحد، أي من الأعراض المذكورة أعلاه يمكن رصده؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "I. Tıp ve teknolojideki gelişmelerin etkisiyle psikiyatrik veya nörogelişimsel bozuklukların sıklığı giderek azalmaktadır. II. Her dört çocuktan üçü erişkin oluncaya kadar önemli bir psikiyatrik veya nörogelişimsel bozukluk tanısı almaktadır. III. Gebelikte folik asit kullanımı davranım bozukluğu gelişmesinde önemli bir çevresel faktördür. IV. Bağlanma bozukluğu psikiyatrik bozuklukların gelişmesinde önemli bir risk faktörüdür. V. Psikiyatrik ve nörogelişimsel bozuklukların etki ve sonuçları genellikle yaşam boyu devam eder. Çocukluk çağındaki psikiyatrik veya nörogelişimsel bozukluklar hakkında yukarıda verilenlerden hangileri yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "III, IV ve V",
+          "images": [],
+          "text_ar": "III وIV وV"
+        },
+        {
+          "letter": "B",
+          "text": "II, III ve V",
+          "images": [],
+          "text_ar": "II وIII وV"
+        },
+        {
+          "letter": "C",
+          "text": "II, III ve IV",
+          "images": [],
+          "text_ar": "II وIII وIV"
+        },
+        {
+          "letter": "D",
+          "text": "I, II ve IV",
+          "images": [],
+          "text_ar": "I وII وIV"
+        },
+        {
+          "letter": "E",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. بفعل التطورات في الطب والتكنولوجيا، يتناقص شيوع الاضطرابات النفسية أو النمائية العصبية تدريجيًا. II. ثلاثة من كل أربعة أطفال يتلقون تشخيصًا لاضطراب نفسي أو نمائي عصبي مهم قبل بلوغهم سن الرشد. III. استخدام حمض الفوليك أثناء الحمل عامل بيئي مهم في تطور اضطراب السلوك. IV. اضطراب التعلق عامل خطر مهم في تطور الاضطرابات النفسية. V. تستمر آثار الاضطرابات النفسية والنمائية العصبية ونتائجها عادةً مدى الحياة. أي مما ورد أعلاه غير صحيح بشأن الاضطرابات النفسية أو النمائية العصبية في مرحلة الطفولة؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "I. Akademik olarak lise 3’ü bitirmiş düzeydedir. II. Kendi başına yemek yiyebilir. III. Kendinden büyük ya da küçüklerle iyi ilişkiler kurabilir. IV. Sosyal ilişkilerde çok zorlanır, oyun oynayamaz. Orta düzeyde zihinsel yetersizliği olan 18 yaşındaki bir erkek için yukarıdakilerden hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        },
+        {
+          "letter": "B",
+          "text": "II ve IV",
+          "images": [],
+          "text_ar": "II وIV"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "E",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. مستواه الأكاديمي يعادل من أنهى الصف الثالث الثانوي. II. يستطيع تناول الطعام بنفسه. III. يستطيع إقامة علاقات جيدة مع من هم أكبر منه أو أصغر منه. IV. يواجه صعوبة كبيرة في العلاقات الاجتماعية ولا يستطيع اللعب. أي مما سبق صحيح بشأن شاب في الثامنة عشرة من عمره لديه قصور عقلي متوسط؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Ağır düzeyde zihinsel yetersizliği olan 18 yaşında bir erkek için aşağıdakilerden hangisi söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal ilişkilerde espri veya şakalar yapabilir.",
+          "images": [],
+          "text_ar": "يستطيع إلقاء النكات أو المزاح في العلاقات الاجتماعية."
+        },
+        {
+          "letter": "B",
+          "text": "Kendi başına banyo yapabilir.",
+          "images": [],
+          "text_ar": "يستطيع الاستحمام بنفسه."
+        },
+        {
+          "letter": "C",
+          "text": "Akademik olarak ortaokulu bitirmiş bir çocuk düzeyindedir.",
+          "images": [],
+          "text_ar": "مستواه الأكاديمي يعادل طفلًا أنهى المرحلة الإعدادية."
+        },
+        {
+          "letter": "D",
+          "text": "Birkaç kelime ya da cümleden oluşan bir dil becerisi vardır.",
+          "images": [],
+          "text_ar": "لديه مهارة لغوية تتكوّن من بضع كلمات أو جمل."
+        },
+        {
+          "letter": "E",
+          "text": "Yemek pişirmek gibi ev işlerinde annesine yardımcı olabilir.",
+          "images": [],
+          "text_ar": "يمكنه مساعدة أمه في الأعمال المنزلية مثل طهي الطعام."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي يمكن قوله بشأن شاب في الثامنة عشرة من عمره لديه قصور عقلي شديد؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Otizm spektrumu bozukluğu olan çocuklarla ve bu çocukların klinik değerlendirilmesiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Otizm tanısı sadece çocuk nörolojisi uzmanı tarafından konulur.",
+          "images": [],
+          "text_ar": "لا يُشخَّص التوحد إلا من قِبل أخصائي طب أعصاب الأطفال."
+        },
+        {
+          "letter": "B",
+          "text": "Eşlik eden davranışsal sorunlar için ilaç tedavileri faydalı olabilir.",
+          "images": [],
+          "text_ar": "قد تكون العلاجات الدوائية مفيدة للمشكلات السلوكية المصاحبة."
+        },
+        {
+          "letter": "C",
+          "text": "Otizm tanısı olan olgularda işitme değerlendirmesi rutin olarak yapılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي إجراء تقييم السمع بشكل روتيني في الحالات المشخَّصة بالتوحد."
+        },
+        {
+          "letter": "D",
+          "text": "Birçok olguda belirtiler bebeklikten itibaren vardır.",
+          "images": [],
+          "text_ar": "توجد الأعراض في كثير من الحالات منذ الرضاعة."
+        },
+        {
+          "letter": "E",
+          "text": "Olguların büyük bir kısmında belirtiler yaşam boyu devam eder.",
+          "images": [],
+          "text_ar": "تستمر الأعراض مدى الحياة في معظم الحالات."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي غير صحيح بشأن الأطفال ذوي اضطراب طيف التوحد وتقييمهم السريري؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "I. Problemli davranışın öncüllerinin ortadan kaldırılması II. Problemli davranışın olumsuz pekiştireçlerinin artırılması III. Problemli davranışı azaltmak için uygun cezaların kullanılması IV. Problemli davranışın olumlu pekiştireçlerinin artırılması Davranış probleminin tedavisinde yukarıdakilerden hangileri kullanılabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "D",
+          "text": "II ve IV",
+          "images": [],
+          "text_ar": "II وIV"
+        },
+        {
+          "letter": "E",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. إزالة المثيرات السابقة للسلوك المشكل II. زيادة المعزّزات السلبية للسلوك المشكل III. استخدام عقوبات مناسبة لتقليل السلوك المشكل IV. زيادة المعزّزات الإيجابية للسلوك المشكل أي مما سبق يمكن استخدامه في علاج المشكلة السلوكية؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Davranış probleminin tedavisinde aşağıdakilerden hangisi önerilmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Davranışın olumlu pekiştireçlerinin ortadan kaldırılması",
+          "images": [],
+          "text_ar": "إزالة المعزّزات الإيجابية للسلوك"
+        },
+        {
+          "letter": "B",
+          "text": "Davranışı azaltmak için uygun cezaların kullanılması",
+          "images": [],
+          "text_ar": "استخدام عقوبات مناسبة لتقليل السلوك"
+        },
+        {
+          "letter": "C",
+          "text": "Davranışın olumsuz pekiştireçlerinin artırılması",
+          "images": [],
+          "text_ar": "زيادة المعزّزات السلبية للسلوك"
+        },
+        {
+          "letter": "D",
+          "text": "Davranışın öncüllerinin ortadan kaldırılması",
+          "images": [],
+          "text_ar": "إزالة المثيرات السابقة للسلوك"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukla ebeveyn ilişkisinin iyileştirilmesi",
+          "images": [],
+          "text_ar": "تحسين علاقة الطفل بوالديه"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يُنصح به في علاج المشكلة السلوكية؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki gelişimsel veya işlevsellik alanlarından hangisi zihinsel yetersizliği olan bir çocuğu otizm spektrum bozukluğu olan bir çocuktan ayırt etmekte en önemlidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul başarısıyla ilgili konular",
+          "images": [],
+          "text_ar": "المسائل المتعلقة بالتحصيل الدراسي"
+        },
+        {
+          "letter": "B",
+          "text": "Takıntılı davranışlarla ilgili konular",
+          "images": [],
+          "text_ar": "المسائل المتعلقة بالسلوكيات القهرية"
+        },
+        {
+          "letter": "C",
+          "text": "Beslenme ve tuvalet alışkanlıklarıyla ilgili konular",
+          "images": [],
+          "text_ar": "المسائل المتعلقة بعادات التغذية واستخدام المرحاض"
+        },
+        {
+          "letter": "D",
+          "text": "Öz bakım becerileriyle ilgili konular",
+          "images": [],
+          "text_ar": "المسائل المتعلقة بمهارات العناية بالذات"
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal iletişim ve etkileşimle ilgili konular",
+          "images": [],
+          "text_ar": "المسائل المتعلقة بالتواصل الاجتماعي والتفاعل الاجتماعي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من مجالات النمو أو الأداء الوظيفي التالية هو الأهم في التمييز بين طفل لديه قصور عقلي وطفل لديه اضطراب طيف التوحد؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Dışkı kaçıran bir çocuğa verilebilecek doğal sonuç cezası ne olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kirlenen çamaşırın temizlenmesi konusunda çocuğa sorumluluk verilmesi",
+          "images": [],
+          "text_ar": "إعطاء الطفل مسؤولية تنظيف الملابس المتسخة"
+        },
+        {
+          "letter": "B",
+          "text": "Dışkı kaçırdığı gün TV izlemesine izin verilmemesi",
+          "images": [],
+          "text_ar": "عدم السماح له بمشاهدة التلفاز في اليوم الذي يتسرّب فيه البراز"
+        },
+        {
+          "letter": "C",
+          "text": "Dışkı kaçırdığı zaman çocuğun net bir şekilde uyarılması",
+          "images": [],
+          "text_ar": "تنبيه الطفل بشكل واضح عند تسرّب البراز"
+        },
+        {
+          "letter": "D",
+          "text": "Dışkı kaçırmasının annesi için ne kadar üzücü olduğundan bahsedilmesi",
+          "images": [],
+          "text_ar": "إخبار الطفل بمدى حزن أمه بسبب تسرّب البراز"
+        },
+        {
+          "letter": "E",
+          "text": "Dışkı kaçırmadığı günlerde çocuğa oyuncak alınması",
+          "images": [],
+          "text_ar": "شراء لعبة للطفل في الأيام التي لا يتسرّب فيها البراز"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما العقاب المتمثل في النتيجة الطبيعية الذي يمكن تطبيقه على طفل يعاني من سلس البراز؟",
+      "review": [
+        "q12.stem: «Doğal sonuç cezası» مصطلح تربوي غير مستقر عربيًا؛ ترجم بمعنى العقاب الناتج طبيعيًا عن السلوك."
+      ]
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "I. Otizm spektrum bozukluğu (OSB) olan çocukların büyük bir kısmında işitme sorunu eşlik eder. II. OSB olan çocukların büyük bir kısmında konuşma hiç yoktur veya çok azdır. III. OSB olan çocuklarda beslenme ve tuvalet sorunları sık görülür. IV. 18 aylık çocuklarda otizmin en önemli belirtisi konuşma gecikmesidir. Otizm spektrum bozukluğu olan çocuklarla ilgili yukarıdakilerden hangileri söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, II ve IV",
+          "images": [],
+          "text_ar": "I وII وIV"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        },
+        {
+          "letter": "D",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "E",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I وIV"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. يرافق ضعف السمع نسبة كبيرة من الأطفال ذوي اضطراب طيف التوحد (OSB). II. لا يوجد كلام على الإطلاق أو يوجد كلام قليل جدًا لدى نسبة كبيرة من الأطفال ذوي OSB. III. تكثر مشكلات التغذية واستخدام المرحاض لدى الأطفال ذوي OSB. IV. أهم علامة للتوحد لدى الأطفال في عمر 18 شهرًا هي تأخر الكلام. أي مما سبق لا يمكن قوله بشأن الأطفال ذوي اضطراب طيف التوحد؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Zihinsel yetersizliği olan bireyler ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaşına göre sahip olması beklenilen entelektüel ve adaptif (uyumsal) fonksiyonlarında zorluklar yaşarlar.",
+          "images": [],
+          "text_ar": "يعانون صعوبات في الوظائف الفكرية والتكيفية المتوقع أن تكون لديهم بحسب أعمارهم."
+        },
+        {
+          "letter": "B",
+          "text": "Okuma yazma öğrenmeleri mümkün değildir.",
+          "images": [],
+          "text_ar": "لا يمكنهم تعلّم القراءة والكتابة."
+        },
+        {
+          "letter": "C",
+          "text": "İyi bir eğitim ve destekle bile birtakım iş ya da mesleklerde çalışamazlar.",
+          "images": [],
+          "text_ar": "لا يمكنهم العمل في بعض الأعمال أو المهن حتى مع تعليم ودعم جيدين."
+        },
+        {
+          "letter": "D",
+          "text": "Büyük bir kısmında ağır düzeyde zihinsel yetersizliği vardır.",
+          "images": [],
+          "text_ar": "لدى نسبة كبيرة منهم قصور عقلي شديد."
+        },
+        {
+          "letter": "E",
+          "text": "Bağımsız yaşam sürmeleri mümkün değildir.",
+          "images": [],
+          "text_ar": "لا يمكنهم عيش حياة مستقلة."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من العبارات التالية صحيح بشأن الأفراد ذوي القصور العقلي؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Davranış probleminin tedavisinde kullanılan mola yöntemi için aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mola yöntemi çocuğa diş fırçalama gibi alışkanlık edindirmekte çok faydalıdır.",
+          "images": [],
+          "text_ar": "أسلوب المهلة مفيد جدًا في إكساب الطفل عادات مثل تنظيف الأسنان."
+        },
+        {
+          "letter": "B",
+          "text": "Mola zamanı çocuğun ebeveyni ile geçirdiği keyifli bir zamandır.",
+          "images": [],
+          "text_ar": "وقت المهلة وقت ممتع يقضيه الطفل مع والده."
+        },
+        {
+          "letter": "C",
+          "text": "Mola yöntemi bir çeşit davranış cezasıdır.",
+          "images": [],
+          "text_ar": "أسلوب المهلة نوع من عقاب السلوك."
+        },
+        {
+          "letter": "D",
+          "text": "Mola zamanında çocukla neden burada olduğu konuşulmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي الحديث مع الطفل أثناء وقت المهلة عن سبب وجوده هنا."
+        },
+        {
+          "letter": "E",
+          "text": "Mola yöntemi kullanılmaya başlanmadan önce çocuğa herhangi bir açıklama yapılması gerekmez.",
+          "images": [],
+          "text_ar": "لا حاجة إلى تقديم أي توضيح للطفل قبل البدء في استخدام أسلوب المهلة."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي صحيح بشأن أسلوب المهلة المستخدم في علاج المشكلة السلوكية؟",
+      "review": [
+        "q15.stem: «Mola yöntemi» تعني في التركية العزل المؤقت (time-out)؛ ترجمت «أسلوب المهلة» تجنبًا لإيحاء معنى الراحة."
+      ]
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Çocukluk çağındaki nörogelişimsel/psikiyatrik bozuklukların tedavi ve yönetimiyle ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tedavi şekli bozukluğun türüne ve şiddetine göre farklılıklar gösterebilir.",
+          "images": [],
+          "text_ar": "قد تختلف طريقة العلاج باختلاف نوع الاضطراب وشدته."
+        },
+        {
+          "letter": "B",
+          "text": "Özel eğitim ve rehabilitasyon, nörogelişimsel bozukluğu olan çocuklarda sıklıkla gerekir.",
+          "images": [],
+          "text_ar": "كثيرًا ما يلزم التعليم الخاص وإعادة التأهيل للأطفال ذوي الاضطرابات النمائية العصبية."
+        },
+        {
+          "letter": "C",
+          "text": "Bazı nörogelişimsel/psikiyatrik bozuklukların tedavisi bulunmaktadır.",
+          "images": [],
+          "text_ar": "يوجد علاج لبعض الاضطرابات النمائية العصبية/النفسية."
+        },
+        {
+          "letter": "D",
+          "text": "Birçok durumda ilaç tedavisi uygulandıktan sonra bozukluk tamamen düzelir.",
+          "images": [],
+          "text_ar": "في كثير من الحالات يزول الاضطراب تمامًا بعد تطبيق العلاج الدوائي."
+        },
+        {
+          "letter": "E",
+          "text": "Gerekli durumlarda ilaç tedavisi ve psikoterapiler birlikte uygulanabilir.",
+          "images": [],
+          "text_ar": "يمكن في الحالات اللازمة تطبيق العلاج الدوائي والعلاجات النفسية معًا."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي لا يمكن قوله بشأن علاج الاضطرابات النمائية العصبية/النفسية في مرحلة الطفولة وإدارتها؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "İdrar kaçırma problemi (enürezis) için aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genetik geçişi olan bir problemdir.",
+          "images": [],
+          "text_ar": "مشكلة ذات انتقال وراثي."
+        },
+        {
+          "letter": "B",
+          "text": "Kız çocuklarında daha sık görülür.",
+          "images": [],
+          "text_ar": "تكثر أكثر لدى الفتيات."
+        },
+        {
+          "letter": "C",
+          "text": "Genellikle cinsel istismarı gösterir.",
+          "images": [],
+          "text_ar": "تشير عادةً إلى إساءة جنسية."
+        },
+        {
+          "letter": "D",
+          "text": "Ergenlik çağında sıklığı belirgin şekilde artar.",
+          "images": [],
+          "text_ar": "يزداد شيوعها بشكل واضح في سن المراهقة."
+        },
+        {
+          "letter": "E",
+          "text": "Sıklıkla aile içi çatışmaların dışa vurumudur.",
+          "images": [],
+          "text_ar": "هي في الغالب تعبير عن صراعات داخل الأسرة."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من العبارات التالية صحيح بشأن مشكلة سلس البول (enürezis)؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "I. Akrabalarının ekonomik durumları II. Günlük yaşam becerileri III. Yaşıt ilişkileri IV. Dikkat süreleri Zihinsel yetersizliği olan bir ergenin klinik değerlendirmesi yukarıdaki alanlardan hangilerini içermelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, III ve IV",
+          "images": [],
+          "text_ar": "I وIII وIV"
+        },
+        {
+          "letter": "B",
+          "text": "II, III ve IV",
+          "images": [],
+          "text_ar": "II وIII وIV"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        },
+        {
+          "letter": "E",
+          "text": "I, II ve IV",
+          "images": [],
+          "text_ar": "I وII وIV"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. الأوضاع الاقتصادية لأقاربه II. مهارات الحياة اليومية III. علاقات الأقران IV. مدد الانتباه يجب أن يتضمن التقييم السريري لمراهق لديه قصور عقلي أيًا من المجالات أعلاه؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki psikiyatrik bozukluklardan hangisi çocukluk çağında görülen nörogelişimsel bozukluklar arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Depresyon",
+          "images": [],
+          "text_ar": "الاكتئاب"
+        },
+        {
+          "letter": "B",
+          "text": "Dikkat Eksikliği Hiperaktivite Bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب نقص الانتباه وفرط الحركة"
+        },
+        {
+          "letter": "C",
+          "text": "Kleptomani",
+          "images": [],
+          "text_ar": "هوس السرقة (الكليبتومانيا)"
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal Kaygı Bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب القلق الاجتماعي"
+        },
+        {
+          "letter": "E",
+          "text": "Kişilik Bozuklukları",
+          "images": [],
+          "text_ar": "اضطرابات الشخصية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من الاضطرابات النفسية التالية يُعدّ من الاضطرابات النمائية العصبية التي تظهر في مرحلة الطفولة؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Gebelik döneminde aşağıdaki durumlardan hangisinin doğum sonrası dönemde gelişimsel ve/veya ruhsal açıdan olumlu yönde etki veya sonuçlara yol açması beklenir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Annede depresyon olması",
+          "images": [],
+          "text_ar": "إصابة الأم بالاكتئاب"
+        },
+        {
+          "letter": "B",
+          "text": "Annenin sigara veya alkol kullanması",
+          "images": [],
+          "text_ar": "تدخين الأم أو تناولها الكحول"
+        },
+        {
+          "letter": "C",
+          "text": "Annenin doğum öncesi bakımlarını aksatması",
+          "images": [],
+          "text_ar": "إهمال الأم لرعاية ما قبل الولادة"
+        },
+        {
+          "letter": "D",
+          "text": "Planlı ve istenilen gebelik olması",
+          "images": [],
+          "text_ar": "أن يكون الحمل مخططًا له ومرغوبًا فيه"
+        },
+        {
+          "letter": "E",
+          "text": "Annenin aşırı stresli olması",
+          "images": [],
+          "text_ar": "أن تكون الأم شديدة التوتر"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من الحالات التالية أثناء فترة الحمل يُتوقع أن يؤدي إلى آثار أو نتائج إيجابية من الناحية النمائية و/أو النفسية في فترة ما بعد الولادة؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "cd51f7a4469064829251776222a9f106472661ee2b33ddb8a8e5dfd33909eaf6"
+}

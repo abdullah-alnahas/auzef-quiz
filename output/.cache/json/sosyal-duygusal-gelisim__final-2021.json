@@ -1,0 +1,1622 @@
+{
+  "course": "SOSYAL-DUYGUSAL GELİŞİM",
+  "course_slug": "sosyal-duygusal-gelisim",
+  "exam": "2021 Final Soruları",
+  "exam_slug": "final-2021",
+  "page_title": "Sosyal – Duygusal Gelişim 2021 Final",
+  "source_url": "https://lolonolo.com/2021/08/26/sosyal-duygusal-gelisim-2021-final/",
+  "scraped_at": "2026-11-12T02:21:30+03:00",
+  "answer_source": "inline",
+  "question_count": 39,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi öz bilinçli duygulardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mutluluk",
+          "images": [],
+          "text_ar": "السعادة"
+        },
+        {
+          "letter": "B",
+          "text": "Şaşkınlık",
+          "images": [],
+          "text_ar": "الدهشة"
+        },
+        {
+          "letter": "C",
+          "text": "Öfke",
+          "images": [],
+          "text_ar": "الغضب"
+        },
+        {
+          "letter": "D",
+          "text": "Utanma",
+          "images": [],
+          "text_ar": "الخجل"
+        },
+        {
+          "letter": "E",
+          "text": "Üzüntü",
+          "images": [],
+          "text_ar": "الحزن"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي من المشاعر الواعية بالذات؟"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Davranışın düzenlenmesi veya kural ihlaline yanıt olarak ahlaki gelişimde önemli bir rol oynayan duygu aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öfke",
+          "images": [],
+          "text_ar": "الغضب"
+        },
+        {
+          "letter": "B",
+          "text": "Mutluluk",
+          "images": [],
+          "text_ar": "السعادة"
+        },
+        {
+          "letter": "C",
+          "text": "Suçluluk",
+          "images": [],
+          "text_ar": "الذنب"
+        },
+        {
+          "letter": "D",
+          "text": "Şaşkınlık",
+          "images": [],
+          "text_ar": "الدهشة"
+        },
+        {
+          "letter": "E",
+          "text": "Üzüntü",
+          "images": [],
+          "text_ar": "الحزن"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما العاطفة التي تؤدي دورًا مهمًا في النمو الأخلاقي بوصفها منظمًا للسلوك أو استجابةً لخرق القاعدة؟"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi ebeveynlerin yeni bebeğe karşı büyük çocuktaki kıskançlık miktarını azaltmaya yardımcı olmak için alacağı önlemlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doğum için hastaneye gidileceğinde çocuğu onun çok iyi tanımadığı komşuya bırakmak",
+          "images": [],
+          "text_ar": "ترك الطفل عند جار لا يعرفه جيدًا عند الذهاب إلى المستشفى للولادة"
+        },
+        {
+          "letter": "B",
+          "text": "Bağımsız hissetmeye teşvik etmek",
+          "images": [],
+          "text_ar": "تشجيعه على الشعور بالاستقلالية"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun sevildiğini ve istendiğini güvence altına almak",
+          "images": [],
+          "text_ar": "طمأنة الطفل بأنه محبوب ومرغوب فيه"
+        },
+        {
+          "letter": "D",
+          "text": "Küçük çocuğu yeni bebeğin gelişine hazırlamak",
+          "images": [],
+          "text_ar": "تهيئة الطفل الصغير لقدوم المولود الجديد"
+        },
+        {
+          "letter": "E",
+          "text": "Annenin bebek geldiğinde bir süre hastaneye gitmek zorunda kalacağını söylemek",
+          "images": [],
+          "text_ar": "إخبار الطفل بأن الأم ستضطر إلى الذهاب إلى المستشفى لفترة عند قدوم المولود"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من الإجراءات التي يتخذها الوالدان للمساعدة في تقليل مقدار الغيرة عند الطفل الأكبر تجاه المولود الجديد؟"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Oyun ortamında çocuklarda öğrenmenin en üst düzeyde gerçekleşmesinde aşağıdakilerden hangisi etkili değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınıf ortamında nitelikli oyunlara yer verilmesi",
+          "images": [],
+          "text_ar": "إتاحة ألعاب ذات جودة في بيئة الصف"
+        },
+        {
+          "letter": "B",
+          "text": "Oyun için yeterli süre verilmesi",
+          "images": [],
+          "text_ar": "منح وقت كافٍ للعب"
+        },
+        {
+          "letter": "C",
+          "text": "Sınıf ortamında çeşitli oyun türlerine yer verilmesi",
+          "images": [],
+          "text_ar": "إتاحة أنواع متنوعة من اللعب في بيئة الصف"
+        },
+        {
+          "letter": "D",
+          "text": "Çeşitli oyun türleri için gerekli oyuncak ve malzemenin sağlanması",
+          "images": [],
+          "text_ar": "توفير الألعاب والمواد اللازمة لأنواع اللعب المختلفة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların sürekli birbirleri ile kıyaslanması",
+          "images": [],
+          "text_ar": "المقارنة المستمرة بين الأطفال"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يؤثر في بلوغ التعلم أعلى مستوياته لدى الأطفال في بيئة اللعب؟"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi bebeklerin yabancı korkusunu değiştiren faktörlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yabancının davranışı",
+          "images": [],
+          "text_ar": "سلوك الغريب"
+        },
+        {
+          "letter": "B",
+          "text": "Yabancı kişi ve nesne üzerinde kontrol düzeyi",
+          "images": [],
+          "text_ar": "مستوى التحكم في الشخص والموضوع الغريب"
+        },
+        {
+          "letter": "C",
+          "text": "Cinsiyet",
+          "images": [],
+          "text_ar": "الجنس"
+        },
+        {
+          "letter": "D",
+          "text": "Yabancının karakteristikleri",
+          "images": [],
+          "text_ar": "خصائص الغريب"
+        },
+        {
+          "letter": "E",
+          "text": "Bağlam",
+          "images": [],
+          "text_ar": "السياق"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من العوامل التي تغيّر الخوف من الغرباء لدى الرضّع؟"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Bowly’nin bağlanma aşamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hedefi düzeltilmiş ortaklığın oluşturulması",
+          "images": [],
+          "text_ar": "تكوين الشراكة المصححة الهدف"
+        },
+        {
+          "letter": "B",
+          "text": "Çoklu bağlanma",
+          "images": [],
+          "text_ar": "التعلق المتعدد"
+        },
+        {
+          "letter": "C",
+          "text": "Açık bağlanma",
+          "images": [],
+          "text_ar": "التعلق الواضح"
+        },
+        {
+          "letter": "D",
+          "text": "Bağlanma başlangıcı",
+          "images": [],
+          "text_ar": "بداية التعلق"
+        },
+        {
+          "letter": "E",
+          "text": "Ön bağlanma",
+          "images": [],
+          "text_ar": "ما قبل التعلق"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من مراحل التعلق عند بولبي؟"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi güvensiz-dirençli/karşı koyucu bağlanma stili geliştiren bebeklerin yabancı ortamdaki davranış örneklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bakıcının gidişinden büyük sıkıntı duyma",
+          "images": [],
+          "text_ar": "الشعور بضيق كبير عند ذهاب مقدّم الرعاية"
+        },
+        {
+          "letter": "B",
+          "text": "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında direnç veya öfke",
+          "images": [],
+          "text_ar": "مقاومة أو غضب أثناء إعادة اللقاء مع مزيج من البحث عن القرب"
+        },
+        {
+          "letter": "C",
+          "text": "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında rahatlmada zorluk",
+          "images": [],
+          "text_ar": "صعوبة في الهدوء أثناء إعادة اللقاء مع مزيج من البحث عن القرب"
+        },
+        {
+          "letter": "D",
+          "text": "Yabancı tarafından rahatlatılmaya direnç gösterme",
+          "images": [],
+          "text_ar": "إبداء مقاومة للتهدئة من قِبل الغريب"
+        },
+        {
+          "letter": "E",
+          "text": "Bakıcının ayrılığından üzüntü duymama",
+          "images": [],
+          "text_ar": "عدم الشعور بالحزن لانفصال مقدّم الرعاية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أمثلة سلوك الرضّع ذوي نمط التعلق غير الآمن-المقاوم / المعارض في البيئة الغريبة؟"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Amerikalı bebeklerin %5-15’i güvensiz-dağınık/yönü belirsiz bağlanma göstermektedir",
+          "images": [],
+          "text_ar": "نحو 5-15% من الرضّع الأمريكيين يُظهرون تعلقًا غير آمن-مشوشًا / غامض الاتجاه"
+        },
+        {
+          "letter": "B",
+          "text": "Bir yaşındakilerin yaklaşık %10’u güvensiz-kaçınıcı bir bağ sergilemektedir.",
+          "images": [],
+          "text_ar": "نحو 10% من الأطفال في سن السنة يُظهرون تعلقًا غير آمن-تجنّبيًا."
+        },
+        {
+          "letter": "C",
+          "text": "Bir yaşındaki Amerikalı bebeklerin yaklaşık %60-65’i güvenli bağlanma stiline sahiptir.",
+          "images": [],
+          "text_ar": "نحو 60-65% من الرضّع الأمريكيين في سن السنة لديهم نمط تعلق آمن."
+        },
+        {
+          "letter": "D",
+          "text": "Bir yaşındakilerin yaklaşık %20’si güvensiz-kaçınıcı bir bağ sergilemektedir.",
+          "images": [],
+          "text_ar": "نحو 20% من الأطفال في سن السنة يُظهرون تعلقًا غير آمن-تجنّبيًا."
+        },
+        {
+          "letter": "E",
+          "text": "Bir yaşındakilerin yaklaşık %10’u bu tür güvensiz-karşı koyucu bağlanma göstermektedir.",
+          "images": [],
+          "text_ar": "نحو 10% من الأطفال في سن السنة يُظهرون هذا النوع من التعلق غير الآمن-المعارض."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح؟"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Bowlby bağlanma kuramında Freud’un görüşlerinden etkilenmiştir. Aşağıdakilerden hangisi bunlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikolojik travmaların en büyük nedeni ebeveyn kaybı özellikle annenin kaybı veya ayrılıktır.",
+          "images": [],
+          "text_ar": "أكبر سبب للصدمات النفسية هو فقدان أحد الوالدين، ولا سيما فقدان الأم أو الانفصال عنها."
+        },
+        {
+          "letter": "B",
+          "text": "Kişinin gelişiminde yaşamın ilk beş yılı büyük öneme sahiptir.",
+          "images": [],
+          "text_ar": "للخمس سنوات الأولى من الحياة أهمية كبيرة في نمو الفرد."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun ebeveynleri özellikle annesi ile ilişkisi gelişimi üzerinde büyük etkiye sahiptir.",
+          "images": [],
+          "text_ar": "لعلاقة الطفل بوالديه، ولا سيما أمه، أثر كبير في نموه."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun ebeveynleri özellikle babası ile ilişkisi gelişimi üzerinde büyük etkiye sahiptir.",
+          "images": [],
+          "text_ar": "لعلاقة الطفل بوالديه، ولا سيما أبيه، أثر كبير في نموه."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklukta yaşanan psikolojik travma uzun süreli etkilere sahiptir.",
+          "images": [],
+          "text_ar": "للصدمات النفسية التي تُعاش في الطفولة آثار طويلة الأمد."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "تأثر بولبي في نظرية التعلق بآراء فرويد. أي مما يلي ليس من هذه الآراء؟"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Besleyerek bebeklere zevk veren genellikle anneler olduğu için özellikle beslenme uygulamaları esnasında sağladığı rahatlık ve cömertliği sebebiyle annenin bebeğin birincil güvenlik ve sevgi objesi olduğunu iddia eden teorisyen aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Freud",
+          "images": [],
+          "text_ar": "فرويد"
+        },
+        {
+          "letter": "B",
+          "text": "Spitz",
+          "images": [],
+          "text_ar": "سبيتز"
+        },
+        {
+          "letter": "C",
+          "text": "Erikson",
+          "images": [],
+          "text_ar": "إريكسون"
+        },
+        {
+          "letter": "D",
+          "text": "Lorenz",
+          "images": [],
+          "text_ar": "لورنز"
+        },
+        {
+          "letter": "E",
+          "text": "Harlow",
+          "images": [],
+          "text_ar": "هارلو"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "من هو المنظّر الذي زعم أن الأم هي موضوع الأمان والمحبة الأول للرضيع، لأن الأمهات هنّ عمومًا من يمنحن الرضّع المتعة عبر الإرضاع، ولا سيما بسبب ما تقدمه من راحة وكرم أثناء ممارسات التغذية؟"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi bebeklerde daha fazla yabancı korkusu yaratan bağlamlar ile ilgili bir açıklama değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanıdık kişi veya anneden uzak olmak",
+          "images": [],
+          "text_ar": "الابتعاد عن الشخص المألوف أو عن الأم"
+        },
+        {
+          "letter": "B",
+          "text": "Aşina olunmayan ortamlar (örneğin, laboratuvar)",
+          "images": [],
+          "text_ar": "البيئات غير المألوفة (مثل المختبر)"
+        },
+        {
+          "letter": "C",
+          "text": "Tanıdık figürle fizksel temasın olmaması",
+          "images": [],
+          "text_ar": "غياب التلامس الجسدي مع الشخص المألوف"
+        },
+        {
+          "letter": "D",
+          "text": "Tanıdık figürden yabancıya ciddi ve olumsuz duygusal tepkiler",
+          "images": [],
+          "text_ar": "استجابات عاطفية جادة وسلبية من الشخص المألوف تجاه الغريب"
+        },
+        {
+          "letter": "E",
+          "text": "Tanıdık figürden yabancıya pozitif ve destekleyici tepkiler",
+          "images": [],
+          "text_ar": "استجابات إيجابية وداعمة من الشخص المألوف تجاه الغريب"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس توضيحًا يتعلق بالسياقات التي تُحدث خوفًا أكبر من الغرباء لدى الرضّع؟"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi çocuk oyun oynarken yetişkinin yapması gerekenlerden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğu oyun oynarken eleştirmek",
+          "images": [],
+          "text_ar": "انتقاد الطفل أثناء لعبه"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğu ciddi bir şekilde gözlemlemek",
+          "images": [],
+          "text_ar": "ملاحظة الطفل بجدية"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun oyununa karışmak",
+          "images": [],
+          "text_ar": "التدخل في لعب الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun oyununda sonuca odaklanmak",
+          "images": [],
+          "text_ar": "التركيز على النتيجة في لعب الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Sabırsız bir tutum içinde olmak",
+          "images": [],
+          "text_ar": "التحلي بروح عدم الصبر"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي من الأمور التي ينبغي أن يفعلها الراشد أثناء لعب الطفل؟"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi bağlanmayı kolaylaştıran anne-bebek davranışlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlk temas zamanı ve süresi",
+          "images": [],
+          "text_ar": "توقيت التلامس الأول ومدته"
+        },
+        {
+          "letter": "B",
+          "text": "Aşırı ağlama",
+          "images": [],
+          "text_ar": "البكاء المفرط"
+        },
+        {
+          "letter": "C",
+          "text": "Beslenme zamanı",
+          "images": [],
+          "text_ar": "وقت التغذية"
+        },
+        {
+          "letter": "D",
+          "text": "Bedensel temas",
+          "images": [],
+          "text_ar": "التلامس الجسدي"
+        },
+        {
+          "letter": "E",
+          "text": "Doğuştan etkenler",
+          "images": [],
+          "text_ar": "العوامل الفطرية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من سلوكات الأم والرضيع التي تسهّل التعلق؟"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi karşı koyucu bağlanma stili ile ilgili ebeveynlik sitilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Reddeden-tepkisiz veya müdahaleci-aşırı uyarıcı",
+          "images": [],
+          "text_ar": "رافض – غير متجاوب أو متدخل – مفرط التحفيز"
+        },
+        {
+          "letter": "B",
+          "text": "Korkutan (örneğin, aşırı ezen)",
+          "images": [],
+          "text_ar": "مُخيف (مثل: مفرط القهر)"
+        },
+        {
+          "letter": "C",
+          "text": "Ürküten (örneğin, taciz eden)",
+          "images": [],
+          "text_ar": "مُرعب (مثل: مُسيء)"
+        },
+        {
+          "letter": "D",
+          "text": "Tutarsız, genellikle yanıt vermeyen (örneğin, depresif)",
+          "images": [],
+          "text_ar": "غير متسق، غالبًا غير مستجيب (مثل: مصاب بالاكتئاب)"
+        },
+        {
+          "letter": "E",
+          "text": "Hassas, duyarlı",
+          "images": [],
+          "text_ar": "حساس، متجاوب"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي هو أسلوب التنشئة الوالدية المرتبط بنمط التعلق المعارض؟"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi güvensiz-düzensiz bağlanma stili geliştiren bebeklerin yabancı ortamdaki davranış örneklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında rahatlamada zorluk",
+          "images": [],
+          "text_ar": "صعوبة في الهدوء أثناء إعادة اللقاء مع مزيج من البحث عن القرب"
+        },
+        {
+          "letter": "B",
+          "text": "Bakıcının gidişinden büyük sıkıntı duyma",
+          "images": [],
+          "text_ar": "الشعور بضيق كبير عند ذهاب مقدّم الرعاية"
+        },
+        {
+          "letter": "C",
+          "text": "Tutarlı bir davranış örüntüsünün olmaması",
+          "images": [],
+          "text_ar": "غياب نمط سلوكي متسق"
+        },
+        {
+          "letter": "D",
+          "text": "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında direnç veya öfke",
+          "images": [],
+          "text_ar": "مقاومة أو غضب أثناء إعادة اللقاء مع مزيج من البحث عن القرب"
+        },
+        {
+          "letter": "E",
+          "text": "Yabancı tarafından rahatlatılmaya direnç gösterme",
+          "images": [],
+          "text_ar": "إبداء مقاومة للتهدئة من قِبل الغريب"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من أمثلة سلوك الرضّع ذوي نمط التعلق غير الآمن-المشوش في البيئة الغريبة؟"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi güvensiz-kaçınmacı bağlanma stili geliştiren bebeklerin yabancı ortamdaki davranış örneklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında direnç veya öfke",
+          "images": [],
+          "text_ar": "مقاومة أو غضب أثناء إعادة اللقاء مع مزيج من البحث عن القرب"
+        },
+        {
+          "letter": "B",
+          "text": "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında rahatlamada zorluk",
+          "images": [],
+          "text_ar": "صعوبة في الهدوء أثناء إعادة اللقاء مع مزيج من البحث عن القرب"
+        },
+        {
+          "letter": "C",
+          "text": "Bakıcının gidişinden büyük sıkıntı duyma",
+          "images": [],
+          "text_ar": "الشعور بضيق كبير عند ذهاب مقدّم الرعاية"
+        },
+        {
+          "letter": "D",
+          "text": "Yabancı tarafından rahatlatılmaya direnç gösterme",
+          "images": [],
+          "text_ar": "إبداء مقاومة للتهدئة من قِبل الغريب"
+        },
+        {
+          "letter": "E",
+          "text": "Bakıcının ayrılığından üzüntü duymama",
+          "images": [],
+          "text_ar": "عدم الشعور بالحزن لانفصال مقدّم الرعاية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي من أمثلة سلوك الرضّع ذوي نمط التعلق غير الآمن-التجنّبي في البيئة الغريبة؟"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi eğitimcinin çocukların duygularını ifade etmelerine yardımcı olmak için kendisine yöneltmesi gereken sorulardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuklar arasında yakın arkadaşlıkları teşvik ediyor muyum?",
+          "images": [],
+          "text_ar": "هل أشجع الصداقات الوثيقة بين الأطفال؟"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların gerçek duygu ifadelerini görmeleri için uygun bir rol-model olmaya çalışıyor muyum?",
+          "images": [],
+          "text_ar": "هل أحاول أن أكون قدوة مناسبة ليرى الأطفال تعبيرات عاطفية حقيقية؟"
+        },
+        {
+          "letter": "C",
+          "text": "Sınıfımdaki her çocukla sevgi dolu, güvenli bir ilişki kurmayı öncelikli hale getiriyor muyum?",
+          "images": [],
+          "text_ar": "هل أجعل بناء علاقة محبة وآمنة مع كل طفل في صفي أولوية؟"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklar arasında seviliyor muyum?",
+          "images": [],
+          "text_ar": "هل أنا محبوب بين الأطفال؟"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların dikkatini başkalarının duygu ve ihtiyaçlarına yönlendiriyor muyum?",
+          "images": [],
+          "text_ar": "هل أوجّه انتباه الأطفال إلى مشاعر الآخرين واحتياجاتهم؟"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من الأسئلة التي ينبغي أن يطرحها المربي على نفسه لمساعدة الأطفال في التعبير عن مشاعرهم؟"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Bowly’nin bağlanma kuramının temellerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir çocuk yaşamın ilk beş yılında bağlanma figüründen sürekli bakım almalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يتلقى الطفل رعاية مستمرة من شخصية التعلق خلال السنوات الخمس الأولى من حياته."
+        },
+        {
+          "letter": "B",
+          "text": "Bir çocuk yaşamın ilk iki yılında bağlanma figüründen sürekli bakım almalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يتلقى الطفل رعاية مستمرة من شخصية التعلق خلال السنتين الأوليين من حياته."
+        },
+        {
+          "letter": "C",
+          "text": "Anne yoksunluğunun uzun vadeli sonuçları mevcuttur.",
+          "images": [],
+          "text_ar": "لحرمان الأم نتائج طويلة المدى."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun birincil bakıcı ile bağlanma ilişkisi içsel çalışan modelinin geliştirilmesine yol açar.",
+          "images": [],
+          "text_ar": "يؤدي تعلق الطفل بمقدّم الرعاية الأول إلى تطوير نموذج عملي داخلي."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk doğuştan gelen birincil bağlanma figürüne bağlanma ihtiyacı içindedir.",
+          "images": [],
+          "text_ar": "لدى الطفل حاجة فطرية إلى التعلق بشخصية التعلق الأولية."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من أسس نظرية التعلق عند بولبي؟"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi bağlanmayı zorlaştıran anne-bebek davranışlarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlk temas zamanı ve süresi",
+          "images": [],
+          "text_ar": "توقيت التلامس الأول ومدته"
+        },
+        {
+          "letter": "B",
+          "text": "Aşırı ağlama",
+          "images": [],
+          "text_ar": "البكاء المفرط"
+        },
+        {
+          "letter": "C",
+          "text": "Doğuştan etkenler",
+          "images": [],
+          "text_ar": "العوامل الفطرية"
+        },
+        {
+          "letter": "D",
+          "text": "Bedensel temas",
+          "images": [],
+          "text_ar": "التلامس الجسدي"
+        },
+        {
+          "letter": "E",
+          "text": "Beslenme zamanı",
+          "images": [],
+          "text_ar": "وقت التغذية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي من سلوكات الأم والرضيع التي تصعّب التعلق؟"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Schaffer ve Emerson’un bağlanma aşamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çoklu bağlanma evresi",
+          "images": [],
+          "text_ar": "مرحلة التعلق المتعدد"
+        },
+        {
+          "letter": "B",
+          "text": "Rastgele bağlanma evresi",
+          "images": [],
+          "text_ar": "مرحلة التعلق العشوائي"
+        },
+        {
+          "letter": "C",
+          "text": "Özel bağlanma evresi",
+          "images": [],
+          "text_ar": "مرحلة التعلق الخاص"
+        },
+        {
+          "letter": "D",
+          "text": "Asosyal evre",
+          "images": [],
+          "text_ar": "المرحلة غير الاجتماعية"
+        },
+        {
+          "letter": "E",
+          "text": "Açık bağlanma evresi",
+          "images": [],
+          "text_ar": "مرحلة التعلق الواضح"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من مراحل التعلق عند شيفر وإيمرسون؟"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi bağlanmayı zorlaştıran anne-bebek davranışlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olağandışı görünüm",
+          "images": [],
+          "text_ar": "المظهر غير العادي"
+        },
+        {
+          "letter": "B",
+          "text": "Olağandışı davranışlar ve olağandışı durumlar",
+          "images": [],
+          "text_ar": "السلوكات غير العادية والمواقف غير العادية"
+        },
+        {
+          "letter": "C",
+          "text": "Aşırı ağlama",
+          "images": [],
+          "text_ar": "البكاء المفرط"
+        },
+        {
+          "letter": "D",
+          "text": "Bedensel temas",
+          "images": [],
+          "text_ar": "التلامس الجسدي"
+        },
+        {
+          "letter": "E",
+          "text": "Duygusal reddetme",
+          "images": [],
+          "text_ar": "الرفض العاطفي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من سلوكات الأم والرضيع التي تصعّب التعلق؟"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Ainsworth’un çocuğun bağlanma stilleriyle ilişkili anne davranışları boyutlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ulaşılabilir / umursamaz",
+          "images": [],
+          "text_ar": "متاحة / غير مبالية"
+        },
+        {
+          "letter": "B",
+          "text": "Güvenli / güvensiz",
+          "images": [],
+          "text_ar": "آمنة / غير آمنة"
+        },
+        {
+          "letter": "C",
+          "text": "Duyarlı / duyarsız",
+          "images": [],
+          "text_ar": "حساسة / غير حساسة"
+        },
+        {
+          "letter": "D",
+          "text": "İşbirlikçi / çatışmacı",
+          "images": [],
+          "text_ar": "متعاونة / صراعية"
+        },
+        {
+          "letter": "E",
+          "text": "Kabul / red",
+          "images": [],
+          "text_ar": "قابلة / رافضة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من أبعاد سلوك الأم المرتبطة بأنماط تعلق الطفل عند إينسوورث؟"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi güvensiz bağlanma stili ile ilgili ebeveynlik stillerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hassas, duyarlı",
+          "images": [],
+          "text_ar": "حساس، متجاوب"
+        },
+        {
+          "letter": "B",
+          "text": "Korkutan (örneğin, aşırı ezen)",
+          "images": [],
+          "text_ar": "مُخيف (مثل: مفرط القهر)"
+        },
+        {
+          "letter": "C",
+          "text": "Tutarsız, genellikle yanıt vermeyen (örneğin, depresif)",
+          "images": [],
+          "text_ar": "غير متسق، غالبًا غير مستجيب (مثل: مصاب بالاكتئاب)"
+        },
+        {
+          "letter": "D",
+          "text": "Reddeden-tepkisiz veya müdahaleci-aşırı uyarıcı",
+          "images": [],
+          "text_ar": "رافض – غير متجاوب أو متدخل – مفرط التحفيز"
+        },
+        {
+          "letter": "E",
+          "text": "Ürküten (örneğin, taciz eden)",
+          "images": [],
+          "text_ar": "مُرعب (مثل: مُسيء)"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من أساليب التنشئة الوالدية المرتبطة بنمط التعلق غير الآمن؟"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi, oyunun çocuğun sosyal gelişimine sağladığı yararlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duygularını, çatışmalarını ve gerginliklerini diğerlerinin kabul edebileceği şekilde ifade edebilmesi",
+          "images": [],
+          "text_ar": "أن يعبّر عن مشاعره وصراعاته وتوتراته بالطريقة التي يقبلها الآخرون"
+        },
+        {
+          "letter": "B",
+          "text": "İş birliği becerisi geliştirmesi",
+          "images": [],
+          "text_ar": "تنمية مهارة التعاون"
+        },
+        {
+          "letter": "C",
+          "text": "Nesnelerin özelliklerini araştırarak keşfedebilmesi",
+          "images": [],
+          "text_ar": "أن يستكشف خصائص الأشياء ويتفحصها"
+        },
+        {
+          "letter": "D",
+          "text": "Sınıftaki diğer çocukların bakış açılarından bazı olayları değerlendirebilmeyi öğrenmesi",
+          "images": [],
+          "text_ar": "أن يتعلم تقييم بعض الأحداث من وجهات نظر الأطفال الآخرين في الصف"
+        },
+        {
+          "letter": "E",
+          "text": "Oyuncaklarını arkadaşları ile paylaşmayı öğrenmesi",
+          "images": [],
+          "text_ar": "أن يتعلم مشاركة ألعابه مع أصدقائه"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من فوائد اللعب في النمو الاجتماعي للطفل؟"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "“Yetişkin gruptan düz bir sıra halinde dizlmelerini ister. Yetişkinin söylediği komuta göre katılımcıların aynı anda hareket etmelerini söyler. Denizde bir öne adım, karada bir geri adım ve arafta elleri sallama hareketleri yaparak ………… amaçlanır.\nYukarıdaki oyunda noktalı yere hangi beceri gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kendine güven becerisi",
+          "images": [],
+          "text_ar": "مهارة الثقة بالنفس"
+        },
+        {
+          "letter": "B",
+          "text": "Problem çözme becerisi",
+          "images": [],
+          "text_ar": "مهارة حل المشكلات"
+        },
+        {
+          "letter": "C",
+          "text": "Birlikte hareket etme becerisi",
+          "images": [],
+          "text_ar": "مهارة التحرك معًا"
+        },
+        {
+          "letter": "D",
+          "text": "İşbirliği yapma becerisi",
+          "images": [],
+          "text_ar": "مهارة التعاون"
+        },
+        {
+          "letter": "E",
+          "text": "Özdenetim becerisi",
+          "images": [],
+          "text_ar": "مهارة ضبط الذات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "«يطلب من المجموعة البالغة أن تصطف في صف مستقيم. ويطلب من المشاركين أن يتحركوا في الوقت نفسه وفق الأمر الذي يقوله البالغ. خطوة إلى الأمام في البحر، وخطوة إلى الخلف في البر، وفي المنطقة المحايدة تحريك الأيدي ………… يُقصد به.\nأي مهارة ينبغي أن توضع في الفراغ في اللعبة أعلاه؟"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "Herhangi bir etkinliği oyun olarak tanımlayabilmek için oyuna ait özelliklerin bilinmesi gerekir. Aşağıdakilerden hangisi oyuna ait bir özellik değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun gerçek hayatın taklidi olmayıp çocuğun yaşantısına uygun düşecek şekilde çarpıtılmış, sanki öyleymiş gibi değiştirilmiş şeklidir.",
+          "images": [],
+          "text_ar": "اللعب ليس محاكاة للحياة الواقعية، بل صورة مشوّهة منها بما يلائم حياة الطفل، ومعدّلة كأنها كذلك."
+        },
+        {
+          "letter": "B",
+          "text": "Yapılandırılmış oyunlar çocuğu daha çok rahatlatır.",
+          "images": [],
+          "text_ar": "الألعاب المنظمة تريح الطفل أكثر."
+        },
+        {
+          "letter": "C",
+          "text": "Kendi içinde bütünlüğü vardır. Belirli amaca yönelik olmayıp etkinliğin kendisi önemlidir.",
+          "images": [],
+          "text_ar": "له تكامله الداخلي. وهو ليس موجّهًا نحو هدف محدد، فالنشاط نفسه هو المهم."
+        },
+        {
+          "letter": "D",
+          "text": "Oyuna katılmak çocuğun özgür seçimidir.",
+          "images": [],
+          "text_ar": "المشاركة في اللعب اختيار حر للطفل."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk oyun oynarken eğlenmeli, hoş vakit geçirmelidir.",
+          "images": [],
+          "text_ar": "ينبغي أن يستمتع الطفل أثناء اللعب وأن يقضي وقتًا طيبًا."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "لتوصيف أي نشاط بوصفه لعبًا لا بد من معرفة خصائص اللعب. أي مما يلي ليس من خصائص اللعب؟"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Schaffer ve Emerson’un bağlanma aşamalarındandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Açık bağlanma",
+          "images": [],
+          "text_ar": "التعلق الواضح"
+        },
+        {
+          "letter": "B",
+          "text": "Hedefi düzeltilmiş ortaklığın oluşturulması",
+          "images": [],
+          "text_ar": "تكوين الشراكة المصححة الهدف"
+        },
+        {
+          "letter": "C",
+          "text": "Çoklu bağlanma",
+          "images": [],
+          "text_ar": "التعلق المتعدد"
+        },
+        {
+          "letter": "D",
+          "text": "Bağlanma başlangıcı",
+          "images": [],
+          "text_ar": "بداية التعلق"
+        },
+        {
+          "letter": "E",
+          "text": "Ön bağlanma",
+          "images": [],
+          "text_ar": "ما قبل التعلق"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من مراحل التعلق عند شيفر وإيمرسون؟"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "Bağlanmadan önce bebeğin tanıdık bakıcılarını yabancılardan ayırt edebilmesini vurgulayan teori aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel gelişim teorisi",
+          "images": [],
+          "text_ar": "نظرية النمو المعرفي"
+        },
+        {
+          "letter": "B",
+          "text": "Psikanalitik teori",
+          "images": [],
+          "text_ar": "النظرية التحليلية النفسية"
+        },
+        {
+          "letter": "C",
+          "text": "Etolojik teori",
+          "images": [],
+          "text_ar": "النظرية الإيثولوجية"
+        },
+        {
+          "letter": "D",
+          "text": "Çoklu zeka teorisi",
+          "images": [],
+          "text_ar": "نظرية الذكاءات المتعددة"
+        },
+        {
+          "letter": "E",
+          "text": "Öğrenme teorisi",
+          "images": [],
+          "text_ar": "نظرية التعلم"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما النظرية التي تؤكد قدرة الرضيع على تمييز مقدمي الرعاية المألوفين لديه عن الغرباء قبل تكوّن التعلق؟"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "Bowly’nin monotropi hipotezi aşağıda verilenlerden hangisi ile ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anne yoksunluğunun uzun vadeli sonuçları mevcuttur.",
+          "images": [],
+          "text_ar": "لحرمان الأم نتائج طويلة المدى."
+        },
+        {
+          "letter": "B",
+          "text": "Bir çocuk yaşamın ilk yılında bağlanma figüründen sürekli bakım almalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يتلقى الطفل رعاية مستمرة من شخصية التعلق في السنة الأولى من حياته."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk doğuştan gelen birincil bağlanma figürüne bağlanma ihtiyacı içindedir.",
+          "images": [],
+          "text_ar": "لدى الطفل حاجة فطرية إلى التعلق بشخصية التعلق الأولية."
+        },
+        {
+          "letter": "D",
+          "text": "Bir çocuk yaşamın ilk iki yılında bağlanma figüründen sürekli bakım almalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يتلقى الطفل رعاية مستمرة من شخصية التعلق خلال السنتين الأوليين من حياته."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun birincil bakıcı ile bağlanma ilişkisi içsel çalışan modelinin geliştirilmesine yol açar.",
+          "images": [],
+          "text_ar": "يؤدي تعلق الطفل بمقدّم الرعاية الأول إلى تطوير نموذج عملي داخلي."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "بماذا تتعلق فرضية التوجه الأحادي عند بولبي فيما يلي؟"
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi güvenli bağlanma stili geliştiren bebeklerin yabancı ortamdaki davranış örneklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında direnç veya öfke",
+          "images": [],
+          "text_ar": "مقاومة أو غضب أثناء إعادة اللقاء مع مزيج من البحث عن القرب"
+        },
+        {
+          "letter": "B",
+          "text": "Yabancı tarafından rahatlatılmaya direnç gösterme",
+          "images": [],
+          "text_ar": "إبداء مقاومة للتهدئة من قِبل الغريب"
+        },
+        {
+          "letter": "C",
+          "text": "Bakıcının ayrılmasından dolayı üzgün olma",
+          "images": [],
+          "text_ar": "الحزن بسبب انفصال مقدّم الرعاية"
+        },
+        {
+          "letter": "D",
+          "text": "Bakıcının gidişinden büyük sıkıntı duyma",
+          "images": [],
+          "text_ar": "الشعور بضيق كبير عند ذهاب مقدّم الرعاية"
+        },
+        {
+          "letter": "E",
+          "text": "Yakınlık arayışı karışımı ile yeniden bir araya gelme esnasında rahatlamada zorluk",
+          "images": [],
+          "text_ar": "صعوبة في الهدوء أثناء إعادة اللقاء مع مزيج من البحث عن القرب"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من أمثلة سلوك الرضّع ذوي نمط التعلق الآمن في البيئة الغريبة؟"
+    },
+    {
+      "n": 31,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kaçınmacı bağlanma stili ile ilgili ebeveynlik stilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ürküten (örneğin, taciz eden)",
+          "images": [],
+          "text_ar": "مُرعب (مثل: مُسيء)"
+        },
+        {
+          "letter": "B",
+          "text": "Tutarsız, genellikle yanıt vermeyen (örneğin, depresif)",
+          "images": [],
+          "text_ar": "غير متسق، غالبًا غير مستجيب (مثل: مصاب بالاكتئاب)"
+        },
+        {
+          "letter": "C",
+          "text": "Korkutan (örneğin, aşırı ezen)",
+          "images": [],
+          "text_ar": "مُخيف (مثل: مفرط القهر)"
+        },
+        {
+          "letter": "D",
+          "text": "Reddeden-tepkisiz veya müdahaleci-aşırı uyarıcı",
+          "images": [],
+          "text_ar": "رافض – غير متجاوب أو متدخل – مفرط التحفيز"
+        },
+        {
+          "letter": "E",
+          "text": "Hassas, duyarlı",
+          "images": [],
+          "text_ar": "حساس، متجاوب"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي هو أسلوب التنشئة الوالدية المرتبط بنمط التعلق التجنّبي؟"
+    },
+    {
+      "n": 32,
+      "type": "legacy_text",
+      "stem": "Bebek maymunların bağlanması üzerinde beslenme ve dokunsal uyarımın etkisini karşılaştıran teorisyen aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Spitz",
+          "images": [],
+          "text_ar": "سبيتز"
+        },
+        {
+          "letter": "B",
+          "text": "Harlow",
+          "images": [],
+          "text_ar": "هارلو"
+        },
+        {
+          "letter": "C",
+          "text": "Freud",
+          "images": [],
+          "text_ar": "فرويد"
+        },
+        {
+          "letter": "D",
+          "text": "Lorenz",
+          "images": [],
+          "text_ar": "لورنز"
+        },
+        {
+          "letter": "E",
+          "text": "Erikson",
+          "images": [],
+          "text_ar": "إريكسون"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "من هو المنظّر الذي قارن تأثير التغذية والتحفيز اللمسي على تعلق صغار القرود؟"
+    },
+    {
+      "n": 33,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Bowly’nin anne yoksunluğunun uzun vadeli sonuçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Suçluluk",
+          "images": [],
+          "text_ar": "الذنب"
+        },
+        {
+          "letter": "B",
+          "text": "Empati yoksunluğu",
+          "images": [],
+          "text_ar": "غياب التعاطف"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel olgunluk",
+          "images": [],
+          "text_ar": "النضج المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Depresyon",
+          "images": [],
+          "text_ar": "الاكتئاب"
+        },
+        {
+          "letter": "E",
+          "text": "Saldırganlık",
+          "images": [],
+          "text_ar": "العدوانية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من النتائج طويلة المدى لحرمان الأم عند بولبي؟"
+    },
+    {
+      "n": 34,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi oyunun özellikleri ile ilgili yanlış bir bilgidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun çocuklara özgür seçim yapma hakkı veren aktif bir eylemdir.",
+          "images": [],
+          "text_ar": "اللعب فعل نشط يمنح الأطفال حق الاختيار الحر."
+        },
+        {
+          "letter": "B",
+          "text": "Oyun içten güdümlüdür.",
+          "images": [],
+          "text_ar": "اللعب مدفوع بدوافع داخلية."
+        },
+        {
+          "letter": "C",
+          "text": "Oyun süreç odaklı değil sonuç odaklı bir eylemdir.",
+          "images": [],
+          "text_ar": "اللعب فعل موجّه بالنتيجة لا بالعملية."
+        },
+        {
+          "letter": "D",
+          "text": "Oyun keyifli bir eylemdir.",
+          "images": [],
+          "text_ar": "اللعب فعل ممتع."
+        },
+        {
+          "letter": "E",
+          "text": "Oyun içerisinde mecazi anlamlar ve doğaçlamalar barındırır",
+          "images": [],
+          "text_ar": "يتضمن اللعب معاني مجازية وارتجالات."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي معلومة خاطئة عن خصائص اللعب؟"
+    },
+    {
+      "n": 35,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi öğretmenin, çocukların oyununa katılımı sırasında benimsemesi gereken yaklaşımlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlginç bir açılım ya da uyarım sağlama amacıyla oyuna girmek",
+          "images": [],
+          "text_ar": "الدخول إلى اللعب بهدف تقديم انفتاح أو تحفيز مثير للاهتمام"
+        },
+        {
+          "letter": "B",
+          "text": "Oyunu, dışarıdan verilecek talimatlarla yönlendirmek",
+          "images": [],
+          "text_ar": "توجيه اللعب بتعليمات تُعطى من الخارج"
+        },
+        {
+          "letter": "C",
+          "text": "Devam etmekte olan bir oyuna çocuğun girmesine yardım etmek",
+          "images": [],
+          "text_ar": "مساعدة الطفل على الدخول إلى لعب جارٍ"
+        },
+        {
+          "letter": "D",
+          "text": "Oyunun sürdürülmesi amacıyla bir katılımcı olarak oyuna girmek",
+          "images": [],
+          "text_ar": "الدخول إلى اللعب كمشارك بهدف استمراره"
+        },
+        {
+          "letter": "E",
+          "text": "Oyuna hiç katılmayan çocuğa yardım etmek",
+          "images": [],
+          "text_ar": "مساعدة الطفل الذي لا يشارك في اللعب إطلاقًا"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من المقاربات التي ينبغي أن يتبناها المعلم عند مشاركته في لعب الأطفال؟"
+    },
+    {
+      "n": 36,
+      "type": "legacy_text",
+      "stem": "Bowlby’ye göre bebekler birincil bakıcıları ile aralarında güçlü bir bağ oluşturmakta eğer bu bağlanma ortadan kalkar veya bozulursa büyük endişe ve sıkıntı ortaya çıkmaktadır. Bu ayrılığa gösterilen tepkinin aşamaları aşağıdakilerden hangisinde sırayla verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Umutsuzluk aşaması – Kopya aşaması – Protesto aşaması",
+          "images": [],
+          "text_ar": "مرحلة اليأس – مرحلة التباعد – مرحلة الاحتجاج"
+        },
+        {
+          "letter": "B",
+          "text": "Kopya aşaması – Protesto aşaması – Umutsuzluk aşaması",
+          "images": [],
+          "text_ar": "مرحلة التباعد – مرحلة الاحتجاج – مرحلة اليأس"
+        },
+        {
+          "letter": "C",
+          "text": "Umutsuzluk aşaması – Protesto aşaması – Kopya aşaması",
+          "images": [],
+          "text_ar": "مرحلة اليأس – مرحلة الاحتجاج – مرحلة التباعد"
+        },
+        {
+          "letter": "D",
+          "text": "Protesto aşaması – Umutsuzluk aşaması – Kopya aşaması",
+          "images": [],
+          "text_ar": "مرحلة الاحتجاج – مرحلة اليأس – مرحلة التباعد"
+        },
+        {
+          "letter": "E",
+          "text": "Protesto aşaması – Kopya aşaması – Umutsuzluk aşaması",
+          "images": [],
+          "text_ar": "مرحلة الاحتجاج – مرحلة التباعد – مرحلة اليأس"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "يرى بولبي أن الرضّع يكوّنون رابطة قوية مع مقدمي الرعاية الأساسيين، وإذا زال هذا التعلق أو اختل نشأ قلق وضيق كبيران. أي مما يلي يذكر مراحل الاستجابة لهذا الانفصال بالترتيب؟",
+      "review": [
+        "q36.stem: تكتب الخيارات في المصدر Kopya (نسخة) بدلًا من kopma (تباعد)؛ تُرجمت بمعنى مرحلة التباعد تماشيًا مع مراحل بولبي."
+      ]
+    },
+    {
+      "n": 37,
+      "type": "legacy_text",
+      "stem": "Yetişkin katılımcılardan karışık bir şekilde yürümelerini ister. Yürürken “Sabah nasıl bir duygu ile uyanıp buraya geldiniz?” diye sorar ve herkesten o duygu gibi sınıf içinde karışık bir şekilde yürümelerini ister” şeklinde başlayan bir oyun çocuğun daha çok hangi gelişim alanını destekler?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duygusal",
+          "images": [],
+          "text_ar": "العاطفي"
+        },
+        {
+          "letter": "B",
+          "text": "Özbakım",
+          "images": [],
+          "text_ar": "العناية الذاتية"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel",
+          "images": [],
+          "text_ar": "المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal",
+          "images": [],
+          "text_ar": "الاجتماعي"
+        },
+        {
+          "letter": "E",
+          "text": "Motor",
+          "images": [],
+          "text_ar": "الحركي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "لعبة تبدأ على النحو التالي: يطلب من المشاركين البالغين أن يسيروا بشكل عشوائي. وأثناء السير يسأل: «بأي شعور استيقظت هذا الصباح وجئت إلى هنا؟» ثم يطلب من الجميع أن يسيروا في الصف بشكل عشوائي متقمّصين ذلك الشعور — أي مجال من مجالات النمو يدعمه هذا اللعب أكثر من غيره؟"
+    },
+    {
+      "n": 38,
+      "type": "legacy_text",
+      "stem": "I.Duyarlılık: Sık sık eylemlerini bebeğe doğru yöneltmek\nII.Pozitif tutum: Bebeğe eğilim ve olumlu tutum ifadesi\nIII.Eş zamanlı olma: Bebekle yapılandırılmış sakin, karşılıklı etkileşim\nIV.Karşılıklı olma: Anne ve bebeğin aynı şeye katıldığı yapılandırılmış etkileşim\nYukarıda güvenli bağlanmayı oluşturan bakıcı özellikleri ve açıklamaları verilmiştir. Bu özellikler ve açıklamalardan hangisi/hangileri yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "I, II, III, IV",
+          "images": [],
+          "text_ar": "I وII وIII وIV"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "D",
+          "text": "II, III, IV",
+          "images": [],
+          "text_ar": "II وIII وIV"
+        },
+        {
+          "letter": "E",
+          "text": "I, II, III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. الحساسية: توجيه أفعاله نحو الرضيع باستمرار\nII. الاتجاه الإيجابي: إبداء الميل والاتجاه الإيجابي نحو الرضيع\nIII. التزامن: تفاعل متبادل هادئ ومنظم مع الرضيع\nIV. التبادلية: تفاعل منظم يشترك فيه كل من الأم والرضيع في الشيء نفسه\nوردت أعلاه خصائص مقدّم الرعاية المكوّنة للتعلق الآمن وتوضيحاتها. أي هذه الخصائص والتوضيحات غير صحيح؟",
+      "review": [
+        "q38.stem: وصف III وIV متبادلان في المصدر؛ حُفظت الصياغة كما وردت."
+      ]
+    },
+    {
+      "n": 39,
+      "type": "legacy_text",
+      "stem": "Bir bebeğin ihtiyaçlarına sürekli olarak cevap veren bir bakıcı bebeğin diğer insanlara olan güven duygusunu geliştirirken, tepkisiz veya tutarsız bakıcı güvensizlik duygusunun gelişimine neden olacağını öne süren teorisyen aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Lorenz",
+          "images": [],
+          "text_ar": "لورنز"
+        },
+        {
+          "letter": "B",
+          "text": "Harlow",
+          "images": [],
+          "text_ar": "هارلو"
+        },
+        {
+          "letter": "C",
+          "text": "Spitz",
+          "images": [],
+          "text_ar": "سبيتز"
+        },
+        {
+          "letter": "D",
+          "text": "Freud",
+          "images": [],
+          "text_ar": "فرويد"
+        },
+        {
+          "letter": "E",
+          "text": "Erikson",
+          "images": [],
+          "text_ar": "إريكسون"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "من هو المنظّر الذي ذهب إلى أن مقدّم الرعاية الذي يستجيب باستمرار لاحتياجات الرضيع ينمّي لديه الشعور بالثقة بالآخرين، بينما مقدّم الرعاية غير المستجيب أو غير المتسق يؤدي إلى تطور الشعور بعدم الأمان؟"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "6557f7c0145aacf3b3cc4170cabab98a87315eb8f7927d4d4bc7717264c4e7d6"
+}

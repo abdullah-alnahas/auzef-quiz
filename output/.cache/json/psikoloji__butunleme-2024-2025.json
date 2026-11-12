@@ -1,0 +1,739 @@
+{
+  "course": "Psikoloji ve Psikolojiye Giriş – 1",
+  "course_slug": "psikoloji",
+  "exam": "2024-2025 Bütünleme Soruları",
+  "exam_slug": "butunleme-2024-2025",
+  "page_title": "Psikolojiye Giriş-1 2024-2025 Bütünleme Soruları",
+  "source_url": "https://lolonolo.com/2026/01/31/psikolojiye-giris-1-2024-2025-butunleme-sorulari/",
+  "scraped_at": "2026-11-12T02:21:36+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Hume’un benlik kavramı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Benlik, sadece duyusal deneyimlerden bağımsız olarak var olan sabit bir yapıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Benlik, ardışık duyusal algıların toplamıdır ve sürekli bir varlık değildir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Benlik, sürekli değişen deneyim akışının bir ürünüdür.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hume'a göre nedensellik gibi kavramlar, zihin tarafından oluşturulan alışkanlıklardır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Benlik, duyusal algılar ve deneyimler ile ortaya çıkan bir süreçtir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki durumlardan hangisi Alan Baddeley’nin çalışma belleği modelinde merkezi yürütücünün işlevine bir örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görsel bilgileri zihinsel olarak bir süre saklamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bir telefon numarasını tekrar ederek hatırlamak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir alışveriş listesindeki maddeleri kategorilere ayırmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aynı anda birden fazla görevi yönetmek ve dikkat dağılımını ayarlamak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zihinsel olarak bir haritayı göz önünde canlandırmak",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Bireyin Freud’un Psikoanalitik Kişilik Teorisi’ne göre “süperego” yapısının belirgin özellikleri hangi örnek durumla ifade edilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karşılaştığı her yeni bilgiye açık olup meraklı bir tavır sergiler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hayal kırıklığı yaşadığında duygularını şiddetle ifade eder ve çevresiyle çatışır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Diğer insanlarla iş birliği içinde çalışmaya ve onların ihtiyaçlarına duyarlı olmaya çalışır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zorlu bir durumda, dürtülerini hemen tatmin etme isteğiyle hareket eder.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ahlaki ve etik değerlere uyma konusunda hassas olup toplum kurallarına göre davranır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Herzberg’in iki faktör teorisi, iş tatminini ve iş tatminsizliğini farklı faktörlere dayandırır.\nBuna göre, aşağıdakilerden hangisi Herzberg’in teorisine göre iş tatminsizliği yaratan bir unsur olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişisel gelişim fırsatları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sorumluluk",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Başarı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Maaş",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tanınma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi uzun süreli bellekteki “anlamsal bellek” türüne örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir toplantıda konuşulanları anında hatırlamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bisiklet sürme becerisinin otomatik olarak yerine getirilmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Paris'in Fransa'nın başkenti olduğunu bilmek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Telefon numaralarının kısa süreli bellekte tutulması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukken yaşanan bir doğum günü partisinin hatırlanması",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Sinir sisteminin yapısal özelliklerine ilişkin aşağıdaki önermelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Periferik sinir sistemi, merkezi sinir sistemi ile kaslar ve organlar arasında bilgi taşır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Merkezi sinir sistemi, beyin ve omurilikten oluşur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Parasempatik sinir sistemi, 'savaş ya da kaç' tepkisinde aktiftir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aksonlar, sinir sinyallerini nöronlar arası iletişimi sağlamak amacıyla taşır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Frontal loblar, düşünme ve problem çözme süreçlerinde kilit rol oynar.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki örneklerden hangisi “olumsuz pekiştirme” (negative reinforcement) sürecini doğru bir şekilde örneklendirir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir çalışanın performansı arttığında ona bir prim verilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bir çocuk, ders çalışmadığında ailesi tarafından televizyon izleme hakkından mahrum bırakılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir öğrenci, sınıfta yaramazlık yaptığında ceza olarak teneffüse çıkamaz.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Araba kullanırken emniyet kemeri takıldığında araçtaki uyarı sesi kesilir ve bu durum sürücünün emniyet kemeri takma davranışını artırır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir köpeğe, istenmeyen bir davranış sergilediğinde tasmadan hafif bir sarsıntı verilir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Descartes’in “Cogito, ergo sum” (Düşünüyorum, öyleyse varım) ifadesi aşağıdaki düşüncelerden hangisine örnek olarak verilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilincin bilinç dışı süreçlerle açıklanması gerektiğini belirtme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilincin bireysel düşünce süreçleriyle doğrudan bağlantılı olduğunu savunma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilincin fizyolojik bir yan ürün olduğunu iddia etme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilincin evrensel bir olgu olduğunu öne sürme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilincin yalnızca dinî bir kavram olduğunu kabul etme",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Weber-Fechner Yasası’na göre aşağıdaki durumlardan hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uyarıcının fiziksel şiddeti arttıkça algısal değişiklik daha belirgin hâle gelir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bir odadaki ışık seviyesi başlangıçta düşükse küçük bir artış daha belirgin algılanır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Uyarıcı şiddeti azaldıkça algısal hassasiyet de azalır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Algısal şiddet, fiziksel şiddetin karesiyle doğru orantılı olarak artar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Fark edilebilir en küçük değişim, uyarıcı şiddetiyle ters orantılıdır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Piaget’in bilişsel gelişim teorisinde, “İşlem Öncesi Evre”deki çocukların henüz mantıksal düşünme becerileri gelişmemiştir ve egosantrik bir yapıya sahiptirler.\nAşağıdaki örneklerden hangisi bu durumun bir göstergesidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun bir nesnenin gözden kaybolduğu anda olmadığını düşünmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun suya dokunduğunda ellerinin ıslandığını fark etmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun bir yolculuk sırasında saatlere bakarak zaman geçişini anlaması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun bardaktaki aynı miktarda suyun farklı bir bardağa aktarıldığında miktarın değiştiğini düşünmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun iki nesneyi birbirine benzediği için aynı olarak kabul etmesi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "I. Hull’un teorisine göre, davranışların temelinde dürtülerin artırılması gerekliliği yatar.\nII. Bu teori, organizmaların dürtülerini azaltmak amacıyla davranışlarda bulunduğunu öne sürer.\nIII. Teori, öğrenme süreçlerini ve pekiştirme mekanizmalarını açıklamada kullanılır.\nIV. Hull, içsel gerginliğin azaltılmasıyla davranışların tekrar etme olasılığının düştüğünü savunur.\nYukarıdakilerden hangileri Clark Hull’un Dürtü Azaltma Teorisi ile ilgili doğru bilgileri içermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, III ve IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "II, III ve IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "II ve IV",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Bilinç ile ilgili felsefi yaklaşımlardan hangisi bilincin beynin ötesinde, bağımsız bir varlık olduğunu savunur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dualizm",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fenomenoloji",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hümanizm",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Panpsişizm",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Materyalizm",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Bilişsel devrim sürecinde öne çıkan temel değişiklik, öğrenme sürecinin nasıl ele alındığı ile ilgilidir.\nAşağıdaki ifadelerden hangisi bilişsel devrim sonrası öğrenmenin tanımına uygun bir açıklamadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrenme, gözlemlenebilir ve ölçülebilir davranışlara odaklanan bir süreçtir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğrenme, bireylerin bilgiyi zihinsel süreçlerle işleyip organize ettiği ve içsel potansiyellerin ön planda olduğu bir süreçtir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğrenme, dış uyaranlara verilen gözlemlenebilir tepkilere dayanan bir süreçtir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğrenme, bireylerin somut nesnelerle etkileşim yoluyla bilgi kazandığı bir süreçtir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğrenme, bireyin çevresel uyaranlara tamamen bağımlı olduğu bir süreçtir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Kimlik, bireyin kendini tanımlama biçimidir ve toplumsal roller ile çevresel faktörlerin etkisi altında zamanla evrilebilir.\nBuna göre, kimlik oluşumunda etkili olan unsurlardan hangisi bireyin değişmez biyolojik özelliklerinden ziyade toplumsal ve kültürel etkileşimlere bağlı olarak gelişir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doğal eğilimler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Genetik miras",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mizaç",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Fiziksel yapı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Karakter",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Gestalt algı teorisine göre, bir basketbol maçında aynı renkte forma giyen oyuncuların bir takım olarak algılanması aşağıdaki ilkelerden hangisine örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Devamlılık ilkesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kapanış ilkesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Şekil-zemin ilişkisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yakınlık ilkesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Benzerlik ilkesi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Psikolojinin bilimsel amaçlarından biri olan “tanımlama” süreci aşağıdaki ifadelerden hangisinde doğru olarak tanımlanmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İstenen davranışları teşvik etmek veya istenmeyenleri azaltmak için müdahalelerin kullanılmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geçmiş veriler ışığında gelecekteki davranışları öngörme sürecidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Belirli bir davranışın dikkatlice gözlemlenmesi, kaydedilmesi ve detaylandırılması sürecidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bireylerin içsel motivasyonlarını anlamak amacıyla yapılan niteliksel araştırmalardır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Belirli bir davranışın nedenlerini ve ortaya çıkma biçimlerini anlamaya yönelik süreçtir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi “alışma” ve “duyarlılaşma” süreçlerini karşılaştıran doğru bir önermedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Alışma sürecinde tekrarlanan bir uyaran daha az tepki yaratırken duyarlılaşma yoğun veya tehdit edici uyaranlara karşı daha güçlü tepkiler geliştirilmesini sağlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Alışma, organizmanın sürekli tekrarlanan uyarıcılara karşı daha güçlü tepkiler geliştirmesini sağlar; duyarlılaşma ise tehlikeli uyaranlara karşı tepkinin azalmasına neden olur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Alışma, organizmanın belirli bir uyarana verdiği tepkinin artmasını sağlarken duyarlılaşma, bu tepkinin azalmasına yol açar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Alışma süreci organizmanın sinir sisteminde uyarıcıya karşı duyarlılığın artmasına neden olurken duyarlılaşma bu duyarlılığı azaltır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Alışma süreci yalnızca biyolojik bir temele dayanırken duyarlılaşma hem biyolojik hem de psikolojik etmenlerden etkilenir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "I. Materyalist yaklaşım, bilincin nörofizyolojik süreçlerden bağımsız bir fenomen olduğunu savunur.\nII. Panpsişizm, bilincin yalnızca insanlara özgü bir özellik olduğunu iddia eder.\nIII. Fenomenolojik yaklaşım, bilincin öznel deneyimlerin bir ürünü olarak aktif bir anlamlandırma süreci olduğunu öne sürer.\nBilince felsefi yaklaşımlar ile ilgili olarak yukarıdaki ifadelerden hangisi veya hangileri yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve II",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi, B.F. Skinner’ın araçsal koşullama teorisine göre yanlış bir ifadedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Araçsal koşullamada, öğrenme süreci bilinç dışında gerçekleşir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ceza verilen davranışların tekrarlanma olasılığı azalır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Olumsuz pekiştirme, istenmeyen bir davranışı azaltmak için uygulanır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Olumlu pekiştirme, davranışı güçlendirmek için kullanılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ödüllendirilen davranışların tekrarlanma olasılığı artar.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Bandura’nın sosyal biliş teorisine göre öğrenme sürecinde gözlemci öğrenmenin rolü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireyin yalnızca ödül ve ceza sistemine bağlı olarak öğrenmesini sağlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bireyin bilinç dışı dürtüleri aracılığıyla bilgi kazanmasını sağlar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bireyin çevresindeki bireylerin davranışlarını taklit ederek öğrenmesini sağlar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bireyin doğuştan getirdiği yeteneklere dayalı olarak öğrenmesini açıklar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireyin yalnızca kendi deneyimleri yoluyla öğrenmesini sağlar.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "e64c95d5db813f220cc8543e9cbdd9effb1accc3ef740b471558e0cf7fa55d30"
+}

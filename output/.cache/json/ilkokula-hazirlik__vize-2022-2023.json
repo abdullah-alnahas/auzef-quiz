@@ -1,0 +1,865 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "2022-2023 Vize Soruları",
+  "exam_slug": "vize-2022-2023",
+  "page_title": "İlkokula Hazırlık 2022-2023 Vize Soruları",
+  "source_url": "https://lolonolo.com/2022/11/28/ilkokula-hazirlik-2022-2023-vize-sorulari/",
+  "scraped_at": "2026-11-12T02:21:19+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki teorilerden hangisi öğrenmeye hazır oluşu, çocukların becerilerine ve bilişsel olgunluk düzeyine bağlayarak açıklamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel model",
+          "images": [],
+          "text_ar": "النموذج المعرفي"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal öğrenme modeli",
+          "images": [],
+          "text_ar": "نموذج التعلم الاجتماعي"
+        },
+        {
+          "letter": "C",
+          "text": "Olgunlaşma modeli",
+          "images": [],
+          "text_ar": "نموذج النضج"
+        },
+        {
+          "letter": "D",
+          "text": "Ekolojik model",
+          "images": [],
+          "text_ar": "النموذج البيئي"
+        },
+        {
+          "letter": "E",
+          "text": "Yapılandırmacı model",
+          "images": [],
+          "text_ar": "النموذج البنائي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من النظريات التالية يفسّر الاستعداد للتعلم بربطه بمهارات الأطفال ومستوى نضجهم المعرفي؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Okul öncesi eğitim programında yer alan ve okul öncesi eğitim kurumlarında bulunması önerilen öğrenme merkezleri ile ilgili aşağıda verilen ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Materyaller güncellenmeli ve güvenlik önlemleri alınmalı.",
+          "images": [],
+          "text_ar": "ينبغي تحديث الوسائل التعليمية واتخاذ تدابير السلامة."
+        },
+        {
+          "letter": "B",
+          "text": "Programda yer alan tüm merkezler aynı anda oluşturulmalı.",
+          "images": [],
+          "text_ar": "ينبغي إنشاء جميع المراكز الواردة في البرنامج في الوقت نفسه."
+        },
+        {
+          "letter": "C",
+          "text": "Hareketli oyunlar oynanan merkezler diğerlerinden uzak konumlandırılmalı.",
+          "images": [],
+          "text_ar": "ينبغي أن تُوضَع مراكز الألعاب الحركية بعيدًا عن المراكز الأخرى."
+        },
+        {
+          "letter": "D",
+          "text": "Merkezler dolap, raf, pano, halı, bant vb. malzemelerle birbirinden ayrılmalı.",
+          "images": [],
+          "text_ar": "ينبغي فصل المراكز بعضها عن بعض بالخزائن والرفوف واللوحات والسجاد والأشرطة وغيرها من المواد."
+        },
+        {
+          "letter": "E",
+          "text": "Öğrenme merkezleri düzenlenirken sınıfın fiziksel özellikleri ve çocuk sayısı dikkate alınmalı.",
+          "images": [],
+          "text_ar": "ينبغي مراعاة الخصائص الجسدية للصف وعدد الأطفال عند تنظيم مراكز التعلم."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من العبارات التالية المتعلقة بمراكز التعلم الواردة في برنامج تعليم ما قبل المدرسة والتي يُوصى بوجودها في مؤسسات تعليم ما قبل المدرسة غير صحيحة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi 2013 Okul Öncesi Eğitim Programı’nın değerlendirme sürecine ilişkin bir özellik değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Programda süreç değil sonuç odaklı olan değerlendirme benimsenmiştir.",
+          "images": [],
+          "text_ar": "اعتُمد في البرنامج تقييم يقوم على النتائج لا على العملية."
+        },
+        {
+          "letter": "B",
+          "text": "Ailelerin katılacağı “Gelişim Dosyası Paylaşım Günü” düzenlenmesi önerilmektedir.",
+          "images": [],
+          "text_ar": "يُوصى بتنظيم «يوم مشاركة ملف النمو» بمشاركة الأسر."
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların değerlendirilmesi, programın değerlendirilmesi ve öğretmenin kendini değerlendirmesi boyutları yer alır.",
+          "images": [],
+          "text_ar": "يشمل أبعاد تقييم الأطفال، وتقييم البرنامج، وتقييم المعلم لنفسه."
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların değerlendirilmesi amacıyla Gelişim Gözlem Formu ve Gelişim Raporu hazırlanmıştır.",
+          "images": [],
+          "text_ar": "أُعدّت استمارة ملاحظة النمو وتقرير النمو بغرض تقييم الأطفال."
+        },
+        {
+          "letter": "E",
+          "text": "Okul öncesi eğitim programında değerlendirme süreci çok yönlü olarak ele alınmıştır.",
+          "images": [],
+          "text_ar": "تناول برنامج تعليم ما قبل المدرسة عملية التقييم من جوانب متعددة."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من العبارات التالية ليس من خصائص عملية التقييم في برنامج تعليم ما قبل المدرسة لعام 2013؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukların sözel dil becerilerinin desteklerken yapılması gereken öneriler arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların bilmediği sözcükleri kullanmaktan kaçınmak",
+          "images": [],
+          "text_ar": "تجنب استخدام مفردات لا يعرفها الأطفال"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların yaşadığı problem durumlarında çözüme yönelik konuşmalara model olmak",
+          "images": [],
+          "text_ar": "أن يكون المعلم قدوة في الأحاديث الموجهة إلى الحل عندما يواجه الأطفال مواقف مشكلة"
+        },
+        {
+          "letter": "C",
+          "text": "Betimleme içeren ifadeler kullanmak",
+          "images": [],
+          "text_ar": "استخدام عبارات تتضمن وصفًا"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklarla düzgün cümleler kurup konuşmak",
+          "images": [],
+          "text_ar": "التحدث مع الأطفال بجمل سليمة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklara isteklerini nasıl belirtecekleri konusunda model olmak",
+          "images": [],
+          "text_ar": "أن يكون المعلم قدوة للأطفال في كيفية التعبير عن رغباتهم"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا يندرج ضمن التوصيات التي ينبغي اتباعها عند دعم مهارات اللغة الشفهية لدى الأطفال؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hazır okulların özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrenmenin ilişkiler bağlamında gerçekleştiği anlayışını kullanır.",
+          "images": [],
+          "text_ar": "يستخدم فهمًا يرى أن التعلم يحدث في سياق العلاقات."
+        },
+        {
+          "letter": "B",
+          "text": "Her çocuğun başarısına kendini adamıştır.",
+          "images": [],
+          "text_ar": "يلتزم بنجاح كل طفل."
+        },
+        {
+          "letter": "C",
+          "text": "Ev ve okul arasındaki geçişi yumuşak olmasına özen gösterir.",
+          "images": [],
+          "text_ar": "يحرص على أن يكون الانتقال بين البيت والمدرسة سلسًا."
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların karmaşık duygularını dikkate almaz.",
+          "images": [],
+          "text_ar": "لا يراعي المشاعر المركبة للأطفال."
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların bireysel ihtiyaçlarının farkındadır.",
+          "images": [],
+          "text_ar": "يدرك الاحتياجات الفردية للأطفال."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من خصائص المدارس الجاهزة؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Bu aşamada çocuklar yazmayı çizim olarak algılar. Başka bir deyişle çizim ve yazı arasında bir ilişki kurmaya çalışırlar. Çizmeyi/yazmayı bir iletişim aracı olarak görür, kendi çizimlerini sanki kâğıtta yazı varmış gibi başkalarına okuyarak paylaşırlar. Yukarıda ifade edilen yazma aşaması aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Harfe benzeyen şekiller çizerek yazma",
+          "images": [],
+          "text_ar": "الكتابة برسم أشكال تشبه الحروف"
+        },
+        {
+          "letter": "B",
+          "text": "Geleneksel harf - ses ilişkisi ile yazma",
+          "images": [],
+          "text_ar": "الكتابة بالعلاقة التقليدية بين الحرف والصوت"
+        },
+        {
+          "letter": "C",
+          "text": "Harf - ses ilişkisini keşfederek yazma",
+          "images": [],
+          "text_ar": "الكتابة باكتشاف العلاقة بين الحرف والصوت"
+        },
+        {
+          "letter": "D",
+          "text": "Çizim yaparak yazma",
+          "images": [],
+          "text_ar": "الكتابة بالرسم"
+        },
+        {
+          "letter": "E",
+          "text": "Karalamalar yaparak yazma",
+          "images": [],
+          "text_ar": "الكتابة بالخربشة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "في هذه المرحلة يدرك الأطفال الكتابة بوصفها رسمًا. وبعبارة أخرى، يحاولون إقامة علاقة بين الرسم والكتابة. يرون الرسم/الكتابة وسيلة تواصل، ويشاركون الآخرين رسمهم بقراءته لهم كأنما هناك كتابة على الورق.\nما مرحلة الكتابة المشار إليها أعلاه؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Farklı perspektifler alabilme, problemlere farklı açılardan yaklaşabilme, değişen koşullara uyum sağlayabilme becerisi olarak tanımlanan öz düzenleme alanı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşleyen bellek",
+          "images": [],
+          "text_ar": "الذاكرة النشطة"
+        },
+        {
+          "letter": "B",
+          "text": "Dürtü kontrolü",
+          "images": [],
+          "text_ar": "ضبط الاندفاع"
+        },
+        {
+          "letter": "C",
+          "text": "Engelleyici kontrol",
+          "images": [],
+          "text_ar": "التحكم المثبِّط"
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel esneklik",
+          "images": [],
+          "text_ar": "المرونة المعرفية"
+        },
+        {
+          "letter": "E",
+          "text": "Çalışan bellek",
+          "images": [],
+          "text_ar": "الذاكرة العاملة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما مجال التنظيم الذاتي الذي يُعرَّف بأنه القدرة على اتخاذ منظورات مختلفة، ومقاربة المشكلات من زوايا مختلفة، والتكيف مع الظروف المتغيرة؟",
+      "review": [
+        "q7.A: «İşleyen bellek» و«çalışan bellek» كلتاهما بمعنى الذاكرة العاملة؛ فُرِّقتا في الترجمة بألفاظ «النشطة» و«العاملة» للحفاظ على تمايز الخيارات."
+      ]
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Bu aşamada harflerin sesleri verilmeden önce öğrencilere doğal ve yapay ses kaynaklarından çıkan sesler dinletilmeli ve dinletilen sesin kaynağını fark etmeleri sağlanmalıdır. Daha sonra doğal ve yapay ses kaynaklarından duyduğu sesleri ayırt etme, tanıma ve taklit etme çalışmaları gerçekleştirilmelidir. Belirtilen ilk okuma yazma öğretimi aşaması aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Parmak, el ve kol kaslarını geliştirme çalışmaları",
+          "images": [],
+          "text_ar": "أنشطة تنمية عضلات الأصابع واليد والذراع"
+        },
+        {
+          "letter": "B",
+          "text": "Harfi okuma ve yazma",
+          "images": [],
+          "text_ar": "قراءة الحرف وكتابته"
+        },
+        {
+          "letter": "C",
+          "text": "Metin okuma",
+          "images": [],
+          "text_ar": "قراءة النص"
+        },
+        {
+          "letter": "D",
+          "text": "Sesi hissetme, tanıma ve ayırt etme",
+          "images": [],
+          "text_ar": "الإحساس بالصوت والتعرف عليه وتمييزه"
+        },
+        {
+          "letter": "E",
+          "text": "Dinleme eğitimi çalışmaları",
+          "images": [],
+          "text_ar": "أنشطة تدريب الإنصات"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في هذه المرحلة، وقبل تقديم أصوات الحروف، ينبغي إسماع الطلاب أصواتًا صادرة عن مصادر صوتية طبيعية واصطناعية، وتمكينهم من إدراك مصدر الصوت الذي سمعوه. ثم تُنفَّذ أنشطة تمييز الأصوات المسموعة من المصادر الطبيعية والاصطناعية والتعرف عليها ومحاكاتها.\nما مرحلة تعليم القراءة والكتابة الأولية المشار إليها أعلاه؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Okul öncesi eğitim programı ile ilkokul programı karşılaştırıldığında aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Her iki programda ölçme ve değerlendirme süreci çok boyutlu olarak ele alınmıştır.",
+          "images": [],
+          "text_ar": "تناول كلا البرنامجين عملية القياس والتقييم بشكل متعدد الأبعاد."
+        },
+        {
+          "letter": "B",
+          "text": "Her iki programın değerler eğitimi yaklaşımı tutarlılık göstermektedir.",
+          "images": [],
+          "text_ar": "يتسم نهج تعليم القيم في كلا البرنامجين بالاتساق."
+        },
+        {
+          "letter": "C",
+          "text": "Her iki program birbirini tamamlayıcı niteliktedir.",
+          "images": [],
+          "text_ar": "البرنامجان مكمل أحدهما للآخر."
+        },
+        {
+          "letter": "D",
+          "text": "Okul öncesi eğitim programının öğretme öğrenme süreçleri ilkokula hazırlayıcı niteliktedir.",
+          "images": [],
+          "text_ar": "عمليات التعليم والتعلم في برنامج ما قبل المدرسة ذات طابع مهيّئ للمدرسة الابتدائية."
+        },
+        {
+          "letter": "E",
+          "text": "İlkokul programında aile eğitimi ve katılımı okul öncesi eğitim programına göre daha kapsamlıdır.",
+          "images": [],
+          "text_ar": "تعليم الأسرة ومشاركتها في برنامج المدرسة الابتدائية أشمل منه في برنامج ما قبل المدرسة."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "عند مقارنة برنامج تعليم ما قبل المدرسة ببرنامج المدرسة الابتدائية، أي من العبارات التالية غير صحيحة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okul öncesi eğitim programında göz önünde bulundurulması gereken ilkelerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul öncesi eğitim kurumlarında demokratik eğitime uygun öğrenme ortamları hazırlanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي إعداد بيئات تعلم ملائمة للتربية الديمقراطية في مؤسسات تعليم ما قبل المدرسة."
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların Türkçeyi doğru ve güzel konuşmalarına önem verilmelidir.",
+          "images": [],
+          "text_ar": "ينبغي الاهتمام بأن يتحدث الأطفال اللغة التركية حديثًا صحيحًا وجميلًا."
+        },
+        {
+          "letter": "C",
+          "text": "Oyun çocuklar için en uygun öğrenme yöntemidir, bütün etkinlikler oyun temelli düzenlenmelidir.",
+          "images": [],
+          "text_ar": "اللعب هو أنسب طريقة تعلم للأطفال، وينبغي تنظيم جميع الأنشطة على أساس اللعب."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklara okuma yazma öğretmeye yönelik çalışmalar yürütülmelidir.",
+          "images": [],
+          "text_ar": "ينبغي تنفيذ أنشطة موجهة إلى تعليم الأطفال القراءة والكتابة."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun motor, sosyal ve duygusal, dil ve bilişsel gelişimini desteklemelidir.",
+          "images": [],
+          "text_ar": "ينبغي دعم نمو الطفل الحركي والاجتماعي والعاطفي واللغوي والمعرفي."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من المبادئ التي ينبغي مراعاتها في برنامج تعليم ما قبل المدرسة؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Okula hazır bulunuşluğun boyutlarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zengin ve destekleyici bir ortam, çocuğun öğrenmeye ve daha fazla sorgulamaya olan ilgisini artırır.",
+          "images": [],
+          "text_ar": "إن بيئة غنية وداعمة تزيد اهتمام الطفل بالتعلم وبمزيد من التساؤل."
+        },
+        {
+          "letter": "B",
+          "text": "Bilişsel, sosyal, dikkat ve öz-düzenleme becerilerini içeren okula hazırbulunuşluk becerileri, gelecekteki okul başarısının temelini oluşturur.",
+          "images": [],
+          "text_ar": "مهارات الجاهزية للمدرسة، التي تشمل المهارات المعرفية والاجتماعية والانتباه والتنظيم الذاتي، تشكل أساس النجاح المدرسي في المستقبل."
+        },
+        {
+          "letter": "C",
+          "text": "Dil ve erken okuryazarlık becerilerinin gelişimi ilk okulda başlar.",
+          "images": [],
+          "text_ar": "يبدأ تطور مهارات اللغة والقراءة والكتابة المبكرة في المدرسة الابتدائية."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklar yeni deneyimler ve öğrenme fırsatları ile karşılaştıkça, dünyalarına ilişkin anlayışları da genişler.",
+          "images": [],
+          "text_ar": "كلما واجه الأطفال خبرات جديدة وفرص تعلم، اتسع فهمهم لعالمهم."
+        },
+        {
+          "letter": "E",
+          "text": "Olumlu bir iyi oluş duygusu, çocuğun okula hazır bulunuşluğuna katkıda bulunur.",
+          "images": [],
+          "text_ar": "يسهم الشعور الإيجابي بالرفاه في جاهزية الطفل للمدرسة."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "فيما يتعلق بأبعاد الجاهزية للمدرسة، أي من العبارات التالية غير صحيحة؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Beden Eğitimi ve Oyun Dersi Öğretim Programı’nda yer alan becerilerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Koordinasyon",
+          "images": [],
+          "text_ar": "التناسق"
+        },
+        {
+          "letter": "B",
+          "text": "Kuvvet",
+          "images": [],
+          "text_ar": "القوة"
+        },
+        {
+          "letter": "C",
+          "text": "Spor alışkanlığı",
+          "images": [],
+          "text_ar": "عادة ممارسة الرياضة"
+        },
+        {
+          "letter": "D",
+          "text": "Hareketlilik",
+          "images": [],
+          "text_ar": "الحركية"
+        },
+        {
+          "letter": "E",
+          "text": "Ritim",
+          "images": [],
+          "text_ar": "الإيقاع"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من المهارات الواردة في منهج درس التربية البدنية واللعب؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "İlk okuma yazma sürecinde “sesi hissetme, tanıma ve ayırt etme aşamasında” aşağıdakilerden hangisinin yapılması yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Harflerin isimlerini söyleme",
+          "images": [],
+          "text_ar": "ذكر أسماء الحروف"
+        },
+        {
+          "letter": "B",
+          "text": "Kısa öyküler anlatma, drama yapma, tekerlemeler ya da şarkılar söyleme",
+          "images": [],
+          "text_ar": "سرد قصص قصيرة، والقيام بالدراما، وإنشاد أهازيج أو أغانٍ"
+        },
+        {
+          "letter": "C",
+          "text": "Sesin geçtiği kelimeleri söylenirken ilgileri sesleri vurgulama",
+          "images": [],
+          "text_ar": "توجيه انتباه الأطفال إلى الأصوات عند نطق الكلمات التي يرد فيها الصوت"
+        },
+        {
+          "letter": "D",
+          "text": "Sesin geçtiği kelimeler bulma",
+          "images": [],
+          "text_ar": "إيجاد كلمات يرد فيها الصوت"
+        },
+        {
+          "letter": "E",
+          "text": "Görsellerden yararlanarak sesi ayırt etme",
+          "images": [],
+          "text_ar": "تمييز الصوت بالاستعانة بالصور"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في مرحلة «الإحساس بالصوت والتعرف عليه وتمييزه» ضمن عملية تعليم القراءة والكتابة الأولية، أي مما يلي يُعدّ خطأً في التنفيذ؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "İlkokul Türkçe dersi öğretim programında yer alan dil becerilerinin tamamı aşağıdaki seçeneklerden hangisinde doğru verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İzleme, yazma, görsel ayırt etme, konuşma",
+          "images": [],
+          "text_ar": "المشاهدة، والكتابة، والتمييز البصري، والكلام"
+        },
+        {
+          "letter": "B",
+          "text": "Dinleme, konuşma ve görsel okuma",
+          "images": [],
+          "text_ar": "الإنصات، والكلام، والقراءة البصرية"
+        },
+        {
+          "letter": "C",
+          "text": "Dinleme/izleme, konuşma, okuma ve yazma",
+          "images": [],
+          "text_ar": "الإنصات/المشاهدة، والكلام، والقراءة، والكتابة"
+        },
+        {
+          "letter": "D",
+          "text": "Dinleme, konuşma, yazma",
+          "images": [],
+          "text_ar": "الإنصات، والكلام، والكتابة"
+        },
+        {
+          "letter": "E",
+          "text": "Görsel okuma, yazma ve konuşma",
+          "images": [],
+          "text_ar": "القراءة البصرية، والكتابة، والكلام"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "في أي من الخيارات التالية وردت على نحو صحيح جميع المهارات اللغوية الواردة في منهج درس اللغة التركية في المدرسة الابتدائية؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların, “sözcüklerin harflerden oluştuğunu ve onları sözel dile aktarırken harf seslerinin kullanıldığını, farklı harflerin bir araya gelerek yeni sözcükler oluşturduğunu anlayabilmesi” hangi erken okuryazarlık becerisini ifade eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ses farkındalığı",
+          "images": [],
+          "text_ar": "الوعي الصوتي"
+        },
+        {
+          "letter": "B",
+          "text": "Sözel dil",
+          "images": [],
+          "text_ar": "اللغة الشفهية"
+        },
+        {
+          "letter": "C",
+          "text": "Yazı farkındalığı",
+          "images": [],
+          "text_ar": "الوعي بالكتابة"
+        },
+        {
+          "letter": "D",
+          "text": "Sözcük dağarcığı",
+          "images": [],
+          "text_ar": "المخزون اللفظي"
+        },
+        {
+          "letter": "E",
+          "text": "Alfabe bilgisi",
+          "images": [],
+          "text_ar": "المعرفة بالأبجدية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "قدرة الطفل على فهم «أن الكلمات تتكون من حروف، وأن أصوات الحروف تُستخدم عند نقلها إلى اللغة الشفهية، وأن حروفًا مختلفة تتجمع لتكوين كلمات جديدة» تعبّر عن أي من مهارات القراءة والكتابة المبكرة؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "“Salata, su sözcüklerinden hangisi daha uzundur? ” diye soran bir öğretmen aşağıdaki unsurlardan hangisine dikkat çekmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yazı içerisindeki sözcük kavramı",
+          "images": [],
+          "text_ar": "مفهوم الكلمة داخل الكتابة"
+        },
+        {
+          "letter": "B",
+          "text": "Uzun ve kısa sözcükler",
+          "images": [],
+          "text_ar": "الكلمات الطويلة والقصيرة"
+        },
+        {
+          "letter": "C",
+          "text": "Yazının işlevi",
+          "images": [],
+          "text_ar": "وظيفة الكتابة"
+        },
+        {
+          "letter": "D",
+          "text": "Sözcük tanıma",
+          "images": [],
+          "text_ar": "التعرف على الكلمات"
+        },
+        {
+          "letter": "E",
+          "text": "Harfler",
+          "images": [],
+          "text_ar": "الحروف"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "المعلم الذي يسأل: «أي الكلمتين أطول: السلطة أم الماء؟» إلى أي من العناصر التالية يلفت الانتباه؟",
+      "review": [
+        "q16.stem: أُبقيت الكلمتان التركيتان «Salata» و«su» في السؤال بمعناهما العربي «السلطة» و«الماء» لأن المقصود طول الكلمة لا معناها."
+      ]
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "“Nesnelerin özellikleri hakkındaki bilgiler ile olaylar/insanlar arasındaki benzerlikler, farklılıklar ve bağlantılar için gerekli bilgiler” aşağıdaki hazır bulunuşluklardan hangisine aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duygusal gelişim",
+          "images": [],
+          "text_ar": "النمو العاطفي"
+        },
+        {
+          "letter": "B",
+          "text": "Biliş ve genel bilgi",
+          "images": [],
+          "text_ar": "الإدراك والمعرفة العامة"
+        },
+        {
+          "letter": "C",
+          "text": "Fiziksel refah ve motor gelişim",
+          "images": [],
+          "text_ar": "الرفاه الجسدي والنمو الحركي"
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal gelişim",
+          "images": [],
+          "text_ar": "النمو الاجتماعي"
+        },
+        {
+          "letter": "E",
+          "text": "Dil gelişimi",
+          "images": [],
+          "text_ar": "تطور اللغة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "«المعارف المتعلقة بخصائص الأشياء، والمعارف اللازمة لأوجه الشبه والاختلاف والصلات بين الأحداث/الأشخاص» تعود إلى أي من أوجه الجاهزية التالية؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "2013 Okul Öncesi Programı’nda en çok hangi gelişim alanına ilişkin kazanım ve göstergelere yer verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal ve duygusal gelişim",
+          "images": [],
+          "text_ar": "النمو الاجتماعي والعاطفي"
+        },
+        {
+          "letter": "B",
+          "text": "Öz bakım becerileri",
+          "images": [],
+          "text_ar": "مهارات العناية بالذات"
+        },
+        {
+          "letter": "C",
+          "text": "Dil gelişimi",
+          "images": [],
+          "text_ar": "تطور اللغة"
+        },
+        {
+          "letter": "D",
+          "text": "Motor gelişim",
+          "images": [],
+          "text_ar": "النمو الحركي"
+        },
+        {
+          "letter": "E",
+          "text": "Bilişsel gelişim",
+          "images": [],
+          "text_ar": "النمو المعرفي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في برنامج ما قبل المدرسة لعام 2013، أي مجال من مجالات النمو وردت بشأنه أكبر عدد من مخرجات التعلم والمؤشرات؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "“Çocuğun sözel ifadeleri kavraması ve anlaması” olarak ifade edilen kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Alıcı dil",
+          "images": [],
+          "text_ar": "اللغة الاستقبالية"
+        },
+        {
+          "letter": "B",
+          "text": "Konuşma",
+          "images": [],
+          "text_ar": "الكلام"
+        },
+        {
+          "letter": "C",
+          "text": "Jest ve mimik",
+          "images": [],
+          "text_ar": "الإيماءات وتعابير الوجه"
+        },
+        {
+          "letter": "D",
+          "text": "İzleme",
+          "images": [],
+          "text_ar": "المشاهدة"
+        },
+        {
+          "letter": "E",
+          "text": "İfade edici dil",
+          "images": [],
+          "text_ar": "اللغة التعبيرية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما المفهوم الذي يُعبَّر عنه بـ«إدراك الطفل للعبارات الشفهية وفهمها»؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilkokul Müzik Dersi Öğretim Programı’nın amaçlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrencilerin yaratıcılığını ve yeteneğini müzik yoluyla geliştirmek",
+          "images": [],
+          "text_ar": "تنمية إبداع الطلاب وموهبتهم من خلال الموسيقى"
+        },
+        {
+          "letter": "B",
+          "text": "Öğrencilere enstrüman çalmayı öğretmek",
+          "images": [],
+          "text_ar": "تعليم الطلاب العزف على آلة موسيقية"
+        },
+        {
+          "letter": "C",
+          "text": "Müzik aracılığı ile öğrencilerin estetik yönünü geliştirmek",
+          "images": [],
+          "text_ar": "تنمية الجانب الجمالي لدى الطلاب من خلال الموسيقى"
+        },
+        {
+          "letter": "D",
+          "text": "Öğrencilerin olarak şarkı dinleme ve söyleme etkinliklerine katılımlarını sağlamak",
+          "images": [],
+          "text_ar": "إتاحة مشاركة الطلاب في أنشطة الاستماع إلى الأغاني وإنشادها"
+        },
+        {
+          "letter": "E",
+          "text": "Müzik aracılığıyla öğrencilerin zihinsel becerilerinin gelişimini sağlamak",
+          "images": [],
+          "text_ar": "تنمية المهارات العقلية للطلاب من خلال الموسيقى"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من أهداف منهج درس الموسيقى في المدرسة الابتدائية؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "3e24a901eee70f77fedb3141c9356e566c5d7d51465015e09d00299a840983b9"
+}

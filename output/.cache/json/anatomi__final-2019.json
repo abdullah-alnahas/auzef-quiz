@@ -1,0 +1,717 @@
+{
+  "course": "Anatomi",
+  "course_slug": "anatomi",
+  "exam": "2019 Final Soruları",
+  "exam_slug": "final-2019",
+  "page_title": "Anatomi Final Soruları 2019",
+  "source_url": "https://lolonolo.com/2019/12/19/anatomi-final-sorulari-2018/",
+  "scraped_at": "2026-11-12T02:21:35+03:00",
+  "answer_source": "inline",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi çeşitli hormon salgılarını idare eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hipofiz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tükürük",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Paratiroid",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gh",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tiroid",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Kalbin kalp kası hücrelerinden oluşan orta kısmı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Perikard",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Miyokard",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Endokard",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pendokard",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Pyrokard",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Yemek borusunun uzunluğu ne kadardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "12,5 cm",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "15 cm",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "25 cm",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "10 cm",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "35 cm",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi fallop tüplerinin kısımlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İntramural",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ampulle",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Pubes",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnfundibulum",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Fimbria",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "“Triküspit kapak” hangi organda yer alır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kalp",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Akciğer",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karaciğer",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dalak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mide",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Böbreklerden oluşan idrarın, üreterler aracılığıyla boşaltıldığı ve depolandığı organ aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mesane",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Overler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Pankreas",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Safra kesesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duedonum",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Omurilik uzunluğu ne kadardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "40-50 cm",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "80 cm",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "100 cm",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "110 cm",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "120 cm",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "8) Beyin, duyu organları, solunum ve sindirim sistemlerinin başlangıç bölümlerini dış etkilere karşı koruyan kemikler aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yüz Kemikleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Baş Kemikleri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kafatası Kemikleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Temel Kemik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duvar Kemik",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Akciğeri saran iki katlı zarın adı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Plevra",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dura mater",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sinoviyal",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Meninks",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Perikard",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "BOS nerede üretilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Omurilik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Plexus choroideus",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ventrikül",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pankreas",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Akciğer",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Dişi ve erkek eşey hücrelerinin birleşmesi ile şekillenen zigot oluşumundan doğuma kadar olan dönemi inceleyen anatomi dalı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Makroskobik Anatomi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fonksiyonel Anatomi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Embriyolojik Anatomi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Patolojik Anatomi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Normal Anatomi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Meme dokusunu süt yapımı için uyaran hormon aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Prolaktin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Oksitosin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "ACTH",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tiroid",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Paratiroid",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Kol Sinir ağının Latincesi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Plexus Brachialis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Plexus Pundendalis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Plexus Coccygeus",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sakralis",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Cervicalis",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi gözün bölümlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sklera",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Koroid",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Silier cisim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Papille fungiformes",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Uvea",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Solunum ve sindirim sisteminde görevli organ aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Burun",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dalak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yutak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gırtlak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Akciğer",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Yaprak kıkırdak hangi organın bölümüdür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kalp",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yutak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Akciğer",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mide",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gırtlak",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Kalın bağırsağın ilk ve en geniş bölümü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duedonum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çekum",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İleum",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Rektum",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kolon",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Os Femur hangi kemiğin latince adıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaval",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kol",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Uyluk",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kamiş",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ayak",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Göğüs boşluğunda kalp, akciğerler, bronşlar, soluk borusu ve gırtlağa dallar veren sinir hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Trigeminus",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Facialis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hypogiossus",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Vagus",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Opticus",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Aurikula hangi organa ait bölümdür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Göz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ağız",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Burun",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Deri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kulak",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "8570aea06b0a6ebbd8954195c6beced9ff42268014daf03f86ef6854b5fbe1f4"
+}

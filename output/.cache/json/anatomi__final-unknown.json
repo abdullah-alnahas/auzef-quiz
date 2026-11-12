@@ -1,0 +1,3114 @@
+{
+  "course": "Anatomi",
+  "course_slug": "anatomi",
+  "exam": "Final Soruları",
+  "exam_slug": "final-unknown",
+  "page_title": "Anatomi Final Soruları-1",
+  "source_url": "https://lolonolo.com/2019/12/23/anatomi-final-sorulari-1/",
+  "scraped_at": "2026-11-12T02:21:35+03:00",
+  "answer_source": "inline",
+  "question_count": 91,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi hipofiz ön lob hormonlarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Büyüme hormonu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Prolaktin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "FSH",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "LH",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Kan şekeri dengesi aşağıdaki hormonlardan hangisi ile ayarlanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ADH",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Prolaktin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnsülin-glukagon",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oksitosin",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "ACTH",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Endokrin sisteminin görevleri hangileridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Üreme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Beslenme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hepsi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Büyüme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tuz ve sıvı dengesini ayarlama",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Salgılarını bir kanal aracılığı ile vücut boşluğuna bırakan bezler hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Endokrin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ekzokrin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hormonlar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Overler",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Endokrin bezleri yetersiz salgılandıklarında hangi belirtiler olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hipofonksiyon",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hiperfonksiyon",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Patofonksiyon",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Homofonksiyon",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi hormonların görevlerinden biri değildir? ]",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vücudun dış çevreye uyumunu sağlar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hücrelerdeki yapım ve yıkım olaylarını denetler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Büyüme ve gelişmeyi sağlar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tuz ve sıvı dengesini ayarlar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Üreme fonksiyonlarını düzenler",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi hormonal faaliyetlerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Büyüme gelişme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Üreme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hepsi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Davranış",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çevreye adaptasyon",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "……. kanalsız endokrin bezlerde üretilen ve kana salınarak hedef hücrelerde metabolik faaliyetleri düzenleyen\nkimyasal mesajcı moleküllerdir. Boş bırakılan yere hangisi gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İç salgı bezleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Diş salgı bezleri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hormonlar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İç salgı sistemi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Çeşitli hormon salgılarını idare eden bez hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Epifiz bezi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hipofiz bezi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tiroid bezi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Paratiroid bezi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi içsalgı sistemlerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hipofiz bezi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hepsi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Böbreküstü bezi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pankreas",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Over ve testisler",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Meme dokusunu süt yapımı için uyaran organ hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Prolaktin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Adrenokortikotropik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fsh",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Lh",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "TSH fonksiyonu nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Meme dokusunu süt yapımı için uyarır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Vücudun dış çevreye uyumunu sağlar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Troid hormonlarının salgılanmasını kontrol eder, troid bezinin çalışmasını düzenler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Vücut organlarının fonksiyonlarını düzenler",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Cinsel hormonların yapımını sağlar\nCinsel farklılaşmayı sağlar\nOvum ve sperm hücrelerinin olgunlaşmasını sağlar. Yukarıdaki özellikleri verilen hormon aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "TSH",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Prolaktin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "FSH/LH",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oksitosin",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Endokrin",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "………. görevi mayoz bölünme ile yumurta hücresi oluşturmak ve hormon salgılamaktır. Yukarıdaki boşluğu\ndoldurunuz",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ovaryum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tuba uterina",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Uterus",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hepsi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hiçbiri",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "LH,FSH ve Prolaktine verilen isim nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gonadotropinler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Paratiroid bezi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Antidiüretik hormon",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Adrenal bez",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Epifiz bezi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Spermler ……… tüplerinde oluşur. Yukarıdaki boşluğu doldurunuz",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Seminifer tüpleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Cowper",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Littre",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Epididimis",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Vas deferens",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Hipofiz arka lob hormonları aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ADH",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Oksitosin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hepsi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hiçbiri",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Kandaki glikoz miktarını azaltan hormon aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnsülin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Glukagon",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "TSH",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "FSH",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "LH",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "İdrarla atılan su miktarını azaltarak vücutta suyun tutulumunu sağlayan hormon aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oksitosin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "TSH",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "FSH",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "ADH (Antidiüretik hormon)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Paratiroid bezi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Salgılarını bir kanala ihtiyaç duymadan direkt olarak kana veren bezlere ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Endokrin bezler(iç salgı bezleri)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tiroid bezi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Böbreküstü bezi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hipofiz bezi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "Meme dokusuna etki ederek süt salgısını uyarır\nRahim kaslarını uyararak kasılmaları sağlayıp doğumu kolaylaştırır\nYukarıda özellikleri verilen hormon aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Epifiz bezi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "FSH",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "ADH",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oksitosin",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "TSH",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "İnsülin ve glukagon hormonlarını üreten bez aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Endokrin bezi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Pankreas bezi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Epifiz bezi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hipofiz bezi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Böbreküstü bezi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "Melatonin hormonunu salgılayan bez aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Epifiz bezi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Pankreas bezi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Böbreküstü bezi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Parotis bezi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hiçbiri",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "Hem iç hemde dış salgı üreten karma bez aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Pankreas bezi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Böbreküstü bezi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Paratiroid bezi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Epifiz bezi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Endokrin bezi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "Vücudun en büyük endokrin bezi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Paratiroid bezi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tiroid",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Pankreas bezi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Epifiz bezi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hipofiz bezi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "Parathormon adı verilen hormonu salgılayan bez aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Epifiz bezi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Parotis bezi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Paratiroid bezi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Endokrin bezi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Böbreküstü bezi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "Kalp atım hızını\nKolestrol düzeyini\nVücut ağırlığını Kas gücünü Hafıza fonksiyonunu Cilt yapısını doğrudan etkileyen bez aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Pankreas bezi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hipofiz bezi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Paratiroid bezi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tiroid bezi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "Vücutta kalsiyum ve fosfor mineralleri arasındaki dengeyi sağlayan bez aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Böbreküstü bezi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hipofiz bezi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Epifiz bezi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Paratiroid bezi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Parotis bezi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "TSH fonksiyonu nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tiroid hormonlarının salgılanmasını kontrol eder, tiroid bezinin çalışmasını düzenler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Meme dokusuna etki ederek süt salgısını uyarır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Paratiroit bezinin çakışmasını düzenler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Rahim kaslarını uyararak kasılmaları sağlayarak doğumu kolaylaştırır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "Erkek üreme organı olan testisler kaç adettir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 31,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi hipofiz arka lob hormonlarındandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oksitosin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Prolaktin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "TSH",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "LG",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "FSH",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 32,
+      "type": "legacy_text",
+      "stem": "Merkezi sinir sisteminin medulla spinalis bölümünden kaç çift sinir çıkar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "45",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "50",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "38",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "31",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "27 Cevap: :D)31",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 33,
+      "type": "legacy_text",
+      "stem": "Arka köklerden ………, ön köklerden ………. çıkar. Boşluğa hangisi gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "His-Boyun sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bel sinir ağı-Boyun sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duyu-Motor sinirler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Duyu-Sakrum sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "His-Motor sinirler Cevap: :C)Duyu-Motor sinirler",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 34,
+      "type": "legacy_text",
+      "stem": "Hangisi omurilik sinirlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "plexus cervicalis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "plexus brachialis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "plexus lumbalis",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "plexus sacralis",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "plexus choroideu Cevap: : E)plexus choroideu Anatomi Final Soruları-1",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 35,
+      "type": "legacy_text",
+      "stem": "Plexus Puendalis ne anlama gelir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "boyun sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bel sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "edep siniri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "sakrum sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "kol sinir ağı Cevap: :C) Edep siniri",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 36,
+      "type": "legacy_text",
+      "stem": "Plexus Lumbalis ne anlama gelir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "edep siniri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bel sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "kol sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "boyun sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "sakrum sinir ağı Cevap: : B) Bel sinir ağı",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 37,
+      "type": "legacy_text",
+      "stem": "Otonom sinir sistemi aşağıdakilerden hangisine etki etmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "solunum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "sindirim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bağışıklık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "metabolizma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "sekresyon Cevap: :C) Bağışıklık",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 38,
+      "type": "legacy_text",
+      "stem": "Hangisi sempatik sinir sisteminin organlar üzerine etkisinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "solunum yolu ve göz bebeklerini daraltır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "deri terler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "göz bebekleri büyür",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "kandaki şeker seviyesi artar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "kalp atımı hızlanır Cevap: :A)solunum yolu ve göz bebeklerini daraltır Anatomi Final Soruları-1",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 39,
+      "type": "legacy_text",
+      "stem": "Hangisi parasempatik sinir sisteminin organlar üzerine etkilerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "kalp kaslarına daha fazla kan gider",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "kalp hızını yavaşlatır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "kalp damarlarını daraltır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "tükürük ve bağırsak salgıları ile bağırsak hareketlerini arttırır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "göz bebeklerini daraltır Cevap: : A) kalp damarlarına daha fazla kan gider",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 40,
+      "type": "legacy_text",
+      "stem": "Solunum, sindirim, metabolizma, sekresyon gibi önemli vücut fonksiyonlarını düzenler ve İdare eder bütün bu\nfaaliyetleri istediğimiz dışında gerçekleştirir. Tanımı yapılan sistem aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Merkezî sistem",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Omurilik sistemi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Beyincik fonksyonları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Otonom sistem",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hareket sistemi Cevap: Otonom sistem",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 41,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi sempatik sistemin organlar üzerine etkileri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Göz bebekleri genişler büyür",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kalp atımı hızlanır kalp kası güçlü kan pompalar ve kan basıncı yükselir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dolaşımdaki kan önemli organlara çekilir. Kalp kaslarına daha fazla kan gider.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "deri terler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Solunum yolları daralır ve solunum yavaşlar. F) Kandaki şeker seviyesi artar. G) Sindirim sistemindeki ve idrar yollarındaki sfinkterler kasılır. Cevap: solunum yolları daralır ve solunum yavaşlar. Doğrusu solunum yolları genişler ve solunum hızlanır.",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 42,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi parasempatik sistemin organlar üzerine etkileri arasında yer alır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "kalp hızı artar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Solunum yolu ve göz bebekleri büyür",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tükürük ve bağırsak salgıları ile bağırsak hareketlerini azaltır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sfinkterler gevşetir idrar ve dışkı üzerindeki kontrolü kaybolur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kalp damarları genişler Cevap: Sfinkterler gevşetir idrar ve dışkı üzerindeki kontrolü kaybolur. Anatomi Final Soruları-1",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 43,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Plexus Cervicalis anlamını taşır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "edep siniri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "sakrum sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bel sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "kol sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "boyun sinir ağı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 44,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Plexus Pudendalis anlamını taşır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "boyun sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "edep siniri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bel sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "kol sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "sakrum sinir ağı",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 45,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Plexus Lumbalis anlamını taşır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Edep siniri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Boyun sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kol sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sakrum sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bel sinir ağı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 46,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Plexus Brachialis anlamını taşır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Boyun sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kol sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bel sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sakrum sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Edep siniri Cevap: Kol sinir ağı",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 47,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Plexus Sacralis anlamını taşır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Boyun sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Edep siniri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kol sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bel sinir ağı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sakrum sinir ağı Cevap: Sakrum sinir ağı Anatomi Final Soruları-1",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 48,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi omurilik sinirleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Plexus Cervicalis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Plexus Brachialis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Plexus Lumbalis",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Plexus Sacralis",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Plexus Pudendalis F) Plexus Coccygeus G) Plexus Oculomotorius Cevap: Plexus Oculomotorius",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 49,
+      "type": "legacy_text",
+      "stem": "Merkezi sinir sisteminin medulla spinalis bölümünden kaç çift sinir çıkar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "36",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "41",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "21",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "28",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "31 Cevap: 31",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 50,
+      "type": "legacy_text",
+      "stem": "Omurilik sinirleri kaç farklı bölümden oluşur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "4 Cevap: 6",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 51,
+      "type": "legacy_text",
+      "stem": "N.Oculomotorius hangi sinirdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Göz siniri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Koku siniri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Göz oynatıcı sinir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Üçüz sinir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Göz kaslarına giden sinir Cevap: Göz oynatıcı Sinir",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 52,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Beyinden çıkan ve Kafatası tabanındaki deliklerden geçerek baş ve boyuna dağılan 12 çift\nsinirdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Facialis sinirler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kranial sinirler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Lopus frontalis",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Medulla spinalis Cevap: Kranial sinirler Anatomi Final Soruları-1",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 53,
+      "type": "legacy_text",
+      "stem": "(Alt çene siniri) Bu sinir duyu (sensitif) ve motor sinir lifleri bulunan karma bir sinirdir üçüz sinirlerin en kalın\ndalıdır motor lifleri çiğneme kaslarını oynatır sensitif lifler alt çene ve çevresindeki oluşumların duyumlarını alır.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "N.Ophthalmicus",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "N.Maxillaris",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "N.Mandibularis",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "N.Cerebellum Cevap: N.Mandibularis",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 54,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi gözü dışa döndüren sinirdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "N.Facialis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "N.Abducens",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "N.Vestibulo",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "N.Glossopharyngeus",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "N.Vagus Cevap: N.Abducens",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 55,
+      "type": "legacy_text",
+      "stem": "Glossopharyngeus Hangi sinirin adıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil altı siniri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dil yutak siniri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yüz siniri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gözü dışa döndüren sinir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kafa spinal sinir",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 56,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki tanımlardan hangisi doğru bir tanımdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Merkezi sinir sisteminin medulla spinalis bölümünden 31 çift sinir çıkar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bu sinirler omurilikten çıkan önkök ve arkakökün Omurlar arası delikler hizasında birleşmesiyle olur",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Arka kökten duyu ön kökten motor sinirler çıkar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Spinal sinirlerin ön dalları birbirleriyle birleşerek sinir oluşturur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yukarıdaki tanımların hepsi doğrudur. Cevap: Yukarıdaki tanımların hepsi doğrudur Anatomi Final Soruları-1",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 57,
+      "type": "legacy_text",
+      "stem": "Kranial sinirlerin en uzun ve en geniş dağılma sahip olanıdır iç organlara motor duyu ve parasempatik lifler taşıyan\nkarma bir sinirlidir. Tanımı yapılan sinir aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "N.Vagus_Serseri sinir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "N.Accessorius_Kafa sprinal siniri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "N.Hypoglossus_Dil altı siniri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "N.Glossopharyngeus_Dil yutak siniri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "N.Facialis_Yüz siniri Cevap: N.Vagus_Serseri sinir",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 58,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi duyu organı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Organum visus (görme organı)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Organum vestibulocochleare (işitme ve denge organı)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Organum tactus (dokunma organı)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kulak kepçesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Organum olfactus (koku alma organı)",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 59,
+      "type": "legacy_text",
+      "stem": "Dilimizin 4 temel tat duyusu vardır. Aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dilin uç kısmı acıyı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dilin ön yan kenarları tuzluyu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dilin arka yan kenarları ekşiyi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dilin arka kısmı acıyı algılar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 60,
+      "type": "legacy_text",
+      "stem": "Dilde yaklaşık kaç tane tat tomurcuğu vardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "100",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1000",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "10000",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "100000",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1000000",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 61,
+      "type": "legacy_text",
+      "stem": "Besinlerin tadını tat tomurcukları tarafından alınabilmesi için ne gerekir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Balgam",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tat duyusu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tükürük sıvısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dudak",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 62,
+      "type": "legacy_text",
+      "stem": "Burun boşluklarını örten mukoza tabakasında koku alma işlevini yerine getiren oluşumlar bulunur. Koku duyusu\nalan hücreler burun boşluğunun üst kısmında yer alır, bu bölgeye ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Regino olfactoria",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tunica fibrosa",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tunica vasculoza",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Organum gustus",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Organum olfactus",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 63,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi deri’nin görevlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vücudu mikroorganizmalardan, fiziksel kimyasal dış etkenlerden korur",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Terleme ile vücut ısısının anormal seviyede tutulmasını sağlar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Solunuma yardımcı olur",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Vücudu güneş ışınlarının zararlı etkilerden korur",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Reseptör aracılığı ile ısı, ağrı ve basınç duyularını alır",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 64,
+      "type": "legacy_text",
+      "stem": "Ter bezlerinin iki tipi vardır bunlar aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Silier cisim-İris",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kornea ) Sklera",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Vestibilum ) Cochlea",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Stapes ) İncus",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ekrin ) Apokrin",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 65,
+      "type": "legacy_text",
+      "stem": "Ter salgısı nelerden oluşur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sodyum klorür",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Üre",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ürik asit",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Amonyak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 66,
+      "type": "legacy_text",
+      "stem": "Dokunma duyusu organı deri ve yüz ölçümü , yetişkin bir insanda nasıldır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "20-25kg, 1.85-1 m2 arasında değişir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "10-15 kg, 2.80-2 m2 arasında değişir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "15-20 kg, 1.80-2 m2 arasında değişir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "15-20kg, 1.85-2 m2 arasında değişir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "10-15kg, 1 80-2 m2 arasında değişir",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 67,
+      "type": "legacy_text",
+      "stem": "Deri dokusunun normalde var olan gerginliğine ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dermis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hipodermis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sklera",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Turgor",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Koroid",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 68,
+      "type": "legacy_text",
+      "stem": "Deri tabakadan oluşur, bunlar aşağıdakilerden hangisi yada hangileridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Epidermis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dermis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hipodermis",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hepsi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hiçbiri",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 69,
+      "type": "legacy_text",
+      "stem": "Ter bezleri vücudun çeşitli bölgelerine dağılmıştır bunlar aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ayak tabanları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Avuç içleri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Koltuk altı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Alın",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 70,
+      "type": "legacy_text",
+      "stem": "Göz küresinin çapı kaç mm’dir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "30-35",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "15-20",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "20-25",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "25 -30 Cevap: = C 20-25 mm",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 71,
+      "type": "legacy_text",
+      "stem": "12 kroniyal sinirin kaç tanesi gözle ilgilidir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "9",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "8 Cevap: = C) 6",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 72,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi gözün tabakası değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tunica fibroza",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tunica vasculoza",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tunica nervosa",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tunica mostaid Cevap: = D) Tunica mostaid Anatomi Final Soruları-1",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 73,
+      "type": "legacy_text",
+      "stem": "Asagidakilerden hangisi gözün bölümlerinden biri degildir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sklera",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Retina",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Papille fungiformes",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Koroid Cevap: = C) papille fungiformes",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 74,
+      "type": "legacy_text",
+      "stem": "Tunica vasculoza hangi organa ait bölümdür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Göz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Burun",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Deri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kulak Cevap: = A) GÖZ",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 75,
+      "type": "legacy_text",
+      "stem": "Asagidakilerden hangisi Auris Externa nin bölümlerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Organum gustus",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tunica nervasa",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Labyrinthus membroceus",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Meatus acusticus Cevap: = D) meatus acusticus",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 76,
+      "type": "legacy_text",
+      "stem": "Aurikula hangi organa ait bölümdür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Göz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kulak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Deri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Burun Cevap: = B) Kulak",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 77,
+      "type": "legacy_text",
+      "stem": "İc kulak ,ses ve denge duyula ilgili özel hücreler yer alır. Aşağıdakilerden hangisidir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Malleus",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İnus",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Stapes",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Labyrinthus osseus Cevap: = D) Labyrinthus osseus Anatomi Final Soruları-1",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 78,
+      "type": "legacy_text",
+      "stem": "Asagidakilerden hangisi kemik labirent kısımlarından degildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Labyrinthus membraceus",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Vestibilum",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Canalis semicircularis",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Cochlea Cevap: = A) Labyrinthus membraceus",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 79,
+      "type": "legacy_text",
+      "stem": "İç kulakta ne yer alir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Stapes olarak isimlendirilen birbiriyle bağlantılı 3 kemikcik yer alir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ses ve denge duyula ilgili özel hücreler yer alır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kulak zarı, kemikcikleri ,mastoid hücreleri ve östaki borusu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hepsi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hicbiri Cevap: = B) Ses ve denge duyula ilgili özel hücreler yer alır",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 80,
+      "type": "legacy_text",
+      "stem": "Kemik labirant 3 kısımdır. Aşağıdakilerden hangisi Labyrinthus osseus a ait değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vestibilus",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Canalis semicircularic",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Cochlea",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Malleus Cevap: = D) Malleus",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 81,
+      "type": "legacy_text",
+      "stem": "Malleus, incus,stapes olarak isimlendirilen birbiriyle baglantili 3kemikcik Asagidakilerden hangisinde bulunur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İç kulakta",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dış kulakta",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Auriculada",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Orta kulakta Cevap: = D) Orta kulakta Anatomi Final Soruları-1",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 82,
+      "type": "legacy_text",
+      "stem": "Kulak zarı ile iç kulak arasında yerleşmiş bir boşluktur. Ses dalgalarının iç kulağa iletilmesini sağlar. Yukarıda\nkulağın hangi kısmından bahsedilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Auris media",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Stapes",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Cochlea",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Auris Externa Cevap: = A) Auris media ( orta kulak)",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 83,
+      "type": "legacy_text",
+      "stem": "Beyin, duyu organlari, solunum ve sindirim sistemlerinin baslangic bölümlerini dış etkilere karsi koruyan\nkemiklere ………. denir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bas kemikleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Art kafa kemigi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duvar kemik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Temel kemik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sakak kemiği Cevap: : A BAŞ KEMİKLERİ",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 84,
+      "type": "legacy_text",
+      "stem": "Bas bölgesinde toplamda kaç kemik bulunur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "13 kafada 13 yüzde 1 adet dil kemiği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "14 kafada 14 yüzde 1 adet dil kemiği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "15 kafada 15 yüzde 1 adet dil kemiği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "14 kafada 14 yüzde 1 adet sapan kemiği",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "13 kafada 13 yüzde 1 adet sapan kemiği",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 85,
+      "type": "legacy_text",
+      "stem": "“Ossa cranii” ne demektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Omur",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Omurga",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Baş iskelet kemikleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Boyun omurlari",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Baş ve boyun kasları",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 86,
+      "type": "legacy_text",
+      "stem": "Asagidaki kafatasi kemiklerinden hangisi çift kemik grubundandir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Os frontale",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Os ethmoidale",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Os occipitale",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Os parietale",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Os sphenoidale",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 87,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi yüz kemiklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Os hyoideum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Os palatinum",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Os nasale",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Os zygomaticum",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Os cruris",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 88,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi ” alt boynuzcuk kemiği” anlamına gelir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cartilago cricoidea",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Cartilago cuneiformis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Concha nasalis inferior",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Cochlea",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Canalis semicircularis",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 89,
+      "type": "legacy_text",
+      "stem": "Duvarları solunum epiteli ile kaplı hava kemik boşluklarına ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vomer",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Costae",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tiroit",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Cervix",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sinus",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 90,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi sinüs değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sinus frontalis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sinus inferior",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sinus maksillaris",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sinus ethmoidales",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sinus sphenoidalis",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 91,
+      "type": "legacy_text",
+      "stem": "Omurgamiz kaç omurun birleşimiyle oluşmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "30",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "31",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "32",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "33",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "34",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "omitted_questions": [
+    {
+      "n": 57,
+      "reason": "option_letters",
+      "stem": "VIII.KAFA ÇİFTİ N.Vestibulo cochlearis N.Acusticus Hangi sinirdir?"
+    },
+    {
+      "n": 67,
+      "reason": "choice_count",
+      "stem": "Deri her yerde aynı kalınlıkta değildir. Aşağıdakilerden hangisinde doğru verilmiştir?"
+    },
+    {
+      "n": 83,
+      "reason": "choice_count",
+      "stem": "Aşağıdakilerden hangisi İç kulak kısımlarından değildir ?"
+    }
+  ],
+  "content_hash": "1efe0314cc783b7e52e26865b50c23a3e50c20267389d27cf563372e25675e74"
+}

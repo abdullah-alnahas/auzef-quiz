@@ -1,0 +1,739 @@
+{
+  "course": "Psikoloji ve Psikolojiye Giriş – 1",
+  "course_slug": "psikoloji",
+  "exam": "2023-2024 Final Soruları",
+  "exam_slug": "final-2023-2024",
+  "page_title": "Psikoloji 2023-2024 Final Soruları",
+  "source_url": "https://lolonolo.com/2024/01/08/psikoloji-2023-2024-final-sorulari/",
+  "scraped_at": "2026-11-12T02:21:37+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi normal dışı davranışları değerlendirmek için kullanılacak bir ölçüt dizisinde yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişinin çevresindekileri tedirgin eden/ürküten davranışlar yapması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaşam işlevselliğinde bozulma görülmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Özelliğe az rastlanılması veya sıra dışı olması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişinin durumundan duyduğu rahatsızlık hissi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kişinin duruma uygun düşmeyen şiddette tepkiler vermesi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Duyusal eşik kavramı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Her duyumun duyusal eşik seviyesi farklıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Memeli türlerde duyusal eşik düzeyi aynı aralıktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kişilerin duyusal eşik seviyeleri farklı olabilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sürekli maruz kalınılırsa duyarsızlaşma gelişir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duyusal eşikler ortalama bir değerdir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bugün kabul gören öğrenme yollarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözlem yoluyla öğrenme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Klasik koşullanma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Operant koşullanma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Uykuda öğrenme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Farkına varmadan öğrenme",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Bellek hakkında aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişinin deneyimleri, yeniden inşa edilebilen etkin bir ağda saklanır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bazı bellek türleri deneyimin eksiksiz bir kaydıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kişinin deneyimlerinin eksiksiz ve tam bir kaydıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişinin deneyimleri, sistemli depolarda saklanır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kişinin bütün deneyimleri, uzun süreli olarak saklanır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Bir terapist, kişinin sorun yaşadığı durumlarda, hatalı öğrenilmiş tepkileri yerine yeni davranışlar edinmesini sağlıyor ise aşağıdaki yaklaşımlardan hangisini kullanıyor olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikanaliz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Şema Terapi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Davranışçı Terapi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Psikodinamik Yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilişsel Terapi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme araçları ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nesne ve olayların özelliklerinin miktarını belirlemek amacını taşır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bir ölçme aracından subjektif sonuçlar elde edilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ölçme aracının duyarlığını belirleyen farklı düzey ölçümler alınabilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nesne ve olayların niteliklerini niceliğe dönüştürmek amacını taşır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Nesne ve olayların miktarlarını sayısal olarak göstermek amacını taşır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yaratıcı düşünmenin özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Esneklik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Orjinallik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ayrıntılandırma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Akıcılık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Derin düşünme",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "“Zeka denilen bir şeyi nasıl ölçeceğimizi biliyoruz ama neyi ölçtüğümüzü bilmiyoruz.” ifadesinin sonuçları hakkında aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mevcut zeka testleri güvenilir ölçümler yapmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Zekanın yapısı hakkında farklı görüşler vardır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mevcut zeka testlerinin ölçümlerinin geçerli ölçümler olduğu bilinmektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mevcut zeka testlerinin ölçümleri yetersiz kalmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zekayı oluşturan bileşenlerin neler oldukları hakkında tartışmalar vardır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "“Bir ezberleme görevi esnasında klasik müziğe maruz kalan 10 yaş çocukları ile, Caz müziğine maruz kalan çocukların hatırlama seviyeleri arasında anlamlı bir fark var mıdır?” Yukarıdaki verilen sorunun yöntemine göre türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Korelasyonel",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Meta-analiz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Betimsel",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Derleme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Deneysel",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Bir reklam firması; çalışma düzeni, çalışan ilişkileri ve çalışma mekanları ile ilgili düzenlemeler yaparak çalışanların yaratıcı üretimini arttırabileceğini düşünüyor ise hangi yaratıcılık yaklaşımına dayanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yatırım Teorisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal-Kişilik Yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Psikometrik Yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pragmatik Yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mistik Yaklaşım",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Algılama sürecinin özelliklerine göre, birinin karanlıkta yürürken yanındakine “Bak bu kırmızı benim arabam.” demesi nasıl mümkün olmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Algıların parlaklık ve renk değişmezliği özelliği ile",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Algıların şekil değişmezliği özelliği ile",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Algıların şekil-zemin değişmezliği özelliği ile",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Derinlik ve uzaklığı algılama ipuçlarını kullanma ile",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çift göze bağlı ipuçlarından yararlanma ile",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Algılama sürecinde zihnin dünyaya ilişkin varsayımları hakkında aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zihin dünyanın kaotik ve şekilsiz bir yer olduğunu varsayar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Zihin dünyanın dağınık ve değişken bir yer olduğunu varsayar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zihin dünyanın sabit ve düzenli bir yer olduğunu varsayar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zihin dünyanın anlamsız şekillerden oluştuğunu varsayar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zihin dünyanın düzensiz örüntülerden oluştuğunu varsayar.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Heider’ın Fenomonolojik Atıf Teorisine göre bir kadın eşinin doğum gününü unutmasını açıklarken içsel atıf yapıyorsa, aşağıdaki gerekçelendirmelerden hangisini kullanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Annesi ve kardeşi beni kötülediği için",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların dertleriyle uğraştığı için",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duyarsız ve sevmeyi bilmeyen bir adam olduğu için",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bir sevgilisi olduğu/beni aldattığı için",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bugünlerde şirkette aşırı yoğun bir iş temposu olduğu için",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Sistematik duyarsızlaştırmanın dayandığı öğrenme ilkesi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kendiliğinden geri gelme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Uyarının ayırt edilmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Uyaran genellemesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Eş zamanlılık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sönme",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Duyumsama ile ilgili olarak aşağıdakilerdenhangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duyumsama duyumun tanınması ve bilinmesidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fiziksel bir sinyalin elektrokimyasal bir sinyale dönüşümüdür.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Her duyumun farklı alıcı hücreleri vardır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Duyumsama, duyumun alınmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duyumlar beyin kabuğunda işlenir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi motivasyonun işlevlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Davranışı durdurmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Davranışı sürdürmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Davranışı başlatmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çaba düzeyini tayin etmek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Başarı ihtiyacı oluşturmak",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "İnsan ilişkilerinde hoşlanma hissini arttıran etmenlerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişi ile benzer yaşam deneyimleri geçirmiş olmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mekansal uzaklık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kişinin özellikleri ve düşüncelerinde benzerlik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aşinalık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Benzer giyim tarzını tercih etmek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "İnsanların bir kişi hakkındaki ilk izlenimleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlk izlenimleri olumlu olmaya eğilimlidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlk izlenimleri doğru olur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İlk izlenimleri nesnel verilere dayalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İlk izlenimleri olumsuz olmaya eğilimlidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İlk izlenimleri nötr olmaya eğilimlidir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "“Türkiyenin başkenti neresidir?” sorusu hangi bellek içeriğine dayanarak cevaplandırılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Flaş Bellek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İşlemsel Bellek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Episodik Bellek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Semantik Bellek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Otobiyografik Bellek",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "“Gönüllü olarak yardım kuruluşlarında çalışmaya duyulan motivasyonun kaynağı kişinin kendi değerleri, inançları ve düşünceleridir.” açıklaması hangi yaklaşıma uygundur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrenmeye Dayalı Yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dürtü Azalması Yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İçgüdülere Dayalı Yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel Yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Maslow'un İhtiyaçlar Hiyerarşisi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "4e761b638ea69ab9453c0d6b7459332d83b853ac98a2142a3c535cd513f8ce5a"
+}

@@ -1,0 +1,739 @@
+{
+  "course": "Psikoloji ve Psikolojiye Giriş – 1",
+  "course_slug": "psikoloji",
+  "exam": "2022-2023 Vize Soruları",
+  "exam_slug": "vize-2022-2023",
+  "page_title": "Psikoloji 2022-2023 Vize Soruları",
+  "source_url": "https://lolonolo.com/2022/11/15/psikoloji-2022-2023-vize-sorulari/",
+  "scraped_at": "2026-11-12T02:21:37+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Takım veya meslek grubu gibi özel gruplara bağlılığı ve aidiyeti inceleyen psikolojinin alt dalı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal Psikoloji",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Spor Psikolojisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel Psikoloji",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Endüstri-Örgüt Psikolojisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gelişim Psikolojisi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Zekayı açıklayan kuramları ayıran en temel farklılık aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zeka düzeyinin insanlar arasında normal dağılım göstermesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Farklı kültürlerin zekice davranış anlayışlarının benzer olup olmadığı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Toplumsal sınıflar arasında zeka farklılıkları olup olmadığı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zekanın genel mi olduğu yoksa alana özel mi olduğu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zeka düzeyinin biyolojik cinsiyete göre değişip değişmediği",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme araçları ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nesne ve olayların miktarlarını sayısal olarak göstermek amacını taşır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Nesne ve olayların niteliklerini niceliğe dönüştürmek amacını taşır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ölçme aracının duyarlığını belirleyen farklı düzey ölçümler alınabilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nesne ve olayların özelliklerinin miktarını belirlemek amacını taşır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir ölçme aracından subjektif sonuçlar elde edilir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "İnsanların gruba uyma davranışının nedenleri ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eş bulmayı kolaylaştırdığı için",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bir sosyal grupta nasıl düşünüldüğü hakkında yol gösterdiği için",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Grup içinde onaylanmak, takdir görmek iyi oluş halini desteklediği için",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bir grubun parçası olabilmek için",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir grupta nasıl davranılacağı hakkında bilgi edinmeyi kolaylaştırdığı için",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Zeka testleri ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zeka testlerinin puanlaması standardize edilmiştir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Testten alınan ham puanın anlamı testin norm değerlerine göre hesaplanır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Testi uygulayan, kişinin durumuna göre farklı yönergeler verebilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Testi uygulayan, standart bir uygulama prosedürüne göre hareket eder.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zeka testlerinin görevleri standardize edilmiştir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Bilimsel araştırmalar ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Her araştırmaya kaynaklık eden bir soru vardır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Araştırmalar, kuramları test eden yeni tahminlerin sınanmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilimsel bir araştırma sistemli gözlemlere dayanır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Her araştırma olgular üzerinde yürütülür.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir kuram olgular arasındaki sezgisel bağlara dayanır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Bazı insanların normlara uygun davranmamasını ve normların değişebilirliğini açıklayan etkiye verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Azınlık etkisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Toplumsal değişme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sistematik duyarsızlaştırma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Direnç etkisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çoğunluk etkisi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Dört-beş yaşta, sınıf ortamında hangi tür yardım davranışlarının görülebileceğini anlamak isteyen bir araştırmacı hangi tekniği kullanmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçek (öğretmen gözlemi)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gözlem",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Göz izleme cihazı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Görüşme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ölçek (ebeveyn gözlemi)",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Sosyal dünyadan gelen malumatları seçme, algılama, hatırlama ve muhakeme etme süreçlerini tanımlayan kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplumsal etki",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İkili yakın ilişkiler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal kavrayış",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal ilişkiler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal biliş",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "“İnsanların belirli bir sosyal bağlamda insanlar ve olaylar hakkındaki nedensel açıklamaları üretirken bilgiyi nasıl kullandıklarını açıklar.” Yukarıda verilen tanım, aşağıdaki kavramlardan hangisine aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişilik teorileri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Psiko-analiz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel cimrilik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Atıf teorileri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kalıp yargılar",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Kişiliği ilk kez sistematik ve bilimsel olarak ele alan kuramcı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "G. Allport",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "S. Freud",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "A. Maslow",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "R. Cattell",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "W. Sheldon",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi zeka veya zihinsel yetenekler kapsamında ele alınamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Planlama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Akıl yürütme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Deneyimlerinden etkili sonuçlar çıkarma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Başkalarının duygularını anlama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hızlı ve doğru kavrama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Psikolojinin alt alanları olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplumun bu bilgilere ihtiyacı olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Psikologların bilimsel merakları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnsan davranışlarının çok boyutlu ve çeşitli olması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pratik hayatta bu bilgilerin kullanılacak olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eski teorilerin bu çerçevede olması",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "“Ortak bilinç dışı” kavramı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tarih öncesi dönemlerden itibaren biriken deneyimlerdir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ortak anıların her kuşakta yeniden ele alınmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Geçmiş kuşakların travmalarıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Eski kuşaklardan kalan bellek izleridir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geçmiş kuşaklardan aktarılan davranış örüntüleridir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Psikoloji biliminin temel amacı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitim-öğretim süreçlerini geliştirmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İnsan zihninin amacı hakkında felsefi görüşler ortaya atmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnsanların hastalıklarına çözüm bulmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ebevyn-çocuk ilişkilerini düzeltmek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnsan davranışlarını incelemek ve açıklamak",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi araştırılabilir bir soru cümlesinin özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tekrarlanabilir olmalı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Değiştirilebilir olmalı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gözlenebilir olmalı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sınanabilir olmalı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ölçülebilir olmalı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Hipokrat ve Galen’in kişilik ile ilgili görüşlerinin ortak yanı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişiliği beden şekline göre tasniflemeleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kişilik ile beden fizyolojisinin birbiri ile bağlı olduğunu ifade etmeleri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kişilik ile beynin bağını kurmaları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişilik bozuklarını tanımlamaları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Beyin loplarının hangi mizaç özelliklerini ortaya çıkardıkları",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "“Demokratik tutuma sahip ebeveynlerle otokratik tutuma sahip ebeveynlerin 3-5 yaş arası çocuklarının KDT ile ölçülen otonom davranma düzeyleri arasında bir fark var mıdır?” Yukarıdaki verilen sorunun yöntemine göre türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Derleme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yarı deneysel",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Meta analiz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Betimsel",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Deneysel",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilk izlenimlerin kaynaklarından olamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hedef kişinin bize benzerliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Erken dönem travmaları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ses tonu veya konuşma tarzı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hedef kişinin temel kişilik özelliği ile ilgili yapılan çıkarım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hedef kişinin fiziksel özellikleri",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Asch’in deneylerinin sonuçlarına göre normatif etkilerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Grubun üye için değeri fazla ise normatif etki artmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Üye, grubun içinde düşük statülü ise, normatif etki azalmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Normatif etki, belirsiz durumlarda artmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Normatif etki oluşumunda grubun büyüklüğü bir etmendir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Normatif etki, karmaşık ve zor görevlerde artmaktadır",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "d514c2607dd64193317a465b67207307fb8eff05837b43e5c5ad894d608f7ccf"
+}

@@ -1,0 +1,681 @@
+{
+  "course": "Psikoloji ve Psikolojiye Giriş – 1",
+  "course_slug": "psikoloji",
+  "exam": "2020 Vize Soruları",
+  "exam_slug": "vize-2020-2",
+  "page_title": "Psikoloji 2020 Vize Soruları Online -1",
+  "source_url": "https://lolonolo.com/2020/11/30/psikoloji-2020-vize-sorulari-online-1/",
+  "scraped_at": "2026-11-12T02:21:37+03:00",
+  "answer_source": "markup",
+  "question_count": 18,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Hangisi ölçme araçlarının ölçme düzeylerinden değildir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "istatiksel ölçümler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "oranlı ölçümler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "sıralayıcı ölçümler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "sınıflandırıcı ölçümler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "eşit aralıklı ölçümler",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Hava yarı karanlık iken gri görünmekte olan araba için, şu beyaz araba benim denilmesi algılama sürecinin hangi özelliğine uygundur ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Şekil değişmezliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Renk değişmezliği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Esneklik eksikliği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Duyum değişmezliği",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Büyüklük değişmezliği",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Klasik koşullanma olabilmesi için en temelde nasıl bir bağ olmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Koşullu uyaran-koşullu tepki bağı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Doğal uyaran-tepki bağı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Optik kiazma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Beyin yarımküreleri arası bağ",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Koşullu uyaran bağı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Duyusal malumatların oluşturduğu karmaşık ve çok boyutlu girdiyi anlamlı örüntüler olarak yorumlama aşağıdakilerden hangisini tanımlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kavrama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Algılama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anlama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çalışma belleği",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duyumsama",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi psikoloji araştırmalarında kullanılan yöntem türlerinden değildir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Deneysel",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Betimsel",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İstatistiksel",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Korelasyonel",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yarı deneysel",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Araba kullanma , köfte yapma , resim yapma gibi etkinliklerin işlem sıralarını , hangi eylemlerin hangi düzen içinde yapacaklarına ilişkin bilgileri kapsayan bellek türü hangisidir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Semantik bellek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bildirimsel bellek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Episodik bellek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İşlemsel bellek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Flash bellek",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Hangisi bilimsel bir bilginin özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçülebilir olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kişilerin kanaat ve inançlarının ürünü olması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tekrar edilebilir olması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gözlenebilir olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilginin elde ediliş tarzı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Temel algılama ilkelerinin önemli bir kısmı kim tarafından ortaya konulmuştur ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Viyana Ekolü",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Wunt",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fechner",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gestalt Ekolü",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Helmholtz",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Doğayı anlayabilmek için istemli araştırma yöntemlerinin kullanılmasıyla biriktirilmiş, tutarlı , güvenilir ve akılcı bir sistem kurma ve yöntem oluşturma çabası hangi kavramı tanımlar ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İstatistik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Teori",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Olgu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kuram",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilim",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Sınırlı birim miktarda bilgiyi kısa süreyle tutabilen bellek türü hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çalışma belleği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kısa süreli bellek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Episodik bellek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İşlemsel bellek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Uzun süreli bellek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Çoktan seçmeli testlerin, açık uçlu sınavlardan daha kolay olmasını bellek süreçleri açısından nasıl açıklayabiliriz ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hatırlama başarısının tanıma başarısından yüksek olmasıyla",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Episodik belleğin kolaylaştırıcı olmasıyla",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tanımanın yüksek zeka gerektirmesiyle",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tanımada geri getirme ipuçlarının aşikar olmasıyla",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hatırlamanın daha zahmetsiz olmasıyla",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Hangisi bir davranışın öğrenilmiş olmasının ölçütlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaşantılar yoluyla edinilmiş olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Nispeten kalıcı olması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tekrar yoluyla oluşması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doğuştan gelmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir davranış değişikliğinin olması",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Gözlemlerin güvenirliğini arttırmak için hangisine gerek yoktur ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bağımsız gözlemcilerin puanlaması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gözlemcinin çoğunu yakından tanıması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gözlem zamanlarının temsil ediciliğinin sağlanması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gözlemci eğitimi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kapsayıcı bir gözlem kayıt formu",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Derinlik ve uzaklığı algılamak için hangi ipuçlarından yararlanmayız ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tek göze bağlı ipuçları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Nesnenin dokusundaki görünüş farkı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çift göze bağlı ipuçları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Renk değişmezliği",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Retinal fark",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Algısal örgütleme ilkeleri neyi açıklar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Belleğin yapısını",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Duyusal deneyimlerimizin nasıl düzenlendiğini",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Görme sistemini",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zihnin yapısını",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duyusal bilginin beyindeki organizasyonunu",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Bir kişide bir duyum yaratmak için gerekli minimum fiziksel enerji şiddetine ne denilir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Weber yasası",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Duyusal adaptasyon",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fark eşiği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Algılama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mutlak eşik",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Hangisi bilimsel etkinliklerin amaçlarından değildir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Buluşlar yapmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kuramlara dayalı öngörülerde bulunmak ve bunları sınamak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Doğa olaylarını açıklamak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bir dizi olguyu açıklayan kuramlar oluşturmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Doğa olaylarını betimlemek",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Çalışma belleği kavramlaştırmasını ortaya atan araştırmacı kimdir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "F.Barlett",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "H.Ebbinghaus",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "A.Baddeley",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "G.Miller",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "W.Wundt",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "omitted_questions": [
+    {
+      "n": 2,
+      "reason": "option_letters",
+      "stem": "Operant (edimsel) koşullanma ile ilgili olarak aşağıdakilerden hangisi yanlıştır ?"
+    },
+    {
+      "n": 20,
+      "reason": "option_letters",
+      "stem": "Belleği kontrollü deneysel çalışmalarla ilk kez inceleyen araştırmacı kimdir ?"
+    }
+  ],
+  "content_hash": "a1f64fcc04aa24533c91d003434674b4b5d6b2a85ee9574324d8650328c07120"
+}

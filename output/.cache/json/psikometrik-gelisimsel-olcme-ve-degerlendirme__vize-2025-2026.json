@@ -1,0 +1,859 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "2025-2026 Vize Soruları",
+  "exam_slug": "vize-2025-2026",
+  "page_title": "Psikometrik – Gelişimsel Ölçme Ve Değerlendirme 2025-2026 Vize Soruları",
+  "source_url": "https://lolonolo.com/2025/11/15/psikometrik-gelisimsel-olcme-ve-degerlendirme-2025-2026-vize-sorulari/",
+  "scraped_at": "2026-11-12T02:21:25+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda psikolojik değerlendirme sürecine ait bazı aşamalar verilmiştir:\nI. Standart testlerin uygulanması\nII. Gözlem ve görüşmeler\nIII. Raporlama ve geri bildirim\nIV. Ön görüşme ve bilgi toplama\nBu aşamaların doğru sıralanışı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II-IV-I-III",
+          "images": [],
+          "text_ar": "الترتيب: II-IV-I-III"
+        },
+        {
+          "letter": "B",
+          "text": "IV-I-II-III",
+          "images": [],
+          "text_ar": "الترتيب: IV-I-II-III"
+        },
+        {
+          "letter": "C",
+          "text": "I-IV-II-III",
+          "images": [],
+          "text_ar": "الترتيب: I-IV-II-III"
+        },
+        {
+          "letter": "D",
+          "text": "IV-II-I-III",
+          "images": [],
+          "text_ar": "الترتيب: IV-II-I-III"
+        },
+        {
+          "letter": "E",
+          "text": "I-II-III-IV",
+          "images": [],
+          "text_ar": "الترتيب: I-II-III-IV"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "فيما يلي بعض مراحل عملية التقييم النفسي:\nI. تطبيق الاختبارات المعيارية\nII. الملاحظة والمقابلات\nIII. كتابة التقرير والتغذية الراجعة\nIV. المقابلة الأولية وجمع المعلومات\nما الترتيب الصحيح لهذه المراحل؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukluk dönemine özgü ölçme ve değerlendirme ilkelerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun davranışları, tüm yaşlarda aynı şekilde yorumlanmalıdır",
+          "images": [],
+          "text_ar": "يجب تفسير سلوكات الطفل بالطريقة نفسها في جميع الأعمار"
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirme süreci hakkında çocuk bilgilendirilmeli ve yaşına uygun hazırlanmalıdır",
+          "images": [],
+          "text_ar": "يجب إعلام الطفل بعملية التقييم وتهيئته بما يناسب عمره"
+        },
+        {
+          "letter": "C",
+          "text": "Değerlendirme, çocuğun güçlü yanlarına odaklanmalı ve yargılayıcı olmayan bir dil kullanılmalıdır",
+          "images": [],
+          "text_ar": "يجب أن يركز التقييم على جوانب القوة لدى الطفل وأن تُستخدم لغة غير حكمية"
+        },
+        {
+          "letter": "D",
+          "text": "Aile ve çevresel etkenler değerlendirme sürecinin vazgeçilmez parçalarıdır.",
+          "images": [],
+          "text_ar": "الأسرة والعوامل البيئية جزء لا غنى عنه في عملية التقييم."
+        },
+        {
+          "letter": "E",
+          "text": "Küçük yaş gruplarında sözel anlatım sınırlıdır, oyun ve görsel araçlar kullanılmalıdır.",
+          "images": [],
+          "text_ar": "التعبير اللفظي محدود في الفئات العمرية الصغيرة، لذا يجب استخدام اللعب والوسائل البصرية."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من مبادئ القياس والتقييم الخاصة بمرحلة الطفولة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Ölçüm düzeyine göre ölçekler dört ana grupta sınıflandırılmaktadır.\nAşağıdakilerden hangisi bu ölçek türlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tahmin (Predictive) Ölçekleri",
+          "images": [],
+          "text_ar": "مقاييس التنبؤ"
+        },
+        {
+          "letter": "B",
+          "text": "Sınıflama (Nominal) Ölçekleri",
+          "images": [],
+          "text_ar": "مقاييس التصنيف"
+        },
+        {
+          "letter": "C",
+          "text": "Eşit Aralıklı (Interval) Ölçekler",
+          "images": [],
+          "text_ar": "المقاييس ذات الفترات المتساوية"
+        },
+        {
+          "letter": "D",
+          "text": "Eşit Oranlı (Ratio) Ölçekler",
+          "images": [],
+          "text_ar": "المقاييس ذات النسب المتساوية"
+        },
+        {
+          "letter": "E",
+          "text": "Sıralama (Ordinal) Ölçekleri",
+          "images": [],
+          "text_ar": "المقاييس الرتبية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "وفق مستوى القياس تُصنَّف المقاييس في أربع مجموعات رئيسية.\nأي مما يلي ليس من أنواع هذه المقاييس؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Psikolojik testlerin temel işlevleri arasında aşağıdakilerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireylerin sınıflandırılması",
+          "images": [],
+          "text_ar": "تصنيف الأفراد"
+        },
+        {
+          "letter": "B",
+          "text": "Bireylerin kişisel inanç ve değerlerinin değiştirilmesi",
+          "images": [],
+          "text_ar": "تغيير المعتقدات والقيم الشخصية للأفراد"
+        },
+        {
+          "letter": "C",
+          "text": "Uygulanan yöntemlerin değerlendirilmesi",
+          "images": [],
+          "text_ar": "تقييم الأساليب المطبقة"
+        },
+        {
+          "letter": "D",
+          "text": "Bilimsel araştırmalarda değişkenlerin kontrolü",
+          "images": [],
+          "text_ar": "ضبط المتغيرات في البحوث العلمية"
+        },
+        {
+          "letter": "E",
+          "text": "Bireylerin seçimi",
+          "images": [],
+          "text_ar": "اختيار الأفراد"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن الوظائف الأساسية للاختبارات النفسية؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçme sürecinde güvenirliği artıran faktörlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Puanlamanın nesnel biçimde gerçekleştirilmesi",
+          "images": [],
+          "text_ar": "إجراء التصحيح بطريقة موضوعية"
+        },
+        {
+          "letter": "B",
+          "text": "Madde sayısının artırılması",
+          "images": [],
+          "text_ar": "زيادة عدد الفقرات"
+        },
+        {
+          "letter": "C",
+          "text": "Katılımcının dikkatini dağıtabilecek unsurların artırılması",
+          "images": [],
+          "text_ar": "زيادة العناصر التي قد تشتت انتباه المشارك"
+        },
+        {
+          "letter": "D",
+          "text": "Ölçme yapılan grubun heterojen yapıda bulunması",
+          "images": [],
+          "text_ar": "أن تكون المجموعة التي يُجرى عليها القياس غير متجانسة"
+        },
+        {
+          "letter": "E",
+          "text": "Testin homojen bir yapıya sahip olması",
+          "images": [],
+          "text_ar": "أن يكون الاختبار ذا بنية متجانسة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من العوامل التي ترفع الثبات في عملية القياس؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Vygotsky’nin bilişsel gelişim kuramına göre, çocuğun gelişimsel değerlendirmesinde aşağıdakilerden hangisine özellikle dikkat edilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun önceki öğrenme deneyimlerinden elde ettiği bilgiye",
+          "images": [],
+          "text_ar": "المعرفة التي اكتسبها الطفل من خبرات التعلم السابقة"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun yalnızca kendi başına gösterebildiği performansa",
+          "images": [],
+          "text_ar": "الأداء الذي يُظهره الطفل بمفرده فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun belirli testlerde ulaştığı standart puanlara",
+          "images": [],
+          "text_ar": "الدرجات المعيارية التي يصل إليها الطفل في اختبارات محددة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun yaşına ve biyolojik olgunluk düzeyine",
+          "images": [],
+          "text_ar": "عمر الطفل ومستوى نضجه البيولوجي"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun çevresindeki destek ve rehberlikle gösterebileceği gelişim potansiyeline",
+          "images": [],
+          "text_ar": "إمكانات النمو التي يستطيع الطفل إظهارها بدعم وإرشاد من محيطه"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "وفق نظرية فيغوتسكي للنمو المعرفي، على أي مما يلي ينبغي إيلاء عناية خاصة في التقييم النمائي للطفل؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuklarda ölçme ve değerlendirme sürecinde ilk yapılması gereken basamaktır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğa bilgilendirme yapılması",
+          "images": [],
+          "text_ar": "إعلام الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Uygun ortam ve araçların seçilmesi",
+          "images": [],
+          "text_ar": "اختيار البيئة والأدوات المناسبة"
+        },
+        {
+          "letter": "C",
+          "text": "Değerlendirme amacı belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد هدف التقييم"
+        },
+        {
+          "letter": "D",
+          "text": "Sonuçların aileyle paylaşılması ve yönlendirme yapılması",
+          "images": [],
+          "text_ar": "مشاركة النتائج مع الأسرة وتقديم التوجيه"
+        },
+        {
+          "letter": "E",
+          "text": "Elde edilen verilerin çok kaynaklı olarak yorumlanması",
+          "images": [],
+          "text_ar": "تفسير البيانات المحصلة من مصادر متعددة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي الخطوة الأولى الواجب اتخاذها في عملية القياس والتقييم لدى الأطفال؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi klinik psikolojik değerlendirme raporlarının temel özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanısal değerlendirme ve destek/terapi planı önerilerini içerebilmesi",
+          "images": [],
+          "text_ar": "أن تتضمن التقييم التشخيصي وتوصيات خطة الدعم/العلاج"
+        },
+        {
+          "letter": "B",
+          "text": "Muhatabın bilgi düzeyi ve mesleğine göre dil ve sunum biçiminin değiştirilmesi",
+          "images": [],
+          "text_ar": "أن تتغير لغة التقرير وشكل عرضه بحسب مستوى معرفة المتلقي ومهنته"
+        },
+        {
+          "letter": "C",
+          "text": "Raporun yalnızca danışanın akademik performansına odaklanması",
+          "images": [],
+          "text_ar": "أن يركز التقرير على الأداء الأكاديمي للمسترشد فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Danışanın ruhsal durumunu çok yönlü değerlendirmeye dayalı olarak hazırlanması",
+          "images": [],
+          "text_ar": "أن يُعدّ استنادًا إلى تقييم متعدد الأوجه للحالة النفسية للمسترشد"
+        },
+        {
+          "letter": "E",
+          "text": "Hem klinik görüşme hem de geçerli ve güvenilir test sonuçlarına dayanması",
+          "images": [],
+          "text_ar": "أن يستند إلى المقابلة الإكلينيكية وإلى نتائج اختبارات صادقة وثابتة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من الخصائص الأساسية لتقارير التقييم النفسي الإكلينيكي؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçme araçlarının taşıması gereken temel özelliklerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kullanım kolaylığı",
+          "images": [],
+          "text_ar": "سهولة الاستخدام"
+        },
+        {
+          "letter": "B",
+          "text": "Ölçümlerde güvenirlik düzeyinin yüksek olması",
+          "images": [],
+          "text_ar": "ارتفاع مستوى الثبات في القياسات"
+        },
+        {
+          "letter": "C",
+          "text": "Normlara uygunluk ve standartlara dayanma",
+          "images": [],
+          "text_ar": "مطابقة المعايير والاستناد إلى المقاييس المعيارية"
+        },
+        {
+          "letter": "D",
+          "text": "Ölçüm aracının farklı uygulayıcılarla farklı sonuçlar vermesi",
+          "images": [],
+          "text_ar": "أن تعطي أداة القياس نتائج مختلفة مع مطبّقين مختلفين"
+        },
+        {
+          "letter": "E",
+          "text": "Ölçülen yapıyı geçerli biçimde temsil etmesi",
+          "images": [],
+          "text_ar": "أن تمثل البنية المقيسة تمثيلًا صادقًا"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من الخصائص الأساسية التي يجب أن تتوفر في أدوات القياس؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi, ölçme ve değerlendirme sürecinde etik kurallar açısından yanlış bir uygulama örneğidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun gelişimsel özelliklerine uygun testin seçilmesi",
+          "images": [],
+          "text_ar": "اختيار الاختبار المناسب للخصائص النمائية للطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğa ve veliye testin amacı ve sonuçların nasıl kullanılacağı hakkında bilgi verilmesi",
+          "images": [],
+          "text_ar": "إعلام الطفل وولي أمره بهدف الاختبار وبكيفية استخدام النتائج"
+        },
+        {
+          "letter": "C",
+          "text": "Testin standardizasyon, geçerlik ve güvenirlik çalışmalarının yapılması, gerekiyorsa izin alınması",
+          "images": [],
+          "text_ar": "إجراء دراسات التقنين والصدق والثبات للاختبار، والحصول على الإذن عند الحاجة"
+        },
+        {
+          "letter": "D",
+          "text": "Velilere test sonuçlarının sade, anlaşılır ve net bir dille aktarılması",
+          "images": [],
+          "text_ar": "نقل نتائج الاختبار إلى أولياء الأمور بلغة بسيطة ومفهومة وواضحة"
+        },
+        {
+          "letter": "E",
+          "text": "Uygulayıcının gerekli eğitim ve yetkinliğe sahip olmadan test uygulaması",
+          "images": [],
+          "text_ar": "قيام المطبّق بتطبيق الاختبار دون حصوله على التدريب والكفاءة اللازمين"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي مثال على ممارسة خاطئة من حيث القواعد الأخلاقية في عملية القياس والتقييم؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinde verilen rapor türü ve özelliği doğru eşleştirilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikolojik Test Raporu - Uzman veya kurum için hazırlanır, teknik ve test odaklıdır",
+          "images": [],
+          "text_ar": "تقرير الاختبار النفسي - يُعدّ للخبير أو المؤسسة، وهو تقني ويركز على الاختبار"
+        },
+        {
+          "letter": "B",
+          "text": "Klinik Değerlendirme Raporu - Tek bir testin puan ve yorum analiziyle sınırlıdır.",
+          "images": [],
+          "text_ar": "تقرير التقييم الإكلينيكي - يقتصر على تحليل درجات اختبار واحد وتفسيره."
+        },
+        {
+          "letter": "C",
+          "text": "Adli Rapor-Aile ve okul için hazırlanır, öğrenme profili ve gelişimle ilgili öneriler içerir.",
+          "images": [],
+          "text_ar": "التقرير القضائي - يُعدّ للأسرة والمدرسة، ويتضمن توصيات تتعلق بالملف التعلمي والنمو."
+        },
+        {
+          "letter": "D",
+          "text": "Klinik Değerlendirme Raporu - Eğitsel alanlar hakkında bilgi sunar, pedagojik bir dil kullanır",
+          "images": [],
+          "text_ar": "تقرير التقييم الإكلينيكي - يقدم معلومات عن المجالات التعليمية، ويستخدم لغة تربوية"
+        },
+        {
+          "letter": "E",
+          "text": "Psikoeğitsel Rapor - Mahkeme ve savcılık için hazırlanır, yasal sorulara odaklı ve delil temellidir",
+          "images": [],
+          "text_ar": "التقرير النفسي-التربوي - يُعدّ للمحكمة والنيابة العامة، ويركز على المسائل القانونية ويقوم على الأدلة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي صحيح في مطابقة نوع التقرير وخصائصه؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi psikometrik açıdan normlar hakkında doğru bir ifadedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Test sonuçlarını yalnızca ham puanlar üzerinden yorumlamayı sağlar.",
+          "images": [],
+          "text_ar": "تتيح تفسير نتائج الاختبار بالدرجات الخام فقط."
+        },
+        {
+          "letter": "B",
+          "text": "Testin uygulanmasında izlenen adımların standartlarını tanımlar",
+          "images": [],
+          "text_ar": "تحدد معايير الخطوات المتبعة في تطبيق الاختبار"
+        },
+        {
+          "letter": "C",
+          "text": "Testin geçerlilik düzeyini belirlemeye yönelik istatistiksel işlemlerdir.",
+          "images": [],
+          "text_ar": "عمليات إحصائية تهدف إلى تحديد مستوى صدق الاختبار."
+        },
+        {
+          "letter": "D",
+          "text": "Bireyin test puanını bir referans grubunun performansına göre değerlendirmeyi sağlar.",
+          "images": [],
+          "text_ar": "تتيح تقييم درجة الفرد في الاختبار وفق أداء مجموعة مرجعية."
+        },
+        {
+          "letter": "E",
+          "text": "Bireyin performansını hatalı ölçütlerle kıyaslamayı amaçlar",
+          "images": [],
+          "text_ar": "تهدف إلى مقارنة أداء الفرد بمحكات خاطئة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي عبارة صحيحة عن المعايير من المنظور السيكومتري؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Bir öğrenci, dikkat testine girmeden önce kahvaltı yapmamış ve gece yeterince uyumamıştır.\nTest sırasında yorgunluk ve açlık nedeniyle dikkatini toplamakta zorlanmış, bu da test puanının beklenenden düşük çıkmasına yol açmıştır\nBu durumda ölçme hatasının kaynağı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rastgele hata",
+          "images": [],
+          "text_ar": "خطأ عشوائي"
+        },
+        {
+          "letter": "B",
+          "text": "Ölçme aracından kaynaklanan hata",
+          "images": [],
+          "text_ar": "خطأ ناشئ عن أداة القياس"
+        },
+        {
+          "letter": "C",
+          "text": "Puanlama hatası",
+          "images": [],
+          "text_ar": "خطأ في التصحيح"
+        },
+        {
+          "letter": "D",
+          "text": "Ölçülen kişiden kaynaklanan hata",
+          "images": [],
+          "text_ar": "خطأ ناشئ عن الشخص المقيس"
+        },
+        {
+          "letter": "E",
+          "text": "Uygulayıcıdan kaynaklanan hata",
+          "images": [],
+          "text_ar": "خطأ ناشئ عن المطبّق"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "لم يتناول أحد الطلاب طعام الإفطار قبل دخوله اختبار الانتباه، ولم ينم ما يكفي ليلًا.\nصعُب عليه أثناء الاختبار تركيز انتباهه بسبب التعب والجوع، وأدى ذلك إلى أن تكون درجته في الاختبار أدنى من المتوقع.\nفي هذه الحالة، ما مصدر خطأ القياس؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Bir okul öncesi öğretmeni, dört yaşındaki Ahmet’in duygularını ve düşüncelerini anlamak için bireysel bir görüşme yapmaktadır. Öğretmen, Ahmet’e “Kendini nasıl hissediyorsun?” sorusunu yöneltmiş, ancak Ahmet soruyu açıkça yanıtlayamamış ve duygularını doğru şekilde adlandıramamıştır.\nBu durumda, öğretmenin Ahmet’in duygularını ve düşüncelerini daha sağlıklı şekilde değerlendirebilmesi için aşağıdakilerden hangisini yapması en uygun olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görüşmeyi daha kısa tutup başka bir gün denemek",
+          "images": [],
+          "text_ar": "أن يقصر المقابلة ويكرر المحاولة في يوم آخر"
+        },
+        {
+          "letter": "B",
+          "text": "Ahmet'e aynı soruyu daha yüksek sesle tekrar sormak",
+          "images": [],
+          "text_ar": "أن يعيد طرح السؤال نفسه على أحمد بصوت أعلى"
+        },
+        {
+          "letter": "C",
+          "text": "Ahmet'i yanıt vermesi için zorlamak",
+          "images": [],
+          "text_ar": "أن يضغط على أحمد ليجيب"
+        },
+        {
+          "letter": "D",
+          "text": "Oyun, çizim veya hikâye tamamlama gibi yöntemler kullanmak",
+          "images": [],
+          "text_ar": "أن يستخدم أساليب مثل اللعب أو الرسم أو إكمال القصة"
+        },
+        {
+          "letter": "E",
+          "text": "Ahmet'in yanıt vermemesi nedeniyle dikkat eksikliğini işaret etmek",
+          "images": [],
+          "text_ar": "أن يشير إلى وجود نقص انتباه لدى أحمد بسبب عدم إجابته"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "يجري معلم في مرحلة ما قبل المدرسة مقابلة فردية مع أحمد، وهو طفل في الرابعة من عمره، لفهم مشاعره وأفكاره. طرح المعلم على أحمد سؤال «كيف تشعر؟»، غير أن أحمد لم يستطع الإجابة عن السؤال بوضوح ولم يتمكن من تسمية مشاعره تسمية صحيحة.\nفي هذه الحالة، ما الأنسب الذي ينبغي أن يفعله المعلم ليتمكن من تقييم مشاعر أحمد وأفكاره تقييمًا أسلم؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi psikolojik test raporlarının temel özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uygulanan testin adı ve amacının belirtilmesi",
+          "images": [],
+          "text_ar": "ذكر اسم الاختبار المطبق وهدفه"
+        },
+        {
+          "letter": "B",
+          "text": "Tek bir testten elde edilen sonuçlara dayanarak geniş kapsamlı genellemeler yapılması",
+          "images": [],
+          "text_ar": "إجراء تعميمات واسعة استنادًا إلى نتائج اختبار واحد"
+        },
+        {
+          "letter": "C",
+          "text": "Test sonuçlarını alt boyut skorları, yüzdelik dilimler ve standart sapmalarla birlikte sunulması",
+          "images": [],
+          "text_ar": "عرض نتائج الاختبار مع درجات الأبعاد الفرعية والشرائح المئينية والانحرافات المعيارية"
+        },
+        {
+          "letter": "D",
+          "text": "Test sırasında çocuğun iş birliği, dikkat ve motivasyonunun gözlemlenmesi",
+          "images": [],
+          "text_ar": "ملاحظة تعاون الطفل وانتباهه ودافعيته أثناء الاختبار"
+        },
+        {
+          "letter": "E",
+          "text": "Sonuç ve öneriler kısmının, gerektiğinde veliler ve uzmanlar için açıklanabilir olması",
+          "images": [],
+          "text_ar": "أن يكون قسم النتائج والتوصيات قابلًا للشرح لأولياء الأمور والخبراء عند الحاجة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من الخصائص الأساسية لتقارير الاختبارات النفسية؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "I. Spor yarışmalarında derece sıralamaları\nII. Öğrencilerin okul numaraları\nIII. Sosyoekonomik düzey grupları (1=Düşük, 2=Orta, 3=Yüksek)\nIV. Öğrencilerin matematik sınavından aldıkları puanlar\nYukarıdakilerden hangileri sıralama (ordinal) ölçeklerine örnek gösterilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve IV",
+          "images": [],
+          "text_ar": "II وIV"
+        },
+        {
+          "letter": "B",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "D",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I وIV"
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. ترتيب المراكز في المسابقات الرياضية\nII. الأرقام المدرسية للطلاب\nIII. فئات المستوى الاجتماعي-الاقتصادي (1=منخفض، 2=متوسط، 3=مرتفع)\nIV. الدرجات التي حصل عليها الطلاب في اختبار الرياضيات\nأي مما ورد أعلاه يمكن إعطاؤه مثالًا على المقاييس الرتبية (ordinal)؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Bu rehber öğretmen, görev yaptığı okulda ikinci sınıf öğrencilerinin okuma hızlarını değerlendirmek ve okuma güçlüğü yaşayan öğrencileri belirlemek istemektedir.\nBu öğretmenin ölçme sonuçlarını yorumlarken, öğrencilerin performansını doğru biçimde değerlendirebilmek için aşağıdaki normlardan hangisinden yararlanması en uygun olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaş normları",
+          "images": [],
+          "text_ar": "معايير العمر"
+        },
+        {
+          "letter": "B",
+          "text": "Sınıf normları",
+          "images": [],
+          "text_ar": "معايير الصف"
+        },
+        {
+          "letter": "C",
+          "text": "Bölgesel normlar",
+          "images": [],
+          "text_ar": "المعايير الإقليمية"
+        },
+        {
+          "letter": "D",
+          "text": "Ulusal normlar",
+          "images": [],
+          "text_ar": "المعايير الوطنية"
+        },
+        {
+          "letter": "E",
+          "text": "Cinsiyet normları",
+          "images": [],
+          "text_ar": "معايير الجنس"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "يرغب هذا المعلم المرشد في المدرسة التي يعمل فيها في تقييم سرعة قراءة طلاب الصف الثاني وتحديد الطلاب الذين يعانون صعوبة في القراءة.\nأي من المعايير التالية الأنسب أن يستعين به هذا المعلم عند تفسير نتائج القياس لتقييم أداء الطلاب تقييمًا صحيحًا؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "I. Görüşmeye olası sorulara hazırlıklı olarak katılmak\nII. Yetkin olunmayan konularda bilgi vermeye çalışmak\nIII. Çocuğun güçlü yönlerini ve gelişim potansiyelini vurgulamak\nIV. Öfkeli çocuk ya da veliye hazırlıksız yaklaşmak\nBir çocuk üzerinde yapılan ölçme ve değerlendirme süreci tamamlandıktan sonra, çocuk gelişimi uzmanı aileye ve çocuğa geri bildirim vermektedir. Bu süreçte, geri bildirimin etkin ve sağlıklı olabilmesi için yukarıdaki davranışlardan hangilerinden kaçınılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        },
+        {
+          "letter": "B",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I وIV"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "E",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. المشاركة في المقابلة مستعدًا للأسئلة المحتملة\nII. محاولة تقديم معلومات في موضوعات لا كفاءة له فيها\nIII. إبراز جوانب قوة الطفل وإمكانات نموه\nIV. التعامل مع الطفل أو ولي الأمر الغاضب دون استعداد\nبعد اكتمال عملية القياس والتقييم لطفل، يقدم خبير نمو الطفل تغذية راجعة إلى الأسرة والطفل. في هذه العملية، أي السلوكات المذكورة أعلاه ينبغي تجنبه كي تكون التغذية الراجعة فعالة وسليمة؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bir ölçme aracının geçerliğinin değerlendirmede kullanılan yöntemlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Testi farklı zamanlarda tekrar uygulayarak tutarlılığına bakmak",
+          "images": [],
+          "text_ar": "إعادة تطبيق الاختبار في أزمنة مختلفة للنظر في ثباته"
+        },
+        {
+          "letter": "B",
+          "text": "Testin sonuçlarını uygun bir ölçütle karşılaştırmak",
+          "images": [],
+          "text_ar": "مقارنة نتائج الاختبار بمحك مناسب"
+        },
+        {
+          "letter": "C",
+          "text": "Belirtke tablosu hazırlamak",
+          "images": [],
+          "text_ar": "إعداد جدول المواصفات"
+        },
+        {
+          "letter": "D",
+          "text": "Testin ölçtüğü yapıyı incelemek",
+          "images": [],
+          "text_ar": "فحص البنية التي يقيسها الاختبار"
+        },
+        {
+          "letter": "E",
+          "text": "Uzman görüşlerinden yararlanmak",
+          "images": [],
+          "text_ar": "الاستعانة بآراء الخبراء"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من أساليب تقييم صدق أداة القياس؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "I. Yönlendirme nedenine uygun açıklamalar üretmek ve varsa sorulara yanıt vermek\nII. Çocuğun sosyal etkinliklerine katılımını artırmak için ödevler vermek\nIII. Bireyin güçlü yönlerini belirlemek ve bunları zorlandığı alanlarda destek unsuru olarak kullanmak\nIV. Çocuğun tüm ödevlerini ve projelerini öğretmene yeniden düzenletmek\nYukarıdaki maddelerden hangileri psikolojik değerlendirme raporlarının amaçları arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "D",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I وIV"
+        },
+        {
+          "letter": "E",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. تقديم تفسيرات مناسبة لسبب الإحالة والإجابة عن الأسئلة إن وُجدت\nII. إعطاء واجبات لزيادة مشاركة الطفل في الأنشطة الاجتماعية\nIII. تحديد جوانب قوة الفرد واستخدامها عنصر دعم في المجالات التي يواجه فيها صعوبة\nIV. أن يعيد المعلم تنظيم جميع واجبات الطفل ومشاريعه\nأي من البنود أعلاه يندرج ضمن أهداف تقارير التقييم النفسي؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "fe2495f83872318abfb853c1d63d65a61826d984c2c22214693a99aeb650af49"
+}

@@ -1,0 +1,606 @@
+{
+  "course": "OYUN VE OYUN TERAPİSİ",
+  "course_slug": "oyun-ve-oyun-terapisi",
+  "exam": "2021-2022 Vize Soruları",
+  "exam_slug": "vize-2021-2022",
+  "page_title": "Oyun ve Oyun Terapisi 2021-2022 Vize",
+  "source_url": "https://lolonolo.com/2021/12/08/oyun-ve-oyun-terapisi-2021-2022-vize/",
+  "scraped_at": "2026-11-12T02:21:24+03:00",
+  "answer_source": "markup",
+  "question_count": 15,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisinin bileşenleri düşünüldüğünde hangisi ilk gereklilik değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun odası",
+          "images": [],
+          "text_ar": "غرفة اللعب"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun öğretmeni",
+          "images": [],
+          "text_ar": "معلم الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Oyuncaklar",
+          "images": [],
+          "text_ar": "الألعاب"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun ebeveyni",
+          "images": [],
+          "text_ar": "والد الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Oyun terapisti",
+          "images": [],
+          "text_ar": "معالج اللعب"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "بالنظر إلى مكونات العلاج باللعب، أي مما يلي ليس من المتطلبات الأولى؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Tanısal değerlendirmede hangi testler kullanılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ados görüşmesi",
+          "images": [],
+          "text_ar": "مقابلة ADOS التشخيصية"
+        },
+        {
+          "letter": "B",
+          "text": "Welt",
+          "images": [],
+          "text_ar": "اختبار العالم Welt"
+        },
+        {
+          "letter": "C",
+          "text": "Sceno",
+          "images": [],
+          "text_ar": "اختبار المشهد Sceno"
+        },
+        {
+          "letter": "D",
+          "text": "Yapılandırılmış",
+          "images": [],
+          "text_ar": "اختبار منظم"
+        },
+        {
+          "letter": "E",
+          "text": "Thereplay",
+          "images": [],
+          "text_ar": "ثيرابلاي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي الاختبارات لا تُستخدم في التقييم التشخيصي؟",
+      "review": [
+        "q2.E: المصدر يكتب Thereplay، والمرجح أنها Theraplay."
+      ]
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Ayşe 5 yaşında anaokuluna giden bir öğrencidir. Öğretmenleri son 2 aydır Ayşe’nin parmak emme davranışı geliştirdiğini ailesine bildirmiş, aile de yeni doğan kardeşi olduğunu belirtmiştir. Buna göre…..",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yansıtma",
+          "images": [],
+          "text_ar": "الإسقاط"
+        },
+        {
+          "letter": "B",
+          "text": "Bastırma",
+          "images": [],
+          "text_ar": "الكبت"
+        },
+        {
+          "letter": "C",
+          "text": "Savunma regresyonu",
+          "images": [],
+          "text_ar": "الارتداد الدفاعي"
+        },
+        {
+          "letter": "D",
+          "text": "Pasif Agresyon",
+          "images": [],
+          "text_ar": "العدوانية السلبية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "عائشة طالبة في روضة الأطفال عمرها 5 سنوات. أبلغ المعلمون أسرتها أن عائشة بدأت منذ شهرين في مص إصبعها، وذكرت الأسرة أن لها أخًا مولودًا حديثًا. وفقًا لذلك ….."
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "“Oyunun kendisi bir psikoterapidir.” sözü kime aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Melanie Klein",
+          "images": [],
+          "text_ar": "ميلاني كلاين"
+        },
+        {
+          "letter": "B",
+          "text": "Landreth",
+          "images": [],
+          "text_ar": "لاندريث"
+        },
+        {
+          "letter": "C",
+          "text": "D. Winnicott",
+          "images": [],
+          "text_ar": "د. وينييكوت"
+        },
+        {
+          "letter": "D",
+          "text": "Anna Freud",
+          "images": [],
+          "text_ar": "آنا فرويد"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "«اللعب نفسه علاج نفسي». لمن يعود هذا القول؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "I. Anoreksi – Enkoprezis  II. Özel öğrenme güçlüğü  III. Bağlanma sorunları  IV. Duygu durum  V. Cinsel yönelim Öncüllerden hangileri oyun terapisinin kullanım alanlarındandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I - III - V",
+          "images": [],
+          "text_ar": "I و III و V"
+        },
+        {
+          "letter": "B",
+          "text": "I ve IV",
+          "images": [],
+          "text_ar": "I و IV"
+        },
+        {
+          "letter": "C",
+          "text": "II ve IV",
+          "images": [],
+          "text_ar": "II و IV"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "I. فقدان الشهية – التغوط اللاإرادي II. صعوبات التعلم الخاصة III. مشكلات التعلق IV. الحالة المزاجية V. التوجه الجنسي أي مما ورد أعلاه يعد من مجالات استخدام العلاج باللعب؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Psikodinamik oyun terapisinin esas aldığı temellerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun yaşadıkları görüşmede serbest çağrışım yoluyla çözülür.",
+          "images": [],
+          "text_ar": "تُحل خبرات الطفل في الجلسة عن طريق التداعي الحر."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklar yaşadıkları biliçdışı çatışmaların üstesinden gelemeyebilirler ve gelişimsel eksiklikler yaşayabilirler. Bunu oyun ortamında sergileyebilirler.",
+          "images": [],
+          "text_ar": "قد لا يتمكن الأطفال من تجاوز صراعاتهم اللاواعية وقد يعانون من قصور نمائي. ويمكنهم إظهار ذلك في بيئة اللعب."
+        },
+        {
+          "letter": "C",
+          "text": "Çocukları duygu ifadesi, emisyon düzenlemesi, güven alanını geliştirme ve geçmişteki deneyimlerini şimdi şekillendirme için oyunu kullanırlar.",
+          "images": [],
+          "text_ar": "يستخدمون اللعب للتعبير عن المشاعر وتنظيم الانفعالات وتطوير مجال الثقة وتشكيل خبراتهم الماضية في الحاضر."
+        },
+        {
+          "letter": "D",
+          "text": "Aktarım yoluyla çocuk yaşantısını terapiste sunar ve oyun terapisti sürecinde bu şekillenir.",
+          "images": [],
+          "text_ar": "يقدّم الطفل خبرته للمعالج عبر التحويل، ويتشكل ذلك في أثناء عملية العلاج باللعب."
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların sahip oldukları semptomların bir anlamı vardır.",
+          "images": [],
+          "text_ar": "للأعراض التي يعاني منها الأطفال معنى."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من الأسس التي يستند إليها العلاج باللعب النفسي الدينامي؟",
+      "review": [
+        "q6.C: «emisyon düzenlemesi» تبدو تحريفًا لـ«duygu düzenlemesi»، فترجمت تنظيم الانفعالات."
+      ]
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Bir çocuğun duyuları ile tüm dünyayı tanımaya çalıştığı dönem hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul Çağı dönemi",
+          "images": [],
+          "text_ar": "مرحلة سن المدرسة"
+        },
+        {
+          "letter": "B",
+          "text": "Bebeklik dönemi",
+          "images": [],
+          "text_ar": "مرحلة الرضاعة"
+        },
+        {
+          "letter": "C",
+          "text": "Okul öncesi dönem",
+          "images": [],
+          "text_ar": "مرحلة ما قبل المدرسة"
+        },
+        {
+          "letter": "D",
+          "text": "Ergenlik dönemi",
+          "images": [],
+          "text_ar": "مرحلة المراهقة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما المرحلة التي يحاول فيها الطفل التعرف على العالم كله عن طريق حواسه؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Psikodinamik yaklaşımda “yeterinde iyi anne ve geçiş nesnesi” kuramını kullanan kuramcı kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bowlby",
+          "images": [],
+          "text_ar": "بولبي"
+        },
+        {
+          "letter": "B",
+          "text": "Heinz Kohut",
+          "images": [],
+          "text_ar": "هاينز كوهوت"
+        },
+        {
+          "letter": "C",
+          "text": "Erik Ericson",
+          "images": [],
+          "text_ar": "إريك إريكسون"
+        },
+        {
+          "letter": "D",
+          "text": "Winnicott",
+          "images": [],
+          "text_ar": "وينييكوت"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "من المنظّر الذي استخدم في الاتجاه النفسي الدينامي نظرية «الأم الجيدة بما يكفي والموضوع الانتقالي»؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi oyun terapisi için gerekli oyuncaklardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evcilik setleri",
+          "images": [],
+          "text_ar": "أطقم اللعب المنزلي"
+        },
+        {
+          "letter": "B",
+          "text": "Domino",
+          "images": [],
+          "text_ar": "الدومينو"
+        },
+        {
+          "letter": "C",
+          "text": "Elektronik robot",
+          "images": [],
+          "text_ar": "روبوت إلكتروني"
+        },
+        {
+          "letter": "D",
+          "text": "Oyun hamuru",
+          "images": [],
+          "text_ar": "عجينة اللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Tahta bloklar",
+          "images": [],
+          "text_ar": "مكعبات خشبية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من الألعاب الضرورية للعلاج باللعب؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Oyunun bir ” ara yüz ” olduğunu söyleyen kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sigmund Freud",
+          "images": [],
+          "text_ar": "سيغموند فرويد"
+        },
+        {
+          "letter": "B",
+          "text": "Melanie Klein",
+          "images": [],
+          "text_ar": "ميلاني كلاين"
+        },
+        {
+          "letter": "C",
+          "text": "Winnicott",
+          "images": [],
+          "text_ar": "وينييكوت"
+        },
+        {
+          "letter": "D",
+          "text": "Anna Freud",
+          "images": [],
+          "text_ar": "آنا فرويد"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "من قال إن اللعب «واجهة بينية»؟",
+      "review": [
+        "q10.stem: «ara yüz» تعني حرفيًا واجهة بينية، وقد يُراد بها المساحة الوسيطة عند وينييكوت."
+      ]
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Hangisi oyun terapisi sürecindeki aşamaların basamağı sırasıyla verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ayrıntılı çalışma - Dayanışma ilişkisi geliştirme - Sonlandırma",
+          "images": [],
+          "text_ar": "العمل التفصيلي - بناء علاقة التعاون - الإنهاء"
+        },
+        {
+          "letter": "B",
+          "text": "Dayanışma ilişkisi geliştirme -  Sonlandırma - Ayrıntılı çalışma",
+          "images": [],
+          "text_ar": "بناء علاقة التعاون - الإنهاء - العمل التفصيلي"
+        },
+        {
+          "letter": "C",
+          "text": "Ayrıntılı çalışma - Sonlandırma - Dayanışma ilişkisi geliştirme",
+          "images": [],
+          "text_ar": "العمل التفصيلي - الإنهاء - بناء علاقة التعاون"
+        },
+        {
+          "letter": "D",
+          "text": "Dayanışma ilişkisi geliştirme - Ayrıntılı çalışma - Sonlandırma",
+          "images": [],
+          "text_ar": "بناء علاقة التعاون - العمل التفصيلي - الإنهاء"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي يعرض مراحل عملية العلاج باللعب بالترتيب؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "I. Oyun terapisi türleri de kendi içerisinde bir sınıra sahiptir. II. İster çocuk merkezli olsun ister psikodinamik yaklaşımlı terapi olsun kendi uygulamalarına uygun sınırlandırmaları mevcuttur. III. Hele yapılandırılmış oyun terapilerinde bu sınırlar daha belirgin ve nettir. IV. Bazı terapistler sınırlardan bahsetmenin çocuğun sürecini olumsuz etkileyeceğini, çocukta kontrol altına alınıyor hissine neden olabileceğini ve duygularını rahatça ifade etmesini engelleyebileceğini belirtirken, bazıları ise baştan çocukla bir anlaşma yapılmasının ise aksi bir durum olduğunda hayal kırıklığı yaratmaması için gerekli olduğunu belirtmektedirler. Yukarıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "B",
+          "text": "II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "C",
+          "text": "III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "D",
+          "text": "IV",
+          "images": [],
+          "text_ar": "IV فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Yanlış yoktur",
+          "images": [],
+          "text_ar": "لا يوجد خطأ"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. لأنواع العلاج باللعب أيضًا حدود داخلية خاصة بها. II. سواء كان العلاج متمركزًا حول الطفل أو ذا اتجاه نفسي دينامي، فإن له تحديدات تناسب تطبيقاته الخاصة. III. وفي العلاج باللعب المنظم تحديدًا تكون هذه الحدود أوضح وأكثر دقة. IV. يرى بعض المعالجين أن الحديث عن الحدود قد يؤثر سلبًا في عملية الطفل، وقد يجعله يشعر بأنه تحت السيطرة، وقد يمنعه من التعبير عن مشاعره بحرية، بينما يرى آخرون أن إبرام اتفاق مع الطفل منذ البداية ضروري لكي لا يسبب الإحباط عند حدوث أمر مخالف. أي مما ورد أعلاه غير صحيح؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki öğrenme merkezleri ile ilgili hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tüm alanlar bir sınıfta olmalı",
+          "images": [],
+          "text_ar": "يجب أن تكون جميع المساحات في صف واحد"
+        },
+        {
+          "letter": "B",
+          "text": "Hareketli alanlar diğer bölümlerden ayrılmalı",
+          "images": [],
+          "text_ar": "يجب فصل المساحات الحركية عن الأقسام الأخرى"
+        },
+        {
+          "letter": "C",
+          "text": "Alanları raf, dolap, bant vb. ayrılmalı",
+          "images": [],
+          "text_ar": "يجب فصل المساحات بالرفوف والخزائن والأشرطة وما شابه"
+        },
+        {
+          "letter": "D",
+          "text": "Öğrenci sayısına göre belirlenmeli",
+          "images": [],
+          "text_ar": "يجب تحديدها وفق عدد الطلاب"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي غير صحيح بشأن مراكز التعلم التالية؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "İnsanın ihtiyaçlarını sevgi onay takdir edilmesi kimin görüşüdür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Winnicott",
+          "images": [],
+          "text_ar": "وينييكوت"
+        },
+        {
+          "letter": "B",
+          "text": "Erikson",
+          "images": [],
+          "text_ar": "إريكسون"
+        },
+        {
+          "letter": "C",
+          "text": "Horney",
+          "images": [],
+          "text_ar": "هورني"
+        },
+        {
+          "letter": "D",
+          "text": "Freud",
+          "images": [],
+          "text_ar": "فرويد"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "القول بأن من حاجات الإنسان الحب والتأييد والتقدير هو رأي من؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Psikoseksüel gelişim dönemlerine göre anal dönem hangi yaş grubunu içerir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1-3 yaş",
+          "images": [],
+          "text_ar": "1-3 سنوات"
+        },
+        {
+          "letter": "B",
+          "text": "0-1 yaş",
+          "images": [],
+          "text_ar": "0-1 سنة"
+        },
+        {
+          "letter": "C",
+          "text": "6-11 yaş",
+          "images": [],
+          "text_ar": "6-11 سنة"
+        },
+        {
+          "letter": "D",
+          "text": "3-5 yaş",
+          "images": [],
+          "text_ar": "3-5 سنوات"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "وفق مراحل النمو النفسي الجنسي، أي فئة عمرية تشملها المرحلة الشرجية؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "wrappers": 1
+  },
+  "omitted_questions": [
+    {
+      "n": 7,
+      "reason": "choice_count",
+      "stem": "Yapılandırılmış oyun ile ilgili hangisi doğrudur?"
+    }
+  ],
+  "content_hash": "cac397b4dd9077c3d1a1d86fd0903a3b2797a08311434eacb8b9b176cbbfe856"
+}

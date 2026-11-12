@@ -1,0 +1,859 @@
+{
+  "course": "ÇOCUK HAKLARI VE HUKUKU",
+  "course_slug": "cocuk-haklari-ve-hukuku",
+  "exam": "2022-2023 Vize Soruları",
+  "exam_slug": "vize-2022-2023",
+  "page_title": "Çocuk Hakları ve Hukuku 2022-2023 Vize Soruları",
+  "source_url": "https://lolonolo.com/2023/08/30/cocuk-haklari-ve-hukuku-2022-2023-vize-sorulari/",
+  "scraped_at": "2026-11-12T02:21:13+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi BM Çocuk Hakları Sözleşmesi’ne göre çocuk hukuku kapsamı içerisinde yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların ceza hukukunda suçun mağduru ya da suçtan etkilenen olmaları açısından ise çocuklara karşı işlenen suçlar ile ilgilenmek",
+          "images": [],
+          "text_ar": "معالجة الجرائم المرتكبة ضد الأطفال من حيث كونهم في قانون العقوبات ضحايا للجريمة أو متأثرين بها"
+        },
+        {
+          "letter": "B",
+          "text": "On yedi yaşını tamamlamış ve kanuni temsilcisinin onayı ile evlenmiş bir kişi olmak",
+          "images": [],
+          "text_ar": "أن يكون الشخص قد أتم السابعة عشرة من عمره وتزوج بموافقة ممثله القانوني"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk istisman ve bu suçlarla mücadele yollarını belirlemek",
+          "images": [],
+          "text_ar": "تحديد صور الإساءة إلى الطفل وسبل مكافحة هذه الجرائم"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların hangi yaştan itibaren yargılanabileceklerini belirlemek.",
+          "images": [],
+          "text_ar": "تحديد السن الذي يجوز من بعده محاكمة الأطفال."
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların işlediği suçlardan dolayı cezai sorumluluklarının nasıl olduğunu bilmek",
+          "images": [],
+          "text_ar": "معرفة كيفية المسؤولية الجزائية للأطفال عن الجرائم التي يرتكبونها"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يأتي لا يندرج في نطاق قانون الطفل وفقًا لاتفاقية الأمم المتحدة لحقوق الطفل؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi nişanlanmanın sonuçları arasında sayılamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nişanlının yakın sayılması ve haksız fiil sebebi ile ölmesi durumunda tazminat talebi vermesi",
+          "images": [],
+          "text_ar": "اعتبار الخطيب من الأقارب، ومنحه حق المطالبة بالتعويض إذا توفي بسبب فعل غير مشروع"
+        },
+        {
+          "letter": "B",
+          "text": "Evlenmeyi gerçekleştirme yükümlülüğü",
+          "images": [],
+          "text_ar": "الالتزام بإتمام الزواج"
+        },
+        {
+          "letter": "C",
+          "text": "Sadakat yükümlülüğü",
+          "images": [],
+          "text_ar": "الالتزام بالوفاء"
+        },
+        {
+          "letter": "D",
+          "text": "Nişanlıların hısım haline gelmesi",
+          "images": [],
+          "text_ar": "أن يصبح الخاطبان من الأقارب"
+        },
+        {
+          "letter": "E",
+          "text": "Tanıklıktan ve hakimlikten kaçınma hakkı tanıması",
+          "images": [],
+          "text_ar": "منح حق الامتناع عن الشهادة والتنحي عن القضاء"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يأتي لا يمكن عده من آثار الخطبة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Nişanlanma için aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Temsilci aracılığı ile yapılamayacak işlemler arasında nişanlanma işlemi de yer alır.",
+          "images": [],
+          "text_ar": "يُعد تصرف الخطبة من التصرفات التي لا يجوز إجراؤها عن طريق ممثل."
+        },
+        {
+          "letter": "B",
+          "text": "Nişanlanma, yüzük takma gibi herhangi bir şekil şartına bağlı olmadan da gerçekleştirilebilir.",
+          "images": [],
+          "text_ar": "يمكن إجراء الخطبة دون التقيد بأي شرط شكلي مثل تبادل الخواتم."
+        },
+        {
+          "letter": "C",
+          "text": "Farklı cinsiyetten kişiler arasında yapılan evlenme teklifinin muhatap tarafından kabulü nişanlanma sayılır.",
+          "images": [],
+          "text_ar": "يُعد قبول الطرف الموجه إليه طلب الزواج بين شخصين من جنسين مختلفين خطبةً."
+        },
+        {
+          "letter": "D",
+          "text": "Nişanlanma yazılı olmasa da bir aile hukuku sözleşmesidir.",
+          "images": [],
+          "text_ar": "الخطبة عقد من عقود قانون الأسرة وإن لم تكن مكتوبة."
+        },
+        {
+          "letter": "E",
+          "text": "Evlenilmek istenen kişi belirlendikten sonra ona temsilci ile yollanan evlenme teklifi hukuken geçersizdir.",
+          "images": [],
+          "text_ar": "إذا حُدد الشخص المراد الزواج به، فإن طلب الزواج المرسل إليه عن طريق ممثل يكون باطلًا قانونًا."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يأتي غير صحيح بشأن الخطبة؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi babalik davasının sonuçlarından birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İddialar ispatlanırsa çocuk ile baba arasında soybağı kurulur.",
+          "images": [],
+          "text_ar": "إذا أُثبتت الادعاءات، ثبت النسب بين الطفل والأب."
+        },
+        {
+          "letter": "B",
+          "text": "Davayı kayyım açmışsa anne için tazminat talep edemeden sadece babalik hükmü isteyebilir.",
+          "images": [],
+          "text_ar": "إذا رفع الوصي الدعوى، فلا يمكنه طلب تعويض للأم، بل يقتصر على طلب الحكم بالأبوة."
+        },
+        {
+          "letter": "C",
+          "text": "Babanın ölümü sonrasında mirasçılara açılan babalik davası, içerisinde nafaka talebine yer olmayan bir davadır.",
+          "images": [],
+          "text_ar": "دعوى الأبوة المقامة على الورثة بعد وفاة الأب دعوى لا محل فيها لطلب النفقة."
+        },
+        {
+          "letter": "D",
+          "text": "Babalik davası reddedilse bile çocuğun üstün yararı ilkesi gereği geri istenemeyecek kalemlerden birisi de dava sırasında yapılan nafaka ödemeleridir.",
+          "images": [],
+          "text_ar": "حتى إذا رُفضت دعوى الأبوة، فإن من البنود التي لا يمكن استردادها بمقتضى مبدأ المصلحة الفضلى للطفل مدفوعات النفقة التي جرت أثناء الدعوى."
+        },
+        {
+          "letter": "E",
+          "text": "Babalık davası sırasında çocuk lehine iştirak nafakasına hükmedilebilir,",
+          "images": [],
+          "text_ar": "يجوز الحكم بنفقة المشاركة لصالح الطفل أثناء دعوى الأبوة،"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يأتي ليس من نتائج دعوى الأبوة؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Soy bağının reddi davası kime karşı açılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nüfus dairesine",
+          "images": [],
+          "text_ar": "دائرة الأحوال المدنية"
+        },
+        {
+          "letter": "B",
+          "text": "Anne ile birlikte çocuğa",
+          "images": [],
+          "text_ar": "الأم والطفل معًا"
+        },
+        {
+          "letter": "C",
+          "text": "Sadece anneye",
+          "images": [],
+          "text_ar": "الأم فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Biyolojik babaya",
+          "images": [],
+          "text_ar": "الأب البيولوجي"
+        },
+        {
+          "letter": "E",
+          "text": "Sadece çocuğa",
+          "images": [],
+          "text_ar": "الطفل فقط"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ضد مَن تُرفع دعوى نفي النسب؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuk haklarının tarihi ile ilgili dört önemli belgeden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1959 tarihli Birleşmiş Milletler Çocuk Hakları Bildirgesi",
+          "images": [],
+          "text_ar": "إعلان الأمم المتحدة لحقوق الطفل الصادر عام 1959"
+        },
+        {
+          "letter": "B",
+          "text": "1963 tarihli Türk Çocuk Hakları Bildirisi",
+          "images": [],
+          "text_ar": "الإعلان التركي لحقوق الطفل الصادر عام 1963"
+        },
+        {
+          "letter": "C",
+          "text": "1989 tarihli Birleşmiş Milletler Çocuk Hakları Sözleşmesi",
+          "images": [],
+          "text_ar": "اتفاقية الأمم المتحدة لحقوق الطفل الصادرة عام 1989"
+        },
+        {
+          "letter": "D",
+          "text": "1924 tarihli Cenevre Çocuk Hakları Bildirgesi",
+          "images": [],
+          "text_ar": "إعلان جنيف لحقوق الطفل الصادر عام 1924"
+        },
+        {
+          "letter": "E",
+          "text": "1969 tarihli Viyana Konvansiyonu",
+          "images": [],
+          "text_ar": "اتفاقية فيينا الصادرة عام 1969"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يأتي ليس من الوثائق الأربع المهمة المتعلقة بتاريخ حقوق الطفل؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Babalık davası için aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Annenin ölümü halinde babalik davası açma hakkı mirasçılara geçmez ve sona erer.",
+          "images": [],
+          "text_ar": "إذا توفيت الأم، فإن حق رفع دعوى الأبوة لا ينتقل إلى الورثة وينقضي."
+        },
+        {
+          "letter": "B",
+          "text": "Annenin ölümü halinde doğum sırasındaki masraflar için dava açma hakkı mirasçılara geçer.",
+          "images": [],
+          "text_ar": "إذا توفيت الأم، انتقل حق رفع الدعوى عن مصاريف الولادة إلى الورثة."
+        },
+        {
+          "letter": "C",
+          "text": "Babalık davasını anne ve çocuk yanında biyolojik baba da açabilir.",
+          "images": [],
+          "text_ar": "يجوز للأب البيولوجي رفع دعوى الأبوة إلى جانب الأم والطفل."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk küçük ise kayyım atanır ve davayı kayyım açar, çocuk ergin ise davayı bizzat kendisi açar.",
+          "images": [],
+          "text_ar": "إذا كان الطفل صغيرًا، عُيِّن وصي ورفع الوصي الدعوى، وإذا كان بالغًا رفعها بنفسه."
+        },
+        {
+          "letter": "E",
+          "text": "Babalik davasının sonucunda kurulan soybağı ile evlilik içerisinde kurulan soybağı hukuken eşit değerdedir.",
+          "images": [],
+          "text_ar": "النسب الثابت نتيجة دعوى الأبوة يعادل قانونًا النسب الثابت في إطار الزواج."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يأتي غير صحيح بشأن دعوى الأبوة؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi soy bağının reddi davasının sonuçlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk ile biyolojik baba olan kişi arasında soy bağı kendiliğinden kurulur.",
+          "images": [],
+          "text_ar": "يثبت النسب تلقائيًا بين الطفل والشخص الذي هو الأب البيولوجي."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk ile baba arasındaki soy bağı geçmişe etkili olarak ortadan kalkar.",
+          "images": [],
+          "text_ar": "يزول النسب بين الطفل والأب بأثر رجعي."
+        },
+        {
+          "letter": "C",
+          "text": "Nüfus kütüğünde çocuğun babası olarak annenin bildireceği bir isim yazılır.",
+          "images": [],
+          "text_ar": "يُدوَّن في سجل الأحوال المدنية اسم يبلّغ به الأم بوصفه والد الطفل."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk annesinin hanesine bekarlık soyadı ile kaydedilir.",
+          "images": [],
+          "text_ar": "يُقيَّد الطفل في سجل أمه بلقب عائلتها قبل الزواج."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk baba açısından nesepsiz hale gelir.",
+          "images": [],
+          "text_ar": "يصبح الطفل عديم النسب من جهة الأب."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يأتي ليس من نتائج دعوى نفي النسب؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi geçici evlenme engelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evlatlık ilişkisi",
+          "images": [],
+          "text_ar": "علاقة التبني"
+        },
+        {
+          "letter": "B",
+          "text": "Mevcut evlilik",
+          "images": [],
+          "text_ar": "الزواج القائم"
+        },
+        {
+          "letter": "C",
+          "text": "Bulaşıcı hastalık",
+          "images": [],
+          "text_ar": "المرض المعدي"
+        },
+        {
+          "letter": "D",
+          "text": "Esin anne ve babası ile olan ve evlenmeden kaynaklanan kayın (dünür) hısımlığı",
+          "images": [],
+          "text_ar": "القرابة بالمصاهرة مع والدي الزوج الناشئة عن الزواج"
+        },
+        {
+          "letter": "E",
+          "text": "Üçüncü dereceye kadar olan kan hısımlığı ilişkisi",
+          "images": [],
+          "text_ar": "علاقة القرابة بالدم حتى الدرجة الثالثة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يأتي من موانع الزواج المؤقتة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Bir çocuğun karşıdan karşıya geçerken otomobillerin oluşturduğu tehlikeyi kavrayamaması aşağıdakilerden hangisi ile ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aceleci olup olmadığı",
+          "images": [],
+          "text_ar": "كونه متعجلًا أو غير متعجل"
+        },
+        {
+          "letter": "B",
+          "text": "Ayırt etme gücüne sahip olup olmadığı",
+          "images": [],
+          "text_ar": "كونه متمتعًا بقوة التمييز أو غير متمتع بها"
+        },
+        {
+          "letter": "C",
+          "text": "Zeki olup olmadığı",
+          "images": [],
+          "text_ar": "كونه ذكيًا أو غير ذكي"
+        },
+        {
+          "letter": "D",
+          "text": "Gözlerinin iyi görüp görmediği",
+          "images": [],
+          "text_ar": "كون بصره جيدًا أو غير جيد"
+        },
+        {
+          "letter": "E",
+          "text": "Hak ehliyetine sahip olup olmadığı",
+          "images": [],
+          "text_ar": "كونه متمتعًا بأهلية الوجوب أو غير متمتع بها"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "عدم إدراك الطفل للخطر الذي تشكله السيارات عند عبوره الشارع يتعلق بأي مما يأتي؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Miras sözleşmesi yapabilmek için kaç yaşını doldurmak gerekir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "18 yaş",
+          "images": [],
+          "text_ar": "18 سنة"
+        },
+        {
+          "letter": "B",
+          "text": "17 yaş",
+          "images": [],
+          "text_ar": "17 سنة"
+        },
+        {
+          "letter": "C",
+          "text": "14 yaş",
+          "images": [],
+          "text_ar": "14 سنة"
+        },
+        {
+          "letter": "D",
+          "text": "15 yaş",
+          "images": [],
+          "text_ar": "15 سنة"
+        },
+        {
+          "letter": "E",
+          "text": "16 yaş",
+          "images": [],
+          "text_ar": "16 سنة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "كم سنة يجب إتمامها لإبرام عقد الميراث؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Akıl hastalığı ile ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir akıl hastalığı olan şizofreninin ilk evrelerinde hasta ayırt etme gücüne sahiptir.",
+          "images": [],
+          "text_ar": "في المراحل الأولى من الفصام، وهو مرض عقلي، يكون المريض متمتعًا بقوة التمييز."
+        },
+        {
+          "letter": "B",
+          "text": "Akıl hastalığı, ayırt etme gücünü tamamen ortadan kaldırıyorsa kişiyi tam ehliyetsiz hale getirir.",
+          "images": [],
+          "text_ar": "إذا أزال المرض العقلي قوة التمييز تمامًا، جعل الشخص عديم الأهلية تمامًا."
+        },
+        {
+          "letter": "C",
+          "text": "Alkolik olan birisi kesin olarak ayırt etme gücünden yoksundur.",
+          "images": [],
+          "text_ar": "الشخص المدمن على الكحول فاقد لقوة التمييز بصفة قاطعة."
+        },
+        {
+          "letter": "D",
+          "text": "Epilepsi ve melankolide hasta nöbet geldiği zamanlarda geçici olarak ayırt etme gücünü kaybeder.",
+          "images": [],
+          "text_ar": "في الصرع والماليخوليا، يفقد المريض قوة التمييز مؤقتًا في أوقات حدوث النوبة."
+        },
+        {
+          "letter": "E",
+          "text": "Bir kişi tibben akıl hastası olsa bile ayırt etme gücüne sahip olabilir.",
+          "images": [],
+          "text_ar": "قد يكون الشخص مريضًا عقليًا طبيًا ومع ذلك متمتعًا بقوة التمييز."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من المعلومات الآتية عن المرض العقلي غير صحيح؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda fiil ehliyetiyle ilgili verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fiil ehliyetine sahip olmak için ayırt etme gücüne sahip olmak gerekir..",
+          "images": [],
+          "text_ar": "لبلوغ أهلية الأداء يجب التمتع بقوة التمييز."
+        },
+        {
+          "letter": "B",
+          "text": "Fiil ehliyeti, fiilin hukuki sonuçlarının kişiye aidiyetini sağlar.",
+          "images": [],
+          "text_ar": "أهلية الأداء تجعل الآثار القانونية للتصرف تنسب إلى الشخص."
+        },
+        {
+          "letter": "C",
+          "text": "Hak ehliyeti bulunan kişi kendiliğinden fiil ehliyetini de kazanmış olur.",
+          "images": [],
+          "text_ar": "من يتمتع بأهلية الوجوب يكتسب أهلية الأداء تلقائيًا."
+        },
+        {
+          "letter": "D",
+          "text": "Fiil ehliyetine sahip olmak için kısıtlı olmamak gerekir.",
+          "images": [],
+          "text_ar": "لبلوغ أهلية الأداء يجب ألا يكون الشخص مقيَّد الأهلية."
+        },
+        {
+          "letter": "E",
+          "text": "Fiil ehliyetine sahip olabilmek için ergin olmak gerekir.",
+          "images": [],
+          "text_ar": "لبلوغ أهلية الأداء يجب أن يكون الشخص بالغًا."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من المعلومات الآتية عن أهلية الأداء غير صحيح؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Sosyal düzen kuralları ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görgü kuralları yeme, içme, giyinme gibi insanın günlük yaşantısında uyması gereken kurallar ile bayram ve tören gibi topluluklarda uyması gereken kurallardan oluşur.",
+          "images": [],
+          "text_ar": "تتكون قواعد الآداب من قواعد يجب على الإنسان مراعاتها في حياته اليومية كالأكل والشرب واللباس، وقواعد يجب مراعاتها في التجمعات كالأعياد والاحتفالات."
+        },
+        {
+          "letter": "B",
+          "text": "Örf adet kuralları, toplumda ortaya çıkış zamanı bilinmeyecek kadar eski olup tekrarlana gelen ve bu sebeple toplumun bu kurallara uymayı zorunluluk olarak kabul ettiği kurallar şeklinde tanımlanabilir.",
+          "images": [],
+          "text_ar": "يمكن تعريف قواعد العرف والعادة بأنها قواعد قديمة في المجتمع إلى حد لا يُعرف وقت نشأتها، تكرر العمل بها، ولذلك يعتبر المجتمع الالتزام بها أمرًا واجبًا."
+        },
+        {
+          "letter": "C",
+          "text": "Ahlak kuralları içerisinde yaşanılan toplumda iyi ve kötü şeklinde oluşan değer yargılarına göre yapılması gereken ya da yapılmaması gereken davranışlara yönelik kurallar bütünüdür.",
+          "images": [],
+          "text_ar": "القواعد الأخلاقية مجموعة من القواعد المتعلقة بالسلوكيات التي ينبغي أو لا ينبغي القيام بها وفق أحكام القيمة التي تتشكل في المجتمع على صورة خير وشر."
+        },
+        {
+          "letter": "D",
+          "text": "Hukuk kurallan diğer sosyal düzen kurallan gibi içerisinde yaşanılan toplumda düzeni sağlamaya yönelik olan kurallardır. Bu kuralların en önemli Ozelligi maddi müeyyideye bağlı olmasıdır.",
+          "images": [],
+          "text_ar": "القواعد القانونية، شأنها شأن غيرها من قواعد النظام الاجتماعي، قواعد تهدف إلى تحقيق النظام في المجتمع الذي يعيش فيه الإنسان. وأهم خصائصها أنها مرتبطة بجزاء مادي."
+        },
+        {
+          "letter": "E",
+          "text": "Din kuralları İlahi iradeye dayanan kurallardır. Bu kurallara uyulmamasının maddi bir müeyyidesi olmadığı için sosyal düzen kuralları içerisinde en kolay değişeni din kurallarıdır.",
+          "images": [],
+          "text_ar": "القواعد الدينية قواعد تستند إلى الإرادة الإلهية. ولأن عدم الالتزام بها لا يترتب عليه جزاء مادي، فإن القواعد الدينية هي أيسر قواعد النظام الاجتماعي تغييرًا."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يأتي غير صحيح بشأن قواعد النظام الاجتماعي؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "TMK m.118: Nişanlanma evlenme vaadiyle olur. Yukarıda verilen kanun maddesi ile ilgili olarak hangisi söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanımlayıcı hukuk kuralıdır.",
+          "images": [],
+          "text_ar": "قاعدة قانونية تعريفية."
+        },
+        {
+          "letter": "B",
+          "text": "Emredici hukuk kuralıdır.",
+          "images": [],
+          "text_ar": "قاعدة قانونية آمرة."
+        },
+        {
+          "letter": "C",
+          "text": "Yorumlayıcı hukuk kuralıdır.",
+          "images": [],
+          "text_ar": "قاعدة قانونية تفسيرية."
+        },
+        {
+          "letter": "D",
+          "text": "Tamamlayıcı hukuk kuralıdır.",
+          "images": [],
+          "text_ar": "قاعدة قانونية مكملة."
+        },
+        {
+          "letter": "E",
+          "text": "Hukuk kuralı değil, örf ve adet kuralıdır.",
+          "images": [],
+          "text_ar": "ليست قاعدة قانونية، بل قاعدة عرف وعادة."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "المادة 118 من القانون المدني التركي: الخطبة تتم بوعد بالزواج. أي مما يأتي يمكن قوله بشأن نص القانون المذكور أعلاه؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Tanıma ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanıma işleminin yapılabilmesi için tanınacak çocuğun hayatta olması gerekir.",
+          "images": [],
+          "text_ar": "لكي يتم الإقرار، يجب أن يكون الطفل المُقَرّ به على قيد الحياة."
+        },
+        {
+          "letter": "B",
+          "text": "Tanıma sonucunda çocuk, geçmişe etkili olarak doğum anından itibaren babaya bağlanır.",
+          "images": [],
+          "text_ar": "بالإقرار، يُلحق الطفل بالأب بأثر رجعي من لحظة الولادة."
+        },
+        {
+          "letter": "C",
+          "text": "Annesi belli olmayan çocuklar tanınamaz.",
+          "images": [],
+          "text_ar": "لا يمكن الإقرار بالأطفال المجهولة أمهم."
+        },
+        {
+          "letter": "D",
+          "text": "Tanima, sadece baba tarafından gerçekleştirilen tek taraflı bir işlemdir.",
+          "images": [],
+          "text_ar": "الإقرار تصرف أحادي الجانب يقوم به الأب وحده."
+        },
+        {
+          "letter": "E",
+          "text": "Tanıma işlemi bir süreye bağlı değildir. Yıllar sonra bile yapılabilir.",
+          "images": [],
+          "text_ar": "الإقرار لا يتقيد بمدة. ويمكن إجراؤه حتى بعد مرور سنوات."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يأتي غير صحيح بشأن الإقرار؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Nişanlanma ehliyeti için aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tam ehliyetsiz çocuklar sadece kanuni temsilcileri tarafından nişanlanabilirler.",
+          "images": [],
+          "text_ar": "لا يمكن خطبة الأطفال عديمي الأهلية تمامًا إلا بواسطة ممثليهم القانونيين."
+        },
+        {
+          "letter": "B",
+          "text": "Evliliğe atılan ilk adım olan nişanlanmayı yapabilmek için ergin olmak gerekir.",
+          "images": [],
+          "text_ar": "لإجراء الخطبة، وهي الخطوة الأولى نحو الزواج، يجب أن يكون الشخص بالغًا."
+        },
+        {
+          "letter": "C",
+          "text": "Tüm çocuklar hiçbir şekilde nişanlanma işlemini yapamazlar.",
+          "images": [],
+          "text_ar": "لا يستطيع جميع الأطفال إجراء الخطبة بأي حال."
+        },
+        {
+          "letter": "D",
+          "text": "Tam ehliyetsiz çocuklar hiçbir şekilde nişanlanamazlar.",
+          "images": [],
+          "text_ar": "لا يمكن للأطفال عديمي الأهلية تمامًا أن يخطبوا بأي حال."
+        },
+        {
+          "letter": "E",
+          "text": "Tam ehliyetsiz çocuklar sadece kanuni temsilcilerinin onayı ile nişanlanabilirler.",
+          "images": [],
+          "text_ar": "لا يمكن للأطفال عديمي الأهلية تمامًا أن يخطبوا إلا بموافقة ممثليهم القانونيين."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يأتي صحيح بشأن أهلية الخطبة؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "I. Akla uygun davranmak kanunda tanımlanan şartlara uygun davranmak sureti ile gerçekleşir. II. Akla uygun davranmamanın ilk sebebi hem biyolojik hem de tabii bir sebep olan yaş küçüklüğüdür. III. Akla uygun davranmak, yapılan davranışın sebep ve sonuçlarını doğru olarak kavrayarak buna uygun davranmayı ifade eder. Yukarıda verilen bilgilerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. يكون التصرف وفق العقل بالتصرف وفق الشروط المحددة في القانون. II. السبب الأول لعدم التصرف وفق العقل هو صغر السن، وهو سبب بيولوجي وطبيعي في الوقت نفسه. III. التصرف وفق العقل يعني إدراك أسباب السلوك ونتائجه إدراكًا صحيحًا والتصرف على هذا الأساس. أي من العبارات المذكورة أعلاه صحيحة، واحدة كانت أو أكثر؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kamu hukuku alanında yer alır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Miras hukuku",
+          "images": [],
+          "text_ar": "قانون الميراث"
+        },
+        {
+          "letter": "B",
+          "text": "Aile hukuku",
+          "images": [],
+          "text_ar": "قانون الأسرة"
+        },
+        {
+          "letter": "C",
+          "text": "Eşya hukuku",
+          "images": [],
+          "text_ar": "قانون الأموال"
+        },
+        {
+          "letter": "D",
+          "text": "Borçlar hukuku",
+          "images": [],
+          "text_ar": "قانون الالتزامات"
+        },
+        {
+          "letter": "E",
+          "text": "Ceza hukuku",
+          "images": [],
+          "text_ar": "قانون العقوبات"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يأتي يندرج في مجال القانون العام؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi nişanlanmanın geçersiz olması sonucunu doğurmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Taraflardan birisinin evli olması",
+          "images": [],
+          "text_ar": "أن يكون أحد الطرفين متزوجًا"
+        },
+        {
+          "letter": "B",
+          "text": "Taraflar arasında evlenmeye engel olacak derecede hısımlık ilişkisinin bulunması",
+          "images": [],
+          "text_ar": "وجود علاقة قرابة بين الطرفين تبلغ حدًّا يمنع الزواج"
+        },
+        {
+          "letter": "C",
+          "text": "Tarafların birisinde evlenmeye engel olacak bir akıl hastalığının bulunması",
+          "images": [],
+          "text_ar": "وجود مرض عقلي يمنع الزواج في أحد الطرفين"
+        },
+        {
+          "letter": "D",
+          "text": "Kadının evliliğin sona ermesinden sonraki bekleme süresi (iddet müddeti) içerisinde iken nişanlanması",
+          "images": [],
+          "text_ar": "خطبة المرأة في أثناء مدة العدة بعد انتهاء زواجها"
+        },
+        {
+          "letter": "E",
+          "text": "Taraflar arasında evlatlık ilişkisinin bulunması",
+          "images": [],
+          "text_ar": "وجود علاقة تبني بين الطرفين"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يأتي لا يترتب عليه بطلان الخطبة؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "a03783ae7efa8ab082c6ee014fbba3eca3b425a66e21bbd2aea16d90e8cd9122"
+}

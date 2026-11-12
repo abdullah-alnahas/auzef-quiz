@@ -1,0 +1,789 @@
+{
+  "course": "Anatomi",
+  "course_slug": "anatomi",
+  "exam": "2023-2024 Final Soruları",
+  "exam_slug": "final-2023-2024",
+  "page_title": "Anatomi 2023-2024 Final Soruları",
+  "source_url": "https://lolonolo.com/2024/01/07/anatomi-2023-2024-final-sorulari/",
+  "scraped_at": "2026-11-12T02:21:32+03:00",
+  "answer_source": "markup",
+  "question_count": 18,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Erkeklerde hem genital hem de üriner fonksiyonu olan organ aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mesane",
+          "images": [],
+          "text_ar": "المثانة"
+        },
+        {
+          "letter": "B",
+          "text": "Prostat",
+          "images": [],
+          "text_ar": "البروستاتا"
+        },
+        {
+          "letter": "C",
+          "text": "Urethra",
+          "images": [],
+          "text_ar": "الإحليل"
+        },
+        {
+          "letter": "D",
+          "text": "Testis",
+          "images": [],
+          "text_ar": "الخصية"
+        },
+        {
+          "letter": "E",
+          "text": "Ureter",
+          "images": [],
+          "text_ar": "الحالب"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الأعضاء التالية له وظيفة تناسلية وبولية معًا عند الذكور؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Böbreklerde oluşan idrarı mesaneye taşıyan borucuklara verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mesane",
+          "images": [],
+          "text_ar": "المثانة"
+        },
+        {
+          "letter": "B",
+          "text": "Urethra",
+          "images": [],
+          "text_ar": "الإحليل"
+        },
+        {
+          "letter": "C",
+          "text": "Ductus deferens",
+          "images": [],
+          "text_ar": "القناة المنوية"
+        },
+        {
+          "letter": "D",
+          "text": "Ureter",
+          "images": [],
+          "text_ar": "الحالب"
+        },
+        {
+          "letter": "E",
+          "text": "Pelvis renalis",
+          "images": [],
+          "text_ar": "حوض الكلية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما اسم الأنابيب التي تنقل البول المتكون في الكليتين إلى المثانة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Vücudun tam orta hattında anlamına gelen ifade aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Lateralis",
+          "images": [],
+          "text_ar": "الوحشي"
+        },
+        {
+          "letter": "B",
+          "text": "Inferio",
+          "images": [],
+          "text_ar": "السفلي"
+        },
+        {
+          "letter": "C",
+          "text": "Medialis",
+          "images": [],
+          "text_ar": "الإنسي"
+        },
+        {
+          "letter": "D",
+          "text": "Anterior",
+          "images": [],
+          "text_ar": "الأمامي"
+        },
+        {
+          "letter": "E",
+          "text": "Medianus",
+          "images": [],
+          "text_ar": "الناصف"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي العبارات التالية تعني «في خط منتصف الجسم تمامًا»؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Kalbi besleyen damarlara verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Diploik damarlar",
+          "images": [],
+          "text_ar": "الأوعية الدبلوية"
+        },
+        {
+          "letter": "B",
+          "text": "Lenfatik",
+          "images": [],
+          "text_ar": "الأوعية اللمفية"
+        },
+        {
+          "letter": "C",
+          "text": "Venül",
+          "images": [],
+          "text_ar": "الوريد الصغير"
+        },
+        {
+          "letter": "D",
+          "text": "Koroner damarlar",
+          "images": [],
+          "text_ar": "الأوعية التاجية"
+        },
+        {
+          "letter": "E",
+          "text": "Lacteal",
+          "images": [],
+          "text_ar": "الأوعية اللبنية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما اسم الأوعية التي تغذي القلب؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Akciğerleri örten zara ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Periton",
+          "images": [],
+          "text_ar": "البريتوان"
+        },
+        {
+          "letter": "B",
+          "text": "Periosteum",
+          "images": [],
+          "text_ar": "السمحاق"
+        },
+        {
+          "letter": "C",
+          "text": "Pia mater",
+          "images": [],
+          "text_ar": "الأم الرقيقة"
+        },
+        {
+          "letter": "D",
+          "text": "Plevra",
+          "images": [],
+          "text_ar": "الجنبة"
+        },
+        {
+          "letter": "E",
+          "text": "Perikard",
+          "images": [],
+          "text_ar": "التامور"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما اسم الغشاء الذي يغطي الرئتين؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Sindirim ve solunum sisteminin ortak kesiştiği bölge aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yutak",
+          "images": [],
+          "text_ar": "البلعوم"
+        },
+        {
+          "letter": "B",
+          "text": "Gırtlak",
+          "images": [],
+          "text_ar": "الحنجرة"
+        },
+        {
+          "letter": "C",
+          "text": "Burun",
+          "images": [],
+          "text_ar": "الأنف"
+        },
+        {
+          "letter": "D",
+          "text": "Ağız",
+          "images": [],
+          "text_ar": "الفم"
+        },
+        {
+          "letter": "E",
+          "text": "Yemek borusu",
+          "images": [],
+          "text_ar": "المريء"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي المناطق التالية هي المنطقة المشتركة بين الجهاز الهضمي والجهاز التنفسي؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Somatik duyuların beyinde (korteks) en son gittiği alan (primer duysal alan) hangi lobdadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Parietal lob",
+          "images": [],
+          "text_ar": "الفص الجداري"
+        },
+        {
+          "letter": "B",
+          "text": "Occipitotemporal lob",
+          "images": [],
+          "text_ar": "الفص القذالي الصدغي"
+        },
+        {
+          "letter": "C",
+          "text": "Temporal lob",
+          "images": [],
+          "text_ar": "الفص الصدغي"
+        },
+        {
+          "letter": "D",
+          "text": "Frontal lob",
+          "images": [],
+          "text_ar": "الفص الجبهي"
+        },
+        {
+          "letter": "E",
+          "text": "Occipital lob",
+          "images": [],
+          "text_ar": "الفص القذالي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في أي فص يقع المكان الأخير الذي تصل إليه الحواس الجسدية في الدماغ (القشرة)، أي المنطقة الحسية الأولية؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Kişi heyecanlandığında, ani duygular yaşadığında ya da egzersiz esnasında devrede olan otonom sinir sistemi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Parasempatik sinir sistemi",
+          "images": [],
+          "text_ar": "الجهاز العصبي نظير الودي"
+        },
+        {
+          "letter": "B",
+          "text": "Vagal aktivite",
+          "images": [],
+          "text_ar": "النشاط المبهمي"
+        },
+        {
+          "letter": "C",
+          "text": "Mindfulness",
+          "images": [],
+          "text_ar": "اليقظة الذهنية"
+        },
+        {
+          "letter": "D",
+          "text": "Limbik sistem",
+          "images": [],
+          "text_ar": "الجهاز الحوفي"
+        },
+        {
+          "letter": "E",
+          "text": "Sempatik sinir sistemi",
+          "images": [],
+          "text_ar": "الجهاز العصبي الودي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي أقسام الجهاز العصبي اللاإرادي يكون نشطًا عندما يتحمس الشخص أو يعيش انفعالات مفاجئة أو أثناء التمرين؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki kranyal sinirlerden hangisi koku duyusu ile ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "N. vestibulocochlearis (VIII. kranyal sinir)",
+          "images": [],
+          "text_ar": "العصب الدهليزي القوقعي (العصب القحفي VIII)"
+        },
+        {
+          "letter": "B",
+          "text": "N. oculomotorius (III. kranyal sinir)",
+          "images": [],
+          "text_ar": "العصب المحرك للعين (العصب القحفي III)"
+        },
+        {
+          "letter": "C",
+          "text": "N. fascialis (VII. kranyal sinir)",
+          "images": [],
+          "text_ar": "العصب الوجهي (العصب القحفي VII)"
+        },
+        {
+          "letter": "D",
+          "text": "N. olfactorius (I. kranyal sinir)",
+          "images": [],
+          "text_ar": "العصب الشمي (العصب القحفي I)"
+        },
+        {
+          "letter": "E",
+          "text": "N. trigeminus (V. kranyal sinir)",
+          "images": [],
+          "text_ar": "العصب الثلاثي التوائم (العصب القحفي V)"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الأعصاب القحفية التالية يتعلق بحاسة الشم؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Omurilik’de (medulla spinalis) boyun bölgesinde kaç çift spinal sinir bulunmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "9",
+          "images": [],
+          "text_ar": "9 أزواج"
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "images": [],
+          "text_ar": "5 أزواج"
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "images": [],
+          "text_ar": "7 أزواج"
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "images": [],
+          "text_ar": "6 أزواج"
+        },
+        {
+          "letter": "E",
+          "text": "8",
+          "images": [],
+          "text_ar": "8 أزواج"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "كم زوجًا من الأعصاب الشوكية يوجد في المنطقة العنقية من النخاع الشوكي؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Denge ve motor hareketlerin koordinasyonu ile ilgili merkezi sinir sistemi yapısı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cerebellum (beyincik)",
+          "images": [],
+          "text_ar": "المخيخ"
+        },
+        {
+          "letter": "B",
+          "text": "Temporal lob (korteks)",
+          "images": [],
+          "text_ar": "الفص الصدغي (القشرة)"
+        },
+        {
+          "letter": "C",
+          "text": "Frontal lob (korteks)",
+          "images": [],
+          "text_ar": "الفص الجبهي (القشرة)"
+        },
+        {
+          "letter": "D",
+          "text": "Bulbus (beyin sapı)",
+          "images": [],
+          "text_ar": "البصلة (جذع الدماغ)"
+        },
+        {
+          "letter": "E",
+          "text": "Talamus",
+          "images": [],
+          "text_ar": "المهاد"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي بنى الجهاز العصبي المركزي تتعلق بالتوازن وتنسيق الحركات الحركية؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Döllenme tuba uterina’nın hangi bölümünde en sık gerçekleşir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fimbria tuba uterina",
+          "images": [],
+          "text_ar": "خملات قناة الرحم"
+        },
+        {
+          "letter": "B",
+          "text": "Ampulla",
+          "images": [],
+          "text_ar": "الأمبولة"
+        },
+        {
+          "letter": "C",
+          "text": "Isthmus",
+          "images": [],
+          "text_ar": "البرزخ"
+        },
+        {
+          "letter": "D",
+          "text": "Infundibulum",
+          "images": [],
+          "text_ar": "القمع"
+        },
+        {
+          "letter": "E",
+          "text": "Pars uterina",
+          "images": [],
+          "text_ar": "الجزء الرحمي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "في أي جزء من قناة الرحم يحدث الإخصاب في أغلب الأحيان؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi paranasal sinüs değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sinus frontalis",
+          "images": [],
+          "text_ar": "الجيب الجبهي"
+        },
+        {
+          "letter": "B",
+          "text": "Sinus cavernosus",
+          "images": [],
+          "text_ar": "الجيب الكهفي"
+        },
+        {
+          "letter": "C",
+          "text": "Sinus ethmoidalis",
+          "images": [],
+          "text_ar": "الجيب الغربالي"
+        },
+        {
+          "letter": "D",
+          "text": "Sinus maxillaris",
+          "images": [],
+          "text_ar": "الجيب الفكي العلوي"
+        },
+        {
+          "letter": "E",
+          "text": "Sinus sphenoidalis",
+          "images": [],
+          "text_ar": "الجيب الوتدي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس جيبًا من الجيوب الأنفية المجاورة للأنف؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Kol kemiğinin (humerus) eklem yaptığı tüm kemik ya da kemikler aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Radius ve ulna",
+          "images": [],
+          "text_ar": "الكعبرة والزند"
+        },
+        {
+          "letter": "B",
+          "text": "Ulna",
+          "images": [],
+          "text_ar": "الزند"
+        },
+        {
+          "letter": "C",
+          "text": "Scapula, radius ve ulna",
+          "images": [],
+          "text_ar": "لوح الكتف والكعبرة والزند"
+        },
+        {
+          "letter": "D",
+          "text": "Scapula",
+          "images": [],
+          "text_ar": "لوح الكتف"
+        },
+        {
+          "letter": "E",
+          "text": "Radius",
+          "images": [],
+          "text_ar": "الكعبرة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي يمثل جميع العظام التي يتصل بها عظم العضد (humerus) بالمفصل؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Diz eklemi yapısına katılan kemikleri tam olarak veren seçenek aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Femur, tibia ve patella",
+          "images": [],
+          "text_ar": "الفخذ والساق والرضفة"
+        },
+        {
+          "letter": "B",
+          "text": "Os coxae ve femur",
+          "images": [],
+          "text_ar": "عظم الورك والفخذ"
+        },
+        {
+          "letter": "C",
+          "text": "Femur ve tibia",
+          "images": [],
+          "text_ar": "الفخذ والساق"
+        },
+        {
+          "letter": "D",
+          "text": "Femur, tibia ve fibula",
+          "images": [],
+          "text_ar": "الفخذ والساق والشظية"
+        },
+        {
+          "letter": "E",
+          "text": "Tibia ve fibula",
+          "images": [],
+          "text_ar": "الساق والشظية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي الخيارات التالية يذكر بدقة العظام المشاركة في بنية مفصل الركبة؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Solunum ve dolaşım merkezi, merkezî sinir sisteminin hangi parçasında bulunmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hipofiz bezi",
+          "images": [],
+          "text_ar": "الغدة النخامية"
+        },
+        {
+          "letter": "B",
+          "text": "Beyin sapı",
+          "images": [],
+          "text_ar": "جذع الدماغ"
+        },
+        {
+          "letter": "C",
+          "text": "Cerebellum (beyincik)",
+          "images": [],
+          "text_ar": "المخيخ"
+        },
+        {
+          "letter": "D",
+          "text": "Talamus",
+          "images": [],
+          "text_ar": "المهاد"
+        },
+        {
+          "letter": "E",
+          "text": "Hipotalamus",
+          "images": [],
+          "text_ar": "الوطاء"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "في أي جزء من الجهاز العصبي المركزي يقع مركز التنفس والدورة الدموية؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Kalpte sol kulakçık (atrium) ile sol karıncık (ventrikül) arasında yer alan kapak aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Pulmoner kapak",
+          "images": [],
+          "text_ar": "الصمام الرئوي"
+        },
+        {
+          "letter": "B",
+          "text": "Semilunar kapak",
+          "images": [],
+          "text_ar": "الصمام الهلالي"
+        },
+        {
+          "letter": "C",
+          "text": "Triküspit kapak",
+          "images": [],
+          "text_ar": "الصمام ثلاثي الشرف"
+        },
+        {
+          "letter": "D",
+          "text": "Aort kapağı",
+          "images": [],
+          "text_ar": "الصمام الأبهري"
+        },
+        {
+          "letter": "E",
+          "text": "Mitral kapak",
+          "images": [],
+          "text_ar": "الصمام التاجي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي الصمامات التالية يقع بين الأذين الأيسر والبطين الأيسر في القلب؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi el bileğinde bulunan ve nabız alınabilen bir damardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Arteria dorsalis pedis",
+          "images": [],
+          "text_ar": "شريان ظهر القدم"
+        },
+        {
+          "letter": "B",
+          "text": "Arteria carotis communis (şah damarı)",
+          "images": [],
+          "text_ar": "الشريان السباتي المشترك"
+        },
+        {
+          "letter": "C",
+          "text": "Radial arter",
+          "images": [],
+          "text_ar": "الشريان الكعبري"
+        },
+        {
+          "letter": "D",
+          "text": "Aksiller arter",
+          "images": [],
+          "text_ar": "الشريان الإبطي"
+        },
+        {
+          "letter": "E",
+          "text": "Femoral arter",
+          "images": [],
+          "text_ar": "الشريان الفخذي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الأوعية التالية يوجد في الرسغ ويمكن أخذ النبض منه؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "omitted_questions": [
+    {
+      "n": 5,
+      "reason": "option_letters",
+      "stem": "Aşağıdaki karın içi organlardan hangisi diaphragma’nın hemen altında sağ tarafta yer almaktadır?"
+    },
+    {
+      "n": 16,
+      "reason": "choice_count",
+      "stem": "Yere paralel olarak geçen ve vücudu üst ve alt olmak üzere 2 parçaya ayıran düzleme ne ad verilir?"
+    }
+  ],
+  "content_hash": "dca4e7a33c4ceb39a4e9200aa1992364de0ad1b2474d011b44f5a088e69f425c"
+}
