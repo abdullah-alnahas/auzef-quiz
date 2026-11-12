@@ -19,7 +19,7 @@ import {
   select,
   type SessionState,
 } from "../engine.ts";
-import { scopeGroupKey, t } from "../i18n.ts";
+import { backArrow, scopeGroupKey, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   deleteSession,
@@ -243,7 +243,7 @@ export function Quiz({
           onClick={() => navigate(`/course/${exam.courseId}`)}
           aria-label={t(prefs.lang, "back")}
         >
-          {prefs.lang === "ar" ? "→" : "←"}
+          {backArrow(prefs.lang)}
         </button>
         <div class="quiz-title">
           <h1 class="quiz-title-main">

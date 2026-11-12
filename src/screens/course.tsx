@@ -6,7 +6,7 @@ import {
   scopeCode,
 } from "../combine.ts";
 import { Dialog } from "../components.tsx";
-import { scopeGroupKey, t } from "../i18n.ts";
+import { backArrow, scopeGroupKey, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   courseStatus,
@@ -97,7 +97,7 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
   return (
     <div class="stack">
       <button type="button" class="ghost back" onClick={() => navigate("/")}>
-        ← {t(prefs.lang, "back")}
+        {backArrow(prefs.lang)} {t(prefs.lang, "back")}
       </button>
       <h1><bdi lang="tr">{course.course}</bdi></h1>
       <div class="row-actions">

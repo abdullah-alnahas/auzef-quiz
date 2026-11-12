@@ -224,6 +224,11 @@ export function dirOf(lang: Lang): "rtl" | "ltr" {
   return lang === "ar" ? "rtl" : "ltr";
 }
 
+/** "Back" points at the reading start, so the arrow mirrors in RTL. */
+export function backArrow(lang: Lang): string {
+  return lang === "ar" ? "→" : "←";
+}
+
 export function scopeGroupKey(group: ScopeGroup): Key {
   if (group === "vize") return "scopeVize";
   if (group === "vize-deneme") return "scopeVizeDeneme";

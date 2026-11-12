@@ -3,7 +3,7 @@ import { Badge, RichTextView } from "../components.tsx";
 import { parseScope, scopeCode } from "../combine.ts";
 import { loadCombinedExam, loadExam } from "../data.ts";
 import { percent, score } from "../engine.ts";
-import { scopeGroupKey, t } from "../i18n.ts";
+import { backArrow, scopeGroupKey, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   deleteSession,
@@ -81,7 +81,7 @@ export function Results({
         class="ghost back"
         onClick={() => navigate(`/course/${exam.courseId}`)}
       >
-        ← {t(prefs.lang, "back")}
+        {backArrow(prefs.lang)} {t(prefs.lang, "back")}
       </button>
       <h1>{t(prefs.lang, "results")}</h1>
       <p class="muted">
