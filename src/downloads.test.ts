@@ -26,6 +26,7 @@ const summary: ExamSummary = {
   courseId: "c",
   course: "C",
   exam: "E",
+  type: "final",
   questionCount: 1,
   contentHash: "hash-1",
   reviewFlags: 0,

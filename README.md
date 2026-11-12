@@ -82,16 +82,21 @@ score.
   progress, theme and reset controls.
 - **Course** – exams grouped by term, question counts, download state
   (`none/partial/complete/update`), Practice/Exam entry points, download exam or
-  whole course, remove downloaded content.
+  whole course, remove downloaded content, and a **test-all** panel: Vize,
+  Final (+ Bütünleme) or Vize + Final across the whole course in one session.
 - **Quiz** – Turkish (LTR) and Arabic (RTL) blocks; Arabic visibility is a
   preference independent of UI language; long text, `<br>`, images, tables;
   4–5 choices with letter/TR/AR; bookmark, navigator, progress, review badge.
-  Practice locks a question after the first answer and shows the correct choice;
-  Exam records answers silently, allows changes, and only reveals correctness
-  after submit.
+  The practice navigator colours each question correct / wrong / unanswered
+  (with ✓/✗/– and a legend, never colour alone); exam mode shows only
+  answered/unanswered so the key cannot leak. Practice locks a question after
+  the first answer and shows the correct choice; Exam records answers silently,
+  allows changes, and only reveals correctness after submit.
 - **Results** – correct/incorrect/unanswered/unknown counts, score over known
   keys only, filters (all/incorrect/unanswered/bookmarked), retry (previous
-  attempts kept).
+  attempts kept). Every question expands to its full choice list, with the
+  chosen and correct options marked and the source exam shown for combined
+  sets.
 
 ## Offline
 
@@ -119,8 +124,8 @@ score.
 
 ## Measured budgets
 
-- Initial JS: 45.40 kB raw / **15.88 kB gzip** (budget 60 kB gzip).
-- CSS: 2.54 kB gzip.
+- Initial JS: 51.73 kB raw / **17.66 kB gzip** (budget 60 kB gzip).
+- CSS: 2.77 kB gzip.
 - Lighthouse 13 (mobile, local preview): Performance **100**, Accessibility
   **100**, LCP **1.3 s**, TBT 10 ms, CLS 0.
 - Playwright budget test also asserts JS transfer < 60 kB and LCP < 2.5 s.

@@ -1,3 +1,5 @@
+import type { Scope } from "./types.ts";
+
 export type Lang = "ar" | "tr";
 
 const ar = {
@@ -84,6 +86,15 @@ const ar = {
   start: "ابدأ",
   continue: "متابعة",
   answeredCount: "{a} من {n}",
+  testAll: "اختبار شامل",
+  testAllHint: "كل أسئلة هذا النطاق في جلسة واحدة.",
+  scopeVize: "النصفي",
+  scopeFinal: "النهائي + التكميلي",
+  scopeAll: "النصفي + النهائي",
+  missingExams: "بعض الامتحانات غير متاحة: {names}. نزّلها أو اتصل بالإنترنت ثم أعد المحاولة.",
+  emptyScope: "لا توجد امتحانات في هذا النطاق.",
+  yourAnswer: "إجابتك",
+  correctAnswer: "الإجابة الصحيحة",
 };
 
 export type Key = keyof typeof ar;
@@ -172,6 +183,15 @@ const tr: Record<Key, string> = {
   start: "Başla",
   continue: "Devam",
   answeredCount: "{n} sorudan {a}",
+  testAll: "Tümüyle test",
+  testAllHint: "Bu kapsamdaki tüm sorular tek oturumda.",
+  scopeVize: "Vize",
+  scopeFinal: "Final + Bütünleme",
+  scopeAll: "Vize + Final",
+  missingExams: "Bazı sınavlar yok: {names}. İndirip ya da çevrimiçi olup yeniden deneyin.",
+  emptyScope: "Bu kapsamda sınav yok.",
+  yourAnswer: "Yanıtınız",
+  correctAnswer: "Doğru cevap",
 };
 
 const catalogs: Record<Lang, Record<Key, string>> = { ar, tr };
@@ -186,4 +206,10 @@ export function t(lang: Lang, key: Key, vars?: Record<string, string | number>):
 
 export function dirOf(lang: Lang): "rtl" | "ltr" {
   return lang === "ar" ? "rtl" : "ltr";
+}
+
+export function scopeKey(scope: Scope): Key {
+  if (scope === "vize") return "scopeVize";
+  if (scope === "final") return "scopeFinal";
+  return "scopeAll";
 }

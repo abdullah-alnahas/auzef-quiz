@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useState } from "preact/hooks";
+import { isScope } from "./combine.ts";
 import { loadManifest } from "./data.ts";
 import { t, dirOf } from "./i18n.ts";
 import { navigate, type ScreenProps } from "./props.ts";
@@ -109,11 +110,19 @@ export function App() {
             mode={route[2] === "exam" ? "exam" : "practice"}
           />
         )}
+        {props && route[0] === "combined" && isScope(route[2] ?? "") && (
+          <Quiz
+            {...props}
+            courseId={route[1] ?? ""}
+            scope={route[2] as "vize" | "final" | "all"}
+            mode={route[3] === "exam" ? "exam" : "practice"}
+          />
+        )}
         {props && route[0] === "results" && (
           <Results {...props} attemptId={Number(route[1])} />
         )}
         {props && route.length === 0 && <Home {...props} />}
-        {props && !["course", "quiz", "results"].includes(route[0]) && route.length > 0 && (
+        {props && !["course", "quiz", "combined", "results"].includes(route[0]) && route.length > 0 && (
           <p class="notice">{t(prefs.lang, "error")}</p>
         )}
       </main>

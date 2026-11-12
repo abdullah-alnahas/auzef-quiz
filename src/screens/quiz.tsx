@@ -1,8 +1,15 @@
 import { useEffect, useMemo, useState } from "preact/hooks";
 import { Badge, Dialog, RichTextView, TableView } from "../components.tsx";
-import { loadExam, OfflineError } from "../data.ts";
+import {
+  EmptyScopeError,
+  loadCombinedExam,
+  loadExam,
+  MissingExamsError,
+  OfflineError,
+} from "../data.ts";
 import {
   changedQuestions,
+  correctness,
   goTo,
   isLocked,
   isRevealed,
@@ -11,7 +18,7 @@ import {
   select,
   type SessionState,
 } from "../engine.ts";
-import { t } from "../i18n.ts";
+import { scopeKey, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   deleteSession,
@@ -22,20 +29,35 @@ import {
   sessionKey,
   setBookmark,
 } from "../storage.ts";
-import type { Exam, Mode } from "../types.ts";
+import type { Exam, Mode, Question, Scope } from "../types.ts";
+
+type Failure =
+  | { kind: "offline" }
+  | { kind: "missing"; missing: string[] }
+  | { kind: "empty" };
+
+type QuizProps = ScreenProps & {
+  mode: Mode;
+  examId?: string;
+  courseId?: string;
+  scope?: Scope;
+};
 
 export function Quiz({
   examId,
+  courseId,
+  scope,
   mode,
   prefs,
   updatePref,
   navigate,
-}: ScreenProps & { examId: string; mode: Mode }) {
+  manifest,
+}: QuizProps) {
   const [exam, setExam] = useState<Exam | null>(null);
   const [session, setSession] = useState<SessionState | null>(null);
   const [bookmarks, setBookmarks] = useState<Set<number>>(new Set());
   const [changed, setChanged] = useState<Set<string>>(new Set());
-  const [failed, setFailed] = useState(false);
+  const [failure, setFailure] = useState<Failure | null>(null);
   const [showNavigator, setShowNavigator] = useState(false);
   const [confirmSubmit, setConfirmSubmit] = useState(false);
   const [storageError, setStorageError] = useState(false);
@@ -44,10 +66,23 @@ export function Quiz({
 
   useEffect(() => {
     let alive = true;
-    setFailed(false);
+    setFailure(null);
     void (async () => {
       try {
-        const loaded = await loadExam(examId);
+        let loaded: Exam;
+        if (courseId && scope) {
+          const course = manifest.courses.find((entry) => entry.courseId === courseId);
+          if (!course) {
+            if (alive) setFailure({ kind: "empty" });
+            return;
+          }
+          loaded = await loadCombinedExam(course, scope);
+        } else if (examId) {
+          loaded = await loadExam(examId);
+        } else {
+          if (alive) setFailure({ kind: "empty" });
+          return;
+        }
         if (!alive) return;
         setExam(loaded);
         const key = sessionKey(loaded.examId, mode);
@@ -63,13 +98,22 @@ export function Quiz({
         const marks = await listBookmarks(loaded.examId);
         if (alive) setBookmarks(new Set(marks.map((mark) => mark.number)));
       } catch (error) {
-        if (alive) setFailed(error instanceof OfflineError);
+        if (!alive) return;
+        if (error instanceof MissingExamsError) {
+          setFailure({ kind: "missing", missing: error.missing });
+        } else if (error instanceof EmptyScopeError) {
+          setFailure({ kind: "empty" });
+        } else if (error instanceof OfflineError) {
+          setFailure({ kind: "offline" });
+        } else {
+          setFailure({ kind: "offline" });
+        }
       }
     })();
     return () => {
       alive = false;
     };
-  }, [examId, mode, retryKey]);
+  }, [examId, courseId, scope, mode, retryKey, manifest]);
 
   useEffect(() => {
     if (!exam || !session) return;
@@ -86,13 +130,30 @@ export function Quiz({
     [exam, session],
   );
 
-  if (failed) {
+  if (failure) {
+    const message =
+      failure.kind === "missing"
+        ? t(prefs.lang, "missingExams", {
+            names: failure.missing.join(prefs.lang === "ar" ? "، " : ", "),
+          })
+        : failure.kind === "empty"
+          ? t(prefs.lang, "emptyScope")
+          : t(prefs.lang, "notDownloaded");
     return (
       <div class="stack">
-        <p class="notice notice-bad">{t(prefs.lang, "notDownloaded")}</p>
-        <button type="button" class="primary" onClick={() => setRetryKey((n) => n + 1)}>
-          {t(prefs.lang, "retry")}
-        </button>
+        <p class="notice notice-bad">{message}</p>
+        <div class="row-actions">
+          <button type="button" class="primary" onClick={() => setRetryKey((n) => n + 1)}>
+            {t(prefs.lang, "retry")}
+          </button>
+          <button
+            type="button"
+            class="secondary"
+            onClick={() => navigate(courseId ? `/course/${courseId}` : "/")}
+          >
+            {t(prefs.lang, "back")}
+          </button>
+        </div>
       </div>
     );
   }
@@ -135,6 +196,8 @@ export function Quiz({
         answers: session.answers,
         examHash: exam.contentHash,
         score: result,
+        scope: exam.scope,
+        sourceExamIds: exam.sourceExamIds,
       });
       await deleteSession(sessionKey(exam.examId, session.mode));
       navigate(`/results/${id}`);
@@ -145,6 +208,23 @@ export function Quiz({
   };
 
   const unanswered = exam.questions.filter((q) => !session.answers[q.id]).length;
+  const title = exam.scope ? t(prefs.lang, scopeKey(exam.scope)) : exam.exam;
+
+  const navState = (
+    question: Question,
+  ): "correct" | "wrong" | "unknown" | "answered" | "unanswered" => {
+    const letter = session.answers[question.id];
+    if (!letter) return "unanswered";
+    if (session.mode === "exam") return "answered";
+    const result = correctness(question, letter);
+    if (result === true) return "correct";
+    if (result === false) return "wrong";
+    return "unknown";
+  };
+  const hasUnknownAnswered = exam.questions.some(
+    (question) =>
+      Boolean(session.answers[question.id]) && question.answer === null,
+  );
 
   return (
     <div class="quiz">
@@ -158,7 +238,7 @@ export function Quiz({
           {prefs.lang === "ar" ? "→" : "←"}
         </button>
         <div class="quiz-title">
-          <h1 class="quiz-title-main">{exam.exam}</h1>
+          <h1 class="quiz-title-main">{title}</h1>
           <span class="muted">{exam.course}</span>
         </div>
         <button
@@ -366,8 +446,18 @@ export function Quiz({
           <h2 id="nav-title">{t(prefs.lang, "questionNavigator")}</h2>
           <ul class="navigator">
             {exam.questions.map((question, index) => {
-              const isAnswered = Boolean(session.answers[question.id]);
+              const state = navState(question);
               const isMarked = bookmarks.has(question.number);
+              const label =
+                state === "correct"
+                  ? t(prefs.lang, "correct")
+                  : state === "wrong"
+                    ? t(prefs.lang, "incorrect")
+                    : state === "unknown"
+                      ? t(prefs.lang, "unknownKey")
+                      : state === "answered"
+                        ? t(prefs.lang, "answered")
+                        : t(prefs.lang, "unanswered");
               return (
                 <li key={question.id}>
                   <button
@@ -375,22 +465,49 @@ export function Quiz({
                     class={[
                       "nav-cell",
                       index === session.index ? "current" : "",
-                      isAnswered ? "answered" : "",
+                      state === "answered" ? "answered" : `status-${state}`,
                       isMarked ? "marked" : "",
                     ]
                       .filter(Boolean)
                       .join(" ")}
                     aria-current={index === session.index ? "true" : undefined}
+                    aria-label={`${t(prefs.lang, "question")} ${index + 1}: ${label}`}
                     onClick={() => {
                       setSession(goTo(session, index, total));
                       setShowNavigator(false);
                     }}
                   >
                     {index + 1}
+                    {state === "correct" && (
+                      <span class="nav-mark" aria-hidden="true">✓</span>
+                    )}
+                    {state === "wrong" && (
+                      <span class="nav-mark" aria-hidden="true">✗</span>
+                    )}
+                    {state === "unanswered" && (
+                      <span class="nav-mark" aria-hidden="true">–</span>
+                    )}
                   </button>
                 </li>
               );
             })}
+          </ul>
+          <ul class="nav-legend">
+            {session.mode === "practice" ? (
+              <>
+                <li><i class="swatch swatch-correct" aria-hidden="true" />{t(prefs.lang, "correct")}</li>
+                <li><i class="swatch swatch-wrong" aria-hidden="true" />{t(prefs.lang, "incorrect")}</li>
+                <li><i class="swatch swatch-unanswered" aria-hidden="true" />{t(prefs.lang, "unanswered")}</li>
+                {hasUnknownAnswered && (
+                  <li><i class="swatch swatch-unknown" aria-hidden="true" />{t(prefs.lang, "unknownKey")}</li>
+                )}
+              </>
+            ) : (
+              <>
+                <li><i class="swatch swatch-answered" aria-hidden="true" />{t(prefs.lang, "answered")}</li>
+                <li><i class="swatch swatch-unanswered" aria-hidden="true" />{t(prefs.lang, "unanswered")}</li>
+              </>
+            )}
           </ul>
           <div class="dialog-actions">
             <button type="button" class="ghost" onClick={() => setShowNavigator(false)}>

@@ -1,5 +1,5 @@
 import type { Lang } from "./i18n.ts";
-import type { Mode } from "./types.ts";
+import type { Mode, Scope } from "./types.ts";
 
 export interface Prefs {
   lang: Lang;
@@ -41,6 +41,9 @@ export interface Attempt {
   answers: Record<string, string>;
   examHash: string;
   score: AttemptScore;
+  /** Combined course-level session only. */
+  scope?: Scope;
+  sourceExamIds?: string[];
 }
 
 export class StorageError extends Error {}

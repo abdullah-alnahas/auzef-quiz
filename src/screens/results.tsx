@@ -1,8 +1,8 @@
 import { useEffect, useState } from "preact/hooks";
 import { Badge, RichTextView } from "../components.tsx";
-import { loadExam } from "../data.ts";
+import { loadCombinedExam, loadExam } from "../data.ts";
 import { percent, score } from "../engine.ts";
-import { t } from "../i18n.ts";
+import { scopeKey, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   deleteSession,
@@ -15,7 +15,12 @@ import type { Exam } from "../types.ts";
 
 type Filter = "all" | "incorrect" | "unanswered" | "bookmarked";
 
-export function Results({ attemptId, prefs, navigate }: ScreenProps & { attemptId: number }) {
+export function Results({
+  attemptId,
+  prefs,
+  navigate,
+  manifest,
+}: ScreenProps & { attemptId: number }) {
   const [attempt, setAttempt] = useState<Attempt | null>(null);
   const [exam, setExam] = useState<Exam | null>(null);
   const [bookmarks, setBookmarks] = useState<Set<number>>(new Set());
@@ -31,7 +36,19 @@ export function Results({ attemptId, prefs, navigate }: ScreenProps & { attemptI
       }
       setAttempt(stored);
       try {
-        const loaded = await loadExam(stored.examId);
+        let loaded: Exam;
+        if (stored.scope) {
+          const course = manifest.courses.find(
+            (entry) => entry.courseId === stored.courseId,
+          );
+          if (!course) {
+            setFailed(true);
+            return;
+          }
+          loaded = await loadCombinedExam(course, stored.scope);
+        } else {
+          loaded = await loadExam(stored.examId);
+        }
         setExam(loaded);
       } catch {
         setFailed(true);
@@ -40,7 +57,7 @@ export function Results({ attemptId, prefs, navigate }: ScreenProps & { attemptI
       const marks = await listBookmarks(stored.examId);
       setBookmarks(new Set(marks.map((mark) => mark.number)));
     })();
-  }, [attemptId]);
+  }, [attemptId, manifest]);
 
   if (failed) return <p class="notice">{t(prefs.lang, "error")}</p>;
   if (!attempt || !exam) return <p class="muted">{t(prefs.lang, "loading")}</p>;
@@ -66,7 +83,11 @@ export function Results({ attemptId, prefs, navigate }: ScreenProps & { attemptI
         ← {t(prefs.lang, "back")}
       </button>
       <h1>{t(prefs.lang, "results")}</h1>
-      <p class="muted">{exam.exam}</p>
+      <p class="muted">
+        {exam.scope
+          ? `${exam.course} — ${t(prefs.lang, scopeKey(exam.scope))}`
+          : exam.exam}
+      </p>
 
       <section class="score-card" aria-label={t(prefs.lang, "score")}>
         <div class="score-main">
@@ -121,7 +142,11 @@ export function Results({ attemptId, prefs, navigate }: ScreenProps & { attemptI
         class="primary"
         onClick={() => {
           void deleteSession(sessionKey(exam.examId, attempt.mode)).finally(() =>
-            navigate(`/quiz/${exam.examId}/${attempt.mode}`),
+            navigate(
+              exam.scope
+                ? `/combined/${exam.courseId}/${exam.scope}/${attempt.mode}`
+                : `/quiz/${exam.examId}/${attempt.mode}`,
+            ),
           );
         }}
       >
@@ -148,6 +173,9 @@ export function Results({ attemptId, prefs, navigate }: ScreenProps & { attemptI
                   <Badge tone="warn">{t(prefs.lang, "unanswered")}</Badge>
                 )}
               </div>
+              {question.sourceExam && (
+                <p class="muted small">{question.sourceExam}</p>
+              )}
               <RichTextView
                 className="review-tr"
                 content={question.turkish}
@@ -162,16 +190,46 @@ export function Results({ attemptId, prefs, navigate }: ScreenProps & { attemptI
                   dir="rtl"
                 />
               )}
-              <p class="review-answers">
-                <span>
-                  {t(prefs.lang, "answered")}: {chosen ?? "—"}
-                </span>
-                {correct && (
-                  <span>
-                    {t(prefs.lang, "correct")}: {correct}
-                  </span>
-                )}
-              </p>
+              <ol class="review-choices">
+                {question.choices.map((choice) => {
+                  const isChosen = chosen === choice.letter;
+                  const isCorrect = correct === choice.letter;
+                  const isWrong = isChosen && correct !== null && chosen !== correct;
+                  return (
+                    <li
+                      key={choice.letter}
+                      class={[
+                        "review-choice",
+                        isChosen ? "chosen" : "",
+                        isCorrect ? "correct" : "",
+                        isWrong ? "wrong" : "",
+                      ]
+                        .filter(Boolean)
+                        .join(" ")}
+                    >
+                      <span class="choice-letter">{choice.letter}</span>
+                      <span class="choice-body">
+                        <span class="choice-tr" lang="tr" dir="ltr">
+                          {choice.turkish.text}
+                        </span>
+                        {prefs.showArabic && choice.arabic && (
+                          <span class="choice-ar" lang="ar" dir="rtl">
+                            {choice.arabic.text}
+                          </span>
+                        )}
+                      </span>
+                      {isChosen && (
+                        <span class="review-tag">{t(prefs.lang, "yourAnswer")}</span>
+                      )}
+                      {isCorrect && (
+                        <span class="review-tag review-tag-ok">
+                          {t(prefs.lang, "correctAnswer")}
+                        </span>
+                      )}
+                    </li>
+                  );
+                })}
+              </ol>
             </li>
           );
         })}

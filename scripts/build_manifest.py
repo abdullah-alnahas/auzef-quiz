@@ -27,6 +27,12 @@ def pipeline_index() -> tuple[dict, dict]:
 
 def main() -> None:
     states, totals = pipeline_index()
+    cfg = {}
+    ex_path = ROOT / "config/exams.json"
+    if ex_path.exists():
+        cfg = json.load(open(ex_path, encoding="utf-8"))
+    by_id = {(e["course_slug"], e.get("slug") or e.get("provisional_slug") or ""): e
+             for e in cfg.get("exams", [])}
     manifest = []
     for f in sorted(JSONDIR.glob("*__*.json")):
         d = json.load(open(f, encoding="utf-8"))
@@ -39,6 +45,7 @@ def main() -> None:
             "course_slug": d["course_slug"],
             "exam": d["exam"],
             "exam_slug": d["exam_slug"],
+            "type": by_id.get((d["course_slug"], d["exam_slug"]), {}).get("type", "unknown"),
             "source_url": d["source_url"],
             "file": f"{d['course_slug']}/{d['exam_slug']}.md",
             "question_count": d["question_count"],
@@ -62,9 +69,7 @@ def main() -> None:
 
     # Record everything deliberately left out, so the corpus is auditable.
     skipped = []
-    ex_path = ROOT / "config/exams.json"
-    if ex_path.exists():
-        cfg = json.load(open(ex_path, encoding="utf-8"))
+    if cfg:
         for e in cfg["exams"]:
             if e.get("status") in ("skipped_quality", "duplicate_content",
                                    "parse_error", "fetch_missing"):

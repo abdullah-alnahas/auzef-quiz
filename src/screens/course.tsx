@@ -1,6 +1,7 @@
 import { useEffect, useState } from "preact/hooks";
+import { examsForScope } from "../combine.ts";
 import { Dialog } from "../components.tsx";
-import { t } from "../i18n.ts";
+import { scopeKey, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   courseStatus,
@@ -9,7 +10,9 @@ import {
   type DownloadState,
   type Progress,
 } from "../downloads.ts";
-import type { ExamSummary } from "../types.ts";
+import type { ExamSummary, Scope } from "../types.ts";
+
+const SCOPES: Scope[] = ["vize", "final", "all"];
 
 function periodOf(exam: string): string {
   const match = /^(\d{4}(?:-\d{4})?)/.exec(exam);
@@ -35,6 +38,7 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState(false);
   const [removeTarget, setRemoveTarget] = useState<ExamSummary | null>(null);
+  const [scope, setScope] = useState<Scope>("all");
 
   const refresh = async (): Promise<void> => {
     if (!course) return;
@@ -49,6 +53,9 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
   if (!course) {
     return <p class="notice">{t(prefs.lang, "error")}</p>;
   }
+
+  const scoped = examsForScope(course, scope);
+  const scopedQuestions = scoped.reduce((n, exam) => n + exam.questionCount, 0);
 
   const groups = new Map<string, ExamSummary[]>();
   for (const exam of course.exams) {
@@ -95,6 +102,46 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
         </button>
       </div>
       {error && <p class="notice notice-bad">{t(prefs.lang, "downloadFailed")}</p>}
+
+      <section class="test-all" aria-labelledby="test-all-title">
+        <h2 id="test-all-title">{t(prefs.lang, "testAll")}</h2>
+        <p class="muted small">{t(prefs.lang, "testAllHint")}</p>
+        <div class="scope-tabs" role="group" aria-label={t(prefs.lang, "testAll")}>
+          {SCOPES.map((value) => (
+            <button
+              key={value}
+              type="button"
+              class={scope === value ? "primary" : "secondary"}
+              aria-pressed={scope === value}
+              onClick={() => setScope(value)}
+            >
+              {t(prefs.lang, scopeKey(value))}
+            </button>
+          ))}
+        </div>
+        <p class="muted small">
+          {scoped.length} {t(prefs.lang, "examUnit")} · {scopedQuestions}{" "}
+          {t(prefs.lang, "questionUnit")}
+        </p>
+        <div class="row-actions">
+          <button
+            type="button"
+            class="primary"
+            disabled={scoped.length === 0}
+            onClick={() => navigate(`/combined/${course.courseId}/${scope}/practice`)}
+          >
+            {t(prefs.lang, "practice")}
+          </button>
+          <button
+            type="button"
+            class="secondary"
+            disabled={scoped.length === 0}
+            onClick={() => navigate(`/combined/${course.courseId}/${scope}/exam`)}
+          >
+            {t(prefs.lang, "exam")}
+          </button>
+        </div>
+      </section>
 
       {[...groups.entries()].map(([period, exams]) => (
         <section key={period} class="stack-sm" aria-labelledby={`p-${period}`}>

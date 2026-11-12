@@ -12,7 +12,12 @@ import { existsSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { parseExamMarkdown, ParseError, slugifyId } from "./parser.ts";
-import type { AppManifest, CourseSummary, ExamSummary } from "../../src/types.ts";
+import type {
+  AppManifest,
+  CourseSummary,
+  ExamSummary,
+  ExamType,
+} from "../../src/types.ts";
 
 const root = path.resolve(fileURLToPath(new URL("../..", import.meta.url)));
 const outputDir = path.resolve(root, process.env.OUTPUT_DIR ?? "output");
@@ -23,12 +28,28 @@ interface ManifestEntry {
   course_slug: string;
   exam: string;
   exam_slug: string;
+  type?: string;
   file: string;
   question_count: number;
   review_flags: number;
   translated: boolean;
   status: string;
   content_hash: string;
+}
+
+const EXAM_TYPES = new Set<ExamType>([
+  "vize",
+  "final",
+  "butunleme",
+  "yaz-okulu",
+  "uc-ders",
+  "unknown",
+]);
+
+function examType(value: unknown): ExamType {
+  return typeof value === "string" && EXAM_TYPES.has(value as ExamType)
+    ? (value as ExamType)
+    : "unknown";
 }
 
 interface Report {
@@ -108,6 +129,7 @@ async function main(): Promise<number> {
       courseId,
       course: entry.course,
       exam: entry.exam,
+      type: examType(entry.type),
       questionCount: parsed.exam.questionCount,
       contentHash: parsed.exam.contentHash,
       reviewFlags: parsed.exam.questions.reduce((n, q) => n + q.review.length, 0),

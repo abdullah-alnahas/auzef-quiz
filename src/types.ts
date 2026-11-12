@@ -1,3 +1,14 @@
+export type ExamType =
+  | "vize"
+  | "final"
+  | "butunleme"
+  | "yaz-okulu"
+  | "uc-ders"
+  | "unknown";
+
+/** Course-level practice scope: vize, final(+bütünleme) or everything. */
+export type Scope = "vize" | "final" | "all";
+
 export interface RichText {
   text: string;
   images: string[];
@@ -21,6 +32,8 @@ export interface Question {
   review: string[];
   /** Each table is rows of cells; the first row is the header. */
   tables: string[][][];
+  /** Combined sessions only: the exam this question came from (display). */
+  sourceExam?: string;
 }
 
 export interface Exam {
@@ -34,6 +47,9 @@ export interface Exam {
   contentHash: string;
   questions: Question[];
   assets: string[];
+  /** Combined sessions only. */
+  scope?: Scope;
+  sourceExamIds?: string[];
 }
 
 export interface ExamSummary {
@@ -41,6 +57,7 @@ export interface ExamSummary {
   courseId: string;
   course: string;
   exam: string;
+  type: ExamType;
   questionCount: number;
   contentHash: string;
   reviewFlags: number;
