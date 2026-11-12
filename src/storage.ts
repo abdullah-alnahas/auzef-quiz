@@ -1,5 +1,10 @@
 import type { Lang } from "./i18n.ts";
-import type { Mode, Scope } from "./types.ts";
+import type {
+  AttemptScore,
+  Mode,
+  Scope,
+  SessionState,
+} from "./types.ts";
 
 export interface Prefs {
   lang: Lang;
@@ -10,26 +15,9 @@ export interface Prefs {
   lastQuestion?: number;
 }
 
-export interface StoredSession {
+export interface StoredSession extends SessionState {
   key: string;
-  examId: string;
-  courseId: string;
-  mode: Mode;
-  index: number;
-  answers: Record<string, string>;
-  revealed: Record<string, true>;
-  submitted: boolean;
-  examHash: string;
-  questionHashes: Record<string, string>;
   updatedAt: number;
-}
-
-export interface AttemptScore {
-  known: number;
-  correct: number;
-  incorrect: number;
-  unanswered: number;
-  unknown: number;
 }
 
 export interface Attempt {

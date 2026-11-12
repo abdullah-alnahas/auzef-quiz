@@ -17,7 +17,6 @@ import {
   newSession,
   score,
   select,
-  type SessionState,
 } from "../engine.ts";
 import { scopeGroupKey, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
@@ -30,7 +29,13 @@ import {
   sessionKey,
   setBookmark,
 } from "../storage.ts";
-import type { Exam, Mode, Question, ScopeGroup } from "../types.ts";
+import type {
+  Exam,
+  Mode,
+  Question,
+  ScopeGroup,
+  SessionState,
+} from "../types.ts";
 
 type Failure =
   | { kind: "offline" }

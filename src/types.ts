@@ -87,3 +87,24 @@ export interface AppManifest {
 }
 
 export type Mode = "practice" | "exam";
+
+/** In-progress quiz session; storage adds only `key` and `updatedAt`. */
+export interface SessionState {
+  examId: string;
+  courseId: string;
+  mode: Mode;
+  index: number;
+  answers: Record<string, string>;
+  revealed: Record<string, true>;
+  submitted: boolean;
+  examHash: string;
+  questionHashes: Record<string, string>;
+}
+
+export interface AttemptScore {
+  known: number;
+  correct: number;
+  incorrect: number;
+  unanswered: number;
+  unknown: number;
+}

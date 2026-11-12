@@ -1,17 +1,10 @@
-import type { AttemptScore } from "./storage.ts";
-import type { Exam, Mode, Question } from "./types.ts";
-
-export interface SessionState {
-  examId: string;
-  courseId: string;
-  mode: Mode;
-  index: number;
-  answers: Record<string, string>;
-  revealed: Record<string, true>;
-  submitted: boolean;
-  examHash: string;
-  questionHashes: Record<string, string>;
-}
+import type {
+  AttemptScore,
+  Exam,
+  Mode,
+  Question,
+  SessionState,
+} from "./types.ts";
 
 /** Small stable hash; only used to detect changed questions between ingests. */
 export function questionHash(question: Question): string {
