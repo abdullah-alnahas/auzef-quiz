@@ -33,7 +33,13 @@ export function App() {
   useEffect(() => {
     registerServiceWorker(() => setUpdateReady(true));
     void (async () => {
-      setPrefsState(await loadPrefs());
+      // Blocked storage (private mode, quota, policy) must not stop the app from
+      // loading: fall back to defaults and tell the user progress won't persist.
+      try {
+        setPrefsState(await loadPrefs());
+      } catch {
+        setStorageError(true);
+      }
       try {
         setManifest(await loadManifest());
       } catch {
