@@ -132,7 +132,7 @@ running build (axe matrix, tab-walk, computed contrast, and the targeted states 
 | `02-a11y04-route-focus.patch` | A11Y-04 | Focuses `<main tabindex="-1">` on hash route change (skips first render, `preventScroll`), adds `.app-main:focus { outline: none }` |
 | `03-sta02-empty-states.patch` | STA-02 | Adds `noSearchResults` / `clearSearch` / `noReviewItems` / `showAllQuestions` in both catalogs and an `.empty-state` block on home + results |
 | `04-err01-confirm-copy.patch` | ERR-01, DS-04 | New `deleteAllDownloads` string for the clear-everything dialog; the exam-removal dialog now names the exam |
-| `05-thm01-prepaint-theme.patch` | THM-01 | Pre-paint inline script reading a mirrored `auzef.theme` localStorage key; `setPref`/`loadPrefs` keep the mirror in sync |
+| `05-thm01-prepaint-theme.patch` | THM-01 | Pre-paint inline script reading a mirrored `auzef.theme` localStorage key; `setPref`/`loadPrefs` keep the mirror in sync, and `App` seeds its initial theme from the hint so the first render cannot reset it |
 
 ### Round 2 verification (same tools, same matrix)
 
@@ -143,7 +143,7 @@ running build (axe matrix, tab-walk, computed contrast, and the targeted states 
 | Route focus | `activeElement` is `MAIN` after course, quiz and Back; `BODY` on first load (no focus steal) |
 | Empty states | search miss → "لا يوجد مقرر يطابق «zzzzzz»." + clear button restoring 10 courses; bookmarked filter → no-items + show-all |
 | Destructive copy | clear-all: "سيُحذف كل المحتوى المنزَّل من هذا الجهاز"; exam removal renders the exam name in a `bdi` |
-| Pre-paint theme | stored dark → `dataset.theme="dark"` at `DOMContentLoaded`, localStorage mirror written by `setPref` |
+| Pre-paint theme | stored dark → `dataset.theme="dark"` **and** dark background at `DOMContentLoaded`, unchanged after settling; `system` removes the mirror |
 | Quick Pass re-run | 320 px reflow 0 px overflow; 0 sub-24 px targets; focus-visible on every route; dialogs return focus on Esc |
 | Build / tests | tsc clean · vitest 73 · Playwright 20 · pytest 52 · build 19.38 kB gzip (budget 60) |
 

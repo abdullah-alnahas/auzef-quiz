@@ -21,8 +21,26 @@ function useHash(): string {
   return hash;
 }
 
+/**
+ * The pre-paint script in `index.html` mirrors the stored theme into
+ * localStorage. Starting from that hint keeps the first render from clearing
+ * the attribute back to "system" while IndexedDB is still opening.
+ */
+function initialTheme(): Prefs["theme"] {
+  try {
+    const stored = localStorage.getItem("auzef.theme");
+    if (stored === "light" || stored === "dark") return stored;
+  } catch {
+    /* storage blocked: fall back to the default */
+  }
+  return DEFAULT_PREFS.theme;
+}
+
 export function App() {
-  const [prefs, setPrefsState] = useState<Prefs>(DEFAULT_PREFS);
+  const [prefs, setPrefsState] = useState<Prefs>(() => ({
+    ...DEFAULT_PREFS,
+    theme: initialTheme(),
+  }));
   const [manifest, setManifest] = useState<AppManifest | null>(null);
   const [fatal, setFatal] = useState(false);
   const [storageError, setStorageError] = useState(false);

@@ -3913,7 +3913,7 @@
     {
      "type": "re-audit",
      "location": "ea8fbd2",
-     "detail": "Pre-paint inline script reads the localStorage theme mirror; dataset.theme is already 'dark' at DOMContentLoaded, and setPref/loadPrefs keep the mirror in sync.",
+     "detail": "Pre-paint inline script reads the localStorage theme mirror and App seeds its initial state from it, so the first render no longer resets the attribute to system. Verified: stored dark → dataset.theme=\"dark\" and dark background at DOMContentLoaded and after settling; choosing system removes the mirror.",
      "tool": "Playwright + axe-core re-run on the merged build"
     }
    ],
