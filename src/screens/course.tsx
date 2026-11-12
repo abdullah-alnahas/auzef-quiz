@@ -285,7 +285,13 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
         <ConfirmDialog
           titleId="remove-title"
           title={t(prefs.lang, "remove")}
-          body={t(prefs.lang, "deleteConfirm")}
+          body={
+            <>
+              <bdi lang="tr">{removeTarget.exam}</bdi>
+              <br />
+              {t(prefs.lang, "deleteConfirm")}
+            </>
+          }
           cancelLabel={t(prefs.lang, "cancel")}
           confirmLabel={t(prefs.lang, "confirm")}
           onClose={() => setRemoveTarget(null)}

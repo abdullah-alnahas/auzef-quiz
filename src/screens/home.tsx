@@ -162,7 +162,7 @@ export function Home({ manifest, prefs, updatePref, navigate }: ScreenProps) {
         <ConfirmDialog
           titleId="downloads-title"
           title={t(prefs.lang, "removeDownloads")}
-          body={t(prefs.lang, "deleteConfirm")}
+          body={t(prefs.lang, "deleteAllDownloads")}
           cancelLabel={t(prefs.lang, "cancel")}
           confirmLabel={t(prefs.lang, "confirm")}
           onClose={() => setConfirmDownloads(false)}
