@@ -1,0 +1,112 @@
+diff --git a/src/styles.css b/src/styles.css
+index 543d220..97b024a 100644
+--- a/src/styles.css
++++ b/src/styles.css
+@@ -5,12 +5,15 @@
+   --text: #1d1d1b;
+   --muted: #5f625d;
+   --border: #dcdad2;
++  --control-border: #8f8c82;
+   --accent: #1f3d32;
+   --accent-contrast: #ffffff;
+   --ok: #1e6b3a;
+   --ok-bg: #e7f3eb;
++  --on-ok: #ffffff;
+   --bad: #9b1c1c;
+   --bad-bg: #fbeaea;
++  --on-bad: #ffffff;
+   --warn: #8a5a00;
+   --warn-bg: #fdf3dc;
+   --focus: #2f6fd0;
+@@ -24,12 +27,15 @@
+   --text: #ecece6;
+   --muted: #a8aca3;
+   --border: #353a33;
++  --control-border: #6b7268;
+   --accent: #9dc7b2;
+   --accent-contrast: #10201a;
+   --ok: #8fd3a6;
+   --ok-bg: #1d3326;
++  --on-ok: #10201a;
+   --bad: #f0a3a3;
+   --bad-bg: #3a1d1d;
++  --on-bad: #3a0f0f;
+   --warn: #e5c07b;
+   --warn-bg: #382f1c;
+   --focus: #8fb6ff;
+@@ -43,12 +49,15 @@
+     --text: #ecece6;
+     --muted: #a8aca3;
+     --border: #353a33;
++    --control-border: #6b7268;
+     --accent: #9dc7b2;
+     --accent-contrast: #10201a;
+     --ok: #8fd3a6;
+     --ok-bg: #1d3326;
++    --on-ok: #10201a;
+     --bad: #f0a3a3;
+     --bad-bg: #3a1d1d;
++    --on-bad: #3a0f0f;
+     --warn: #e5c07b;
+     --warn-bg: #382f1c;
+     --focus: #8fb6ff;
+@@ -186,7 +195,7 @@ button[aria-disabled="true"] {
+ 
+ .secondary {
+   background: var(--surface);
+-  border-color: var(--border);
++  border-color: var(--control-border);
+ }
+ 
+ .ghost {
+@@ -203,12 +212,12 @@ button[aria-disabled="true"] {
+ 
+ .danger {
+   background: var(--bad);
+-  color: #fff;
++  color: var(--on-bad);
+ }
+ 
+ .icon-button {
+   background: var(--surface);
+-  border-color: var(--border);
++  border-color: var(--control-border);
+   font-size: 1.15rem;
+   inline-size: 44px;
+ }
+@@ -281,7 +290,7 @@ button[aria-disabled="true"] {
+   inline-size: 100%;
+   padding: 12px;
+   border-radius: var(--radius);
+-  border: 1px solid var(--border);
++  border: 1px solid var(--control-border);
+   background: var(--surface);
+ }
+ 
+@@ -347,7 +356,7 @@ button[aria-disabled="true"] {
+ .field select {
+   padding: 8px;
+   border-radius: var(--radius);
+-  border: 1px solid var(--border);
++  border: 1px solid var(--control-border);
+   background: var(--surface);
+ }
+ 
+@@ -581,7 +590,7 @@ button[aria-disabled="true"] {
+ 
+ .choice.correct .choice-letter {
+   background: var(--ok);
+-  color: #fff;
++  color: var(--on-ok);
+   border-color: var(--ok);
+ }
+ 
+@@ -592,7 +601,7 @@ button[aria-disabled="true"] {
+ 
+ .choice.wrong .choice-letter {
+   background: var(--bad);
+-  color: #fff;
++  color: var(--on-bad);
+   border-color: var(--bad);
+ }
+ 
