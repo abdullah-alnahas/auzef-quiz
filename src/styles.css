@@ -256,6 +256,16 @@ button[aria-disabled="true"] {
   border: 1px solid var(--border);
 }
 
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 12px;
+  border: 1px dashed var(--border);
+  border-radius: var(--radius);
+}
+
 .notice-bad {
   background: var(--bad-bg);
   border-color: var(--bad);

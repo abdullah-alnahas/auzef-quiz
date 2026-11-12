@@ -91,6 +91,10 @@ const ar = {
   fromExam: "من {name}",
   mockBadge: "تجريبي",
   unitBadge: "وحدة",
+  noSearchResults: "لا يوجد مقرر يطابق «{q}».",
+  clearSearch: "مسح البحث",
+  noReviewItems: "لا توجد أسئلة في هذا التصنيف.",
+  showAllQuestions: "عرض كل الأسئلة",
 };
 
 export type Key = keyof typeof ar;
@@ -184,6 +188,10 @@ const tr: Record<Key, string> = {
   fromExam: "{name} sınavından",
   mockBadge: "Deneme",
   unitBadge: "Ünite",
+  noSearchResults: "«{q}» ile eşleşen ders yok.",
+  clearSearch: "Aramayı temizle",
+  noReviewItems: "Bu filtrede soru yok.",
+  showAllQuestions: "Tüm soruları göster",
 };
 
 const catalogs: Record<Lang, Record<Key, string>> = { ar, tr };

@@ -165,6 +165,15 @@ export function Results({
         ))}
       </div>
 
+      {shown.length === 0 && (
+        <div class="empty-state">
+          <p class="muted">{t(prefs.lang, "noReviewItems")}</p>
+          <button type="button" class="secondary" onClick={() => setFilter("all")}>
+            {t(prefs.lang, "showAllQuestions")}
+          </button>
+        </div>
+      )}
+
       <button
         type="button"
         class="primary"

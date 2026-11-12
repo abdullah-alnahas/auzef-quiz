@@ -80,7 +80,19 @@ export function Home({ manifest, prefs, updatePref, navigate }: ScreenProps) {
 
       <section aria-labelledby="courses-title" class="stack-sm">
         <h2 id="courses-title">{t(prefs.lang, "courses")}</h2>
-        {courses.length === 0 && <p class="muted">{t(prefs.lang, "noExams")}</p>}
+        {courses.length === 0 &&
+          (needle ? (
+            <div class="empty-state">
+              <p class="muted">
+                {t(prefs.lang, "noSearchResults", { q: query.trim() })}
+              </p>
+              <button type="button" class="secondary" onClick={() => setQuery("")}>
+                {t(prefs.lang, "clearSearch")}
+              </button>
+            </div>
+          ) : (
+            <p class="muted">{t(prefs.lang, "noExams")}</p>
+          ))}
         <ul class="course-list">
           {courses.map((course) => {
             const done = course.exams.filter((exam) => touched.has(exam.examId)).length;
