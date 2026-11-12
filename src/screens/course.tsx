@@ -6,7 +6,7 @@ import {
   scopeCode,
 } from "../combine.ts";
 import { ConfirmDialog } from "../components.tsx";
-import { scopeGroupKey, t } from "../i18n.ts";
+import { scopeGroupKey, t, type Key, type Lang } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   courseStatus,
@@ -22,14 +22,16 @@ function periodOf(exam: string): string {
   return match ? match[1] : "—";
 }
 
-function statusLabel(
-  lang: "ar" | "tr",
-  status: DownloadState,
-): string {
-  if (status === "complete") return t(lang, "downloaded");
-  if (status === "partial") return t(lang, "incompleteDownload");
-  if (status === "update") return t(lang, "updateAvailable");
-  return "";
+const STATUS_LABEL_KEYS: Record<DownloadState, Key | null> = {
+  none: null,
+  complete: "downloaded",
+  partial: "incompleteDownload",
+  update: "updateAvailable",
+};
+
+function statusLabel(lang: Lang, status: DownloadState): string {
+  const key = STATUS_LABEL_KEYS[status];
+  return key ? t(lang, key) : "";
 }
 
 export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
@@ -45,12 +47,15 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
 
   const refresh = async (): Promise<void> => {
     if (!course) return;
-    setStatuses(await courseStatus(course.exams));
+    try {
+      setStatuses(await courseStatus(course.exams));
+    } catch {
+      // Cache storage unavailable: keep the current labels instead of crashing.
+    }
   };
 
   useEffect(() => {
     void refresh();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [courseId]);
 
   if (!course) {
