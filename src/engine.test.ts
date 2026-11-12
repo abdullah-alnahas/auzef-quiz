@@ -6,6 +6,7 @@ import {
   goTo,
   isLocked,
   isRevealed,
+  navigatorState,
   newSession,
   percent,
   questionHash,
@@ -116,6 +117,36 @@ describe("score", () => {
   it("percent uses the known denominator", () => {
     expect(percent({ known: 4, correct: 2, incorrect: 1, unanswered: 1, unknown: 3 })).toBe(50);
     expect(percent({ known: 0, correct: 0, incorrect: 0, unanswered: 0, unknown: 2 })).toBe(0);
+  });
+});
+
+describe("navigatorState", () => {
+  it("marks an unanswered question", () => {
+    const e = exam();
+    expect(navigatorState(newSession(e, "practice"), e.questions[0])).toBe(
+      "unanswered",
+    );
+  });
+
+  it("paints correctness in practice mode, including unknown keys", () => {
+    const e = exam();
+    const state = {
+      ...newSession(e, "practice"),
+      answers: { "e:1": "A", "e:2": "C", "e:3": "B" },
+    };
+    expect(navigatorState(state, e.questions[0])).toBe("correct");
+    expect(navigatorState(state, e.questions[1])).toBe("wrong");
+    expect(navigatorState(state, e.questions[2])).toBe("unknown");
+  });
+
+  it("only distinguishes answered from unanswered in exam mode", () => {
+    const e = exam();
+    const state = {
+      ...newSession(e, "exam"),
+      answers: { "e:1": "B" },
+    };
+    expect(navigatorState(state, e.questions[0])).toBe("answered");
+    expect(navigatorState(state, e.questions[1])).toBe("unanswered");
   });
 });
 

@@ -10,15 +10,16 @@ import {
 } from "../data.ts";
 import {
   changedQuestions,
-  correctness,
   goTo,
   isLocked,
   isRevealed,
+  navigatorState,
   newSession,
   score,
   select,
+  type NavigatorState,
 } from "../engine.ts";
-import { scopeTitle, t } from "../i18n.ts";
+import { scopeTitle, t, type Key } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   deleteSession,
@@ -29,13 +30,7 @@ import {
   sessionKey,
   setBookmark,
 } from "../storage.ts";
-import type {
-  Exam,
-  Mode,
-  Question,
-  ScopeGroup,
-  SessionState,
-} from "../types.ts";
+import type { Exam, Mode, ScopeGroup, SessionState } from "../types.ts";
 
 type Failure =
   | { kind: "offline" }
@@ -47,6 +42,14 @@ type QuizProps = ScreenProps & {
   examId?: string;
   courseId?: string;
   scopeGroups?: ScopeGroup[];
+};
+
+const NAV_LABEL_KEYS: Record<NavigatorState, Key> = {
+  correct: "correct",
+  wrong: "incorrect",
+  unknown: "unknownKey",
+  answered: "answered",
+  unanswered: "unanswered",
 };
 
 export function Quiz({
@@ -218,17 +221,6 @@ export function Quiz({
     ? scopeTitle(prefs.lang, parseScope(exam.scope))
     : exam.exam;
 
-  const navState = (
-    question: Question,
-  ): "correct" | "wrong" | "unknown" | "answered" | "unanswered" => {
-    const letter = session.answers[question.id];
-    if (!letter) return "unanswered";
-    if (session.mode === "exam") return "answered";
-    const result = correctness(question, letter);
-    if (result === true) return "correct";
-    if (result === false) return "wrong";
-    return "unknown";
-  };
   const hasUnknownAnswered = exam.questions.some(
     (question) =>
       Boolean(session.answers[question.id]) && question.answer === null,
@@ -473,18 +465,9 @@ export function Quiz({
           <h2 id="nav-title">{t(prefs.lang, "questionNavigator")}</h2>
           <ul class="navigator">
             {exam.questions.map((question, index) => {
-              const state = navState(question);
+              const state = navigatorState(session, question);
               const isMarked = bookmarks.has(question.number);
-              const label =
-                state === "correct"
-                  ? t(prefs.lang, "correct")
-                  : state === "wrong"
-                    ? t(prefs.lang, "incorrect")
-                    : state === "unknown"
-                      ? t(prefs.lang, "unknownKey")
-                      : state === "answered"
-                        ? t(prefs.lang, "answered")
-                        : t(prefs.lang, "unanswered");
+              const label = t(prefs.lang, NAV_LABEL_KEYS[state]);
               return (
                 <li key={question.id}>
                   <button

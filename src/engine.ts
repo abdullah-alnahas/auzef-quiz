@@ -78,6 +78,30 @@ export function isRevealed(state: SessionState, questionId: string): boolean {
   return Boolean(state.revealed[questionId]);
 }
 
+export type NavigatorState =
+  | "correct"
+  | "wrong"
+  | "unknown"
+  | "answered"
+  | "unanswered";
+
+/**
+ * How the navigator should paint a question. Exam mode only distinguishes
+ * answered from unanswered so the answer key cannot leak before submission.
+ */
+export function navigatorState(
+  state: SessionState,
+  question: Question,
+): NavigatorState {
+  const letter = state.answers[question.id];
+  if (!letter) return "unanswered";
+  if (state.mode === "exam") return "answered";
+  const result = correctness(question, letter);
+  if (result === true) return "correct";
+  if (result === false) return "wrong";
+  return "unknown";
+}
+
 export function correctness(question: Question, letter: string | undefined): boolean | null {
   if (!letter || question.answer === null) return null;
   return question.answer === letter;
