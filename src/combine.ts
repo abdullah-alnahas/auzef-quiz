@@ -1,4 +1,4 @@
-import { questionHash } from "./engine.ts";
+import { fnv1a, questionHash } from "./engine.ts";
 import type {
   CourseSummary,
   Exam,
@@ -71,15 +71,10 @@ export function examsForScope(
 }
 
 function combinedHash(questions: Question[]): string {
-  let hash = 2166136261;
-  for (const question of questions) {
-    const text = `${question.id}:${questionHash(question)}`;
-    for (let i = 0; i < text.length; i += 1) {
-      hash ^= text.charCodeAt(i);
-      hash = Math.imul(hash, 16777619);
-    }
-  }
-  return `combined-${(hash >>> 0).toString(16)}-${questions.length}`;
+  const text = questions
+    .map((question) => `${question.id}:${questionHash(question)}`)
+    .join("");
+  return `combined-${fnv1a(text)}-${questions.length}`;
 }
 
 /**

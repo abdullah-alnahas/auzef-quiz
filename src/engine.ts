@@ -6,15 +6,19 @@ import type {
   SessionState,
 } from "./types.ts";
 
-/** Small stable hash; only used to detect changed questions between ingests. */
-export function questionHash(question: Question): string {
-  const text = JSON.stringify(question);
+/** FNV-1a (32-bit) as hex; stable across runs and platforms. */
+export function fnv1a(text: string): string {
   let hash = 2166136261;
   for (let i = 0; i < text.length; i += 1) {
     hash ^= text.charCodeAt(i);
     hash = Math.imul(hash, 16777619);
   }
   return (hash >>> 0).toString(16);
+}
+
+/** Small stable hash; only used to detect changed questions between ingests. */
+export function questionHash(question: Question): string {
+  return fnv1a(JSON.stringify(question));
 }
 
 export function newSession(exam: Exam, mode: Mode): SessionState {

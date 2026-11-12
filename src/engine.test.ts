@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 import {
   changedQuestions,
   correctness,
+  fnv1a,
   goTo,
   isLocked,
   isRevealed,
@@ -141,5 +142,10 @@ describe("navigation and change detection", () => {
   it("hashes question content deterministically", () => {
     expect(questionHash(question(1, "A"))).toBe(questionHash(question(1, "A")));
     expect(questionHash(question(1, "A"))).not.toBe(questionHash(question(1, "B")));
+  });
+
+  it("uses the standard FNV-1a 32-bit vector", () => {
+    expect(fnv1a("")).toBe("811c9dc5");
+    expect(fnv1a("a")).toBe("e40c292c");
   });
 });
