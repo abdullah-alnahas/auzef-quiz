@@ -925,6 +925,8 @@ td {
 .combined-source summary,
 .combined-list summary {
   cursor: pointer;
+  min-block-size: 24px;
+  padding-block: 2px;
 }
 
 .combined-source ul,
