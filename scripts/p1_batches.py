@@ -4,7 +4,6 @@
 The batches contain only exams whose next action is `translate`; agents read
 the file and never need a hand-typed id. Files are regenerated on each run.
 """
-import json
 import sys
 from pathlib import Path
 
