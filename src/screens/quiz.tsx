@@ -1,6 +1,12 @@
 import { useEffect, useMemo, useState } from "preact/hooks";
 import { parseScope } from "../combine.ts";
-import { Badge, Dialog, RichTextView, TableView } from "../components.tsx";
+import {
+  Badge,
+  ChoiceContent,
+  Dialog,
+  RichTextView,
+  TableView,
+} from "../components.tsx";
 import {
   EmptyScopeError,
   loadCombinedExam,
@@ -360,25 +366,7 @@ export function Quiz({
                 }}
               >
                 <span class="choice-letter">{choice.letter}</span>
-                <span class="choice-body">
-                  <span class="choice-tr" lang="tr" dir="ltr">
-                    {choice.turkish.text}
-                  </span>
-                  {prefs.showArabic && choice.arabic && (
-                    <span class="choice-ar" lang="ar" dir="rtl">
-                      {choice.arabic.text}
-                    </span>
-                  )}
-                  {choice.turkish.images.map((image) => (
-                    <img
-                      key={image}
-                      class="choice-image"
-                      src={new URL(`data/${image}`, document.baseURI).toString()}
-                      alt=""
-                      loading="lazy"
-                    />
-                  ))}
-                </span>
+                <ChoiceContent choice={choice} showArabic={prefs.showArabic} />
               </button>
             </li>
           );

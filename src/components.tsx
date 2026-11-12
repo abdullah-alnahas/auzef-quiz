@@ -1,7 +1,7 @@
 import type { ComponentChildren } from "preact";
 import { useEffect, useRef } from "preact/hooks";
 import { dataUrl } from "./data.ts";
-import type { RichText } from "./types.ts";
+import type { Choice, RichText } from "./types.ts";
 
 /** Escape first, then allow only **bold** / *italic* spans. */
 function InlineText({ value }: { value: string }) {
@@ -57,6 +57,37 @@ export function RichTextView({
         />
       ))}
     </div>
+  );
+}
+
+/** Turkish/Arabic choice text plus any inline choice images. */
+export function ChoiceContent({
+  choice,
+  showArabic,
+}: {
+  choice: Choice;
+  showArabic: boolean;
+}) {
+  return (
+    <span class="choice-body">
+      <span class="choice-tr" lang="tr" dir="ltr">
+        {choice.turkish.text}
+      </span>
+      {showArabic && choice.arabic && (
+        <span class="choice-ar" lang="ar" dir="rtl">
+          {choice.arabic.text}
+        </span>
+      )}
+      {choice.turkish.images.map((image) => (
+        <img
+          key={image}
+          class="choice-image"
+          src={dataUrl(image)}
+          alt=""
+          loading="lazy"
+        />
+      ))}
+    </span>
   );
 }
 
