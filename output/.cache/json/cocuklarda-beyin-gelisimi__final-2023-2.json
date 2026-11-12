@@ -1,0 +1,919 @@
+{
+  "course": "Çocuklarda Beyin Gelişimi",
+  "course_slug": "cocuklarda-beyin-gelisimi",
+  "exam": "2023 Final Soruları",
+  "exam_slug": "final-2023-2",
+  "page_title": "Çocuklukta Beyin Gelişimi 2023 Final Soruları",
+  "source_url": "https://lolonolo.com/2024/06/29/cocuklukta-beyin-gelisimi-2023-final-sorulari/",
+  "scraped_at": "2026-11-12T11:34:48+03:00",
+  "answer_source": "markup",
+  "question_count": 25,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Erkek ve kız çocuklarda dil gelişimi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kız çocukları konuşmaya erkeklerden iki ay önce başlarlar ayrıca erkeklerden daha anlaşılır ve akıcı konuşurlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Erkek çocukları kız çocuklarından 6 ay önce konuşmaya başlarlar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kız çocukları 2 yaşında atasözlerinin anlamlarını bilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Erkek çocukları hayvanların isimlerini kız çocuklarından daha önce öğrenir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kız Çocukları iki yaşındayken 100'e kadar sayıları sayabilir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Ergenlik döneminde beyin gelişim süreci ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukluktan ergenliğe kadar beyaz cevher hacmi giderek azalır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ergenlik döneminde gençler nadiren riskli davranışlarda bulunurlar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ergenlik dönemi beyin gelişim sürecinde sinaptik budama devam eder.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ergenlik döneminde sinaptogenez ve miyelinizasyon devam etmez.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukluktan ergenliğe geçiş sürecinde beyinde herhangi değişim olmaz.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Nörogelişimsel bozukluklarda özellikle de OSB’de etkilenen duyguların işlendiği ve duygusal kararların verilmesinde görev alan bölge aşağıdaki şıklardan hangisinde doğru olarak verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hipotalamus",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Talamus",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Amigdala",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hipokampus",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hipofiz",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "I. Kız çocuklarının beyin maturasyonu (olgunlaşması), erkeklerden yaklaşık olarak bir iki yıl önce tamamlandığı gösterilmiştir. II. Erkeklerin solak olma sıklığı daha yüksektir. Beynin sağ ve sol yarım küresindeki baskınlığın cinsiyetler arasındaki farklılık gösterebilir. III. Erkekler ve kadınlar tüm bilişsel testlerde aynı performansı göstermektedir Cinsiyet farklılıklarının beyin üzerindeki etkileri ile ilgili yukarıdaki ifadelerden hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız II",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki çevresel faktörlerden hangisi Zihinsel Yetersizliğin ortaya çıkmasına neden olmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konjenital hipotiroidi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gebelikte kızamıkçık enfeksiyonu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gebelikte Folik asit kullanımı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gebelikte alkol kullanımı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gebelik sürecinde anneye ait kronik hastalıklar (hipertansiyon, diabet)",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "6 yaşındaki Selin’in 2 yaşında bir erkek kardeşi bulunmaktadır. Selin’in kardeşi sürekli hastalanmakta ve bu nedenle Selin’in anne ve babası kardeşini sürekli hastaneye götürmektedir. Selin bir gün annesine “Anne kardeşim ben ona bazen kızdığım için mi hastalanıyor?” diye sorar. Yukarıdaki duruma kaynaklık eden 2-7 yaş aralığının düşünce özelliği aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Animizm (Canlıcılık)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yapaycılık (Artifikalizm)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Paralel Oyun",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Benmerkezcilik (Egosentrizm)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireyselleşme",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "İhmalin çocukluk çağında beyin gelişimi üzerindeki etkileri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İhmal sonucunda oluşan ruhsal sorunlar sadece çocukluk ve ergenlik dönemini etkilemektedir. Yetişkinlik döneminde etkileri görülmez.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklar, birçok şeyi yaşadığı tecrübeler sayesinde öğrenmektedirler. Her tecrübe beyinde yeni devreler oluşumunu sağlarken ihmal ise yeni devrelerin oluşumunu engeller ve beyin gelişimini olumsuz yönde etkiler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukluk çağı ihmali, beynin gelişim sürecini olumlu yönde etkiler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukluk çağı ihmali, büyüme ve gelişimi olumsuz yönde etkilemez ve ruhsal sorunlara neden olmaz.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Güvenli bağlanma, beyin gelişim sürecini olumsuz etkileyebilecek riskli durumlara karşı beyin için koruyucu bir faktör değildir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Cinsel gelişim süreçleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anne karnında gelişimin erken haftalarında (ilk 4 hafta) embriyonun üreme organları bellidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dişiler bir X bir Y kromozomuna (XY) ve erkekler ise iki X kromozomuna (XX) sahiptir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "SRY geni erken cinsiyet gelişimi için çok önemlidir. Gonadların testise dönüşümünü sağlar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tiroid hormonu erkek üreme organin gelişmesini engelleyerek kadın üreme organının gelişmesini sağlamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bebek doğduğunda cinsiyeti belli değildir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Oyun, aşağıdaki maddelerden hangisinin beyinde artışına neden olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tiroid",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "BDNF (Beyin Kaynaklı Nörotrofik Faktör)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ostrojen",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Testosteron",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Progesteron",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi nörogelişimsel bir bozukluk değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zihinsel Yetersizlik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dikkat Eksikliği Hiperaktivite Bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Otizm Spektrum Bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Depresyon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Özgül Öğrenme Bozukluğu",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Yürütücü işlevlerden sorumlu beyin bölgesi aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Prefrontal korteks",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hipofiz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Talamus",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hipotalamus",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hipokampus",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Travma sonrası stres bozukluğunda aşağıdaki belirtilerden hangisi görülmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olaya ilişkin durumlardan, kişilerden, yerlerden kaçınma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Eşya veya nesne biriktirme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aşırı uyarılmışlık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İsime seslenince irkilme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Olayla ilgili anıların sık sık hatırlanması",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "I. Dil II. Okuma becerisi III. Ebeveyn-çocuk etkileşimi IV. Tat ve dokunma duyusu Uzun süre ekran maruziyeti yukarıdaki becerilerden hangisinin/hangilerinin gelişim sürecini olumsuz etkiler?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I, II ve IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I, II ve III",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki şıklardan hangisinde “Disgrafi” doğru olarak tanımlanmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dikkat Bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Harel Bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yazma Bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okuma Bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Matematik Öğrenme Bozukluğu",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Cinsiyet hormonları ve görevleri ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oksitosin'in bağlanma, sosyal davranışlar üzerinde bir etkisi yoktur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Östrojen hormonu erkek cinsiyet özelliklerinin oluşması ve gelişmesini sağlayan hormondur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Androjen hormonları kadınlarda daha yüksek seviyede bulunur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Testosteron vücutta erkek özelliklerinin oluşumundan sorumlu bir hormondur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Müllerian inhibe edici hormonun erkek genital yapısının oluşumu için hiçbir önemi yoktur.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Özel Öğrenme Bozukluğunda (ÖÖB) etkilenen temel nöroanatomik bölgedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Temporal korteks",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Oksipital korteks",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Frontal korteks",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pariyetal korteks",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Amigdala",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "I. Dendrit  II. Hücre gövdesi  III. Akson  IV. Sinaptik aralık  V. Nefron Yukarıdaki kısımlardan hangileri sinir hücresinin yapısında yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, II, III ve IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I, III, IV, V",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II, III, IV ve V",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I, II, IV ve V",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I, II, III ve V",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "I. Esneklik II. Olumlu duygulanım III. Gerçek olmama IV. Mücadelecilik V. İçsel motivasyon Yukarıdakilerden hangileri bir oyunda bulunması gereken özellikler arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II, III ve IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I, IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I, II, III ve V",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I, II, III ve IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I, III ve V",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "I. Protein-enerji II. Demir III. Esansiyel yağ asitleri IV. Civa Yukarıdaki besin ve maddelerden hangisi/hangileri gebelik sürecinde anne karnındaki bebeğin beyin gelişimi için gereklidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II, III ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I, II ve III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi DSM-5’e göre anksiyete bozukluğu tanılarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zihinsel Yetersizlik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Otizm Spektrum Bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dikkat Eksikliği Hiperaktivite Bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Madde Kullanım Bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ayrılık Anksiyetesi Bozukluğu",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "Ergenlik döneminde duygusal sistemle ilgili subkotikal yapılar; kontrol sistemi ile ilgili kortikal yapılardan daha önce olgunlaşır.Bu yapısal değişim aşağıdakilerden hangisine neden olmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ergenlerin karar verme süreçlerini duygularıyla hareket etmelerine",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ergenlerin risk alma davranışlarını daha fazla deneyimlemesine",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ergenlerin daha oturaklı olmasına ve mantıklı hareket etmesine",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ergenlerin ödüle karşı daha duyarlı olmasına",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ergenlerin mantık yerine duyguları ile hareket etmelerine",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "I. Sosyal medyada beğeni ve sosyal medyadan olumlu yorum alınması ergenlerde olumlu his uyandırır. II. Ergenler için sosyal medyadaki yorum ve beğeniler sosyal birer ödüldür ve bu ödüle çok duyarlıdırlar. III. Ergenler sosyal medyadaki beğenilere yetişkinler kadar duyarlılık göstermezler. Sosyal medyanın ergenler üzerinde etkileri ile ilgili yukarıdaki ifadelerden hangisi/hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "I. Destekleyici, olumlu ebeveyn II. Fiziksel aktivite ve egzersiz III. Arkadaşlık ve akran desteği IV. Sigara ve alkol kullanımı Yukarıdaki faktörlerden hangileri ergenlik döneminde beyin gelişimini olumlu etkileyen faktörler arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I, III ve IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I, II ve III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I, II ve IV",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 24,
+      "type": "multiple_choice_text",
+      "stem": "I. Korku; açık, mevcut ve tanımlanabilir bir tehditle ilişkilidir. II. Anksiyete açık, ani bir tehlike olmadan da ortaya çıkar. III. Korku ve anksiyetenin oluşumu benzer beyin devreleri ile ilgilidir. IV. Korku ve anksiyete insan hayatı boyunca çok nadir yaşanılan duygulardır. Korku ve anksiyeteyle ilgili yukarıdaki ifadelerden hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, II ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I, II ve IV",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 25,
+      "type": "multiple_choice_text",
+      "stem": "I. Depresyonda hayattan keyif alamama ile ilgili belirtiler beynin ödülle ilgili bölgelerinin yeterince çalışmaması nedeniyle ortaya çıkar. II. Depresyonda prefrontal korteks kalınlığında azalma tespit edilmiştir. III. Depresyon, çocuk ve ergenlerde beyin gelişimini olumsuz yönde etkilenmez. Depresyona ilişkin yukarıdaki ifadelerden hangisi ya da hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "f68984832938fda8a8f446bd8755874a02785e0f2738812b61ad260b6a3b182a"
+}

@@ -1,0 +1,739 @@
+{
+  "course": "İlk Yardım",
+  "course_slug": "ilk-yardim",
+  "exam": "2025-2026 Vize Soruları",
+  "exam_slug": "vize-2025-2026",
+  "page_title": "İlk Yardım 2025-2026 Vize Soruları (Bahar)",
+  "source_url": "https://lolonolo.com/2026/04/28/ilk-yardim-2025-2026-vize-sorulari-bahar/",
+  "scraped_at": "2026-11-12T11:34:09+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi vücuttaki doğal açıklıklardan olan kanamalardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Burun kanaması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mide kanaması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anüs kanaması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kulak kanaması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ağız kanaması",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hasta ya da yaralının ikinci değerlendirmesi içinde yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Solunum sayısı, ritmi, derinliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Vücut veya cilt ısısı, nemi, rengi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kan şekeri düzeyi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nabız sayısı, ritmi, şiddeti",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilinç düzeyi, anlama, algılama",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi endokrin bezlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Epifiz bezi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tiroid bezi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Böbrek üstü bezi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hipofiz bezi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tükrük bezi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi nabız alınan bölgelerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Avuç içi damarı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bacak damarı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Şah damarı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ön-kol damarı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kol damarı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dolaşım sistemi ile ilgili bir yapı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplardamar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kalp",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Atardamar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Böbrek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kan",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilk yardımın temel uygulamalarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplumsal dayanışma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Rehabilitasyon",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Cerrahi girişim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Psikoterapi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hayat Kurtarma",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilk yardımda amaca uygun önceliklerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaşamsal fonksiyonların sürdürülmesinin sağlanması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hayati tehlikenin ortadan kaldırılması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tedavi sonrası hasta ya da yaralının takibi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İyileştirmenin kolaylaştırılması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hasta ya da yaralının durumunun kötüleşmesinin önlenmesi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Hava yolunda kısmi tıkanıklığı olan kazazede için aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yakından izlenir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öksürmeye teşvik edilir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Müdahaleye durulur (Müdahale edilmez)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Su içirilir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bulunduğu pozisyonda bırakılır",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Görselde verilen ve kanama durumlarında uygulanan pozisyonun adı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beşik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Şok",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yarı oturur",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kaşık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Koma",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Bebeklerde (0–12 Ay) dış kalp masajı ve yapay solunumun birlikte uygulanması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bebeğe 60 kalp masajından sonra 6 solunum yaptırılır. (60;6)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bebeğe 20 kalp masajından sonra 1 solunum yaptırılır. (20;1)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bebeğe 40 kalp masajından sonra 4 solunum yaptırılır. (40;4)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bebeğe 30 kalp masajından sonra 2 solunum yaptırılır. (30;2)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bebeğe 40 kalp masajından sonra 5 solunum yaptırılır. (40;5)",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilk yardım yapan kişilerin sahip olması gereken özellikler açısından zorunlu bir durum değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eldeki olanakları değerlendirebilecek pratiklikte olmalı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tıp fakültesi mezunu hekim olmalı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sakin, kendine güvenli olmalı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnsan vücudu ile ilgili temel bilgilere sahip olmalı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İyi bir iletişim becerisine sahip olmalı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuklarda normal nabız sayısını gösterir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dakikada 110-130",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dakikada 90-130",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dakikada 70-130",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dakikada 100-120",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dakikada 80-130",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu ve ilgili yönetmeliklere göre işyerlerinde bulundurulması gereken ilkyardımcı sayısı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çok tehlikeli işyerlerinde her 10 çalışana kadar 1 ilkyardımcı bulundurulması zorunludur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Az tehlikeli işyerlerinde her 15 çalışana 1 ilkyardımcı bulundurulur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İlkyardımcı bulundurma zorunluluğu yalnız kamu kurumları için geçerlidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tehlikeli işyerlerinde her 20 çalışana 1 ilkyardımcı bulundurulur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tüm işyerlerinde çalışan sayısına bakılmaksızın en az 2 ilkyardımcı bulunmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yaşam bulguları ile ilgili önemli göstergelerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Burkulma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Vücut ısısı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dolaşım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Solunum",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kan basıncı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi şokun belirtilerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Baş dönmesi, endişe, huzursuzluk",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hızlı ve zayıf nabız",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ateş, mide bulantısı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dudak çevresinde solukluk ya da morarma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hızlı ve yüzeysel solunum",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hormon salgılayan yapılardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ovariumlar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Plasenta",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mesane",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Testisler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gonadlar",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Bebeklerde hava yolunun açılması için yapılan ilk yardım müdahalelerinde aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5 kez el bileğinin iç kısmı ile bebeğin sırtına kürek kemiklerinin arasına hafifçe vurulur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ters çevrilip diğer elin üzerine sırtüstü yatırılıp göğüs kemiğinin altına 5 kez el bileğinin içiyle hafifçe vurulur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Baş gergin ve gövdesinden aşağıda bir pozisyonda tutulur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Başparmak ve diğer parmakların yardımıyla bebeğin çenesi kavranarak boynundan tutulur ve yüzüstü pozisyonda öne doğru eğilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bebek ilkyardım yapan kişinin bir kolu üzerine ters olarak (yüzükoyun) yatırılır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Yetişkin bir kişide normal nabız sayısı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dakikada 60-100",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dakikada 40-120",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dakikada 20-140",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dakikada 50-110",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dakikada 30-130",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilk yardımın temel uygulamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Koruma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kurtarma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bildirme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tedavi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Müdahale",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Bebeklerde dış kalp masajı ve yapay solunum uygulaması sırasında aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kendisinin ve bebeğin güvenliğinden emin olunur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlk yardım yapan kişi temel yaşam desteği uygulayacağı pozisyonu alır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çevreden yüksek sesle yardım çağrılır; 112 aratılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bebek sert bir zemin üzerine sırt üstü yatırılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bebeğin ateşi kontrol edilir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "e8ae5edb8f7c19372d253635a7df44007b066f0b493185f3cd399638b84ed6b2"
+}

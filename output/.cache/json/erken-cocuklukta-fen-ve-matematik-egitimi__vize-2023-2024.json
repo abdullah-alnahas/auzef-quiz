@@ -1,0 +1,739 @@
+{
+  "course": "Erken Çocuklukta Fen Ve Matematik Eğitimi",
+  "course_slug": "erken-cocuklukta-fen-ve-matematik-egitimi",
+  "exam": "2023-2024 Vize Soruları",
+  "exam_slug": "vize-2023-2024",
+  "page_title": "Erken Çocuklukta Fen Ve Matematik Eğitimi 2023-2024 Vize Soruları",
+  "source_url": "https://lolonolo.com/2024/05/23/erken-cocuklukta-fen-ve-matematik-egitimi-2023-2024-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:34:20+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Çocuklar saymayı öğrenirken yaygın olarak hangi tür hata yapılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sayıları tekrarlama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ters sırayla sayma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bazı sayıları atlama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sayı adlarını ve sembollerini karıştırma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sıfırı göz ardı etme",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Sayı korunumu hakkındaki yanlış anlamalar çocuklarda nasıl giderilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sayıları ezberleme üzerine yoğunlaşarak bu beceriyi geliştirecek etkinliklerle",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Miktarın düzenlemeye rağmen aynı kaldığını gösteren etkinliklerle",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Daha fazla sayı ismi öğreterek etkinliklerle",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklarda sayma hızını geliştirme potansiyeli olan etkinliklerle",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sayı sembolü tanıma üzerine odaklanarak ve bu beceriyi geliştirerek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Bir çocuğun aritmetikte sayı ilişkilerini anlama düzeyini en iyi değerlendiren etkinlik hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görüş alanından gizlenmiş nesneleri sayma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Farklı renklerdeki nesneleri sayma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Saymak için bir sayı doğrusu kullanma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nesneleri yeniden düzenleyip sayma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Belirli bir sayıya toplam olarak ulaşan iki sayı bulma",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Tüm eşkenar dörtgenler için aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece bir çift paralel kenara sahiptir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sadece karşı kenarlar eşit olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kenarlar eş ama açılar çoğunlukla dik değildir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kenarlar eş ve açılar dik açı olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tüm açılar eşittir ama kenarlar değildir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Genişleyen bir örüntünün kuralını belirlemekte anahtar unsur aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nesnelerin başlangıçtaki sayısı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Örüntünün renk şeması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kullanılan nesnelerin şekli",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Örüntünün genel uzunluğu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Her adımdaki nesne artışı",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki etkinliklerden hangisi çocuklara aritmetik kullanarak eşit paylaşım kavramını öğretmek için en uygundur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eşyaları bölmek için bir sayı doğrusu kullanma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Arkadaşlar arasında atıştırmalıkları eşit olarak paylaşma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sayıları temsil etmek için parmakları kullanma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nesneleri eşit gruplara ayırma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Farklı renklerdeki nesneleri sayma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Eş kenarları ve eş açıları olan şekil hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dikdörtgen",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Daire",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Altıgen",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kare",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Üçgen",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Okul öncesi dönemdeki matematik eğitiminin çocuklara sağladığı faydaları aşağıdakilerden hangisi en doğru olarak özetler?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gelecekteki matematik ve okuma başarısının temelini atmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Matematiksel sembollerin ezberlenmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sayı saymayı öğretmek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Matematiksel becerilerin geliştirilmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Matematiksel oyunlarla vakit geçirmek",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Okul öncesi dönemde matematiksel kavramları öğretirken, öğretmenlerin kullandığı matematiksel araçların (tangram seti, sayma pulları vb.) çocukların öğrenimine katkısı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Matematiksel işlemlerin daha hızlı yapılmasını sağlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Matematiksel terminolojiyi daha iyi anlamalarını sağlar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Matematik derslerinde dikkat süresini artırır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Soyut kavramların somutlaştırılmasına yardımcı olur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Matematik derslerini daha eğlenceli hale getirir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların doğayı anlamalarına ve takdir etmelerine geometri nasıl uygulanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sanatta doğal nesneleri kullanmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Doğada bulunan bitkileri ve yaprakları saymak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Doğal nesneleri isimlendirmek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doğa resimleri çizerek çizilen resimler hakkında konuşmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Doğal yapılar içinde geometrik şekilleri tanımlamak",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların şipşak sayma becerisini pratik yapmalarına ve anlamalarına en iyi yardımcı olan etkinlik hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların sayı kartlarını nesne gruplarıyla eşleştirmelerini sağlamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Miktarları belirlemek için sayı çizgileri kullanmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuklara nesneleri birer birer saymalarını söylemek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kısa bir süre için bir grup nesne göstermek ve kaç tane olduğunu sormak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklara nesneleri sayısal sıraya göre düzenlemelerini istemek",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Okul öncesi çocuklar için nesneler arasındaki çeşitliliği anlamayı en iyi kolaylaştıracak gruplama yöntemi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel bir kriter olmadan rastgele gruplama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çok kriterli gruplama (örneğin, şekil, boyut, renk)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tek bir özelliğe göre gruplama (örneğin, renk)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nesnenin kullanımına göre gruplama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Oyuncakların üreticisine göre gruplama",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Öğretmenler, sınıfta sayı duyusunun gelişimini nasıl kolaylaştırabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aritmetik işlemlere yoğunlaşarak işlem yapma becerileri geliştirerek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Daha fazla sayı ismi ve sembolü öğreterek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sayma üzerine tekrarlı alıştırmalar yaparak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sayıları içeren etkileşimli ve bağlamsal etkinlikler yaparak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sayı sembollerini tanıma hızına odaklanarak",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Erken çocukluk matematiğinde öncelikle ele alınan iki temel aritmetik işlem hangileridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çarpma ve bölme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kare alma ve karekök",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Toplama ve çıkarma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Üsler ve logaritmalar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kesirler ve ondalıklar",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Temel şekiller arasında daireye özgü olan özellik hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dört kenarının olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Açıları olması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir çokgen olması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Paralel kenarları olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Merkezden eşit uzaklıkta olması",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Öğretmen, öğrencilere toplama işlemini öğretirken, Piaget’in “tersine çevrilebilirlik” kavramını nasıl kullanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Problemlerde yalnızca çift sayıları kullanarak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğrencilere sadece matematiksel semboller sunarak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğrencilerin her zaman aynı yöntemi kullanmalarını sağlayarak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Anlamalarını sağlama için sadece teorik bilgi vererek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Toplama işlemini geriye doğru çıkarma işlemiyle ilişkilendirerek",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların toplama ve çıkarma problemlerini çözme yeteneklerini etkin bir şekilde geliştiren strateji hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece grup ortamında çözmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sadece ezberlemeye dayalı öğrenme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Teorik kavramlara odaklanmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bloklar gibi manipülatifleri kullanmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dijital araçlara bağlı kalmak",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Nesneleri gruplandırma bağlamında aşağıdakilerden hangisi ikili gruplandırma örneğidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kitapları türlerine göre düzenlemek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Silgili ve silgisiz diye kalemleri ayırmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Blokları renk ve boyuta göre ayırmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaprakları renklerine göre kategorize etmek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Oyuncakları şekillerine göre gruplamak",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Erken çocukluk matematiğinde ezbere saymayı eşleştirerek saymadan ayıran aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ezbere sayma geriye doğru saymayı, eşleştirerek sayma ileriye doğru saymayı içerir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ezbere sayma daha hızlıdır, eşleştirerek sayma daha yavaş ama daha doğrudur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ezbere sayma fiziksel nesneleri kullanır, eşleştirerek sayma soyuttur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ezbere sayma büyük sayılar için, eşleştirerek sayma küçük sayılar içindir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ezbere sayma, sayıların sırasını, eşleştirerek sayma miktarı anlamayı içerir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların saymada öğrendiği ilk ilke aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gruplar halinde sayma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Soyut sayma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Geriye doğru sayma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sayı sembollerini anlama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sabit sıra ile sayma",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "2f8b37c44dd0ee110b157f349618444e1d98c815843f1f4441ee4f28d47caae9"
+}

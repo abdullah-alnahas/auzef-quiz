@@ -1,0 +1,332 @@
+{
+  "course": "Özel Eğitime Giriş",
+  "course_slug": "ozel-egitime-giris",
+  "exam": "2021-2022 Vize Soruları",
+  "exam_slug": "vize-2021-2022",
+  "page_title": "Özel Eğitime Giriş 2021-2022 Vize Soruları",
+  "source_url": "https://lolonolo.com/2022/11/11/ozel-egitime-giris-2021-2022-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:33:45+03:00",
+  "answer_source": "inline",
+  "question_count": 9,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "İletişim kurmanın bireye sağladığı yararlar arasında aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "dil gelişimine katkıda bulunma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "farklı durumlara adapte olma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "insanlarla bağ kurma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "problem çözme becerisini arttırma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "farklı düşüncelere adapte olma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "İletişim sayesinde birey hangi ihtiyaçlarını karşılamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fiziksel olarak gelişim göstermektedir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dikkat düzeyi artmaktadır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Küçük kas becerileri gelişmektedir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnsanlara düşüncesini ve bilgisini paylaşabilmektedir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Akademik becerilerde zorlanmamaktadır",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi görme keskinliği ölçümünde kullanılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Total görme testi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Snellen göz tarama testi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Braille göz tarama testi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zeiss görme testi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duocrome görme testi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Otizm spektrum bozukluğu ile ilgili aşağıdaki sorulardan ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Otizm doğum öncesi tespit edilebilir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Otizmin tek bir sebebi bulunmaktadır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Otizm sadece çevresel bir sorundur",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Otizm çevresel sorunların neden olduğu nöro-gelişimsel bir sorundur",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Otizm sadece nöro-gelişimsel bir sorundur.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Özel öğrenme güçlüğüne ilişkin aşağıda verilen bilgilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir hastalık olduğundan tıbbi bir ilacı vardır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Duyu organlarından kaynaklı öğrenememe durumudur",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Normal ya da normalin üstünde zekaya sahiptir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zihinsel bir engeldir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Her seferinde üstün zekalı olmaktır",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Bireyin dil ediniminde sosyal çevrenin önemli olduğunu ve dil gelişiminin bilişsel gelişimi de etkilediğini öne süren psikolog kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Piaget",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Samurel Kirk",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Skinner",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Freud",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Vygotsky",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Özel öğrenme güçlüğü ilk kez kim tarafından kullanılmış ve onaylanmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Franz Joseph gail",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Samuel kirk",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Adolf kussmaul",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "DSM-V",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "William crunckshank",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Yardımcı araçlar kullanarak sosyal ortamlara adapte olup, öz bakım ve akademik anlamda desteğe ihtiyaç duyan bireyin yaşadığı bedensel yetersizlik hangi derecededir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Az derecede",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çok ağır derecede",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Orta derecede",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hafif derecede",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ağır derecede",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi merkezi sinir sistemindeki yetersizliklerden kaynaklanan bedensel yetersizlik değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Spina bifida",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Multiple sklerozis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Serebral palsi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukluk artriti",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk felci",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "dcd2640c9fe239cc513c818058537d23ce6063a7ea2f12819f34810201eff036"
+}

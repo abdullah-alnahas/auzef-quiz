@@ -1,0 +1,847 @@
+{
+  "course": "Yaşam Becerileri",
+  "course_slug": "yasamb",
+  "exam": "2021 Vize Soruları",
+  "exam_slug": "vize-2021",
+  "page_title": "Yaşam Becerileri 2021 Vize Soruları -2",
+  "source_url": "https://lolonolo.com/2023/04/06/yasam-becerileri-2021-vize-sorulari-2/",
+  "scraped_at": "2026-11-12T11:33:32+03:00",
+  "answer_source": "markup",
+  "question_count": 23,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi problem davranış teorisini doğru olarak açıklamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu teori problem davranışların ortadan kaldırılması için eğitim programlarn geliştirilmesine yönelik ortaya çıkmıştır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bu teori bireyin riskli veya problemli davranışlarının ortaya çıkma nedenleri üzerine yoğunlaşmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bu teori problem davranışları ortadan kaldırmak için geliştirilmiştir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bu teori bireyin problem durumlar karşısında nasıl sağlam durabileceğini açıklamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bu teori problem davranişları ortaya çıkarmak için geliştirilmiştir",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Psikolojik sağlamlık teorisi ile yaşam becerileri arasındaki ilişki konusunda aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaşam becerilerinin eksikliği psikolojik sağlamlığımızı risk altına atabilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bireyin sahip olduğu yaşam becerileri psikolojik sağlamlığı artırabilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaşam becerileri psikolojik sağlamlık için koruyucu faktörler arasındadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sahip olunacak yaşam becerieri ile bireyler riskli durumlara karşı donanımlı hâle gelebilirler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaşam becerileri problem davranışların sergilenmesini her zaman engeller, böylece birey psikolojik sağlamlığını kaybetmez.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Sosyal Öğrenme Kuramı’na göre öğrenmenin temel süreçlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Motivasyon",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dikkat etme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Akılda tutma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öz düzenleme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Davranışı tekrarlama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi yaşama beceileri ile ilgili yanlış bir bilgi içermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaşama becerileri bireyin sadece iş hayatı üzerinde etkilidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaşama becerileri erken çocukluk yıllarından itibaren geliştirilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaşama becerileri kültürel özelliklerden etkilenmektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaşama becerileri bileşenleri ülkenin gelişmişlik düzeyine göre farklılık gösterebilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaşama becerileri teknik olmayan becerileri içermektedir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi karar verme sürecinin aşamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Alternatif karar seçeneklerini tanımlama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Alternatif karar seçeneklerini değerlendirme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karar verilmesi gereken durumu tanımlama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Başkalarından alternatif fikirler alma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Alternatif karar seçeneklerinden birisini seçme",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi Psikolojik Sağlamlık Teorisi ile ilgili yanlış bir bilgi içermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Riskli ve travmatik durumlar sonucunda ortaya çıkar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hayatın tüm alanları için geçerli olmayabilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğrenilebilen bir özelliktir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Durağan bir süreci kapsamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geliştirilebilir bir özelliktir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "İlköğretim kademesindeki çocuklara ve ailelere yönelik 15 haftayı kapsayan ve haftada 20-30 dakikalık oturumlar şeklinde planlanan yaşam becerileri eğitimi örgün eğitimde yürütülen yaşam becerileri eğitim programlarından hangisine bir örnek olarak verilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bağımsız ders",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dersin yaşam becerilerine göre uyarlanması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bütünleşik ders",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Akademik ders materyali ile bütünleştirme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tüm okul yaklaşımı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okul dışında yürütülen programların riskleri arasında yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sağlık, mesleki veya akademik beceriler bir arada verilebilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hedef kitlenin özelliklerine göre konular belirlenir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Esnek programlardır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bir veya birden fazla beceriyi hedefleyebilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Küçük ölçekli programlardır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağdakilerden hangisi “yaşam becerileri” kavramını en iyi şekilde tanımlamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zamana veya teknolojik gelişimlere bağlı olarak geçerliliğini yitirmeyen becerilerin tümüdür",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Birey, kendisi ile aynı bilgi deneyime sahip olan diğer bireylerden ayıran temel kişisel özelliklerin tümüdür.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bireyin kendini koruma, geliştirme, sağlıklı olma, sosyal ilişkiler kurma gibi alanlarda yetkin olmasını sağlayan, yaşam boyu ihtiyaç duyacağı becerilerdir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "En genel anlamı ile teknik olmayan becerilerin tümüdúr.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Genellikle kişinin sosyal gelişimi ve ilişkileri ile ilgili olup teknik becerilere oranla ölçülmesi daha karmaşık olan becerilerin tümüdür",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi Yaşama Becerileri Eğitimi Standartları açısından değerlendirildiğinde yanlış bir bilgi içermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaşama becerileri eğitimi programları çocuk merkezli olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaşama becerileri eğitimi çocuklara bilgi, tutum ve beceri kazandırmayı hedeflemelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaşama becerileri eğitimi süreç odaklı olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaşama becerileri eğitimi çocukların ve gençlerin kendilerini rahat ve güvende hissettikleri bir ortamda verilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaşama becerileri eğitimi programları çocukların htiyaçları doğrultusunda hazırlanmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "I. Çocuklar duyu organları aracılığı ile çevrelerini tanımaya başlar. II. Yetişkinden bağımsız davranışlar sergilemeye başlar, III. Yaratıcılıklarını sanatsal etkinliklerle ortaya koyar. IV. Oyunlarında kovalama, yakalama gibi motor eylemler gözlemlenir. Yukarıdaki seçeneklerden hangileri bebeklik dönemindeki çocukların yaratıcılık gelişimi ile ilgili özellikleri yansıtmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I-II",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II-IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I-IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "III-IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "II-III",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi yaşama becerilerinin bileşenlerinin değişkenliğini etkileyen durumlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireylerin eğitim düzeyi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bireylerin gelişim düzeyi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bireylerin yaşı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bireylerin cinsiyeti",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireylerin eğitim ihtiyacı",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Murat öğretmen sınıfındaki çocukların sevdiği ve sevmediği şeyleri, aile ve ev hayatlarinı çocuklarla konuşmakta ve onlar için önemli şeyleri dinlemeye zaman ayırmaktadır. Aşağıdaki şıklardan hangisi Murat öğretmenin çocukların yaratıcılıklarını desteklemek için sahip olduğu özelliğini açıklamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuklara birey olarak değer verme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların gelişim özelliklerini bilme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların tüm duyularını geliştirmeyi amaçlama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların bağımsız davranmasını teşvik etme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların öğrenmeyi sevmesini sağlama",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okullarda verilen yaşam becerileri eğitimlerinin avantajları arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tüm çocuklara ve gençlere yöneliktir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk dostu ortamlar bulunmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hedef kitleye ulaşmak kolaydır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okullar uygun ortam olarak görülmektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tecrübeli eğitmenler bulunmaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "……..zor şartlar altında olumlu ve beklenmedik başarılar kazanma ve sıra dışı şart ve durumlara uyum sağlama becerisi olarak açıklamaktadır. Yukarıda yer alan boşluk aşağıdaki seçeneklerden hangisini tanımlamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikolojik sağlamlık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Risk faktörleri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Uyum sağalama becerisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Problem davranış teorisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Koruyucu faktörler",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Ergenlikle beraber vücudun tüylenmesi, ağırlığın artması, boy uzaması ve cinsel olgunluğa erişim gibi vücutta meydana gelen değişiklikler aşağıdakilerden hangisi ile ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cinsiyet",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Biyolojik değişimler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal algı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal gelişim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilşsel gelişim",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Bir ilkokulda tarih dersi kapsamında öğrencilerin iletişim ve problem çözme becerilerinin de geliştirilmesi hedeflenmektedir. Öğrencilerin tarih hakkında bilgi edinmelerinin yanı sıra öğrencilerle iletişim ve problem çözme aktiviteleri de uygulanmaktadır. Yukarıda bahsedilen yaşam becerileri eğitimi hangi başlığa bir örnek olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dersin yaşam becerilerine göre uyarlanması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Akademik ders materyali ile bütünleştirme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tüm okul yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bağımsız ders",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bütünleşik ders",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi yaratıcılığın bilişsel boyutları arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tasarlama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Esneklik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ayrıntılandırma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Akıcılık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Özgünlük",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Psikolojik sağlamlıkla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikolojik sağlamlık riske karşı bireyin baş etme becerilerini sergilediği bir süreci kapsamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Psikolojik sağlamlıktan söz edebilmek için bireyin zorlu veya riskli bir duruma maruz kalmış olması gerekmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bireyin psikolojik sağlamlık kapasitesi artabilmekte veya azalabilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Psikolojik sağlamlığın durağan olma özelliği bulunmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Psikolojik sağlamlık geliştirilebilir veya öğrenilebilir olma özelliği taşımaktadır",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Orta çocukluk döneminde problem çözmeye etki eden faktörlerden en önemlisi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikolojik durum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Beynin ön lobu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Beynin arka lobu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Akran ilişkileri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sezgisel düşünme",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "Bireylerin davranışlarının çevresindeki kişilerin görüş ve düşüncelerinden etkilendiğini ve bu etkiyi matematiksel denklemlere dayandırarak açıklayan kuram hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal Öğrenme Kuramı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Duygusal Gelişim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Psikolojik Sağlamlık Teorisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Problem Davranış Teorisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal Etki Teorisi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Selma arkadaşları arasında sevilen bir gençtir. Selma sadece kendi yaşıtları ile değil hem kendinden yaşça büyük hem de küçük kişilerle de yakın ilişkiler kurabilmekte ve sürdürebilmektedir. Yukarıdaki durum göz önünde bulundurulduğunda Selma’nın yaşama becerilerinin hangisinin gelişmiş olduğu söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sorun çözme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Duygularla baş etme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Empati",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişiler arası ilişkiler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öz farkındalık",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "I. Ergenler karar verirken arkadaş gruplarından etkilenir. II. Ergenlerin riskli karar almalarında sosyal çevreleri etkilidir. III. Ergenler karar verirken toplumsal düzeni dikkate alırlar. IV. Ergenlerin karar verme davranışları ahlaki gelişim düzeyleriyle paralellik gösterir. Yukarıda ergenlerin karar verme davranışları ile ilgili verilen bilgilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I-II-III-IV",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "6b3ff2771480c3dbfdb49361ad65699b4f186d8576bf50280d490e03e603caa1"
+}

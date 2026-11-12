@@ -1,0 +1,662 @@
+{
+  "course": "Çocuk Edebiyatı",
+  "course_slug": "cocuk-edebiyati",
+  "exam": "2021 Final Soruları",
+  "exam_slug": "final-2021",
+  "page_title": "Çocuk Edebiyatı 2021 Final Soruları -1",
+  "source_url": "https://lolonolo.com/2021/01/13/cocuk-edebiyati-2021-final-sorulari-1/",
+  "scraped_at": "2026-11-12T11:33:53+03:00",
+  "answer_source": "markup",
+  "question_count": 18,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Modern anlamda çocuk edebiyatı batıda hangi dönemde başlamıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "19. Yüzyıl",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "17. yüzyıl",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "16. Yüzyıl",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "15. Yüzyıl",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "18. yüzyıl",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki Yargılardan hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "çocuğun reddetme isteğine saygı duyulmalıdır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "çocuk kitap seçimi hakkında Özgür olmalıdır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "çocuğun kitap seçme özgürlüğü olmamalıdır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "kitap seçme özgürlüğü çocuğa özgüven verir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "çocuğa eleştirme özgürlüğü tanınmalıdır",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Cumhuriyet öncesi dönemde yazılan ve kahramanı özellikle kız olan kitaplar arasında yer alan Çalıkuşu romanının yazarı kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hüseyin Rahmi Gürpınar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Reşat Nuri Güntekin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Halide Edip Adıvar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Halit Ziya Uşaklıgil",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Pakize Başaran",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda bulunan hangi ortamda veya durumda okurlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Boş buldukları anlarda",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Evin dışında",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aile veya sınıf arkadaşları ile gidilen ortamlarda",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sıkıcı gelen ortamlarda",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Jules Verne çocuk edebiyatına hangi türdeki Romanlarıyla katkı sağlamıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "bilim kurgu romanı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tarihi Romanlar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "biyografik romanlar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Eğlenceli Romanlar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "aşk romanları",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk kitapla En erken hangi yaşta bir araya gelir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0-1",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1-2",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "2-3",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3-4",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "4-5",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Yazar……………değildir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "kitabı yazan kişi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "kitabı okuyan kişi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "öğretmen",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "yazar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "yazmayı seven kişi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuk edebiyatının başlangıç romanı sayılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Balonla beş hafta",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Heidi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Robinson Crusoe",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pinokyo",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aya Yolculuk",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "J.W.Goethe’in 1774 Yılında yayınlanan Ergenlik dönemine dönük sorunları yansıtan eseri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yüzüklerin Efendisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Harry Potter",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Genç werther'in acıları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Alacakaranlık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Suç ve Ceza",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuk edebiyatı yazarının sahip olması gereken özelliklerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "yazar Hayata bir şey söylerken buyruklar vermez",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bir yazarın inancının ideolojisinin olması doğaldır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "yazar ne öğretmendir ne annene de babadır yazardır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "yazar kendi gerçeğini ön planda tutmalıdır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "yazarlar yazdıkları metinlerin türünü bilmelidir",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Türk Dil Kurumu çocuk kavramını tanımlarken aşağıdaki kavramlardan hangisine yer vermez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "beceriksiz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "karizmatik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "erkek veya kız",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Uşak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "genç erkek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun kitap seçme özgürlüğü ile ilgili aşağıdaki yargılardan hangisi doğrudur ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özgüven oluşturmamaya neden olur",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaşamı deneme hakkı sunar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Özgür olma hakkı sunmaz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hiçbiri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Deneyim kazanmayı engeller",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Okuma eylemi çocuğa aşağıdakilerden hangisini sağlamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okuma sürecinden sonra çocuğun dilselleştirme sürecine katkı sağlar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yetişkin ve çocuk arasındaki iletişimi arttırır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hepsi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hayata dokunmasını sağlar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk sorunlarına dönüp yanıtlar bulur",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "1-2 yaş Çocuklara yönelik kitaplar aşağıdaki maddelerin hangisinden yapılabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Plastik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ahşap",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hepsi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Lastik",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "İletişimsizlik hangi dönemin en büyük sorunudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bebeklik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ergenlik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaşlılık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yetişkinlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukluk",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yolculuk özgürlüğünü ele alan eserlere örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "define hikayesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Robinson Crusoe",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "80 Günde Devri Alem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "hepsi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Odisseus",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Polisiye romanlarına ilişkin aşağıdaki yargılardan hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Salt şiddet içeren ve başka bir şey söylemeyen bir metin olmamalı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "sorgulamaya açık olmalı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "salt şiddete odaklanmalı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "düşündürmeye açık olmalı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "sistematik oluşturmaya açık olmalı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Helmut Metzlere’e göre Türk edebiyatı kaç aşamadan oluşmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Üç",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dört",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Beş",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Altı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yedi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "d9c4a5f27b016846a40c93b57ec3e54c4741f18c153a17dd936b2d9ae0b4ee87"
+}

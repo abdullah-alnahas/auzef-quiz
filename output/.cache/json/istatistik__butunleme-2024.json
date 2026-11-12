@@ -1,0 +1,739 @@
+{
+  "course": "İstatistik",
+  "course_slug": "istatistik",
+  "exam": "2024 Bütünleme Soruları",
+  "exam_slug": "butunleme-2024",
+  "page_title": "İstatistik 2024 Bütünleme Soruları (ÇG)",
+  "source_url": "https://lolonolo.com/2024/08/22/istatistik-2024-butunleme-sorulari-cg/",
+  "scraped_at": "2026-11-12T11:33:28+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Varyansı 529 olan bir dağılımın standart sapması aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "30",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "19",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "26",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "23",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Herhangi bir gözlem değerinin bir dağılım içinde konumunu yani nerede yer aldığını belirlemede ……. kullanılmaktadır.\n Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "standart sapma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "varyans",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "ortalama sapma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "değişim katsayısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "standart değer",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Tek bir maddenin fiyatlarında baz yılı ya da başlangıç yılı fiyatına göre zaman içinde meydana gelen oransal değişimler ……. ile ölçülür.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "sabit esaslı Paasche indeksi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "değişik esaslı basit indeks",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "sabit esaslı Laspeyres indeksi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "sabit esaslı basit indeks",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "sabit esaslı bileşik indeks",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "İki para birlikte atıldığında en az bir paranın tura gelmesi olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1,00",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1/4",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3/4",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "1,8",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1/2",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Standart sapması 8, aritmetik ortalaması 14 olan dağılımın değişim katsayısı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "% 25,52",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "% 57,14",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "% 18,33",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "% 171,42",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "% 27,83",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Başlangıç dönemindeki birden fazla mal ve hizmeti içeren tüketim kalıbının sürdürülebilmesi için cari dönemde ne kadar ödeme yapılması gerektiği hususunda …….. kullanılmaktadır.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Laspeyres fiyat indeksi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fisher’in ideal indeksi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "sabit esaslı basit indeks",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Paasche fiyat indeksi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "değişik esaslı basit indeks",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Bir tesadüfi değişkenin alabileceği tüm değerlerin, bu değerlerin gerçekleşme olasılıkları ile birlikte ele alınmasıyla ya da başka bir deyişle tam sistem olasılığının tüm mümkün sonuçlara nasıl dağıldığının gösterilmesiyle aşağıdaki hangi kavram tanımlanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beklenen değer",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Örnek uzayı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Olasılık dağılımı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tesadüfi deney",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tesadüfi değişken",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Yukarıdaki tabloda birden fazla mal ve hizmetten oluşan madde sepetindeki miktar ve fiyat bilgilerinden hareketle Laspeyres fiyat indeksi ve Paasche fiyat indeksi değerleri elde edilmiştir.\n2023 yılına ait Fisher’in ideal indeks değeri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "153,542",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "100,000",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "155,414",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "124,749",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "153,416",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Bir fabrikada üretilen ürünlerin %20’sinin kalitesiz olduğu bilinmektedir. Buna göre tesadüfen seçilen 20 üründen kaçının kalitesiz olması beklenir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "6",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Sınıflar\n0-30,\n30-60,\n60-80,\n80-100.\nYukarıdaki sınıflanmış dağılımda sınıflara ilişkin sınıf genişlikleri sırasıyla aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "30, 60, 80, 100",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "30, 30, 20, 20",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "15, 45, 70, 90",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "30, 20, 30, 20",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0, 30 ,60, 80",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Bir öğrenci üniversite sınavına hazırlık aşamasında dört deneme sınavına katılmış ve söz konusu testlerde doğru cevap sayıları 50, 60, 60, 70 olmuştur. Buna göre öğrencinin testlerdeki ortalama doğru cevap sayısı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "80",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "70",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "75",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "65",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "60",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Yukarıdaki tabloda 2020-2023 yıllarında İstanbul’daki 1 litre süt fiyatları verilmiştir. Bu tabloya göre 2023 yılı için sabit esaslı basit indeks değeri aşağıdakilerden hangisidir? (Baz yılı 2020’dir.)",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "125",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "187,5",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "437,5",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "150",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "175,5",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Bir veri toplama işlemi sonucunda bütün birimlerin aynı olması, başka bir deyişle eşit değer alması durumunda standart sapmanın değeri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sıfır olur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bir şey söylenemez.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir olur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aritmetik ortalamaya eşit olur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ortalamanın yarısına eşit olur.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "İstanbul-Konya arasındaki uçuş süresinin normal dağıldığı bilinmektedir. Daha önce yapılan gözlemler sonucunda ortalama uçuş süresi 2900 saniye ve standart sapma 400 saniye olarak hesaplanmıştır. Buna göre herhangi bir uçuş süresinin 2900-3600 saniye arasında olma olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0,2458",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,1245",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0,1056",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0,4599",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0,3944",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Yukarıda verilen serinin modu (egemen değeri) aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "10",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "12",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Bir sınava giren 220 öğrenciden 132’si başarılı olmuştur. Buna göre 220 öğrenci arasından tesadüfen seçilecek bir öğrencinin başarılı olma olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0,60",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,54",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0,64",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0,52",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0,58",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki araştırmalardan hangisinin birimi maddi birim olarak nitelendirilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doğum istatistikleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ölüm istatistikleri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Evlenme istatistikleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Boşanma istatistikleri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bina istatistikleri",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Normal eğri alanları tablosunda z=1,32’ye karşılık gelen olasılık değeri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0,3515",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,4225",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0,4200",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0,4066",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0,4125",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Bir istatistik çalışmasında toplanan verilerin birbirine yakın değerlerini, homojen gruplarda toplamak suretiyle oluşturulan, alt ve üst sınırı belli aralıkların her birine ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınıf",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Birim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tasnif",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Frekans",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sınır",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşırı değer içeren ya da geometrik dizi özelliği gösteren serilerde temsili bir duyarlı ortalama hesaplanmak istendiğinde aşağıdaki ortalamalardan hangisi kullanılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Egemen değer",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ağırlıklı ortalamaE) Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aritmetik ortalama",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "ae07e6cf3fd4f56a73e0760d79a0083a04adcf43c90a64feddf341622bde7950"
+}

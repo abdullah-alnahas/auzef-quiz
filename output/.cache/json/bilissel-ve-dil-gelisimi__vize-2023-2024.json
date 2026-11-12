@@ -1,0 +1,739 @@
+{
+  "course": "Bilişsel Ve Dil Gelişimi",
+  "course_slug": "bilissel-ve-dil-gelisimi",
+  "exam": "2023-2024 Vize Soruları",
+  "exam_slug": "vize-2023-2024",
+  "page_title": "Bilişsel ve Dil Gelişimi 2023-2024 Vize Soruları",
+  "source_url": "https://lolonolo.com/2024/05/16/bilissel-ve-dil-gelisimi-2023-2024-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:34:01+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "“Bir bebeğin, bir davranışı öğrenebilmesi için kendisinden beklenilen görevleri yapabilecek düzeye gelmesi” şeklinde ifade edilen kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kavrama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Olgunlaşma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Güdülenme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Algılama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dikkat",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Bruner’in bilişsel gelişim dönemleri “eylemsel, imgesel ve ….. ” olarak üç dönemde incelenmektedir. Yukarıdaki boşluğa getirilebilecek en uygun ifade aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "duyu-motor",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "sembolik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "içsel",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "sezgisel",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "işlem öncesi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Çocuklar başkalarının inançlarını anlama becerilerini kaç yaşlarında geliştirmektedirler?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5 yaş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "4 yaş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3 yaş",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "6 yaş",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "2 yaş",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Anadolu Sak Zekâ Ölçeği (ASİS) hangi yaş grubundaki çocukları değerlendirmek amacıyla geliştirilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1-1,5 yaş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "13-15",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0-1 yaş",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2-3 yaş",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "4-12 yaş",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bilişsel gelişimi etkileyen genetik etmenlerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kötü yaşama şartları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bebeğe ait özellikler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Beslenme yetersizliği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yetersiz sağlık hizmetleri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zayıf ebeveynlik becerileri",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bilişsel gelişimi etkileyen doğum ile ilgili etmenlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kardeş sayısı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Erken doğum durumunun olması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Annenin hamilelik sırasında geçirdiği hastalıklar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doğum esnasında bebeğin oksijeninin kesilmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hamilelikte kontrolsüz ilaç kullanımı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Piaget’e göre sembolik düşünce gelişimi dönemi hangi yaşlar arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "7-8 yaş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3-5 yaş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "4-7 yaş",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2-4 yaş",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1-2 yaş",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Kütle korunumu kaç yaş civarında kazanılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3-4 yaş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "7-8 yaş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1-2 yaş",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "5-6 yaş",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "9-10 yaş",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yaratıcılık sürecinde yer alan ögelerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Motivasyon",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İsteklilik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Deneyim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kusursuzluk",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Özgünlük",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Vygotsky’nin Bilişsel Kuramında bulunmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşlem öncesi dönem",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öz-düzenleme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İleri zihinsel işlevler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İçsel konuşma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yapı iskelesi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Erken çocukluk döneminde çocuklar tarafından kazanılan kavramların birtakım ortak ilkeleri bulunmaktadır. Aşağıdakilerden hangisi bu ilkelerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eşleştirme ilkesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Güvenilmezlik ilkesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mutlaklık ilkesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Erişilmezlik ilkesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kendine özgülük ilkesi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların gelişimlerinin değerlendirildiği, Psikomotor Gelişim alanında 73, Bilişsel Gelişim alanında 60, Dil Gelişimi alanında 60 ve Sosyal Duygusal Gelişim alanında 56 madde olmak üzere toplamda 249 maddeden oluşan ölçme aracı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bayley",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "GEÇDA",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Denver",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Wechsler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Asis",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "“İkinci döngüsel tepkilerin koordinasyonu” dönemi hangi aylar arasında görülmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0-3 ay",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "4-7 ay",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "17-20 ay",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "13-16 ay",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "8-12 ay",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Piaget’in Bilişsel Gelişim Kuramına göre hangi yaşlar soyut işlemler dönemi olarak adlandırılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "15 yaş ve sonrası",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "10-12 yaş ve sonrası",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "7-10 yaş sonrası",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "11-15 yaş ve sonrası",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "9-12 yaş ve sonrası",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "“Çocukların öğrenme yaşantılarında kullanılabilecek en etkili aracın ….. olduğunu söylemek mümkündür. Erken çocukluk döneminde çocukların bilişsel gelişimini destekleyebileceği en etkili yol olduğu söylenebilir.” Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "dil",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "yaratıcılık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "zekâ",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "bilgisayar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "oyun",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "I. Uyku-uykusuzluk\nII. Duygusallık\nIII. Motivasyon\nIV. Bellek sınırlılıkları\nYukarıda verilenlerden hangileri algılama sürecini etkilemektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I-III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II-III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I-II-III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I-III-IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "II-IV",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bilinçli dikkatin amaçları arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aynı anda birden çok uyarıcıya dikkat ederek odaklanılabilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Eski yaşantılar ile anlık duyuları birbiri ile ilişkilendirmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bireyin kontrol ve planlama yapmasını sağlamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişilik yapısını sürekli ve sabit tutmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireyin çevre ile olan etkileşimini düzenlemektedir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "“Bellek” aşağıdakilerden hangisini kapsamamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uzun süreli olarak saklanması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kısa süreli olarak saklanması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hatırlamanın her an olması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kaydedilerek depolanması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yeni bilgilerin öğrenilmesi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Anadolu Sak Zekâ Ölçeğine göre puanı “70­84 aralığında çıkan çocuk” aşağıdakilerden hangisiyle sınıflandırılabilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Üstün zekâ",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Normalin biraz altında gelişim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Normal zekâ",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Normalin üstünde",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zayıf gelişim",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Hacime göre sıralayabilme becerisi kaç yaş civarında kazanılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "9-10 yaş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "11-12 yaş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "12-13 yaş",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "10-11 yaş",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "8-9 yaş",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "8c47769ea1de7c4c1a71b34d9c482c20a8b1af36f8e0f495280e2e450d8b35d4"
+}

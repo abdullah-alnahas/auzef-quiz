@@ -50,6 +50,7 @@ export interface Exam {
   /** Combined sessions only. */
   scope?: Scope;
   sourceExamIds?: string[];
+  sourceExams?: string[];
 }
 
 export interface ExamSummary {

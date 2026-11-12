@@ -1,0 +1,739 @@
+{
+  "course": "Auzef Türk Dili 2",
+  "course_slug": "auzef-turk-dili-2",
+  "exam": "2025-2026 Bütünleme Soruları",
+  "exam_slug": "butunleme-2025-2026",
+  "page_title": "Türk Dili-2 2025-2026 Bütünleme Soruları",
+  "source_url": "https://lolonolo.com/2026/07/09/turk-dili-2-2025-2026-butunleme-sorulari/",
+  "scraped_at": "2026-11-12T11:33:41+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Formel deneme türünün öncüsü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Francis Bacon",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "James Joyce",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Virginia Woolf",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Shakespeare",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sophokles",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “konuşmacı” anlamına gelmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anlatıcı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Eleştirmen",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Muhabir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yazar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hatip",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Gündemle ilgili kararların yazıldığı tutanak çeşididir. Bu tür tutanaklarda konuşulanlarda herhangi bir değişiklik yapılmaz.\nYukarıda tanımı yapılan tutanak türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Şikâyet tutanağı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Resmî tutanak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Olay tutanağı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Toplantı tutanağı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Özel tutanak",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Yerli yerinde yapılmazsa anlam karışıklığına sebep olan, konuşma cümlesindeki anlamın gereği olarak anlam birimlerini birbirinden ayırmak için gerçekleştirilen ses kesintisine ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vurgu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Durak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Boğumlanma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ulama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ton",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Konuşma sırasında ses titreşimlerinin yükselip alçalmasından ve ritimdeki değişikliklerden kaynaklanan perdelenme ve dalgalanmaya…….adı verilir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "boğumlanma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "ton",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "ulama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "durak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "vurgu",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Beni kör kuyularda merdivensiz bıraktın\nDenizler ortasında bak yelkensiz bıraktın\nÖylesine yıktın ki bütün inançlarımı;\nBeni bensiz bıraktın; beni sensiz bıraktım.\nYukarıdaki dizelerde aşağıdaki duygulardan hangisine yer verilmemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karamsarlık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ölüm korkusu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çaresizlik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnızlık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sitem",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "• Gözler metne odaklanır.\n• Harfler tanımlanır/ sesletilir.\n• Sözcükler tanımlanır.\n• Sözcükler dil bilgisel sınıflara ve tümce yapılarına ayrılır.\n• Tümceler anlamlandırılır.\n• Anlamlandırma sonucunda düşünme meydana gelir.\nYukarıda aşamaları belirtilen okuma biçemi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tarayarak okuma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaygın okuma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zihin kaynaklı okuma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yoğun okuma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Metin kaynaklı okuma",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sesin taşıması gereken niteliklerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşitilebilirlik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hoşa giderlik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anlamlılık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Akıcılık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Açıklık",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerin hangisinde mektup türleri bir arada verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel mektup - Hitap mektupları - İş mektubu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Edebî mektup - Resmi mektup - Hitap mektupları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Özel mektup - Edebi mektup - İş mektubu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Resmî mektup - Son lafı dile getiren mektup - Özel mektup",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Edebî mektup - Hitap mektupları - Sorunları dile getiren mektup",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "…… belirli bir alandaki uzmanlığın ürünüdür. Konusuna göre bu yazıların sözcük örgüsü o bilim dalının terimlerine açılır. Öte yandan yazarın konusunu rahat, açık ve aydınlık bir biçimde anlatabilmesi, geniş ve zengin bir bilgi birikimine sahip olmasına bağlıdır. Yazarın söylediklerini kanıtlamak gibi bir yükümlülüğü olduğu için daha önceki çalışmaları da gözden geçirmiş olması gerekir.\nYukarıdaki parçada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fıkra",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Günlük",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Makale",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Deneme",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki cümlelerin hangisinde kullanılan tüm kelimeler ince ünlüdür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eve gelirken ekmek getirir misin?",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sabahları erken kalkmak beni mutlu ediyor.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yarınki sınava çok çalışmalısın.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çok çabaladı ama başarılı olamadı.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Manavdan bir kilo patates alır mısın?",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "….. daha genel bir dinleyici kitlesine, ….. ise konusunda uzmanlaşmış kişilerden oluşan topluluğa yani daha özel bir dinleyici kitlesine hitap eder. ….. sunan kişi, konunun uzmanıdır ve ileri sürdüğü görüşü kanıtlamak ister. ….. ise genel bir konu savunulur.\nYukarıda boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konferans - bildiri - Konferans - Bildiride",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bildiri - bildiri - Konferans - Bildiride",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Konferans - bildiri - Bildiri - Konferansta",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bildiri - konferans - Bildiri - Bildiride",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bildiri - konferans - Bildiri - Konferansta",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi rapor türünün özelliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ele alınan konunun yüzeysel bir şekilde anlatılması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Belirli bir plan dahilinde yazılması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Uzunluğunun bir sayfayı geçmemesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yazmak için uzmanlık gerekmemesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öznel değerlendirmelerde bulunulması",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Ben insanı anlatıyorum ve insanlara kendi şahsımda pek fena yetişmiş bir örneğini gösteriyorum. Kendimi anlatırken söylediklerim değişik ve değişken olmakla beraber, hiç gerçeğe aykırı bir laf etmiyorum. Çünkü biliyorum ki her insanda insanlığın bütün hâlleri vardır.\nMontaigne’nin yukarıdaki sözleri aşağıdaki türlerin hangisinden alınmış olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fıkra",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Eleştiri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Günlük",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Deneme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Biyografi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Bir bilimsel araştırma hem doğru ve gerçek veriler ile şekillendirilmeli hem başka araştırmacıların hakları gasp edilmemeli hem de araştırma çevreye, hayvanlara, insanlara saygılı bir biçimde ve onlara zarar gelmeyecek bir şekilde gerçekleştirilmelidir.\nYukarıdaki metinde bilimsel araştırmaya ilişkin aşağıdakilerden hangisi vurgulanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hipotezler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tekrarlılık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilim etiği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Analiz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ampirik yaklaşım",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Bir nutuk (söylev) türü de olan …… genellikle açık havada halka açık yerlerde bir olaya dikkat çekmek için veya gösteri amacıyla yapılan toplantılardır. Siyasiler tarafından tercih edilse de aslında herhangi bir toplumsal tepkinin ifade edildiği gösteriler bu kategoride yer alır.\nYukarıdaki parçada boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "münazara",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "seminer",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "brifing",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "miting",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "konferans",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "İyi bir yazıda yer alan duygu ve düşüncelerin hedefine ulaşabilmesi için bazı yönlerden sorunsuz olması beklenir. Bundan dolayı yazı, bitirildikten sonra ilk cümleden son cümleye kadar bazı yönlerden mutlaka tekrar gözden geçirilmelidir.\nBuna göre aşağıdakilerden hangisi yazı gözden geçirilirken dikkat edilmesi gereken noktalardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Biçim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yazım kuralları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dinleyici",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dil ve anlatım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İçerik",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bilimsel bir makalede bulunması gereken bölümlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tahminler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Özet",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tartışma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sonuç",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Giriş",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Bir gün Hak’dan ihsân ola\nHer müşkil iş âsân ola\nHer derdine dermân ola\nNeyleyeyin gönül seni\nYukarıdaki dörtlükte ‘Her müşkil iş âsân ola’ dizesinin günümüz Türkçesiyle anlatımı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Her zorluktan sona bir kolaylık vardır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Her şey güzel olur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Huzur bulmak zordur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zora dağ dayanmaz.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Her zor iş kolay olur.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "‘Buradan, karaya yaklaşıyor muyuz yoksa uzaklaşıyor muyuz, pek belli olmuyor.’\nYukarıdaki cümlede anlatım bozukluğunun sebebi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tümleç eksikliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sözcüğün yanlış yerde kullanılması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Özne-yüklem uyuşmazlığı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sözcüğün yanlış anlamda kullanılması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yüklem eksikliği",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "aa852fb0c0d4282e91d83de3830886873e9404de716a8ccc095b425d25285583"
+}

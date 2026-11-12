@@ -1,0 +1,739 @@
+{
+  "course": "Yaşam Becerileri",
+  "course_slug": "yasamb",
+  "exam": "2023-2024 Final Soruları",
+  "exam_slug": "final-2023-2024",
+  "page_title": "Yaşam Becerileri 2023-2024 Final Soruları",
+  "source_url": "https://lolonolo.com/2024/07/02/yasam-becerileri-2023-2024-final-sorulari/",
+  "scraped_at": "2026-11-12T11:33:31+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “yaşam becerileri” kavramını en iyi şekilde tanımlamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genellikle kişinin sosyal gelişimi ve ilişkileri ile ilgili olup teknik becerilere oranla ölçülmesi daha karmaşık olan becerilerin tümü",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Zamana veya teknolojik gelişimlere bağlı olarak geçerliliğini yitirmeyen becerilerin tümü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "En genel anlamı ile teknik olmayan becerilerin tümü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bireyin kendini koruma, geliştirme, sağlıklı olma, sosyal ilişkiler kurma gibi alanlarda yetkin olmasını sağlayan, yaşam boyu ihtiyaç duyacağı beceriler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireyi, kendisi ile aynı bilgi ve deneyime sahip olan diğer bireylerden ayıran temel kişisel özelliklerin tümü",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "‘Yaşam Becerileri Eğitiminin en önemli boyutlarından biri bireylerin eğitimler sonucunda yaşam becerilerini uygulayabilmeleridir.’ Yukarıda verilen ifade Yaşam Becerileri Eğitiminin hangi boyutunu vurgulamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tutum boyutu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilgi boyutu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Beceri boyutu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Analiz boyutu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Uygulama boyutu",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "….., empati kurulan kişinin duygu düşünce ve hislerini, kendisi yaşamadan (deneyimlemeden) algılayabilmesidir. Verilen ifadede boş bırakılan yere aşağıdakilerden hangisi gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sempati",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilişsel empati",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Empatik eğilim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Duyuşsal empati",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Empatik beceri",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aslı üniversitede hangi bölüme gitmek istediği ile ilgili annesi ile otobüste konuşurken otobüste seyahat eden tanımadıkları bir kişi de sohbete katılmış ve Aslı’ya tavsiyelerde bulunmuştur. Fakat Aslı’nın kararında bu tavsiyeler herhangi bir şekilde etkili olmamıştır. Yukarıdaki durum Sosyal Etki Teorisine göre hangi kavramla açıklanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Güç",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sayı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sıklık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yakınlık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aile bağları",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Problem Davranış Teorisi’ni doğru olarak açıklamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireyin problem durumlar karşısından nasıl sağlam durabileceğini açıklamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Problem davranışları ortaya çıkarmak için geliştirilmiştir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Problem davranışların ortadan kaldırılması için eğitim programları geliştirilmesine yönelik ortaya çıkmıştır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bireyin riskli veya problemli davranışlarının ortaya çıkma nedenleri üzerine yoğunlaşmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Problem davranışları ortadan kaldırmak için geliştirilmiştir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Sosyal öğrenme kuramına göre öğrenmede dört temel süreç yer almaktadır. Bu süreçler dikkat etme, akılda tutma, ….. ve …… .  Yukarıdaki boşluklara aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Geribildirim – motivasyondur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geribildirim – cezadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Davranış tekrarı – özdüzenlemedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Davranış tekrarı – motivasyondur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ödül – geribildirimdir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Ahmet, 15 yaşında bir lise öğrencisidir. Okulda karşılaştığı problemleri çözmekte zorlandığını ve başarısız olduğunu fark etmiştir. Okulundaki Psikolojik Danışmanlık ve Rehberlik Hizmetlerine başvurup problem çözme becerilerini geliştirebileceği eğitimlerin broşürlerini almıştır. Yukarıda verilen örnekteki gencin yaşadığı durum yaşam becerileri eğitiminin hangi boyutuna örnek olarak verilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanıma boyutu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilgi boyutu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tutum boyutu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirme boyutu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Analiz boyutu",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Mazhar, ahlaki açıdan bir karar verirken hak ve adalet üzerinden çıkarımlarda bulunmaya; kuzeni Ayşe ise sorumluluk ve bakım üzerinden değerlendirmeler yapmaya çalışmaktadır. Bu durumda ahlaki anlayış aşağıdakilerden hangisine göre farklılık göstermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cinsiyet",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal algı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal gelişim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel gelişim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilişsel problem çözme becerileri",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi özel gereksinimli bireylere kazandırılacak toplumsal becerilerden biri değildir? (Soru iptal edilmiştir)",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zamanını uygun değerlendirme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilgi almak için soru sorma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Toplumsal kurallara uyma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Uygun söz kalıplarını kullanma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Stresle baş etme",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Dengesiz duygu durumları en fazla hangi dönemde görülmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Orta çocukluk",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Okul öncesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bebeklik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yetişkin",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ergenlik",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Eda öğretmen kaynaştırma öğrencisi Samet’e model olma yöntemi ile diş fırçalama becerisi kazandırmaya çalışmaktadır. Eda öğretmenin kazandırmaya çalıştığı beceri hangi beceri alanına girmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mesleki",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öz bakım",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eğlence ve boş zaman",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal ve iletişim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Topluma uyum",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Sosyal algı ile yaşam becerileri arasındaki ilişki için aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal algılamadaki yeteneğimiz gelişmedikçe herhangi bir yaşam becerisi de kazanamayız.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal algılarımız değiştikçe farklı yaşam becerilerine ihtiyaç duyabiliriz.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal algılarımız olumlu yönde geliştikçe toplumsal yaşamdaki rolümüz daha da aktifleşmektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bireyin sosyal süreçler içerisinde yeni deneyimler kazanması yeni sosyal algılar geliştirmesini ve yeni beceriler kazanmasını kolaylaştırmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal algı düzeyimiz geliştikçe sosyalleşme süreçlerimiz hız kazanmakta, sosyalleşme süreci arttıkça benlik saygımız artmaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Üç yaşındaki Cemre karar verirken aşağıdakilerden hangisinden etkilenmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplum baskısı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sezgileri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anne baba tutumları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyo-ekonomik düzeyi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Akranları",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda psikolojik sağlamlıkla ilgili verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireyin psikolojik sağlamlık kapasitesi artabilmekte veya azalabilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Psikolojik sağlamlık riske karşı bireyin baş etme becerilerini sergilediği bir süreci kapsamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Psikolojik sağlamlıktan söz edebilmek için bireyin zorluk veya riskli bir duruma maruz kalmış olması gerekmektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Psikolojik sağlamlık geliştirebilir ve öğrenilebilir olma özelliği taşımaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Psikolojik sağlamlığın durağan olma özelliği bulunmaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Cemre ile Ayşe aralarından su sızmayan ve sırlarını paylaşan iki yakın arkadaştır. Mezun olduktan sonra her ikisi de iş aramaya başlamış ve aynı pozisyon için başvurmuşlardır. Cemre Ayşe’ye yaptığı başvurudan bahsetmiş, fakat Ayşe başvurusunu gizli tutmuştur. Sonuç olarak bu pozisyona Ayşe alınmış ve Cemre Ayşe’nin de bu işe başvurduğunu, ama durumu ondan gizlediğini anlamıştır. Cemre arkadaşı ile iletişimini kesmektense onunla konuşmayı tercih etmiş, sonrasında da ilişkisini devam ettirmiştir. Cemre arkadaşlık becerisinin merkezine aşağıdakilerden hangisini koymuştur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yardım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çatışmaları yönetebilme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bağışlayabilme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Birlikteliği başlatma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İşbirliği",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Burak öğretmen çocukların eleştirel düşünme becerilerini geliştirmeye yönelik hazırladığı etkinlikte çocukların etkinliğe maksimum düzeyde katılmalarını hedeflemiştir ve etkinliğini bu şekilde uygulamıştır. Yukarıdaki durum eleştirel düşünme becerilerinin öğretilmesinde dikkat edilmesi gereken hangi özelliği vurgulamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireyin yaş ve gelişim düzeyine uygunluğu önemlidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bireyin önceki öğrenmeleri ile bağlantı kurması önemlidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bireyin öğretim sürecine aktif katılımı önemlidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bireyin istekli ve gönüllü olması önemlidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireyin günlük yaşamı ile bağlantı kurması önemlidir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Yaşama Becerileri Eğitimi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Süreç odaklı olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklara bilgi, tutum ve beceri kazandırmayı hedeflemelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların ve gençlerin kendilerini rahat ve güvende hissettikleri bir ortamda verilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların ihtiyaçları doğrultusunda hazırlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk merkezli olmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Sema, sınıfının en yüksek notlarını alan öğrencisidir. Okul sonrası saatlerini ve hafta sonları boş zamanlarını ders çalışmaya ayırmaktadır. Arkadaşlarının sosyalleşmek için dışarıya çıkma tekliflerini her zaman reddetmekte, kimse ile görüşmemektedir. Bu nedenle derslerinde başarılı olsa da pek arkadaşı bulunmamaktadır. Sema’nın sahip olduğu beceri türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Motor beceri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Teknik olan beceri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Teknik olmayan beceri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişisel beceri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaşam becerisi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Sevgi çocukluk ve gençlik yıllarında oldukça yoksul bir ailede büyümüştür. Arkadaşlarının yediği çikolatalardan asla yiyememiş, onların giydiği kıyafetlerden alamamıştır. Zar zor üniversiteyi bitirdikten sonra iyi bir kazancı olan Sevgi, bayramlarda çocuklarına yeni kıyafet alamayan ailelere yardım etmekte ve mutfak masraflarını karşılamaktadır. Sevgi’nin davranışı aşağıdakilerden hangisi ile açıklanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnançları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tutumları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duygusal tepkileri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ekonomik durum",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geçmiş deneyimleri",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Problem durumlar karşısında detaylara dikkat eden, parçaları kolayca algılayan ve dikkatli davranan bir birey beyninin hangi bölümünü yoğun olarak kullanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Arka lob",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sağ yarımküre",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ön Lob",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sol yarımküre",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Orta beyin",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "a01f9eff443894c216d8f6ce71b4f53f7eeef177d36796b1c2c271411c454e39"
+}

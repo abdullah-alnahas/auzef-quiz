@@ -1,0 +1,547 @@
+{
+  "course": "Anne Çocuk Sağlığı",
+  "course_slug": "anne-cocuk-sagligi",
+  "exam": "2021-2022 Bütünleme Soruları",
+  "exam_slug": "butunleme-2021-2022",
+  "page_title": "Anne Çocuk Sağlığı 2021-2022 Bütünleme",
+  "source_url": "https://lolonolo.com/2022/11/19/anne-cocuk-sagligi-2021-2022-butunleme/",
+  "scraped_at": "2026-11-12T11:33:50+03:00",
+  "answer_source": "inline",
+  "question_count": 15,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Zehirlenmenin belirtileri aşağıdakilerden hangisine bağlı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zehirlenen kişinin özellikleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Zehirlenme ile ilgili maddenin türü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "En kısa sürede tıbbı yardım istenir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilinç kaybı varsa koma pozisyonu(yan yatış pozisyonu) verilerek solunum yolunun açık olması sağlanır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Rotavirüs enfeksiyonu hangi yaş çocuklarda görülür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6-8 ay",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3-6yaş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "6-24 ay",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2-3 yaş",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1-6 ay",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Sosyal ekonomik durum eğitim ve çoklu çevresel etkenlerin sağlığa olan etkilerini içeren hangisi sağlık modelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İyilik modeli",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Holistik modeli",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çevresel modeli",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tıbbı modeli",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Teori modeli",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Mons pubis özelliği?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sinir yönünden zengindir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ergenlikten itibaren kıllarla kaplıdır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Üçgen şeklindedir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Damar yönünden zengindir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Lablar arasında yer alır",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Bir olayın bir bütün içindeki durumunu yansıtır. A / A+B şeklinde ifade edilir. Pay, paydanın içinden çıkmaktadır.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oran",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Orantı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hız",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zaman",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Süre",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Hafif sıvı kaybında görülen belirti?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Susuzluk hissi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İdrarda azalma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gözyaşı azalma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Göz kürelerinde çökme",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Yenidoğandaki geçirilen hastalıkta kalıcı olarak hangi organa etki yapar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beyin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Cilt",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Böbrek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Akciğer",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Nötropenik veya bağışıklığı baskılanmış çocuklarda kontrendikedir. Bebeklerde nereden ateş ölçümü tavsiye edilmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Koltuk altı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Oral",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Cilt",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kulak içi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Rektal",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Anne çocuk sağlığı Zehirlenmenin belirtileri hangisine bağlı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zehirli maddenin alım zamanına",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Zehirli maddenin alınış şekline",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zehirli maddenin miktarına",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zehirli maddenin türüne",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Alan kişinin özelliklerine",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Sadece kızarıklık, şişlik ve ağrıya neden olan yanık hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "4. derece",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1. derece",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3. derece",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2. derece",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "5. derece",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Hangisi büyümeyi etkileyen faktörlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genetik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Beslenme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Cinsiyet",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zeka",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hormonlar",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Okul sağlığı programlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul çevresi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Okul sağlığı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ebeveyn sağlığı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okul çalışanların sağlığı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların sağlığı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Dünyada okul sağlığı uygulanmalarına kaçıncı yüzyılda başlamıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "16.yy",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "17.yy",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "18.yy",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "19.yy",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "20 yy",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Yüksek kaliteli kardiyo pulmoner resüsitasyon (CPR) hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uygulanan CPR’ın %80’ini göğüs kompresyonu oluşturmalıdır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Göğüs sıkıştırma derinliği bebek için 4 cm ve çocuk için 5 cm olmalıdır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Her göğüs kompresyonundan sonra göğsün tam geri gelmesine dikkat edilmelidir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "En uygun kompresyon (kalp masajı):solunum oranı tek kurtarıcı varsa",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi yenidoğan sarılığı nedenlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kan grubu uyuşmazlığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geç beslenme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anne sütüne bağlılık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yetersiz anne sütü alımı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aşırı beslenme",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "source_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "omitted_questions": [
+    {
+      "n": 5,
+      "reason": "choice_count",
+      "stem": "Üst solunum yollarında çocuklarda en sık görülen komplikasyon?"
+    }
+  ],
+  "content_hash": "ba77357f8ddb822e099ec6b64bb2f60d0a54d362199dfb85b0e6993a895d675b"
+}

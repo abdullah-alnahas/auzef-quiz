@@ -1,0 +1,856 @@
+{
+  "course": "İstatistik",
+  "course_slug": "istatistik",
+  "exam": "2020 Bütünleme Soruları",
+  "exam_slug": "butunleme-2020",
+  "page_title": "İstatistik 2020 Bütünleme Soruları",
+  "source_url": "https://lolonolo.com/2020/08/21/istatistik-2020-butunleme-sorulari/",
+  "scraped_at": "2026-11-12T11:33:29+03:00",
+  "answer_source": "inline",
+  "question_count": 23,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki tablodan hareketle; 2016 yılına ait laspeyres fiyat indeksi değerini hesaplayınız.\nlaspeyres indeksi 2016\na) 100,00\nb) 143,57\nc) 160,74\nd) 181,77\ne) 193,79\nCevap : d) 181,77\n2015 yılına ait laspeyres fiyat indeksi değerini hesaplayınız.\nlaspeyres indeksi 2015\na) 100,00\nb) 143,57\nc) 160,74\nd) 181,77\ne) 193,79\nCevap : b) 143,57\n2014 yılına ait laspeyres fiyat indeksi değerini hesaplayınız.\nlaspeyres indeksi 2014\na) 100,00\nb) 143,57\nc) 160,74\nd) 181,77\ne) 193,79\nCevap : a) 100,00",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mod",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Egemen değer",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Medyan",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ortanca",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kareli ortalama",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Bir otobüs hattında trafiğin yoğun olduğu saatlerde ortalama seyahat süresi hesaplanmak istenmektedir. Çeşitli günlerde seyahat süreleri gözlenerek yukarıdaki gibi düzenlenmiştir. Buna göre ortalama seyahat süresi için aritmetik ortalama aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "44,333",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "41,35",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "42,45",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "40,25",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "38,20",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Aşağıda verilen niteliklerden hangisi nitel vasfa örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Cinsiyet",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kilo",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bel çevresi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Boy",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Verilerin, mekân vasfının şıklarına göre düzenlenmesi ile oluşturulan serilere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mekân serileri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Panel veriler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bileşik seriler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zaman serileri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bölünme serileri",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Bir serinin simetrik olması hâlinde aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aritmetik ortalama = Mod Medyan",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Aritmetik ortalamaMod=Medyan",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aritmetik ortalama MedyanMod",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aritmetik ortalama=Medyan=Mod",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aritmetik ortalama MedyanMod",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "ortalaması 70 ve standart sapması 12 olan bir sınavda 85 alan öğrencinin standart değeri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2,3",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1,25",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1,75",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "1,4",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1,35",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Bir hava yolu şirketi verdikleri hizmetin müşterileri tarafından nasıl değerlendirildiğini araştırmaktadır. Bu amaçla bir anket formu düzenleyerek müşterilerinin en kötü 1, en yüksek 5 olacak şekilde kendilerine puan vermesini istemiş ve elde ettiği verileri yukarıdaki gibi düzenlemiştir. Buna göre şirketin (aritmetik) ortalama puanı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "4,5",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "4,2",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3,7",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "4,4",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "4,6",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki değişkenlerden hangisi kesikli bir değişkendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Üretilen margarinlerin ağırlıkları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Üretilen deterjan kutularının ağırlığı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Üretilen kumaşların rulo uzunluğu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Üretilen konservelerin ağırlıkları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir atölyede dikilen gömleklerdeki kusur sayısı",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Yukarıdaki tabloda 3 yıllık değişik esaslı indeks değerleri verilmiştir. Buna göre 2016 yılı indeks değerinin doğru yorumu aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2015 yılına göre % 180 artmıştır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2015 yılına göre % 80 artmıştır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "2015 yılına göre % 30 azalmıştır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2014 yılına göre % 50 artmıştır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "2014 yılına göre % 20 artmıştır. ( kontrol edilmeli )",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Verinin, homojen sınıflar yaratmak suretiyle gruplama işlemine tabi tutulması sonucunda oluşturulan sınıflarda bulunabilecek en küçük değere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınıf alt sınırı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sınıf ortası",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sınıf genişliği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sınıf üst sınırı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sınıf aralığı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Bir istatistik çalışmaya, incelemeye ya da gözleme konu olan tüm birimlerin meydana getirdiği kütleye ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tam sayım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Örnek kütle",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gözlem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Örnek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ana kütle",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Cari fiyatlarla hesaplanmış seriler, enflasyon etkisini içinde barındırdıklarından karşılaştırmalarda gerçek artış veya azalışları görebilmek için sabit esaslı fiyat indeksleri kullanılarak …………………. elde edilmektedir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "cari fiyat serisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "reel fiyat serisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bileşik seri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "basit seri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "nominal fiyat seriş",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Birden fazla madde söz konusu olduğunda, madde fiyatlarında meydana gelen oransal değişmelerin ortalamasının belirlenmesi için ………….. indeksler kullanılmaktadır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "basit",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bileşik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "değişik esaslı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "sabit esaslı b",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Yukarıda 2015 ve 2016 yıllarında bir çalışanın yıllık ortalama geliri ve yıllık fiyat indeksi değerleri verilmiştir. Buna göre 2016 yılı için reel gelir aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "4500",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "4330",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1000",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "120",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "3750",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Zaman serisindeki belirli bir dönemin sabit tutulup serinin değerlerinin sabit dönem ( baz ) değerine oranlanmasıyla …………….. indeks değerleri hesaplanmaktadır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "sabit esaslı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "tartısız",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "değişik esaslı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "basit",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "tartılı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "5\nYükarda verilen serinin modu ( Egemen değeri ) aşağdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "5",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "100\nYukarıda verilen sınıflanmış dağılımda sınıflara ilişkin sınıf genişlikleri sırasıyla hangi seçenekte doğru olarak verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "30, 20, 30, 20",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0, 30, 50, 80",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "20, 30, 20, 20",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "30, 50, 80, 100",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "15, 40, 65, 90",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Başlangıç dönemindeki birden fazla mal ve hizmeti içeren tüketim kalıbının sürdürülebilmesi için cari dönemde ne kadar ödeme yapılması gerektiği hususunda ………………….. indeksi kullanılmaktadır.Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "sabit esaslı basit",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fisher’in ideal",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "değişik esaslı basit",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Paasche fiyat",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Laspeyres fiyat",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "I- Mod bir seride en çok tekrar eden gözlem değeridir.\nII- Mod duyarlı (analitik) bir ortalamadır.\nIII- Sınıf genişliği eşit olmayan serilerde de mod hesaplanabilir.\nYukarıda verilen mod ile ilgili ifadelerden hangisi ya da hangileri yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız II",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Birden fazla madde söz konusu olduğunda, madde fiyatlarında meydana gelen oransal değişmelerin ortalamasının belirlenmesi için ………….. indeksler kullanılmaktadır.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "basit",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bileşik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "değişik esaslı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "sabit esaslı basit",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "sabit esaslı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": ")\nI- Medeni durum\nII- Eğitim Düzeyi\nIII- Cinsiyet\nYukarıda verilen değişkenlerden hangisi / hangileri sıralama ( ordinal ) ölçüm düzeyine örnek olarak verilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız I",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "İki zarın aynı anda atılması deneyi bir tesadüfi değişken olarak tanımlanırsa bu tesadüfi değişkenin kaç tane mümkün sonucu olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "18",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "36",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "6",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": ")\n2016 yılına ait Fisher\nYukarıdaki birden fazla mal ve hizmetten oluşan madde sepetindeki miktar ve fiyat bilgilerinden hareketle Laspeyres Fiyat İndeksi ve Paasche Fiyat İndeksi değerleri elde edilmiştir. 2016 yılına ait Fisher’in İdeal İndeks değerini hesaplayınız.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "155,41",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "153,41",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "153,67",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "153,54",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "100",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "source_numbers": [
+    1,
+    5,
+    7,
+    9,
+    10,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    10,
+    80,
+    24,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "omitted_questions": [
+    {
+      "n": 23,
+      "reason": "option_letters",
+      "stem": ")\n2016 yılı reel\nYukarıdaki tabloya göre X marka cep telefonunun 2016 yılı reel fiyatı aşağıdakilerden hangisidir?"
+    },
+    {
+      "n": 25,
+      "reason": "option_letters",
+      "stem": ")\nYukarıdaki tabloya göre altının 2015 yılı reel fiyatı aşağıdakilerden hangisidir?"
+    }
+  ],
+  "content_hash": "885bbb17c1650bbe5e4948f2a4e9efce02c8317924e4d3c07236761153d72909"
+}

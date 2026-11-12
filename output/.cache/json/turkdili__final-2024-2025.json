@@ -1,0 +1,739 @@
+{
+  "course": "Türk Dili 1-2 ( AUZEF )",
+  "course_slug": "turkdili",
+  "exam": "2024-2025 Final Soruları",
+  "exam_slug": "final-2024-2025",
+  "page_title": "Türk Dili-2 2024-2025 Final Soruları",
+  "source_url": "https://lolonolo.com/2025/06/02/turk-dili-2-2024-2025-final-sorulari/",
+  "scraped_at": "2026-11-12T11:33:16+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Başkalarının özgün fikirlerini, metotlarını, verilerini veya eserlerini bilimsel kurallara uygun biçimde atıf yapmadan, kısmen veya tamamen kendi eseri gibi göstermek aşağıdaki etik ihlallerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dilimleme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çarpıtma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Haksız yazarlık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tekrar yayım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İntihal",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "I.Ayrı ayrı parçaları bir araya getirerek bir bütün oluşturmaktır.\n II. Düşüncelerin, duyguların, olayların, tasarıların belli bir ahenk ve bütünlük içinde sözle veya yazıyla anlatılmasıdır.\n III.Duygu ve düşüncelerin etkili ve düzgün bir biçimde yazılı olarak anlatılmasıdır.\n IV.Sadece tanınmış kişilerin görüşlerine yer verildiği anlatılardır.\n Yukarıdaki cümlelerden hangisi ya da hangileri kompozisyon kavramını açıklamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II, III ve IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I, II ve III",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "….. daha genel bir dinleyici kitlesine, ….. ise konusunda uzmanlaşmış kişilerden oluşan topluluğa yani daha özel bir dinleyici kitlesine hitap eder. ….. sunan kişi, konunun uzmanıdır ve ileri sürdüğü görüşü kanıtlamak ister. ….. genel bir konu savunulur.\n Yukarıdaki cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konferans - bildiri - Bildiri - Konferansta",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bildiri - konferans - Bildiri - Konferansta",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bildiri - konferans - Bildiri - Bildiride",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Konferans - bildiri - Konferans - Bildiride",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bildiri - bildiri - Konferans - Bildiride",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bilimsel bir makalede bulunması gereken bölümlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tartışma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tahminler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sonuç",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Giriş",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Özet",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "I. Konferans\n II. Açık oturum\n III. Forum\n IV. Panel\n V. Münazara\n Yukarıdaki sözlü anlatım türlerinin hangisinde tartışmaya yer verilmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız V",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Belli bir alandaki okuyucu tipine değil, daha genele hitap etmeyi amaçlar. Belirlenmiş bir tekniği yoktur. Formel ve informel olmak üzere iki alt türü vardır. Sohbet havasında, anekdotlarla, örneklemelerle, ironi ve hicivle çekici hâle getirilmiş serbest bir yazı türüdür.\n Yukarıdaki parçada sözü edilen edebî tür aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Roman",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaside",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Deneme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dithyrambos",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tragedya",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dilekçenin özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tarih; gün, ay ve yıl olarak yazılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yazım ve noktalama hatası yapılmamalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bazı dilekçelerde ek belgeler bulunabilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Konu anlaşılır bir şekilde yazılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Resmî ve özel dilekçe olmak üzere ikiye ayrılır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki cümlelerin hangisinde kullanılan tüm kelimeler ince ünlüdür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eve gelirken ekmek getirir misin?",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Manavdan bir kilo patates alır mısın?",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yarınki sınava çok çalışmalısın.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çok çabaladı ama başarılı olamadı.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sabahları erken kalkmak beni mutlu ediyor.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Okuma sürecini başlatan ve böylece okunacak metnin, okuyucunun kullanacağı okuma stratejisinin belirlenmesinde etkili olan etmen aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okuma biçemleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Okuma stratejileri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Okumanın işlemlenmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okuma metni",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okuma amaçları",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Gündemle ilgili kararların yazıldığı tutanak çeşididir. Bu tür tutanaklarda konuşulanlarda herhangi bir değişiklik yapılmaz.\n Yukarıda tanımı yapılan tutanak türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel tutanak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Şikâyet tutanağı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Toplantı tutanağı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Resmî tutanak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Olay tutanağı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Onun görevi bence yargıcınki gibidir; taraflara yukarıdan bakabilmelidir. Öte yandan edebî eserin değeri, neyin işlendiğinden çok nasıl işlendiğinde gizlidir. Bunu ortaya çıkarmak istediğinde, o ancak paletinde her renge yer verirse ülkenin edebiyat manzarasını yansıtabilir. Ben onu, geleceğin edebiyat tarihçilerine malzeme hazırlamakla görevli sayıyorum.\n Yukarıdaki parçada özellikleri verilen kişi aşağıdaki düşünce türlerinden hangisinin yazarıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Röportaj",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Makale",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Söyleşi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Eleştiri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Ben insanı anlatıyorum ve insanlara kendi şahsımda pek fena yetişmiş bir örneğini gösteriyorum. Kendimi anlatırken söylediklerim değişik ve değişken olmakla beraber, hiç gerçeğe aykırı bir laf etmiyorum. Çünkü biliyorum ki her insanda insanlığın bütün hâlleri vardır.\n Montaigne’nin yukarıdaki sözleri aşağıdaki türlerin hangisinden alınmış olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Günlük",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Biyografi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fıkra",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Deneme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eleştiri",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Karlar içinde donmuştun\n Tuttun sıcacık ovaya indin\n Baharın gözlerini ezdin\n Nergisler üstünde dans ettin\n Bozdun bütün büyüsünü canlı olmanın\n Yukarıdaki dizelerde aşağıdaki ses olaylarından hangisi yoktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ünlü daralması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaynaştırma ünsüzü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ünsüz benzeşmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ulama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ünsüz düşmesi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "….., kişinin belleğine doğuştan itibaren aktarılmaya başlayan ürün ve bir sistemin adıyken; ….. bireysel bir irade, anlama, kavrama yetisi işidir ve eylemi gerçekleştiren tarafından belirli bir anda uygulanır.\n Yukarıdaki cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil - ses",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilinç - söz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dil - bilinç",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dil - söz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilinç - dil",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Şiirde tema ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tercih edilen kafiye türü ile tema arasında her zaman bir uyum bulunur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Şiiri oluşturan dörtlüklerin tamamı aynı temaya yer verebilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Şairlerin sanat anlayışlarına göre işlenen temalar farklı olabilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aşk, şiirlerde en fazla işlenen temalardandır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir şiiri oluşturan dörtlüklerin temaları farklı olabilir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "(I) On sekizinci yüzyılda ortaya çıkan roman, edebî türlerin içerisinde en genç olanıdır.\n(II) Sonradan yazın sahasına girmesine rağmen kısa sürede geride bırakarak kendisine geniş bir alan ve okuyucu kitlesi bulur.\n (III) Tarihin hiçbir döneminde okuyucu sıkıntısı yaşamaz.\n(IV) Yazın türleri arasında, sinemanın diğer görsel sanatlar üzerindeki ezici üstünlüğüne benzer bir üstünlüğe de hep sahip olur. (V) Romanın konusunun insan, onun yaşadığı zaman ve mekân olması hasebi ile çağlara göre toplumsal değişimlere paralel olarak konusunda değişimler kaçınılmaz olur; ama roman, insanı anlatmaktan hiç uzak kalamaz.\n Yukarıdaki parçada numaralandırılmış cümlelerin hangisinde anlatım bozukluğu vardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "V",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "III",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Eleştirel düşünmenin temel özellikleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilimsel bir yaklaşımı ve nesnel bir bakış açısını gerektirir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ön yargıları kullanarak çıkarımda bulunmak önemlidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Olay, olgu ve genel durumları eleştirel değerlendirme, yorumlama, analiz ve sentez yapma becerisi gerektirir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çok yönlü bakış açısını ve düşünmeyi zorunlu kılar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Neden-sonuç ilişkisinin önemli bir yeri vardır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşka düşürdün kendüzün\n Neyleyeyin gönül seni\n Bir oldu gecen gündüzün\n Neyleyeyin gönül seni\n Yukarıdaki dörtlükte tekrar edilen “Neyleyeyin gönül seni” ifadesi ile aşağıdaki anlamlardan hangisi kastedilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Şairin sevinci",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Şairin çaresizliği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Allah’a yakarış",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Allah aşkı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gönlün huzursuzluğu",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Konuşurken vurgu ve tonlamayla ilgili problem yaşamayan ancak telaffuzla ilgili hatalar yapan bir birey, aşağıdaki konuşma bozukluklarından hangisine sahiptir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değiştirme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Islıklama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gevşeklik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dizartri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kekemelik",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Bir konuda uzmanlaşmış ve meşhur olmuş kişileri tanıtmak veya herhangi bir olayla ilgili bu kişilerin görüş ve düşüncelerini öğrenmek amacıyla önceden planlanan, hazırlanan sorularla yapılan konuşmalardır. Konuşma esnasında sorulan sorulara alınan cevaplar yeni sorular doğurabileceğinden esnektir. Bu konuşmalar, genellikle yazıya geçirilip gazete ve dergilerde yayımlanmaktadır.\n Yukarıdaki parçada özellikleri verilen sözlü anlatım türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Brifing",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tartışma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mülakat",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Panel",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Forum",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "78b015eea37d83c2e430e9420714a84d08e9c10e8da9fcf24a1f984c3f6bd672"
+}

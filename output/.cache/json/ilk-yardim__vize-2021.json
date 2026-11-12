@@ -1,0 +1,1627 @@
+{
+  "course": "İlk Yardım",
+  "course_slug": "ilk-yardim",
+  "exam": "2021 Vize Soruları",
+  "exam_slug": "vize-2021",
+  "page_title": "İlk Yardım 2021 Vize Soruları",
+  "source_url": "https://lolonolo.com/2021/04/24/ilk-yardim-2021-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:34:13+03:00",
+  "answer_source": "inline",
+  "question_count": 46,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Hava yolunun tam olarak tıkanmasının belirtileri arasında aşağıdakilerden hangisi görülmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konuşamaz.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Nefes alamaz.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ellerini boynuna götürür.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Konuşabilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Morarma görülür",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Bilinci kapalı bir hasta ya da yaralıya baş geri çene yukarı pozisyonu verilirken aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Alına bastırılan parmakla hasta ya da yaralının gözleri kapatılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Alından bastırılıp çeneden kaldırılarak baş geriye doğru itilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Diğer elin iki parmağı çene kemiğinin altına yerleştirilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çeneye bastırılan parmakla dil yerinden oynatılarak hava yolu açıklığı sağlanmış olur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir el alına yerleştirilir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi ilk yardımın temel uygulamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kurtarma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tedavi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Koruma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Müdahale",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bildirme",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Delici göğüs yaralanmalarında tipik olarak aşağıdakilerden hangisi görülür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görüşte zorluk",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yüksek ateş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yoğun ağrı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kalp spazmı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sara nöbeti",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Bebeklerde dış kalp masajı ve yapay solunum uygulaması sırasında aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Heimlich manevrası uygulanır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bebek sert bir zemin üzerine sırt üstü yatırılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bebeğin boynunu ve göğsünü saran giysiler açılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çevreden yüksek sesle yardım çağrılır, 112 aratılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kendisinin ve bebeğin güvenliğinden emin olunur.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Dış kalp masajı ve yapay solunum yapılması gereken “erişkinler” hangi yaştan büyük olmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "8",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "50",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "18",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "4",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki yanık çeşitlerinden hangisi “fiziksel yanıklardan” biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Işın ile oluşan yanıklar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kimyasallarla oluşan yanıklar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Donma sonucu oluşan yanıklar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Isı ile oluşan yanıklar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Elektrik ile oluşan yanıklar",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi yara çeşitlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Parçalı yaralar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Delici yaralar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ezikli yaralar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kabuklu yaralar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kesik yaralar",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi sıcak çarpması belirtilerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Davranış bozuklukları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Vücutta morarmalar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Güçsüzlük",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kramplar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Solgun Deri",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Olay yerinin değerlendirilmesinde aşağıdakilerden hangisi yapılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hastaya ilaç verilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hasta ya da yaralının yaşam bulgularını kontrol etmeye gerek yoktur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hasta ya da yaralı yerinden oynatılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hasta ya da yaralı soğuk tutulmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hasta ya da yaralı yerinden oynatılmamalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kanama tiplerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dış kanama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İç kanama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Doğal açıklıklardan olan kanama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kılcal damar kanaması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zayıf kanama",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "İlk yardım kimlere uygulanmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sara nöbeti geçirenlere",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaza geçirenlere",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zehirlenenlere",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Grip geçiren insanlara",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kalp krizi geçirenlere",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Vücutta kanın aktığı bölgeye göre kaç çeşit kanama vardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "İlk yardımın ABC’sinde B neyi ifade eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Circulation (Dolaşımın değerlendirilmesi)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Airway (Hava yolu açıklığının değerlendirilmesi)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Breathe (Solunumun değerlendirilmesi)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hastanın pozisyonunu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hasta sayısını",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Vücutta damar tipine göre kaç çeşit kanama vardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "2",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi yanıklarda ilk yardım uygulamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ödem oluşabileceğinden yüzük varsa çıkarılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yanık üzerine ilaç sürülmez.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hijyen ve temizliğe dikkat edilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Su toplamış yerler patlatılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaralı bilinci yerinde ise sıvı kaybını önlemek için maden suyu içirilir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangi bölgeye üçgen bandaj uygulaması yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "El",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Göğüs",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Diz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Omuz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ayak",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Su dolu kabarcıklar (bül) kaçıncı derece yanıklarda görülür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2 ve 3",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız 1",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız 3",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız 2",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1 ve 3",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi ilk yardım yapan kişinin yapması gereken uygulamalardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hastaya yiyecek sağlamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Açık yaralara dikiş atmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İlaç uygulamak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Acele etmek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hasta veya yaralının en yakın sağlık kuruluşuna sevkini sağlamak",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi hasta yada yaralının ilk değerlendirme aşamalarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta ya da yaralıyı konuşarak teselli etmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilinç durumunun değerlendirilmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hasta ya da yaralıya ilaç vermek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hasta ya da yaralıyı başka bir yere taşımak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hasta ya da yaralıyı beslemek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi sıcak çarpmasında risk gruplarına girer?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5 yaş altı çocuklar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "10-12 yaş çocuklar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "13-16 yaş ergenler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "65 yaş altı yaşlılar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "18-25 yaş gençler",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "Kaç çeşit yanık vardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "4",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi yaşam bulguları ile ilgili önemli göstergelerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kan basıncı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Burkulma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dolaşım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Solunum",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Vücut ısısı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi burun kanamalarından sonra yapılması gereken uygulamalardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Burun kanatları serbest bırakılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hastaya ilaç verilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hastanın başı yukarı kaldırılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hastanın uzman bir doktora gitmesi sağlanır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hastaya su verilir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kısmi tıkanma sırasında görülebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hiç konuşamaz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hiç nefes alamaz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Morarma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Konuşabilir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sararma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki durumlardan hangisi vücuttaki bir kanamanın ciddiyeti ile ilgili bir gösterge değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kanama miktarı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kişinin fiziksel durumu ve yaşı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kanamanın hızı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişinin cinsiyeti",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Vücutta kanın aktığı bölge",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "Bebeklerde hava yolunun açılması için yapılan ilk yardım müdahalelerinde aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Başparmak ve diğer parmakların yardımıyla bebeğin çenesi kavranarak boynundan tutulur ve yüzüstü pozisyonda öne doğru eğilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Baş gergin ve gövdesinden aşağıda bir pozisyonda tutulur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bebek ilk yardım yapan kişinin bir kolu üzerine ters olarak (yüzükoyun) yatırılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ters çevrilip diğer elin üzerine sırtüstü yatırılıp göğüs kemiğinin altına beş kez el bileğinin içiyle hafifçe vurulur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Beş kez el bileğinin iç kısmı ile bebeğin sırtına kürek kemiklerinin arasına hafifçe vurulur.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi vücutta baskı uygulanacak noktalardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözlerin altı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Alın",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Boyun",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kulak arkası",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Karın boşluğu",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kanamalarda vücutta baskı uygulanacak noktalardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Boyun",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Uyluk",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kasık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Alın",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Koltuk altı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "Yaralarda enfeksiyon riski kaç saatten sonra yüksektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "12",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 31,
+      "type": "legacy_text",
+      "stem": "Dış kalp masajı ve yapay solunum uygulanmasında “bebekler” diye nitelendirilenler hangi yaş grubuna girer?\nKESİN",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1-13 aylık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2-15 aylık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "5-18 aylık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "1-18 aylık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0-12 aylık",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 32,
+      "type": "legacy_text",
+      "stem": "Dış kalp masajı ve yapay solunum uygulanmasında “çocuklar” diye nitelendirilenler hangi yaş grubuna girer?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "9-15",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1-8",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "5-11",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "8-12",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0-1",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 33,
+      "type": "legacy_text",
+      "stem": "İlk yardımın ABC’si aşağıdakilerden hangisinde doğru verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Alış, Beslenme, Kan grubu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Air way(Hava yolu), Breathe(Solunum), Circulation(Dolaşım)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kalp Atışı, Kan grubu, Can kurtarma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Can kurtarma, İlaç türü, Beslenme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İlaç türü, Pozisyon,",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 34,
+      "type": "legacy_text",
+      "stem": "Heimlich manevrasında hareketler kaçar kez dönüşümlü uygulanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "5",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 35,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi sindirim organlarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mide",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Nefes borusu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kalp",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Burun",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Böbrek",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 36,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi ilkyardımın temel uygulamalarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beslenme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlaç temini",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Koruma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ameliyat etme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sıvı temini",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 37,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi dolaşım sistemi ile ilgili bir yapı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Atardamar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kalp",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kan",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Toplardamar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mide",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 38,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi dolaşım sistemi ile ilgili bir yapı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplardamar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kan",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Atardamar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kalp",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Karaciğer",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 39,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi 112 Acil çağrı sırasında dikkat edilmesi gereken hususlardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aceleci davranmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çağrı merkezine bağırmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çağrı merkezinin sorularını cevaplamamak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yapılan ilk yardım hakkında bilgi vermemek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kesin ve net adres vermek",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 40,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kimyasal yanıklardaki ilk yardım uygulamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Giysiler çıkarılmalı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tıbbi yardım istenmeli",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bölge bol, tazyiksiz suyla yıkanmalı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hasta doğrultulmaya çalışılmalıdır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Derinin kimyasal madde ile teması kesilmeli",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 41,
+      "type": "legacy_text",
+      "stem": "Kaç çeşit yara vardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "3",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 42,
+      "type": "legacy_text",
+      "stem": "Sıcak çarpmasında su ve tuz kaybını gidermek için hastaya aşağıdakilerden hangisi verilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yemek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sade su",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gazoz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aspirin",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Maden suyu",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 43,
+      "type": "legacy_text",
+      "stem": "Aşağıda belirtilen hangi durumlarda boğucu sargı (turnike) uygulanmasına gerek yoktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Baskı noktalarına baskı uygulamak yeterli olmuyorsa",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaralı güç koşullarda bir yere taşınacaksa",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çok sayıda yaralının bulunduğu bir ortamda tek ilkyardımcı varsa",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Uzuv kopması varsa",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kanının rengi koyu ise",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 44,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi şokun belirtilerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hızlı solunum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hızlı ve zayıf nabız",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Vücutta sararmalar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dudak çevresinde morarma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Baş dönmesi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 45,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi yara türlerinin ortak özelliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ağrı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Morarma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Enfeksiyon görülmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bölgede çöküntü",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sararma",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 46,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi solunum organlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Diyafram",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Deri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kalp",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nefes borusu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Akciğer",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "17116c307c6ce4ecad2957283312d54b9b1b8825522cf997f39392847a557778"
+}

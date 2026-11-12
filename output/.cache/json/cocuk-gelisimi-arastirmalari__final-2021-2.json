@@ -1,0 +1,883 @@
+{
+  "course": "Çocuk Gelişimi Araştırmaları",
+  "course_slug": "cocuk-gelisimi-arastirmalari",
+  "exam": "2021 Final Soruları",
+  "exam_slug": "final-2021-2",
+  "page_title": "Çocuk Gelişimi Araştırmaları 2021 Final Soruları 2",
+  "source_url": "https://lolonolo.com/2022/06/04/cocuk-gelisimi-arastirmalari-2021-final-sorulari-2/",
+  "scraped_at": "2026-11-12T11:34:37+03:00",
+  "answer_source": "markup",
+  "question_count": 24,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "———– kahramanlarını hayvanlar ve doğaüstü varlıkların oluşturduğu, hayal ürünü barındıran bir tür olarak tanımlanabilir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilmece",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Şiir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Parmak oyunu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tekerleme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Masal",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Oyun üzerine yapılan tanımlar içerisinde aşağıdakilerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyunda sonuçlardan ziyade süreç önemlidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Oyun, oyunu oynayan kişi tarafından içsel bir motivasyona sahip olmayı gerektirir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Oyun sırasında çocuk kendi iç kurallarını yaratır ve dış kurallardan bağımsızdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oyun aktif olarak katılım sağlanan ve ilgi duyulan bir etkinliktir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Oyun içerisinde gerçek yaşamın dışında abartılı ve sembolik davranışlar yer almaz.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerin hangisinde kaynaştırma kavramına (tanımına) en yakın ifade kullanılmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel gereksinimli öğrencilerin akranlarından farklı eğitim ortamlarında eğitim almasıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Özel gereksinimli öğrencilerin bireysel gelişimlerini ve toplumla bütünleşmelerini en üst düzeyde sağlamak amacıyla gerçekleştirilen eğitim-öğretim uygulamalarıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Özel gereksinimli öğrencilerin, işlevsel akademik becerilerinin geliştirilmesi için uygulanan bir eğitim yaklaşımıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Özel gereksinimli öğrencilerin sadece özel eğitim sınıflarında eğitim aldığı uygulamalardır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Normal gelişim gösteren öğrenciler ile özel gereksinimli öğrencilerin ayrıştırılarak eğitim almaları anlamına gelir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde ülkemizde Çocuk Hakları Sözleşmesi’nin uygulanması, izlenmesi ve uygulamalarda diğer bakanlıklarla koordinasyonun sağlanmasından sorumlu birim doğru olarak verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İçişleri Bakanlığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Aile ve Sosyal Politikalar Bakanlığı/Çocuk Hizmetleri Genel Müdürlüğü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Millî Eğitim Bakanlığı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Adalet Bakanlığı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Belediyeler",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Özel eğitime ilişkin bilinen ilk bilimsel araştırmayı kim yapmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Montessori",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Itard",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Stanford-Binet",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Lovaas",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Piaget",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Bir öğretmen çocuklarına “beş taş” oynamayı öğretiyor ise amacının ne olduğu söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların küçük kas becerilerine dönük olarak manipülatif becerilerini geliştirmeye çalışıyordur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların büyük kas becerilerine dönük olarak lokomotor becerilerini geliştirmeye çalışıyordur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların küçük kas becerilerine dönük olarak lokomotor becerilerini geliştirmeye çalışıyordur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların büyük kaslarını geliştirmeye çalışıyordur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların büyük kas becerilerine dönük olarak manipülatif becerilerini geliştirmeye çalışıyordur.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Ekolojik sistemler kuramına göre, aşağıdakilerden hangisi mikro sistem içerisinde yer alır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul-aile iş birliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Okulun yasal düzenlemeleri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ebeveynin uzun çalışma saatleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Akrabalar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kültürde çocuğa bakış açısı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Motor gelişimdeki aksama ya da becerilerdeki bozuklukların birtakım rahatsızlıklara eşlik ettiği bilim insanlarınca yapılan araştırmalar sonucunda ortaya konmuştur. Aşağıdakilerden hangisi motor gelişimin eşlik ettiği rahatsızlıklardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dikkat eksikliği ve hiperaktivite bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Anksiyete bozuklukları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Otizm",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Disleksi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anoreksiya",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda sunulan kriterlerden hangisi Sternberg ve Zhang’ın Beşgen kuramında yer alan kriterlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kanıt",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mükemmellik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Enderlik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Girişimcilik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Üretkenlik",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Özel Eğitim Hizmetleri Yönetmeliği’ne göre ——–  ay arasındaki özel eğitime ihtiyacı olan bireylerin okul öncesi eğitimi zorunludur. Ancak, bu bireyler için okul öncesi eğitim Özel Eğitim Değerlendirme Kurul Raporu ile velisinin yazılı onayı doğrultusunda eylül ayı sonu esas alınarak 78 aya kadar uzatılabilir. Yukarıdaki paragrafta boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "70-76",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "72-76",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "46-67",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "56-72",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "37-66",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "“Bireyin kendisini tanıması ve sorumluluk alması, duygu ve düşüncelerini yönetebilme, öz güven geliştirebilme kapasitesini içine alan zekâ alanıdır.” Yukarıdaki ifade Çoklu Zeka Kuramı’nın hangi zekâ alanını tanımlamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görsel-Uzamsal",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Müziksel",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İçsel",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mantıksal-Matematiksel",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Üstün yetenekli bireylerin özelliklerini açıklarken genel ve özel yetenek, yaratıcılık ve görev sorumluluğu olmak üzere üç özellik kümesinden bahseden kuramcı kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sternberg",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gardner",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Renzulli",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Terman",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tannenbaum",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Özel eğitim ile ilgili güncel literatür incelendiğinde özel eğitimde  ——-  ve  ——  ile ilgili çalışmalara sınırlı sayıda rastlanmaktadır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bebeklik ve çocukluk",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Erken çocukluk ve okul öncesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yetişkinlik ve yaşlılık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukluk ve gençlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okul öncesi ve ilköğretim",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Ekolojik sistemler kuramına göre, çocukla ilgili alınan politikalar hangi sistemde yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mikrosistem",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mezosistem",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eksosistem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kronosistem",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Makrosistem",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Özel eğitimde ———— ortam esastır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gerçek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çok uyaranlı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "En az kısıtlayıcı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hiçbiri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Doğal",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Orta çocukluk dönemine karşılık gelen ilkokul eğitim sürecinde aşağıda yer alan derslerden hangisi programda yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Trafik Güvenliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Matematik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Beden Eğitimi ve Oyun",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnsan Hakları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Coğrafya",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Ekolojik sistemler kuramına göre aşağıdakilerden hangisi makro sistem içerisinde yer alır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplumda hâkim olan değerler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Babanın iş ortamı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun öğretmeni",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun bakıcısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okul-aile iş birliği",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Televizyon programlarında ya da gösterilerde sergilenen şaşırtıcı, dikkat çeken, yapılamaz düzeyde görülen yetenekler Tannenbaum’a göre hangi yetenek bölümünde yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fazla",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Katmanlı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kotalı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Anormal",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kıt",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Bütünleştirmenin tanımı aşağıdaki seçeneklerin hangisinde doğru olarak verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bütünleştirme, sınıf öğretmeni ile işbirliği yapılarak uygun sınıf içi destek hizmetlerin sağlanması yoluyla özel eğitime gereksinim duyan bireylerin akranlarıyla birlikte genel eğitim sınıflarında tam zamanlı olarak eğitim almaları anlamına gelmektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Normal gelişim gösteren öğrencilerin, özel gereksinimli öğrencilere akademik olarak destek oldukları eğitim-öğretim uygulamaları bütünleştirme olarak adlandırılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Özel gereksinimli öğrencinin okula uyum sağlanmasının beklendiği eğitimöğretim uygulamalarına bütünleştirme adı verilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Özel gereksinimli öğrencilerin, normal gelişim gösteren akranları ile sadece eğitim-öğretim ortamlarında eğitim almasına bütünleştirme denir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bütünleştirme, özel gereksinimli öğrencilerin akranlarından farklı eğitim ortamlarında eğitim almasıdır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Üstün yetenekli bireyler için “Mentorlük Desteği” hangi eğitim kademesinde sunulmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlkokul",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Lise",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Üniversite",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okul Öncesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ortaokul",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "Özellikle büyük kas grupları kullanılarak tüm bedenin bir noktadan başka bir noktaya hareket etmesinin sağlandığı beceri türü nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Manipülatif beceri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Lokomotor beceri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tırmanma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Denge becerisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yuvarlanma",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi erken çocukluk dönemindeki koruyucu faktörlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile içinde olumlu destek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tutarlı disiplin yöntemleri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İstikrarsız aile geliri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aileyi içeren okul faaliyetleri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aile birliğinin istikrarı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki erken müdahale programlarından hangisi Millî Eğitim Bakanlığı Hayat Boyu Öğrenme Genel Müdürlüğü tarafından uygulanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gelişimsel Destek Programı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Etkileşim Temelli Erken Çocuklukta Müdahale Programı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Küçük Adımlar Eğitim Programı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aile Eğitim Programı (0-18 Yaş)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Portage Erken Eğitim Programı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 24,
+      "type": "multiple_choice_text",
+      "stem": "Okul öncesi eğitim dönemine denk gelen motor gelişim dönemi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özelleşmiş hareketler dönemi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlkel hareketler dönemi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Refleksif hareketler dönemi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaşam boyu uygulama evresi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Temel hareketler dönemi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "1a36c4b528905a4751a5792544b0ad85ef8a4544f8a58b175e6b09965c254a03"
+}

@@ -1,0 +1,1607 @@
+{
+  "course": "Anne Çocuk Sağlığı",
+  "course_slug": "anne-cocuk-sagligi",
+  "exam": "Vize Soruları",
+  "exam_slug": "vize-unknown",
+  "page_title": "Anne Çocuk Sağlığı Vize Soruları",
+  "source_url": "https://lolonolo.com/2021/11/15/anne-cocuk-sagligi-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:33:50+03:00",
+  "answer_source": "inline",
+  "question_count": 51,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Günümüzde sağlık tanımı farklı modellerle ele alınmaktadır. Aşağıdakilerden hangisi bu modellerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tıbbi Model",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İyilik Modeli",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnanç Modeli",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Holistik Model",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi sağlığı etkileyen faktörlerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çevresel faktörler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ekonomik faktörler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kültürel faktörler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi ingilizcede hastalığı tanımlamak için kullanılan yaygın sözcüklerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Health",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sickness",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Illness",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Diesase",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "I. Nüfus sayımı sonuçlarından elde edilir.\nII. Duyarlı bir ölçüt değildir.\nIII. Son beş yıllık doğurganlık hakkında bilgi verir.\nYukarıda çocuk-kadın oranı ile ilgili verilen bilgilerden kaç tanesi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hiçbiri",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Sekonder atak hızı ilk vakadan sonraki …………….. en uzun kuluçka döneminde ortaya çıkan vakalardır.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İkinci",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Üçüncü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dördüncü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Beşinci",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "I. Yaşa özel ölüm hızı\nII. Cinsiyete özel ölüm hızı\nIII. Yerleşim yerine özel ölüm hızı\nIV. Nedene özel ölüm hızı\nYukarıdakilerden hangisi/hangileri özel ölüm hızları çeşitlerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I, II, III ve IV",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Bağışıklık bırakmayan ve tekrarlayan hastalıkların sıklığını ölçmek için kullanılan ölçüt ……………… dır.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fatalite hızı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Epizod hızı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Primer atak hızı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sekonder atak hızı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Post- neonatel ölüm hızı hangi aralıktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0-7 gün",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "8-28 gün",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "29-365 gün",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "365 gün ve daha fazlası",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Fatalite hızı belirli bir hastalığın ne kadar ……………. seyrettiğini gösterir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hızlı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yavaş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hafif",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ölümcül",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Gelişmiş ülkelerde beş yaş altı orantılı ölüm hızı ………….’ın altında, 50 yaş üzeri orantılı ölüm hızı ……………’ın üzerindedir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "%1, %50",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "%1, %75",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "%3, %75",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "%5, %90",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "<!——————————————2>\nSağlık göstergeleri genelde üç tür ölçüm ile ifade edilir. Aşağıdakilerden hangisi bu ölçümlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oran",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Orantı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fark",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hız",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Yenidoğan ölümleri, beş yaş altı ölümlerin ………’sını oluşturmaktadır.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "%36",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "%46",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "%56",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "%66",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "I. Toplumun doğurganlık düzeyini belirtir.\nII. Duyarlı bir ölçüttür.\nIII. TNSA 2013’ e göre hızı binde 17.5’tur.\nYukarıda verilenlerden hangisi/hangileri kaba doğum hızı ile ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I, II, III",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "I. En duyarlı ölçüttür.\nII. Farklı yaşlardaki doğurganlık boyutunu gösterir.\nIII. 25-29 yaşlarında yüksek olduğu saptanmıştır.\nYukarıda verilenlerden hangisi/hangileri yaşa özel doğurganlık hızı ile ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I, II, III",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Ana ölüm hızı, bir kadının gebelik süresince, doğumda ya da gebeliğin sonlanmasından sonraki ……………… gün içinde bir nedenden kaynaklanan kadın ölümünü gösterir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "40",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "41",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "42",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "43",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi çocuk ölümlerinin nedenlerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Malnütrisyon",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sonitasyon",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hijyen",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Bebeklik dönemindeki ölüm hızları ……… gün, ………. gün ve ……….. gün olarak ayrı ayrı hesaplanır.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0-7, 8-28, 29-365",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0-7, 15-45, 60-90",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0-30, 30-45, 60-90",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0-30, 30-90, 365 gün ve üzeri",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Ülkelerin sağlık düzeylerini inceleyerek gelişmişlikleri hakkında karar vermek ve karşılaştırma yapmak için objektif, standart ve sayısal bir takım kriterlere ihtiyaç duyulmaktadır. Bu kriterler tüm dünyada …………………… adıyla anılmaktadır.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sağlık düzeyleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sağlık dozu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sağlık göstergeleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sağlıklı yaşam",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi çocuk sağlığını gösteren ölçütlerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bebek ölüm hızı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ana ölüm hızı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kaba doğum hızı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk/ kadın oranı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "<!——————————————3>\nI. Eşitsiz güç ilişkileri\nII. Sosyal normlar\nIII. Fiziksel, cinsel ve duygusal şiddet\nYukarıdakilerden hangileri kadınların sağlık hizmetlerinden yararlanmasını ve mümkün olan en iyi sağlık seviyesine ulaşmasını engelleyen sosyokültürel faktörlerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I, II ve III",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "Dış üreme organlarının tümüne verilen ad nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mons pubis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Klitoris",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Vulva",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Vajina",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi iç üreme organlarından olan uterusun görevi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Döllenmiş yumurtanın yerleşmesi için uygun bir ortam hazırlamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ovulasyon yapmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Embriyoyu beslemek ve korumak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doğum sırasında bebeğin ve plesantanın atılmasını sağlamak",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "Döllenmeden sonra 1-2 haftalık oluşuma veriken ad nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Blastosist",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Blastomer",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Marula",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zigot",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "Bebeğin hareketlerinin hissedilmesi, kemikleşmenin yaygınlaşması, mekanyum ve lanuganın görülmesş hamileliğin hangi döneminde görülür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3. ay",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "4. ay",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "5. ay",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "6. Ay",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi doğum kontrolünde uygulanan yöntemlerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doğal yöntem",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bariyer yöntem",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hormonal yöntem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kadınların kullandığı doğum kontrol yöntemlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Diyafram",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tüp ligasyonu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Vasektomi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nuvaring",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi organ nedeniyle olan amenorelerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Periferik amenero",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fonksiyonel amenero",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Overyal amenero",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Santral amenero",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "Kısırlık, çiftlerin düzenli ilişkiye girmelerine rağmen …………… içinde gebelik gerçekleşmemesi olarak tanımlanır.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3 ay",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "6 ay",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "9 ay",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "12 ay",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "Türkiye’deki jinekolojik kanserlerdeki sıralama aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Endometrium, over, serviks",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Endometrium, serviks, over",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Serviks, over, endometrium",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Over, serviks, endometrium",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "<!——————————————4>\nAşağıdakilerden hangileri doğum sonrası dönemde anne de ortaya çıkan değişikliklerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rahim küçülmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kanama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Açlık ve susuzluk hissi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 31,
+      "type": "legacy_text",
+      "stem": "Yenidoğan; doğumdan itibaren ilk ………………. tamamlamamış bebeklere denir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "28 gün",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "14 gün",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "7 gün",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "24 saat",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 32,
+      "type": "legacy_text",
+      "stem": "Küçük prematüre olarak adlandırılan bebekler hangi aralıkta yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "28 haftadan küçük doğan bebekler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "28-31 hafta aralığında doğan bebekler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "31-36 hafta aralığında doğan bebekler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "42. Hafta tamamlandıktan sonra doğan bebekler",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 33,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerin hangisinde düşük doğum ağırlıklı, çok düşük doğum ağırlıklı, oldukça düşük doğum ağırlıklı doğan bebeklerin ağırlıkları sırasıyla verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2500 gram- 1500 gram- 1000 gram",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2500 gram- 2000 gram- 1500 gram",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3000 gram- 2500 gram- 2000 gram",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3000 gram- 2000 gram- 1000 gram",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 34,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi apgar skoru için bebekte bakılan belirtilerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Solunum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Göz rengi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kalp hızı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Uyarılara tepki",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 35,
+      "type": "legacy_text",
+      "stem": "Yenidoğana yapılan ilk verilen vitamin aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "B12",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "D",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "K",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "E",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 36,
+      "type": "legacy_text",
+      "stem": "Yenidoğanın göbek bağı normalde ……….. günde düşer.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "46-60",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "31-45",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "15-30",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "7-14",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 37,
+      "type": "legacy_text",
+      "stem": "Yenidoğan görme uzaklığı ne kadardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "10-20 cm",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "20-30 cm",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "30-40 cm",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "40-50 cm",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 38,
+      "type": "legacy_text",
+      "stem": "I Kollarını iki yana açar ve sonra kapatır.\nII Avuç içi ve ayak tabanı sıvazlandığında parmaklarını içe büküp tutma hareketi yapar\nIII Ayak tabanına dokunulduğunda bacağını kasar ve başparmağını yana doğru açar.\nYukarıda verilen tanımlar sırasıyla hangi reflekslere aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Moro- yakalama- arama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Arama- yakalama- babinski",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Moro- yakalama- babinski",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Moro- asimetrik tonik boyun- adım atma",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 39,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi yenidoğan sarılığının nedenlerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kan grubu uyuşmazlığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yetersiz anne sütü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fizyolojik (normal) nedenler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 40,
+      "type": "legacy_text",
+      "stem": "I. Öykü alma\nII. İlaç yazma\nIII. Taramalar\nIV. Sağlık eğitimi ve sağlığın teşviki\nYukarıdakilerden hangisi ya da hangileri sağlıklı çocuk izleminin basamaklarındandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I, II, III ve IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I, II ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I, III ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "II ve IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "II, III ve IV",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 41,
+      "type": "legacy_text",
+      "stem": "“Tamamlayıcı besinler …… haftadan önce verilmemeli, ……. haftadan sonraya da bırakılmamalıdır.” cümlesindeki boşluklara sırasıyla aşağıdakilerden hangileri gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "…17..….26….",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "…12..….20….",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "…8..….12….",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "…24..….36….",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "…4..….12….",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 42,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi gelişmenin değerlendirilmesinde kullanılan başlıca parametrelerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dişlerin çıkma ve değişme zamanı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Nöro- motor gelişme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duyu organlarının gelişimi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Boy uzaması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kemiklerin olgunlaşma derecesi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 43,
+      "type": "legacy_text",
+      "stem": "Doğumdan sonra 36-72. saatte topuktan alınan kapiller kuru kan ile aşağıdaki taramalardan hangisine bakılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Talesemi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Demir eksikliği anemisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hiperkolesterolemi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Biyotinidaz eksikliği",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ailevi akdeniz ateşi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 44,
+      "type": "legacy_text",
+      "stem": "Zamanında doğan sağlıklı bir bebeğin doğum kilosu, boyu ve baş çevresi aşağıdakilerden hangisinde doğru olarak verilmiştir?\nAğırlık (gr) Boy(cm) Baş çevresi (cm)",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2300 gr ağırlık, 50 cm-boy, 33 cm Baş çevresi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "4200 gr ağırlık, 55 cm-boy, 3 35 cm Baş çevresi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "4200 gr ağırlık, 45 cm-boy, 3 33 cm Baş çevresi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3200 gr ağırlık, 55 cm-boy, 3 30 cm Baş çevresi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "3200 gr ağırlık, 50 cm-boy, 3 35 cm Baş çevresi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 45,
+      "type": "legacy_text",
+      "stem": "Yenidoğan sağlıklı bebekler hayatının ilk haftasında doğum ağırlıklarının ortalama ne kadarını kaybederler?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "%5-10",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "%1-2",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "%3-5",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "%10-15",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "%20’den azı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 46,
+      "type": "legacy_text",
+      "stem": "Çocuk hedef boyuna uyan persentile kaç yaş civarında ulaşır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "5",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 47,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi erkeklerde ergenliğin başlangıcıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Pubik kıllanma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Meme gelişimi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Testislerde büyüme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ses kalınlaşması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aksiller kıllanma",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 48,
+      "type": "legacy_text",
+      "stem": "Yukarıdaki şekillerde gösterilen gelişim basamakları aşağıdakilerden hangisinde doğru olarak gösterilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I = 9 ay II=12 ay",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I = 4 ay II= 9 ay",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I = 1 ay II = 10 ay",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I= 6 ay II= 12 ay",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I= 12 ay II= 18 ay",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 49,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi çocuklarda aşı yapılmasına engel bir durumdur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anne sütü alma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Antibiyotik tedavisi görme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kronik hastalıklar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "38,5°C’nin üstünden seyreden solunum yolu enfeksiyonu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Malnütrisyon",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 50,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi rekombinant DNA aşısıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hepatit B",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hepatit A",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Suçiçeği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kızamık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "BCG",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 51,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki aşılardan hangisinin gebeye yapılması sakıncalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tetanoz aşısı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Konjuge pnömokok aşısı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hepatit B aşısı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Asellüler boğmaca aşısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kızamık",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "66673b73d3802a8ce8d262cfac20cf481f25c76230a99213d6e2036135b7997e"
+}

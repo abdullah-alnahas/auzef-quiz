@@ -1,7 +1,8 @@
 """Translation carry-over when canonical JSON is rebuilt from HTML."""
 from parse_all import (apply_quality_gate, carry_translations,
                        is_compilation_body, is_compilation_title,
-                       is_other_programme, normalise_numbering)
+                       is_mock_page, is_other_programme, is_unit_page,
+                       normalise_numbering)
 
 
 def doc(stem="Soru?", a="bir", answer="A", n=1):
@@ -75,7 +76,7 @@ def test_compilation_body_markers():
         return {"stem": stem}
 
     assert is_compilation_body([q("Soru?\nDoğru\nYanlış")])
-    assert is_compilation_body([q("Soru?\nCevap : Yanlış")])
+    assert is_compilation_body([q("Soru?\nYanlış")])
     assert is_compilation_body([q("Soru?\n-------")])
     assert not is_compilation_body([q("Normal soru?\nII. öncül")])
 
@@ -133,3 +134,21 @@ def test_repeated_label_is_renumbered_in_page_order():
     d["questions"][6]["n"] = 1
     nums = normalise_numbering(d)
     assert nums == list(range(1, 11))
+
+
+def test_mock_pages_are_named_explicitly():
+    assert is_mock_page("Anatomi Vize 2020 Online Deneme -1")
+    assert is_mock_page("Psikoloji Online Test (Vize)")
+    assert not is_mock_page("İlkokula Hazırlık 2025-2026 Vize Soruları")
+
+
+def test_unit_pages_are_named_explicitly():
+    assert is_unit_page("İlkokula Hazırlık Ünite-1")
+    assert not is_unit_page("İlkokula Hazırlık 2025-2026 Final Soruları")
+
+
+def test_answer_lines_alone_do_not_make_a_compilation():
+    def q(stem):
+        return {"stem": stem}
+
+    assert not is_compilation_body([q("Soru?\nCevap : c- Paasche fiyat")])

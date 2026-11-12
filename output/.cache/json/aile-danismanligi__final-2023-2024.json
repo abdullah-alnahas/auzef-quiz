@@ -1,0 +1,739 @@
+{
+  "course": "Aile Danışmanlığı",
+  "course_slug": "aile-danismanligi",
+  "exam": "2023-2024 Final Soruları",
+  "exam_slug": "final-2023-2024",
+  "page_title": "Aile Danışmanlığı 2023-2024 Final Soruları",
+  "source_url": "https://lolonolo.com/2024/07/05/aile-danismanligi-2023-2024-final-sorulari/",
+  "scraped_at": "2026-11-12T11:34:34+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dinleme becerilerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yanıt için alan bırakmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Açık ve net konuşmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anlatılacak belirli kilit noktalara karar vermek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kesintisiz dinlemek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anlaşıldığını kontrol etmek",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Yapısal aile danışmanlığında tedavi hakkında aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yapısal aile danışmanlığında tedavi için uzun süreli bir değerlendirme gerekir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Danışmanlık süreci, uzun bir değerlendirme aşamasından sonra başlar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yapısal aile danışmanlığında olumsuz davranışı azaltmak için mola yöntemi kullanılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yapısal aile danışmanlığında olumlu davranışı artırmak için yıldız çizelgeleri kullanılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Direnç seanslarda canlandırma, yeniden çerçeveleme ve sınır belirleme yoluyla ele alınır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "I. Çevrenin kontrolü  II. Etkili cezaların kullanımı  III. Günü planlamak ve rutinler oluşturmak  IV. Ödüllerin kullanımı  Yukarıdakilerden hangileri ebeveyn eğitiminde kullanılan önleme stratejileri arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I ve IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "III ve IV",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "I. Göz teması\n II. Kilo\n III. Göz rengi\n IV. Ses tonu\n Yukarıdakilerden hangileri etkili iletişimin ögeleri arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Döngüsel sorgulama yöntemi aşağıdaki aile danışmanlığı ekollerinden hangisinde kullanılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nesiller Arası Aile Danışmanlığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öyküsel Aile Danışmanlığı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel Davranışçı Aile Danışmanlığı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sistemik Aile Danışmanlığı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yapısal Aile Danışmanlığı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aile tabanlı yas çalışması için aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İkinci aşamada aileden kaybın sonuçlarını inkar etmesi istenir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Aile üyelerinden ölümün öncesi ve sonrasını unutması istenir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İlk aşamada ailenin kaybı çevreleyen olayları görmezden gelmesi amaçlanır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İlk aşama, ölüm gerçeğinin kabulü için yeterince fırsat verildiğinde sonlandırılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yas süreci ile ilgili duyguların ifadesi üzücü olduğu için tercih edilmez.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aile danışmanlığı sürecinde gizlilik sınırları hakkında aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile ile ilgili bilgiler ailenin izni olmaksızın herhangi bir kişiyle paylaşılmamalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Süreç içinde adli bildirim yükümlülüğü doğuracak bir durum ortaya çıkarsa bu durum gizlilik kapsamındadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aile danışmanı bilgi almak için diğer profesyonellerle ailenin izni olmadan görüşebilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aile üyelerinden birinin intihar riski varsa bu durum gizlilik kapsamındadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Değerlendirme aşamasında gizlilik sınırlarından bahsedilmez.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "I. Meta-analiz\n II. Psikanaliz\n III. Randomize kontrollü çalışma\n IV. Davranışçı Yöntemler\n Yukardaki yöntemlerden hangileri kanıta dayalı terapi yöntemleri belirlemek için kullanılabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "I. Aile üyeleri aile sistemine evlilik, doğum ya da evlat edinme gibi yollar ile dahil olabilir.  II. Çocuk sahibi olan bireylerin çocuklarının barınma, sağlık ve eğitim haklarını sağlamak birincil olarak devletin sorumluluğudur.  III. Bebeğin yalnız fiziksel ihtiyaçlarının değil, duygusal ihtiyaçlarının da karşılanmaması yaşam ile bağdaşmaz.  IV. Tekrar evlilik durumunda çocuklar, aileye yeni katılan bireyler ile aile bağları kurmaz.  Ailenin özellikleri ile ilgili yukarıdaki ifadelerden hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "II ve III",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Bağlamsal Aile Danışmanlığı için aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bölünmüş sadakat, bireyin ailesi ile işi arasında kalması durumunda görülür.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Görünmez sadakat, ebeveynlerin birbirini aldatması durumunda ortaya çıkar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aile içinde nesiller boyunca var olan eşitsizlik, problemlerin ana sebebidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aile hayatı şemalar, sınırlar ve bilişler olmak üzere üç temel özelliğe sahiptir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Nesiller arası yıkıcı etkileşim kalıpları “görünmez sadakat” yöntemi ile değiştirilir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Kaygı problemleri olan çocuklara yaklaşım hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun geniş sosyal çevresi ve okuluna da müdahale edilmesi rutin olarak kullanılan yöntemlerdendir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaygı oluşturan durumlar sıralanır, çocuğun bu durumlarla kademeli olarak karşılaşıp baş etmesi hedeflenir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ebeveynler ve çocuklar gerçekçi olmayan felaket inançlarını görmezden gelmeyi, bunlardan kaçınmayı öğrenirler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ebeveynler ve çocuklar kaygı uyandıran durumlarla başa çıkmak için inkar etmeyi ve kendi kendine eleştirmeyi öğrenirler.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Problem çözme ve iletişim becerileri seanslarında aile üyelerinin konuşmasına izin verilmez.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aile değerlendirmesinde aile içi ve dışında yaşanmış olayları ve bunların aile üzerindeki etkilerini öğrenmek isteyen bir aile danışmanı hangi aracı kullanmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Soy ağacı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Rol oynama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ölçekler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Anketler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aile kronolojisi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Güvenli bağlanma hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Güvenli bağlanan çocuk, annenin varlığında çevresini keşfetme konusunda tedirgindir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Güvenli bağlanan çocuklar stres karşısında içine kapanır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun zihninde tutarsız bir anne imgesi oluşması güvenli bağlanma için kritiktir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Güvenli bağlanan çocuk ihtiyacı olduğunda annesinin hazır bulunacağını bilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anne ve çocuk arasında karşılıklı stres ve gerginlik duygusu hakimdir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Çözüm odaklı aile danışmanlığında “ziyaretçiler” kavramı kimleri tanımlamak için kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Problem yaşadığına inanan ancak çözümünün mümkün olmadığını düşünen kişiler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Başkası tarafından tedaviye yönlendirilen ancak tedaviye ihtiyaç duyduğunu düşünmeyen kişiler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Problemleri olduğunu kabul eden ve tedavide buna çözüm bulmayı isteyen kişiler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Danışmanlık sürecinde sürekli diğerlerinin sözlerini keserek sürekli konuşan kişiler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Problemlerini sürekli başka insanların üzerine atarak dikkat çekmeye çalışan kişiler",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Psikanalitik Aile Danışmanlığı hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eşler birbirlerine içsel arzularını yansıtır ve yansıtmalı özdeşim ile bu rollere uyum sağlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Erken yaşam şemaları bilişsel yeniden yapılandırma ile değiştirilmeye çalışılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İlişki olgunlaştıkça yansıtmalar yavaş yavaş daha yaygın olarak kullanılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sorunlu ilişkilerin temelinde eşlerin bilişsel çarpıtmaları yer alır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Evlilik danışmanlığında danışanlar ilişkilerinde inkâr kullanmaları için eğitilir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Yeniden evlenme sonrası çocuklar tarafından üvey ebeveynin varlığına en yüksek direncin gösterildiği yaş aralığı hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0-6 yaş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "18-24 yaş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "11-14 yaş",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "16-18 yaş",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "7-10 yaş",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Sude Hanım, eşiyle tartıştıktan sonra bu durumu çocuklarına anlatıp onların da babalarına karşı olumsuz davranışlarda bulunmasına teşvik ediyor. Çocuklar babaları geldikten sonra onunla konuşmuyorlar ve babası da akşam kendi başına yemek yiyor. Aşağıdakilerden hangisi yukarıdaki durumu en iyi şekilde tanımlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Adaletsizlik yapma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Etiketleme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gerçekçi olmayan beklentilere girme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Günah keçisi yapma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Üçgenleşme",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "I. Anlatılmak istenen duygu ve düşünceler karşıdaki kişiye net olarak verilir.  II. Örtük iletişimde genellikle ben dili kullanılarak iletişim kolaylaştırılır.  III. Anlatılmak istenen konu uzun ve karmaşık bir şekilde ifade edilir.  IV. Kişi duygu ve düşüncelerini karşı tarafa üstü kapalı bir şekilde aktarır.  Örtük iletişim ile ilgili yukarıdaki ifadelerden hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve II",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Çocuklarda yas süreci hakkında aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun ölümün geri dönülmezliğini anlaması derin bir üzüntüye neden olabilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kabul çocuğun ölen kişi hakkında aşırı arayışlarda bulunmasına neden olabilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kayba verilen en yaygın ilk tepki pazarlık ve insanlardan uzaklaşmadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öfkenin ifade edilmesi yıkıcı sonuçlar doğuracağı için önerilmez.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnkarla birlikte çocuk ölen kişinin artık bu dünyada olmadığını anlar.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "I. Çocukların niçin yaramazlık yaptığı  II. Çocuklarda depresyon belirtileri  III. Otizmin çevresel nedenleri  IV. Tutarlılık ve öngörülebilirlik  Yukarıdakilerden hangileri ebeveyn eğitiminin psikoeğitim evresinde verilecek bilgiler arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II ve IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "II ve III",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "87909862e9f93e1b9f0af7c3360ed4128a5fde857d824575996dde57bfa113c6"
+}

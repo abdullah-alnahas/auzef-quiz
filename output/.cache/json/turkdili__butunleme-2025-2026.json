@@ -1,0 +1,739 @@
+{
+  "course": "Türk Dili 1-2 ( AUZEF )",
+  "course_slug": "turkdili",
+  "exam": "2025-2026 Bütünleme Soruları",
+  "exam_slug": "butunleme-2025-2026",
+  "page_title": "Türk Dili-1 2025-2026 Bütünleme Soruları",
+  "source_url": "https://lolonolo.com/2026/02/02/turk-dili-1-2025-2026-butunleme-sorulari/",
+  "scraped_at": "2026-11-12T11:33:14+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki kelimelerden hangisi diğerlerinden farklı bir ek almıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Benim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dolapta",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Evler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kitaplık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kalemi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda Türkçedeki ünsüzlerle ilgili verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Türkçede genel olarak hece ve kelime sonunda /b/, /c/, /d/, /g/ sesleri bulunmaz.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Türkçe kökenli kelimelerde hece ve kelime sonlarında belirli ünsüz grupları hariç çift ünsüz bulunmaz.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Türkçe kökenli kelimeler çift ünsüzle başlayabilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Türkçe kökenli kelimelerde /j/ sesi bulunmaz.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Türkçe kökenli kelimelerde asli olarak /f/ ve /h/ sesi bulunmaz.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Kullanılan dilin ya da dillerin resmî bir idare tarafından dil-içi farklılıkların kullanımı ile ilgili problemlerin çözülmesi için bilinçli bir şekilde düzenlenmesi faaliyetine ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dilsel tutum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dilin canlandırılması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dilsel güçlük",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dilsel ihtiyaç",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dil planlaması",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Türkçenin yardımcı seslerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "n",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "y",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "a",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "ü",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "ı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi /u/ ünlüsünün özelliklerini tam olarak vermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ön-dar-yuvarlak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Art-dar-yuvarlak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Art-geniş-yuvarlak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Art-dar-düz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ön-geniş-yuvarlak",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinde altı çizili sözcük temel anlamının dışında kullanılmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Üç damla yaş kurudu solgun yanaklarında.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Orası apaçık bir fesat ocağı.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yumuşak, kuzu derisi çizmelerin içinde ayakları uyuşmuştu.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Biraz sonra cebinden şık bir defter çıkardığını gördü.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Köylü eşeğini önüne katmış, arada sopa gösteriyordu.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Dede Korkut Hikâyeleri ve Yunus Emre’nin şiirlerini okuyan birisi Türkçenin hangi dönemine ait eserleri okuduğunu söyleyecektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uygurca",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Osmanlı Türkçesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karahanlıca",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çağatayca",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eski Anadolu Türkçesi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "“Düz bir çizgi çizebilmek için yıllarca uğraşmak gerekiyordu,” cümlesinin ögeleri sırasıyla aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "özne- zarf - yüklem",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "zarf - özne - yüklem",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "yer tamlayıcısı - nesne - yüklem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "nesne - zarf - yüklem",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "zarf - nesne - yüklem",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerin hangisi deyimlerin bir özelliği değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir yargı bildirirler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kalıplaşmış kelime öbekleridir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Genellikle gerçek anlamından ayrı bir anlam belirtirler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kısa ve özlü ifade araçlarıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çekici bir anlatım özelliği taşırlar.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "“Mecaz anlam, bir sözcüğün ilgi veya benzetme yoluyla gerçek ve yan anlamı dışında kullanılmasına verilen addır. Mecaz anlam kazanan sözcük genellikle soyut bir anlam taşır. Mecaz anlam sözcüklerin asıl ve yan anlamları dışında, ilişki ve benzerlik yoluyla başka bir kavramı belirtmek üzere kazandıkları anlamdır.”Buna göre aşağıdaki altı çizili kelimelerden hangisi mecaz anlama örnek gösterilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "O vazoyu kırdım.(altı çizili kelime ->kırdım)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bütün gün bekledim.(altı çizili kelime ->bekledim)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kırmızı en sevdiğim renktir.(altı çizili kelime ->kırmızı)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sıkıntıdan çatladım.(altı çizili kelime ->çatladım)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gülüşür ve şakalaşırdık.(altı çizili kelime ->şakalaşırdık)",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Farsça bağçe kelimesinin günümüz Türkçesinde bahçe olması aşağıdaki ses olaylarından hangisi ile açıklanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dudaksıllaşma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Benzeşmezlik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ünsüz benzeşmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İncelme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sızıcılaşma",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Güneş dil teorisiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu teori Atatürk ve Türk Dil Kurumu tarafından kesinlikle desteklenmemiştir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "\"İlk dil hangisiydi?\" sorusuna \"Türk dili\" olarak cevap vermiştir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Teoriye göre ilk insanın ilk tanıdığı nesne güneştir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Teoriye göre Türk dili bütün dillerin anasıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Üçüncü Türk Dil Kurultayı'nda teori ağırlıkla tartışılmıştır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Türkçe cümle ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Türkçe cümle yapısının kuruluşunda yüklem sonda bulunur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bir soruya karşılık verilen 'evet, hayır' gibi sözler eksiltili cümle olabilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ki'li birleşik cümle yapıları dilimize Farsçadan girmiştir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tam bir anlam ifade eden yargılı anlam birimlerine cümle denilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "'Durdu' kelimesinin cümle sayılabilmesi için tümleçlere ihtiyaç vardır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dil ölümlerinin sebepleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Göç esnasında verilen insan kaybı ve az bir nüfusla güçlü bir dilin bünyesine yerleşmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bir toplumda görülen çocuk ölüm oranlarının artması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Azınlık psikolojisinin tesiri ile sürgünde yaşanan paradoks",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Savaş, soykırım ve bunların sebep olduğu göç",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Baskın dilin, iş bulmak ve iş çevrelerinde tutunabilmek için öğrenilme ve kullanılma gereği",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "“Bir devletin sınırları içerisinde yönetimde, hukukta, eğitimde ve ticarette gerek sözlü gerekse yazılı iletişimde kullanılan, genellikle kanunla belirlenen dile denir. Bu dile resmî dil de denir.”Tanımdaki dil aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Devlet dili",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Lehçe",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Özel dil",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ağız",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yazı dili",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki sözcüklerin hangisinde bir yazım yanlışı vardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Klavuz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Eşkıya",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kirpik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Laboratuvar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Başvurmak",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Eski Türkçede “til” olan kelimenin günümüz Türkçesinde “dil” olması aşağıdaki ses olaylarının hangisi ile açıklanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dudaksıllaşma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dil benzeşmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Göçüşme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tonlulaşma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İncelme",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "“Kültürel temas sonucu ortaya çıkan dil etkileşmesinin sonuçlarına ….. denir. Zamana yayılan bu temaslar sonucunda bir dilin kelime varlığına başka dillerden alınmış kelimeler, tabirler, deyimler eklendiği gibi, dil bilgisi yapısına da eklemelerin olduğu görülür.”\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "yazım bilgisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "biçim bilgisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "verinti",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "ödünçleme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "sözcük",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki altı çizili birleşik kelimelerden hangisinin yazımı yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Şehrin girişinde gecekondular gelen misafirleri selamlıyordu.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Apartman girişindeki hanımelinin kokusu etrafı sarmıştı.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Denizde yaşayan canlılardan köpekbalığı en vahşi olanıydı.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okulun güneybatı yönünde büyük ve gösterişli bir kütüphane vardı.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Akşamüstü sahil kenarında buluşmak için telefonda sözleştiler.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Yazmaya başlamak zordur. Başlangıçta şekilsel faktörler üzerinde durmamak sadece duygu, düşünce veya bilgileri olduğu gibi yazarak başlamak işi kolaylaştırır. Başlangıçta kusursuz metnin yazılması amaçlanmamalıdır. Metnin ana hatlarını çıkarmak ve sonra bunları başlıklar ve alt başlıklar hâlinde organize etmek amaçlanmalıdır. Giderek başlıkların altının doldurulması daha kolay olacaktır. Yazının içeriği, okur özellikleri ve yazma amacına göre sınırlandırılmalı; okurun ilgisini çekmeyecek, amaç dışına çıkan şeyler metne dâhil edilmemelidir.\nBu parçanın yazarı ile ilgili aşağıdakilerden hangisi söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir yazarın sahip olması gereken niteliklerden bahsetmektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yazmanın zor olarak nitelenmesinin gerekçelerini açıklamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yazma eğitiminin aşamaları hakkında bilgi vermektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yazar ve okur arasındaki etkileşimin metne kattığı değeri ifade etmektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yazma konusunda çeşitli tavsiyelerde bulunmaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "a6463f9a87abcab5386f55ddfd1f2feb1f4305c904e61e28cd0855f8b084bce0"
+}

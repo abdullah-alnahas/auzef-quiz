@@ -1,0 +1,739 @@
+{
+  "course": "Anne Çocuk Sağlığı",
+  "course_slug": "anne-cocuk-sagligi",
+  "exam": "2024-2025 Vize Soruları",
+  "exam_slug": "vize-2024-2025",
+  "page_title": "Anne Çocuk Sağlığı 2024-2025 Vize Soruları",
+  "source_url": "https://lolonolo.com/2024/11/05/anne-cocuk-sagligi-2024-2025-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:33:48+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi anne sağlığını gösteren ölçütlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ana Ölüm Hızı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk/Kadın Oranı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaşa Özel Doğurganlık Hızı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kaba Ölüm Hızı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Genel Doğurganlık Hızı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Üreme sistemi, işlevleri ve süreci ile ilgili sadece hastalık ve sakatlığın olmamasını değil, tüm bunlara ilişkin fiziksel, zihinsel ve sosyal yönden tam bir iyilik hâlinin ifadesine verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ana sağlığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İnfertilite",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kadın sağlığı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal sağlık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Üreme sağlığı",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sağlık modellerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Düşünce Modeli",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İyilik Modeli",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çevre Modeli",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tıbbi Model",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Holistik Model",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Sağlıklı çocuk izleminde taramalar önemlidir.\nAşağıdakilerden hangisi yenidoğanın metabolik taramaları için yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doğumdan sonra 3-5. günlerde topuktan alınan birer damla kan ile tanı konulur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yenidoğanın taramaları ile tüm metabolik hastalıkların tanısı konabilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bu hastalıkların sebep olabileceği bozukluklar taramalar sayesinde önlenebilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Taramaların yapılabilmesi için bebeğin 48 saat beslenmiş olması gerekir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bazı metabolik hastalıkların hasarlarının önlenebilmesi için taramalar önemlidir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Bir kadının doğurgan olduğu dönem olan 15-49 yaş grubunda doğurabileceği ortalama çocuk sayısı aşağıdakilerden hangisi ile tanımlanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaba doğum hızı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Toplam doğurganlık hızı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Canlı doğan bebek sayısı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Adölesan doğurganlık hızı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaşa özel doğurganlık hızı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yenidoğan taramalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Biotinidaz Eksikliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kistik Fibrozis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Konjenital Hipotiroidi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Diabetes Mellitus",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Fenilketonüri",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Doğumdan itibaren ilk 28 günü tamamlamamış bebeklere verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yenidoğan",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sürmatür",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İmmatür",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Postmatür",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Prematüre",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Çocuklarda nöromotor gelişim için aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun sahip olduğu fonksiyonların olumlu yönde değişimine ve olgunlaşmasına ''gelişim'' denir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gelişimin her basamağı bir öncekinin üzerine kuruludur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimin basamakları çocuktan çocuğa farklılık gösterebilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nöromotor gelişim basamakları değerlendirilirken çocuğun takvim yaşı dikkate alınmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sağlıklı bebekler ve çocuklar genellikle gelişimsel dönüm noktalarına uygun yaşta ulaşırlar.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Tarihsel süreçte ele alındığında, hastalık kavramı için aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çağlar boyunca hastalık kavramı, doğaüstü güçlerin insanları cezalandırma yöntemi olarak tanımlanır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hastalık vücutta bulunan kan, sarı safra, kara safra ve balgam arasındaki dengenin bozulması olarak açıklanmaktaydı.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Antik çağda salgınlar Tanrı'nın kızmasından dolayı meydana geldiğine inanılırdı.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Antik dönemde tanrılar günlük yaşamın bir parçasıdır ve hastalıklarda ilahi bir yardım aramak başvurulan ilk çarelerdendir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hipokrat hastalıkların doğaüstü güçler tarafından yaratıldığını belirtmektedir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi mons pubis için doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Labialar arasında yer alır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ergenlik döneminden itibaren kıllar ile kaplanır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Damar yönünden zengindir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Üçgen şeklinde görülür.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sinir yönünden zengindir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Ülkelerin sağlık düzeylerini inceleyerek gelişmişlikleri hakkında karar vermek ve karşılaştırma yapmak için objektif, standart ve sayısal bir takım kriterlere ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitim göstergeleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Büyüme göstergeleri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Teknolojik göstergeler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sağlık göstergeleri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ekonomik göstergeler",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi uterusun görevlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doğum anında plasentayı korumak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Döllenmiş yumurtanın yerleşmesi için uygun bir ortam hazırlamak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Doğumdan sonra plasentanın ayrıldığı kısımda kanamayı kontrol etmek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doğumdan sonra plasentanın atılmasını sağlamak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Embrio olgunlaşıncaya kadar beslenmesini ve korunmasını sağlamak",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hastalanma düzeyini belirleyen ölçütlerden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaba Ölüm Hızı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk/Kadın Oranı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fatalite Hızı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Toplam Doğurganlık Hızı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnsidans",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Sosyoekonomik durum, eğitim ve çoklu çevresel etmenlerin sağlığa olan etkilerini içeren sağlık modeli aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İyilik Modeli (The Wellness Model)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Holistik Model (The Holistic Model)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tedavi Modeli (Therapotic Model)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çevre Modeli (The Environment Model)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tıbbi Model (The Medical Model)",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Bir olayın bir bütün içindeki durumunu yansıtır. A/A+B şeklinde ifade edilir. Pay, paydanın içinden çıkmaktadır.\nYukarıda açıklaması verilen kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zaman",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Oran",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hız",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mesafe",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Orantı",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Yenidoğanın hemorajik hastalığını önlemek amacıyla tüm bebeklere doğumdan hemen sonra hangi vitamin intramusküler (İM, kas içine) yapılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "B vitamini",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "K vitamini",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "E vitamini",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "A vitamini",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "D vitamini",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Çocuklarda ”büyüme atağı” hangi yaş dönemleri arasında görülür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "15 - 20 yaş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "7 - 12 yaş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "11 - 16 yaş",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "5 - 10 yaş",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1 - 6 yaş",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Vulvadaki en büyük salgı bezine verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bartolin bez",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Labia majör",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Labia minör",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Vestibül",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hipofiz",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Apgar skoru için bebekte değerlendirilen kriterlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Solunum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kalp hızı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İdrar yapma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tonus",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Cilt rengi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Bulaşıcı hastalıkları önlemede maliyet ve güvenilirlik açısından en etkili yöntem aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sağlıklı beslenme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlaçlar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aşılama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Temiz içme suyu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Erken teşhis",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "c0b3fc4bc4d097140ad78efc33f29f699f3f38c5a3d03acd1f6b8f00b78f8e3e"
+}

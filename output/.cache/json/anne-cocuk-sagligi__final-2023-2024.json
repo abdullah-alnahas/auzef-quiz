@@ -1,0 +1,739 @@
+{
+  "course": "Anne Çocuk Sağlığı",
+  "course_slug": "anne-cocuk-sagligi",
+  "exam": "2023-2024 Final Soruları",
+  "exam_slug": "final-2023-2024",
+  "page_title": "Anne Çocuk Sağlığı 2023-2024 Final Soruları",
+  "source_url": "https://lolonolo.com/2024/01/08/anne-cocuk-sagligi-2023-2024-final-sorulari/",
+  "scraped_at": "2026-11-12T11:33:49+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yaralanma sonucu ölümlerin en başta gelen nedenlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Trafik kazaları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Zehirlenmeler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Suda boğulmalar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Donmalar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yanıklar",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “sağlığı geliştirme” kavramını tanımlayan ifadedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireylerin, sağlıkları üzerinde daha fazla etkin güce ve kapasiteye sahip olma sürecidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mevcut sağlık kurumlarını geliştirmek ve teknolojik gelişimlere uyum sağlamaktır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gelişmiş sağlık politikaları uygulama ve bunları yaygınlaştırmadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hastalıkları ve kazaları önlemek için alınan önlemlerdir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Akılcı ilaç kullanımını yaygınlaştırmak için çalışmalar yapmaktır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Çocuklarda sık görülen akut otitis media (orta kulak enfeksiyonu), sinüzit, farenjit ve tonsillit gibi hastalıklara ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nörolojik hastalıklar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Alt solunum yolu hastalıkları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gastrointestinal sistem hastalıkları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Üriner sistem hastalıkları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Üst solunum yolu hastalıkları",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi vücut ısısını etkileyen bir faktör değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Menstrüal döngü",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kişinin aktivite seviyesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaş",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Günün saati",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Cinsiyet",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "İshali olan çocuğun bakımında en önemli amaç aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Besin ve sıvı alımının kesilmesidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Alt bakımının yapılmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İshalin nedeninin belirlenmesidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kaybedilen sıvı ve elektrolitlerin yerine konmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hijyenin sağlanmasıdır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Çocuklarda ani kalp durması hangi yaş grubunda daha sık görülür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1 yaş altı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3- 5 yaş arası",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "5- 8 yaş arası",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2- 3 yaş arası",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1-2 yaş arası",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "İlkyardım sırasında “bak-dinle-hisset” yöntemiyle aşağıdakilerden hangisi değerlendirilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilinç durumu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dolaşım",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İşitme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Solunum",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hareketler",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okul öncesi çocuklarının yaralanmalarını artıran faktörlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hayal güçlerinin geniş olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İçe kapanık olmaları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tehlikeyi algılayamamaları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hareketli olmaları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Her şeyi merak etmeleri",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Rektal ısı kaç derecenin üzerinde olursa ateş yüksekliği olarak kabul edilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "36,5 derece",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "37,5 derece",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "37 derece",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "38 derece",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "38,5 derece",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Okul sağlığı hizmetleri aşağıdakilerden hangisini kapsamamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrenci sağlığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Okul çalışanlarının sağlığı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ebeveyn sağlığı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okul çevresi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sağlık eğitimi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Bebeğin ayak tabanına dokunulduğunda bacağını kasar ve başparmağını yana doğru açar. İki yaşına kadar sürebilir. Yukarıda anlatılan refleks aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Babinski",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yakalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tonik boyun refleksi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Moro",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Adım atma",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Zehirlenmeler çocukluk döneminde ölüm nedenleri arasında yer almaktadır. Zehirlenmelerden korunmada aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kullanılmayan ilaçları yerel geri alma programında yer alan yerlere teslim edilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlaçlar ve zehirli ürünler kilitli dolaplarda saklanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Temizlik ürünleri ve kimyasal içerikli ürünler dikkat çekmemesi için orijinal ambalajları dışında saklanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Temizlik solüsyonları ve deterjan kapsülleri orijinal ambalajlarında olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zehir kontrol merkezi telefon numarasını evde/okulda/bakım alanındaki her telefonun üzerine yerleştirilmelidir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Tarihsel süreçte ele alındığında, hastalık kavramı için aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Antik dönemde Tanrılar günlük yaşamın bir parçasıdır ve hastalıklarda ilahi bir yardım aramak başvurulan ilk çarelerdendir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çağlar boyunca hastalık kavramı, doğaüstü güçlerin insanları cezalandırma yöntemi olarak tanımlanır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hipokrat hastalıkların doğaüstü güçler tarafından yaratıldığını belirtmektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hastalık vücutta bulunan kan, sarı safra, kara safra ve balgam arasındaki dengenin bozulması olarak açıklanmaktaydı.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Antik çağda salgınlar Tanrı'nın kızmasından dolayı meydana geldiğine inanılırdı.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Hayat kurtarmak amacı ile hava yolu açıklığı sağlandıktan sonra solunumu durmuş ve hiçbir yaşam belirtisi görülmeyen kişiye, yapay solunum ile akciğerlerine oksijen gitmesini; dış kalp masajı ile de kalpten kan pompalanmasını sağlamak üzere yapılan ilaçsız müdahaleye ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Temel yaşam desteği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Acil yardım",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İlkyardım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Jaw thrust",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Baş çene manevrası",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi uterusun görevlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doğumdan sonra plasentanın ayrıldığı kısımda kanamayı kontrol etmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Döllenmiş yumurtanın yerleşmesi için uygun bir ortam hazırlamak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Doğum anında plasentayı korumak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Embrio olgunlaşıncaya kadar beslenmesini ve korunmasını sağlamak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Doğumdan sonra plasentanın atılmasını sağlamak",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Mikroorganizmaların varlıklarını sürdürebilmeleri için, enfekte olmuş bir konakçıyı terk edebilmeleri, çevrede bulaşmayı sürdürebilmeleri, duyarlı bir kişi veya hayvana girebilmeleri ve yeni enfekte olmuş konakçıda gelişebilmeleri ve/veya çoğalabilmeleri sürecine ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Enfeksiyon hastalığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaynak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Enfeksiyon",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Duyarlı konakçı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Enfeksiyon zinciri",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Virüsler, bakteriler, mantarlar ve parazitler gibi hastalığa neden olan mikroorganizmaların oluşturdukları hastalıklara genel olarak ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Metabolik hastalıklar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Enfeksiyon hastalıkları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ateşli hastalıklar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukluk hastalıkları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Döküntülü hastalıklar",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Bir olayın bir bütün içindeki durumunu yansıtır. A/A+B şeklinde ifade edilir. Pay, paydanın içinden çıkmaktadır. Yukarıda açıklaması verilen kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oran",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mesafe",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hız",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zaman",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Orantı",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Sağlıklı çocuk izleminde aşağıdakilerden hangisi doğru bir uygulama değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anne sütü ile beslenme, ek besinlere başlama, beslenme alışkanlıklarına yönelik bilgiler verilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Her kontrolde kan tahlili yapılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Boy, kilo ve baş çevresi ölçülmeli ve bunlar büyüme eğrileri üzerinde işaretlenmelidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun büyümesi izlenmelidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaşa uygun taramalar yapılmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okullarda öğrenci sağlığını korumak için yapılması gereken uygulamalardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrencilerin sağlık durumlarının belirlenerek kayıt altına alınması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kronik hastalığı olan çocukların belirli sınıflarda toplanması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğrencilerin okula başlamadan önce muayeneden geçirilmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğrencilerin periyodik muayenelerinin yapılması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bulaşıcı hastalıklarla mücadele için gerekli tüm önlemlerin alınması",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "2adbfa5fefbd8cab9816858f9c693c0e33c9b451ab9b31fb7e8548fa21615d97"
+}

@@ -1,0 +1,717 @@
+{
+  "course": "Erken Çocukluk Eğitiminde Yaklaşımlar Ve Prog.",
+  "course_slug": "erken-cocukluk-egitiminde-yaklasimlar-ve-prog",
+  "exam": "2020 Bütünleme Soruları",
+  "exam_slug": "butunleme-2020",
+  "page_title": "Erken Çocukluk Eğitiminde Yaklaşım ve Programlar 2020 Bütünleme",
+  "source_url": "https://lolonolo.com/2021/02/14/erken-cocukluk-egitiminde-yaklasim-ve-programlar-2020-butunleme/",
+  "scraped_at": "2026-11-12T11:34:18+03:00",
+  "answer_source": "inline",
+  "question_count": 19,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Head stard aile ortaklığı kavramı aşağıdakilerden hangisini içermez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "tam zamanlı çalışan olarak görev almak.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sınıflarda gönüllü olarak çalışmak.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğretmen yardımcısı olarak çalışmak.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun gelişimini değerlendirmek.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Politika konseyinde görev almak.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Head stard felsefesi arsında almaz?\nKısa vadeli döngü, hakkında hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Piramit’in ilk basamağı oryantasyondur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Piramit metodunda çocuklar kısa vadede döngü aracılığı ile mesafe almaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğretmen genişleme basamağında soru tipi olarak uzaklık soruları kullanılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kısa vadeli döngülerin denaturasyon basamağında anlatılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Genişleme basamağında proje konu hakkında bilgileri genişletmektedir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi sosyal yapılandırmacı kavramını en iyi ifade eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukla oynayarak öğrenirler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklar bildiği ve becerileri bireysel olarak yapılandır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuklar bilişsel evrelerden geçerek öğrenirler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklar sosyal etkileşim içinde öğrenirler.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklar yaparak ve yaşayarak öğrenirler.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "*Okul idarecileri herhangi bir model yaklaşımı seçip uygulamaya karar verirken maddelere yaklaşımla ilgili bazı faktörleri göz önünde bulundurmaları gerekir aşağıdakilerden hangisi bu faktörlüden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Modelin, yaklaşımın eğitimcileri çeşitli kaynaklar desteklemeye dayanır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Modeli yaklaşımın anlaşılması ve uygulanmasındaki kolaylık.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Modelin yaklaşımın bilimsel kanıtlarla değerlendirir olması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Modelin yaklaşımın kültüre ve inançlara uygunluğu.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Modelin yaklaşımın popülerliği",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Gelişimsel açıdan programın uygulandığı bir anasınıfı ziyaret eden bir kışını aşağıdakilerden hangisiyle karşılaşması beklenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duvarlara asılan çocuk çalışmaları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk boyuna uygun masa, sandalye",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Farı temelara ayrılmış öğrenme merkezler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların erişemeyeceği raflar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların bireysel çalışabilecek alanlar.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Head stard felsefesi arasında sayılamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile eğitimi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bütüncül yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yerle kontrol",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal yeterlik üzerinde odaklanma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aileye para yardımında bulunma",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi ayrımcılık karşıtı eğitim programını amaçlarımdan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların eleştirel düşüncelerini desteklemek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların kendi kalıp yargılarını oluşturma konusunda desteklemek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "her çocuğun güvenli bir kişilik oluşturmasını desteklemek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "çocukların kendilerini ve başkası icin ön yargı karşısında savunma yapabilmelerini sağlamak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "çocukların farklı hayati olan bireyler ile empati kuramını desteklemek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi orman okulu ilkeleriyle örtüşmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "çocukların risk aşamalarına yardımcı olmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların bütüncül gelişimine odaklanmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuklara tehlike yaratacak durumlarda öğretmen merkezli uygulamalara odaklanmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aynı doğal mekana düzenli ziyaretler yapmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mera, koy, çayır ve kırlar gibi doğal mekanları öğrenme ortamı olarak kullanmak",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Proje yaklaşımının tarihçesi düşünüldüğünde, aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Proje yaklaşımı ilk kez 1910’da bir okulda uygulanmıştır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Okullara disiplin getirmek üzere geliştirilmiştir..",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dezavantajlı çocukların akademik başarısını artırma hedefinden doğmuştur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kavramsal olarak kez Lillian Katz tarafından tanımlanmıştır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öncelikle erken çocukluk eğiminde, daha sonra ilköğretimde kullanılmıştır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": ") “Çikolata nasıl yapılır?” projesinin uygulandığı bir sınıfta aşağıdaki etkinliklerden hangisini gerçekleştirilmesi uygun olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "çikolata konusu ile ilgili çocukların ne bilmek istediklerini belirlemek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "çikolata yapan bir pastacıya okula davet ederek çocuklarla görüştürmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "proje konusunun uygun olup olmadığını aileler ile görüşmek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "çocukların çizimleri ile çikolatanın yapım aşamasını gösteren bir kitap hazırlamak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çikolata Fabrikası’nı ziyaret etmek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": ") Aşağıdakilerden hangisi önyargı karşıtı eğitim programında öğretmenin rollerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ailelerin önyargısız bir programın karşısında yer aldığını bilmelidir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "çocukların kültürel geçmişleri hakkında bilgi sahibi olmalıdır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "kendi önyargıları ile mücadele edilmelidir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "bir insan olarak öğretmen önce kendini tanımalıdır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "önyargı karşıtı eğitim programı ile çocukların gelişimine paralel şekilde düşünmelidir",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": ") Aşağıdakilerden hangisi ön yargı karşıtı eğitim programının en aktivist amacıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Önyargı karşısında savunma yapabilmesini sağlamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Önyargı hakkında eleştirel düşünmelerine destek olmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öz farkındalık kazanarak ailesi ile gurur duymasını sağlamak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Farklı hayatları olan bireylerle empati kurmalarını sağlamak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Özgüvenli bir kişilik kazanmasını desteklemek",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": ") Aşağıdaki uygulamalardan hangisi orman Okulu yaklaşımının ülkeleri ile örtüşmez",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "çocukların bütüncül gelişimine odaklanmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "mera koy Çayır ve kır gibi doğal mekanları öğrenme ortamı olarak kullanmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "aynı doğal mekana düzenli ziyaretler yapmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "orman tehlikeli olabileceğinden öğretmen merkezli uygulamalara odaklanmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "çocukların rik almasına yardımcı olmak",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": ") “Proje yaklaşımda öğretmenlerin projeyi başlatmak konusunda tetikleyici ve teşvik edici rolü yoktur” diyen neyi göz ardı eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrenme daveti",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Beyin fırtınası",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dokümantasyon",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Proje ağı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kavram haritası",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi ön yargı karşıtı eğitim programının vizyonundan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitim sürecine programın ve okulun tüm paydaşları dahil edilir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tüm aileler ve çocuklar aidiyet hissine sahiptir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tüm aileler ve çocuklar güvenli, sağlıklı, huzurlu evlerde yaşamayı hak ederler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tüm aileler çocuklarını geliştirebilecekleri kaynaklara sahiptir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Her çocuk kendi ailesinin kültürel acılarını beraberinde getirmektedir",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Projelerde çocukların ne bildikleri ve ne öğrenmek istediklerine odaklanılır. Bu süreçle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu süreç çocukların var olan bilgileri üzerine yenilerini inşa etmelerini kolaylaştırır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların ne bildiklerini görmek üzere bir ağ hazırlanır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların bildikleri ve öğrenmek istedikleri konusunda ailelerden yardım alınabilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bu süreç projenin ikinci aşamasında yaşanır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların ne öğrenmek istediklerini belirlemek için sorulardan yararlanılabilir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Piramit metodunun günlük eğitim akışına ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ardışık etkinlikler günün en başında gerçekleştirilen etkinlikler olup genelde küçük grup etkinliği şeklinde gerçekleştirilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Piramit metodunda çocuklar nasıl çalışacaklarını hoş geldiniz programında öğrenir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Günün kapanışı tüm sınıfın katıldığı bir etkinlikle gerçekleştirilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklar grupla keşfetme zamanında proje konusu hakkında keşifte bulunurlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Turoring, sınıfta bulunan özel öğretim merkezinde veya sınıf dışı başka bir alanda yapılır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Reggio Emilia okullarında görev yapan atölye öğretmenleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Her dönem başka bir okulda görevlendirilirler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Her sınıftaki iki öğretmenden biri atölye öğretmeni olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların yüz dilini ortaya çıkaracak deneyimler sunarlar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Atölyelerin ekipman ve materyaller bakımından geliştirilmesinden sorumludur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Atölye öğretmeninin sanat üzerine eğitimi vardır Cevap :",
+          "images": []
+        }
+      ],
+      "answer": "UNKNOWN"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Tartışma bölümünde soru sormanın önemli noktası aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğu sorular ile yönlendirerek bekledik cevabı almak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun doğru cevabı bulmasını beklemem",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İletişimin tek yönlü olmasını sağlamak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun aktif olarak yanıt vermesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların soru sorma ve cevaplama becerilerini ölçmek",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "source_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    23,
+    24,
+    25,
+    26,
+    28,
+    29,
+    30,
+    31,
+    33,
+    34,
+    35,
+    36
+  ],
+  "omitted_questions": [
+    {
+      "n": 9,
+      "reason": "option_letters",
+      "stem": "Aşağıdakilerden hangisi sosyal öğrenme kuramı ile ilgili yanlış bir ifadedir?"
+    },
+    {
+      "n": 16,
+      "reason": "option_letters",
+      "stem": ") Reggio Emilia sınıfları ile ilgili aşağıdakilerden hangisi yanlıştır?"
+    }
+  ],
+  "content_hash": "a4428840c07d8e0b607b5f25a56d2efcbf1d5d7b71f82d3c7761b4dcb03fcd19"
+}

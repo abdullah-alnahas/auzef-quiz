@@ -1,0 +1,739 @@
+{
+  "course": "Sosyal Psikoloji ( Ve Giriş-1 )",
+  "course_slug": "sosyalpsikoloji",
+  "exam": "2022-2023 Final Soruları",
+  "exam_slug": "final-2022-2023",
+  "page_title": "Sosyal Psikolojiye Giriş -1 2022-2023 Final Soruları",
+  "source_url": "https://lolonolo.com/2023/01/18/sosyal-psikolojiye-giris-1-2022-2023-final-sorulari/",
+  "scraped_at": "2026-11-12T11:34:59+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Bir kişinin başlamak üzere olduğu bir ilişkinin son derece acıklı, kederli bir duyguyla sona ereceği, karşısındakini sevdiği gibi sevilmeme, aldatılma veya kandırılma gibi durumlar yaşayacağını düşünmesi sosyal biliş kuramına göre aşağıdakilerden hangisi ile ilişkilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zihinsel cimrilikle",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Beklentiye uygun olmayan bilgiyle",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel senaryosuyla",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Temsilleriyle",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Karşıdaki kişiyle",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Seda isimli bir öğrenci psikoloji sınavından 100 almıştır. Kelley’nin Varyans Analizi Modeline göre eğer Seda’nın sınıfındaki herkes bu sınavdan 100 almışsa aşağıdakilerden hangisi söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tutarlılık düşüktür.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Belirginlik yüksektir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaygınlık düşüktür.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tutarlılık yüksektir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaygınlık yüksektir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Heider’in yaşam alanında dolaysız ilişki ile oluşan nesnel olguların yaşam alanına girmesinin bir yolu olarak gördüğü eylem aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Algılamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Neden olmak.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İstemek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gerekli olmak.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İhtiyaç duymak",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "M. Sherif’in deneyi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnsanların normalde yapmayacaklar eylemleri, kendilerine emir verildiğinde yapabileceklerini göstermiştir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İnsanların belirli rollere büründüklerinde rollerinin gereği olan eylemleri kolayca içselleştirebildiklerini göstermiştir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnsanların gerçekliğin belirsiz olduğu durumlarda ivedilikle bir referans noktası ve norm geliştirdiklerini göstermiştir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnsanların gerçekliğin belirsiz olduğu durumlarda kargaşa ve kaosa sürükleneceklerini göstermiştir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnsanların gerçek olduğuna inanmasalar dahi gruba uymak için yalan söyleyebildiklerini göstermiştir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sosyal psikolojinin çalışma konusu değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişiler arası etkileşim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gruplar arası farklılıklar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kemik hastalıkları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gruplar arası etkileşim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Toplum-kişi etkileşimi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Freud’a gore 6-12 yaş arasında gerçekleşen, kişinin cinselliği ve dürtülerini kontrol etmeyi, hatta onları hiç yokmuş gibi saklamayı öğrendiği, kendisiyle ilgili sosyal rolleri anladığı gelişim dönemi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fallik dönem",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Oral donem",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anal dönem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gizil (latent) dönem",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ge(nital dönem",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Doğal deney ile alan deneyi arasındaki fark aşağıdaki seçeneklerden hangisinde ifade edilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Alan deneyinde bağımsız değişken kontrol edilemezken; doğal deneyde kontrol edilebilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Doğal deneyde bağımsız değişken kontrol edilemezken; alan deneyinde kontrol edilebilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Doğal deneyde olgu gerçek ortamında incelenirken; alan deneyinde bu yapılamaz.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Alan deneyinde olgu gerçek ortamında incelenirken; doğal deneyde bu yapılamaz.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Alan deneyiyle neden sonuç ilişkileri kurulabilir; doğal deneyle kurulamaz.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Freud’a göre en temel ve en ilkel sayılan ve ana kaynağı cinsellik, açlık gibi ihtiyaçların en bencilce doyurulması olan benlik düzeyi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ayrık benlik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Süper ego",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ego",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İlişkisel benlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "id",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Weiner’a göre kişinin kendisinin neden olduğu olumlu bir sonuçtan (başarı, kahramanlık vb.) kaynaklanan duygu aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gurur",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Utanç",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Suçluluk",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öfke",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Umutsuzluk",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Bir durumu, belli bir bakış açısına göre sunarak durumun belli bir yönünün vurgulanmasını sağlayan etmen aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Referans noktalı ayarlama (çapalama)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Belirginlik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hazırlama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çerçeveleme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kişinin benlik şeması",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Bir kişinin işten eve dönerken farklı yolları tercih etmemesi, her zaman kullandığı yolu kullanması aşağıdakilerden hangisiyle ilişkili olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zihinsel cimrilik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Beklentiye uygun olmayan bilgi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zihinsel temsil",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bulunabilirlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zihinsel şema",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Freud’a göre baba figürünün toplumsal yasağın ve kültürel ädetlerin içselleştirilmiş bir sembolü olan ve kişinin en ilkel benlik düzeyinin ihtiyaç ve talepleriyle çatışan benlik düzeyi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ego",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Süper ego",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "ilişkisel benlik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "id",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ayrık benlik",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerin hangisinde korelasyonel bir ilişki söz konusudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Televizyonlarda şiddet içerikli programlara daha fazla maruz kalan çocuklar, bu programlardan şiddetin olumlu bir etkileşim biçimi olduğunu öğrenip şiddet içeren oyunlar oynamayı tercih etmektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Televizyonda şiddet içeren programların çok İzlendiği bölgelerde şiddet içerikli oyun oynayan çocuk sayısının da yüksek olduğu tespit edilmiştir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Şiddet içeren oyunlar oynamayı seven çocukları televizyon başına çekmek için daha fazla şiddet içeren program yapılmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aile içi şiddet ortamında yetişen çocuklar, bu ortamın bir sonucu olarak büyüdüklerinde şiddetten nefret eder.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aile içi şiddet ortamında yaşayan çocuklar, bu ortamın bir sonucu olarak büyüdüklerinde şiddet uygulayan insanlara dönüşür.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Psikoseksüel gelişim dönemlerine özel karmaşalar çözümlenmediğinde ve döneme özgü temel ihtiyaçlar doyurulmadığı taktirde benlik o doneme ait problematiğe takılı kalacak ve cozemediği bu problemi bilinçdışı bir biçimde tekrarlayacak ve üretecektir. Yukarıda verilen ifade aşağıdaki kuramcılardan hangisine aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Freud",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Linville",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Heider",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Erikson",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Loevinger",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Bir deneyde çocuklar resim malzemesi olan odaya alınmış ve çocukların bir kısmına resim yaptıkları taktirde bir ödül alacakları söylenirken, diğer kısmına hiçbir şey söylenmemiştir.  Aşağıdakilerden hangisi yukarıda yer verilen deneyin sonuçlarındandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ödül alacakları söylenen grupla hiçbir şey söylenmeyen grup eşit sürelerde resim yapmıştır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hiçbir şey söylenmeyen grup resim yapmamıştır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hiçbir şey söylenmeyen grup, ödül alacakları söylenen gruba göre daha uzun süre resim yapmıştır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ödül alacaklan söylenen grup, diğer gruba göre daha uzun süre resim yapmıştır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ödül alacakları söylenen grup resim yapmamıştır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi başkaları hakkında İzlenim oluştururken kullanılan, sözel olmayan ipuçlarındandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil sürçmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sen-Siz kullanımı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kelime tercihleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişisel mesafe",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aksan",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Sokakta yürürken ayağı takılan biri kişi yolun bozukluğundan şikâyet ederken; ayağı takılan kişiyi izleyen bir başka kişinin olayı kişinin dalgin oluşuna bağlaması hangi yanılgıya işaret etmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Şimdiki, geçmiş ve gelecek zaman arasında fark",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Temel yükleme yanılgısı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ben merkezci eğilim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Algıda davranan-gözlemci farkı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kendini kayırma eğilimi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "İnsanlar genellikle kendi başlarına gelen olumlu sonuçları içsel nedenlere; olumsuz sonuçları ise dışsal nedenlere bağlayarak açıklama eğilimi gösterir. Bu durum aşağıdakilerden hangi yanılgı biçimine İşaret etmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Benmerkezci eğilim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Algıda davranan-gözlemci farkı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Temel yükleme yanılgısı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Şimdiki ve geçmiş/gelecek zaman arasında farklar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kendini kayırma eğilimi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi Örtük Kişilik Kuramı ile ilişkilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İçe dönük kişiler, gerçek his ve fikirlerini kamusal alanda açmaktansa saklama eğilimindedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bir insanın eğitimli olduğu biliniyorsa onun zeki, mantıklı, çalışkan ve dürüst olmak gibi olumlu özellikleri de taşıyacağı varsayılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Toplum içinde dar veya geniş bir kesimce paylaşılan ve bir toplumsal gruba ilişkin inançların toplamıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnsanların gerçek kişilikleri, dışarıdan görülmesini İstedikleri (idealize edilen) bir kişilik temsilinin altında saklıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnsanlardan tutarlı olmalarını beklemek anlamsızdır; zira kişilik, her an değişen bir özellikler bütünüdür.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Sosyal biliş kuramlarına göre aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişi, dış grubundan olan insanları birbirinden çok farklı algılar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kişi, kendi grubundan olan insanları daha kaba kategorilerle algılar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kutup bölgelerinde yaşayan insanlar ile çölde yaşayan insanlar için \"kar\" kelimesi aynı anlamı taşır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Şehirde yaşayan insanlar, karşılaştıkları canli olmayan nesneleri, insanlardan daha ayrıntılı algılar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Şehirde yaşayan insanlar, karşılaştıkları insanları, karşılaştıkları insan olmayan varlıklara göre daha ayrıntılı algılar.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "3f065fe8d01d2731b5f7f54b6cdf8672215454653d423f7e1c9071f9c9b858f9"
+}

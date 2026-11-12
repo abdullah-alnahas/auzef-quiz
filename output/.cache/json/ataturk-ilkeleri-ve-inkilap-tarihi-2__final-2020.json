@@ -1,0 +1,91 @@
+{
+  "course": "Atatürk İlkeleri ve İnkılap Tarihi 2",
+  "course_slug": "ataturk-ilkeleri-ve-inkilap-tarihi-2",
+  "exam": "2020 Final Soruları",
+  "exam_slug": "final-2020",
+  "page_title": "İnkılap Tarihi 2 2020 Final Soruları",
+  "source_url": "https://lolonolo.com/2020/08/01/inkilap-tarihi-2-2020-final-sorulari/",
+  "scraped_at": "2026-11-12T11:33:40+03:00",
+  "answer_source": "inline",
+  "question_count": 2,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "1932 yılında kurulan ve Türk Dil Kurumu’nun ilk nüvesini oluşturan cemiyet aşağıdakilerden hangisidir?\na) Atatürk Araştırma Merkezi\nb) Türk Tarih Kurumu\nc) Darülfünun\nd) Darülelhan\ne) Türk Dili Tetkik Cemiyeti\na) Türk Tarihi Tetkik Cemiyeti\nb) Atatürk Araştırma Merkezi\nc) Türk Dil Kurumu\nd) Darülelhan\ne) Darülfünun\na.Zeki Müren\nb.Safiye Ayla\nc.Muhsin Ertuğrul\nd.Müzeyyen Senar\ne.Münir Nurettin Selçuk",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Arap ülkelerinin Kıbrıs konusunda Rum yönetimini desteklemeleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Irak Başbakanı’nın Türkiye ziyareti ve iş birliği görüşmeleri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Türkiye’nin İslam Konferansı Örgütü toplantılarına katılması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Türkiye’nin Cezayir’in bağımsızlığını desteklemesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Türkiye’nin İsrail ile savaşta Mısır, Suriye ve Ürdün’e yardımda bulunması",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Köy enstitülerinin kurulması ve yaygınlaştırılması hangi Millî Eğitim Bakanı döneminde olmuştur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tahsin Banguoğlu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Abidin Özmen",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hasan Âli Yücel",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Vasıf Çınar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Reşat Şemsettin Sirer Soruyu",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "source_numbers": [
+    1,
+    5
+  ],
+  "content_hash": "c9b6554bfeee6597dc44c8d0f584ba0570b7239bc894451a1cd24efd0809c1d4"
+}

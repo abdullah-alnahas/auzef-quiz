@@ -95,6 +95,9 @@ const ar = {
   emptyScope: "لا توجد امتحانات في هذا النطاق.",
   yourAnswer: "إجابتك",
   correctAnswer: "الإجابة الصحيحة",
+  combinedFrom: "مُجمّع من {n} امتحانات",
+  includedExams: "الامتحانات المشمولة",
+  fromExam: "من {name}",
 };
 
 export type Key = keyof typeof ar;
@@ -192,6 +195,9 @@ const tr: Record<Key, string> = {
   emptyScope: "Bu kapsamda sınav yok.",
   yourAnswer: "Yanıtınız",
   correctAnswer: "Doğru cevap",
+  combinedFrom: "{n} sınavdan birleştirildi",
+  includedExams: "Dahil edilen sınavlar",
+  fromExam: "{name} sınavından",
 };
 
 const catalogs: Record<Lang, Record<Key, string>> = { ar, tr };

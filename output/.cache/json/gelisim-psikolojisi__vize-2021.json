@@ -1,0 +1,559 @@
+{
+  "course": "Gelişim Psikolojisi",
+  "course_slug": "gelisim-psikolojisi",
+  "exam": "2021 Vize Soruları",
+  "exam_slug": "vize-2021",
+  "page_title": "Gelişim Psikolojisi 2021 Vize Soruları",
+  "source_url": "https://lolonolo.com/2021/05/05/gelisim-psikolojisi-2021-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:33:37+03:00",
+  "answer_source": "markup",
+  "question_count": 15,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Bebeklerin 6 ay civarında ünlü ve ünsüzlerden meydana gelen heceler ürettikleri, daha çok tesadüfen ve dürtüsel sesler çıkardıkları evre aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tek kelime evresi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Jest kullanım evresi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Agulama evresi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İlk dil bilgisi evresi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Telegrafik konuşma evresi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Hangisi zihin kuramının alt yapısını oluşturan becerilerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil düzeyi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İşaret etme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ortak dikkat",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bakış takibi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kişilik özellikleri",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Araba sürerken müzik dinlemek, hangi dikkat türüne örnek verilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İstemsiz dikkat",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Seçici dikkat",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fonolojik döngü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bölünmüş dikkat",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Görsel-mekânsal kopyalama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dilin 5 temel boyutlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cümle bilgisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Söz dizimi bilgisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Biçimbirim bilgisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ses bilgisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kelime bilgisi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Doğum öncesi dönemlerden hangisinde bebeği koruyan amniyon, besin kesesi, plasenta, göbek bağı gibi yapılar biçimlenmeye başlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zigot dönemi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Erken fetal dönem",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Geç fetal dönem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yenidoğan dönemi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Embriyo dönemi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yaş türlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal yaş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Entomolojik yaş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Takvim yaşı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Biyolojik yaş",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Psikolojik yaş",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Yönetici işlevler – akademik beceri ilişkisi ile ilgili hangisi söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul öncesi dönemde yönetici işlevler ile akademik başarı arasında ilişki bulunmamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Erken çocukluktaki akademik başarı, ileriki yönetici işlevler becerilerini belirlemektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Okul çağı çocuklarında yönetici işlevler ile akademik başarı arasında ilişki bulunmamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Erken yönetici işlevler, ileriki akademik başarıyı öngörmektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Erken dönemdeki yönetici işlevler, özellikle ileriki motor beceriler açısından önemlidir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "İnhibisyon becerisi ile ilgili hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1 yaşındaki bebeklerde bile basit şekilde inhibisyon becerisi mevcuttur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İnhibisyon, baskın ve otomatik cevabın inhibe edilmesi becerisidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çalışmalar inhibisyonun sadece okul öncesi dönemde önemli bir gelişim göstermediğini, hayatın daha sonraki evrelerinde de önemli bir artışa uğradığını göstermektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İlerleyen yaşla birlikte inhibisyonda azalma görülmeye başlanır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okul öncesi dönemde inhibisyon becerilerinde ve inhibisyon süresinde önemli bir gelişme yaşanır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki beyin yapılarından hangisi sol yarım kürede frontal bölgede bulunan ve konuşmanın üretilmesinden sorumlu alanın adıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Broca alanı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Prefrontal alan",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Wernicke alanı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pariyetal alan",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duyusal alan",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Vygotsky’nin Piaget’ye getirdiği eleştirilerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnsan gelişiminin tek kaynağının bireyin olgunlaşması olduğunu düşünmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İnsan gelişimine yönelik gözlemlerinin başka araştırmacılar tarafından tekrarlanamaması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnsan gelişimini sadece bebeklik ve çocukluk çağına indirgemesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnsan gelişimi için öne sürdüğü açıklamaların çoğunlukla betimsel olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnsan gelişimini anlamak için tarihsel bağlamı önemsememesi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların kısa süreli bellek kapasitelerini aynı çocukların 2 ile 4 yaşları arasında 6 ayda bir bellek ölçümü alarak izlendiğinde hangi gelişimsel deseni kullanılmış olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Boylamsal desen",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kesitsel desen",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karmaşık desen",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Peşpeşe deseni",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ardışık desen",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Proksimal gelişim alanı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir çocuğun o ana kadar yapamadığı şeyleri yapabilmeye başladığı evredir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bir çocuğun bir şeyi yapma potansiyeli olmasına rağmen bunun için gerekli çevresel şartların henüz oluşmadığı durumlardır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir çocuğun çevresindeki insanları gözleyerek yeni davranışlar öğrenmesidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bir insanın daha becerikli başka biriyle etkileşime girdiğinde yapabildiği şeyleri zaman geçtikçe kendine başına da yapmayı öğrenmesidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir insanın başkalarıyla birlikte bir şeyler yapabilmesidir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Motor becerilerin gelişim sırası ve zamanı için aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Motor becerilerdeki gelişimin temel belirleyicisi merkezî sinir sistemi gelişimidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Motor becerilerdeki gelişimin seyrini kalıtsal faktörler belirler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Motor becerilerin ortaya çıkma zamanını belirleyen çevresel faktörlerdir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Her motor beceriye ulaşma yaşında bütün çocuklar benzer bir seyir izler.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Her beceri daha önceki motor kazanımların bir ürünüdür ve yeni kazanımlara katkıda bulunur.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Hangisi daha kapsayıcı bir tanımdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kültür, insanların iki kuşağı arasında aktarılan sembolik bilgilerdir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kültür, bir toplumun maddi ve manevi değerleridir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kültür, bir türün iki kuşağı arasındaki gözlem yoluyla aktarılan bilgilerdir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kültür, bir toplumun tarih boyunca geliştirdiği davranış şekilleridir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kültür, bir türün iki kuşağı arasında biyolojik olmayan yollarla aktarılan her şeydir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Bir şeyin zaman boyunca azalıp çoğalması ya da bir niceliğin farklı değerler almasına …, başka bir şey hâline gelmesine ise …………. denir. Boş bırakılan yerlere sırasıyla hangileri gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dönüşüm-değişim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Olgunlaşma-büyüme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Değişim-dönüşüm",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Değişim-büyüme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dönüşüm-olgunlaşma",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "4aeac8c484f8eec27c137fb4546e41da02cfae7ae245bca9bc10f17db872598c"
+}

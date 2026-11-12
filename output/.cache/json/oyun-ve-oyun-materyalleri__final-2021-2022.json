@@ -1,0 +1,811 @@
+{
+  "course": "Oyun Ve Oyun Materyalleri",
+  "course_slug": "oyun-ve-oyun-materyalleri",
+  "exam": "2021-2022 Final Soruları",
+  "exam_slug": "final-2021-2022",
+  "page_title": "Oyun ve Oyun Materyalleri 2021-2022 Final",
+  "source_url": "https://lolonolo.com/2021/12/23/oyun-ve-oyun-materyalleri-2021-2022-final/",
+  "scraped_at": "2026-11-12T11:34:00+03:00",
+  "answer_source": "markup",
+  "question_count": 22,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki maddelerden hangisi 0-2 yaş arası bebekler için seçilecek oyuncakların özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Matematik duyusu desteklenmelidir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Görme duyusu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Koklama duyusu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yürüme duyusu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Motor duyusu",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisinden oyunun çocuğun gelişim alanlarını desteklediğine yönelik bir sonuç çıkarılamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyunlar çocukların dünyayı daha geniş görme ve sosyalleşme becerilerinin gelişimini sağlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yarışmalı oyunlarda çocukların kendilerini başkalarından güçlü görme ve üstün hissetme becerileri gelişir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hareketli oyunlarda çocuklar fiziksel gelişimlerinin farkına varırlar ve cesaret duyguları gelişir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oyun çocuğun birikmiş enerjisini boşaltarak kendini daha sağlıklı hissetmesini sağlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Oyun çocuğun hayata karşı tecrübe kazanarak problem çõzme becerisinin gelişmesini sağlar.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sosyal oyunun çocuğun kurallar ve sosyalleşme hakkında ileri düzeyde bir anlayış kazanmasına yardımcı olduğunu öne süren teorisyendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vygotsky",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Huizinga",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sheridan",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hughes",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Platon",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "İtiş kakış oyunlarını ilk tanımlayan aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Smith",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Piaget",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Freud",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Karl Gross",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Pellegrini",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Montessori yaklaşımının uygulandığı sınıflarında bulunan dünya haritası hangi kategoride yer alan bir materyaldir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kozmik öğrenme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Günlük harita becerileri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dil etkinlikleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Matematik etkinlikleri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Günlük yaşam becerileri",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "“………………………………. yetişkinlikte bireyin kişilik yapısını, tavır, alışkanlık, inanç ve değer yargılarını biçimlendirdiği görülmüştür.” Yukarıdaki boşluğu aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul dönemi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gençlik dönemi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bebeklik dönemi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukluk dönemi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ergenlik dönemi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukların oyun oynarken bir yetişkine ihtiyaç duyma sebeplerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Belirli dil ihtiyaçları olan çocuklar için uyarlama etkinlikleri hazırlaması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Denetleme ve yardım etmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ne yapılacağını açıklaması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oyun alanını toplaması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir etkinliğe liderlik etmesi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Bebeklik döneminde oynanan bir oyunda ses kayıt cihazı kullanmak bebeğin ilk olarak hangi gelişim alanına yönelik desteklemeyi  amaçlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İşitsel",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Özbakım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duygusal",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi gelişim geriliği tanısı olan alan çocukların oyun düzenlemelerinde takip edilerek geliştirilmesi gereken aşamalardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Paralel oyunlar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sesli oyunlar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duyu-motor oyunları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bireysel oyunlar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Grup oyunları",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Torununa çıngırak almak isteyen bir dede torunu ile hangi tür oyun oynamayı planlamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duyu motor oyun",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Rol oyunları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dijital oyun",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Riskli oyun",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Lokomotor oyun",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Bebeğin odaklanmayı öğrenmesine yardımcı olmanı ilk yollarından biri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vücudunun amaçlarını öğretmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "El-göz koordinasyonunu öğretmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bedeniyle ilgili farkındalığı arttırmak ve vücudunu nasıl çalışacağını öğretmeli",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oyunlarda bebeğe eşlik etmek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kaba motor becerisini desteklemek",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi oyun temelli değerlendirmenin faydalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlgi ve yeteneklerinin görülebilmesini sağlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gelişme ve öğrenme potansiyelini belirler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun öğrenme ve gelişim düzeyinin saptanmasına olanak sağlar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gereksinim duyduğu becerilerini ortaya çıkarır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğu aktif halden pasif hale sokar.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Bebeklik döneminde gelişimi destekleyen oyun temelli etkinliklerden en önemli unsur aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mekan",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ebeveynler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zaman",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Materyaller",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Güvenlik",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Kızına çoraptan el kuklası yapan annenin çocuğu ile hangi türü oyunları oynaması mümkündür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kontrol oyunu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hayali oyun",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Riskli oyun",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Lokomotor oyun",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Derin oyun",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Linder’in gelistirmiş olduğu değerlendirme ölçeğinin adı aşağıdakilerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "GOOD - Grup Ortamlarındaki Oyunun Değerlendirilmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "TOAD - Oyun Davranışlarını Değerlendirme Ölçeği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "PAS - Oyun Değerlendirme Ölçeği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "DOTD – Disiplinler Ötesi Oyun Temelli Değerlendirme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "GSS - Oyun Becerileri Ölçeği",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Spor müsabakalarına ilgi hangi yaşlarda başlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ortaokul ve lise yıllarında",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yetişkinlikte",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İlkokul döneminde",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "6-8 yaş arasında",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okulöncesi dönemde",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki maddelerden hangisi 6-8 yaş arası çocuklar için seçilebilecek oyuncaklardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İçiçe geçen kaplar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Saçlı, minik bebek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çıngıraklı toplar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dokuma tezgahı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dolgu oyuncaklar",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi özel eğitime ihtiyaç duyan çocukların gereksinimlerini belirlerken ele alınan kategorilerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel öğrenme güçlüğü",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Travma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İşitme gereksinimi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zihinsel gereksinimler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Otizm",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Sallanma, ip atlama gibi oyunlar hangi fiziksel oyun formu örneklerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal oyun",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Araçsız egzersiz oyunu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Materyal aracılı egzersiz oyunu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Basmakalıp ritmik hareketler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İtiş kakış oyunu",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yapı oyunu materyallerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Magnet bloklar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Oyun hamurları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sulu boyalar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tinkertoys",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Legolar",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki maddelerden hangisi 6-8 yaş arası çocuklar için seçilebilecek oyuncakların özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Düşünme becerilerini destekleyici özellikte olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Matematik becerilerini destekleyici özellikte olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zihinsel becerilerini destekleyici özellikte olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Problem çözme becerilerini destekleyici özellikte olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mış gibi oyunları destekleyebileceği özellikte olmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki materyallerden hangisi Montessori materyallerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Isı tabloları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Koku şişeleri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Renk setleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ses tüpleri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Işık masası",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "27ececce77ef638d8935953d47653ae26020d3aae24bf6f226324f43eaf56024"
+}

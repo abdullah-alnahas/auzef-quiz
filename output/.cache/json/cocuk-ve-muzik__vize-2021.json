@@ -1,0 +1,919 @@
+{
+  "course": "Çocuk ve Müzik",
+  "course_slug": "cocuk-ve-muzik",
+  "exam": "2021 Vize Soruları",
+  "exam_slug": "vize-2021",
+  "page_title": "Çocuk ve Müzik 2021 Vize Soruları",
+  "source_url": "https://lolonolo.com/2022/02/24/cocuk-ve-muzik-2021-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:34:39+03:00",
+  "answer_source": "markup",
+  "question_count": 25,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "L. Tolstoy’a göre “duyguların kestirme yolu” aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Müzik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Edebiyat",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Resim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Roman",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sanat",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Notaların yazıldığı beş temel çizgi ve aralıklardan oluşan müziksel unsurun adı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Lento",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Presto",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Senyö",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Porte",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Röpriz",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Özgün bir beste yaratan sanatçı aşağıdaki unvanlardan hangisiyle anılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yazar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Besteci",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ressam",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mimar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Şair",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “zincir form”un bölümlerini ifade eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ABABA",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "AAAA",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "AABABA",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "ABC",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "ABCD...",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi müzikte üslubun atıfta bulunduğu temalardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Besteci",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Şarkı sözü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Doku",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Duygu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İcracı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi birleşimleriyle müzikte formun oluşumunu sağlayan müziksel unsurlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doku",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Estetik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ritim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ezgi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Armoni",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “biçem” kelimesinin karşılığıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Form",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Lehçe",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İfade",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Üslup",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tür",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi müzikte uluslararası açıdan bilinen temel yedi nota adından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "GA",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "LA",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "DO",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "SOL",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mİ",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Bir müziksel sınıflamada “Aile: Uluslararası müzikler, Cins: Popüler müzikler, Tür: Rock müzik” olduğunda “Alt Tür” aşağıdakilerden hangisi olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Reggae müzik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Jazz müzik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Blues müzik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Soul müzik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Fransız-Rock müzik",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “Türk Sanat Müziği Çocuk Şarkıları”nın bağlı olduğu müzik türüdür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Türk Halk Müziği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Anadolu Rock Müzik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Klasik Müzik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pop Müzik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Türk Sanat Müziği",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi müziğe ilişkin Türkçede kullanılan bir terimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Musiki",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mousikē",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Musica",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tonkunst",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Musique",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki nota ikililerinden hangisinin arası “yarım ses aralığı”dır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "DO-RE",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "SOL-LA",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "FA-SOL",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "RE-Mİ",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mİ-FA",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Dünya gezegenindeki tüm müzik üretimi ve tüketiminin bir birleşimini ifade eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ciddi müzik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Galaktik müzik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karasal müzik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pop müzik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Etnik müzik",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bir müziğin seslendirme üslubundaki dört ana değişkenden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doku",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Armoni",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Estetik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Duygu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Süsleme",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hava yoluyla iletilip canlılar tarafından işitilen müziğe dair soyut fiziksel bir olgudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ses",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Armoni",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Nota",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ezgi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ritim",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “müzik” anlamındaki İtalyanca terimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tonkunst",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Musique",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Musica",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Musik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mousikē",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "“Seikilos’un Şarkısı” hangi ilimizdeki Helenistik Tralleis kasabasında bulunmuştur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Muğla",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Uşak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aydın",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Burdur",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Denizli",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ABC şeklinde bölümleri olan bir şarkı formunu ifade eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir bölümlü",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İki bölümlü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Üç bölümlü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Beş bölümlü",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zincir form",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi iki müziksel motifin bir araya gelmesiyle oluşur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Müziksel dönem",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Müziksel cümle",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ezgi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Şarkı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Form",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bir müzik eserindeki ezgisel veya armonik katmanları ifade eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tür",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Form",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ezgi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ritim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Doku",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 5/8’lik zaman işaretindeki ritmin vuruşunun sayımıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1,2,3,1,2,3",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1,2,1,2,3",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1,2,3",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "1,2,3,4",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1,2",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Güncel Türkçe Sözlük’te müzik tanımındaki “seslerle anlatma sanatı” insan müziği için aşağıdakilerden hangisine dayalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Organize edilmiş sesler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Deniz dalgaları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Araba kornaları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kuş cıvıltısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaprak hışırtısı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “bileşik” bir formu değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Operet",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Oratoryo",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Müzikal",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Senfoni",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Opera",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 24,
+      "type": "multiple_choice_text",
+      "stem": "“Müziksel olmayan sesler” ile beste yapılması aşağıdaki yüzyıllardan hangisinden itibaren başlamıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6. yüzyıl (MÖ)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "15. yüzyıl (MS)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "10. yüzyıl (MS)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "19. yüzyıl (MS)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "21. yüzyıl (MS)",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 25,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki hangisi Abdal müzisyenlere özgü bir seslendirme üslubudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bozlak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Müstezat",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hoyrat",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Barak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Maya",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "c30da8355bf7212224e1d1f825f8dbb6ccc643b41cda4aa2fe1cf1263aa9234f"
+}

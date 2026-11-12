@@ -1,0 +1,729 @@
+{
+  "course": "İlk Yardım",
+  "course_slug": "ilk-yardim",
+  "exam": "2020 Vize Soruları",
+  "exam_slug": "vize-2020",
+  "page_title": "İlk Yardım Vize 2020 Soruları",
+  "source_url": "https://lolonolo.com/2020/06/15/ilk-yardim-vize-2020-sorulari/",
+  "scraped_at": "2026-11-12T11:34:13+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi, bir travma sonucu deri ya da mukozanın bütünlüğünün bozulmasıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kanama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Burkulma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yara",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ağrı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Şok",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Normal yapıda bir yetişkin insanın vücudunda yaklaşık kaç litre kan bulunur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilk yardım yapılırken bakılması gereken yaşamsal bulgular arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Boşaltım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Solunum",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dolaşım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Vücut Isısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kan Basıncı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi, bıçak, çakı, şiş, kırık cam, kurşun vb. kesici, delici aletlerle oluşan yaralardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ezikli yaralar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Enfekte yaralar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Delici yaralar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Parçalı yaralar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kesik yaralar",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda ki ifadelerden hangisi yanlıştır.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ilk yardım kaza yerinde herkes tarafından uygulanabilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "ilk yardım tıbbi araç ve gereç kullanılmadan yapılabilir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "ilk yardımda ilaç kullanılmaz.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "ilk yardım çevrede ki araç gereç kullanılarak yapılır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "ilk yardım sağlık personeli tarafından da uygulanabilir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Kalp insan vücudunun hangi sistem organıdır",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dolaşım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sinir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Boşaltım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Solunum",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi, kaza ya da hastalık durumunda tıbbi araç gereç kullanılmaksızın yapılan ilaçsız uygulamalardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlk tedavi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlk yardım",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Acil bakım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Acil tedavi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Acil yardım",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Sedye ile taşıma ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta/ yaralı battaniye ya da çarşaf gibi bir malzeme ile sarılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Başı gidiş yönünde olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Güçlü olan ilk yardımcı hasta /yaralının baş kısmında olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sedye daima yatay konumda olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Köprü tekniği dört ilk yardımcı tarafından yapılır",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Kanamalarda ilk yardım gönüllüsünün temel görevi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çevreden yardım istemek.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kan kaybını önlemek.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hastaneyi aramak.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kanamanın bulunduğu yeri eliyle kapatmak.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kanamanın azalmasını beklemek.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "İnsan vücudu toplamda kaç sistemden oluşur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "8",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "2",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Solunumu durmuş yetişkinlerde, aşağıdaki uygulamalardan hangisi yapılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "30 kalp basısı uygulanır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2 kurtarıcı solunum verilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "15 kalp basısı uygulanır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "5 kurtarıcı solunum verilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "4 kurtarıcı solunum verilir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Acil çağrı istemek için 1-1-2 arandığında, aşağıdakilerden hangisi söylenmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ne olduğu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Nerede olduğu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Nasıl olduğu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ne kadar kişinin etkilendiği",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kesin yer ve adres",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Genellikle vücut dışından fark edilmeyen, bazen öksürük ya da kusma veya dışkıda kan görülmesi şeklinde belirti veren kanama türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Burun kanaması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Diz kanaması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Avuç içi kanama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İç kanama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dış kanama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Göze toz gibi küçük bir yabancı cisim kaçmasında ilkyardım nasıl olmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yumuşak ve nemli bir bezle çıkarılmaya çalışılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Göz ovularak çıkarılmaya çalışılır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çıkarana kadar uğraşılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Cımbız kullanarak çıkarılmaya çalışılır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Alkolle çıkarılır",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi, solunum sistemi organlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bronşlar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Omurilik soğanı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Alveoller",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Diyafram",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Akciğerler",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Hasta veya yaralının, bilinci yerinde değil; ancak zor da olsa nefes alıyorsa aşağıdaki pozisyonlardan hangisi verilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Baş çene pozisyonu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Koma pozisyonu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çene itme pozisyonu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yarı oturur pozisyon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sırtüstü pozisyon",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hasta/yaralı taşınmasında dikkat edilmesi gereken kurallardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta/yaralıya uzak mesafede çalışılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Daha uzun ve kuvvetli kas grupları kullanılmalıdır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hasta/yaralı mümkün olduğunca az hareket ettirilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yön değiştirirken ani dönme ve bükülmelerden kaçınılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hasta/yaralı taşınmasında ilk yardımcı kendi sağlığını riske sokmamalıdır",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "burunda yabancı cisim kaçması ile ilgili hangisi yanlıştır",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5 yaş üstü az görülür",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Genellikle erken yaşta daha çok görülür",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Küçük yabancı cisimler çıkarılmayabilir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kenarı düzensiz tırtıklı cisimler çıkarılması zordur",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki durumlardan hangisinde, baş ve omurga yaralanması olduğu düşünülmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yüksekten düşme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Motorlu taşıt kazaları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İş kazaları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Spor kazaları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kalp krizi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Sandalyede taşıma tekniği en az kaç ilk yardımcı ile yapılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "6",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "89f7a72089df72318bd9cde1ed1eec7ff4cc137addc3776478ffabb70c38ffd9"
+}

@@ -1,0 +1,739 @@
+{
+  "course": "Aile Danışmanlığı",
+  "course_slug": "aile-danismanligi",
+  "exam": "2025-2026 Vize Soruları",
+  "exam_slug": "vize-2025-2026",
+  "page_title": "Aile Danışmanlığı 2025-2026 Vize Soruları",
+  "source_url": "https://lolonolo.com/2026/04/28/aile-danismanligi-2025-2026-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:34:33+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Bilişsel Davranışçı Aile Danışmanlığında kullanılan terimlerden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yansıtma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İç içe geçmiş aile",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Üçgenleşme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Olumsuz seçici dikkat",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Döngüsel sorgulama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "I. Kendini veya başkalarını gönüllülük gerektiren durumlar için zorlamak\nII. Sorunların çözümünde sorumluluk almak\nIII. Çatışmayı muhalif tartışmalarla çözmeye çalışmak\nIV. Suçlamalara kendini savunmayarak karşılık vermek\nYukarıdakilerden hangileri Zihinsel Araştırma Enstitüsü (MRI) Kısa Süreli Aile Danışmanlığında etkisiz çözümler veya ironik süreçler arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve IV",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Stratejik Aile Danışmanlığı hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu ekolde problemlerin altında yatan bağlanma örüntüleri aydınlatılmaya çalışılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Stratejik Aile Danışmanlığına göre belirtiler, aile içinde özel bir işlev görür.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Stratejik aile danışmanları probleme özgü olmayan müdahaleler geliştirirler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Stratejik danışmanlığın amacı problemlerin geçmişte yatan nedenlerini anlamaktır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bu ekolün altında yatan temel fikir, ailelerin radikal değişim istemeleridir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Ebeveynlik tutumları hakkında aşağıdaki bilgilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aşırı hoşgörülü ailelerde çocuğun uygun sosyal davranışları rahatlıkla öğrenir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Otoriter ebeveynlikte sevgi kuralların önünde yer alır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sıcak ve disiplinli ebeveynlik tutumunda ailelerde disiplin uygulanırken sevgi gösterilmez.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Otoriter ebeveynlik tutumu sergileyen ailelerde çocuk sevildiğini her zaman hisseder.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İlgisiz ihmalkar ebeveynlikte çocuğa hem sevgi gösterilmez hem de uygun disiplin öğretilmez.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aile işlevselliği hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşlevsel olmayan ailelerde her zaman aynı sorunlar görülür.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İşlevsel ailelerde işlevsel olmayan özellikler görülmez.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İşlevsel olmayan ailelerde yetişen çocuklar daha dayanıklı olur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bir ailenin işlevselliği, yaşam süresi boyunca sabittir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aile işlevselliği birçok faktörden etkilenir ve bu faktörler etkileşim halindedir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "I. Kapsamlılık\nII. Basitlik\nIII. Karmaşıklık\nIV. Statik anlayış\nYukarıdakilerden hangileri formülasyonun özelliklerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "II ve III",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi aile değerlendirmesinin amaçlarındandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile ilişkilerinin ve aile içi mesajların anlaşılması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ailedeki yapısal sorunları onarmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aileye problem çözme becerisi kazandırmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ailenin nesiller arası hiyerarşisini düzenlemek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ailenin parçası olduğu sosyal sistemi onarmak",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "I. Bağlanma Evresi\nII. Somut İşlemler Evresi\nIII. Ergen Çocuklu Aile Evresi\nIV. Çift Olma Evresi\nYukarıdaki evrelerden hangileri aile yaşam döngüsü modelinde yer alır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II ve IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve II",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "I. Karar öncesi evre\nII. Eylem evresi\nIII. Bağlantı evresi\nIV. Sağaltım evresi\nYukarıdakilerden hangileri Prochaska’nın Değişimin Aşamaları Modeli’nin evreleri arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve IV",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "I. Aile üyeleri aile sistemine evlilik, doğum ya da evlat edinme gibi yollar ile dahil olabilir.\nII. Çocuk sahibi olan bireylerin çocuklarının barınma, sağlık ve eğitim haklarını sağlamak birincil olarak devletin sorumluluğudur.\nIII. Bebeğin yalnız fiziksel ihtiyaçlarının değil, duygusal ihtiyaçlarının da karşılanmaması yaşam ile bağdaşmaz.\nIV. Tekrar evlilik durumunda çocuklar, aileye yeni katılan bireyler ile aile bağları kurmaz.\nAilenin özellikleri ile ilgili yukarıdaki ifadelerden hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve II",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aile danışmanlığı sürecinin sonlandırma evresi hakkında aşağıdaki bilgilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sonlandırma aşaması olabildiğince uzun bir sürece yayılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Danışmanlık sürecinin başında hedefler belirlendiğinde sonlandırma aşamasına geçilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sonlandırma seanslarında, ailenin zayıf yönleri ve başarısızlıkları gözden geçirilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sonlandırma sürecinde tekrar görüşmemek üzere aileye veda edilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sonlandırma aşamasında, seans aralıklarını açmak kontrollü bir geçiş için faydalı olabilir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Kurucusu Jay Haley’dir.\nİşlevsel ailelerde nesiller arası hiyerarşiler açıkça tanımlanmıştır.\nİşlevsel olmayan ailelerde aile ilişkilerinde yalnızca tamamlayıcı veya simetrik işlemler kullanılır.\nTedavi problemi sürdüren etkileşim kalıplarını bozacak yönergeler vermeyi içermektedir.\nYukarıdaki bilgiler hangi aile danışmanlığı ekolüne aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öyküsel Aile Danışmanlığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Nesiller Arası Aile Danışmanlığı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Stratejik Aile Danışmanlığı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Psikanalitik Aile Danışmanlığı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Deneyimsel Aile Danışmanlığı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "İşlevsel aileler için aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eşler kendilerini güvende hissederler, özerkliklerini korurlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bireyler kendi problemlerini diğer aile üyeleri üzerinden hallederler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bireyler kendilerinden ve başarılarından rahatsızlık duyarlar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aile üyeleri birbirlerine karşı samimiyetsizdir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yetişkinler birbirleri ve çocuklarıyla örtük, çatışmalı ve soğuk bir şekilde iletişim kurarlar.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "I. Soy ağacı\nII. Üçgenleşme\nIII. Aile kronolojisi\nIV. Otoriter ebeveynlik\nYukarıdakilerden hangileri aile değerlendirmesinde kullanılan araçlardandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II ve IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve IV",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "I. Aile üyeleri birlikte vakit geçirmekten mutluluk duyarlar.\nII. Kurallar ebeveynler tarafından önceden net biçimde planlanır ve tutarlı uygulanır.\nIII. Aile üyeleri birbirlerini kırmamak için şaka yapmazlar.\nIV. Aile üyeleri birbirlerini sürekli eleştirirler.\nYukarıdaki ifadelerden hangileri işlevsel ailelerin özellikleri arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve IV",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Kendisine alınan oyuncağı kaybeden çocuğa babasının “Şaşkın, bir şeyi de kaybetme” diyerek çıkışması aşağıdakilerden hangisine örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görmezden gelme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Üçgenleşme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Helikopter ebeveynlik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Etiketleme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Alaycı ebeveynlik",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "I. Adaletsizlik\nII. Hoşgörü\nIII. Etiketleme\nIV. Sınır koyma\nYukarıdakilerden hangileri işlevsel olmayan aileleri tanımlamak için kullanılan kavramlardandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II ve IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve II",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Bağlanma hakkında aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bağlanma, yalnızca yetişkinler arasında gelişen bir örüntüdür.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bağlanma örüntüsü bireyin yaşam boyu kuracağı ilişkilerinin niteliğini belirler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun bağlanma örüntüsünün oluşması için kritik dönem 12-18 yaşları arasıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Güvenli bağlanma için bakım verenlerin sık değişmesi faydalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Güvensiz bağlanan bireyler psikolojik sorunlara karşı çok dayanıklıdır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Formülasyon hakkında aşağıdaki bilgilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Formülasyon, ailenin anlayabileceği şekilde net ve basit olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Formülasyon, ailenin görüşmede sunduğu bilgilerden farklı olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Formülasyon mevcut problem için çözüm önerileri içermemelidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Formülasyonda geçmiş problemler için çözüm önerileri bulunmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Formülasyonda teknik terimlerin kullanılması faydalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "I. Planlama\nII. Moral\nIII. Heyecan\nIV. Müdahale\nYukarıdakilerden hangileri aile danışmanlığının aşamalarındandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "III ve IV",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "e43c5b66c7779c0139f514d738b017be191d891ab33569917cb54237ff708c5d"
+}

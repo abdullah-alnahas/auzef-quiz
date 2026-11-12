@@ -1,0 +1,739 @@
+{
+  "course": "Gelişim Psikolojisi",
+  "course_slug": "gelisim-psikolojisi",
+  "exam": "2023-2024 Final Soruları",
+  "exam_slug": "final-2023-2024",
+  "page_title": "Gelişim Psikolojisi 2023-2024 Final Soruları",
+  "source_url": "https://lolonolo.com/2024/07/01/gelisim-psikolojisi-2023-2024-final-sorulari/",
+  "scraped_at": "2026-11-12T11:33:36+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki yıkıcı çatışma özelliklerinden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yıkıcı çatışma yaşanan ortamda ebeveynlerin çocuklarına dair duyarlılıkları bozulmaz.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yıkıcı çatışma çocuğun ebeveyniyle olan güvenli ilişkisini bozarak duygusal güvenlik hissini tehdit eder.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun müdahalesiyle sona eren çatışmalar birer yıkıcı çatışma deneyimidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çatışmanın yıkıcı olması çocuklarda üzüntü, stres, öfke gibi negatif duyguları teşvik eder.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çözüme ulaşmayan çatışmalar birer yıkıcı çatışma deneyimidir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Evlilik çatışmasının ebeveynliğe etkileriyle ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çatışmadan doğan stres nedeniyle çocuklar için ebeveynlerin duygusal ulaşılabilirliği azalmaz.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çiftler arası yaşanan tartışma uygun ebeveyn davranışını engellemez.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çatışmada yıkıcı davranış kullanan ebeveynlerin çocuklarıyla ilişkilerinde daha sıcak ve destekleyici oldukları görülmüştür.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yıkıcı çatışma davranışında bulunan ebeveynler çocuklarına psikolojik kontrol uygulamaya eğilimlidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eşiyle çatışma yaşayan ebeveynlerin çocuklarıyla yakınlaşmaları çatışmanın olumsuz sonuçlarından biridir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki yaklaşımlardan hangisi evlilik çatışmasının ebeveynliğe etkilerini ele almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yayılma Hipotezi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilişsel-Bağlamsal Teori",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aile Sistemleri Teorisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Telafi Hipotezi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duygusal Güvenlik Teorisi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Mutizm aşağıdaki psikopatolojilerden hangisi kapsamına giren bir bozukluktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Davranım bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gelişim geriliği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dikkat eksikliği ve hiperaktivite",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kaygı bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Otizm",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Zihin Kuramının tanımı çerçevesinde değerlendirilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnsanların düşüncelerini ve duygularını tamamen göz ardı ederek davranışları yorumlamak için kullanılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kendini düzenleme, problem çözme gibi beynin prefrontal bölgesini ilgilendiren üst düzey işlevler olarak tanımlanmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Akranlarla zorbalık olmadan etkileşime girmek olarak tanımlanır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gerçek nesneleri başka bir nesne ile temsil etmek olarak tanımlanır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zihinsel durumların davranışlara yön veren nedensel tarafının anlaşılmasıdır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Telgrafik konuşma evresinde çocuklar nasıl cümleler oluşturabilirler?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Jest ve hareketlerle iletişim kuran cümleler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tek kelimeden oluşan cümleler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karmaşık yapıya sahip cümleler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İki veya üç kelimeden oluşan basit cümleler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anlamlı dilbilgisi kurallarına uyan cümleler",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Baddeley tarafından öne sürülen çalışma belleği modelinde aşağıdaki kavramlardan hangisi bulunmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dikkat",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Merkezi yönetici",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Episodik arabellek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Fonolojik döngü",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Görsel-mekansal kopyalama",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda oyuna ilişkin farklı sınıflandırmalar ve açıklamaları yer almaktadır. Hangi sınıflandırma ile açıklaması doğru eşleşmemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir nesneye veya oyuncağa kişiliği varmış gibi davranma ve o objeye bir karakter yansıtma / Sembolik oyun",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Etraftaki nesneleri gözlemleyerek nitelikleri ve işlevleri hakkında bilgi edinme / Keşfedici oyun",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir karakterin rolünü canlandırarak oynama ve o karakteri taklit etme / Sembolik oyun",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nesneleri ağıza götürme ya da düşürme / Duyu hareket oyunu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Nesneleri tipik kullanımları dışında kullanma, ve yalnızca birbirlerine temas ettirme ya da bir araya koyma / Fonksiyonel-geleneksel oyun",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "XX. asrın başlarında Amerika’da çocuk gelişimi üzerine yapılan norm çalışmaları, hangi alanlarda yaşa bağlı normlar oluşturulmasına öncülük etmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fiziksel ve sosyal özellikler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Büyüme ve motor gelişim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dil ve iletişim becerileri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zihinsel ve duygusal gelişim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ahlaki ve etik değerler",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Sena sınıfta öğretmeninin sorduğu bir soruyu cevaplamak için istekle parmak kaldırır. Soruyu yanlış anlayan Sena yanlış cevap verir. Başarısız olduğunu düşünen Sena bu başarısızlığın benliğinin kalıcı ve değişmesi mümkün olmayan özelliklerinden kaynaklandığı düşünmektedir. Sena’nın deneyimlediği öz bilinç duygusu ….. duygusudur. Bu duyguyu hisseden Sena yüksek ihtimalle ….. . Yukarıdaki cümlelerde boş bırakılan yerlere gelmesi gereken ifadeler sırasıyla aşağıdakilerden hangileridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "utanç - bir daha sorulan sorulara parmak kaldırmayacaktır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "utanç - yanlış cevaptan ötürü özür dileyecektir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "suçluluk - ertesi gün okula gitmeyecektir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "suçluluk - yanlış cevaptan ötürü özür dileyecektir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "üzüntü - ağlayacaktır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Piaget ve Vygotsky’nin sembolik oyuna dair görüşlerinde farklılaştıkları noktalar vardır. İki kuramcının görüşleri doğrultusunda aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Piaget, kişilerarası ilişki dinamiklerinin oyunda kullanılan temsiller ve detayların karmaşıklaşmasını sağladığını vurgular. Vygotsky’e göre, sembolik oyunun kuralları ve sınırları içinde bulunduğu sosyokültürel bağlam tarafından belirlenir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Piaget, bireysel ya da kültürel düzeyde varyasyon üretmede çevrenin rolünü dikkate almamış, fakat Vygotsky oyunun kültürel olarak düzenlendiğini ve farklılık gösterebileceğini belirtmiştir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Piaget oyunun gelişimsel kökenine, Vygotsky gelişimsel sonuçlarına vurgu yapmaktadır. Vygotsky, oyunu gelişimin göstergesi olarak değil, öncüsü olarak görür.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Piaget sembolik oyunu, bireyin kendisinden kaynaklı bilişsel değişiklikler sebebiyle gelişen bireysel bir çocuk davranışı olarak yorumlamıştır. Vygotsky ise, sembolik oyunu bireysel bir etkinlik olarak nitelendirmek yerine oyunun öznelerarası bağlamına dikkat çekmiştir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Vygotsky kuramında genel bir çocuk tanımına odaklandığı için oyunda olabilecek varyasyona ilişkin çıkarımda bulunmaz iken, Piaget bulunmuştur.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "I. Bilişsel gelişim, ahlaki gelişimde önemli rol oynar.\nII. Çocukların ahlaki ikilemlerde hissettikleri duygulara odaklanılır.\nIII. Ahlaki gelişimde esas olan bireylerin yargıda bulunma sürecidir.\nIV. Ebeveynler, ahlak gelişiminde önemli rol oynar.\nYukarıdakilerden hangileri hem Piaget’nin hem de Kohlberg’in ahlaki gelişim yaklaşımına uygun düşmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "III ve IV",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Öğrenme sürecinde alışma ve duyarlılaşmayla ilgili hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duyarlılaşma, aynı uyaranla ilk kez karşılaşıldığında davranışın azalmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Alışma, aynı uyaranla tekrar karşılaşıldığında davranışın azalmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duyarlılaşma, aynı uyaranla tekrar karşılaşıldığında davranışın azalmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Alışma, aynı uyaranla tekrar karşılaşıldığında davranışın artmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Alışma ve duyarlılaşma, davranışın değişmemesi durumudur.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "“Emre, arkadaşı Ahmet’in oyuncak arabası kırıldığı için ağladığını görür. Emre, Ahmet’in üzgün olduğunu anlar ve kendisi de üzülür. Ahmet’in daha fazla üzülmemesi için kendi oyuncaklarını göstererek onları paylaşmayı teklif eder.” Yukarıdaki senaryoda Emre’nin arkadaşlık ilişkilerinde hangi sosyal becerileri kullandığı söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dikkat - Sohbet",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dikkat - Empati",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dilekleri anlama - Yardım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sohbet - Yardım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Empati - Prososyal davranış",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi arkadaşlık ilişkilerinin özelliklerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kıskançlık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Birlikte eğlenebilme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karşılık sağlama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişiler arası çatışma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Vurdumduymazlık",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Eski zamanlarda, insanların yemek elde etmek ve hayatta kalabilmek için işbirliği içinde hareket etmeleri gerekmiştir. Eski zamanlarda insanlar işbirlikçi faaliyetleri koordine edebilmek için, ortak niyetlilik becerilerini geliştirmek durumunda kalmışlardır. Eski zamanlarda insanlar ortak güven, saygı ve sorumluluk duygusuna dayalı olarak, “bizlik” bilinciyle davranmışlardır. Yukarıdaki görüşün savunucusu olan araştırmacı kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Martin Hoffman",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Elliot Turiel",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Michael Tomasello",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nancy Eisenberg",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Carol Gilligan",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Emekleme refleksi hangi aylarda kaybolmaya başlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "12-13 ay",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "6-7 ay",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3-4 ay",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "15-16 ay",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "9-10 ay",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi psikopatolojinin tarif edilmesinde kullanılan normlardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Biyolojik normlar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gelişimsel normlar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Toplumsal normlar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İstatistiksel normlar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kültürel normlar",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Yalnızca gündüz ve/veya uyanık olduğu zamanlarda altını ıslatma olarak tanımlanan alt ıslatma tipinin ismi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Noktürnal Enürezis",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Diürnal Enürezis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Selektif Enürezis",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Diürnal Enkoprezis",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Noktürnal Enkoprezis",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Duygu düzenleme becerisi için aşağıda verilenlerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuklar takriben 4 yaşlarından itibaren içsel olarak duygularını düzenlemeye başlarlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Duygu düzenleme becerisi çocukların özerkleşmesine katkı sağlar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dil gelişimi duygu düzenleme becerisinin gelişimine katkı sağlar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel gelişim ile duygu düzenleme birbirinden bağımsız iki gelişim alanıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duygu düzenleme becerisi çocukların akran iletişimlerine ve yetişkin desteği olmaksızın sosyalleşebilmelerine katkı sağlar.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "78f2b2235c921f5d4b39e4805d25305c85007b32bada61fbf7ccc3e23caee338"
+}

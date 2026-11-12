@@ -1,0 +1,1207 @@
+{
+  "course": "Erken Çocukluk Eğitiminde Yaklaşımlar Ve Prog.",
+  "course_slug": "erken-cocukluk-egitiminde-yaklasimlar-ve-prog",
+  "exam": "2020 Vize Soruları",
+  "exam_slug": "vize-2020",
+  "page_title": "Erken Çocukluk Eğitiminde Yaklaşımlar Ve Programlar Vize 2020",
+  "source_url": "https://lolonolo.com/2020/09/20/erken-cocukluk-egitiminde-yaklasimlar-ve-programlar-vize-2020/",
+  "scraped_at": "2026-11-12T11:34:17+03:00",
+  "answer_source": "markup",
+  "question_count": 33,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden programlardan hangisinde erken çocukluk eğitimi açısından en kapsamlı değerlendirme yöntemi olarak kullanılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Montessori",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ayrımcılık karşıtı program",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Head start",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Waldorf",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "High Scope",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Waldorf yaklaşımına göre seslerin bedensel hareketlerle yorumlanması aşağıdakilerden hangisine örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Antroposofi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sembolizm",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Taklit",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öritmi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İstek",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Head start programını diğer programlardan ayıran en önemli özellik aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bütüncül bir program olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kurumsal bir program olması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yoksullukla mücadele eden bir program olması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Güncel bir program olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Programın etkili olması",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Sınıfa bir takvim asıp, her hafta düzenli olarak ekmek yaptıkları günleri işaretleyen bir Waldorf öğretmeninin bu tutumu, yaklaşımın hangi özelliğiyle örtüşür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hayal gücünün beslenmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gelişime saygı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Antroposofi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Rutin ve ritimle çalışma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sanat odaklı çalışma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "İlk bağımsız Waldorf okulu ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kız ve erkek çocuklara aynı sınıfta öğrenim görme imkânı sağlamıştır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fabrika çalışanlarının çocukları için okul kurulması fikrinden doğmuştur",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1919 yılında açılmıştır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnızca anasınıfı ve ilkokul bölümü vardır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Rudolf steiner’in eğitimle ilgili fikirlerinden beslenmiştir",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Montessori yaklaşımında çocuğun içsel disiplini öğrenmesi için nasıl bir yol izlenmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuklara sınırlar içinde özgürlükler sunarak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun kuralları kendisinin belirlediği bir ortam sunarak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun her an özgür olduğunu ifade ederek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğa öğrenmenin yönetiminde özgürlük ortamı sunarak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğa disiplinli bir ortam sunarak",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Antroposofi kavramı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Katolik inancına bağlıdır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlk kez John devey tarafından geliştirildi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Waldorf eğitiminin temel ilkesidir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnsanın fizyolojik ihtiyaçlarının anlaşılması anlamına gelir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Latince kökenli bir kelimedir",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "I. Reggio Emilia II. Montessori III. High Scope IV. Head Start Bebeklik döneminde uyarandan yoksun büyüyen çocukların gelecekteki gelişimleri risk altındadır. Görüş yukarıdaki hangi kuramların hangisinde olmuştur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I – II",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II – IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I – IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I – III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "III – IV",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aile katılımını sağlamak, gelişimsel açıdan uygun programın öncelikle hangi ilkesiyle ilişkilendirilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal kültürel uygunluk",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaşa uygunluk",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bütüncül gelişime uygunluk",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaşayarak öğrenmeye uygunluk",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireysel uygunluk",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel açıdan uygun programı uygulayan bir öğretmen aşağıdakilerden hangisini yapması beklenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Her çocuğun gelişimini kayıt altına almak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların aileleriyle iletişim kurmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bütün çocuklardan eşit düzeyde performans beklemek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Her çocukla ilgili sürekli gözlem yapmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların daha iyi öğrenmesi için farklı stratejiler kullanmak",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların yalnızca sosyal gelişimlerine yönelik deneyimler sunan bir öğretmen gelişimsel açıdan uygun programın öncelikle hangi özelliğini göz ardı etmiş olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk tarafından başlatılan etkinlikleri önemli bulur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Esnek ve uyarıcı bir sınıf ortamı oluşturur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğu bütüncül olarak hedef alır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Farklı çocukları kapsayacak şekilde bireyselleştirme yapılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Oyunu önemli bir öğrenme aracı olarak kabul eder.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Yaratıcı müfredat dört alanda amaç ve hedefler belirlemiştir. Aşağıdakilerden hangisi bu alanlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cinsel gelişim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dil gelişimi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fiziksel gelişim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel gelişim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal duygusal gelişim",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel açıdan uygun programla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gelişimsel açıdan uygun program bir müfredattır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "High scope gelişimsel açıdan uygun programa örnektir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimsel açıdan uygun program öğretmenlere rehberlik eden bir kılavuzdur",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gelişimsel açıdan uygun program erken çocukluk uygulamalarını değerlendirmede kullanılabilir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gelişimsel açıdan uygun program müfredat planlamasına kaynaklık eder.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel açıdan uygun program, Amerika’da eğitim alanında yaşanan bazı olumsuzluklar neticesinde doğmuştur. Aşağıdakilerden hangisi bu olumsuzluklar arasında gösterilemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Müfredatların akademik odaklı, kısıtlı ve dar çerçevesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Eğitim uygulamalarında acelecilik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Düşük gelirli ailelerin temel masraflarını karşılayamaması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gelişim seviyesi üstünde yapılan ölçme ve değerlendirme faaliyetleri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Rekabetçi eğitim anlayışı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Waldorf yaklaşımının özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuklara yetişkin rol modelleri taklit etme fırsatı vermesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların çalışmalarını sergilemek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuklara özgürce oyun oynama fırsatı vermek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ritim ve tekrarı hayatın bir parçası haline getirmek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların duygularını geliştirmek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "‘’Yetişkinler tarafından yapılandırılmış ortamda, etkin ve çocuk merkezli öğrenme’’ kavramı üzerine vurgu yapan yaklaşım aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Proje temelli eğitim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Reggio emilia",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Piramit",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Waldorf pedagojisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "High scoope",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Erken çocukluk döneminde aceleci ve rekabetçi eğitim uygulamalarının sonucunda ortaya olumsuz tabloya tepki olarak aşağıdakilerden hangisi doğmuştur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Orman okulları yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gelişimsel açıdan uygun program",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Önyargı karşıtı program",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Waldorf yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Proje yaklaşımı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "I. Kısa sürede çok aileye eğitim verilmesi II. Eğitime erişimin güç olduğu bölgelerde uygulanabilmesi*** III. Çocuk ve aile için bireysel planlar yapılmasına olanak sağlaması*** IV. Ev ziyaretçilerin kurum çalışanlarından daha yetkin olması V. Programın bütün aile bireylerini kapsaması*** Yukarıdakilerden hangileri ev merkezli eğitimin avantajlarındandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I – IV – V",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "III – IV – V",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I – II – IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I – III – IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "II – III – V",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Montessori eğitiminde öğretmenin amacı ‘’ çocuğun içsel güven geliştirmesidir.’’ Böylece çocukta geliştirilmesi gereken aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Daha yaratıcı olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gelişimde daha az müdahaleye ihtiyaç duyulması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun gelecekteki eğitimde başarılı olması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal ilişkilerde daha başarılı olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Arkadaşlarıyla iyi ilişkiler kurabilmesi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Montessori metodunda okul öncesi dönemde çocuklar okuma-yazma öğrenmesine fırsat sağlanması programın hangi özelliğidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Program kültürel çeşitliliğe saygılıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Program bireyselleşmeye önem verir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Program akademik gelişime odaklanmıştır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Program elektiktir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Program holistiktir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "I. Programın kapsamlı olması II. Programın farklı modeller içermesi III. Programın kurum merkezli olması IV. Programın öğretmen eğitimi V. Değerlendirme yöntemi Head start programının başarısını etkileyen etmenler yukarıdakilerden hangileridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II – IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "III – IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I – III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I – II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I – IV",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Antroposofi kavramı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Katolik inancına bağlıdır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlk kez John Devey tarafından geliştirildi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Waldorf eğitiminin temel ilkesidir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnsanın fizyolojik ihtiyaçlarının anlaşılması anlamına gelir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Latince kökenli bir kelimedir",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "‘’Gelişimsel açıdan uygun program; çocukların hareketli olma, duyusal olarak uyarılma, temiz hava alma, dinlenme, beslenme/boşaltım gibi fizyolojik gereksinimlerine saygılıdır.’’ Bu durum, gelişimsel açıdan uygun programın hangi kuramdan etkilendiğine bir kanıttır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İhtiyaçlar hiyerarşisi kuramı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Psikososyal gelişim kuramı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çoklu zekâ kuramı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Davranışçı kuram",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal öğrenme kuramı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 24,
+      "type": "multiple_choice_text",
+      "stem": "İki yaşındaki bir çocuk sorulan sorulara birkaç kelime ile cevap vermektedir. Gelişimsel açıdan uygun programa göre bu çocuğun 3 yaşındayken sorulara detaylı cevap vermesi aşağıdakilerden hangisi ile açıklanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gelişim ve öğrenme çocuktan çocuğa değişen bir hızda ilerler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yetişkinlerle güvenli ve tutarlı ilişkiler gelişimi olumlu etkiler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların öğrenme ve gelişim süreçleri belli bir sıra izler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların deneyimleri öğrenme yaşantılarını etkiler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gelişim alanları birbirlerine bağlıdır",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 25,
+      "type": "multiple_choice_text",
+      "stem": "‘’Gelişimsel açıdan uygun programa göre çocuklar yaparak/yaşayarak öğrenmelidir.’’ Aşağıdaki eğitimcilerden / filozoflardan hangisi gelişimsel açıdan uygun programı bu konuda doğrudan etkilemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "John Dewey",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Montessori",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Maslow",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Radolf Steiner",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Malaguzzi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 26,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinde gelişimsel açıdan uygun programın 3 temel ilkesi doğru olarak verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile katılımı, özgün değerlendirme, çocuk ilgisine odaklanma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaşa uygunluk, bireysel uygunluk ve sosyal kültürel uygunluk",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim odaklılık, çocuk merkezlilik, çok kültürlülük",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oyun-merkezlilik, aile katılımı proje odaklılık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Olumlu çocuk imajı, gelişim odaklılık, sosyal kültürel zenginleştirme",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 27,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki eğitim program / yaklaşımlarından hangisi insanın ruhani yönüne dikkat çekmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Head Start programı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Reggio Emilia yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "High/Scope programı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Orman yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Waldorf yaklaşımı",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 28,
+      "type": "multiple_choice_text",
+      "stem": "I. Çocuğa saygı II. Çocuğun içsel motivasyonu III. Yapılandırılmamış çevrede öğrenme IV. Öğretmen rehberliğinde öğrenme V. Çocuğun özgürlüğü Montesori’de çocuk imajının bileşenleri yukarıdakilerden hangilerinde ifade edilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II – III – IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "III – IV – V",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I – III – IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I – II – V",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "II – III – V",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 29,
+      "type": "multiple_choice_text",
+      "stem": "Afrika kökenli çocukların olduğu anasınıfında tüm oyuncak bebeklerin sarışın olması gelişimsel açıdan uygun programın hangi ilkesi ile çelişir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireysel uygunluk,",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal kültürel uygunluk",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İhtiyaca uygunluk",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaşa uygunluk",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğrenmeye uygunluk",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 30,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Waldorf yaklaşımına göre okul öncesi dönemde kullanılacak oyuncakların özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel yapım olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sade olması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Açık-uçlu olması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaratıcılığı desteklemesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hayali oyunlara izin vermesi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 31,
+      "type": "multiple_choice_text",
+      "stem": "• Öğretmenler etkinlikleri sözlü yönergelerle açıklamalıdır. • Sanat etkinlikleri çocukların ruhsal yaşantısını zenginleştirir • Rutinden ve tekrardan kaçınılmalıdır • Taklit çocuklar için bir öğrenme yöntemidir • Öğretmenler kendi iç dünyasını geliştirmelidirler. Waldorf yaklaşımına göre yukarıdaki ifadelerden kaç tanesi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 32,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Waldorf yaklaşımında çocuklara halk hikayesi, efsane ve peri masalları gibi fantastik öykülerin okumasının amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların farklı gelenekleri keşfetmelerini desteklemek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların dil becerilerini desteklemek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların kültürel bakış açılarını desteklemek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların hayal gücünü desteklemek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların yaratıcılıklarını desteklemek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 33,
+      "type": "multiple_choice_text",
+      "stem": "Piaget’in bilişsel gelişim kuramı gelişimsel açıdan uygun programa nasıl rehberlik etmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk eğitiminde kullanılacak stratejileri belirleyerek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların bireysel farklılıklarına dikkat çekerek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bütün gelişim alanlarının önemli olduğunu göstererek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun olgunlaşmasının önemine dikkat çekerek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilişsel gelişimin akademik başarıdaki önemini vurgulayarak",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "c515bb32a19bb6d4c4df6bc4103dc6200d34871fd2d1fad9047cab19c3c6515d"
+}

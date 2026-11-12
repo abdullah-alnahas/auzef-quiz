@@ -3,7 +3,7 @@ course: İLKOKULA HAZIRLIK
 exam: 2021-2022 Bütünleme Soruları
 source_url: https://lolonolo.com/2022/11/01/ilkokula-hazirlik-2021-2022-butunleme-hatirlanan-sorular/
 question_count: 19
-scraped_at: 2026-11-12T02:21:19+03:00
+scraped_at: 2026-11-12T11:32:36+03:00
 ---
 
 ### Q1

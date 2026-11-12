@@ -1,0 +1,909 @@
+{
+  "course": "Özel Eğitime Giriş",
+  "course_slug": "ozel-egitime-giris",
+  "exam": "2021-2022 Final Soruları",
+  "exam_slug": "final-2021-2022",
+  "page_title": "Özel Eğitime Giriş 2021-2022 Final",
+  "source_url": "https://lolonolo.com/2022/01/10/ozel-egitime-giris-2021-2022-final/",
+  "scraped_at": "2026-11-12T11:33:44+03:00",
+  "answer_source": "markup",
+  "question_count": 25,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Yeni icat edilen veya yeni şekillerde kullanılmaya başlayan teknolojilere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğretim teknolojileri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ağ teknolojileri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal teknolojiler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yardımcı teknolojiler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yenilikçi teknolojiler",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "I. İlan verme  II. Form oluşturma III. Grup tarama (değerlendirme) IV. Bireysel değerlendirme  Bilsemle ilgili olan öğrenci belirleme aşamasının doğru olan sıralaması hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I-II-III-IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "IV-III-II-I",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "III-II-I-IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "II-III-I-IV",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "0-42 ay arasındaki bebekleri değerlendirmek için kullanılan ölçek hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Denver Gelişimsel Tarama Testi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bailey Bebekler İçin Gelişimsel Değerlendirme Ölçeği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gazi Erken Çocukluk Gelişimi Değerlendirme Aracı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Erken Gelişim Evreleri Envanteri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Portage Erken Eğitim Rehberi Gelişim Ölçeği",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Otonom veya önceden programlanmış görevleri yerine getirmek amacıyla mekanik sistemleri ve bunlarla ilişkili kontrol  ve algılama sistemleri ile bilgisayar algoritmalarına bağlı olarak akıllı davranan Elektro-mekanik cihazlara ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilgisayar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Otomatlar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Robot",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sensör",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Turing makinesi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki bozukluklardan hangisi dikkat eksikliği ve hiperaktivite bozukluğu ile eş tanı özellikleri göstermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Epilepsi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Anksiyete bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğrenme bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tik ve tourette de bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Dikkat Eksikliği ve Hiperaktivite Bozukluğu aşağıdakilerden hangisiyle ilişkili değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dikkat durumunda kolay dağılma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kısa süreli dikkat toplama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ataklık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Davranış kontrolü",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zeka performansı",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Genişletilmiş uygulama modeli, genelleştirilmiş uygulama modeli ve özelleştirilmiş uygulama modeli olmak üzere üç alt türü olan aile  eğitimi programı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hem eve hem eğitim kurumuna dayalı aile eğitim programı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Eve dayalı aile eğitim programı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eğitim kurumuna dayalı aile eğitim programı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Uzaktan eğitime dayalı aile eğitim programı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Halk eğitimine dayalı aile eğitim programı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "7 yaş üzeri grupta tanılama araçlarında hangisi yoktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Grup Zeka Testleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Denver II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Woodcock Johnson",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Üçlü yetenek testleri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Başarı testleri",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "“Özel eğitime ihtiyacı olan bireylerin eğitimlerini, destek eğitim hizmetleri de sağlanarak yetersizliği olmayan akranları  ile birlikte resmi ve özel; okul öncesi, ilköğretim, ortaöğretim ve yaygın eğitim kurumlarında sürdürmeleri esasına dayanan özel eğitim uygulamalarıdır” Yukarıda yer alan tanımlama hangi kavrama aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tam zamanlı kaynaştırma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bütünleştirme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kapsayıcı eğitim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kaynaştırma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yarı zamanlı kaynaştırma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi üstün yeteneklilerle ilgili yanlış bir bilgidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Üstün yetenekli oldukları için hiçbir alanda zorlanmazlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Diğer çocuklardan farklı gelişim özellikleri gösterebilirler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aşırı duyarlı alanları vardır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aldıkları eğitimde aile okul ve çevre ortamı için destekleyici müdahalelere ihtiyaç duyarlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Toplumda oranı %2-4 arasındadır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dil ve konuşma bozuklukları ile ilgili değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nörolojik bozukluklar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Zihinsel yetenekler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tıbbi sebepler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ses uzatma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Otizm",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşama modeline göre ailelerin yaşadıkları tepkisel evreler aşağıdaki şıklardan hangisinde doğru sıra ile verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Şok, depresyon, reddetme, suçluluk, karmaşa, kızgınlık, pazarlık etme, kabul ve uyum.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Şok, suçluluk, depresyon, karmaşa, reddetme, pazarlık etme, kızgınlık, kabul ve uyum.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karmaşa, şok, reddetme, depresyon, kızgınlık, suçluluk, pazarlık etme, kabul ve uyum.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Şok, kızgınlık, karmaşa, reddetme, depresyon, suçluluk, pazarlık etme, kabul ve uyum.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Şok, reddetme, depresyon, karmaşa, suçluluk, kızgınlık, pazarlık etme, kabul ve uyum.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi erken müdahalenin ilkelerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Amaçlar çocuğa özgüdür ve bireyseldir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Aile-çocuk uzman ve müdahaleye katılan diğer kişiler arasında olumlu bir iletişim olmalıdır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Oyun oynama etkileşim iletişimi teşvik edecek bir çevre düzenlemesi gerekir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Müdahale çocuğu keşfederek dahil olabileceği etkinliklere yer verilmelidir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Müdahale hizmetleri kurumlarda yürütülür",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kaynaştırmanın özel gereksinimli bireye olan faydaları arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireyin öğretim becerilerini arttırır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "BEP uygulamaya ilişkin bilgi sahibi olur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğrencilerin yardımlaşma becerilerini arttırır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Özel gereksinimli bireylere olan önyargıları ortadan kaldırır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireyin topluma uyumunu kolaylaştırır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Hangisi erken müdahalede geçişli disiplinler (transdisiplinler) ekip modelinin özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uzmanlar kendi alanları içerisinde çalışırlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Uzmanların birbirine güven duyması esastır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bütüncül bakış açısı vardır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aile merkezli bir modeldir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Bu yüzyıla gelindiğinde engelli bireyler için sağaltım çalışmalarına başlanmış ve zihin engel ile akıl hastalığı arasındaki farklar açık bir şekilde belirlenmiştir. Esquirol zihin geriliğini amentia ve dementia olmak üzere iki aşamalı bir sınıflama sistemi ile açıklamıştır. Langdon Down ise; günümüzde Down Sendrom’lu olan bireylerin ayrıntılı tanımlarını yapmıştır. Guggenbuhl ise bu yüzyılda zihin engelli bireyler için yatılı kurum açan ilk isimdir. Jean Gespard Itard ise 1801 yılında zihin engelli bireylerin eğitimi için ilk kitabı yazan isimdir. 1848 yılında Perkins Enstitüsü’nde zihin engelli çocuklar için bir bölüm açılmasından sonra Amerika’da  engellilerin eğitimi için devletin desteklediği kurumlar açılmıştır. Kaçıncı yüzyılda olmuştur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "16 yy",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "21 yy",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "19 yy",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "20 yy",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "17 yy",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Özel gereksinimli biryelerin öğrenme için ihtiyacı olan bilgiye ulaşımında özel gereksinim durumunu ortadan kaldırarak  alternatif bir performans aracı oluşturan teknolojilere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yenilikçi teknoloji",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yardımcı teknoloji",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğretim teknolojisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal teknoloji",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hiçbiri",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Dikkat Eksikliğinin önde olduğu tipte belirtiler arasında değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sorulan soru bitmeden yanıtlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dinlemiyormuş gibi gözükür",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yönergeleri uygulayamaz.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Detaylardaki ayrıntıları kaçırır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ödevlerini bitiremez",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Tüm erken dönem tarama ve tanılama ve müdahale hizmetlerinde ekibin en önemli üyelerinden, en fazla bilgi alınabilecek  kişi hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk nörologu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Aile (ebeveyn)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk terapisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Odyolojist",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okul müdürü",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Görme yetersizliğinin nedenleri arasında en çok hangi faktör yer alır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilinmeyen etkiler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bulaşıcı hastalıklar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kalıtım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tümörler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Doğum öncesi nedenler",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi özel gereksinimli çocuğa sahip ailelerin yaşadığı sorunlardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sürekli çocuğunu onun durumu ile ilgili olarak çevredekilere açıklama yapmak zorunda kalma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çevredeki insanları çocuğa tiksinerek veya acıyarak bakmaları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal izolasyon- dışlanma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Toplum içine çıkmaktan utanma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Toplumun özel gereksinimli çocuğun tanısını bulaşıcı hastalık olarak görmeleri",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki şıklarda yer alan gereksinimlerden hangisi özel gereksinimli çocuğa sahip ailelerin  gereksinimleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Güvende olma gereksinimi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilgi gereksinimi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Maddi gereksinim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kendine güven gereksinimi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eğlenme gereksinimi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun liderliğinde başlayıp terapistin aktif katılım ile sürülen oyuna dayalı yöntem aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "PECH",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "TEOCEH",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "DIR/FLOORTIME",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "ETEÇOM",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "ABA",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 24,
+      "type": "multiple_choice_text",
+      "stem": "Ülkemizde kaynaştırmaya ilişkin atılan ilk adım hangi tarihte gerçekleşmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1995",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1997",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1982",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "1985",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1983",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 25,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi mekanizmanın robot olarak adlandırılmasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Alıcılar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mekanik düzenek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tekerlek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Elektronik devreler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Program",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "66e77afe32af3b2034ff11595cdfe16d77c670484102f101f533e9e10c0b548c"
+}

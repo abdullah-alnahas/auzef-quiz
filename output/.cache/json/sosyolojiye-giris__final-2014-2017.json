@@ -1,0 +1,158 @@
+{
+  "course": "Sosyolojiye Giriş",
+  "course_slug": "sosyolojiye-giris",
+  "exam": "2014-2017 Final Soruları",
+  "exam_slug": "final-2014-2017",
+  "page_title": "Sosyolojiye Giriş-1 Vize-Final (2014-2017)",
+  "source_url": "https://lolonolo.com/2019/11/18/sosyolojiye-giris-1-vize-final/",
+  "scraped_at": "2026-11-12T11:33:10+03:00",
+  "answer_source": "inline",
+  "question_count": 4,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi birincil ilişkilere dayalı toplumsal grup oluşturur? BÜT 2017",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ticaret odası",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dernek üyeleri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aile bireyleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Can kurtaran mahalle sakinleriE) Erkin koray konserini dinlemeye gelenler.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Kültür, toplumsal yapı ve gündelik hayat arasındaki ilişki ve popüler kültür üzerinde yoğunlaşan ünlü okul aşağıdakilerden hangisidir? BÜT-2015",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Le Play Okulu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Chicago Okulu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Frankfurt Okulu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Annales Okulu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Birmingham Okulu",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisinde statü diğerlerinden farklıdır? BÜT-2015",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Üniversiteli kız öğrenci",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Üniversite öğrencisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Üniversite öğretim görevlisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Üniversite müdür yardımcısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Üniversite bilgi işlem sorumlusu",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi toplumsal grup oluşturur? BÜT-2015",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kırmızı ışıkta bekleyenler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Karşıdan karşıya geçenler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sinemaya film izlemeye gidenler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çeteler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mitinge katılan insanlar",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "source_numbers": [
+    1,
+    2,
+    9,
+    15
+  ],
+  "content_hash": "3d7bf2c69bff03fdf6d7f14c7070a6a06bbc155a70f43afec1aaf62f2225bbe8"
+}

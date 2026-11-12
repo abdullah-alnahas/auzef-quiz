@@ -1,0 +1,1662 @@
+{
+  "course": "İstatistik",
+  "course_slug": "istatistik",
+  "exam": "2021 Final Soruları",
+  "exam_slug": "final-2021",
+  "page_title": "İstatistik 2021 Final Soruları",
+  "source_url": "https://lolonolo.com/2021/06/14/istatistik-2021-final-sorulari/",
+  "scraped_at": "2026-11-12T11:33:29+03:00",
+  "answer_source": "inline",
+  "question_count": 47,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Varyansı 64 olan bir serinin standart sapması aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "12",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "18",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "81",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "8",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "I- Basit indeksler\nII- Bileşik indeksler\nIII- Değişik esaslı indeksler\nYukarıdakilerden hangisi/hangileri madde sayısına göre indeks türlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnızca III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I – II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I – II – III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnızca I",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnızca II",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Aşağıda verilen ortalamalardan hangisi analitik (duyarlı) ortalamalar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Duyarlı ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Medyan (Ortanca)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geometrik ortalama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Verileri düzenlemek amacıyla, verinin birbirine yakın şıklarını mümkün olduğunca homojen sınıflarda toplamak suretiyle oluşturulan serilere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ayırma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sıralama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Düzenleme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Birleştirilmiş seri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sınıflanmış seri",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Aynı koşullar sağlanarak tekrar edildiğinde, aynı sonuçları veren olaylara ………….denir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kollektif olay",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Deney",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tipik olay",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Veri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gözlem",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Bir araştırma kapsamında toplanan verilerin aynı şıkların bir araya getirilmesi ya da toplanması şeklinde düzenlenmesine…….. denir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınıflama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gruplama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tasnif",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sıralama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Düzenleme",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Verilerin, homojen alt gruplar şeklinde düzenlendiği sınıflanmış serilerin grafik sunumuna ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Histogram",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çubuk grafik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Serpilme diyagramı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Daire dilimleri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Grafik",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki ortalamalardan hangisi ortalama hesabında birimlerin logaritmalarını kullanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mod",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Medyan",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aritmetik ortalama",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Bir veri kümesini özetlemek, akılda kalıcı tek bir değer olarak ifade etmek ya da o veri kümesini temsil etmek amacıyla hesaplanan ve kullanılan istatistik ölçüleri genel olarak ………….. biçiminde adlandırılır.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Egemen değer",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Medyan",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mutlak değer",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mod",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ortalama",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Bir istatistik araştırmasını yapabilmek için ihtiyaç duyulan verinin toplama işlemine ne ad verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Birim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Vasıf",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Veri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Rölöve (derleme)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Şık",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Bir araştırmada veri toplama işlemi sırasında yapılabilen ve hep aynı yönde sapmalara (hatalara) sebep olan hata türüne ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rölöve hatası",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hata",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ölçme hatası",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tesadüfi hata",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sistematik hata",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Aritmetik ortalaması 85 ve standart sapması 15 olan bir dağılımda 70’e karşılık gelen z değeri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "80",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "-1",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "70",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Bütün gözlem değerlerinin aynı olduğu bir dağılımda değişim katsayısı aşağıdaki hangi değeri alır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ortalama değere eşit olur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Pozitif bir değer olur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sıfır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ortalamanın yarısına eşit olur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Geometrik ortalama hesaplayabilmek için verinin en az ………….ölçüm düzeyinde ölçülmüş olması gerekir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aralık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sınıflayıcı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Nominal",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ordinal",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sıralayıcı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Xİ\n4\n5\n8\n10\n11\nYukarıdaki serinin varyansı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "10,8",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "8,7",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "7,9",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "7,44",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Normal eğri alanları tablosunda z =1,34’e karşılık gelen olasılık değeri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0,4125",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,4225",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0,4200",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0,4099",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0,3515",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki ortalamalardan hangisi analitik olmayan (duyarsız) bir ortalamadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duyarlı ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mod (Egemen değer)",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "İstatistik araştırmasına konu olan bir birimin, uzun süre zarfında gözlenmesi mümkünse ya da bir birim uzun ömürlü olarak tanımlanıyorsa, bu tür birimlere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ani birim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Somut birim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Maddi birim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Soyut birim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Devamlı birim",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "İki zar birlikte atıldığında bir zarın 4, diğerinin 6 gelmesi olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "4/36",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3/36",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "5/36",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "1/36",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "2/36",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "İnsanların tutum, beklenti, ümit ve arzularına göre belirledikleri, insandan insana değişen olasılık tanımına……. denir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Koşullu olasılık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Olasılık dağılımı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Objektif olasılık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Olasılık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sübjektif olasılık",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "Verilerin, homojen alt gruplar şeklinde düzenlendiği sınıflanmış serilerin grafik sunumuna ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çubuk grafik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Serpilme diyagramı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Grafik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Daire dilimleri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Histogram",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "Aşağıda verilen birimlerden hangisi maddi birim olarak nitelendirilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evlenme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bina",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Doğum",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Boşanma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ölüm",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "Bir istatistik çalışmasında toplanan verilerin, birbirine yakın şıklarını mümkün olduğunca homojen sınıflara toplamak suretiyle yapılan veri düzenleme işlemine ……………..denir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Düzenleme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ayırma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tasnif",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gruplama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sıralama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "… olasılık dağılımından söz edebilmek için tüm mümkün sonuçlara yönelik olasılık değerlerinin toplamının olması gerekir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "yüz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "birden küçük",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "birden büyük",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "sıfır",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "Bir gözlem değerinin, içinde bulunduğu dağılımın aritmetik ortalamasına eşit olması durumunda standart değer aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sıfırdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Negatif bir değerdir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Birdir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ortalama değeridir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Pozitif bir değerdir",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "Ürekli tesadüfi değişkenlerin olasılık dağılımlarına ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kesikli olasılık dağılımı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sürekli olasılık dağılımı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Süreksiz olasılık dağılımı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Olasılık fonksiyonu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Olasılık dağılım",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "Bir tesadüfi değişkenin alabileceği tüm değerler, bu değerlerin gerçekleşme olasılıkları ile birlikte ele alındığında ya da olasılıkların tüm birimlere nasıl dağıldığı gösterilerek yaratılmış olur. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olasılık dağılımı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tesadüfi deney",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tesadüfi değişken",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Beklenen değer",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Örnek uzay",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "Ortalaması 75 ve standart sapması 8 olan bir dağılımda 80’e karşılık gelen z değeri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0,625",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,65",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "-0,71",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0,71",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "-0,65",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "Cari dönem miktarlarını tartı olarak kullanan indekse ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İdeal indeks",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fisher indeksi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Değişik esaslı indeks",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Laspeyres indeksi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Paasche indeksi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "Zar atılması deneyi bir tesadüfi değişken olarak tanımlanırsa üste gelen yüzün iki katı kadar puan alınması söz konusu olduğunda beklenen değer aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1/6",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "42/6",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "15/6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "13/6",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "2/6",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 31,
+      "type": "legacy_text",
+      "stem": "Hilesiz bir zar atıldığında üste gelen yüzün tek sayı olması olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3/4",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2/6",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1/6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "1/2",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "¼",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 32,
+      "type": "legacy_text",
+      "stem": "Hilesiz bir zar atıldığında üste gelen yüzün çift sayı olması veya 4’ten büyük sayı gelmesi olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "4/6",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1/6",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "2/6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "5/6",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "3/6",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 33,
+      "type": "legacy_text",
+      "stem": "Hilesiz bir zarin atılması olayında üste gelen yüzün 3 olmama olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "4/6",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1/6",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "5/6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3/6",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "2/6",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 34,
+      "type": "legacy_text",
+      "stem": "8\n12\n15\n16\n22\n25\nYukarıdaki serinin değişim aralığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "23",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "19",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "17",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "12",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 35,
+      "type": "legacy_text",
+      "stem": "Kesikli (süreksiz) tesadüfi değişkenlerin olasılık dağılımlarına ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kesikli olasılık dağılımı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Olasılık yoğunluğu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Olasılık fonksiyonu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Olasılık yoğunluk fonksiyonu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sürekli olasılık dağılımı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 36,
+      "type": "legacy_text",
+      "stem": "………, karşılaştırmada esas (temel) alınan yılı göstermektedir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beklenen değer",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Baz yıl",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Cari değer",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Cari yıl",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Indeks",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 37,
+      "type": "legacy_text",
+      "stem": "Başlangıç dönemi miktarlarını tartı olarak kullanan bileşik indekse ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ideal indeks",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Paasche indeksi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Değişik esasli indeks",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Laspeyres indeksi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Fisher indeksi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 38,
+      "type": "legacy_text",
+      "stem": "Ortalaması 50 ve standart sapması 10 olan bir dağılımda 38’e karşılık gelen z değeri aşagıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "-0,33",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,33",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "-1,2",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "-0,45",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0,38",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 39,
+      "type": "legacy_text",
+      "stem": "Bir tesadüfi değişkenin alabileceği tüm mümkün sonuçlarının olasılıklarına göre hesaplanan ağırlıklı ortalamasına ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beklenen değer",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tesadüfi değişken",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Örnek uzay!",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tesadüfi deney",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Olasılık dağılımı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 40,
+      "type": "legacy_text",
+      "stem": "İki para birlikte atıldığında en az bir paranın tura gelmesi olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1/8",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2/4",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1,00",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3/4",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "¼",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 41,
+      "type": "legacy_text",
+      "stem": "Standart sapması 9,5 olan serinin varyansı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "90,25",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "11,5",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "22,5",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3,5",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "21,5",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 42,
+      "type": "legacy_text",
+      "stem": "Bir dağılım içinde herhangi bir gözlem değerinin nerede yer aldığını belirlemede\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Varyans",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Standart sapma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Standart değer",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ortalama sapma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Değişim katsayısı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 43,
+      "type": "legacy_text",
+      "stem": "… Ölçü birimi ya da terim büyüklükleri farklı olan serilerin dağılma derecelerinin kıyaslanmasında kullanılır.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Varyans",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ortalama sapma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Değişim aralığı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Değişim katsayısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Standart sapma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 44,
+      "type": "legacy_text",
+      "stem": "X\n7\n8\n10\n11\n14\nYukarıdaki serinin ortalama sapması aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "2",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 45,
+      "type": "legacy_text",
+      "stem": "Gözlem değerlerini küçükten büyüğe ( ya da büyükten küçüğe) sıraladığımızda tam ortada yer alan değere nead verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Medyan (Ortanca)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duyarlı ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aritmetik ortalama",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 46,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi esas alınan döneme göre indeks türlerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tartısız indeksler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bileşik indeksler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sabit esasli indeksler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Basit indeksler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tartili indeksle",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 47,
+      "type": "legacy_text",
+      "stem": "…. Bir değişkenin ya da değişkenlerin değerlerinde zaman içinde veya mekanlar arasında ortaya çıkan değişmelerin oransal ölçüsü olarak tanımlanabilmektedir.\nYukarıdaki cümlede boş bırakılan yere asagidakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Reel deger",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Carideger",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bazyıl",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Madde sepeti",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Indeks",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "efeebab47e81229b1cf0d5c1b82c21b7103d7ce1d457c8af95197778093692a7"
+}

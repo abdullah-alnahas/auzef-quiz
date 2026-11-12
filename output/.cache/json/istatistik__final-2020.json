@@ -1,0 +1,742 @@
+{
+  "course": "İstatistik",
+  "course_slug": "istatistik",
+  "exam": "2020 Final Soruları",
+  "exam_slug": "final-2020",
+  "page_title": "İstatistik 2020 Final Soruları",
+  "source_url": "https://lolonolo.com/2020/07/17/istatistik-2020-final-sorulari/",
+  "scraped_at": "2026-11-12T11:33:29+03:00",
+  "answer_source": "inline",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Cari dönem miktarlarını tartı olarak kullanan indekse ne ad verilir?\na- Sabit esaslı basit\nb- Değişik esaslı basit\nc- Paasche fiyat\nd- Laspeyres fiyat\ne- Fisher’in ideal\nCevap : c- Paasche fiyat",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0,4885",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,4865",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0. 4225",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0,4938",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0,4918",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Bir dağılım içinde herhangi bir gözlem değerinin nerede yer aldığını belirlemede. . . . . . . . . . . . kullanılmaktadır. Boş bırakılan yere ne gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değişim katsayısı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Standart değer",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Standart sapma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Varyans",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ortalama sapma",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Sürekli tesadüfi değişkenlerin olasılık dağılımına ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "kesikli olasılık dağılımı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "sürekli olasılık dağılımı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "olasılık yoğunluğu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "olasılık yoğunluk fonksiyonu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "olasılık fonksiyonu",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Bir tesadüfi deney neticesinde ortaya çıkabilecek bütün mümkün sonuçlara sayısal bir değer verilmek suretiyle\nbir. . . . . . . . tanımlanmış olur. Boş bırakılan yere ne gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tesadüfi deney",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tesadüfi değişken",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Olasılık dağılımı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Örnek uzay",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Beklenen Değer",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "İnsanların tutum,beklenti ,ümit,ve arzularına göre belirledikleri insandan insana değişen olasılık tanımına. . . . . denir. boş bırakılan yere ne gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olasılık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Objektif olasılık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Subjektif olasılık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Koşullu olasılık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Olasılık dağılımı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki verilen ortalamalardan hangisi duyarlı ortalamalar içinde yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mod",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ağırlıklı aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geometrik ortalama",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Normal eğri alanları tablosunda z=1,34 e karşılık gelen değeri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0,4200",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0. 4125",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0, 3515",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0, 4225",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0, 4099",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Gözlem değerlerini küçükten büyüğe ( ya da büyükten küçüğe ) sıraladığımızda tam ortada yer alan değere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Medyan ( Ortanca )",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Duyarlı ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geometrik ortalama",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": ". . . . . . . . . . . . . . . . . bir değişkenin ya da değişkenlerin değerlerinde zaman içinde veya mekanlar arasında ortaya\nçıkan değişmelerin oransal ölçüsü olarak tanımlanabilmektedir. Boş bırakılan yere ne getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "indeks",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Reel değer",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Cari değer",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Madde sepeti",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Baz yıl",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Cari fiyatlarla hesaplanmış seriler, enflasyon etkisini içinde barındırdıklarından karşılaştırmalarda gerçek artış\nveya azalışları görebilmek için sabit esaslı fiyat indeksi kullanılarak . . . . . . . . . . . . . elde edilebilmektedir. Boş bırakılan\nyere ne gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Reel fiyat serisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Cari fiyat serisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Nominal fiyat serisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Basit seri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bileşik seri",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi esas alınan döneme göre indeks türlerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Basit İndex",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bileşik İndex",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sabit Esaslı İndex",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tartılı İndex",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tartısız İndex",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi birimlerin kareleri üzerinden hesaplanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Medyan",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mod",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Geometrik ortalama hesaplayabilmek için verinin en az\n. . . . . . . . . . . . . ölçüm düzeyinde ölçülmüş olması gerekir. Boş\nbırakılan yere ne getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nominal",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sınıflayıcı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sıralayıcı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aralık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ordinal",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki ortalamalardan hangisi analitik olmayan ( duyarsız ) bir ortalamadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Duyarlı ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mod ( Egemen değer )",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kareli ortalama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Bir sınıfta bulunan 10 öğrencinin ağırlıkları 65,70,65,60,55,65,70,60,65,70 olarak ölçüldüğüne göre bu ağırlıkların mod değeri nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "60",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "65",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "70",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "55",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "modu yoktur.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Birden fazla madde söz konusu olduğunda, madde fiyatlarında meydana gelen oransal değişmelerin ortalamasının belirlenmesi için . . . . . . . . . . . . . . indeksler kullanılmaktadır.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Basit",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bileşik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sabit esaslı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Değişik esaslı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sabit esaslı basit",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Bir veri kümesi içinde yer alan gözlem değerleri arasında en çok tekrar eden gözlem değerine . . . . . . . . . . . . denir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duyarlı ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mod ( Egemen değer )",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Ölçü birimi ya da terim büyüklükleri farklı olan serilerin dağılma derecelerinin kıyaslanmasında . . . . . . . . kullanılır. boş bırakılan yere ne gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değişim katsayısı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Standart değer",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Standart sapma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Varyans",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ortalama sapma",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Bir tesadüfi değişkenin alabileceği tüm değerler ,bu değerlerin gerçekleşme olsılıkları ile birlikte ele alındığında ya da olasılıkların tüm birimlere nasıl dağıldığını gösterilerek . . . . . . yaratılmış olur. Boş bırakılan yere ne gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "olasılık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "objektif olasılık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "subjektif olasılık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "koşullu olasılık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "olasılık dağılımı",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Bir ilde aralık ayı içinde sıcaklıklar -2,1,-1,2 şeklinde ölçülmüştür. Bu serinin ortalaması hesaplanmak istendiğinde hangi ortalama kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ağırlıklı aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Medyan",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kareli ortalama El Geometrik ortalama",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "source_numbers": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    12,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    24,
+    26,
+    28,
+    29,
+    30
+  ],
+  "omitted_questions": [
+    {
+      "n": 14,
+      "reason": "option_letters",
+      "stem": "Bir dağılım içinde herhangi bir gözlem değerinin nerede yer aldığını belirlemede . . . . . . . . kullanılmaktadır. Boş\nbırakılan yere ne getirilmelidir?A ) Değişim katsayısı"
+    }
+  ],
+  "content_hash": "17f451cb9d38861b4db122d54758fd987aad39ffa3c1362e01c5b9ce34b7b612"
+}

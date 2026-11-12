@@ -1,0 +1,739 @@
+{
+  "course": "Türk Dili 1-2 ( AUZEF )",
+  "course_slug": "turkdili",
+  "exam": "2024-2025 Vize Soruları",
+  "exam_slug": "vize-2024-2025",
+  "page_title": "Türk Dili -1 2024-2025 Vize Soruları",
+  "source_url": "https://lolonolo.com/2024/11/05/turk-dili-1-2024-2025-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:33:17+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki dillerden hangisi Türkçenin İslamiyet’ten önce etkileşimde olduğu dillerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Soğdca",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Arapça",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Toharca",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çince",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Moğolca",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi iletişim ögelerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gönderici",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çevre",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Alıcı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kaynak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mesaj",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "”Dil, insanlara ilişkilerini kurmak ve sürdürmek yönünde yardım eden bir vasıtadır. Dolayısıyla dilin toplumsal bir işlevi vardır. İnsanlar dili kendi toplumsal arka planlarına dayanarak kullanırlar. Doktorların, bilim adamlarının, akademisyenlerin, bakkalların, zanaatkârların kendilerine has jargonları vardır. Sadece bu gruba dâhil kişilerin anlayabileceği terminolojileri vardır. Mahallenin bıçkın abisi ile plazada dolgun maaşla çalışan birinin dil kullanımı, aynı dili konuşmalarına rağmen, farklı olacaktır. Çünkü yetiştikleri ortam onların sadece telaffuzlarını değil, kelime dağarcıklarını da etkilemektedir.”\nYukarıdaki metinde aşağıdaki kavramlardan hangisinden bahsedilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil konuşuru",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dil bilimi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dil topluluğu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dil dağılımı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dil bilinci",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi gürültü türlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kültürel",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Nöro-Fizyolojk",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fiziksel",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Psikolojik",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Altay dillerinin en fazla konuşura sahip kolunu oluşturan dil aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mançu-Tunguzca",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Macarca",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Türkçe",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Moğolca",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Korece",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Yakutça ve Çuvaşça aşağıdaki hangi dilin lehçeleridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Almanca",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Rusça",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Türkçe",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Farsça",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Arapça",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "1991 yılında Sovyetler Birliği’nin dağılması ile birlikte asli unsurunu Türk boy ve topluluklarının oluşturduğu Azerbaycan, Türkmenistan, Özbekistan, Kazakistan ve Kırgızistan adıyla beş Türk devleti kurulmuştur.\nNüfusu göz önünde bulundurduğunuzda bu ülkelerden hangisinde Türkçe konuşan kişi sayısı en fazladır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özbekistan",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Azerbaycan",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kırgızistan",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kazakistan",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Türkmenistan",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "”Dil, insanlar ve nesiller arasında en önemli iletişim ve aktarım aracı olarak toplumların varlık sebeplerinden biri olmuştur. Dil ile dünyayı algılar, düşüncelerimizi şekillendiririz. Dil bununla sınırlı kalmayıp aynı zamanda gerçekliği de şekillendirir. Ortaya çıkan gerçeklik toplumsal bir algı oluşturur ve toplumun bütün bireylerine aktarılır. Dolayısıyla dil çalışmalarında toplumun, toplumsal çalışmalarda da dilin göz ardı edilemeyeceği gerçeği ortaya çıkar. Çünkü insan olmadan dilin, dil olmadan da toplumun var olması mümkün değildir.”\nYukarıdaki metinde aşağıdaki ilişkilerin hangisinden bahsedilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil-toplum ilişkisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dil-tarih ilişkisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dil-birey ilişkisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dil-ruh bilim ilişkisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dil-coğrafya ilişkisi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Yazmaya başlamak zordur. Başlangıçta şekilsel faktörler üzerinde durmamak sadece duygu, düşünce veya bilgileri olduğu gibi yazarak başlamak işi kolaylaştırır. Başlangıçta kusursuz metnin yazılması amaçlanmamalıdır. Metnin ana hatlarını çıkarmak ve sonra bunları başlıklar ve alt başlıklar hâlinde organize etmek amaçlanmalıdır. Giderek başlıkların altının doldurulması daha kolay olacaktır. Yazının içeriği, okur özellikleri ve yazma amacına göre sınırlandırılmalı; okurun ilgisini çekmeyecek, amaç dışına çıkan şeyler metne dâhil edilmemelidir.\nBu parçanın yazarı ile ilgili aşağıdakilerden hangisi söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yazma eğitiminin aşamaları hakkında bilgi vermektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yazmanın zor olarak nitelenmesinin gerekçelerini açıklamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yazma konusunda çeşitli tavsiyelerde bulunmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bir yazarın sahip olması gereken niteliklerden bahsetmektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yazar ve okur arasındaki etkileşimin metne kattığı değeri ifade etmektedir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "”Dil etkileşmesinin ses bilgisi, yapı bilgisi, söz dizimi ve kelime varlığı üzerinde izleri görülür. Bu temasın ve etkileşmenin tamamı ….. kavramı ile açıklanır ve izlenir.”\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "alıntı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "dil ilişkileri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "imla bilgisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "yabancı dil",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "ödünçleme",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi standart dilin özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kodlanmıştır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yön göstericidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Edebiyat dilidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yerel ve sosyal iz taşır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Doğru yazılması için başvuru kaynakları hazırlanmıştır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Yeryüzündeki diller, köken bakımından ve yapı bakımından olmak üzere iki şekilde sınıflandırılır. Köken bakımından Türkçe, dünya dilleri içinde Altay dil ailesine mensuptur. Bu grupta Türkçenin dışında Moğolca ve Mançu-Tunguzca yer alır. Tipolojik sınıflandırmaya göre ise Türkçe, eklemeli diller grubundadır. Bu grupta Türkçe ile birlikte Macarca, Fince, Moğolca gibi diller vardır. Türkçe sondan eklemeli bir dildir. Türkçe bu bakımdan yeni kelimeler türetmeye elverişli bir dildir ve zengin bir ek sistemi mevcuttur. Türkçe, dünya dilleriyle etkileşim hâlinde olmuştur ve olacaktır da. Başka dillerden Türkçeye kelime geçtiği gibi Türkçeden de başka dillere kelimeler geçmiştir. Bugün, Çincede 300, Farsçada yaklaşık 3000, Urducada 227, Arapçada yaklaşık 2.000 Türkçe kökenli kelime bulunur.\nBu parçada aşağıdaki sorulardan hangisinin cevabı yoktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dünya dillerinin tasnifinde nasıl bir yol izlenmektedir?",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Macarca ve Moğolca ile birlikte Türkçe hangi sınıflamadadır?",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Türkçe hangi dil ailesi çatısı altında yer almaktadır?",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Türkçenin eklemeli bir dil olmasının avantajı nedir?",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Türkçe hangi dillerden kelimeler ödünç almıştır?",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Bu gerçeği de ….. gerek.\nYukarıdaki cümlede boş bırakılan yere aşağıdaki deyimlerden hangisi getirilirse, deyim cümleye ”hesaba katmak, dikkate almak” anlamı kazandırır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "göz önüne almak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "göz ucuyla görmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "gözüne kestirmiş",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "gözünden kaçırsa",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "göz ağartmış",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi iyi bir dinleyicinin özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Muhatabını dinlediğini beden diliyle göstermek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Her iletişimde aynı dinleme türünü kullanmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Muhatabın fikirlerine katılmasa dahi dinlemeyi sürdürmek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Konuşmacının sözünü kesmemek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dikkatini muhatabına yöneltmek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki cümlelerden hangisinde ”can” sözcüğü deyim içinde kullanılmamıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bütün gün çalışmaktan canı çıktı.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kim bilir kaç fakirin canını yaktı.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yalnızlık onun canına tak etmişti.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sözümü dinle, canını sokakta mı buldun?",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Küçücük evde beş can yaşayıp gidiyordu.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "”Kırgızca, Kazakça, Özbekçe ve Azerbaycan Türkçesi Türkçenin ….. .”\nYukarıdaki cümlede yer alan boşluğa aşağıdakilerden hangisi gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "lehçesidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "özel dilidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "devlet dilidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "ağzıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "şivesidir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Okuma alışkanlığı, kişilerin okumayı öğrendikten sonra bu eylemi zevkle yapmalarını sağlamak için kazanmaları gereken önemli bir beceridir. Erken dönemde okuma alışkanlığı kazanan çocukların kelime hazinesi ve düşünme yeteneği artar buna bağlı olarak yaratıcı zekâ, dinleme ve konuşma yeteneği gelişir. Ebeveynler ve öğretmenler, çocuğun okuma alışkanlığını kazanmasında rehberdir. Ebeveynler çocuklara okuma alışkanlığını kazandırmada model olmalı, okuma zamanları yaratılmalı, kitaplar ve yazarları hakkında konuşulmalı, kitap seçiminde yönlendirme yapmalıdır.\nBu parçada aşağıdaki sorulardan hangisinin cevabı yoktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okuma alışkanlığı geliştirmede kimler kılavuzluk görevi üstlenir?",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Erken çocuklukta okuma alışkanlığı edinmenin ne gibi faydaları vardır?",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ebeveynler, çocuklarına okuma alışkanlığı kazandırmak için neler yapmalıdır?",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okuma alışkanlığı geliştirmede okulun yürüttüğü faaliyetler hangileridir?",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okuma alışkanlığı nasıl tanımlanabilir?",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "İletişimin etkili bir şekilde gerçekleşebilmesi için kaynağın yerine getirmesi gereken birtakım sorumluluklar vardır.\nYukarıdaki bilgiye göre aşağıdakilerden hangisi bu sorumluluklardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Geri bildirimleri doğru anlamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geri bildirimleri değerlendirmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Alıcıya uygun, açık ve anlaşılır mesajlar oluşturmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mesajı en iyi ve etkili olacak yolla (kanalla) alıcıya ulaştırmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geri bildirimleri dönütsüz bırakmak",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "lk sözlüğümüz olan Dîvânü Lugati’t Türk Türkçenin hangi dönemine aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karahanlı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çağatay",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Köktürk",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Uygur",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kıpçak",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "I. Demografik etkenler; doğal felaketler\nII. Savaş ve soykırımlar\nIII. Bireysel etkenler\nIV. Kültürel, ekonomik ve politik baskınlık\nV. Tarihî kaynaklar\nYukarıdaki faktörlerden hangisi ya da hangileri dillerin tehlikeye düşmesinde etkili değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I, II ve IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "III ve V",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve IV",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "cae31d546735a8b87ac1402052b2f910cac222c0ca0d8ffea18496993399856d"
+}

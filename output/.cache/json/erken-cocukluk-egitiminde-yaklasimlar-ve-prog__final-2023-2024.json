@@ -1,0 +1,739 @@
+{
+  "course": "Erken Çocukluk Eğitiminde Yaklaşımlar Ve Prog.",
+  "course_slug": "erken-cocukluk-egitiminde-yaklasimlar-ve-prog",
+  "exam": "2023-2024 Final Soruları",
+  "exam_slug": "final-2023-2024",
+  "page_title": "Erken Çocukluk Eğitiminde Yaklaşımlar ve Programlar 2023-2024 Final Soruları",
+  "source_url": "https://lolonolo.com/2024/07/06/erken-cocukluk-egitiminde-yaklasimlar-ve-programlar-2023-2024-final-sorulari/",
+  "scraped_at": "2026-11-12T11:34:16+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "I. Reggio Emilia II. High Scope III. Piramit IV. Head Start Yukarıdaki programlardan hangileri amaçları bakımından benzerdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Piramit’in dört köşe taşına ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğretmenin inisiyatifi ile öğretmenler yeri geldiğinde çocukların gelişimlerini desteklemek için etkinlikleri başlatabilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Psikolojik uzaklık kapsamında somuttan soyuta doğru bir uzaklaşma da gerçekleşmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun inisiyatifi ile çocuğun etkin bir katılımcı olması gerektiği vurgulanmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Piramit’in dört köşe taşı temeli Mesafe Teorisine dayanan pedagojik bileşen ile temeli Bağlanma Teorisine dayanan eğitimsel bileşenin bir araya gelmesi ile oluşmuştur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Piramit Metodu’nda öğretmen ile çocuk arasındaki ilişkide bir denge durumu bulunmaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Portage projesinde evde öğretim modelinin benimsenmesinde aşağıdakilerden hangisi en çok etkili olmuştur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ailelerin dahil olduğu programların daha başarılı olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Özel gereksinimli çocuklar için en uygun öğretimin evde gerçekleştirilebilir olması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Federal fon kaynaklarının aile katılımına yer veren programları destekleyeceğini belirtmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların birden fazla özel gereksinimlerinin olabilmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Projenin yapıldığı bölgenin coğrafi olarak oldukça büyük olması nedeni ile çocukları tek bir sınıfta toplamanın mümkün olmaması",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Montessori metodunda okul öncesi dönemde çocukların okuma­yazma öğrenmesine fırsat sağlanması, programın hangi özelliği ile açıklanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireyselleşmeye önem vermesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Eklektik olması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Akademik gelişime odaklanması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kültürel çeşitliliğe saygılı olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Holistik olması",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki uygulamalardan hangisi Orman Okulu Yaklaşımının ilkeleriyle örtüşmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların bütüncül gelişimine odaklanmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların risk almasına yardımcı olmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mera, koy, çayır ve kır gibi doğal mekanları öğrenme ortamı olarak kullanmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Orman tehlikeli olabileceğinden öğretmen-merkezli uygulamalara odaklanmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aynı doğal mekana düzenli ziyaretler yapmak",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "I. Göç hareketlerinin o yıllarda artması II. Göçmen nüfusun çoğunlukla yoksul olması III. İnsan haklarına ilişkin yasalar IV. Dönemin başkanının yoksullukla mücadele savaşı başlatması Head Start programının başlamasına neden olan olaylar hangileridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve IV",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dokümantasyonun amaçlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların nasıl düşündüklerini açığa çıkarmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların performansını karşılaştırarak geride kalanlara destek olmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aileler ve toplumla iletişim kanalı oluşturmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğrenilenleri görünür hale getirmek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Projelerin gidişatını takip etmek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Reggio Emilia yaklaşımında çocukların araştırma serüvenini görünür kılacak faaliyet(ler)e ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Portfolyo",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğrenme daveti",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yüz dille konuşma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dokümantasyon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Progettizone",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Proje yaklaşımı ile Reggio Emilia yaklaşımını karşılaştıran birinin aşağıdakilerden hangisinin söylemesi yanlış olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Her ikisi de John Dewey’in fikirlerinden etkilenmiştir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Her ikisi de çocuğun güçlü yönlerine odaklanır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Her ikisi de araştırmayı tetikleyici öğrenme davetlerinden yararlanır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Her ikisi de projeleri üç aşamada tamamlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Her ikisi de çocukların araştırma yapma becerilerine güvenir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Reggio Emilia yaklaşımını kendi sınıfına uyarladığını anlatan bir öğretmenin aşağıdakilerden hangisini söylemesi uygun olmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınıfımdaki çocukları dikkatle gözlemliyorum.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklarla sürekli iletişimde kalmaya dikkat ediyorum.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Her ne olursa olsun planımı değiştirmemeye özen gösteriyorum.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların öğrenme ve gelişim süreçlerini takip ediyorum.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukları çevrede araştırma yapmaya teşvik ediyorum.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Piramit Metodu’nda yer alan yakınlık ve uzaklık soruları aşağıdaki teorilerden/kuramlardan hangisinin yansıması sonucunda oluşturulmuştur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mesafe Teorisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Duygusal Zekâ Kuramı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bağlanma Kuramı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çoklu Zekâ Kuramı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dinamik Sistemler Teorisi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "I. Geniş bir konu veya kavram etrafında birbirinden bağımsız akademik etkinlikler gerçekleştirilir. II. Konularla ilgili önceden hazırlanmış ders planlarına bağlı kalarak müfredat tamamlanır. III. Çocukların ilgi duyduğu konular üzerine derinlemesine araştırma yapılır. Yukarıda verilen ifadeler sırasıyla hangi kavramlar ile ilişkilendirilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I. Ünite, II. tema, III. proje",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I. Tema, II. ünite, III. proje",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I. Proje, II. tema, III. ünite",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I. Proje, II. ünite, III. tema",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I. Ünite, II. proje, III. tema",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Reggio Emilia okullarının yönetimiyle ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ailelerin okul yönetiminde söz hakkı bulunmaz.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tüm paydaşların aktif katılım gösterdiği demokratik bir yönetim söz konusudur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğretmenlerin verdiği tüm kararlar pedagojik danışmaların onayına sunulur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okullar, Reggio Emilia müdürleri tarafından yönetilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okullarla ilgili son kararı belediyeler verir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Sices (2007)’in belirttiğine göre erken müdahale uygulamalarının hangi özel gereksinim türüne sahip olan çocuklar üzerinde en etkili olduğu tespit edilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Otizm spektrum bozukluğu olan çocuklarda",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Görme yetersizliği bulunan çocuklarda",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dikkat eksikliği ve hiperaktivite bozukluğu olan çocuklarda",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ağır düzeyde zihinsel yetersizliği bulunan çocuklarda",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gelişim geriliği ve akademik başarısızlık riski yüksek olan çocuklarda",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel açıdan uygun program, Amerika’da eğitim alanında yaşanan bazı olumsuzluklar neticesinde doğmuştur. Aşağıdakilerden hangisi bu olumsuzluklar arasında gösterilemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitim uygulamalarında acelecilik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Müfredatların akademik odaklı, kısıtlı ve dar çerçevesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim seviyesi üstünde yapılan ölçme ve değerlendirme faaliyetleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Rekabetçi eğitim anlayışı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Düşük gelirli ailelerin temel eğitim masraflarını karşılayamaması",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Waldorf Yaklaşımına göre okul öncesi dönemde kullanılacak oyuncakların özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel yapım olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sade olması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hayali oyunlara izin vermesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Açık-uçlu olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaratıcılığı desteklemesi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Yaratıcı Müfredat, beyin araştırmalarından elde edilen bulguları sınıf ortamına yansıtmaktadır. Aşağıdakilerden hangisi, yaratıcı müfredatın temel aldığı bu bulgulardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beyindeki bağlantıların kalıcı olması için, pek çok defa kullanılmaları gerekir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dengeli beslenme, yeterli uyku ve egzersiz beyin gelişimini destekler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların beyni okul öncesi dönemde üst-bilişsel faaliyetlerde bulunmaya hazırdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnsan beyni öğrenme ve deneyimle gelişir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Stres beyin hücrelerine zarar verir ve öğrenmeyi zorlaştırır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Orman okulu yaklaşımının uygulandığı okullarda sıradan bir günde aşağıdakilerden hangisinin gerçekleşmesi daha az olasıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ormandaki değişimler hakkında konuşmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ormanda oyun oynamak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ormanda yürüyüş yapmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ormanda araştırma ve keşif yapmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ormanda sanat çalışmaları yapmak",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ön yargı karşıtı eğitim programının vizyonu kapsamında değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tüm aileler ve çocuklar güvenli, sağlıklı, huzurlu evlerde yaşamayı hak ederler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Her bir çocuk kendi ailesinin kültürel acılarını beraberinde getirmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eğitim sürecine programın ve okulun tüm paydaşları dâhil edilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tüm aileler çocuklarını yetiştirebilecekleri kaynaklara sahiptir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tüm aileler ve çocuklar aidiyet hissine sahiptir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Sınıfındaki çocuklara Tübitak Yayınlarından “Down Sendromlu Bir Arkadaşım Var” isimli kitabı okuyan bir öğretmen aşağıdaki ön yargı alanlarından hangisine yönelik bir etkinlik yapıyor olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fiziksel özellikler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Cinsiyet",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Irk",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aile yapısı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "b3693124e9ab4730149fe384d1fb62357a8436e6a2d1d824dff58d323f32786a"
+}

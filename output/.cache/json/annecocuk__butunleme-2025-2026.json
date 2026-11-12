@@ -1,0 +1,919 @@
+{
+  "course": "Anne Çocuk Beslenmesi",
+  "course_slug": "annecocuk",
+  "exam": "2025-2026 Bütünleme Soruları",
+  "exam_slug": "butunleme-2025-2026",
+  "page_title": "Anne Çocuk Beslenmesi 2025-2026 Bütünleme Soruları",
+  "source_url": "https://lolonolo.com/2026/07/20/anne-cocuk-beslenmesi-2025-2026-butunleme-sorulari/",
+  "scraped_at": "2026-11-12T11:33:33+03:00",
+  "answer_source": "markup",
+  "question_count": 25,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Menü planlamasıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yeterli ve dengeli beslenme için menüde haftada 2 kez balık planlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Her gruptan en az bir tane, birbirine tat, renk ve görünüm uyumu gözetilerek menü planlanır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yeterli ve dengeli beslenmede temel ilke her öğünde dört temel yiyecek grubundan da bulunmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yeterli ve dengeli beslenme için menüde haftada 3 kez meyve planlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Menü planında 1. 2. ve 3. kap olmak üzere öncelikle yemekler gruplandırılır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Proteinlerde; sıcaklık, pH değerinin değişmesi, ışınlama, konsantre tuz çözeltisi gibi faktörlerin etkisiyle peptid zincirlerinin çözülmesiyle meydana gelen olaya verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Denatürasyon",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çözünme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Koagülasyon",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dehidratasyon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Maillard tepkimesi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Gebelikte yetersiz alındığında bebekte ‘nöral tüp defekti’ (Spina bifida) gibi doğumsal omurilik anomalilerinin görülme riskini artıran ve bu sebeple gebelik öncesinde takviyesine başlanması önerilen vitamin aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "C Vitamini (Askorbik asit)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "E Vitamini (Tokoferol)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "B9 Vitamini (Folik asit)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "B12 Vitamini (Kobalamin)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "A Vitamini (Retinol)",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinin düşük seviyede olması preeklempsi riski ile ilişkilendirilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bor",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "B5 vitamini",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "D vitamini",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Selenyum",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kükürt",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi insülin direncini azaltarak ve insülinin hücreler tarafından daha etkili kullanılmasını sağlayarak kan şekerinin kontrolüne yardımcı olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Magnezyum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Krom",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Demir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kobalt",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Manganez",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kolesterolden sentezlenmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Arjinin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "D vitamini",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "HDL, LDL ve VLDL kolesterol",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Steroid hormonları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Safra asitler",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yağ asitlerinin fiziksel, kimyasal ve beslenme özelliklerini belirleyen faktörlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karbon atomları arasındaki çift bağ varlığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Karbon atomu sayısı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Nitrojen atomu sayısı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doymuşluk derecesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Karbon atomlarına bağlı hidrojenlerin pozisyonu",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi menü planlamada porsiyon kontrolünün önemini ifade etmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Besin çeşitliliğini artırmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sağlıklı beslenme alışkanlıklarını desteklemek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnsanların yeterli ve dengeli beslenmesini sağlamak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yemek israfını önlemek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Maliyetleri kontrol altında tutmak",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinin nişasta oranı diğerlerine göre daha yüksektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ekmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kefir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Elma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Lahana",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Balık eti",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi doğrudan kalsiyum eksikliğinde oluşmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sinir sistemi rahatsızlıkları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kas sistemi rahatsızlıkları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Osteomalazi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kemik hastalıkları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tiroid hormonlarında azalma",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi iyi D vitamini kaynağı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Güneş ışığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bitkisel kaynaklar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yağlı balıklar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hayvansal kaynaklar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yumurta sarısı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki besin gruplarından hangisi demir (Fe) mineralinin en zengin ve biyolojik olarak emilimi (biyoyararlanımı) en yüksek kaynağıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Süt ve süt ürünleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Turunçgiller",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kırmızı et ve karaciğer",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yeşil yapraklı sebzeler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tam tahıllar",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Karbonhidratların sindirimi hangi organımızda başlamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ince bağırsak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Karaciğer",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mide",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kalın bağırsak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ağız",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi mikroorganizmaların çoğalmasına neden olmamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "pH 10",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yetersiz tuzlama ve kürleme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Donmuş besinleri uygunsuz çözdürme koşulları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yemek servisinın düşük ısısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yüksek su içeriği",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kontaminasyona neden olmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Infekte besinlerin tüketilmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Zehirli kimyasal maddeler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Besin ile temas halindeki bireylerin enfeksiyon hastalık geçirmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hijyen ve sanitasyon kurallarına uygunluk",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kuru depolama uygulamalarında yetersizlikler",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi protein kaybeden entropatinin nedenlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bazı paraziter hastalıklar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İnek sütü proteini alerjisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bal alerjisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Alerjik gastroenteritler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kistik fibrozis",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Bebeklere katı besinlerin tanıtımı için önerilen yaklaşım aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tahıllarla ve hububatlarla başlanır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çeşitlilik için birden fazla besin karıştırılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ilk olarak püre hâline getirilmiş etler kullanılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Her seferde bir yeni besin tanıtılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Meyve ve sebzelerle başlanır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Gebelik dönemi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "A vitamini yağda çözünen bir vitamin olduğu için gebelerde fazla alınmasının bir sakıncası yoktur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gebe kadının tüm trimesterlerde enerji gereksinmesi, gebe olmayan kadının önerilen enerji gereksinmesinden fazladır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gebelik döneminde ortaya çıkması muhtemel olan preeklempsi gebenin beslenmesi ile ilişkili değildir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gebe kalmadan önce kadınlara kanda vitamin ve mineral durumuna bakılması gerekmez.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gebelik döneminde kan değerlerine bakılarak hangi vitamin ve mineral takviyelerinin alınacağına karar verilmelidir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Süt ve süt ürünleri tüketimi ile ilgili aşağıdaki önerilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ambalajlı ürün veya ürünler besin etiketi okunarak tuketilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İçerdiği mineral ve vitaminler sebebiyle süt, yoğurt, peynir ve türevleri günde en az 6 porsiyon tüketilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Süt ürünleri kalsiyum açısından zengindir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yağ sınırlandırması yapılması gereken yetişkinler yarım yağlı ya da az yağlı süt ve süt ürünü tüketmelidirler.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "B2 vitaminince kayıp olmaması için, yoğurt suyu süzülüp atılmamalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Bir okul öncesi eğitim kurumunda öğle yemeği planlanırken, aynı öğünde (menüde) ‘mercimek çorbası, kuru fasulye ve pirinç pilavı’ verilmesi, menü planlama ilkelerinden hangisine aykırıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bütçe uygunluğu ilkesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Renk uyumu ilkesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dört yapraklı yonca (besin çeşitliliği) ilkesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mevsimsel uygunluk ilkesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Porsiyon kontrolü ilkesi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "‘Meyve şekeri’ diye adlandırılan karbonhidrat aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sakkaroz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Glikoz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sukroz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Laktoz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Fruktoz",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Katı gıdalara geçiş (tamamlayıcı beslenme) sürecindeki 8 aylık bir bebeğe ‘inek sütü’ ve ‘bal’ verilmesinin temel sakıncaları sırasıyla aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Laktoz intoleransı - Yüksek kalori içeriği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kansızlık riski - Botulizm (gıda zehirlenmesi) riski",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Diş çürükleri - Alerji yapma riski",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kabızlık - Kolesterol yüksekliği",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kalsiyum fazlalığı - Yetersiz vitamin içeriği",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi vitaminlerin hepsinin yapısında bulunan elementlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nitrojen",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fosfor",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karbon",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oksijen",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hidrojen",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 24,
+      "type": "multiple_choice_text",
+      "stem": "Anne sütünde inek sütüne oranla daha fazla bulunan ve bebeğin merkezi sinir sistemi ile beyin gelişimi için büyük önem taşıyan amino asit aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Lizin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Taurin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Metiyonin",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Arjinin",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Triptofan",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 25,
+      "type": "multiple_choice_text",
+      "stem": "Lif (posa) ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nişasta olmayan polisakkarittirler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Vücut tarafından emilemezler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Meyve, sebze, tam tahıllı kahvaltılık gevrekler ve tahıllar posa açısından zengindirler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Lifler, vücutta doğrudan enerji kaynağı olarak kullanılırlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "En önemli pozitif etkilerinden biri konstipasyonu önlemeleridir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "888164e6eb8b2e5d1250b013bf9022187651f6a614a94759afdbde4ac0ca85f7"
+}

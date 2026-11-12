@@ -79,5 +79,6 @@ export function combineExams(
     assets: [...new Set(sources.flatMap((source) => source.assets))].sort(),
     scope,
     sourceExamIds: sources.map((source) => source.examId),
+    sourceExams: sources.map((source) => source.exam),
   };
 }

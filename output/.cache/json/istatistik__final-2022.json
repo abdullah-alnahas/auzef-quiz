@@ -1,0 +1,379 @@
+{
+  "course": "İstatistik",
+  "course_slug": "istatistik",
+  "exam": "2022 Final Soruları",
+  "exam_slug": "final-2022",
+  "page_title": "İstatistik 2022 Final Soruları",
+  "source_url": "https://lolonolo.com/2022/07/03/istatistik-2022-final-sorular/",
+  "scraped_at": "2026-11-12T11:33:30+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Varyansı 64 olan bir serinin standart sapması aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "18",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "81",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Hilesiz bir zar atıldığında üste gelen yüzün tek sayı olması olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3/4",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2/6",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1/6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "1 /2",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1/4",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki değişkenlerden hangisi kesikli bir değişkendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Üretilen konservelerin ağırlıkları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Üretilen margarinlerin ağırlıkları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir atölyede dikilen gömleklerdeki kusur sayısı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Üretilen kumaşların rulo uzunluğu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Üretilen deterjan kutularının ağırlığı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "İki para birlikte atıldığında en az bir paranın tura gelmesi olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1/8",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3 /4",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1,00",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2/4",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1 /4",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Bir olasılık dağılımından söz edebilmek için tüm mümkün sonuçlara yönelik olasılık değerlerinin toplamının …… olması gerekir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "sıfır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "yüz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "birden büyük",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "birden küçük",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Bir istatistik araştırmasını yapabilmek için ihtiyaç duyulan verinin toplama işlemine ne ad verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Şık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Veri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Birim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Rölöve (derleme)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Vasıf",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Bir tesadüfi değişkenin alabileceği tüm değerler, bu değerlerin gerçekleşme olasılıkları ile birlikte ele  alındığında ya da olasılıkların tüm birimlere nasıl dağıldığını gösterilerek …….. yaratılmış olur.  Boş bırakılan yere ne gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "olasılık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "objektif olasılık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "subjektif olasılık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "koşullu olasılık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "olasılık dağılımı",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Gözlem değerleri (3,4,5,6,7,8,8,9,9,9,10 ) olan ve 11 gözlemden oluşan serinin medyanı kaçtır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "8",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "9,5",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "7,25",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Bir gözlem değerinin, içinde bulunduğu dağılımın aritmetik ortalamasına eşit olması durumunda  standart değer aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sıfırdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Negatif bir değerdir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Birdir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ortalama değeridir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Pozitif bir değerdir",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Normal olasılık dağılımını gösteren eğrinin altında kalan toplam alan, toplam olasılığı ifade eder  ve daima….. dir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değişmekte",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,5",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0,75",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "-0,5",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "73cc98157e8802e5c374b40fca4f8be117c3cfd93e587eb046fc79813aa1eaa2"
+}

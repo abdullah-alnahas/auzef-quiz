@@ -3,7 +3,7 @@ course: İLKOKULA HAZIRLIK
 exam: Final Soruları
 source_url: https://lolonolo.com/2021/11/26/ilkokula-hazirlik-final-sorulari/
 question_count: 34
-scraped_at: 2026-11-12T02:21:18+03:00
+scraped_at: 2026-11-12T11:32:36+03:00
 ---
 
 ### Q1

@@ -1,0 +1,1319 @@
+{
+  "course": "Anne Çocuk Sağlığı",
+  "course_slug": "anne-cocuk-sagligi",
+  "exam": "2021 Final Soruları",
+  "exam_slug": "final-2021",
+  "page_title": "Anne Çocuk Sağlığı 2021 Final",
+  "source_url": "https://lolonolo.com/2021/02/28/anne-cocuk-sagligi-2021-final/",
+  "scraped_at": "2026-11-12T11:33:50+03:00",
+  "answer_source": "inline",
+  "question_count": 37,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Birkaç dakika süren, genellikle 5′ ten az olan ve ardından postiktal dönem adı verilen uyuşukluk döneminin sürdüğü kontrol edilemeyen kas sarsıntısı ile görülen nöbetler nasıl adlandırılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konvülsif nöbetler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ateşli nöbetler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Febril nöbetler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Konvülsif olmayan nöbetler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tonik nöbetler",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Bebek ve çocuklarda hastalıkların ortaya çıkmasında etkili olan faktörlerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bebek ve çocukların vücut kısımlarının küçük olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bebek ve çocukların küçük objeleri ağızlarına almaları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Küçük çocukların evde bakılmaları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Emeklemeleri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Küçük çocukların alt bezlerinin olması ve ağız sularının akması",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Kanamalar damarın cinsine ve yaranın büyüklüğüne bağlı olarak farklılık göstermektedir. Aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Atardamar kanı, taşıdığı oksijen fazlalığı sebebiyle parlak kırmızı renktedir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Toplardamar kanamalarında nabza uygun şekilde kan fışkırır tarzda akar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "En tehlikeli kanamalar toplardamar kanamalarıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Toplardamar kanamalarında kan fışkırır tarzdadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Atardamar kanamalarında kan sızıntı şeklindedir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Bir çocuğun sağlıklı büyüme ve gelişmesi için doğumdan itibaren gereksinimleri ölçüsünde büyüme ve gelişiminin değerlendirilmesi, sağlık izleminin ve taramalarının yapılması önemlidir. Bu doğrultuda aşağıdakilerden hangisi Çocuk Sağlığı izlemi ilkelerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Erken tanı ve tedavi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların kayıtlanması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bakımın sürekliliğinin sağlanması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hastalıkların önlenmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aile eğitimi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Doğum sonrası dönemde anne de birtakım değişiklikler ortaya çıkmaktadır. Bu süreç için aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Lohusalık dönemi bitiminde adet kanaması olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Duygusal dalgalanmalar ve ağlama görülebilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Doğum sonrası adet kanamasına benzer bir kanama görülür",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Rahim doğumdan sonra büyüktür ve karın üzerinde ele gelir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Doğum sonrası kanamanın rengi zamanla değişim göstermektedir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Yeni doğanlarda çoğunlukla kusma nedeni aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gastroözofageal reflü",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Renal agri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Pilor stenozu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doğumsal mide-bağırsak tıkanıklığı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Renal kolik",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Hayat kurtarmak amacı ile hava yolu açıklığı sağlandıktan sonra solunumu durmuş ve hiçbir yaşam belirtisi görülmeyen kişiye, yapay solunum ile akciğerine oksijen gitmesini; dış kalp masaj ile de kalpten kan pompalanmasını sağlamak üzere yapılan ilaçsız müdahaleye ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Acil yardım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Temel yaşam desteği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Jaw thrust",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Baş çene manevrası",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İlkyardım",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Zehirlenme durumlarında hangi numaradan zehir hakkında bilgi alınabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "118",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "110",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "112",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "114",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "911",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Sürekli kas kasılması ve sertliği ile sonuçlanan nöbetlere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Febril nöbetler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Konvülsif olmayan nöbetler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Konvülsif nöbetler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ateşli nöbetler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tonik nöbetler",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Sağlam çocuk izlemi için aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6 yaştan sonra yılda bir izlem yapılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "7-10. Günlerde taburculuk izlemi gerçekleştirilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Doğumundan sonra ilk 24 saat içinde yapılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "ilk 6 ay içinde her ay sağlam çocuk izlemi yapılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "6 ay ile 2 yaş arası üç ayda bir izlem yapılmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Kaza, önceden planlanmamış, beklenmeyen, ani olarak ortaya çıkan ve yaralanma, hasar ile sonuçlanabilen, önlenebilen bir olaydır. Kazalarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaza sonucu yaralanmalar dünya genelinde ölüm, hastaneye yatma ve sakatlığın önde gelen nedenlerinden biridir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukluk çağı yaralanmaları büyük ölçüde önlenebilir olmakla birlikte, önemli bir halk sağlığı sorunu olmaya devam etmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kaza sonucu gerçekleşen ölümler diğer nedenlerle oluşanlardan dört kat daha fazladır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kazalar, çocukluk çağındaki ölüm nedenleri arasında ilk sıralarda yer almaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklar aşırı hareketli ve dikkatsiz oldukları için kazaların önlenmesi mümkün değildir",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Kazalarla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Acil durumlarda yaşam kurtarma zincirinin” ilk halkası da çocuklara ilk yardım öğretmektir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukluk çağı kazalar, dikkat gerektiren önemli bir halk sağlığı problemidir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaralanmaya bağlı kazaların çoğunlukla düşmelerden kaynaklanmaktadır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Planlı bir şekilde çocuğun yaşadığı ev ve okul ortamında alınan güvenlik önlemleri kaza oranlarını önemli ölçüde azaltmaktadır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaralanmalar 19 yaş ve altı çocuklarda en önemli ölüm nedenidir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Donma ve soğuk ağrısı durumlarında aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Donan bölge ovulmamalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Avuç içlerinizle çocuğun kulaklarını ya da burnunu ısıtın.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Donan bölge öncelikle buzla ovulmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Koltuk altınıza alarak çocuğun kol, bacak, el, ayak ya da parmaklarını ısıtın.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eğer çok daha derin bir donma varsa yaklaşık 40C lik bir suyun içine etkilenen uzvu 20 dk koyun.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Olay yerinin değerlendirilmesinde yapması gerekenlerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta/yaralının olay yerinden uzaklaştırılması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Meraklı kişileri olay yerinden uzaklaştırılması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hasta/yaralıyı sıcak tutmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Olası patlama ve yangınları önlemek amacıyla sigara içilmemesini sağlamak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hasta/yaralının yarasını görmesine izin vermemek",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Düşmelerden korunmada aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların yaşam alanlarındaki pencerelerde korumalar olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yüzey malzemelerinin derinlikleri önemli değildir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Oyun alanlarının zeminleri darbe emici malzeme ile kaplanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Düşme riski olan spor ve oyun etkinliklerinde koruyucu giysiler kullanılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Oyun alanlarının yüzey bakımı düzenli yapılmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Göz yaralanmalarında uygulamalarla ilgili yanlış olan ifade aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eper göze bir kimyasal sıçradıysa gözü göz kapağını kaldırarak ılık suyla yıkayın.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Göz yaralanmalarında göze basınç uygulanmamalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gözü ovuşturarak iyice temizleyin",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Eğer lens kullanıyorsa lensi çıkarıp gözü ılık suyla en az 15 dk yıkayın.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Göz hareketlerini azaltmak için gözü bir şekilde bandajla kapatın.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Sağlıklı davranışlar, ilaçların doğru kullanımı, sağlık hizmetlerinden nasıl yararlanacağını bilmek,\naydınlatılmış onam formlarını anlamak ve imzalamak, öz bakım ve hastalık yönetimi hakkında\nkararlar verebilmek, evdeki tıbbi cihazları doğru kullanabilmek, bakım veren rolünü üstelenebilmek\ngibi sağlık bilgilerini kavrama ve değerlendirme yetisi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sağlığı geliştirme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sağlık eğitimi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sağlık planlaması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Saglığı koruma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sağlık okuryazarlığı",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konakçının hastalığa yatkınlığı o hastalığın oluşmasında etkili değildir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bulaşma yollarıyla mücadele hastalıkların önlenmesinde önemlidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hastalık kaynağının nerede olduğu ve etkileşiminin bilinmesi hastalıkların önlenmesinde önemlidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklar, özellikle yaşamın ilk beş yılında aşılanmaları henüz tamamlanmadığı için daha fazla enfeksiyon riskine sahiptirler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Konakçının duyarlılığı o hastalığın oluşmasında önemli faktörlerdir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Doğumdan itibaren ilk 28 günü tamamlamamış bebeklere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yenidoğan",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Immatür",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sürmatür",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Postmatür",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Prematüre",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Çocuklar birçok nedenden dolayı hastalıklara karşı daha hassastır. Çocukların duyarlılığının artmasının temel nedeni aşağıdakilerden hangisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Immünolojik savunmalarının henüz oluşmamış olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ev ortamı çocukların hastalıklara duyarlılığı arttırır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların hastalıklara sınırlı maruz kalmaları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çevre hastalıkların oluşmasında rol oynar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bağışıklıklarının henüz tam olmaması",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "Ateş değerlendirilirken koltuk altı ölçümüne göre; 37.2-38.4C arasında olan ateş nasıl adlandırılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hiperpireksi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hafif ateş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Subfebril ateş",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Orta ates",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yüksek ateş",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "Herhangi bir kaza ya da yaşam tehlikeye düşüren bir durumda, sağlık görevlileri tarafından tıbbi yardım sağlanıncaya kadar, hayatın kurtarılması ya da durumun daha kötüye gitmesini önleyebilmek amacıyla olay yerinde, tıbbi araç gereç aranmaksızın mevcut araç ve gereçlerle yapılan ilaçsız uygulamalara ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yerinde yardım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Acil yardım",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Koruyucu yardım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İlkyardım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hızır yardım",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "Kaza ve yaralanmalarla ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kazalar bir yaşından küçük bebeklere göre 1-2 yaşta daha fazla meydana gelir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukluk çağı yaralanmalarının büyük bir kısmı (örneğin, boğulma, yanma, düşme) evin içinde veya çevresinde meydana gelir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Okul öncesi dönem çocuklar en çok yanma ve düşme sonucu yaralanırlar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Altı yaşın altındaki çocuklarda ev kazaları daha fazla görülür",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kaza ve yaralanmalar en az 1-5 yaş arasında gerçekleşir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "Herhangi bir ısıya maruz kalma sonucu ortaya çıkan ısı dengesi bozukluklar için aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Donuk bölge asla ovulmamalıdır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Soğuk nedeniyle oluşmuş su toplamış bölgeler patlatılarak, üstü örtülür.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yanıklar özellikle dış mekanlarda yeterince güvenlik önlemlerinin alınmaması, dikkatsizlik ve bebek ya da çocukların denetimsiz bırakılması sonucu olabilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Isının fazla miktarda olması ile yanıklar görülürken soğuğa maruz kalma donma ile sonuçlanır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Soğuğa maruz kalan kişiye kuru giysiler giydirilir ve bilinci açık ise sıcak, şekerli içecekler verilir",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "Kişilere sağlıklı yaşam için alınması gereken önlemleri benimsetmeye ve uygulamaya inandırmak; kendilerine sunulan sağlık hizmetlerini doğru olarak kullanmaya alıştırmak sağlık durumların ve çevrelerini iyileştirmek amacıyla, birey olarak ya da topluca karar aldırmak aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sağlığı koruma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Güvenli yaşam",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sağlığı geliştirme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sağlık eğitimi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sağlık okuryazarlığı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "Hasta/yaralının değerlendirilmesinin amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ilkyardım önceliklerinin belirlenmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tedavinin belirlenmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yapılacak ilkyardım yönteminin belirlenmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Güvenli bir müdahale sağlanması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hastalık ya da yaralanmanın ciddiyetinin değerlendirmesi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "Yanıklar ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk bakım alanlarında yanıklara rastlanmaz.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Küçük çocuklarda ateşle doğrudan temas sonucu yanıklar oluşmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Büyük çocuklarda haşlanma yanıklarına daha fazla rastlanır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bebekler ve küçük çocuklar için haşlanmalar sık görülen yaralanmalardan değildir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yanıklardan korunmada mutfakta tencereler ya da kaynayan sular ısıtıcıların arka bölümünde yer almalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "Olay yerinin değerlendirilmesinin amacı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta/yaralının tedavisini sağlamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Olay yerinde tekrar kaza olma riskinin ortadan kaldırılması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hasta/yaralıların sağlık kuruluşuna sevk edilmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaralanmanın ciddiyetini belirlemek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hava yolu açıklığını sağlamak",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "Virüsler, bakteriler, mantarlar ve parazitler gibi hastalığa neden olan mikroorganizmaların oluşturdukları hastalıklara ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Döküntülü hastalıklar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukluk hastalıkları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Enfeksiyon hastalıkları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bulaşıcı hastalıklar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ateşli hastalıklar",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "Zehirlenmeler çocukluk döneminde ölüm nedenleri arasında yer almaktadır. Zehirlenmelerden korunmada aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Renkli paketler çocukların ilgisini çekmemesi için özellikle deterjanlar için sadeleriyle değiştirilmelidir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Zehir kontrol merkezi telefon numarasını evde/okulda/bakım alanındaki her telefonun üzerine yerleştirilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kullanılmayan ilaçlar yerel geri alma programında yer alan yerlere teslim edilmelidir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İlaçlar ve zehirli ürünler kilitli dolaplarda saklanmalıdır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Temizlik solüsyonları ve deterjan kapsülleri orijinal ambalajlarında olmalıdır",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 31,
+      "type": "legacy_text",
+      "stem": "Damardan çıkan kanın, vücudun tabii boşluklarına veya içi boş organlardan birine akmasına ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İç kanama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dış kanama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Toplardamar kanaması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kılcal damar kanaması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Atardamar kanaması",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 32,
+      "type": "legacy_text",
+      "stem": "Bireyin kendisinin dışındaki bireylerin sağlıkları için riskli olabilecek olan davranışları değiştirmeye yönelik yapısal, ekonomik ve kanunsal düzenlemeler hangi uygulamalarda yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sağlık planlaması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sağlık okuryazarlığı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sağlığı geliştirme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sağlığı koruma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sağlık eğitimi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 33,
+      "type": "legacy_text",
+      "stem": "Çocuk Yaralanmalarının Önlenmesi Dünya Raporuna göre, aşağıdakilerden hangisi yaralanma sonucu ölümlerin en başta gelen nedenlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Suda boğulmalar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Trafik kazaları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Donmalar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zehirlenmeler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yanıklar",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 34,
+      "type": "legacy_text",
+      "stem": "Solunumun özelliği ve dolaşım değerlendirilmesi için aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bebek ve çocuklarda 3 parmak ile 5 saniye şah damarından nabız kontrol edilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hava yolu açıklığı için baş geri çene yukarı pozisyonu vermek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yabancı cisim varsa işaret parmağınız ile çıkarın.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hasta/yaralının ağız içini kontrol edilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Solunum Bak-Dinle-Hisset yöntemiyle 10 sn. süreyle değerlendirilir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 35,
+      "type": "legacy_text",
+      "stem": "Isırıklar ve böcek sokmaları için aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Arı ve böcek sokmalarında sıcak uygulama yapılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Arı ve böcek sokmalarında soğuk uygulama yapılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yarayı su ve sabunla yıkayın.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zehirli olması durumda zehir kontrol merkezi aranmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Isıran hayvanın yakalanıp gözlem altında tutulması sağlanmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 36,
+      "type": "legacy_text",
+      "stem": "Kırıklar ……… yaşta daha fazla görülür.\nYukarıdaki boşluğa uygun olan seçenek aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3-5",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1-3",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "7-9",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "5-10",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "5-7",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 37,
+      "type": "legacy_text",
+      "stem": "Birey nefes alamaz, acı çeker, ellerini boynuna götürür, konuşamaz, algılayamaz, rengi morarmıştır. Bu hangi durumda karşılaşılan bir durumdur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tam tıkanma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Heimlich",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Astım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aspirasyon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kısmi tıkanma",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "omitted_questions": [
+    {
+      "n": 13,
+      "reason": "option_letters",
+      "stem": "Aşağıdakilerden hangisi okul öncesi dönemin çocuklarının yaralanmalarını artıran faktörlerden biri değildir?"
+    }
+  ],
+  "content_hash": "8340d50fc52f65c47bc91c0f4e5315676d852358911e77941252c6016e07ca06"
+}

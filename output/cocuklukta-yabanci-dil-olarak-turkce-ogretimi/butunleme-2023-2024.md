@@ -3,7 +3,7 @@ course: ÇOCUKLUKTA YABANCI DİL OLARAK TÜRKÇE ÖĞRETİMİ
 exam: 2023-2024 Bütünleme Soruları
 source_url: https://lolonolo.com/2024/09/02/cocuklukta-yabanci-dil-olarak-turkce-ogretimi-2023-2024-butunleme-sorulari/
 question_count: 20
-scraped_at: 2026-11-12T02:21:15+03:00
+scraped_at: 2026-11-12T11:32:30+03:00
 ---
 
 ### Q1

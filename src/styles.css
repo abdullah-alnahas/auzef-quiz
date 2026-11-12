@@ -915,3 +915,23 @@ td {
     animation: none !important;
   }
 }
+
+.combined-source,
+.combined-list {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.combined-source summary,
+.combined-list summary {
+  cursor: pointer;
+}
+
+.combined-source ul,
+.combined-list ul {
+  margin: 6px 0 0;
+  padding-inline-start: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}

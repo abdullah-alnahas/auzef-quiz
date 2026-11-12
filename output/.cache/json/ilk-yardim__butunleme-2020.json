@@ -1,0 +1,639 @@
+{
+  "course": "İlk Yardım",
+  "course_slug": "ilk-yardim",
+  "exam": "2020 Bütünleme Soruları",
+  "exam_slug": "butunleme-2020",
+  "page_title": "İlk Yardım 2020 Bütünleme Soruları",
+  "source_url": "https://lolonolo.com/2020/08/17/ilk-yardim-2020-butunleme-sorulari/",
+  "scraped_at": "2026-11-12T11:34:15+03:00",
+  "answer_source": "inline",
+  "question_count": 17,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi çocuklarda normal nabız sayısını gösterir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dakikada 100-120",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dakikada 90-130",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dakikada 110-130",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dakikada 80-130",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dakikada 70-130",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi delici karın yaralanmalarına bağlı bir sorun olamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karın tahta gibi sert ve çok ağrılı ise durum ciddidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bağırsaklar dışarı çıkabilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Saçlı deri sıyrılabilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İç ve dış kanama ve buna bağlı şok oluşabilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Karın bölgesindeki organlar zarar görebilir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Burun kanamalarında aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oturtulur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hasta ya da yaralı sakinleştirilir, endişeleri giderilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ayaklarının altı desteklenerek 30 cm yukarı kaldırılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Burun kanatları 5 dakika süre ile sıkılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Başı hafifçe öne eğilir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "İlk yardım ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Elde mevcut araç gereçlerle yapılan müdahalelerdir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tıbbi gereç olmaksızın yapılan müdahalelerdir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İlaçsız müdahalelerdir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tıbbi araç olmaksızın yapılan müdahalelerdir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Acil cerrahi müdahalelerdir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Donma vakalarında ilk yardım uygulamaları sırasında aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta ılık bir ortama alınır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kuru giysiler giydirilir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sıcak içecekler verilir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Donuk bölge eller arasında ovulur",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "El ve ayaklar yukarı kaldırılır",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Donma vakalarında ilk yardım uygulamaları sırasında aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sıcak içecekler verilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "El ve ayaklar yukarı kaldırılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kuru giysiler giydirilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ellerini yumruk yapmış ise açılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hasta ılık bir ortama alınır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi ilkyardım çantasında bulunması gereken malzemelerden olan plastik örtünün\nözelliklerinden biri değildir? DİKKAT 9 İLE AYNI SORU DEĞİL",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "yumuşak olmalıdır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bir yüzü ışığı yansıtıcı özellikte olmalıdır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "200-250 cm boyutlarında olmalıdır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "yaralının altına veya üstüne sermede kullanılır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "bir yüzü turuncu olmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi karbonmonoksit zehirlenmesi belirtilerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cilt ve tırnaklarda kısa süreli kiraz kırmızısı renk değişimi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bulantı-kusma, baş dönmesi, karıncalanma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Göğüs ağrısı, çarpıntı hissi, tansiyon düşüklüğü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ateş, vücut sıcaklığının yükselmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aşırı yorgunluk, huzursuzluk",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "İlk yardım kimlere uygulanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaza geçirenlere",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sara nöbeti geçirenlere",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kalp krizi geçirenlere",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaralılara",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Hasta ya da yaralıdaki yaşam bulguları denildiğinde aşağıdakilerden hangisi söz konusu edilmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vücut ısısı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kan basıncı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Boşaltım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dolaşım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Solunum",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "“Yaralıda hiçbir belirti yoksa bile bilinci kapalı tüm yaralılar kafa ve omurga yaralanması olarak var\nsayılmalıdır.” ifadesine göre aşağıdaki hangi durum bu değerlendirilmeye alınmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zehirlenmeler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tüm düşme vakaları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Köprücük kemiği yaralanmaları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Trafik kazaları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yüz yaralanmaları",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Araç içindeki yaralıyı taşıma ( Rentek ) yöntemi uygulaması ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta ya da yaralıya yan tarafından yaklaşılır ve bir elle kolu diğer elle de çenesi kavranarak boynu tespit edilir ( Hafif hareketle ) .",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hasta ya da yaralının solunum yapıp yapmadığı gözlemlenir ( göğüs hareketleri izlenir ) . Eğer solunum var ise",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hasta ya da yaralının omuzlarına hafifçe dokunarak ve “iyi misiniz?” diye sorarak bilinci kontrol edilir, çevrede birileri varsa 112’yi araması istenir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kaza ortamı değerlendirilir; patlama, yangın tehlikesi belirlenir, çevre ve ilk yardım yapanın kendi güvenliği sağlanır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Baş-boyun-gövde hizasını bozmadan araçtan dışarı çekilir. Soruyu Boş Bırak",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi hasta ya da yaralı taşıma yöntemlerinden biri olan sandalye ile taşıma yöntemi ile ilgili\nolarak yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta ya da yaralının bilincinin yerinde olmaması gerekir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bir kişi sandalyeyi arka taraftan, oturulacak kısma yakın bir yerden tutar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İki kişi tarafından uygulanır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Merdiven inip çıkarken çok kullanışlı bir yöntemdir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İkinci kişi sandalyenin ön bacaklarını aşağı kısmından kavrayarak taşırlar.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Hava yolunun tam olarak tıkanmasının belirtileri olarak aşağıdakilerden hangisi\ngörülmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "kişinin Nefes alamaz,",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "kişinin Acı çeker gibi ellerini boynuna götürür,",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "kişinin Konuşamaz,",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "kişinin Rengi morarmıştır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "kişinin burnu akar",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Bilinci kapalı bir hasta ya da yaralıya baş geri çene yukarı pozisyonu verilirken aşağıdakilerden hangisi\nyapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Alından bastırılıp çeneden kaldırılarak baş geriye doğru itilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Diğer elin iki parmağı çene kemiğinin altına yerleştirilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Alına bastırılan parmakla hasta ya da yaralının gözleri kapatılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çeneye bastırılan parmakla dil yerinden oynatılarak hava yolu açıklığı sağlanmış olur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir el alına yerleştirilir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Hasta ya da yaralı taşıma yöntemlerinden biri olan kollar ve bacaklardan tutarak taşıma yöntemi için\naşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Altı kişi tarafından uygulanır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İki kişi tarafından uygulanır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dört kişi tarafından uygulanır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Üç kişi tarafından uygulanır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir kişi tarafından uygulanır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kedi-köpek gibi hayvan ısırmalarında ilk yardım uygulamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hafif yaralanmalarda yara 5 dakika süreyle sabun ve soğuk suyla yıkanır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Soğuk uygulama yapılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ciddi yaralanma ve kanama varsa yaraya temiz bir bezle basınç uygulanarak kanama durdurulmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hasta ya da yaralı yaşamsal bulgular yönünden değerlendirilir ( ABC ) .",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaranın üstü temiz bir bezle kapatılır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "source_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    19
+  ],
+  "omitted_questions": [
+    {
+      "n": 4,
+      "reason": "option_letters",
+      "stem": "Aşağıdakilerden hangisi iç kanamalar için yanlış bir uygulamadır?"
+    }
+  ],
+  "content_hash": "d291b5b5a718867e106b3bc273f15cb17b8b8999b9dd5ffdeffb332544d97341"
+}

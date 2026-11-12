@@ -1,0 +1,739 @@
+{
+  "course": "Anne Çocuk Beslenmesi",
+  "course_slug": "annecocuk",
+  "exam": "2024-2025 Vize Soruları",
+  "exam_slug": "vize-2024-2025",
+  "page_title": "Anne Çocuk Beslenmesi 2024-2025 Vize Soruları",
+  "source_url": "https://lolonolo.com/2025/04/15/anne-cocuk-beslenmesi-2024-2025-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:33:33+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çölyak hastalığı belirtilerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karın şişliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mide bulantısı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Vitamin toksisitesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bağırsak villuslarında kısalma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çomak parmak",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hayvansal karbonhidrat kaynağıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Deniz yosunu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kurubaklagiller",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sofra şekeri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tahıllar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Peynir",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Isıtma sırasında bazı disakkarit türevlerinin kahverengi renge dönüşmesine verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karamelizasyon",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hidrojenizasyon",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Erime",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Rafinasyon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sanitasyon",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Proteinlerde; sıcaklık, pH değerinin değişmesi, ışınlama, konsantre tuz çözeltisi gibi faktörlerin etkisiyle peptid zincirlerinin çözülmesiyle meydana gelen olaya verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Maillard tepkimesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Denatürasyon",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dehidratasyon",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çözünme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Koagülasyon",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki yağ asitlerinden hangisi elzem yağ asidi ya da türevlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "α-linolenik asit (18:3, n-3)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Linoleik asit (18:2, n–6)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "EPA-DHA (20:5, n-3)-(22:6, n-3)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oleik asit (C18:1, n-9)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Araşidonik asit (20:4 n-6)",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Besinlerle alınan kolesterol karaciğere hangi yapı içinde gelir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Şilomikron",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hemoglobin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "VLDL kolesterol",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "LDL kolesterol",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "HDL kolesterol",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi düzenleyici proteinlere örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aktin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kazein",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hormonlar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Elastin",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kollojen",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Akçaağaç Şurubu İdrar Hastalığı hangi enzim eksikliği veya yetersizliği sonucu oluşmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ketoasit dehidrogenaz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Laktaz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fenilalanin hidroksilaz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Fumarilasetoasetik hidroksilaz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Peptidaz",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi protein kaybeden entropatinin nedenlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bal alerjisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Alerjik gastroenteritler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kistik fibrozis",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bazı paraziter hastalıklar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnek sütü proteini alerjisi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yağ emilim bozukluklarının belirtilerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gelişme geriliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "El ile ayaklarda kabarık döküntüler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yağlı, kötü kokulu dışkı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hipertansiyon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Uzun ve devam eden öksürükle nefes darlığı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Besinlerin veya dokuların yıkılıp en küçük ögelere ayrılması aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Solunum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Metabolizma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Boşaltım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Katabolizma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anabolizma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi proteinlerin yapı taşıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Glikoz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Peptit",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gliserol",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Trigliserit",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aminoasit",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Karbonhidratlı bir besin tükettikten bir süre sonra kan şekerini yükseltilebilirliği, hangi terim ile ifade edilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hiperglisemi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kortizol sekresyonu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kortizol inhibizyonu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnsülin sekresyonu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Glisemik indeks",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Karbonhidratlar ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Su ve elektrolitlerle ilişkili görevi bulunmaz.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bağırsak hareketlerini azaltır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gıdalarda tatlandırıcı, jel yapıcı fonksiyonları vardır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ağır işte çalışanların karbonhidrat gereksinimi yoktur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Proteinlerin enerji için kullanımını artırır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Bir çocuğun doğumu, evlilik veya doğum günleri gibi belirli durumlar, bayramlar ve lezzetler sunarak kutlanılır. Besinler, dinî bağlamda da özel önem ve anlama sahiptir.\n Bu durum besinlerin hangi işlevi ile ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fizyolojik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Psikolojik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ekonomik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anatomik",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “çay şekeri” olarak adlandırılan bir disakkarittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fruktoz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sakkaroz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Glikoz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Laktoz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Galaktoz",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Süt içemeyen ya da süt tüketmekten hoşlanmayanlar için aşağıdaki besinlerden hangisinin tüketilmesi önerilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sulandırılmış süt",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yağı alınmış süt",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Laktozsuz süt",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Laktozlu süt",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Şeker eklenmiş süt",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Kan şekerinin normalden düşük olmasına verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hipotansiyon",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hipoglisemi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hiperlipidemi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hipertansiyon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hiperglisemi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki yağ asitlerinden hangisinin kaynağı yanlış verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "EPA-DHA: balık yağı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "n-6 kaynağı: balık yağı, keten tohumu yağı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Oleik asit kaynağı: zeytinyağı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "n-3 kaynağı: balık yağı, keten tohumu yağı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "n-6 kaynağı: mısır yağı, soya fasulyesi yağı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Kolesterol türleri hakkında aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doymamış yağ asitleri tüketimi HDL kolesterolü azaltır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "HDL kolesterol kötü kolesterol olarak adlandırılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "LDL ve VLDL kolesterolün kalp sağlığını koruyucu etkisi vardır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "LDL kolesterol iyi kolesterol olarak adlandırılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "HDL kolesterol iyi kolesterol olarak adlandırılır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "99c3ec01bd23c12512b923a08c60b3f89e996ba5e0eff533ddf182d298d44ec8"
+}

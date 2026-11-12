@@ -1,0 +1,739 @@
+{
+  "course": "Özel Eğitime Giriş",
+  "course_slug": "ozel-egitime-giris",
+  "exam": "2025-2026 Vize Soruları",
+  "exam_slug": "vize-2025-2026",
+  "page_title": "Özel Eğitime Giriş 2025-2026 Vize Soruları",
+  "source_url": "https://lolonolo.com/2025/11/12/ozel-egitime-giris-2025-2026-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:33:42+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi özel eğitimin ilkelerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel eğitim özürlü ve ailesinin sosyal hakları ve mevcut kaynakların kullanılmasına yönelik kişisel ve grup çalışması yöntemiyle verilecek hizmetleri kapsar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Özel eğitim gerektiren bireyler için bireyselleştirilmiş eğitim planı geliştirilmesi ve eğitim programlarının bireyselleştirilerek uygulanması esastır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Özel eğitim gerektiren bireye verilecek olan hizmet yetersizliğe göre değil bireyin gereksinimlerine göre planlanması gerekmektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Özel eğitim gerektiren bireyin tipik gelişim gösteren akranlarıyla birlikte aynı kurumda eğitim-öğretim görme hakkı vardır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Özel eğitim özürlünün bağımsız yaşama, sosyal hayata uyumuna ve katılımına yönelik sosyal, kültürel, sanatsal ve sportif etkinlikler ve refakat hizmetlerini kapsar.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Bebeğin “ba-ba, de-de, ma-ma” gibi sesli ve sessiz harfleri bir araya getirerek farklı sesler oluşturması hangi evrede görülmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6. Evre, İlk Gramer Süreci (24-60 ay)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2. Evre, Agulama (2-6 ay)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1. Evre, Ağlama (0-2 ay)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3. Evre, Heceleme/Çağıldama (6-12 ay)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "4. Evre, Tek Sözcük Dönemi (12-18 ay)",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Otizm spektrum bozukluğu olan bireyler özellikle aşağıdaki hangi alanlarda çeşitli sınırlılıklar ve zorluklar yaşarlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dikkat ve bilişsel işlemlemede yetersizlikler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal etkileşim, sözel iletişim güçlükleri ve tekrarlayan davranışlar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel alanda yetersizlikler ve zorluklar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Görsel ve işitsel algıda yetersizlikler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Psiko-motor ve duyusal yetersizlikler",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Davranışsal müdahale zihinsel yetersizliği olan çocuklarda hangi amaçla kullanılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olumlu davranışları arttırmak için",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dil becerilerini geliştirmek için",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel beceriler kazandırmak için",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öz bakım becerileri kazandırmak için",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Günlük yaşam becerileri kazandırmak için",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Otizm spektrum bozukluğu ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Otizm sadece çevresel sorunlardan kaynaklı bir bozukluktur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Otizm sadece gelişimsel sorunlardan kaynaklanan bir bozukluktur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Otizm çevresel ve genetik sorunların neden olduğu nöro-gelişimsel bir bozukluktur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Otizm'in tek bir sebebi vardır o da genetik olmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Otizm doğum öncesi tespit edilebilir bir bozukluktur.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi zihinsel yetersizliğin doğum sonrası nedenlerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doğumda oksijensiz kalma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kordon dolanması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Madde bağımlılığı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Trafik kazaları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kromozom bozuklukları",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Özel öğrenme güçlüğünün tamlanmasında görsel algıyı ölçmek için hangi test kullanılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Stanford-Binet",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bender Gestalt",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yazı Dili Testi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dil Gelişim Testi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "IQ Testleri",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi merkezi sinir sistemindeki yetersizliklerden kaynaklanan bedensel yetersizlik değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukluk Artriti",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Multiple Sklerozis",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Spina Bfida",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Serebral Palsi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk Felci",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kişisel bakım hizmetlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Odasının temizlenmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tehlikelere karşı korunması ve gözetilmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yatağının temizlenmesi ve düzeltilmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çamaşırlarının yıkanması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal etkinliklere katılması için refakat edilmesi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Özel öğrenme güçlüğünün türleri arasında aşağıdakilerden hangisi yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Disleksi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Okuma güçlüğü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Disgrafi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dizatri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Diskalkuli",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Hamileliğin ilk ayında omuriliği saran omurganın yeteri kadar kapanmaması sonucu ortaya çıkan yetersizlik aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Omurilik Zedelenmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Epilepsi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Spina Bifida",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Serebral Palsi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Multiple Sklerozis",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Yardımcı araçlar kullanarak sosyal ortamlara adapte olup, özbakım ve akademik anlamda desteğe ihtiyaç duyan bireyin yaşadığı bedensel yetersizlik hangi derecededir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Az derecede",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hafif derecede",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Orta derecede",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çok ağır derecede",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ağır derecede",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun zihinsel, fiziksel, sosyal, ruhsal ve duyusal olarak herhangi bir problemi olmamasına rağmen dili kullanmada ve anlamada yaşadığı güçlüğe verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanımlanamamış iletişim bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal iletişim bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Konuşma sesi bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Akıcı konuşma bozukluğu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dil bozukluğu",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Dil ve konuşma bozukluklarının tanılanmasında ayırıcı tanı olarak aşağıdakilerden hangisi göz önünde bulundurulmamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nörolojik sorunlar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Zihinsel yetersizlik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ses uzatmaları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Otizm",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İşitme bozukluğu",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Özel öğrenme güçlüğünün Türkiye’de görülme sıklığının tam olarak belirlenememesinin nedeni aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitim olanaklarının ve tanılamanın yetersizliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dil ve konuşma terapistlerinin yetersizliği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Özel eğitim öğretmenlerinin yetersizliği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Rehberlik Araştırma Merkezinin yetersizliği",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Özel eğitim okullarının yetersizliği",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Otizm Spektrum Bozukluğu’na sahip bireylerin dil gelişim özelliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ben-sen gibi zamirleri sıklıkla karıştırabilirler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Zamirleri uygun yerinde kullanabilirler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Taklit becerileri oldukça iyidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Genellikle alıcı dil becerileri, ifade edici dil becerine göre daha iyidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sıfatları uygun yerde kullanmakta zorluklar yaşamaktadırlar.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi zihinsel yetersizliği olan çocukların özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Soyut kavramları öğrenmede sınırlılık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dikkat ve bellekle ilgili güçlükler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Geç konuşma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sınırlı sözcük dağarcığı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Güçlü bellek",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Akıcı konuşma bozukluğunun halk arasında yaygın ismi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dizatri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Disleksi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Apraksi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dispraksi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kekemelik",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Çeşitli zehirlenmeler, yaşanan travmalar, psikososyal etmenler, kazalar ve kafa çarpmaları olarak sıralanan nedenler özel gereksinime yol açan hangi faktörlerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Edinilmiş nedenler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Doğum öncesi nedenler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Doğum sırası nedenler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doğum sonrası nedenler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yapısal nedenler",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Özel öğrenme güçlüğü ilk kez kim tarafından kullanılmış ve onaylanmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "William Cruickshank",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Samuel Kirk",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "DSM-V",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Franz Joseph Gall",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Adolf Kussmaul",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "21bb4e03c24bdc1d70cf6680790ab901c9c2dfc42fcb3bc07244f1617070ce87"
+}

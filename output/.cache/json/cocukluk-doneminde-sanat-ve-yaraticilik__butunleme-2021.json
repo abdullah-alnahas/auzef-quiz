@@ -1,0 +1,55 @@
+{
+  "course": "Çocukluk Döneminde Sanat Ve Yaratıcılık",
+  "course_slug": "cocukluk-doneminde-sanat-ve-yaraticilik",
+  "exam": "2021 Bütünleme Soruları",
+  "exam_slug": "butunleme-2021",
+  "page_title": "Çocukluk Döneminde Sanat ve Yaratıcılık 2021 Bütünleme",
+  "source_url": "https://lolonolo.com/2021/07/08/cocukluk-doneminde-sanat-ve-yaraticilik-2021-butunleme/",
+  "scraped_at": "2026-11-12T11:34:06+03:00",
+  "answer_source": "inline",
+  "question_count": 1,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "İşlem öncesi dönemin sonlarına doğru çocuklarda gelişen görsel şemalar dönemine ilişkin aşağıdakilerden hangisi söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çizimlerde şeffaflık görülmez.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Henüz perspektif ve derinlik gelişmemiştir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Renk tonlamaları ve ışık yansımaları görülür.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Görülenler aynen çizilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çizimler herhangi bir şeye benzetilemez.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "source_numbers": [
+    30
+  ],
+  "content_hash": "3157cc32ff2cc3d61646d641685cf2823f0763077b5ee0a8bad1374c20b4b62d"
+}

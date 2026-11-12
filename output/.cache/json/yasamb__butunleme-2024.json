@@ -1,0 +1,734 @@
+{
+  "course": "Yaşam Becerileri",
+  "course_slug": "yasamb",
+  "exam": "2024 Bütünleme Soruları",
+  "exam_slug": "butunleme-2024",
+  "page_title": "Yaşam Becerileri 2024 Bütünleme Soruları",
+  "source_url": "https://lolonolo.com/2024/08/23/yasam-becerileri-2024-butunleme-sorulari/",
+  "scraped_at": "2026-11-12T11:33:31+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Bir ilkokulda tarih dersi kapsamında öğrencilerin iletişim ve problem çözme becerilerinin de geliştirilmesi hedeflenmektedir. Öğrencilerin tarih hakkında bilgi edinmelerinin yanı sıra öğrencilerle iletişim ve problem çözme aktiviteleri de uygulanmaktadır. Yukarıda bahsedilen Yaşam Becerileri Eğitimi hangi başlığa örnek olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Akademik ders materyali ile bütünleştirme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tüm okul yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dersin yaşam becerilerine göre uyarlanması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bütünleşik ders",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bağımsız ders",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Problem çözme ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu beceriye sahip bireyler sosyal anlaşmazlıkları önlemek için kabul edilebilir stratejiler üretip uygulayabilirler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Problem çözme becerisi akran ilişkileri içerisinde de belirleyici bir rol oynamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Problem çözme becerisi geliştiren çocuklarda anti sosyal davranışlar çoğunlukla gözlenmemektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Özellikle okul öncesi yaşlarda problem çözme becerisinin kazanılması için çaba sarf etmek diğer prososyal davranışların kazanılmasını engellemektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Problem çözme becerisi sosyal gelişiminde önemli bir yer tutmaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi gözlem ve taklit yoluyla öğrenilebilecek bir davranış değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sakinlik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İşbirliği yapma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Alkol kullanma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yardımlaşma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Paylaşma",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi psikolojik sağlamlık açısından bireysel koruyucu faktörlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Problem çözme becerisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Olumlu aile ilişkileri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Empati",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaratıcılık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Etkili iletişim kurma",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi teknik olan becerilere örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kendini sözel veya sözel olmayan yollarla iyi derecede ifade edebilme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Okuduklarını nesnel bir şekilde analiz edebilme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İki kişi arasında yaşanan sorunlara etkili çözümler bulabilme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Konuştuğu kişilerin sıkıntılarını anlama ve uygun dönüt verebilme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İleri düzeyde Fransızca ve Almancayı konuşabilme",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Suzan 3 yaşındaki oğlu Mert yemeğini bitirmediği zaman ona sürekli olarak ‘Yemeğini bitirmezsen televizyon izleyemezsin’, ‘ Yemeğini bitirmezsen oyun oynayamazsın’ şeklinde ifadeler kullanmaktadır. Bu ifadeleri kullandıktan sonra Mert inatlaşmakta ve yemeğini bitirmemektedir. Yukarıdaki olayda Suzan iletişim engellerinden hangisini kullanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözdağı verme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Alay etme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ahlak dersi verme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Emir verme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ad takma",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi eleştirel düşünme becerileri arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dili doğru kullanma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilgiyi yorumlama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Problemi tanıma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaratıcı öneriler sunma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bilişsel problem çözmenin ilgili olduğu süreçlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çözümleme (Analiz etme)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çıkarımda bulunma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karar verme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Soyutlama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kelime haznesini geliştirme",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Yaşam Becerileri Eğitimi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sonuç odaklıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların ve gençlerin ihtiyaçlarına yönelik düzenlenmelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Programlarda genelde sunum yöntemi kullanılmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tutum, bilgi ve becerileri geliştirmeyi amaçlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Olası riskleri önlemeyi amaçlamaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Bireyin mevcut seçenekleri değerlendirmesi ve seçenekler arasından kendi için en uygun olanını seçmesi durumu yaşam becerileri bileşenlerinden hangisi ile ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Problem çözme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Karar verme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kişiler arası ilişkiler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaratıcı düşünme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duygularla baş etme",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Bireylerin yaşam becerileri eğitim programlarına katılmaya istekli olma durumu aşağıdaki boyutların hangisinin içeriği kapsamında değerlendirilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlgi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilgi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tutum",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Beceri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Davranış",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "….. bireyin davranışlarını direk veya dolaylı etkileyen, yapısal ve sosyal olarak ikiye ayrılan sistemdir. Yukarıdaki boşluğa aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Davranış sistemi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kişilik sistemi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal sistem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Koruyucu faktörler sistemi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Algılanan çevre sistemi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Kişiler arası ilişkilerden oluşabilecek sorunları çözebilmek için çeşitli sorun çözme modelleri kullanılmaktadır. Aşağıdakilerden hangisi bu modellerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel Yılmazlık Modeli",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Etkili Anababalık-Öğretmen Eğitimi Modeli",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Olumlu Çocuk Yetiştirme Modeli",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Altı ile Onsekiz Yaş Çocuklarıyla Sorunları Çözmede Beş Aşama Modeli",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ben Sorun Çözebilirim Modeli",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Öz farkındalığı yüksek bir ergenden aşağıdakilerden hangisi beklenmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İçinde bulunduğu durumun içsel nedenlerini fark eder.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Başkaları ile ilişkilerini geliştirebilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kimlik karmaşası yaşar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kimlerle ilişki kurabileceğine karar verebilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilinçli ilişkiler kurabilir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Osman akranları ile sağlıklı bir iletişim kuramamakta, bu nedenle düşük düzeyde akran kabulü yaşamaktadır. Osman’ın akranları tarafından daha fazla kabul görmesi için sergilemesi gereken davranışlar bulunmaktadır. Aşağıdakilerden hangisi Osman’a yardımcı olacak bir davranış değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Arkadaşlarını duygularını anlama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Akranları ile tartışma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İletişim becerilerini artırma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Arkadaş ortamına uyum sağlama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Arkadaşları ile empati kurma",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Duyuşsal düzeyde empatik beceri yaşamın hangi döneminde gözlenmeye başlanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "12-18 yaş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlkokul dönemi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Orta çocukluk dönemi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okul öncesi dönem",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ergenlik dönemi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi problem davranışların ortaya çıkmasına yönelik kişilik sistemi içerisinde yer alan risk faktörlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Risk alma eğilimi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Depresif duygu durumu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Günlük yaşamda algılanan stres",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Maddelere ulaşılabilirlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okulu bırakma düşüncesi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Hakan ve Tuna iki yakın arkadaştır. Üniversiteyi bitirdikten sonra her ikisi de işe girmiş ve belirli aralıklarda görüşmeye devam etmişlerdir. Hakan özel bir şirkette çalışırken Tuna kendi işini kurmayı tercih etmiştir. Hakan’ın istikrarlı bir iş yaşamı verken Tuna zaman zaman maddi sorunlar yaşamaktadır. Böyle durumlarda Hakan her defasında arkadaşına destek olmuş; maddi ve manevi Tuna’nın yanında durmuştur. Yıllar böylece geçmiş ve günün birinde Hakan işinde sorunlar yaşamaya başlamış; sonucunda da işini kaybetmiştir. Durumu Tuna’ya anlatmış ve O’ndan destek görmeyi beklemiştir. Fakat Tuna herhangi bir destek ya da öneri sunmamış; işlerinin yoğunluğundan dolayı görüşemeyeceklerini belirtmiştir. Hakan, arkadaşlık anlamında Tuna ile aynı görüşe sahip olmadıklarını anlamış ve duruma içerlemiştir. Buna göre Hakan arkadaşlık becerisinin merkezine aşağıdakilerden hangisini koymuştur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Birlikteliği başlatma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yardım",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İşbirliği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bağışlayabilme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çatışmaları yönetebilme",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yaratıcı düşünmenin ortaya çıkabilmesi için bireyde bulunması gereken özellikler arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Problem durumu ile ilgili anlamlı sorular sorması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Problem durumunu sorgulaması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Problem durumunu analiz etmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Problem durumunu tanıması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Problem durumuna geleneksel çözümler üretmesi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Buğra koşarak sınıfa girdi ve öğretmenine dün akşam evinde yaşadığı ilginç bir olayı anlatmaya başladı. Öğretmeni ona dönerek ‘Öğretmenin şimdi meşgul. Büyükleri meşgulken rahatsız etmemelisin’ ifadesi ile yanıt verdi. Buğra arkasını dönerek sırasına oturdu. Yukarıdaki olayda öğretmen hangi iletişim engelini kullanmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözdağı verme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Emir verme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ahlak dersi verme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ad takma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Alay etme",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "43490a25bd44e15d0036c6fe1c3188f3897fcafc8a01ce336de1380173cfd627"
+}

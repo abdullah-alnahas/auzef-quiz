@@ -1,0 +1,739 @@
+{
+  "course": "İstatistik",
+  "course_slug": "istatistik",
+  "exam": "2022-2023 Bütünleme Soruları",
+  "exam_slug": "butunleme-2022-2023",
+  "page_title": "İstatistik 2022-2023 Bütünleme Soruları (İSG)",
+  "source_url": "https://lolonolo.com/2023/02/20/istatistik-2022-2023-butunleme-sorulari-isg/",
+  "scraped_at": "2026-11-12T11:33:28+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Araştırmacının, incelediği konuya yönelik olarak birimleri doğal ortamlarında gözlemek ve davranışlarını kaydetmek suretiyle veri toplaması yöntemine ……. denir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "deney yoluyla veri toplama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "anket",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "gözlem yoluyla veri toplama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "soru formu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "veri toplama",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Bir sınava giren 220 öğrenciden 132’si başarılı olmuştur. Buna göre 220 öğrenci arasından tesadüfen seçilecek bir öğrencinin başarılı olma olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0,58",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,64",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0,52",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0,60",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0,54",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "I. Basit indeksler II. Bileşik indeksler III. Değişik esaslı indeksler Yukarıda verilen indeks türlerinden hangisi/hangileri içerdikleri madde sayısına göre isimlendirilen indeks türlerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız II",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Bir çağrı merkezine gelen çağrıların ne kadar sürede cevaplandığı araştırılıyor. Bu amaçla 50 görüşme izlenerek yukarıdaki gözlem değerlerine ulaşıldığına göre bu çağrı merkezindeki (aritmetik) ortalama çağrı cevaplama süresi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2,5",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3,5",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "4",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "I. Gruplama hem nitel hem nicel veriler için yapılabilir. II. Tasnif işleminde veriye yönelik bilgi kayıpları oluşur. III. Tasnif hem nitel hem nicel veriler için yapılabilir. Verilerin düzenlenmesi ile ilgili olarak yukarıda verilen ifadelerden hangisi ya da hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız III",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Yukarıdaki serinin varyansı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3,3",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2,7",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3,1",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2,9",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "2,5",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Yukarıda 50 öğrencinin katıldığı bir sınavda alınan notlara yönelik sınıflanmış dağılım verilmektedir. Buna göre medyan sınıfı aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "30-40",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0-10",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "20-30",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "10-20",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "40-50",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Birden çok maddenin fiyatlarında hep bir önceki yılın fiyatına göre zaman içinde meydana gelen oransal değişimler ……. ile ölçülür. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "sabit esasli Paasche indeksi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "sabit esaslı bileşik indeks",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "değişik esaslı basit indeks",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "değişik esaslı bileşik indeks",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "sabit esaslı basit indeks",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Bir birimi nitelemeye yönelik vasıfların, birimlerde ortaya çıkış ya da görünüş şekillerine …… denir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "şık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "nitelik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "ölçü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "ölçüm düzeyi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "ölçek",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Tek bir maddenin fiyatlarında baz yılı ya da başlangıç yılı fiyatına göre zaman içinde meydana gelen oransal değişimler ……. ile ölçülür. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "sabit esasli Paasche indeksi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "sabit esaslı Laspeyres indeksi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "sabit esaslı bileşik indeks",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "değişik esaslı basit indeks",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "sabit esaslı basit indeks",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aritmetik ortalaması 10, kareli ortalaması 15 olan serinin varyansı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "125",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "100",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "175",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "225",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "75",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "İki para birlikte atıldığında en az bir paranın tura gelmesi olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1,00",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1,8",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1/4",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "1/2",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "3/4",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Standart sapması 7, aritmetik ortalaması 12 olan dağılımın değişim katsayısı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "% 25,52",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "% 27,83",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "% 171,42",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "% 75,25",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "% 58,33",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Herhangi bir gözlem değerinin bir dağılım içinde konumunu yani nerede yer aldığını belirlemede …… kullanılmaktadır. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "standart değer",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "varyans",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "standart sapma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "ortalama sapma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "değişim katsayısı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Verilerin, hem zaman hem mekân vasfına göre düzenlenmesiyle elde edilen serilere …… veriler denir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "mekân",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "panel",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bileşik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "bölünme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "zaman",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki değişkenlerden hangisi kesikli bir değişkendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Üretilen konservelerin ağırlıkları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bir atölyede dikilen gömleklerdeki kusur sayısı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Üretilen kumaşların rulo uzunluğu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Üretilen deterjan kutularının ağırlığı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Üretilen margarinlerin ağırlıkları",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Bir futbol takımının daha önceki sezonda yapmış olduğu maçlar incelenerek futbol takımının alabileceği puanlar ve bu puanların hangi olasılıklarla ortaya çıkabileceği yukarıdaki tablo ile düzenlenmiştir. Tabloya göre takımın yaptığı maçlarda kazandığı puanların beklenen değeri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1,8",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1,6",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "2,0",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "1,5",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1,9",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "İstanbul-Konya arasındaki uçuş süresinin normal dağıldığı bilinmektedir. Daha önce yapılan gözlemler sonucunda ortalama uçuş süresi 2900 saniye ve standart sapma 400 saniye olarak hesaplanmıştır. Buna göre herhangi bir uçuş süresinin 2900-3400 saniye arasında olma olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0,4335",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,3944",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0,1245",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0,1056",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0,2458",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Bir ilde aralık ayı içinde sıcaklıklar -2, 1, 1, 2 şeklinde ölçülmüştür. Bu serinin ortalaması hesaplanmak istendiğinde hangi duyarlı (analitik) ortalamanın kullanılması uygundur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ağırlıklı aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Medyan",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "İki zarın aynı anda atılması deneyi bir tesadüfi değişken olarak tanımlanırsa bu tesadüfi değişkenin kaç tane mümkün sonucu olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "36",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "42",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "10",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "c6a1bc7596d761ac60568e1ee48e4fd7f13602c00256bb8272c5a3e57e256588"
+}

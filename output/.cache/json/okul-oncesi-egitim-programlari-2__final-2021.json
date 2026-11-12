@@ -1,0 +1,52 @@
+{
+  "course": "Okul Öncesi Eğitim Programları 2",
+  "course_slug": "okul-oncesi-egitim-programlari-2",
+  "exam": "2021 Final Soruları",
+  "exam_slug": "final-2021",
+  "page_title": "Okul Öncesi Eğitim Programları 2 Final 2021",
+  "source_url": "https://lolonolo.com/2021/07/04/okul-oncesi-egitim-programlari-2-final-2021/",
+  "scraped_at": "2026-11-12T11:34:44+03:00",
+  "answer_source": "inline",
+  "question_count": 1,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Hedef kitlenin sosyal ve kültürel yönleri dikkate alınmalıdır.\nYukarıda sıralanan bu ilkelerden kaçı aile eğitimin genel ilkeleri kapsamında ele alınmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "5",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "8f294778bc3bb25e4a056e6462a6c362db84faffbc0ca3d8e9bdd3dcd7c82197"
+}

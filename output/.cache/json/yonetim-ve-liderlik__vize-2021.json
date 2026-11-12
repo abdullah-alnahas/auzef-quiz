@@ -1,0 +1,919 @@
+{
+  "course": "Yönetim ve Liderlik",
+  "course_slug": "yonetim-ve-liderlik",
+  "exam": "2021 Vize Soruları",
+  "exam_slug": "vize-2021",
+  "page_title": "Yönetim ve Liderlik 2021 Vize-1",
+  "source_url": "https://lolonolo.com/2022/02/21/yonetim-ve-liderlik-2021-vize-1/",
+  "scraped_at": "2026-11-12T11:34:56+03:00",
+  "answer_source": "markup",
+  "question_count": 25,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yönetimin özelliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yönetim bir sorumluluk faaliyetidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yönetim tek boyutlu bir özelliğe sahiptir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yönetimin beşeri özelliği vardır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yönetim bireysel bir faaliyettir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yönetim kültürel özelliğe sahiptir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Likert’in Sistem Modeli’ndeki Sistem-IV-Demokratik Yönetim Tarzı grubunda yer alan liderlik özelliklerini doğru olarak yansıtmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Astlarına karşı daha toleranslı ve ılıman bir yaklaşım sergilerler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çalışanların yaratıcı fikirlerinden faydalanma durumunun ön plandadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Astları denetim faaliyetlerine dahil ederler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Astlar mesleki ve teknik konularda karar verme yetkisine sahiptirler.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Astlarına sorumluluk bilinci kazandırırlar.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi House Vecvans’ın Yol-Amaç Kuramı’nda yer alan liderlik türlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Başarıya Yönelik Liderlik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Otoriter Liderlik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Destekleyici Liderlik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Demokratik Liderlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Katılımcı Liderlik",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Erken çocukluk eğitim kurumlarının özellikleri düşünüldüğünde, aşağıdaki ifadelerden hangisi bu kurumların çatışma bağlamında ayırt edici özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gelişim hızı yüksek çocukların varlığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ev ve okul benzeri özellikler taşıması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğretmenler ve diğer personellerin uyumu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dikey hiyerarşide örgüt/organizasyon yapısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yoğun düzeyde aile-okul-çocuk etkileşimi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Erken çocukluk eğitim kurumunda yönetici olan Ahmet Bey örgütleme sürecinde aşağıdakilerden hangisine dikkat etmediğinde örgütleme sürecinde sorun yaşamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yapılacak işlerin belirlenmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaynakların değerlendirilmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yetki ve sorumlulukların belirlenmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gruplandırılan işler için norm kadro çalışmasının yapılması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yapılacak işlerin gruplanması",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "“Bir okul müdürü öğretim hedefleri, konu içeriği, yöntemler, sınıf ortamları ve değerlendirme dahil olmak üzere eğitim programlarının geliştirilmesinden sorumludur.” Yukarıdaki bilgi müdürün hangi liderlik rolünü tanımlamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Denetim liderliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Okul müdürünün devlet kişisi rolü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İdari liderlik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kültürel liderlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eğitim liderliği",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "-Eğitim kurumlarının açık toplumsal bir sistem olarak incelenmeye başlanması -Eğitim sisteminin ve buna bağlı olarak eğitim sistemini oluşturan eğitim kurumlarının çevresini toplumu oluşturan diğer sistemi bulunması – Eğitim örgütlerinde informal iletişimin formal iletişim kadar önemli rol oynaması Yukarıdaki maddeler hangi kuram/yaklaşımın eğitim yönetimine yansıması olarak görülmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olgunlaşma kuramı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Güncel Yönetim Kuramları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Neo Klasik Kuram",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilimsel Yönetim Yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Modern yaklaşımlar",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda verilen çalışmalardan hangisi durumsal liderlik kuramını araştırmak için yapılmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "House ve Evans'ın Yol-Amaç Kuramı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "McGregor'un X ve Y Kuramları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Michigan Üniversitesi Liderlik Çalışmaları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Likert'in Sistem 4 Modeli",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ohio State Universitesi Liderlik Çalışmaları",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Bir kurumda çatışmanın kurumda çalışanlar tarafından görülebilir olmasının ön koşulları aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "iş birliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Algılanan",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Rekabet",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "iletişim, yapı, kişilik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hissedilen çatışma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Stres, gerilim, düşmanlık, kaygı gibi çatışmaya neden olan durumlar aşağıdaki seçeneklerden hangisinin kapsamına girer?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaynakların kitliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Rol uyuşmazlıkları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bireylerin bilişsel durumları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Politika farklılıkları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireylerin duygusal durumları",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Eğitim yönetimi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1950'lerde temel bilimsel bir çalışma alanı haline gelmiştir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Türkiye'de akademik olarak önemli gelişmeler kaydetmiştir ancak uygulamada gelişimini sürdürmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kamu yönetimi eğitim yönetiminin bir alt dalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Eğitim yönetimi resmi çalışma alanı olarak ilk kez 20. yüzyılın başlarında ABD'de ortaya çıkmıştır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okulun örgüt ve yönetim yapısını anlamak, okul kültürünü yönetim bilimleri açısından yorumlamak adına önemli bir alandır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinde liderlerin gereksinimi olan özellikler doğru olarak eşleştirilmemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fiziksel özellikler - Aktif olma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İş ile ilgili özellikler- Başarma güdüsü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal özellikler-Yaratıcılık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişilik-Etik davranma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zekâ ve yetenek – Yargılama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yöneticinin karar verici rolleri arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Müzakereci",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaynak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dağıtıcı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Girişimci",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Rahatsızlık giderici",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde iletişimin öğeleri eksiksiz olarak yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaynak - Mesaj - Gönderen - Kanal - Gürültü - Geri bildirim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaynak - Mesaj - Alıcı - Kanal - Gürültü - Geri bildirim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kaynak - Mesaj - Alıcı - Gürültü - Geri bildirim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İleten - Mesaj - Alıcı - Kanal - Gürültü - Geri bildirim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kaynak - Mesaj - Alıcı - Kanal - Ses - Geri bildirim",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Yöneticinin sahip olması gereken beceriler ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kavramsal beceri, yöneticinin düşünme, bilgi işleme ve planlama becerilerini içermektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Teknik beceri, belirli görevlerin yerine getirilmesindeki yeterlilik ve anlayıştır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "insani beceri, yöneticinin diğer insanlarla ve onlar aracılığıyla çalışma ve bir grup üyesi olarak etkili bir şekilde çalışma yeteneğidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Teknik beceri, mühendislik, imalat veya finans gibi belirli işlevlere dahil olan yöntem, teknik ve ekipmanin ustalığını içerir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yöneticilerin sahip olduğu kişilik özellikleri, davranış ve tutumları kavramsal becerilerdir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Erken çocukluk eğitim kurumunda yönetici pozisyonunda olan Eda Hanım, yönetim fonksiyonları ile etkili bir süreç izlemek istemektedir. Aşağıdakilerden hangisi Eda Hanım’ın kullanacağı yönetim fonksiyonları arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eş güdümleme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Planlama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İletişim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Denetim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İş birliği",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "“Bir kurumda çatışma çok önemlidir. Bu çatışmalar doğru yönetildiğinde verimliliği arttırır.” şeklinde bir yaklaşımı benimseyen çalışanlar ve yönetici çatışmaya ilişkin görüşlerden hangisinin savunucularıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gerçekçi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Davranışçı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnsan ilişkileri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Geleneksel",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Etkileşimci",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi yönetişim kavramı için söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yönetişim, kararların ortaklaşa alındığı örgütsel faaliyetlerdir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yönetişim, aktif ve uyumlu davranışlar sergilenerek gerçekleştirilen örgütsel faaliyetlerdir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yönetişim, etkili iletişim ve bilgi paylaşım süreçlerini içeren, karşılıklı güvenin ve şeffaflığın hâkim olduğu örgütsel faaliyetlerdir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yönetişim, duygusal zekaya sahip ve empati becerileri gelişmiş bireylerin yer aldığı örgütsel faaliyetlerdir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yönetişim, güçlü kişilerin, kendi kişisel çıkarlarını örgütün çıkarlarının üzerinde tutarak hareket ettiği örgütsel faaliyetlerdir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde karar verme süreci aşamaları doğru ve eksiksiz sıralanmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Amacı belirlemek-Seçim yapmak-Sorunları tanımlamak-Alternatifleri belirlemek-Alternatifleri karşılaştırmak Alternatifleri değerlendirmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sorunları tanımlamak-Amacı belirlemek-Alternatifleri belirlemek- Alternatifleri karşılaştırmak-Alternatifleri değerlendirmek Seçim yapmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Amacı belirlemek-Sorunları tanımlamak-Alternatifleri belirlemek- Alternatifleri karşılaştırmak-Alternatifleri değerlendirmek-Seçim yapmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Amacı belirlemek-Sorunları tanımlamak-Alternatifleri karşılaştırmak Alternatifleri değerlendirmek-Alternatifleri belirlemek-Seçim yapmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Amacı belirlemek-Sorunları tanımlamak Alternatifleri belirlemek- Alternatifleri karşılaştırmak-Seçim yapmak-Alternatifleri değerlendirmek",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "• Eğitim ve okul yöneticisinin bir verim uzmanı olarak düşünülmesi, bunun sonucu olarak okulun bir fabrika öğrencinin ham madde durumuna gelmesi • Eğitim yönetiminde verimlilik ve etkililiğin önem kazanmasıyla verimi son amaç olmaktan ziyade eğitimle bir arada düşünülme • Eğitime yatırım gözüyle bakma Yukarıdaki maddeler hangi yönetim kuram/yaklaşımının eğitim yönetimine yansıması olarak görülmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Klasik Kuramlar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Chris Argyris Olgunlaşma Kuramı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Durumsallık Yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Güncel Yönetim Kuramları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Neo-Klasik Kuram",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde yönetim doğru ve eksiksiz olarak tanımlanmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yönetim, örgütün amaçlarının gerçekleştirilmesi için örgüt çalışanlarının davranışlarının örgütün amaçlarına yöneltilmesidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yönetim, ortak bir hedefe ulaşmak için, bir organizasyondaki faaliyetleri sistematik bir şekilde planlama, organize etme ve başlatma, yönetme ve kontrol etme süreci olarak tanımlanır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yönetim, örgüt çalışanlarının örgütün amaçları için ortak bir çaba içerisinde olmalarıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yönetim; yöneticilerin, bir organizasyonun bir stratejiyi uygulamada ne kadar başarılı olduğunu izlemek için planlarla performansın karşılaştırılmasını gerektirmektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yönetim, yönetme ve kontrol etme sürecidir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Durgun örgüt yapısına sahip kurumlarda çalışanların bireyselliğine ilişkin tolerans düzeyi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hiçbiri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Belirsiz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Düşük düzeyde",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yüksek düzeyde",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Orta düzeyde",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "Henri Fayol hangi kuramın/yaklaşımın kurucusudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Durumsallık Yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Olgunlaşma Kuramı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yönetim Süreci Yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sistem Yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilimsel Yönetim Yaklaşımı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 24,
+      "type": "multiple_choice_text",
+      "stem": "“Çocuklar günlerinin büyük bir bölümünü sınıflarda geçirmektedir ve sınıf çocukların liderlik davranışları sergilemeleri ve geliştirebilmeleri için oldukça önemli bir yerdir.” Bu bilgiye dayanarak aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların yaratıcı drama, grup oyunu, grup çalışması vb, becerilerini için çalışmalar planlamalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmenler öğrenci liderliğini etkilerler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eğitimciler, çocukların hem sınıf içinde hem de dışında ortaya çıkan liderlik davranışlarını uygulamalarına izin veren ve onları teşvik eden ortamlar oluşturmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklar liderlik sergilediğinde öğretmenler bunu görmezden gelmeli, üzerinde çok durmamalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğretmenler haftalık müfredatlarına liderlik becerilerini destekleyici etkinlikler eklemelidir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 25,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okul müdürünün liderlik rollerine sahip olmasının önemine ilişkin yanlış bir bilgidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nitelikli insan gücünün okulun başarısından doğrudan etkilenmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Okulların başarısının etkili eğitim yöneticilerinin varlığıyla mümkün olabileceği gerçeği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "\"Bir okul müdürü kadar iyi bir okuldur\" fikrini ortaya koyması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okullarının kalitesini iyileştirmede okul müdürlerinin kilit aktörler olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yöneticilerin lider olmak zorunda olması",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "e44658e4554b6699a85d3da583104d4c392e3c8940ebb686c5dfec307b781a6e"
+}

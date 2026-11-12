@@ -1,0 +1,811 @@
+{
+  "course": "Anne Çocuk Beslenmesi",
+  "course_slug": "annecocuk",
+  "exam": "2023 Final Soruları",
+  "exam_slug": "final-2023",
+  "page_title": "Anne Çocuk Beslenmesi 2023 Final Soruları",
+  "source_url": "https://lolonolo.com/2023/06/28/anne-cocuk-beslenmesi-2023-final-sorulari/",
+  "scraped_at": "2026-11-12T11:33:35+03:00",
+  "answer_source": "markup",
+  "question_count": 22,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi menü planlanırken birinci kap yemek olarak belirtilen yemeklerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zeytinyağlı türlü",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Etli taze fasulye",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Salata",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bulgur pilavı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mercimek çorbası",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi vitaminlerin hepsinin yapısında bulunan elementlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karbon",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Nitrojen",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Oksijen",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Fosfor",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hidrojen",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Gebelik dönemi ile ilişkili olarak aşağıdaki bilgilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gebe kadının tüm trimesterlerde enerji gereksinmesi gebe olmayan kadının önerilen enerji gereksinmesinden fazladır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "A vitamini yağda çözünen bir vitamin olduğu için gebelerde fazla alınmasının bir sakıncası yoktur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gebelik döneminde ortaya çıkması muhtemel olan preeklempsi gebenin beslenmesi ile ilişkili değildir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gebelik döneminde multivitamin kullanılması halinde ayrıca folik asit takviyesi alınmasına gerek yoktur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gebe kalmadan önce kadınlara kanda vitamin ve mineral durumuna bakılması gerekmez.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hijyen kurallarına uyulmaması sonucunda ortaya çıkabilecek negatif sonuçlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Besin kalitesinde artış",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Müşteri güvensizliği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çalışanlarda motivasyon azalması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Prestij ve imaj kaybı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yasal uygulamalar ve cezalar",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Akçaağaç Şurubu İdrar Hastalığı hangi enzim eksikliği veya yetersizliği sonucu oluşmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fenilalanin hidroksilaz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Keto dehidrogenaz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Laktaz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Peptidaz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Fumarilasetoasetik hidroksilaz",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi proteinlerin yapı taşıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Peptit",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gliserol",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Glikoz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Trigliserit",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aminoasit",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "“Meyve şekeri” diye adlandırılan karbonhidrat hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sakkaroz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Laktoz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fruktoz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sukroz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Glikoz",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki yağ asitlerinden hangisinin kaynağı yanlış verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "n-6 kaynağı: mısır yağı, soya fasulyesi yağı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "EPA-DHA: balık yağı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Oleik asit kaynağı: zeytinyağı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "n-6 kaynağı: balık yağı, keten tohumu yağı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "n-3 kaynağı: balık yağı, keten tohumu yağı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kontaminasyona neden olmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kuru depolama uygulamalarında yetersizlikler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Infekte besinlerin tüketilmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Besin ile temas halindeki bireylerin enfeksiyon hastalık geçirmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zehirli kimyasal maddeler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hijyen ve sanitasyon kurallarına uygunluk",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinin düşük seviyede olması preeklemsi riski ile ilişkilendirilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "B5 vitamini",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Selenyum",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bor",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kükürt",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "D vitamini",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların tükettiğinden daha fazla enerji alımı ya da çocukluk obezitesi nedenleri arasında aşağıdakilerden hangisi sayılamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fazla miktarda gazlı ve şekerli içecek tüketimi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Küçük porsiyonlarda besin tüketme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yüksek kalorili besin tercihleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Fast-food tüketimi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Fiziksel aktivite düşüklüğü",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hijyenin tanımıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sağlıklı yaşam için vücudu, çevreyi temiz tutmak ve hastalıklardan korunmak için uygulanması gereken önlemlerin tamamıdır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ortamda görülebilir kir ve kalıntıların ortadan kaldırılmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sağlık demektir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ortamın hastalık yapan etmenlerden arındırılması için gerekenleri sağlık ve temizlik kurallarına uygun yapmaktır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Temizlik demektir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Lif (posa) ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "En önemli pozitif etkilerinden biri konstipasyonu önlemeleridir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Meyve, sebze, tam tahıllı kahvaltılık gevrekler ve tahıllar posa açısından zengindir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Vücut tarafından emilemez.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nişasta olmayan polisakkarittirler.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Enerji kaynağı olarak kullanılmaktadırlar.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Kullanım sürelerine göre menüler kaça ayrılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Krom minerali ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Krom insülin aktivitesini artırır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Cr+ Formu toksiktir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Makro elementlerdendir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Cr+6 formu gıdalarda en çok bulunan formudur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Basit şeker içeriği yüksek diyetler idrarla krom atımını engeller.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Süt içemeyen ya da süt tüketmekten hoşlanmayanlar için aşağıdaki besinlerden hangisinin tüketilmesi önerilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Laktozsuz süt",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Şeker eklenmiş süt",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Laktozlu süt",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sulandırılmış süt",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yağı alınmış süt",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi safra salgısında bulunmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aminoasit",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fosfolipid",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilirubin",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Safra tuzları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kolesterol",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kalsiyum eksikliğinde oluşmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sinir sistemi rahatsızlıkları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kemi hastalıkları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kas sistemi rahatsızlıkları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Osteomalazi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tiroid hormonlarında azalma",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi A vitamini formlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Retinoik asit",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Karotenoid",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Retinal",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Retinol",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Araşidonik asit",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Okul öncesi dönem çocukları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çok fazla yağ içeren çok fazla yiyecek yemek, daha sonraki yaşamda sağlık sorunlarına yol açabilir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sadece yetişkinlere değil, bir çocuğun bir yiyeceğe karşı hoşnutsuzluğuna da saygı gösterilmelidir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Okul öncesi çocuklar her zaman ilk kez yeni bir yemek denemek istemeyebilirler Çocuk bir yiyeceği sevmiyorsa, ısrar edilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zaman içinde çok az aktivite ile çok fazla yemek yemek çocukların fazla kilolu olmalarına neden olabilir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tatlı, yapışkan yiyecekler çok sık yemek, özellikle diş fırçalama gibi uygun diş hijyeni bu yiyecekleri yemeyi takip etmezse, diş çürümesine yol açabilir",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "4 yapraklı besin yoncası ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Üst yaprakta süt ve süt ürünleri bulunmaktadır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kalp biçiminde gösterilen yonca, kalp sağlığının önemini göstermektedir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ülkemizdeki besin üretimi ve beslenme durumu dikkate alınarak şematize edilmiştir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Süt ve süt ürünleri, et, yumurta ve kuru baklagiller, sebze ve meyveler, ekmek ve tahıllar, şekerler ve içecekler olmak üzere 5 ana besin grubu bulunmaktadır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yoncanın üst yarısında sağlıklı olarak kabul edilen Akdeniz Diyetinin önemli bir unsuru olan zeytinyağını sembolize ettiği için zeytin dalları bulunmaktadır",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Doğum sonrası ortalama hangi ayda süt üretimi (g/gün) en yüksektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "2",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "fb4ca862781d6853a9b6f92779b605138ed70dec097def96363a3f18c7f300e6"
+}

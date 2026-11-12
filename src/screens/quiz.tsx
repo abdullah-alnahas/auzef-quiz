@@ -279,10 +279,29 @@ export function Quiz({
         </button>
       </div>
 
+      {exam.scope && exam.sourceExams && (
+        <details class="combined-source">
+          <summary>
+            {t(prefs.lang, "combinedFrom", { n: exam.sourceExams.length })}
+          </summary>
+          <ul>
+            {exam.sourceExams.map((name) => (
+              <li key={name}>{name}</li>
+            ))}
+          </ul>
+        </details>
+      )}
+
       {changed.has(current.id) && (
         <p class="notice notice-warn">
           <Badge tone="warn">{t(prefs.lang, "changed")}</Badge>{" "}
           {t(prefs.lang, "contentUpdated")}
+        </p>
+      )}
+
+      {exam.scope && current.sourceExam && (
+        <p class="muted small">
+          {t(prefs.lang, "fromExam", { name: current.sourceExam })}
         </p>
       )}
 

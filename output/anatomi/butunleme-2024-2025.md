@@ -3,7 +3,7 @@ course: Anatomi
 exam: 2024-2025 Bütünleme Soruları
 source_url: https://lolonolo.com/2026/01/30/anatomi-2024-2025-butunleme-sorulari/
 question_count: 20
-scraped_at: 2026-11-12T02:21:31+03:00
+scraped_at: 2026-11-12T11:32:54+03:00
 ---
 
 ### Q1

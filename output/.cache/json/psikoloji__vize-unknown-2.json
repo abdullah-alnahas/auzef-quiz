@@ -3,112 +3,112 @@
   "course_slug": "psikoloji",
   "exam": "Vize Soruları",
   "exam_slug": "vize-unknown-2",
-  "page_title": "Psikoloji Online Test (Vize)",
-  "source_url": "https://lolonolo.com/2019/10/02/psikoloji-vize/",
-  "scraped_at": "2026-11-12T02:21:39+03:00",
-  "answer_source": "markup",
-  "question_count": 20,
+  "page_title": "Psikolojiye Giriş-1 Vize Soruları",
+  "source_url": "https://lolonolo.com/2019/11/04/psikolojiye-giris-1-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:33:04+03:00",
+  "answer_source": "inline",
+  "question_count": 30,
   "questions": [
     {
       "n": 1,
-      "type": "multiple_choice_text",
-      "stem": "Bir zeka testinin sahip olması gereken özellikler bakımından aşağıdakilerden hangisi yanlıştır?",
+      "type": "legacy_text",
+      "stem": "hangisi gestalt psikolojisinin algı ile ilgili görüşlerinden biri değildir?.",
       "stem_images": [],
       "tables": [],
       "choices": [
         {
           "letter": "A",
-          "text": "Test her birey için özel olarak hazırlanmış sorulardan oluşmalıdır.",
+          "text": "duyumsal hammaddenin belli ilkeler çerçevesinde işlendiği bir süreçtir",
           "images": []
         },
         {
           "letter": "B",
-          "text": "İlgili ülke için norm değerleri belirlenmiş olmalıdır.",
+          "text": "tek tek unsurların biraraya getirilerek bütüne ulaşıldığı bir süreçtir",
           "images": []
         },
         {
           "letter": "C",
-          "text": "Standardizasyon, geçerlik ve güvenirlik çalışmaları yapılmış olmalıdır.",
+          "text": "nesne olay ve kişilerin temsilinin zihinde inşa edildiği bir süreçtir",
           "images": []
         },
         {
           "letter": "D",
-          "text": "Yaş grupları için ortalama ham puanlar hesaplanmış olmalıdır.",
+          "text": "bütünün parçalarından daha fazla olduğu bir zihinsel süreçtir",
           "images": []
         },
         {
           "letter": "E",
-          "text": "Testi uygulama ve yorumlamayla ilgili eğitim almış bir testör tarafından uygulanmalıdır.",
-          "images": []
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "n": 2,
-      "type": "multiple_choice_text",
-      "stem": "Catell’in zeka kuramını tanımlayan ifade aşağıdakilerden hangisidir?",
-      "stem_images": [],
-      "tables": [],
-      "choices": [
-        {
-          "letter": "A",
-          "text": "Üçlü başarılı zeka kuramını ortaya atmıştır",
-          "images": []
-        },
-        {
-          "letter": "B",
-          "text": "İki kümede topladığı zihinsel yetenekleri tanımlamıştır.",
-          "images": []
-        },
-        {
-          "letter": "C",
-          "text": "Zekanın genel olduğunu söylemiştir.",
-          "images": []
-        },
-        {
-          "letter": "D",
-          "text": "Bazı açılardan bağımsız 7 zihinsel yetenek belirlemiştir.",
-          "images": []
-        },
-        {
-          "letter": "E",
-          "text": "Çoklu zeka kuramını geliştirmiştir.",
+          "text": "duyumdan elde edilen verilerin örgütlenmesi sürecidir.",
           "images": []
         }
       ],
       "answer": "B"
     },
     {
-      "n": 3,
-      "type": "multiple_choice_text",
-      "stem": "Aşağıdaki kuramcılardan hangisi insanların bir ihtiyaçlar hiyerarşisine sahip olduklarını iddia etmektedir?",
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "iyi anne olmanın sevgi,şevkat ve fedakarlık gibi olmazsa olmaz 3 özelliği içermesi gerektiği düşünülürse annelik kavramının hangi yolla oluşturulduğu söylenebilir?",
       "stem_images": [],
       "tables": [],
       "choices": [
         {
           "letter": "A",
-          "text": "Seligman",
+          "text": "örneğe benzerlik",
           "images": []
         },
         {
           "letter": "B",
-          "text": "Rogers",
+          "text": "prototip",
           "images": []
         },
         {
           "letter": "C",
-          "text": "Freud",
+          "text": "temsil edicilik",
           "images": []
         },
         {
           "letter": "D",
-          "text": "Maslow",
+          "text": "kritik özellikler",
           "images": []
         },
         {
           "letter": "E",
-          "text": "Plutchik",
+          "text": "karşılaştırma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "bir beyin tramvasına bağlı olarak yaşadığı amnezi sonucunda kendi adını bile hatırlaman ünlü bir bisiklet yarışçısı, bisiklet sürme konusunda eskiden olduğu gibi çok iyi performans göstermektedir.\nYukarıdaki örnek vaka uzun bellekle ilgili aşağıdaki görüşlerden hangisi için bir kanıt olarak gösterilebilir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "uzun süreli bellekte bilginin olduğu gibi temsil edildiği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Uzun süreli bellekte açık belleğin amneziden etkilenmediği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Uzun süreli bellekte baskın kodlama biçiminin anlamaya dayalı olduğu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Uzun süreli belleğin açık bellek ve prosedürel bellek adı verilen türlerinin olduğu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireyin uzun süreli bellekte bilgiyi saklama değil geri getirme başarısızlığı olduğu",
           "images": []
         }
       ],
@@ -116,209 +116,209 @@
     },
     {
       "n": 4,
-      "type": "multiple_choice_text",
-      "stem": "Paralel Dağılımlı Bilgi İşleme Modeli nedir?",
+      "type": "legacy_text",
+      "stem": "siyah bir köpekle tramvatik (acı veren) bir deneyim yaşayan bir çocuğun siyah ve tüylü tüm nesnelere korku tepkisi veröesi hangisidir?",
       "stem_images": [],
       "tables": [],
       "choices": [
         {
           "letter": "A",
-          "text": "Bilginin insanlara özgü bir olgu olduğunu öne süren modeldir.",
+          "text": "olumsuz pekiştirme",
           "images": []
         },
         {
           "letter": "B",
-          "text": "Bilginin bilgisayara benzer bir şekilde işlendiğini öne süren modeldir.",
+          "text": "sönme",
           "images": []
         },
         {
           "letter": "C",
-          "text": "Bilginin zihinde yapılandırıldığını öne süren modeldir.",
+          "text": "genelleme",
           "images": []
         },
         {
           "letter": "D",
-          "text": "Bilginin nörolojik ağlara benzer bir şekilde işlendiğini öne süren modeldir.",
+          "text": "ayırt etme",
           "images": []
         },
         {
           "letter": "E",
-          "text": "Bilginin öğrenme deneyimlerine dayandığını öne süren modeldir.",
-          "images": []
-        }
-      ],
-      "answer": "D"
-    },
-    {
-      "n": 5,
-      "type": "multiple_choice_text",
-      "stem": "Darwin, bazı duyguların ifade edilişindeki benzerliği aşağıdakilerden hangisinin bir göstergesi olarak kabul etmiştir ?",
-      "stem_images": [],
-      "tables": [],
-      "choices": [
-        {
-          "letter": "A",
-          "text": "Genetik değişkenlik avantajlıdır.",
-          "images": []
-        },
-        {
-          "letter": "B",
-          "text": "Duygular en sağlıklı türün yaşamasını sağlar .",
-          "images": []
-        },
-        {
-          "letter": "C",
-          "text": "Bütün türler duyguları öğrenirler.",
-          "images": []
-        },
-        {
-          "letter": "D",
-          "text": "İnsanların duyguları benzersizdir.",
-          "images": []
-        },
-        {
-          "letter": "E",
-          "text": "Duygular türlerin evriminin bir parçasıdır ve tüm kültürlerde benzer yapılar izlenebilir.",
-          "images": []
-        }
-      ],
-      "answer": "E"
-    },
-    {
-      "n": 6,
-      "type": "multiple_choice_text",
-      "stem": "Yaratıcılık ve zeka arasındaki ilişkilerle ilgili olarak aşağıdakilerden hangisi doğrudur?",
-      "stem_images": [],
-      "tables": [],
-      "choices": [
-        {
-          "letter": "A",
-          "text": "Yaratıcılık zekanın bir işlevidir.",
-          "images": []
-        },
-        {
-          "letter": "B",
-          "text": "Ortalama bir zeka seviyesinden sonra, zeka ile yaratıcılık arasında bir ilişki yoktur.",
-          "images": []
-        },
-        {
-          "letter": "C",
-          "text": "Yaratıcı bireyler aynı zamanda üstün zekalıdır.",
-          "images": []
-        },
-        {
-          "letter": "D",
-          "text": "Zeki olmak ile yaratıcı olmak arasında bir bağlantı bulunmamaktadır.",
-          "images": []
-        },
-        {
-          "letter": "E",
-          "text": "Üstün zekalı bireyler aynı zamanda yaratıcıdır",
-          "images": []
-        }
-      ],
-      "answer": "B"
-    },
-    {
-      "n": 7,
-      "type": "multiple_choice_text",
-      "stem": "Hangisi bir problem çözme yolu değildir?",
-      "stem_images": [],
-      "tables": [],
-      "choices": [
-        {
-          "letter": "A",
-          "text": "Kontrol etme",
-          "images": []
-        },
-        {
-          "letter": "B",
-          "text": "Geriye doğru çalışma",
-          "images": []
-        },
-        {
-          "letter": "C",
-          "text": "Deneme-yanılma",
-          "images": []
-        },
-        {
-          "letter": "D",
-          "text": "Höristik",
-          "images": []
-        },
-        {
-          "letter": "E",
-          "text": "Algoritma",
-          "images": []
-        }
-      ],
-      "answer": "A"
-    },
-    {
-      "n": 8,
-      "type": "multiple_choice_text",
-      "stem": "“Uyarılmışlık düzeyinin performansı etkileme derecesi, bireyin göreve aşinalığına veya görevin kolaylığına/zorluğuna bağlıdır” ifadesi hangi isimle bilinen ilkeyi tanımlar?",
-      "stem_images": [],
-      "tables": [],
-      "choices": [
-        {
-          "letter": "A",
-          "text": "Papez-Mclean",
-          "images": []
-        },
-        {
-          "letter": "B",
-          "text": "Müller-Lyer",
-          "images": []
-        },
-        {
-          "letter": "C",
-          "text": "Yerkes-Dodson",
-          "images": []
-        },
-        {
-          "letter": "D",
-          "text": "James-Lange",
-          "images": []
-        },
-        {
-          "letter": "E",
-          "text": "Cannon-Bard",
+          "text": "birinci tip ceza",
           "images": []
         }
       ],
       "answer": "C"
     },
     {
-      "n": 9,
-      "type": "multiple_choice_text",
-      "stem": "Şeyleri birtakım ortak özelliklerine göre sınıflandırabilmek ve bu yolla düzenleyebilmek için kullanılan yapılara ne denir?",
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "bireyin yalnızken gösterdiği davranışların grup yada kitle içine girince değiştiğini gözleyen ve bu durumu sistematik olarak incelemeye karar veren psikolog psikolojinin hangi alt alanında çalışmaktadır?",
       "stem_images": [],
       "tables": [],
       "choices": [
         {
           "letter": "A",
-          "text": "Tanım",
+          "text": "sosyal psikoloji",
           "images": []
         },
         {
           "letter": "B",
-          "text": "Teori",
+          "text": "klinik psikoloji",
           "images": []
         },
         {
           "letter": "C",
-          "text": "Zihinsel temsil",
+          "text": "endüstri ve örgüt psikolojisi",
           "images": []
         },
         {
           "letter": "D",
-          "text": "Sıfat",
+          "text": "gelişim psikolojisi",
           "images": []
         },
         {
           "letter": "E",
-          "text": "Kavram",
+          "text": "deneysel psikoloji",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "görece yeni olmasına karşın son yıllarda psikolojinin tüm dallarına etki etmiş bir düşünce okulu olma özelliği kazanan ve kuzey amerika psikolojisinde 1960ların ortalarından itibaren başat yaklaşım olarak davranışçılığın yerini almaya başlayan psikoloji yaklaşımı hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "insancıl",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "psikodinamik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bilişselci",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "yapısalcı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "davranışçı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "şekilde yer alan 15 figürün bir ağaç olarak algılanmasına yol açan gestalt gruplama ilkesi hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "benzerlik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "ortak hareket",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "süreklilik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "tamamlama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "yakınlık",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "figüre dikkatli bir şekilde bakıp artık bir kez figürün hem saksafon çalan bir adam hemde bir kadın yüzü olarak algılanabileceği görüldülten sonra kişinin algısını bu iki figürden birine sabitlemekte zorlanması algının özelliklerinden hangisine bir örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "algının aktif bir şekilde inşa edilen bir süreç olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bir nesneye ilişkin tek bir algının mümkün olması gerçeği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bir nesneye ilişkin ilk algılamaya güvenilmesi gerektiği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "algıda her bir uyaranın tek bir mantıklı yorumu olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "algıda gerçekliğin otomatik olarak yorumlanması",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "algı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "bir nesnenin doğru bir biçinde zihinde temsil edilmesidir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bir nesneye bakıldığında nesneden gelen ışık dalgalarını kaydetme sürecidir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "duyumların kaydedilmesi sürecidir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "duyumlara dayanan nesnel bir süreçtir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "yorumlama faaliyetini içeren öznel bir süreçtir",
           "images": []
         }
       ],
@@ -326,349 +326,349 @@
     },
     {
       "n": 10,
-      "type": "multiple_choice_text",
-      "stem": "Tomasello’nun insanlarda dil olgusu hakkında öne sürdüğü hipotez hangisidir?",
+      "type": "legacy_text",
+      "stem": "olumlu korelasyona hangisi örnektir ?",
       "stem_images": [],
       "tables": [],
       "choices": [
         {
           "letter": "A",
-          "text": "Bireyin dünyaya ilişkin düşünme biçimleri, konuştuğu dilin bir ürünüdür",
+          "text": "kaygı düzeyi azaldıkça sınav performansı artar",
           "images": []
         },
         {
           "letter": "B",
-          "text": "Daha çok türdeşlerimizle iletişim kurmak, birbirimizi anlamak ve birbirimizden öğrenmek gibi doğuştan getirdiğimiz başka sosyal eğilimlerimizin bir yan ürünüdür",
+          "text": "stres azaldıkça iş veriimi artar",
           "images": []
         },
         {
           "letter": "C",
-          "text": "Beynin sol yarı küresinde bulunan ve sözcük anlama işlevi olan Wernicke bölgesinin bir ürünüdür",
+          "text": "derse devamszlık azaldıkça dersteki başarı artar",
           "images": []
         },
         {
           "letter": "D",
-          "text": "Ses bilgisi, söz dizimi ve anlam bilgisini içeren bazı özellikleri ve kuralları çok erken yaşlarda algılamamızı sağlayan, doğuştan getirdiğimiz Dil Edinim Aracı’nın bir ürünüdür",
+          "text": "gürültü azaldıkça dikkat düzeyi artar",
           "images": []
         },
         {
           "letter": "E",
-          "text": "Beyinde sol frontal lobda bulunan ve sözcük üretme işlevi olan Broca bölgesinin bir ürünüdür",
+          "text": "hane başına düşen kişi sayısı arttıkça yoksulluk artar",
           "images": []
         }
       ],
-      "answer": "B"
+      "answer": "E"
     },
     {
       "n": 11,
-      "type": "multiple_choice_text",
-      "stem": "Freudyen teoride bireyin dürtüleri ve tutkuları dizginleyerek bir polis memuru gibi davranan yönüne ne ad verilir?",
+      "type": "legacy_text",
+      "stem": "algıda temel bir örgütlenme ilkesi olan şekil-zemin ilişkisi ile hangisi doğrudur?",
       "stem_images": [],
       "tables": [],
       "choices": [
         {
           "letter": "A",
-          "text": "İd",
+          "text": "nesne olay ve kişiler daima bir şekil-zemin ilişkisi içinde algılanır",
           "images": []
         },
         {
           "letter": "B",
-          "text": "Libido",
+          "text": "şekil ve zemin algılanan uyaranların sabit bir özelliğidir",
           "images": []
         },
         {
           "letter": "C",
-          "text": "Süperego",
+          "text": "aynı uyaranı algılayan herkes için şekil ve zemin aynıdır",
           "images": []
         },
         {
           "letter": "D",
-          "text": "Ego",
+          "text": "şekil-zemin ilişkisi görsel algıya özgü önemli bir örgütleyici ilkesidir",
           "images": []
         },
         {
           "letter": "E",
-          "text": "Savunma mekanizması",
-          "images": []
-        }
-      ],
-      "answer": "C"
-    },
-    {
-      "n": 12,
-      "type": "multiple_choice_text",
-      "stem": "Aşağıdaki kavramlardan hangisi kişilik tanımlanırken vurgulanmaz?",
-      "stem_images": [],
-      "tables": [],
-      "choices": [
-        {
-          "letter": "A",
-          "text": "Değişkenlik",
-          "images": []
-        },
-        {
-          "letter": "B",
-          "text": "Ayırt edicilik",
-          "images": []
-        },
-        {
-          "letter": "C",
-          "text": "Zaman içinde tutarlılık",
-          "images": []
-        },
-        {
-          "letter": "D",
-          "text": "Benzersizlik",
-          "images": []
-        },
-        {
-          "letter": "E",
-          "text": "Nisbeten kalıcılık",
+          "text": "şekil ve zemin olma dış dünyadaki uyaranların nesnel bir özelliğidir.",
           "images": []
         }
       ],
       "answer": "A"
     },
     {
-      "n": 13,
-      "type": "multiple_choice_text",
-      "stem": "Bir dilde daha küçük yapılara bölündüğünde anlamını kaybeden yapıya ne denir?",
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "ayaklı fotoğraf : fotoğrafta yer alan gencin ayaklarının orantısız bie biçimde büyük görünmesinin nedeni hangisidir ?",
       "stem_images": [],
       "tables": [],
       "choices": [
         {
           "letter": "A",
-          "text": "Fenomen",
+          "text": "örtüşme ipucunun bilerek kullanılmaması",
           "images": []
         },
         {
           "letter": "B",
-          "text": "İsim",
+          "text": "tek göze bağlı uzaklık ipuçlarının zayıf olması",
           "images": []
         },
         {
           "letter": "C",
-          "text": "Fonem",
+          "text": "şekil değişmezliği hissinin görüntüyü çarpıtması",
           "images": []
         },
         {
           "letter": "D",
-          "text": "Olgu",
+          "text": "iki göze bağlı uzaklık ipuçlarının zayıf olması",
           "images": []
         },
         {
           "letter": "E",
-          "text": "Morfem",
+          "text": "şekil-zemin ilişkisinin belirsiz olması",
           "images": []
         }
       ],
-      "answer": "E"
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Göze hava üflenmesiyle eşleştirilen sesin, gözün kırpıştırılmasına yol açtığı bir deneyde, daha sonra sadece ses karşı verilen göz kırpıştırma tepkisine ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "koşullu uyarıcı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "koşulsuz tepki",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bağımsız tepki",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "koşullu tepki",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "koşulsuz uyarıcı",
+          "images": []
+        }
+      ],
+      "answer": "D"
     },
     {
       "n": 14,
-      "type": "multiple_choice_text",
-      "stem": "Kısa zamanda optimum hızda ve etkide yargılama yolu hangisidir?",
+      "type": "legacy_text",
+      "stem": "Davranışçı yaklaşımın çalışma konusu hangisidir",
       "stem_images": [],
       "tables": [],
       "choices": [
         {
           "letter": "A",
-          "text": "Anlama",
+          "text": "bilginin zihinde nasıl işlemden geçirildiğini araştırır",
           "images": []
         },
         {
           "letter": "B",
-          "text": "Deneme-yanılma",
+          "text": "İnsan zihnini oluşturan en temel elementleri inceler",
           "images": []
         },
         {
           "letter": "C",
-          "text": "Algoritma",
+          "text": "İnsan ve hayvanların gözlenebilir eylemlerini inceler",
           "images": []
         },
         {
           "letter": "D",
-          "text": "Zihinsel çevirme",
+          "text": "Davranışı yönlendiren bilinçdışı süreçleri araştırır",
           "images": []
         },
         {
           "letter": "E",
-          "text": "Höristik",
+          "text": ". Zihinsel deneyimleri bütünsel olarak ele alır",
           "images": []
         }
       ],
-      "answer": "E"
+      "answer": "C"
     },
     {
       "n": 15,
-      "type": "multiple_choice_text",
-      "stem": "İnsanların problem çözme becerileri ile ilk ilgilenen yaklaşım hangisidir?",
+      "type": "legacy_text",
+      "stem": "Aşağıdaki uygulamalardan hangisi şekillendirme yoluyla öğrenme sürecini ifade eder?.",
       "stem_images": [],
       "tables": [],
       "choices": [
         {
           "letter": "A",
-          "text": "Hümanizm",
+          "text": "organizma davranışı her gösterdiğinde sistematik olarak pekiştirme verilmez",
           "images": []
         },
         {
           "letter": "B",
-          "text": "Evrimsel",
+          "text": "organizma hedef davranışa ulaşana kadar kademe kademe pekiştirilir",
           "images": []
         },
         {
           "letter": "C",
-          "text": "Bilişsel",
+          "text": "organizma davranışı her gösterdiğinde düzenli olarak pekiştirilir",
           "images": []
         },
         {
           "letter": "D",
-          "text": "Psikoterapi",
+          "text": "organizmanın davranışı sabit aralıklarla düzenli olarak pekiştirilir",
           "images": []
         },
         {
           "letter": "E",
-          "text": "Gestalt",
+          "text": "organizmanın davranışı değişken aralıklarla pekiştirilir",
           "images": []
         }
       ],
-      "answer": "E"
+      "answer": "B"
     },
     {
       "n": 16,
-      "type": "multiple_choice_text",
-      "stem": "Aşağıdaki yüz ifadelerinden hangisi evresel olarak kabul edilen 7 duygudan biri değildir?",
+      "type": "legacy_text",
+      "stem": "bir öğretmenin haber vermeden yaptığı mini sınav aşağıdaki pekiştirme tarifelerinden hangisine örnektir?",
       "stem_images": [],
       "tables": [],
       "choices": [
         {
           "letter": "A",
-          "text": "Korku",
+          "text": "sabit zaman aralıklı pekiştirme",
           "images": []
         },
         {
           "letter": "B",
-          "text": "Mutluluk",
+          "text": "sabit oranlı pekiştirme",
           "images": []
         },
         {
           "letter": "C",
-          "text": "İğrenme",
+          "text": "sürekli pekiştirme",
           "images": []
         },
         {
           "letter": "D",
-          "text": "Endişe",
+          "text": "değişken oranlı pekiştirme",
           "images": []
         },
         {
           "letter": "E",
-          "text": "Aşağılama",
-          "images": []
-        }
-      ],
-      "answer": "D"
-    },
-    {
-      "n": 17,
-      "type": "multiple_choice_text",
-      "stem": "Aşağıdakilerden hangisi bir duygu hissettiğimiz durumları tanımlayan bileşenlerden biri değildir?",
-      "stem_images": [],
-      "tables": [],
-      "choices": [
-        {
-          "letter": "A",
-          "text": "Olay, nesne ya da düşünceyi yorumlama ve değerlendirme",
-          "images": []
-        },
-        {
-          "letter": "B",
-          "text": "Olay, nesne ya da düşünceyi fark etme",
-          "images": []
-        },
-        {
-          "letter": "C",
-          "text": "Harekete geçme veya bir tepki üretme",
-          "images": []
-        },
-        {
-          "letter": "D",
-          "text": "Uygun fizyolojik tepkilerin oluşması",
-          "images": []
-        },
-        {
-          "letter": "E",
-          "text": "Uygun fizyolojik tepkilerin ortadan kalkması",
+          "text": "değişken zaman aralıklı pekiştirme",
           "images": []
         }
       ],
       "answer": "E"
     },
     {
-      "n": 18,
-      "type": "multiple_choice_text",
-      "stem": "Hangisi yaratıcı bireylerde sık rastlanan kişilik özelliği değildir?",
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "bilişsel öğrenme süreci ile ilgili hangisi doğrudur ?",
       "stem_images": [],
       "tables": [],
       "choices": [
         {
           "letter": "A",
-          "text": "Bağımsız davranma",
+          "text": "bilişsel öğrenmede algı, dikkat, bellek gibi zihinsel süreçlerin rolü yoktur",
           "images": []
         },
         {
           "letter": "B",
-          "text": "Yeni deneyimler yaşamaktan kaçınmak",
+          "text": "bilişsel öğrenmede öğrenmeyi sağlayan temel mekanizma pekiştirme ve cezadır",
           "images": []
         },
         {
           "letter": "C",
-          "text": "Karmaşık/zor olana eğilim göstermek",
+          "text": "bilişsel öğrenme esas olarak uyarıcı ve tepki bağının öğrenilmesidir",
           "images": []
         },
         {
           "letter": "D",
-          "text": "Belirsizliğe tolerans",
+          "text": "bilişsel öğrenme yaklaşımında öğrenme ve performans aynı şeyler değildir",
           "images": []
         },
         {
           "letter": "E",
-          "text": "Risk almak",
+          "text": "bilişsel yolla gerçekleşen öğrenme daima gözlenebilir bi değişiklik Yaratır",
           "images": []
         }
       ],
       "answer": "D"
     },
     {
-      "n": 19,
-      "type": "multiple_choice_text",
-      "stem": "Zajong’a göre aşağıdakilerden hangisi yanlıştır?",
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "hangisinin davranışlarda ve zihinsel süreçte neden olduğu kalıcı değişim öğrenme olarak tanımlanır?",
       "stem_images": [],
       "tables": [],
       "choices": [
         {
           "letter": "A",
-          "text": "Hızlı duygusal tepki üretme amigdala sayesinde gerçekleşir.",
+          "text": "merakın",
           "images": []
         },
         {
           "letter": "B",
-          "text": "Önce tehdit edici bulunup tepki verilen bir uyaran, bilişsel değerlendirmeden sonra tehdit edici bulunmayabilir.",
+          "text": "genlerin",
           "images": []
         },
         {
           "letter": "C",
-          "text": "Bir duygu hissetmek için önce bilişsel değerlendirme yapılması gerekmez.",
+          "text": "deneyimlerin",
           "images": []
         },
         {
           "letter": "D",
-          "text": "Bilişsel değerlendirmeler duygulardan daha yavaş ortaya çıkarlar.",
+          "text": "zekanın",
           "images": []
         },
         {
           "letter": "E",
-          "text": "İnsanlar bilişsel değerlendirme yapmadan duygusal tepki vermezler.",
+          "text": "ders çalışmanın",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Hangisi bir kavramdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "çam",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "meşe",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "ladin",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "köknar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "ağaç",
           "images": []
         }
       ],
@@ -676,64 +676,392 @@
     },
     {
       "n": 20,
-      "type": "multiple_choice_text",
-      "stem": "Yaratıcı bireylerin özellikleri ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "type": "legacy_text",
+      "stem": "wunt un öncülğünü yaptığı insanın zihinsel deneyimini olabilecek en küçük parçalara bölerek, onu oluşturan temel elementleri saptamaya çalışan psikolojik yaklaşım hangisidir ?",
       "stem_images": [],
       "tables": [],
       "choices": [
         {
           "letter": "A",
-          "text": "Yaratıcı bireyler her zaman esprili ve şakacı insanlardır.",
+          "text": "yapısalcı",
           "images": []
         },
         {
           "letter": "B",
-          "text": "Bir bireyin yaratıcı olması için evrensel değeri olan özgün bir üretimi olmalıdır.",
+          "text": "davranışçı",
           "images": []
         },
         {
           "letter": "C",
-          "text": "Yaratıcı bireylerin çoğunda akıl hastalıkları görülür.",
+          "text": "bilişsel",
           "images": []
         },
         {
           "letter": "D",
-          "text": "Yaratıcı bireyler sınırlı bir ilgi alanı çeşitliliğine sahiptir.",
+          "text": "insancıl",
           "images": []
         },
         {
           "letter": "E",
-          "text": "Yaratıcı bireylerin merak ve kurcalama güdülerinin yüksek olduğu düşünülmektedir.",
+          "text": "psikodinamik",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "F klavyede 10 parmak yazmayı öğrenmiş birinin Q klavyede 10 parmak yazmasının Q klavyeyi yeni öğrenen birinden daha zor olmasının nedeni aşağıdaki kavramlardan hangisiyle açıklanır ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "zihinsel imgeleme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "zihinsel kurulum",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "deneme-yanılma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "algoritma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "kestirme",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "hangisi problem çözme stratejisi olan algoritmanın bir özelliğidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "problemi çözmek için en etkili yolun kullanılmasını içerir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "algoritmalarla problem çözmek keskin bir zekanın göstergesidir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "problemi pratik yollarla çözmeye yardımcı olur",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "kurallara uyulduğu sürece kesinlikle doğru sonuca ulaşılır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "problemin çözümünde plan yapmaya gerek yoktur",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "kilitli bir kapının önünde elinde bir deste anahtarın olduğu varsayılırsa, kapıyı açan anahtarı bulabilmek için seçilecek strateji hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "deneme-yanılma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "zihinsel harita",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "algoritma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "analoji",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "zihinsel imgelem",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "düşüncenin önemli bir yapıtaşı olan imgeler ile ilgili hangisi doğrusur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "imgeler sözel olmayan düşünme yollarıdır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "psikolojide en çok araştırma yapılan imgeler görsel olanlardır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "imgeler, dünyanın zihinde 5 duyu formunda temsil edilmesidir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "nesneler imgeler sayesinde zihinde tek tek temsil edilmek yerine kategoriler halinde temsil edilir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "imgeler dünyaya ait soyut zihinsel temsillerdir",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "bellekle ilgili hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "belleğe aktarılan olay ve duygular, aktarıldığı gibi hatırlanır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bellek hakkında çok az bilgi mevcuttur",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bellek dünyadaki olay ve duyguların olduğu gibi aktarıldığı yerdir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "bellek olay ve duyguların toplamından ibarettir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "bellek bilişsel psikologlar tarafından çalışılan bir psikoloji konudur",
           "images": []
         }
       ],
       "answer": "E"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "psikologların belleğin çalışmasını açıklamada kullandıkları bilgi işleme modeline göre bellek nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "yaşananları tıpatıp kaydeden bir kayıt cihazıdır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "zihinsel enerji harcamaksızın hatırlamayı sağlayan bir sistemdir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "duyumları beyne aktaran sinirsel bir sistemdir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "aktif bir şekilde inşa edilen zihinsel bir süreçtir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "yaşantıların doldurulduğu bir depodur",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "duyusal kayıt sistemindeki süreçlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "yeni gelen görsel kayıtlara yer açmak için eski görsel kayıtlar sistemden atılır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "sisteme giren her bir uyarıcı işleme konmadan konmadan sistemden atılamaz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "duyusal kayıt sisteminde işitsel bilgi görsel bilgiden daha yavaş silinir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "kuramsal olarak duyusal kayıt kapasitesi sınırsızdır ama kayıtta kalma süresi çok sınırlıdır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "sisteme giren her uyarıcı kendi formlarında duyusal kayda geçer.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "hangisi kısa süreli belleğin özelliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "bilgi alma kapasitesi çok dardır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bilgiler anlam ilişkisi yönünden örgütlenmiştir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "tam bir unutma olmaz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "zaman sınırı çok geniştir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "bilgiyi örgütleme, hatırlamada ipucu verir",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "çifte-kodlama kuramı’nın savunduğu düşünce hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "kısa süreli bellekte bir uyarıcıyı aynı anda iki formda kodlamak daha kötü sonuç verir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "kısa süreli bellekte bir uyarıcıyı aynı anda iki formda kodlamak daha iyi sonuç verir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "uzun süreli bellekte bir uyarıcıyı aynı anda iki formda kodlamak daha iyi sonuç verir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "uzun süreli bellekte bir uyarıcıyı aynı anda iki formda kodlamak daha kötü sonuç verir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "duyusal kayıt sisteminde bir uyarıcıyı aynı anda iki formda kodlamak daha kötü sonuç verir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "hangisi bir endüstri/örgüt psikologunun çalışma alanına girer?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "şizofrenin ortaya çıkışında aile içi iletişim biçiminin etkisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bir işyerindeki çalışanların ücretlerinin ödeneme aralıklarının performansa etkisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bir deneyde farelerin ödülün varlığı ve yokluğunda bir labirenti öğrenme hızları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "saldırgan bir modeli izlemenin çocukların saldırgan davranışları üzerindeki etkisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "bir deneyde ortamdaki kişi sayısının yardım etme istekliliği üzerindeki etkisi",
+          "images": []
+        }
+      ],
+      "answer": "B"
     }
   ],
   "_debug": {
-    "numbers": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20
-    ],
-    "wrappers": 1
+    "format": "legacy"
   },
-  "content_hash": "61ba8858b7b2a82d1edc5f4e68219bad37b52ee2e0cc9ec734d4214ae2bde49b"
+  "content_hash": "365939d65cfe9d6c0e062ad387ecf882ae3207f661738175afa6569934e8d79b"
 }

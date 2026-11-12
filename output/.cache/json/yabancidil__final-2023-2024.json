@@ -1,0 +1,739 @@
+{
+  "course": "Yabancı Dil 1-2 ( İngilizce )",
+  "course_slug": "yabancidil",
+  "exam": "2023-2024 Final Soruları",
+  "exam_slug": "final-2023-2024",
+  "page_title": "İngilizce -2 2023-2024 Final Soruları",
+  "source_url": "https://lolonolo.com/2024/07/05/ingilizce-2-2023-2024-final-sorulari/",
+  "scraped_at": "2026-11-12T11:33:22+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "A: Excuse me, sir! ….. you ….. me the time?\n B: It’s ten to ten.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Did - tell",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Do - telling",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Could - tell",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Are - tell",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Will - to tell",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "It is ….. outside. You should wear your gloves.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "wind",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "storm",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "fog",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "snowy",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "rain",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "I love her, but ….. doesn’t love ….. .",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "you - she",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "she - she",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "she - he",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "she - me",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "he - I",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "I ….. play the guitar when I was young but now I can.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "couldn't",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "did",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "could",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "can",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "was",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "We need to find solutions to help the poor people in our ….. . When you give them the chance, you’ll see an effective improvement in their lives.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "members",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "society",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "friendship",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "order",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "race",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Skiing is my favourite activity. It is ….. .",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "bored",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "frustrated",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "boring",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "amazed",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "amazing",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "In her kitchen, there are some ….. tools. Each has a special use.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "patterns",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "functional",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "develop",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "tiles",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "store",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "A: How is the weather going to be tomorrow?\n B: I checked the weather forecast a few hours ago. It is going to be 30°C and very ….. .",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "sunny",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "rainy",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "cloudy",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "windy",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "warm",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "A: Your grandmother was ill last week. Did ….. call ….. ? B: Yes, I called her two days ago.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "you - her",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "he - her",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "your - your",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I - me",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "you - you",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "I ….. in that house when I was a child.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "live",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "have lived",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "to live",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "lived",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "living",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Steve is ….. .",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "moustache",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "short hair",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "curly hair",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "beard",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "middle-aged",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "A: ….. have you been here? B: For only ten minutes.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "How long",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "What",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "How often",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Which",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Where",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "A: What are the plans for this weekend? B: We ….. to a concert with friends. Would you like to come with us?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "went",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "go",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "are going",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "goes",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "have gone",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "This is ….. house in this neighborhood.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "beautiful than",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "be beautiful",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "the most beautiful",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "beautiful more",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "more beautiful than",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "The cake looks delicious, ….. I’m gluten-free.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "because",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "but",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "ever",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "never",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "so",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Julia is …… her sister.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "quiet",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "quieter than",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "the quietest",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "quieter",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "most",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "I ….. Jim at the airport tomorrow morning.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "to meet",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "has met",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "am meeting",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "met",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "meeting",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "A: What is Daniel like? B: ….. .",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "He likes playing with cats.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "He has got long hair.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "He doesn't like reading.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "He is tall and handsome.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "He is friendly and talkative.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "We organized a party for Rasim because it was his birthday last week. He was ….. when he saw all his friends.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "interesting",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "amazing",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "surprising",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "surprised",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "interested",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Where ….. Aziz Sancar born?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "has",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "does",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "did",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "is",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "was",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "e26d8f11cb8dd447113aa1edaa9b5efac800b71b5e4dc838ad498ca58c28865c"
+}

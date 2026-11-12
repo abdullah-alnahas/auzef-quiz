@@ -1,0 +1,739 @@
+{
+  "course": "Hukukun Temel Kavramları",
+  "course_slug": "hukukun-temel-kavramlari",
+  "exam": "2022-2023 Vize Soruları",
+  "exam_slug": "vize-2022-2023",
+  "page_title": "Hukukun Temel Kavramları 2022-2023 Vize Soruları",
+  "source_url": "https://lolonolo.com/2022/11/28/hukukun-temel-kavramlari-2022-2023-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:35:04+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Tüzel kişiler hangi andan itibaren fiil ehliyetine sahip olurlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gerekli organlara sahip oldukları anda",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kuruldukları anda kendiliğinden",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yeterli mali kaynağa ulaştıkları anda",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İzin aldıkları anda",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İkinci genel kuruldan sonra",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Kişinin hak ve borçlara sahip olabilme ehliye Türk hukuk sisteminde hangi kavramla tanımlanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tam ehliyetlilik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sınırlı ehliyetlilik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fiil ehliyeti",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sınırlı ehliyetsizlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hak ehliyeti",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "13 yaşındaki temyiz kudretine (ayırt etme gücüne) sahip küçüğün ana ve babasının iznini almadan yapmış olduğu iki tarafa borç yükleyen bir sözleşmenin yaptırımı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İptal",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İdari para cezası",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tek taraflı bağlamazlık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yokluk",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yok hükmünde sayma",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Evlilik sözleşmesinin evlendirme memuru önünde yapılmamasının yaptırımı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nispi butlan",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İptal",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mutlak butlan",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yokluk",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İdari para cezası",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Ülke içinde, o ülkenin hukuk kurallarının yabancı- vatandaş ayrımı yapılmaksızın herkese uygulanmasına ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kanunların göreceliği prensibi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kanunların mülkiliği prensibi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kanuni hâkim prensibi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kanunların şahsiliği prensibi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kanunların evrenselliği prensibi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "“Pozitif hukuk” ile “doğal hukuk” arasındaki fark aşağıdaki seçeneklerden hangisinde doğru olarak ifade edilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Pozitif hukuk yalnız kanun biçiminde çıkarılır, doğal hukuk tüzük, yönetmelik, yönerge biçiminde de Çıkarılabilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Pozitif hukuk ceza davalarında uygulanır, doğal hukuk, hukuk davalarında uygulanır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Pozitif hukuk yazılı değildir, doğal hukuk yazılıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pozitif hukukun somut yaptırımları yoktur, doğal hukukun somut yaptırımları vardır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Pozitif hukuk olanı, doğal hukuk olması gerekeni ifade eder.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi toplumsal düzen kurallarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Din kuralları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İktisadi kurallar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Görgü kuralları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ahlak kuralları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hukuk kuralları",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bir hukuki yaptırımdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ayıplama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Toplumdan dışlama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hor görme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kinama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Cebri icra",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Toplumsal hayatı düzenleyen yazılı olmayan kurallara aykırı davranıldığında karşılaşılacak olan tepki aşağıdakilerden hangisi olamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kınanma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Küçümsenme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hapis ceza",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ayıplanma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Toplumdan dışlanma",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "I. Kanun II. Yönetmelik III. Örf-adet kuralları IV. Doktrin/öğreti V. İçtihat (Mahkeme kararları) Yukarıdakilerden hangisi veya hangileri hukukun yardımcı kaynaklarındandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II, III, IV, V",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I, IV, V",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "IV ve V",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "III, IV, V",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Kişinin devlet tarafından aşılamayacak ve dokunulamayacak özel alanının sınırlarını belirleyen hak ve özgürlüklere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aktif statü hakları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Medeni haklar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İdari haklar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Negatif statü hakları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Pozitif statü hakları",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Hâkimin yasada ve örf âdet hukukunda, somut bir olaya uygulayacak hukuk kuralı bulamamasına ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tam ehliyetlilik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sınırlı ehliyetlilik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fiil ehliyeti",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sınırlı ehliyetsizlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hak ehliyeti",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Tek taraflı irade açıklamasıyla yeni bir hukuksal durum yaratan, mevcut bir hukuksal durumu değiştiren veya ortadan kaldıran haklara ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnşai hak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İntifa hakkı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mutlak hak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İrtifak hakkı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Nispi hak",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Sahipsiz taşınmaz malların aslen kazanılmasına ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sahiplenme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bulma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İşgal",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tapu devri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Devren kazanma",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Bir hukuksal sonuç elde etmek amacıyla yapılan irade açıklamasına ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İkrah",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hukuksal işlem",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İcap",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Muvazaa",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hukuksal fiil",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Bir ülkede devletin yetkili organlarınca konulmuş (vaz edilmiş) ve uygulanması zorunlu olan yazılı hukuk kurallarına ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Pozitif hukuk",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dogmatik hukuk",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğreti",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doğal hukuk",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mevzu hukuk",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hukuk kurallarının özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Her konuda düzenlenebilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kamu gücüyle desteklenir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaptırımları manevidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Toplumsal hayatı düzenler.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Toplumun genelini ilgilendirir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "“Taksitli alışverişlerde, bir taksit için alındı makbuzu verilmiş ise, önceki taksitler de ödenmiş sayılır.” Yukarıdaki kural, nasıl bir hukuk kuralıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ilga edici",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yorumlayıcı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tanımlayıcı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Emredici",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yetki verici",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi negatif statü haklarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sağlık hakkı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal güvenlik hakkı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çalışma hakkı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Din ve vicdan özgürlüğü hakkı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Konut hakkı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hukuksal yaptırımlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplumsal dışlama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Para cezası",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hapis cezası",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Maddi tazminat",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Manevi tazminat",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "d2ed89acf3f2c7ef0115da5ea435e30e88ed1ec7cddb3a2d0d59016ec5268cec"
+}

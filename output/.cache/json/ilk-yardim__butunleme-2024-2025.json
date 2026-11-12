@@ -1,0 +1,739 @@
+{
+  "course": "İlk Yardım",
+  "course_slug": "ilk-yardim",
+  "exam": "2024-2025 Bütünleme Soruları",
+  "exam_slug": "butunleme-2024-2025",
+  "page_title": "İlk Yardım 2024-2025 Bütünleme Soruları (Güz)",
+  "source_url": "https://lolonolo.com/2025/08/24/ilk-yardim-2024-2025-butunleme-sorulari-guz/",
+  "scraped_at": "2026-11-12T11:34:10+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi akrep sokmalarında doğru bir ilk yardım uygulamasıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yara üzerine hiçbir girişim yapılmaz.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaralı oturur pozisyonda tutulur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaralı bölge hareket ettirilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaraya sıcak uygulama yapılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kan dolaşımını hızlandırmak için ovulur.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Omurilik yaralanmalarında ve şüphesinde kullanılan sedye üzerine yerleştirme tekniği kaç kişi tarafından uygulanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6 kişi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "8 kişi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "5 kişi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3 kişi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "4 kişi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi boğulmalarda uygulanan genel ilk yardım işlemlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Derhal tibbi yardım istenir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Boğulma sebebi ortadan kaldırılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Temel yaşam desteği sağlanır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaşamsal fonksiyonlar kontrol edilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mineral kaybını önlemek için maden suyu içirilir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “Sedye ile taşıma kurallarından” biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Düşmesini önlemek için hasta sedyeye bağlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Güçlü olan ilkyardım yapan kişi hasta ya da yaralının baş kısmında olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sedye daima düşey konumda olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hastanın başı gidiş yönünde olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hasta ya da yaralı battaniye ya da çarşaf gibi bir malzeme ile sarılmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Hasta ya da yaralının ciddi bir yaralanması yoksa altın beşik yöntemi ile taşımayla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dört elle altın beşik yapılabilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İki, üç, dört elle altın beşik yapılabilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir el ile altın beşik yapılabilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Üç elle altın beşik yapılabilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İki elle altın beşik yapılabilir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sindirim yoluyla meydana gelen zehirlenmelerde yanlış bir ilk yardım uygulamasıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Solunum durumu değerlendirilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilinç durumu değerlendirilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tuzlu yoğurt yada süt verilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilinç kaybı varsa koma pozisyonu verilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kusma, bulantı, ishal gibi belirtiler değerlendirilir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hasta ya da yaralıyı kısa mesafe kucakta taşıma yöntemi sırasında yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaralıya kollarını ilk yardım yapan kişinin boynuna dolaması söylenebilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Diğer elle gövdenin ağırlığı yüklenerek sırtından kavranır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ağırlık dizlere verilerek kalkılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Koşarak olay yerinden uzaklaşılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir elle yaralı dizlerinin altından tutularak destek alınır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Sedye üzerine yerleştirme tekniklerinden olan karşılıklı durarak kaldırma tekniği hangi tür yaralanma şüphesi olduğunda kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karın yaralanmalarında",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Baş ve duyu organları yaralanmalarında",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Göğüs yaralanmalarında",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Omurilik yaralanmalarında",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Üreme organları yaralanmalarında",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Kan gruplarından….. grubu genel vericidir.\nKan gruplarından ….. grubu genel alıcıdır.\nYukarıdaki boşluklara sırasıyla gelmesi gerekenler aşağıdakilerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "AB grubu - 0 grubu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0 grubu - AB grubu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "AB grubu - B grubu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0 grubu - B grubu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0 grubu - A grubu",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi nabız alınan bölgelerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Avuç içi damarı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Şah damarı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ön-kol damarı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bacak damarı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kol damarı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Yukarıdaki görselde verilen pozisyonun ismi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rentek pozisyonu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Koma pozisyonu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Beşik pozisyonu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Şok pozisyonu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ters düz pozisyon",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çıkık durumunda ilk yardım uygulaması olarak doğru bir yaklaşımdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eklem aynen bulunduğu şekilde tespit edilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kişi olduğu yerde hemen yürütülür.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ağızdan su verilerek korkusu azaltılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çıkık bölgesine sıcak su torbası konularak ağrı azaltılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çıkık yerine oturtulur ve sıkı bandaj yapılır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Kısa süreli, yüzeysel ve geçici bilinç kaybına ….. denirken dışarıdan gelen uyarılara karşı tepkinin azalması ya da yok olması ile ortaya çıkan uzun süreli bilinç kaybına ….. denir.\nYukarıdaki boşluklara sırasıyla gelmesi aşağıdakilerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "koma senkop",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bayılma - koma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bayılma senkop",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "senkop - beyin ölümü",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "sinir krizi - senkop",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi akrep sokmasında şiddetli lokal reaksiyonlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ağrı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Halsizlik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kızarıklık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ödem",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Morarma",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Yara üzerinin plastik poşet naylon vb. sarılmış bir bezle kapatıldığı yaralanma türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kapalı kırık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kafa travması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Delici karın yaralanması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Omurga yaralanması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Delici göğüs yaralanması",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Kemik bütünlüğünün bozulduğu ancak derinin sağlam olduğu kırık türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kapalı kırık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dikey kırık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Açık kırık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Minör kırık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Horizantel kırık",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 112’nin aranması sırasında dikkat edilmesi gereken kurallardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta ya da yaralının sayıları bildirilmeli gerekenler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hasta ya da yaralının durumu bildirilmeli",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kimin hangi numaradan aradığı bildirilmeli",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hasta ya da yaralının kimlik bilgileri bildirilmeli",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hasta ya da yaralının istekleri bildirilmeli",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi doğal gaz (şofben) zehirlenmelerinde yapılan yanlış bir ilk yardım uygulamasıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişi temiz havaya çıkarılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tıbbi yardım istenir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hava yolu açıklığı sağlanır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Solunumu değerlendirilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kişiye kolonya koklatılır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi boğulmaların genel belirtilerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nefes almada güçlük",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bayılma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ağızda balgam toplanması ve köpüklenme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yüksek ateş",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yüzde, dudaklarda ve tırnaklarda morarma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Temel Yaşam Desteği sağlanması gereken yetişkin hastada “Kalp Masajı / Solunum Sayısı” ritmi ne olmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "10 kalp masajı 2 suni solunum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "5 kalp masajı 1 suni solunum",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "30 kalp masajı 2 suni solunum",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "15 kalp masajı 2 suni solunum",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "10 kalp masajı 1 suni solunum",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "19658d003da830bad53c82648cbcfce99334f0e3ac3f70c5ef22fabb463a9db2"
+}

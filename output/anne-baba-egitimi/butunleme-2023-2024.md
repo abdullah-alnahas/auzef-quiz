@@ -3,7 +3,7 @@ course: ANNE BABA EĞİTİMİ
 exam: 2023-2024 Bütünleme Soruları
 source_url: https://lolonolo.com/2024/08/31/anne-baba-egitimi-2023-2024-butunleme-sorulari/
 question_count: 20
-scraped_at: 2026-11-12T02:21:08+03:00
+scraped_at: 2026-11-12T11:32:20+03:00
 ---
 
 ### Q1

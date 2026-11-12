@@ -1,0 +1,847 @@
+{
+  "course": "Yaşam Becerileri",
+  "course_slug": "yasamb",
+  "exam": "2023 Final Soruları",
+  "exam_slug": "final-2023",
+  "page_title": "Yaşam Becerileri 2023 Final Soruları",
+  "source_url": "https://lolonolo.com/2023/06/12/yasam-becerileri-2023-final-sorulari/",
+  "scraped_at": "2026-11-12T11:33:31+03:00",
+  "answer_source": "markup",
+  "question_count": 23,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi Yaşama Becerileri Eğitimi Standartları açısından değerlendirildiğinde yanlış bir bilgi içermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaşam becerileri eğitim programları çocuk merkezli olmalıdır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaşam becerileri eğitimi süreç odaklı olmalıdır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaşam becerileri eğitim programları çocukların ihtiyaçları doğrultusunda hazırlanmalıdır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaşam becerileri eğitimi çocuklara bilgi, tutum ve beceri kazandırmayı hedeflemelidir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaşam becerileri eğitimi çocukların ve gençlerin kendilerini rahat ve güvende hissettikleri bir ortamda verilmelidir",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Karar verme süreçleri içerisinde bulunan gelişim dönemine göre farklılık göstermektedir örneğin… yıllarında karar verme süreçlerinde birey benmerkezci davranır ve kendisini ön planda tutar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ergenlik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yetişkinlik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Orta çocukluk",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Genç yetişkinlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okul öncesi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Bebeklikten sonra gelişimin en hızlı olduğu dönem aşağıdaki seçeneklerden hangisinde doğru olarak belirtilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Orta çocukluk",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yetişkinlik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ergenlik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Geç yetişkinlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İlk çocukluk",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi iletişim süreçleri arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dinleme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geri bildirim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gürültü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yorumlama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kodlama",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "…… zor şartlar altında olumlu ve beklenmedik başarılar kazanma ve sıra dışı şart ve durumlara uyum sağlama becerisi olarak açıklamaktadır. Yukarıdaki cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Koruyucu faktörler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Problem davranış teorisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Risk faktörleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Uyum sağlama becerisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Psikolojik sağlamlık",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Okul dışında yürütülen yaşam becerileri programları ile ilgili aşağıdaki seçeneklerden hangisi söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genelde akademik becerilere yöneliktir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Genelde sivil toplum örgütleri tarafından düzenlenmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İçeriği standart olarak belirlenmektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Toplumdaki tüm gençlere yönelik düzenlenmektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Genelde gelişmiş ülkelerde yaygındır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki tanımlardan hangisi yaratıcılığın esneklik boyutunu açıklamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireyin kendine has bakış açısı ile problem durumuna yaklaşmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bireyin fikirleri ilginç bilgilerle ilişkilendirmesidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Problem durumuna ve çözüm süreçlerine farklı açılardan bakabilmektir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bireyin birden fazla problem durumuna odaklanabilmesidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Problem durumunun çözümünde kullanılan fikir sayısıdır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi Yaşam Becerileri Eğitimi’nin kaliteli ve verimli olması üzerinde etkili değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aktif öğrenme yöntemlerini içermesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bireylerin ihtiyaçlarına göre düzenlenmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aileler tarafından verilmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bireylere uygun bir ortamda düzenlenmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireylerin aktif katılımının sağlanması",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki bilgilerden hangisi iletişim ile ilgili yanlış bir ifade içermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İletişim becerileri geliştirilebilen becerilerdir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İletişim sözlü ve sözsüz olmak üzere ikiye ayrılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İletişimi başlatan kişi kaynak olarak isimlendirilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kaynağın mesajı hedefe iletmek için kullandığı yollara kanal denir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ön yargılar bireyler arasındaki iletişimi engelleyebilir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Eleştirel düşünmenin, öğretilmesi planlanan İçerikten bağımsız olarak beceri Temelli bir eğitim programı aracılığı ile verilmesini Vurgulayan program yaklaşımı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genel yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Beceri temelli yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Konu tabanlı eğitim yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Karma yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Konuya entegre etme",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi ‘Kaynak ve hedefin paylaşmak istediği duygu, düşünce ve bilgiler’ olarak tanımlanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hedef",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mesaj",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kanal",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gürültü",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kaynak",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Erken çocukluk döneminde problem çözme ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuklar problem çözmede iş birliği ve yardımlaşma gibi beceriler kullanabilirler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklar problem çözme sürecinin tüm aşamalarını sergilerler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuklar problem çözmede benmerkezci davranırlar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklar problem çözmede olumlu ve olumsuz sosyal davranışlar sergileyebilirler.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklar problem çözmede sezgisel davranırlar",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okullarda verilen Yaşam Becerileri Eğitimlerinin Avantajları arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okullar uygun ortam olarak görülmektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tüm çocuklara ve gençlere yöneliktir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tecrübeli eğitmenler bulunmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk dostu ortamlar bulunmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hedef kitleye ulaşmak kolaydır",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "4 yaşındaki bir çocuğun karar verme sürecine aşağıdakilerden hangisi etki eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişilik özellikleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ekonomik faktörler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Proaktif maddeler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ben merkezcilik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal duygusal faktörler",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yaşam becerilerinin bileşenlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eleştirel düşünme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dengeli beslenme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öz farkındalık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Stresle baş etme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Empati",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yaratıcılığın gelişimi ile ilgili yanlış bir ifadedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Akademik temelli eğitim yaratıcılığı desteklemektedir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Taklit ve sembolik oyun, yaratıcılığı desteklemektedir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuklar yaratıcı düşünme becerilerini oyun aracılığı ile sergileyebilir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "10-12 yaşlarında çocuklar yeniden keşfetmeye isteklidir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaratıcı düşünme 6-8 yaşlarında gerilemeye başlamaktadır",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Ergenlik döneminin özellikleriyle ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yapılan çalışmalar erkeklerin kızlara göre ergenliği daha erken yaşlarda tamamladığını göstermektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ergenlik döneminde kız çocuklarının erkeklere oranla intihara meyili daha fazladır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ergenliğin ilk yıllarında kız çocuklarında depresyon görülme oranı erkeklere göre daha fazladır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yapılan birçok çalışma bireyin ergenlik döneminde fiziksel ve cinsel olgunluğa eriştiğini ortaya koymaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ergenlikteki değişiklikler kız çocuklarında ortalama 8 ile 14, erkek çocuklarında 9 ile 15 yaşlar arasında yaşanmaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Murat ve arkadaşları matematik dersi içeriğinde akran ilişkilerinin geliştirilmesi için iletişim becerileri ile ilgili de bilgi ve uygulamalar içeren bir programa devam etmektedir. Bu durumda Murat’ın devam ettiği eğitim programı aşağıdaki seçeneklerden hangisine örnek olarak verilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tüm okul yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Örgün eğitim yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bağımsız kurs",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bağımsız ders",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Akademik ders materyalleri ile bütünleştirme",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi problem çözme sürecinin bilişsel özelliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Göz kontağı kurma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Duygular",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Motivasyon",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kendini anlaşılabilir bir şekilde ifade etme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Problemi tanımlama",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Bireyin birçok deneyim ve durum arasından kendisi için önemli olanı kavrayabilmesi ve ifade edebilmesi hangi eleştirel düşünme becerisini tanımlamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanımlama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Analiz etme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yorumlama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çıkarımda bulunma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Değerlendirme",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi karar verme sürecinin aşamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karar verilmesi gereken durumu tanımlama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Alternatif karar seçeneklerinden birisini seçme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Başkalarından alternatif fikirler alma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Alternatif karar seçeneklerini değerlendirme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Alternatif karar seçeneklerini tanımlama",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Kişiler arası bilişsel problem çözme programı ile ilgili olarak aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "\"I Can Problem Solve\" programın diğer ismidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Program yüksek risk taşıyan davranışları azaltmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Program çocuklara ne düşüneceklerini öğretmektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Program çocukların problem çözme düşünce biçimini geliştirmektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Program farklı yaş gruplarına uygulanabilir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "Ayça öğretmen çocuklarla beraber bir sanat etkinliğine başlamıştır. Çocuklara karton, renkli kağıtlar, makas ve yapıştırıcı dağıtarak etkinlik boyunca yapacaklarını açıklamıştır. Kısa bir süre sonra tenefüse çıkılacağından dolayı Ayça öğretmen etkinliği bitirmeye odaklanmıştır. Bu kaygı ile çocuklara acele etmelerini ve etkinliklerini tamamlamadan tenefüse çıkamayacaklarını söylemiştir. Ayça öğretmenin bu davranışı iletişimi engelleyen faktörlerden hangisi ile açıklanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ahlak dersi verme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Emir verme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Göz dağı verme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İsim takma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Alay etme",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "3c232e9625741025e9a0a5404953e17570ed41695a7a518fc45dbbecd7ed1acd"
+}

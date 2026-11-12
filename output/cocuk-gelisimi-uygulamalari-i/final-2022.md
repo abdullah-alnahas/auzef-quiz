@@ -3,7 +3,7 @@ course: ÇOCUK GELİŞİMİ UYGULAMALARI I
 exam: 2022 Final Soruları
 source_url: https://lolonolo.com/2022/07/02/cocuk-gelisimi-uygulamalari-1-2022-final-sorular/
 question_count: 19
-scraped_at: 2026-11-12T02:21:11+03:00
+scraped_at: 2026-11-12T11:32:25+03:00
 ---
 
 ### Q1

@@ -1,0 +1,603 @@
+{
+  "course": "Sosyolojiye Giriş",
+  "course_slug": "sosyolojiye-giris",
+  "exam": "2021 Final Soruları",
+  "exam_slug": "final-2021",
+  "page_title": "Sosyoloji 2021 Final Soruları -2",
+  "source_url": "https://lolonolo.com/2021/01/12/sosyoloji-2021-final-sorulari-2/",
+  "scraped_at": "2026-11-12T11:33:09+03:00",
+  "answer_source": "markup",
+  "question_count": 16,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi toplumsal hareketliliğin oluşmasını sağlayan faktörlerden biri değildir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ekonomik gelişme süreci",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Nüfus artış hızı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Uzaylıların varlığına olan inanç",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aile yapısındaki değişme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Göç olgusu",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Giddens’a göre günümüzde aşağıdakilerden hangisi yurttaşlık hakları içinde yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Refah",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sivil",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Siyasi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Verimlilik artışı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi tabakalaşma sistemlerinden biri değildir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kast",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Millet",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zümre",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sınıf",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kölelik",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bir nitel araştırma yöntemidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Deney yöntemi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Toplumsal anket yöntemi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karşılaştırmalı araştırma yöntemi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tarihsel analiz yöntemi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Örnek olay",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Weberyen bürokrasinin temel özelliklerinden biri değildir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rasyonel bir personel yönetimi programı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sözlü kayıtlar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ayrıntılı dosyalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İleri düzeyde iş bölümü",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Otoritenin merkezileşmesi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi K. Marks’ın görüşlerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplumsal var olmanın temelindeki dayanışma, mekanik ve organik olmak üzere ikiye ayrılmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Toplum, “sahip olanlar” ve “sahip olmayanlar” şeklinde iki sınıfa ayrılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal fenomenlerin eşya gibi ele alınması gereklidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Toplumsal eşitsizlik iyidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kapitalist sistem zamanla eşitsizlikleri azaltır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Karl Marks hangi teorinin temellerini ortaya atmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yenilikçi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çatışmacı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fonksiyonalist",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sembolik etkileşimci",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Feminist",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Halkına hesap verme gereksinimi duymayan keyfî yönetimler ne tür yönetimlerdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özgürlükçü yönetimler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Katılımcı demokrasiler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Otoriteryan devletler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Adil devletler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Temsili demokrasiler",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi demokrasinin sağlamış olduğu faydalardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireylerin aile hayatlarına da karışma eğilimindedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çok güçlü liderler yaratır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yönetici tanrının yeryüzündeki gölgesi gibidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Korku egemendir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Alternatiflerden daha geniş bir kişisel özgürlük sağlar.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi post-endüstriyel toplumun eğitim anlayışı ifade eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitimde disiplinin önemi yeniden keşfedilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Eğitimde standartlaşma artar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eğitim mavi yakalı işgücü merkez alınarak tasarlanır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Eğitimde aşırı uzmanlaşmanın önemine vurgu yapılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eğitim bilginin üretimini esas alır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Kişinin kendi iradesi ve yetenekleriyle elde ettiği statüyü aşağıdaki hangi kavram açıklar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kazanılmış statüler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Değişim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Rekabet",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Baskı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Doğuştan statüler",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Toplumsal sapmayı insanların ne yaptıkları ile değil diğer insanların davranışlarına atfettikleri anlamlar ile açıklama iddiasında olan teori aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yapısal-Fonksiyonalist teori",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Toplumsal öğrenme teorisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Evrim teorisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çatışma teorisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Etiketleme teorisi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okulların gizil fonksiyonlarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gençleri hayata hazırlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gençleri toplumun değerleri, normları ve yaptırımları ile tanıştırır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğrenciler aileleri dışındaki insanlarla nasıl ilişki kuracaklarını okullarda öğrenirler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okullar dünyada gençlerin emek piyasasına girişlerini geciktirir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir değişim ajanı gibi hareket eder.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Ogburn’e göre ailenin fonksiyonlarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplumsallaşma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Koruma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Cinsel davranışın düzenlenmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sevgi ve arkadaşlık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "İki veya daha fazla faktör arasında kurulan spekülatif iddialara ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bağımlı değişken",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gizil değişken",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Deney",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hipotez",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bağımsız değişken",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Eğitim kurumlarını “ benliğin gelişimi ve rollerin öğrenilmesini etkileyen toplumsal bir mekân olarak inceleyen teori aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Feminist teori",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Post-modern teori",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yapısal fonksiyonalist teori",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çatışmacı teori",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sembolik etkileşimcilik",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "wrappers": 1
+  },
+  "omitted_questions": [
+    {
+      "n": 12,
+      "reason": "choice_count",
+      "stem": "Gücün halkın elinde olduğu siyasal sistem hangisidir?"
+    }
+  ],
+  "content_hash": "cc773debd2f375325ab42cc16077c72cc1ec5055c4394b1acb4d422142ece701"
+}

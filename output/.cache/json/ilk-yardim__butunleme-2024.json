@@ -1,0 +1,739 @@
+{
+  "course": "İlk Yardım",
+  "course_slug": "ilk-yardim",
+  "exam": "2024 Bütünleme Soruları",
+  "exam_slug": "butunleme-2024",
+  "page_title": "İlk Yardım 2024 Bütünleme Soruları (ÇG)",
+  "source_url": "https://lolonolo.com/2024/08/19/ilk-yardim-2024-butunleme-sorulari-cg/",
+  "scraped_at": "2026-11-12T11:34:12+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dolaşım sistemi ile ilgili bir yapı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kan",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Böbrek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Toplardamar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kalp",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Atardamar",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi karbon monoksit zehirlenmesi belirtilerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cilt ve tırnaklarda kısa süreli kiraz kırmızısı renk değişimi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bulantı-kusma, baş dönmesi, karıncalanma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ateş, vücut sıcaklığının yükselmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Göğüs ağrısı, çarpıntı hissi, tansiyon düşüklüğü",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aşırı yorgunluk, huzursuzluk",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Hasta ya da yaralıyı omuzda taşıma (itfaiyeci) yöntemi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta ya da yaralının vücudunu sağ omzuna alır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sol el ile hasta ya da yaralının sağ elini tutar, ağırlığı dizlerine vererek kalkar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İlk yardım yapan kişi, sol kolu ile omzundan tutarak hasta ya da yaralıyı oturur duruma getirir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çömelerek sağ kolunu hasta ya da yaralının bacaklarının arasından geçirir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilinci yerinde olan kişiler için kullanılan bir yöntemdir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dış kanamalarda yapılan ilk yardım uygulamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta ya da yaralıya bir şeyler yedirilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kanayan yer üzerine temiz bir bez ile bastırılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yara ya da kanama değerlendirilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hasta ya da yaralı sırtüstü yatırılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tıbbi yardım istenir (112).",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Sedyenin dört kişi tarafından taşınması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlk yardım yapanlardan ikisi hasta ya da yaralının başında; diğer ikisi ayak kısmında sırtları dik, bacakları bükülü olarak sedyenin yan kısımlarına çömelir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaralının durumu ağır ise ya da yol uzun, zor ve engelli ise sedye 4 kişi ile taşınmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sedye kaldırıldıktan sonra hastanın sol taraftaki ve sağ taraftaki kişilerden biri ayrılabilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sedyenin sol tarafından tutan kişiler sol; sağ tarafındakiler sağ adımlarıyla yürümeye başlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Merdiven, yokuş inip çıkarken sedye mümkün olabilecek en yatay pozisyonda tutulmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Bebeklerde hava yolunun açılması için yapılan ilk yardım müdahalelerinde aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ters çevrilip diğer elin üzerine sırtüstü yatırılıp göğüs kemiğinin altına 5 kez el bileğinin içiyle hafifçe vurulur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Baş gergin ve gövdesinden aşağıda bir pozisyonda tutulur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "5 kez el bileğinin iç kısmı ile bebeğin sırtına kürek kemiklerinin arasına hafifçe vurulur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Başparmak ve diğer parmakların yardımıyla bebeğin çenesi kavranarak boynundan tutulur ve yüzüstü pozisyonda öne doğru eğilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bebek ilkyardım yapan kişinin bir kolu üzerine ters olarak (yüzükoyun) yatırılır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Çıkık durumunda yapılan ilk yardım uygulaması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bölgede nabız, deri rengi ve ısısı kontrol edilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hasta ya da yaralıya ağızdan hiçbir şey verilmez.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tıbbi yardım istenir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çıkık yerine oturtulur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eklem aynen bulunduğu şekilde tespit edilir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hasta ya da yaralının ikinci değerlendirmesi içinde yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vücut veya cilt ısısı, nemi, rengi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Nabız sayısı, ritmi, şiddeti",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kan şekeri düzeyi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Solunum sayısı, ritmi, derinliği",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilinç düzeyi, anlama, algılama",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi akrep sokması belirtilerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İltihaplanma, kızarma, morarma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Adale krampları, titreme ve karıncalanma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bulantı, kusma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ağrı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ödem",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi boğulmalarda genel ilk yardım işlemlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mineral kaybını önlemek için maden suyu içirilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Derhal tıbbi yardım istenir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Boğulma sebebi ortadan kaldırılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Temel yaşam desteği sağlanır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaşamsal fonksiyonlar kontrol edilir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kırık, çıkık ve burkulmalarda tespit malzemesi olarak kullanılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Battaniye, tahta",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İp, tel",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eşarp, kravat",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Üçgen sargı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Rulo sargı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Bir battaniye ve iki kirişle sedye oluşturma\n yönteminde dair aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta ya da yaralı bu iki kirişin arasında oluşturulan bölgeye yatırılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Katlanan kısmın bittiği yere yakın bir noktaya ikinci kiriş yerleştirilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Battaniyede kalan kısım bu kirişin üzerini kaplayacak şekilde kirişin üzerine doğru getirilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Battaniyenin 1/10'ine birinci kiriş yerleştirilir ve battaniye bu kirişin üzerine katlanır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir battaniye yere serilir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Sara krizinde aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sıkan giysiler gevşetilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kilitlenmiş çene, olduğu gibi bırakılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kriz, kendi sürecini tamamlamaya bırakılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Soğan koklatılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kendini yaralamamasına dikkat edilir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ciddi yaralanmalardan sayılmayabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnsan veya hayvan ısırıkları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Delici aletlerle oluşan yaralar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kanaması durdurulamayan yaralar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yabancı cisim saplanmış olan yaralar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kenarları birleşebilen yaralar",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi elektrik yanıklarında yapılan ilk yardım uygulamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasar gören bölgenin üzeri temiz bir bezle örtülmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaralıya dokunmadan önce yeri biliniyorsa elektrik akımı kesilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hasta ya da yaralının ABC’si değerlendirilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tıbbi yardım istenmelidir (112).",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaralının üzerine su dökerek müdahale edilmelidir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Suda boğulanlarda özellikle soğuk havalarda yapay solunum ve kalp masajına başlanma süresi konusunda aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Boğulma üzerinden 7-10 dakika geçse bile başlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Boğulma üzerinden 20-30 dakika geçse bile başlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Boğulma üzerinden 10-15 dakika geçse bile başlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Boğulma üzerinden 3-5 dakika geçse bile başlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Boğulma üzerinden 5-7 dakika geçse bile başlanmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sara krizine sebep olan durumlardan biri sayılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uzun süreli açlık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hava kirliliği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hormonal değişiklikler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Uykusuzluk",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aşırı yorgunluk",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Hasta ya da yaralı taşıma yöntemlerinden biri olan sandalye ile taşıma yöntemi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta ya da yaralının bilincinin yerinde olmaması gerekir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İkinci kişi sandalyenin ön bacaklarını aşağı kısmından kavrayarak taşır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İki kişi tarafından uygulanır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Merdiven inip çıkarken çok kullanışlı bir yöntemdir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir kişi sandalyeyi arka taraftan, oturulacak kısma yakın bir yerden tutar.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yılan sokması sonrası yapılması gereken ilk yardım uygulamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yara, su ile yıkanır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yara, kol ve bacaklarda ise yara üstünden dolaşımı engellemeyecek şekilde bandaj uygulanır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaraya yakın bölgede baskı yapabilecek eşyalar (yüzük, bilezik vb.) çıkarılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaralı bölge emilerek zehir çıkarılmaya çalışılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yara, baş ve boyunda ise yara çevresine baskı uygulanır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sindirim yoluyla meydana gelen zehirlenmelerde ilk yardım uygulamaları içerisinde yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nabzı değerlendirilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilinç kaybı varsa koma pozisyonu verilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Solunumu değerlendirilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilinç kontrolü yapılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yoğurt yedirilir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "9334599c4e031cbf778be3b452dc05f0767cc1df8fcb03d5eda700c78110c989"
+}

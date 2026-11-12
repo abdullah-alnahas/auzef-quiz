@@ -3,7 +3,7 @@ course: SOSYAL-DUYGUSAL GELİŞİM
 exam: 2021 Final Soruları
 source_url: https://lolonolo.com/2021/08/26/sosyal-duygusal-gelisim-2021-final/
 question_count: 39
-scraped_at: 2026-11-12T02:21:30+03:00
+scraped_at: 2026-11-12T11:32:53+03:00
 ---
 
 ### Q1

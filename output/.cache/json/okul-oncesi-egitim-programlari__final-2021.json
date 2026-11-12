@@ -1,0 +1,1347 @@
+{
+  "course": "Okul Öncesi Eğitim Programları",
+  "course_slug": "okul-oncesi-egitim-programlari",
+  "exam": "2021 Final Soruları",
+  "exam_slug": "final-2021",
+  "page_title": "Okul Öncesi Eğitim Programları-1 2021 Final",
+  "source_url": "https://lolonolo.com/2021/01/30/okul-oncesi-egitim-programlari-1-2021-final/",
+  "scraped_at": "2026-11-12T11:34:26+03:00",
+  "answer_source": "inline",
+  "question_count": 38,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi okul öncesi eğitim programlarında amaç türlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Becerilerle ilgili amaçlar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sürdürülebilirlikle ilgili amaçlar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilgi/anlayışla ilgili amaçlar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Eğilimlerle ilgili amaçlar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duygularla ilgili amaçlar",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kaynaştırma eğitimin başarıya ulaşmasında etkili olan ilkelerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genel eğitim sınırları tüm çocukların öğrenmelerini kolaylaştıracak şekilde düzenlenmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sınıftaki tüm çocukların ebeveynleri ile işbirliği sağlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kaynaştırma sınıfındaki normal gelişim gösteren çocuklar sınıfa katılacak olan özel gereksinimli çocuk hakkında bilgilendirilmeli, arkadaşları onun daha küçük olduğu konusunda uyarılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Genel eğitim sınıfındaki özel gereksinimli çocuğa ve öğretmene destekleyici özel eğitim hizmetleri sağlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Genel eğitim sınırlarında tüm çocukların birlikte öğrenme, oynama ve gerek eğitimsel gerekse sosyal etkinliklere katılma fırsatının bulunması gerekmektedir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Eğitim programlarında “bireyleri niçin eğitiyoruz?” sorusunu cevaplayan öğe aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile katılımı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Amaçlar/Hedefler/Kazanımlar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Eğitim ortamı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yöntem ve teknikler",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi sosyal duygusal gelişime yönelik hazırlanan programda eğitimcilerin planlama\nyaptığı hususlardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınıf ortamının düzenlenmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Rutin ve günlük akışın belirlenmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sınıf kurallarının ve beklentilerin oluşturulması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hareketli oyun etkinliklerinin yapılması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kişisel ilişkilerin düzenlenmesi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi, psikomotor alana yönelik hazırlanan bir program kapsamında çevre/ortam\ndüzenleme ilkelerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun alanlarında bulunan araç gereçleri güvenlik açısından sık sık denetlemek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Motor becerileri destekleyecek nitelikte materyaller bulundurmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların güvenliği açısından yalnızca bahçeyi motor faaliyetlere uygun şekilde düzenlemek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Fiziksel mekânı oyun ve motor becerileri destekleyecek nitelikte düzenlemek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ortam ve materyalleri çocukların aile kültürlerine, geleneklerine uygun şekilde tasarlamak",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Çocukların karalama yaparken bütün vücutlarını kullandıkları sanatsal gelişim dönemi aşağıdakilerden\nhangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gerçekçi resimler dönemi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tesadüfi karalamalar dönemi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İsimlendirilmiş karalamalar dönemi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İlk temsili formlar dönemi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Şema öncesi dönem",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Bir öğretmen sınıfa, çeşitli boyutlarda mıknatıslar, demir, bakır ve alüminyum materyaller getirmiştir.\nÇocukların bu materyalleri incelemelerini ve keşfetmelerini teşvik etmek üzere, materyalleri büyük grup\nzamanında tanıtmıştır. Buna göre, bu öğretmen, fen ve doğa programı kapsamında öncelikle hangi alana yönelik program geliştirmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sorgulama ve araştırma olarak bilim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dünya ve uzay bilimi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fiziksel bilim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaşam bilimi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ekoloji Soruyu",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "“Problem durumlarına çözüm üretir.” ifadesi aşağıda verilen özel amaç türlerinden hangisine daha uygundur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel amaçlar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaratıcı amaçlar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Psikomotor amaçlar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Düşündürücü amaçlar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duyusal amaçlar",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Pek çok araştırmacı aile katılımını engelleyen durumların oluşmaması için profesyonellere öneriler sunmuşlardır. Aşağıdakilerden hangisi bu önerilerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ebeveynlerin ihtiyaçlarını anlamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Farklı ırk, dil ve etnik kökenden gelen kişilere değer verildikleri, anlaşıldıklarını hissini vererek saygılı davranmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Her aileye uygun çalışma saati belirlenemeyeceğinden aile katılımının gün ve saatini sabitlemek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dürüst ve saygılı bir tutumu benimsemek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ailelerin ihtiyaçlarını karşılamak için çeşitli etkinlikler planlamak",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi öğrenme merkezlerini düzenlerken dikkat edilecek hususlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrenme merkezleri yerleştirilirken sınıftaki çocuk sayısı dikkate alınmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğrenme merkezleri düzenlenirken çocukların görüşleri de alınmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Merkezler oluşturulurken çocukların dikkat ve ilgileri ön plana alınmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğrenme merkezleri yerleştirilirken sınıfın fiziksel özellikleri dikkate alınmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Merkezler oluşturulurken okul idaresinin görüşleri alınmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Öğretmenler çocuklarla kurdukları iletişimin kalitesini bazı faktörlerin etkilediğini bilmeli ve buna göre\nhazırlıklı olmalıdırlar. Aşağıdakilerden hangisi bu faktörlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun yaşı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sınıf düzeni",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hava koşulları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yeterli materyalin olup olmaması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun zekası ve yetenekleri",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Ülkemizde her bir çocuğun evine yılda iki defa ev ziyareti yapılması ve sonuçların raporlanması …… ve …… Okul Öncesi Eğitim Programları’nda zorunlu kılınmıştır.\nYukarıdaki boşluklara aşağıdakilerden hangisinin gelmesi doğru olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2006/2008",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2002/2013",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "2008/2013",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2006/2013",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "2002/2006",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Amerikan Ulusal Erken Çocukluk Eğitimi Derneği’nin (NAEYC) geliştirdiği erken çocukluk eğitim\nprogramları için belirlenen on standart alanından biri aileler ile ilgili olup; bu standartlar belirli noktaları\nvurgulamaktadır.\nAşağıdakilerden hangisi bu standartların vurguladığı noktalardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Personelin her düzeyde aile katılımını desteklemesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ebeveynlerin liderlik ve karar verme konusunda paydaşlar olarak programa katılımlarının sağlanması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aile katılım düzeylerinde ebeveynlerin seçeneklerinin olması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların kültürü, çevresi, toplumu ve ailelerine saygı gösterilmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Özel gereksinimli çocukların ailelerinin aile katılımından muaf olması",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Özel gereksinimli bir çocuk için hangi kaynaştırma modelinin uygun olacağı belirlenirken aşağıdakilerden hangisi dikkate alınmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun gelişim özellikleri ve hazır bulunuşluk düzeyi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sınıf öğretmeninin görüşü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ailesinin görüşü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doktorunun görüşü",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okul idaresinin görüşü",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Okul öncesi öğretmenlerinin bazı özellikleri, çocuklarla kuracakları etkileşim ve iletişimde de başarılı\nolmaları açısından önemlidir. Aşağıdakilerden hangisi bu özelliklerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İçtenlik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ağırbaşlılık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sabır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Esneklik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Heyecan",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Milli Eğitim Bakanlığı 2013 Okul Öncesi Eğitim Programı’na göre bir eğitim öğretim yılı içerisinde çocuğun evine kaç defa ev ziyareti yapılması zorunludur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "5",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi aile eğitim programlarının ana amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Becerilerin geliştirilmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Benlik saygısı kazandırılması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öz farkındalık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Problem çözme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilgilerin paylaşılması",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi 0-8 yaş çocuklarına yönelik geliştirilen sanat programlarında göz önünde\nbulundurulan ilkelerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuklara sanat materyallerini keşfetmeleri ve sanat deneyimleri için zaman verilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklara, daha çok yapılandırılmış sanat deneyimleri ve küçük-grup etkinlikleri sunulmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukları öğrenmeye, araştırmaya, duyusal keşiflere davet eden zengin materyal çeşitliliğine sahip ortamlar tasarlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukları dikkatle gözleyen, dinleyen ve değerlendirmelerde bulunan duyarlı öğretmenler bulunmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların farklı becerilerine, ilgi alanlarına, fikirlere, kültürel deneyimlerine kıymet verilmelidir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi psikomotor gelişime yönelik hazırlanan programda eğitimcinin temel rollerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Geçiş zamanları için özel oyunlar planlamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Günlük rutin içinde ele alınacak motor becerileri seçmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Psikomotor gelişim programındaki ekinlikleri planlamak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ortamı düzenlemek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların psikomotor gelişimsel ihtiyaçlarını gözlemlemek",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Öğrenme merkezlerine ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuklar öğrenme merkezlerinde bir yetişkine ihtiyaç duymadan çalışma olanağı elde ederler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kazanım ve göstergeler doğrultusunda seçilmiş materyaller barındırırlar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların serbest oyun ihtiyacını karşılarlar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğrenme merkezlerine güncellenmiş Okul Öncesi Eğitim Programı’nda ilgi köşeleri denilmiştir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğrenme merkezleri birbirinden ayrılmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "“Ayşe öğretmen sınıfındaki beş yaşındaki Ali’ye sivri-küt kavramlarını öğretmeyi amaçlamıştır. Ancak tüm yaptıklarına rağmen Ali bu kavramları öğrenememiştir. Arkadaşı olan Emel öğretmene bu durumu anlattığında ise meslektaşı ona bir de oyunlaştırarak denesene! Tavsiyesinde bulunmuştur. ”Yukarıdaki örnek olayı göz önüne aldığımızda Ayşe öğretmenin eğitim programları kapsamında hangi öğe üzerinde değişiklik yapması önerilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitim Durumlarının Düzenlenmesi (Öğrenme-Öğretme Süreci)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Amaçlar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Değerlendirme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğrenme Ortamı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İçerik",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "“Ebeveynlerin eğitim etkinliklerine katılım durumlarını, zamanlarının sıklık ve türünü belirlemek için ……….. uygulanmalıdır.\n”Aşağıdakilerden hangisi yukarıdaki boşluğu en doğru şekilde tamamlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Katılım destek formu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Katılım istek formu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aile destek formu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aile görüş formu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ebeveyn katılım formu",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde bireyselleştirilmiş eğitim programları geliştirmenin amaçlarından biri yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların eğitimini düzenlerken toplumun özel gereksinimli çocuklara yönelik olumlu ya da olumsuz tutumlarını yansıtmaya olanak sağlamasıdır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların eğitiminin nasıl yapılması gerektiği hakkında öğretmene tek başına karar alma yetkisi vermesidir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların ailelerinin isteklerinin tam anlamı ile yerine getirilmesidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların bireysel farklılıklarının bulunması ve bu bireysel farklılıklardan kaynaklanan kendine özgü ihtiyaçlarının bulunmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların eğitiminde okul yönetiminin görüşlerinin en önemli husus olmasıdır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "Dil ve düşüncenin birlikte geliştiğini kabul eden bilim adamı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Chomsky",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Skinner",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Vygotsky",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bruner",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Piaget",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kaynaştırma modellerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaynak oda destekli kaynaştırma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tam zamanlı kaynaştırma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yarı zamanlı kaynaştırma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dikine kaynaştırma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tersine kaynaştırma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "“Çocukların özel eğitim hizmetleri almasının okuldaki tüm çalışanların ortak görevi olduğunun anlaşılması” Aşağıdakilerden hangisi yukarıdaki ifadeyi en iyi şekilde açıklamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mesleki gelişim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaynaştırma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yüksek beklentiler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sahiplenme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Müdahale sistemleri",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kaynaştırma eğitiminin amaçlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğu normalleştirmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun toplumun aktif bir üyesi olduğunu hissettirmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fırsat eşitliği sağlamak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun toplum içerisinde yaşamasını kolaylaştırmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun ilgi ve yeteneklerini en iyi şekilde kullanmasını sağlamak",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "Sosyal duygusal gelişime yönelik hazırlanan programlarda, sosyal becerilerin gelişimi açısından, öğretmenlerin en sık başvurduğu yöntem aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuklarla işbirliği kurmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Günlük yaşanan olaylardan yararlanarak sosyal becerilerle ilgili sohbet etmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Küçük-grup etkinlikleri planlamak ve uygulamak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Arkadaşlık ilişkilerindeki sorunları çözmek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Akran ilişkilerine aracılık etmek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "Okuryazarlığın beş genel evresine ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlk evre erken kendiliğinden gelişen okuryazarlık evresi olarak adlandırılmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Üçüncü evre okuma ve yazmaya başlama aşamasıdır ve bu evrede çocuklar akıcı bir şekilde okumayı kavramışlardır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Beşinci ve son evre akıcı okuma ve yazma evresidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dördüncü evrede çocukların çoğu akıcı okumaya başlarlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İkinci evrede çocuk kendiliğinden gelişen okuryazarlık evresindedir ve harfleri biçimsel olarak yazabilir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi çocuklar ve öğretmenler arasında kurulacak olumlu ve güvenli ilişkiye zemin\nsağlayan öğretmen davranışlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların bireysel gelişim ve ihtiyaçlarını dikkate alan stratejiler belirlemek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklarla fiziksel temas kurmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuklarla göz teması kurmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklara saygılı davranmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların istediklerini yapmalarına izin vermek",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 31,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi aile eğitim modellerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kurum merkezli aile eğitimi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Uzaktan eğitim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ev merkezli aile eğitimi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gezici eğitim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Baba merkezli aile eğitim",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 32,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi uzaktan aile eğitiminde kullanılan kitle iletişim araçlarının dört etki düzeyinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Farkındalık yaratmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilgilendirmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eğitmek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dinlendirmek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Harekete geçirmek",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 33,
+      "type": "legacy_text",
+      "stem": "Ev-okul işbirliğinin sağlanması için aşağıdakilerden hangisi önerilmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ebeveynleri okul politikaları hakkında bakış açılarını ifade etmeleri için teşvik etmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yanlış anlaşılmalara sebebiyet vermemek için ebeveynler arası iletişim kanallarını sınırlı kullanmaya sevk etmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ebeveyn eğitim etkinlikleri düzenlemek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Karşılıklı anlayışı zenginleştirmek için iletişim kanalı kurmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun yaşadığı ev hakkında bilgi derlemek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 34,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi öğretmen-çocuk ilişkisiyle ilgili doğru bir ifadedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitimciler, çocukların sosyal çatışmaları desteksiz çözmelerini isterler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmen-çocuk etkileşimi okul öncesi eğitim programının kalite göstergelerindendir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eğitimciler, bütün çocuklarla kolayca ilişki kurabilirler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zorlayıcı davranışlar, deneyimli bir öğretmenin çocuklarla ilişkisini etkilemez.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eğitimciler, çocukların kendi kendilerine arkadaş edinmelerini beklerler.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 35,
+      "type": "legacy_text",
+      "stem": "Kaynaştırma uygulamalarının başarısına ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaynaştırma eğitiminin başarısı kaynaştırmanın tüm aktörleri arasındaki ilişkilere bağlıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaynaştırma eğitiminin başarıya ulaşması için genel eğitim sınırlarının tüm çocukların ihtiyacını karşılayacak şekilde düzenlenmesi gerekmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kaynaştırma eğitiminin başarısı için çocuk ile iletişim kurmak yeterli olduğundan aile ile iletişime geçilmesine gerek bulunmamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kaynaştırma eğitiminin başarıya ulaşması için okul yönetiminin özel gereksinimli çocuklara karşı hoşgörülü olması gerekmektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kaynaştırma eğitiminin başarısında okulun yönetimi ve öğretmenler kritik rol oynamaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 36,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi bilişsel gelişime yönelik hazırlanan programda eğitimcilerin rol ve görevlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Küçük grup ya da büyük grup etkinlikleri planlamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilişsel uyaranlar açısından zengin bir ortam oluşturmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilişi destekleyecek gerçek deneyimler sunmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel kavramları detaylıca anlatmak ve ders vermek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bilişsel deneyimleri gündelik rutinle birleştirmek",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 37,
+      "type": "legacy_text",
+      "stem": "“Özel gereksinimi bulunmayan çocukların istekleri halinde özel eğitim okullarına ya da kurumlarına devam eden akranları ile aynı sınıfta eğitim gördükleri modeldir.”\nAşağıdaki seçeneklerden hangisinde yukarıda açıklanan kaynaştırma modeli yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaynak oda destekli kaynaştırma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tam zamanlı kaynaştırma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yarı zamanlı kaynaştırma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dikine kaynaştırma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tersine kaynaştırma",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 38,
+      "type": "legacy_text",
+      "stem": "“……………… sayesinde çocuğun yetiştirilmesinde yolunda gitmeyen bir şeyler olduğunda, çocuk için duygusal destek veya kaynak eksikliği olduğunda, olumsuz çıktılar ortaya çıkmadan önce müdahale şansımız olur ve durumu olumlu yöne çevirebiliriz.”\nYukarıdaki boşluğu aşağıdakilerden hangisi en uygun şekilde tamamlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk refahı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Aile eğitimi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aile sosyalleşmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk gelişimi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aile katılımı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "2c12427448583dde7e12472a86f4ff16bd35405b11f0804628c436276cf53f85"
+}

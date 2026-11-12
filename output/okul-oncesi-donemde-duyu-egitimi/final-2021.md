@@ -3,7 +3,7 @@ course: OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ
 exam: 2021 Final Soruları
 source_url: https://lolonolo.com/2021/08/28/okul-oncesi-donemde-duyu-egitimi-2021-final/
 question_count: 39
-scraped_at: 2026-11-12T02:21:22+03:00
+scraped_at: 2026-11-12T11:32:41+03:00
 ---
 
 ### Q1

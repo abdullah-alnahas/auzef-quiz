@@ -1,0 +1,739 @@
+{
+  "course": "Yönetim ve Liderlik",
+  "course_slug": "yonetim-ve-liderlik",
+  "exam": "2024-2025 Final Soruları",
+  "exam_slug": "final-2024-2025",
+  "page_title": "Yönetim ve Liderlik 2024-2025 Final Soruları",
+  "source_url": "https://lolonolo.com/2025/06/02/yonetim-ve-liderlik-2024-2025-final-sorulari/",
+  "scraped_at": "2026-11-12T11:34:55+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Bu yaklaşımda yapılacak işler önemine göre öncelik sırasına konur. Önem sırası belirlenirken hedeflere uygunluk ölçütleri esas alınır.\nYukarıdaki ifade hangi zaman yönetimi yaklaşımına aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ABC yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İyileştirme yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sihirli araç yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Savaşçı yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kendini akıntıya bırak yaklaşımı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi iletişimde kullanılan mesaj türlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İhtiyaç duyulan bir şeyi ifade etmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Düşünceyi ifade etmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kızgın, üzgün, rahatsız olduğunu ifade etmek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilgi vermek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sürekli öğütlerde bulunmak",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi rasyonel karar modelinin aşamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Amaç ve hedeflerin oluşturulması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Her seçeneğin sonucunun dikkate alınması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bütün olası seçeneklerin değerlendirilmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sorunun tanımlanması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Deneyim ve duygulara güvenilmesi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Yönetim bir süreçtir ve bu sürecin niteliği….. basamağına bağlıdır.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "örgütleme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "karar verme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "planlama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "eş güdümleme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "değerlendirme",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "İletişim becerilerinin kurumlarda ….. kullanımı çok önemlidir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "kişisel",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "deneysel",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "işlevsel",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "yönetimsel",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "kurumsal",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Eğitim kurumlarındaki olumlu motivasyonu desteklemek isteyen bir müdür aşağıdakilerden hangisini yapmamalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrencilerin başaramama korkularını besleyerek onları motive etmeye çalışmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Aileler ile iş birliği yaparak öğrencilerin içsel motivasyonunu desteklemelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğrencileri motive edici fiziksel ortamlar hazırlamalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğretmenlerin motivasyonunu arttırmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğrencilerin motivasyonlarını arttırmak için yarışmalar düzenlemelidir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinde sistem kavramı doğru ve eksiksiz bir biçimde açıklanmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sistemlerin belirli amaçları bulunmamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Her sistem kendine has bir yapıdadır, alt sistemlere ayrılmamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sistem, örgütlü bir bütün oluşturan birbirine bağlı olmayan ögelerdir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sistem, bir dizi etkileşim örüntüsü olarak ortak bir amaç için bir araya gelen parçalardan oluşan anlamlı bir bütündür.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sistem, ortak bir amaç uğruna bir işi tamamlamak üzere toplanan ve yapılacak işin gerektirdiği görev, sorumluluk ve yetkileri yerine getiren birey ve gruplar arasındaki ilişkileri kapsayan bir yapıdır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinde denetim sürecinin işlevleri tam ve doğru olarak yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bütçeleme ve kaynak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Raporlama, bütçeleme ve kaynak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bütçeleme ve denetleme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Karar alma, raporlama ve bütçeleme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Raporlama ve bütçeleme",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dışsal motivasyon kaynaklarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yöneticinin öğretmenin ilgileri ve ihtiyaçları ile ilgilenmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmenin öğrencisini ödüllendirmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yöneticinin öğretmeni takdir etmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğretmenin işini yapmaktaki isteği",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ortamda çeşitli yarışmaların/oyunların düzenlenmesi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Erken çocukluk eğitim kurumlarının özellikleri düşünüldüğünde aşağıdaki ifadelerden hangisi bu kurumların çatışma bağlamında ayırt edici özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yoğun düzeyde aile-okul-çocuk etkileşimi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ev ve okul benzeri özellikler taşıması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim hızı yüksek çocukların varlığı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dikey hiyerarşide örgüt/organizasyon yapısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğretmenler ve diğer personellerin uyumu",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okullarda örgüt ikliminin oluşumunda etkili değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ekoloji",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kültür",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fiziksel faktörler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Örgüt çıktıları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal çevre",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Toplumdaki güç ve otorite ilişkilerini inceleyerek otorite tipolojisi yaratmış olan kuramcı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Douglas McGregor",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Max Weber",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Chris Argyris",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Henri Fayol",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Elton Mayo",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Örgüt iklimi ile ilgili aşağıda verilen ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Örgüt üyelerinin davranışlarını etkileyen ve zaman içinde değişmeyen özelliklerin tümüdür.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Örgüte kimliğini kazandıran özellikler dizisidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir örgütün içindeki insanların davranışlarını yönlendiren normlar, davranışlar, değerler, inançlar ve alışkanlıklar sistemidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Örgüt üyelerinin, örgütün çalışma ortamı hakkında paylaştıkları algılarıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir örgütü diğer bir örgütten ayıran özellikler veya nitelikler setidir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "….., diğer insanlarla iyi bir şekilde iş birliği içinde çalışma yeteneğini gösterir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal yeterlik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kavramsal yeterlik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Teknik yeterlik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mesleki yeterlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnsani yeterlik",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Öğretmen, yaptığı çalışmaları ve etkinliklerin değerlendirilmesinden elde ettiği sonuçları dikkate alarak çocukların, programın ve kendisinin değerlendirmesini ….. kısmına yazar.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "genel değerlendirme zamanı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "eve gidiş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "günü değerlendirme zamanı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "güne başlama zamanı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "etkinlik zamanı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki çalışmalardan hangisi durumsal liderlik kuramını araştırmak için yapılmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "House ve Evans'ın Yol-Amaç Kuramı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Likert'in Sistem 4 Modeli",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "McGregor'un X ve Y Kuramları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ohio State Üniversitesi Liderlik Çalışmaları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Michigan Üniversitesi Liderlik Çalışmaları",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "“Öğretmenlerin öğrenci başarısını artırmak ve öğretme-öğrenme uygulamalarını iyileştirmek amacıyla bireysel veya toplu olarak meslektaşlarını, yöneticilerini ve okul topluluklarının diğer üyelerini etkilediği süreç” olarak tanımlanan kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mesleki gelişim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmen liderliği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğretmenin görevi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişisel gelişim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğretmenin sorumluluğu",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Savaşçı yaklaşımında yer alan, “daha etkili işlere zaman ayırabilmek için başkalarına görev vermek” ifadesi hangi tekniği tanımlamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşleri ötelemek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kendini yalıtmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yetki devretmek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Plan yapmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız kalmak",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Program uygulamaları kolaylaşır, etkili iletişim kurulabilir, problem çözme mekanizmaları güçlenir, çocuğun gelişimine çok yönlü katkı sağlanır, eğitimin sürekliliği sağlanır, iş tatmini artar, sorumluluklar paylaşılır ve nihayetinde eğitimin kalitesinde artış sağlanır.\nYukarıda ailelerin çocuklarının eğitim süreçlerine katılımıyla sağlanacak katkı, hangi açıdan tanımlanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cevre",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmen ve kurum",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuklar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Toplum",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aileler",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "İletişim sorunu bulunan bir örgüt içinde aşağıdakilerden hangisi gerçekleşebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kurumun ilerlemesi herkesi mutlu eder.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kurumda, örgütte bir sinerji vardır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kişiler çok iyi performans gösterdikleri hâlde bu durum örgüte yansımayabilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Örgüt içinde herkes birbirine hoşgörülüdür.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kişiler birbirlerine saygı duyarlar.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "9857a06817a6ee3ea22c7a15c249ab96f0d0a29e2af307caad03bd0ac2e2aca7"
+}

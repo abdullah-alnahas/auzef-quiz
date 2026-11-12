@@ -1,0 +1,743 @@
+{
+  "course": "İstatistik",
+  "course_slug": "istatistik",
+  "exam": "2024-2025 Final Soruları",
+  "exam_slug": "final-2024-2025",
+  "page_title": "İstatistik 2024-2025 Final Soruları (Bahar)",
+  "source_url": "https://lolonolo.com/2025/06/06/istatistik-2024-2025-final-sorulari-bahar/",
+  "scraped_at": "2026-11-12T11:33:28+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Bir toplantı odasında bulunan 6 kişi, 6 koltuğa kaç değişik şekilde oturtulabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "120",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "720",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "24",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Bir dağılım içinde ortalamanın altında yer alan tüm birimlerin standart değeri ….. olmaktadır.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "bir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "pozitif",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "negatif",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "sıfır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "iki",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Bir futbol takımının daha önceki sezonda yapmış olduğu maçlar incelenerek futbol takımının alabileceği puanlar ve bu puanların hangi olasılıklarla ortaya çıkabileceği yukarıdaki tablo ile düzenlenmiştir.\nTabloya göre takımın yaptığı maçlarda kazandığı puanların beklenen değeri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [
+        "| X=xᵢ | Mağlup olduğunda 0 puan | Berabere kaldığında 1 puan | Galip geldiğinde 3 puan |\n| --- | --- | --- | --- |\n| P=(X=xᵢ) | 0,10 | 0,20 | 0,70 |"
+      ],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2,0",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2,3",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2,5",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1,8",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aritmetik ortalaması 80 ve standart sapması 10 olan bir dağılımda 60’a karşılık gelen z değeri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "80",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "70",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "+2",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Bir veri kümesi içinde yer alan gözlem değerlerinin veri içinde kaç kez tekrar ettiğini gösteren değere ne ad verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Birim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sınıf",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tasnif",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Frekans",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Grup",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "İstatistik araştırmasına konu olan, uzun süre zarfında gözlenmesi mümkün olan ya da uzun ömürlü olarak tanımlanan birimlere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ani birim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Soyut birim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Somut birim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Maddi birim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Devamlı birim",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Bir üretim atölyesinde faaliyette olan 4 üretim tezgâhında bir hafta boyunca üretilen kusurlu ürün sayıları yukarıdaki tablo ile verilmiştir. Söz konusu atölyede üretilen kusurlu ürün sayılarının geometrik ortalaması aşağıdakilerden hangisidir? (İşlemlerde virgülden sonra iki haneyi dikkate alınız.)",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Log GO = 0,75 ve GO = 5,63",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Log GO = 0,85 ve GO = 7,12",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Log GO = 0,79 ve GO = 6,24",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Log GO = 0,87 ve GO = 7,50",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Log GO = 0,89 ve GO = 7.84",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Hilesiz bir zar atıldığında üste gelen yüzün çift sayı olması veya 4’ten büyük sayı gelmesi olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2/6",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1/6",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "4/6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "5/6",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "3/6",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Normal eğri alanları tablosuna göre P(­1,30 ≤ z ≤ 1,40) olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0,7558",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,7445",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0,7456",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0,8224",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0,7881",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "I. Basit indeksler\nII. Bileşik indeksler\nIII. Değişik esaslı indeksler\nYukarıdakilerden hangisi/hangileri içerdikleri madde sayısına göre isimlendirilen indeks türlerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız II",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi analitik (duyarlı) ortalamalar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Duyarlı ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Medyan (Ortanca)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geometrik ortalama",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "İki zarın aynı anda atılması deneyi bir tesadüfi değişken olarak tanımlanırsa bu tesadüfi değişkenin kaç tane mümkün sonucu olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "10",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "36",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "42",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Yukarıdaki tabloda bir mal ve hizmet sepeti için hesaplanan sabit esaslı Laspeyres ve Paasche fiyat indeksi değerleri verilmiştir.\nBuna göre 2024 yılına ait Fisher’in ideal indeks değeri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "128,9986",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "127,9834",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "132,2498",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "128,1237",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "127,0483",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Tek bir maddenin fiyatlarında hep bir önceki yılın fiyatına göre zaman içinde meydana gelen oransal değişimler aşağıdakilerden hangisi ile ölçülür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değişik esası Paasche indeksi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sabit esaslı bileşik indeks",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sabit esaslı basit indeks",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Değişik esaslı bileşik indeks",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Değişik esaslı basit indeks",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Çimento üreten bir firmanın ürettiği çimento torbalarının ağırlıkları normal dağıtılmakta olup ortalama torba ağırlığı 50 kg ve standart sapma 2 kg olarak hesaplanmıştır. Torba ağırlığının 48 kg’dan az olması hâlinde çimento paketi ağırlık açısından kalitesiz olarak ayrılmaktadır.  Gün içinde 1000 paket çimento üretildiğinde kaç paket çimentonun kalitesiz olduğu söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "158,7",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "143,7",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "131,4",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "117,7",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "141,6",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "∑ X ᵢ= 30\nn = 10\n∑ X²ᵢ = 150\nYukarıda bir dağılıma ilişkin bazı hesaplamalar verilmiştir.\nBuna göre dağılımın varyansı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "9",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "8",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "2024 yılında Türkiye’nin illere göre nüfusunu gösteren serinin türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mekân serisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bileşik seri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Frekans serisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bölünme serisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zaman serisi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Başlangıç dönemi miktarlarını tartı olarak kullanan bileşik indeks aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Paasche indeksi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Değişik esaslı indeks",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Reel indeks",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Fisher indeksi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Laspeyres indeksi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Yukarıdaki serinin ortalama sapması aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [
+        "| Xᵢ |\n| --- |\n| 4 |\n| 6 |\n| 8 |\n| 10 |\n| 12 |"
+      ],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6.1",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "5,0",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "4,2",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3,2",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "2,4",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Yukarıda verilen sınıflanmış seride mod sınıfı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "40-50 sınıfı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "30-40 sınıfı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0-10 sınıfı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "20-30 sınıfı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "10-20 sınıfı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "8061ca615798e031cb16910552a830cef89d1d48e2001db3f4b060bce3a3b5f5"
+}

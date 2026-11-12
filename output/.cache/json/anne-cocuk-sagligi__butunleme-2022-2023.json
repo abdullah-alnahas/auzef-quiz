@@ -1,0 +1,739 @@
+{
+  "course": "Anne Çocuk Sağlığı",
+  "course_slug": "anne-cocuk-sagligi",
+  "exam": "2022-2023 Bütünleme Soruları",
+  "exam_slug": "butunleme-2022-2023",
+  "page_title": "Anne Çocuk Sağlığı 2022-2023 Bütünleme Soruları",
+  "source_url": "https://lolonolo.com/2023/10/21/anne-cocuk-sagligi-2022-2023-butunleme-sorulari/",
+  "scraped_at": "2026-11-12T11:33:49+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Çocuklarda tüm yaralanmalar içinde ilk sırada hangi tür kazalar yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ev kazaları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Spor kazaları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "iş kazaları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Trafik kazaları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okul kazaları",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Hamileliğin oluşması için aşağıdakilerden hangisinin mutlaka olması gerekir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlk bölünme sonrası hücrelerin rahim duvarına yerleşmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fallot tüplerinin kapalı olması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Cinsel ilişki sonrası va(jinal duş alınması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Fallot tüplerinde yumurtanın yerleşmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yumurtlamadan sonraki 36 saat içinde korumasz cinsel ilişki yaşanması",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi doğumsal kalça displazisi için bir risk faktörü değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oligohidramnios",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ailesinde gelişimsel kalça displazisi olması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anne karnında makat duruş pozisyonu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çoğul gebelik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İlk doğan erkek çocuk",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Bir yılda meydana gelen canlı doğum sayısının aynı toplumun yıl ortası nüfusuna oranını veren ve bir toplumun doğurganlık düzeyini belirten, çok duyarlı olmayan ölçüte verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genel doğurganlık hızı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaba doğum hızı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaşa göre doğurganlık hızı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk kadın oranı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Pariteye özel doğurganlık hızları",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Karın ağrısı olan bir çocukta aşağıdakilerden hangisi yapılmamalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evde yakın izlenmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk kendini daha rahat hissettiği şekilde yatırılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mümkün olduğunca sıvı alması sağlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yemek yedirmek için ısrar edilmemelidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ağrı kesici verilmelidir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Solunum yolu mukozasında, özellikle larinkste (gırtlak), ödem oluşması sonucunda üst solunum yolunda tıkanıklığa bağlı olarak ortaya çıkan hastalık tablosu aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Krup",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Pnömoni",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sinüzit",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Otitis media",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tonsillit",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ülkemizde en sık görülen zehirlenmelere neden olan maddeler arasında değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ağrı kesiciler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Karbonmonoksit (soba zehirlenmesi)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Radyoaktif maddeler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tarım ilaçları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Psikiyatrik ilaçlar",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Vücutta hastalığa neden olmayan ve normalde deride, göz kapaklarında, burunda, ağızda ve bağırsakta yaşayan bakterilere verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fırsatçı bakteriler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Patojen bakteriler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Flora bakterileri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Geçici bakteriler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Virülans bakteriler",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Çocukluk ve ergenlik yaş grubunda görülen kısa süreli (4- 20 saniye) boş bakma-dalma şeklinde olan, iyi seyirli nöbetlere verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Absans nöbet",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tonik nöbet",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sanrı nöbeti",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Jeneralize nöbet",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Myoklonik nöbet",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Hasta veya yaralının değerlendirmesinin bir parçası olan ve uygulanacak kurtarma müdahalelerini ifade eden ilkyardımın ABC’sindeki “A” aşağıdakilerden hangisini ifade etmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dolaşım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hava yolu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilinç durumu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Solunum",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kan kaybı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Zehirlenmenin belirtileri aşağıdakilerden hangisine baglı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Alan kişinin özelliklerine",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Zehirli maddenin türüne",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zehirli maddenin alım zamanına",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zehirli maddenin alınış şekline",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zehirli maddenin miktarına",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Yaşamın ilk yıllarından itibaren çocukların sağlıklarının gelişimi ve güvenliği için öncelikle aşağıdakilerden hangisinin eğitim ve bilinç düzeyi artırılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğretmenlerin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk gelişim uzmanlarının",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sağlık çalışanlarının",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ebeveynlerin",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tüm kamu çalışanların",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okul öncesi kurumlarda çocuklara kazandırılan değerlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Adalet duygusu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kişilerarası ilişki",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öz güven",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okuma yazma öğrenme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sosyalleşme",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Rektal ısı kaç derecenin üzerinde olursa ateş yüksekliği olarak kabul edilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "37 °C",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "38,5 °C",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "36,5 °C",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "37,5 °C",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "38 °C",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Doğumda bebeğin değerlendirilmesi önemlidir. Buna göre aşağıdakilerden hangisi doğumdan hemen sonra yapılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Direncinin artması için vitamin düzeyi degerlendirilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Solunum-dolaşım yeterliliği açısından degerlendirilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Enfeksiyon oluşma olasılığı için hijyeni değerlendirilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ciddi hassas olduğu için sıcak duyarlılığı degerlendirilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Vücudu doğum kanalından bulaşmış kan ve mukustan temizlemek için yıkanmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yenidoğan sarılığının nedenlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yetersiz anne sütü alımı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Aşırı besleme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Geç beslenme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kan grubu uyuşmazlığı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anne sütüne bağlı sarılık",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Rotavirüs enfeksiyonu çocuklarda hangi hastalığa neden olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Akut gastroenterit",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Pnömoni",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Orta kulak iltihabı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tonsillit",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İdrar yolu enfeksiyonu",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Metabolik, endokrinolojik veya genetik bozuklukların tanınması için doğumdan sonra 36-72. saatte her bebekten topuktan alınan kapiller kuru kan ile aşağıdaki hastalıklardan hangisinin taraması yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kistik fibroz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Biyotidinaz eksikliği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hipotiroidi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Talasemi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Fenilketonüri",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sağlığın belirleyicileri arasında bulunmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çevre",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sağlık hizmetlerine ulaşım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Optimal sağlık seviyesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Biyoloji",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Suda boğulma olayı ile karşılaşıldığında yapılması gereken ilk müdahale aşağıdakilerden hangisi olmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çevreden yüzme bilen kişileri çağırmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yardım edecek insanlarla birlikte suya girmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kişiye su üstünde tutunmasını sağlayabilecek nesneleri atmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hızlıca suya girerek kişiyi çıkarmaya çalışmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kişinin bilincinin kapanmasını beklemek",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "226670d1ef46eea370d766cae8685b1d5e3e45a90d0db74bc02d6901cce67d77"
+}

@@ -1,0 +1,1319 @@
+{
+  "course": "Anne Çocuk Sağlığı",
+  "course_slug": "anne-cocuk-sagligi",
+  "exam": "2020 Vize Soruları",
+  "exam_slug": "vize-2020",
+  "page_title": "Anne Çocuk Sağlığı 2020 Vize Soruları",
+  "source_url": "https://lolonolo.com/2020/12/05/anne-cocuk-sagligi-2020-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:33:51+03:00",
+  "answer_source": "inline",
+  "question_count": 37,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Sağlıklı çocuk izleminde taramalar önemlidir. Hangisi yeni doğanın metabolik taramaları için yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bebeğin sadece anne sütü almış olması gerekir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Taramaların yapılabilmesi için bebeği 48 saat beslenmiş olması gerekir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bu hastalıkların sebep olabileceği bozukluklar taramalar sayesinde önlenebilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doğumdan sonra 3-5. Günlerde topuktan alınan kan ile tanı konulur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bazı metabolik hastalıkların hasarlarının önlenebilmesi için taramalar önemlidir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Optimal sağlığa, hastalıkları önlemeye, pozitif mental ve emosyonel durumlara odaklanan sağlık modeli nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tedavi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İyili modeli",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Holistik model",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tıbbi model",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çevre modeli",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Sırt üstü durumda çocuğun başı bir tarafa çevrildiğinde o taraftaki kolve bacakta açılma, gerilme diğer tarafta çekilme olması hangi reflekstir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Babinski",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Adım atma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Moro",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tonik boyun refleksi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yakalama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Mons pubis için doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sinir yönünden zengindir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Üçgen şeklinde görülür",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Damar yönünden zengindir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Lablalar arasında yer alır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ergenlik döneminden itibaren kıllarla kaplanır",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Doğumdan itibaren ilk 28 günü tamamlamış bebeklere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "prematüre",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "yenidoğan",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "immatür",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "sürmatür",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "postmatür",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Dünya genelinde anne ölümleri kabul edilemez derecede yüksektir. Anne ölümleriyle ilişkili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genç ergenler hamilelik sonucun diğer kadınlara göre daha düşük komplikasyon ve ölüm riskine sahiptir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yoksul toplumlarda yaşayan kadınlarda ölüm oranı daha yüksektir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anne ölüm oranı, kırsal alanlarda yaşayan kadınlarda daha düşüktür.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "1990 ve 2015 yılları arasında dünya ölçeğinde anne ölüm oranı yaklaşık %44oranında artmıştır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anne ölümlerinin %99 u gelişmiş olan ülkelerde görülmektedir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Doğum sonrası dönemde anne de birtakım değişiklikler ortaya çıkmaktadır. Bu süreç için aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rahim doğumdan sonra büyüktür ve karın üzerinde ele gelir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Lohusalık dönemi bitiminde adet kanaması olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duygusal dalgalanmalar ve ağlama görülebilir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doğum sonrası kanamanın rengi zamanla değişim göstermektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Doğum sonrası adet kanamasına benzer bir kanama görülür.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Sağlığın tanımı 2 farklı bakış açısıyla ifade edilmektedir. Bunlardan öznel bakış açısı ele alındığında aşağıdakilerden hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öznel bakış açısında bireyin laboratuvar sonuçları önemlidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kişinin enerjik hissetmesi sağlık göstergesidir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bireyin kendini nasıl hissettiği sağlık için önemlidir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişinin kendini iyi hissetmesi sağlık göstergesidir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireyin kendini canlı hissetmesi öznel bakış acısını ifade eder.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Sosyo- ekonomik durum, eğitim ve çoklu çevresel etmenlerin sağlığa olan etkilerini içeren sağlık modeli aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İyilik modeli",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Holistik modeli",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tedavi modeli",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tobbi model",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çevre modeli",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi uterusun görevlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Embrio olgunlaşıncaya kadar beslenmesini ve korunmasını sağlamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Döllenmiş yumurtanın yerleşmesi için uygun bir ortam hazırlamak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Doğum anında plasentayı korumak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doğumdan sonra plasentanın ayrıldığı kısımdaki kasların kasılmasını sağlayarak kanamayı kontrol altına almak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Plasentanın atılmasını sağlamak",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Hamileliğin oluşması için mutlaka olması gereken şey nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fallop tüplerinin kapalı olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Cinsel ilişki sonrası vajinaya duş alınması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fallop tüplerinde yumurtanın yerleşmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İlk bölünme sonrası hücrelerin rahim duvarına yerleşmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yumurtlamadan sonraki 36 saat içinde korumasız cinsel ilişki yaşanması gerekir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Bir toplumun doğurganlık düzeyini belirten, çok duyarlı olmayan ölçüte ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk kadın oranı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Genel doğurganlık hızı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Genel doğurganlık hızı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kaba doğum hızı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaşa göre doğurganlık hızı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Yeni doğanın duyuları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yenidoğan bebek doğumdan itibaren kokuları ayırt edebilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bebeklerde anne karnında hareketli hissetse de dokunma duyusu doğumdan sonra başlar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yenidoğanla iletişim kurmanın en iyi yolu dokunmadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yenidoğanın görme duyusu tam olarak gelişmemiştir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yenidoğan parlak ışıklara tepki verir",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Kısırlık, çiftlerin düzenli ilişkiye girmelerine rağmen ………… içinde gebelik gerçekleşmemesi olarak tanımlanır.\nYukarıdaki boşluğa uygun olan seçenek hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "12 ay",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "9 ay",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "18 ay",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3 ay",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "6 ay",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kadınların ve kızların kaliteli sağlık hizmetlerinden yararlanmasını ve mümkün olan en iyi sağlık seviyesine ulaşmasını engelleyen sosyokültürel faktörlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Erkekler ve kadınlar arasındaki eşitlik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kadınların üreme rollerine özel bir odaklanma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ücretli istihdam olanaklarını azaltan sosyal normlar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Fiziksel, cinsel ve duygusal şiddetin bir potansiyel olması veya yaşanılmış gerçek bir tecrübe olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eğitim olanaklarını azaltan sosyal normlar",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Sağlam çocuk izlemi için aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6 ay ile 2 yaş arası üç ayda bir izlem yapılmalıdır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlk 6 ay içinde her ay sağlam çocuk izlemi yapılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "6 yaştan sonra yılda bir izlem yapılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doğumdan sonra ilk 24 saat içinde yapılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "7-10 günlerde taburculuk izlemi gerçekleştirilmelidir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi endokrin bozukluklar sonucu olan amenoredir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Overyal amenero",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Periferik amenero",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Disregulatorik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Santral amenero",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Venoz amenore",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Doğumda bebeğin değerlendirilmesi önemlidir. Aşağıdakilerden hangisi doğumdan hemen sonra yapılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cildi hassa olduğu için sıcak duyarlılığı değerlendirilmelidir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Solunum dolaşım yeterliliği açısından değerlendirilmelidir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Direncinin artması için vitamin düzeyi değerlendirilmelidir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Enfeksiyon oluşma olasılığı için hijyeni değerlendirilmelidir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Vücudu doğum kanalında bulaşmış kan ve müküsten temizlemek için yıkanmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Sağlıklı çocuk izleniminde aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Her kontrolde aşılama yapılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun beslenme özelliklerini incelemek amacıyla özellikle anne sütü ile beslenme, ek besinlere başlama, beslenme alışkanlıkların yönelik bilgiler araştırılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Boy , kilo ve baş çevresi ölçülmeli ve bunlar büyüme eğrileri üzerinde işaretlenmelidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Büyümesi izlenmelidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaşa uygun taramalar yapılmalıdır",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Kadın üreme organları iç ve dış üreme organları şeklinde iki bölümde incelenir. Dış üreme organlarının hepsine ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Klitoris",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Labia minör",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Vulva",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mons pubis",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Labia majör",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "Yenidoğan bebeğin baş kısmında önde frontal kemikler ile paryetal kemiklerin birleştiği yerde ön fontanel ve arkada paryetal ve oksipital kemiklerin birleşme yerinde arka fontanel vardır. Bunların kapanması hangi ayda gerçekleşir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0-3 ay ve 12-18 ay",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3-5 ay ve 13-15 ay",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3-6 ay ve 15-18 ay",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2-6 ay 15-18 ay",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "2-4 ay ve 12-15 ay",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "Tuba uterinalar: bir çifttir ve uterusun üst yan köşelerine açılan uzun ince tüp şeklinde oluşumlardır. 3 kısımda incelenir. Hangisi overlere en yakın kısımdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Serviks",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Perine",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnfindibulum",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İsthmus",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ampulla",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "Bebeğin ayak tabanına dokunulduğunda bacağını kasar ve başparmağını yana doğru açar. İki yaşına kadar sürdürebilir. Bu refleks hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tonik boyun refleksi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yakalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Adım atma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Moro",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Babinski",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "Bir çocuğun sağlıklı büyüme ve gelişmesi için doğumda itibaren gereksinimleri ölçüsünde büyüme ve gelişiminin değerlendirilmesi, sağlık izleminin ve taramalarının yapılması önemlidir. Bu doğrultuda hangisi çocuk sağlığı izlenim ilkelerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile eğitimi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hastalıkların önlenmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Erken tanı ve tedavi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların kayıtlanması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bakımının sürekliliğinin sağlanması",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "Bebek sırt üstü yatırılır. Baş kısmı muayene eli ile desteklenir. Bu destek birden bire çekilerek başın 10-15 derece geriye düşmesi sağlanır. Bebek refleks olarak gövdesini öne ve kollarını iki yana açar sonrada kapatır. Bu hangi reflekstir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yakalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tonik boyun refleksi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Babinski",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "adım atma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Moro",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "Sağlık farklı modellerle ele alınmıştır. Bu modellerden hangisi hastalığın olmamasını sağlık olarak değerlendirmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Holistik modeli",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "çevre modeli",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "iyilik modeli",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "tedavi modelli",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "tıbbi model",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "Bir olayın bir bütün içindeki durumunu yansıtır. A/ A+B şeklinde ifade edilir. Pay, paydanın içinden çıkmaktadır. Açıklaması verilen kavram hangisidir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Süre",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Orantı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Oran",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hız",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zaman",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "Emosyonel, entelektüel, spiritüel, mesleki, sosyal ve fiziksel olmak üzere altı boyuttan oluşan sağlık modeli nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Holistik model",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İyilik modeli",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tıbbi model",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tedavi modeli",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çevre modeli",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "Sağlık istatistikleri yıllığından alınan sağlık bakanlığı halk sağlığı genel müdürlüğü (2016) verilerine göre Türkiye’de 5 yaş altı ölüm hızı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Binde 12,7",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Binde 11,4",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Binde 11,9",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Binde 12,1",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Binde 12,4",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "Bir olayın topluluk (risk altındaki toplum) içindeki görülme sıklığını veya oluşma riskini bulmak için kullanılır. A/A+N şeklindeki ifade edilir.\nYukarıda açıklaması verilen kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Orantı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hız",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Süre",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zaman",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Oran",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 31,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki ifadelerden hangisi doğum sonrası yapılması gerekenlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hemen emzirmeye başlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İşitme testi uygulanmalıdır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Apgar değerlendirmesi yapılmalıdır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bebeğe 1 mg K vitamini yapılması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Radyant ısıtıcı altında tutulmalıdır",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 32,
+      "type": "legacy_text",
+      "stem": "Bir olayın başka bir olaya göre durumunun yansıtır. A/B şeklinde ifade edilir. Pay, paydadan tamamen farklıdır.\nYukarıda açıklaması verilen kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oran",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Orantı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hız",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Süre",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zaman",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 33,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangsi yenidoğan sarılığının nedenlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aşırı beslenme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geç beslenme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anne sütüne bağlı sarılık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yetersiz anne sütü alımı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kan grubu uyuşmazlığı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 34,
+      "type": "legacy_text",
+      "stem": "Doğum sonra apgar değerlendirilmesi önemlidir. Bu değerlendirme ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Puanla 0-1 ve 2 olarak yapılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Apgar skoru doğumdan sonra 1. Ve 5. Dakikada bakılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bebekte solunum, kalp hızı, renk, kas tonus ve uyaranlara yanıt incelenir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Apgar skorunun en doğru sonucu doğumdan 10 dakika sonra elde edilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Apgar skorunda altı ana unsur değerlendirilir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 35,
+      "type": "legacy_text",
+      "stem": "Üreme sistemi, işlevleri ve süreci ile ilgili sadece hastalık ve sakatlığın olmaması değil tüm bunlara ilişkin fiziksel, zihinsel ve sosyal yönden tam bir iyilik halinin olmasına ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kadın sağlığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ana sağlığı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Üreme sağlığı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal sağlık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnfertilite Soruyu",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 36,
+      "type": "legacy_text",
+      "stem": "Sağlık için aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kültürel özgü beslenme sağlık için önemlidir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fiziksel olarak herhangi bir şikayetin olmaması sağlığın göstergesidir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kişinin kendini iyi olarak ifade etmesi sağlık anlamına gelmez.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sağlık bir bulmaca gibi yorumlanabilir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireyin zinde olması sağlıklı olduğunun göstergesidir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 37,
+      "type": "legacy_text",
+      "stem": "Vulvadaki en büyük sargı bezi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vestibül",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Labia minor",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hipofiz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Labia majör",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bartolin bez",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "omitted_questions": [
+    {
+      "n": 1,
+      "reason": "option_letters",
+      "stem": "Türkiye’deki anne sağlık durumunun ölçme değerlendirmede kullanılan sağlık ölçütleri aşağıdakilerden hangisi değildir?\n) Toplam düşük hızı"
+    }
+  ],
+  "content_hash": "e4c6f20a324418e10c7e0f374f3771adf0f338c94eb98b35a5cba739405a88ba"
+}

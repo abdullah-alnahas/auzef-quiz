@@ -1,0 +1,739 @@
+{
+  "course": "Üstün Zekâlı Ve Yetenekli Çocuklar Ve Eğitimleri",
+  "course_slug": "ustun-zekali-ve-yetenekli-cocuklar-ve-egitimleri",
+  "exam": "2022-2023 Final Soruları",
+  "exam_slug": "final-2022-2023",
+  "page_title": "Üstün Zekâlı Ve Yetenekli Çocuklar Ve Eğitimleri 2022-2023 Final",
+  "source_url": "https://lolonolo.com/2023/01/17/ustun-zekali-ve-yetenekli-cocuklar-ve-egitimleri-2022-2023-final/",
+  "scraped_at": "2026-11-12T11:34:28+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Barbara Clark (1986) tarafından geliştirilen bütünleştirici eğitim modelinin amacı; beyin üzerine araştırmaların bulgularını kullanarak, öğretmenlere evde ve okulda etkili öğretmeye ve öğrenmeye yardımcı olacak düzenli bir rehber sağlamaktır. Bu model insan beynin başlıca dört fonksiyonunun birleşmesine dayanır:……, ….., ….. ve ….. Yukarıdaki boşluklara aşağıdaki seçeneklerden hangisi gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "işlemsel, duyuşsal, varoluşsal, fiziksel",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bütünsel, duygusal, sezgisel, fiziksel",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bilişsel, bilgisel, duygusal, sezgisel",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "sezgisel, duyuşsal, fiziksel, bilişsel",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "bilgisel, duygusal, fiziksel, sezgisel",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Devlet okullarında sunulan sınıf yapısı; üstün zekalı ve yetenekliler eğitiminde kullanılan gruplama türlerinden hangisine örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Online sınıflar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tam gün üstün zekalı ve yeteneklilere özel sınıflar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tam gün karma sınıflar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Esnek gruplama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geçici gruplama",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Wallas yaratıcı sürecin ilk modelini önererek; dört aşamadan oluştuğunu ortaya koymuştur. Bu aşamalar hazırlık aşaması; kuluçka evresi, aydınlanma evresi ve doğrulama evresidir. Doğrulama evresinde aşağıdakilerden hangisi gerçekleşmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konudan uzaklaşılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fikir üretilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çözüme ulaşılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilgi toplanır, konuyla ilgili araştırma yapılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Fikir değerlendirilip geliştirilir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ailenin çocuğuna karşı öncelikli görev ve sorumlulukları arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sağlıklı beslenme ihtiyaçlarının karşılanması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmen seçimi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Barınma ihtiyacının karşılanması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Güvenli bağlanma oluşturulması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Koşulsuz sevgi verilmesi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi, otizmi olan çocuklarda gözlemlenen tipik bir özellik değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ani gerçekleşen değişikliklere aşırı tepki verme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tutarsız boyutta harfler çizerek okunaksız yazı yazma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Göz kontağı kurmaktan kaçınma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ailesi ve yaşıtlarından ziyade oyuncaklarıyla vakit geçirme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sınırlı ilgi alanlarında, ısrarla aktivite yapmayı tercih etme",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "“Ali ilkokul birinci sınıf öğrencisidir. Okulda derslerine istekle katılmakta ve öğretmeninin her söylediğini düzenli olarak yapmaktadır. Ancak Ali’nin öğretmeninin dikkatini çeken bir sorunu vardır, o da Ali’nin sınıfta sürekli hareket hâlinde olması, sandalyesini ileri-geri itmesi, bacaklarını sallaması, kıvırmasıdır.” Bu durumda Ali’nin yaşadığı durum Dabrowski’nin aşırı duyarlık alanlarından hangisi ile ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zihinsel/Entelektüel aşırı duyarlılık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Psikomotor aşırı duyarlılık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duygusal aşırı duyarlılık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Duyularla ilgili aşırı duyarlılık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hayal gücü(İmgeleme) alanında aşırı duyarlılık",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Beyin görüntüleme teknikleri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "PET(pozitron emisyon tomografi) karmaşık serebral süreçleri çözmek için kullanılan yardımcı tekniklerden biridir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "EEG(Elektroansefalografi) beynin bilgiyi nasıl işlediği ile ilgili ayrıntıları elde etmek için bir bilgisayara kaydedilebilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gelişen beyni incelemede en önemli keşiflerden biri fMRI' (işlevsel manyetik rezonans)dır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Beyin görüntüleme teknikleri canlı beynin yapısına ve işlevlerine bakabilme imkanı sağlamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ortalama bir saniye içindeki beyin faaliyetlerini gözlemleyen görüntüleme yöntemine ERP adı verilir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "“Dilsel olarak üstün zekalı ve yetenekli çocuklar kelimelerle oynamaktan hoşlanırlar. Kafiyeli kelimeler kullanabilir, farklı espriler yapmayı sevebilir, konuşmalarında çevresindekileri şaşırtacak benzetmeler yapmayı tercih edebilirler. Sıklıkla kullanılmayan kelimeleri kullanmak ve dili eski kitapları okumaktan keyif alabilirler. Bu ilgileri de üstün zekalı ve yetenekli çocukların kelime dağarcıklarını geliştirmektedir. Gelişen kelime dağarcığı dil gelişimlerini de hızlandırmaktadır.” Yukarıdaki paragraf aşağıdakilerden hangisini açıklamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Erken akademik gelişim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İleri düzey dil gelişimi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Akranlarından hızlı gelişim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Duygusal olarak hassaslık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Erken konuşma",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "“Bebeklikten yetişkinliğe kadar bireyin çevreyi, dünyayı etkili bir şekilde anlama ve düşünme yollarının bütünü ….. meydana getirmektedir.” Yukarıdaki boşluğa aşağıdakilerden hangisi gelmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "bilişsel gelişimi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "duygusal gelişimi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "fiziksel gelişimi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "psikomotor gelişimi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "duyusal gelişimi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Leta Hollingworth’a göre tanılama prosedürü aşağıdakilerden hangisini içermez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk ve ebeveynlerle mülakatları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "IQ testlerini",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Başarı testlerini",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğretmenlerin aday göstermesini",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okul müdürünün aday göstermesini",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Bilim ve Sanat Merkezleri (Bilsem), Milli Eğitim Bakanlığı Özel Eğitim ve Rehberlik Hizmetleri Genel Müdürlüğü tarafından üstün yetenekli çocukların eğitilmesi amacı ile hangi yilda kurulmuştur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1993",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2000",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "2010",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2014",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1985",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 21. Yüzyıl Becerileri İçin Ortaklık Platformu tarafından tanımlanan 21. yüzyıl becerilerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Girişim ve özyönetim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Medya okuryazarlığı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eleştirel düşünme ve problem çözme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Akademik performans ve başarı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Esneklik ve uyum",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "“Yetenek Odaklı Eğitim Modeli” açısından en uygun tanım hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Problem çözme becerilerini kazandırarak toplumun saygın bir üyesi haline getirme süreci",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İnsan zihnini geliştirerek çevreyle uyum sağlama becerilerini geliştirme süreci",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnsan doğasına saygı duyarak potansiyelini açığa çıkarma süreci",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çevreyle etkileşim yoluyla istendik yönde kalıcı izli davranış değişikliği gerçekleştirme süreci",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Toplumsal miras ve kültürü yeni nesillere aktararak toplumla uyumu sağlama süreci",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Marland Raporu’nda bulunmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görsel sanatlar ve sahne sanatları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Liderlik yeteneği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duygusal zeka",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaratıcı veya üretken düşünme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Psikomotor yetenek",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Gardner’ın yedi zeka türüne sonradan eklediği zeka türlerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doğacı zeka",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İçsel-öze dönük zeka",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Görsel-uzamsal",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal-kişiler arası zeka",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Müziksel ritmik zeka",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Güvercinden navigasyonun üretimi, akrepten anestezinin üretimi ağırlıklı ve öncelikli hangi yaratıcı düşünme yeteneğinin göstergesidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aktarım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Özgünlük",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Esneklik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zenginleştirme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Görselleştirme",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi, iki kere farklı bir çocuk değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yüksek IQ sahibi ve otizmi olan",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yüksek IQ sahibi ve yazma güçlüğü olan",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yüksek IQ sahibi ve işitme kaybı olan",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yüksek IQ sahibi ve resim alanında üstün yetenekli",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yüksek IQ sahibi ve diyabet hastası olan",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bütünleştirici eğitim modelinin 7 parçasından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Seçim ve algılanan kontrol",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sezgi ve birleştirme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Güçlendirici dil ve davranış",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğretmen otoritesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Rahatlama ve stres azaltma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Müzik alanında yetenekli ilköğretim çağındaki öğrenciler Bilim ve Sanat Merkezleri’ne alımları için kimler tarafından aday gösterilirler?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Veliler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmenler Kurulu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Rehber öğretmenler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okul müdürü",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sınıf ve şube öğretmenleri",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Üstün zekalı ve yetenekli bireyler “asenkronizasyon” yani fiziksel ve zihinsel beceriler arasındaki farktan dolayı, fiziksel olarak bir takım destek ve yönlendirmelere ihtiyaç duymaktadır. Aşağıdakilerden hangisi bunlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fiziksel aktivitelerden zevk almasının sağlanması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fiziksel olarak kendine uygun standartlar koyması konusunda yönlendirilmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Spor, resim vb. duyusal bilginin bütünleştirilmesini sağlayan aktivitelere katılmasının sağlanması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Fiziksel ve zihinsel becerileri birleştiren etkinliklere yönlendirilmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaratıcı yeteneklerinin keşfedilmesi ve desteklenmesi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "45efdaa398f0512fc8909ae48f65a3eef9fe5e44511bc3b3afd1e9ef72f6fe49"
+}

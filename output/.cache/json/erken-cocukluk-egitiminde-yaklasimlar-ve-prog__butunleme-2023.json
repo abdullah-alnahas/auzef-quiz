@@ -1,0 +1,811 @@
+{
+  "course": "Erken Çocukluk Eğitiminde Yaklaşımlar Ve Prog.",
+  "course_slug": "erken-cocukluk-egitiminde-yaklasimlar-ve-prog",
+  "exam": "2023 Bütünleme Soruları",
+  "exam_slug": "butunleme-2023",
+  "page_title": "Erken Çocukluk Eğitiminde Yaklaşımlar Ve Programlar 2023 Bütünleme",
+  "source_url": "https://lolonolo.com/2023/07/14/erken-cocukluk-egitiminde-yaklasimlar-ve-programlar-2023-butunleme/",
+  "scraped_at": "2026-11-12T11:34:16+03:00",
+  "answer_source": "markup",
+  "question_count": 22,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Sices (2007)’in belirttiğine göre erken müdahale uygulamalarının hangi özel gereksinim türüne sahip olan çocuklar üzerinde en etkili olduğu tespit edilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görme yetersizliği bulunan çocuklarda",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dikkat eksikliği ve hiperaktivite bozukluğu olan çocuklarda",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim geriliği ve akademik başarısızlık riski yüksek olan çocuklarda",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ağır düzeyde zihinsel yetersizliği bulunan çocuklarda",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Otizm spektrum bozukluğu olan çocuklarda",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "‘ Gelişimsel açıdan uygun program ailelerle çalışırken göz önünde bulundurulacak etik ilkeler belirlemiştir. ’ Aşağıdakilerden hangisi bu ilkelerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların dahil olacağı araştırmalarla ilgili ailelerden izin istemek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Özel gün ve bayramlarda aileleri tebrik etmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ailelerin özel hayatına saygı duymak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ailelerin okula erişim taleplerine saygılı olmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okulda uygulanan program hakkında aileleri bilgilendirmek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Head Start’ın felsefesi arasında sayılamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile eğitimi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bütüncül yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal yeterlik üzerine odaklanmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aileye para yardımında bulunmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yerel kontrol",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Proje Yaklaşımının tarihçesi düşünüldüğünde, aşağıda verilenlerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dezavantajlı çocukların akademik başarısını artırma hedefinden doğmuştur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kavramsal olarak ilk kez Lillian Katz tarafından tanımlanmıştır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öncelikle erken çocukluk eğitiminde, daha sonra ilköğretimde kullanılmıştır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Proje Yaklaşımı ilk kez 1910’da bir okulda uygulanmıştır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okullara disiplin getirmek üzere geliştirilmiştir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Eğitim programları kalite göstergeleri açısından değerlendirildiğinde; “Etkili programlar çoklu değerlendirme yöntemini kullanır” göstergesini karşılayan program aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Waldorf Okulları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Orman Okulları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Reggio Emilia",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "High Scope",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Proje Yaklaşımı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Orman okullarının uygulanmasıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tam gün, yarım gün veya haftada bir olarak uygulanması mümkündür.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Eğitimli kişilerin liderliğinde gerçekleştirilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hava koşullarının elverişli olmadığı zamanlarda uygulamaya ara verilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çiftlik, orman ve sahil gibi doğal ortamlarda uygulanır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eğitim müfredatıyla örtüşecek şekilde uygulanabilir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Kısa vadeli döngü hakkında aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Piramit projelerinin ilk basamağı oryantasyondur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Genişleme basamağında çocukların proje konusu hakkındaki bilgileri genişlemektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Piramit metodunda çocuklar kısa vadeli döngü aracılığı ile mesafe almaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kısa vadeli döngünün demonstrasyon basamağında öğretmenler bir yandan anlatırken, bir yandan da gösterimde bulunurlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğretmenler genişleme basamağında ana soru tipi olarak uzaklık sorularını kullanırlar.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "‘ Çocukları götüreceği ormanı önceden ziyaret eden bir öğretmen, ortamdaki bütün tehlike ve zorlukları önceden belirleyerek, tamamen güvenli bir yer bulmayı hedeflemektedir. ’ Bu tutuma sahip bir öğretmenin orman yaklaşımının hangi ilkesini uygulamakta zorlanacağı düşünülebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların çok yönlü gelişimini desteklemek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların risk almalarına fırsat tanımak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğrenci-merkezli uygulamalardan yararlanmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Orman yaklaşımı konusunda eğitim almak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukları araştırma odaklı olmaya teşvik etmek",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisiPiramit Metodu’nda yer alan eğitim programlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hizmet içi eğitim programı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Oyun programı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tutor programı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ebeveyn programı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Projeler",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Reggio Emilia yaklaşımında çocukların araştırma serüvenini görünür kılacak faaliyet(ler)e ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Portfolyo",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğrenme daveti",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dokümantasyon",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Progettizone",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yüz dille konuşma",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Erken müdahale ve erken müdahale programları ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Erken müdahale programına dahil edilen çocukların akranlarının gelişim düzeyini geçmesi beklenmektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "3-6 yaşları arasındaki gelişim geriliği bulunan çocuklar için erken müdahale hizmetleri erken çocukluk özel eğitimi adı altında sürmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Erken müdahale fikrinin temeli 1954 yılına kadar uzanmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Erken müdahale programlarının amacı gelişimi risk altında bulunan çocukları desteklemektir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Erken müdahale programları genelde çocukların ve ailelerin bireysel ihtiyaçlarına yanıt vermektedir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Reggio Emilia yaklaşımında uygulanan projelerle ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğretmenlerin sunduğu öğrenme davetleri ile başlayabilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmenlerin öğretmek istediği konuları merkeze alan araştırmalardır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğretmenlerin araştırma çabaları sonucu ortaya çıkar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Eğitim programının amaç ve hedeflerine uygun konularda yapılan araştırmalardır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Projeler plansızdır ve doğaçlama yoluyla şekillenir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Piramit Metodu’nun günlük eğitim akışına ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Piramit Metodu’nda çocuklar nasıl çalışacaklarını hoş geldiniz programında öğrenir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Günün kapanışı tüm sınıfın katıldığı bir etkinlikle gerçekleştirilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tutoring, sınıfta bulunan özel öğretim merkezinde veya sınıf dışı başka bir alanda yapılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ardışık etkinlikler günün en başında gerçekleştirilen etkinlikler olup; genelde küçük grup etkinliği şeklinde gerçekleştirilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklar grupla keşfetme zamanında proje konusu hakkında keşifte bulunurlar.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Reggio Emilia sınıfları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların küçük gruplar şeklinde çalışabilmeleri için minderler ve sade mobilyalar kullanılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sınıflar geniş ve açık bir alana sahiptir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sınıflarda saksılı ev bitkileri bulunabilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sınıflar fon kartonundan yapılmış şeylerle süslenir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sınıf duvarlarında çocukların önceki çalışmalarından fotoğraflar bulanabilir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "‘ Karınca projesinin yapıldığı bir Reggio Emilia sınıfında, öğretmenler karıncaların izlediği rotaya dikkat çekebilmek için sınıfa kırmızı şeritler eklemiştir; bazı mobilyaları farklı alanlara taşımıştır. ’ Bu durum, Reggio Emilia ortamlarını düzenleme ilkelerinden hangisiyle açıklanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Şefaflık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dış dünyayı yansıtma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Esneklik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Estetiklik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İlişkili olma",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi orman yaklaşımının avantajları arasında gösterilemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Katı sınıf ortamlarında öğrenmeyi zor bulan çocuklar için motive edici olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmenlerin mesleki sorumluluklarını azaltması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Deneyimleyerek, yaparak ve yaşayarak öğrenmeye fırsat tanıması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bir müfredatla eş zamanlı olarak uygulanabilmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Birden çok duyu organıyla keşif yapmaya fırsat tanıması",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Piramit Metodu’nda yer alan yakınlık ve uzaklık soruları aşağıdaki teorilerden/kuramlardan hangisinin yansıması sonucunda oluşturulmuştur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çoklu Zeka Kuramı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bağlanma Kuramı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duygusal Zeka Kuramı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dinamik Sistemler Teorisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mesafe Teorisi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ön yargı karşıtı eğitim programının içeriğinde ele alınan ön yargı alanlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile yapısı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Irk-etnik köken",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Cinsiyet",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Düşünce",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaş",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ön yargı karşıtı eğitim programının özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ön yargı karşıtı eğitim programı gelişimsel açıdan uygundur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ön yargı karşıtı eğitim programı çocukların günlük yaşamlarını göz önüne almaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ön yargı karşıtı eğitim programı herkes için düzenlenmiştir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Turist müfredat ön yargı karşıtı eğitim programında kendine önemli bir yer bulmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk ve öğretmen tarafından başlatılan etkinliklerin ikisi de ön yargı karşıtı programda kullanılmaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Montessori metodunda okul öncesi dönemde çocuklara okuma-yazma öğrenmesine fırsat sağlanması programın hangi özelliği ile açıklanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Program akademik gelişime odaklanmıştır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Program bireyselleşmeye önem verir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Program holistiktir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Program eklektiktir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Program kültürel çeşitliliğe saygılıdır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "‘ Gelişimsel açıdan uygun program, Amerika’da eğitim alanında yaşanan bazı olumsuzluklar neticesinde doğmuştur. ’ Aşağıdakilerden hangisi bu olumsuzluklar arasında gösterilemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Düşük gelirli ailelerin temel eğitim masraflarını karşılayamaması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gelişim seviyesi üstünde yapılan ölçme ve değerlendirme faaliyetleri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eğitim uygulamalarında acelecilik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Rekabetçi eğitim anlayışı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Müfredatların akademik odaklı, kısıtlı ve dar çerçevesi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Çok kültürlü eğitim hakkında aşağıda verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çok kültürlü eğitim eğitimsel eşitliği önemsemektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çok kültürlü eğitim toplumun demokratikleşme sürecini desteklemektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çok kültürlü eğitim ilk kez James Banks’in makalesinde tanımlanmıştır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çok kültürlü eğitim aracılığı ile kültür farkından kaynaklanan sorunlar tartışılma imkanı bulmuştur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çok kültürlü eğitim benzer etnik kökene sahip olan çocukların aynı sınıfta bulunmasını uygun görmektedir",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "f90e664322c64cf57ee1f511f90e2e02791480b16a6f354f4731eec746adccd7"
+}

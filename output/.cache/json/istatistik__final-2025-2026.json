@@ -1,0 +1,739 @@
+{
+  "course": "İstatistik",
+  "course_slug": "istatistik",
+  "exam": "2025-2026 Final Soruları",
+  "exam_slug": "final-2025-2026",
+  "page_title": "İstatistik 2025-2026 Final Soruları (Güz)",
+  "source_url": "https://lolonolo.com/2026/01/11/istatistik-2025-2026-final-sorulari-guz/",
+  "scraped_at": "2026-11-12T11:33:27+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "I. Mod, duyarlı (analitik) bir ortalamadır.\nII. Mod, bir seride en çok tekrar eden gözlem değeridir.\nIII. Sınıf genişliği eşit olmayan serilerde de mod hesaplanabilir.\nMod ile ilgili yukarıda verilen bilgilerden hangisi ya da hangileri yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve II",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Bir ilde ölçülen gündüz hava sıcaklığı değerleri aşağıdaki gibidir:\n-3, 1, 1, 2, 3, 3, 4\nYukarıdaki veri dikkate alındığında hangi duyarlı (analitik) ortalama hesaplanamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Standart değer",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Medyan",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kareli ortalama",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "I. Ölçü birimi farklı olan serilerin dağılma derecelerinin kıyaslanmasında standart sapma uygun bir ölçü değildir.\nII. Değişim aralığı gözlem değerlerinin aritmetik ortalamadan sapmalarının ortalamasıdır.\nIII. Standart sapma varyansın kareköküdür.\nYukarıdaki ifadelerden hangisi ya da hangileri yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız I",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Normal olasılık dağılımını gösteren eğrinin altında kalan toplam alan, toplam olasılığı ifade eder ve daima …….\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1'dir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,75'tir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "değişmektedir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0,5'tir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "-0,5'tir",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Yukarıdaki tabloda birden fazla mal ve hizmetten oluşan madde sepetindeki miktar ve fiyat bilgilerinden hareketle hesaplanan Laspeyres fiyat indeksi ve Paasche fiyat indeksi değerleri verilmiştir.\nBuna göre 2024 yılına ait Fisher’in ideal indeks değeri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "100,000",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "124,749",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "153,416",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "153,542",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "155,414",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "I. Gruplama hem nitel hem nicel veriler için yapılabilir.\nII. Tasnif işleminde veriye yönelik bilgi kayıpları oluşur.\nIII. Tasnif hem nitel hem nicel veriler için yapılabilir.\nVerilerin düzenlenmesi ile ilgili olarak yukarıda verilen ifadelerden hangisi ya da hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız II",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız III",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "İstatistik araştırmasına konu olan, uzun süre zarfında gözlenmesi mümkün olan ya da uzun ömürlü olarak tanımlanan birimlere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ani birim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Somut birim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Maddi birim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Soyut birim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Devamlı birim",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "“Ölçü birimi ya da terim büyüklükleri farklı olan serilerin dağılma derecelerinin kıyaslanmasında……. kullanılır.”\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "standart sapma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "değişim katsayısı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "değişim aralığı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "ortalama sapma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "varyans",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "İki para birlikte atıldığında en az bir paranın tura gelmesi olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1,00",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1/4",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3/4",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "1,8",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1/2",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Herhangi bir gözlem değerinin bir dağılım içinde konumunu yani nerede yer aldığını belirlemede kullanılmaktadır.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değişim katsayısı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ortalama sapma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Varyans",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Standart değer",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Standart sapma",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "I. 2024 yılı Mart ayında İstanbul Arkeoloji Müzesi’ni gezen kişi sayısı\nII. 2023 yılında Kadıköy-Eminönü hattında taşınan yolcu sayısı\nIII. 2023 yılında ithal edilen binek otomobil sayısı\nIV. Bir kablo üretim şirketinin 2023 yılı boyunca ürettiği fiber kablo uzunluğu\nV. Bir fabrikada üretilen akülerin dayanma süresi\nYukarıdaki tesadüfi değişkenlerden hangisi ya da hangileri süreklidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "IV ve V",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve II",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi analitik (duyarlı) ortalamalar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duyarlı ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Medyan (Ortanca)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geometrik ortalama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Bir sınava giren 220 öğrenciden 132’si başarılı olmuştur.\nBuna göre 220 öğrenci arasından tesadüfen seçilecek bir öğrencinin başarılı olma olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0,52",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,64",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0,54",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0,60",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0,58",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "İstanbul-Konya arasındaki uçuş süresinin normal dağıldığı bilinmektedir.\nDaha önce yapılan gözlemler sonucunda ortalama uçuş süresi 2900 saniye ve standart sapma 400 saniye olarak hesaplanmıştır.\nBuna göre herhangi bir uçuş süresinin 2900-3600 saniye arasında olma olasılığı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0,2458",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,1056",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0,3944",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0,1245",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0,4599",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "“Bir tesadüfi deney neticesinde ortaya çıkabilecek bütün mümkün sonuçlara sayısal bir değer verilmek suretiyle bir …… elde edilmiş olur.”\nYukarıda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "tesadüfi değişken",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "olasılık dağılımı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "mümkün sonuçlar kümesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "tesadüfi deney",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "örnek uzayı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "9 gözlemden oluşan, kareli ortalaması 18 ve aritmetik ortalaması 15 olan serinin standart sapması aşağıdakilerden hangisidir?\n(Hesaplarınızda virgülden sonra iki haneyi dikkate alınız.)",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "11,00",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "6,18",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "9,95",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "99,00",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "7,12",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Verilerin küçükten büyüğe ya da büyükten küçüğe doğru sıralanmasıyla oluşturulan seri türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bölünme serisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ayrılmış seri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sınıflanmış seri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tasnif edilmiş seri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Basit seri",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Tek bir maddenin fiyatlarında hep bir önceki yılın fiyatına göre zaman içinde meydana gelen oransal değişimler aşağıdakilerden hangisi ile ölçülür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değişik esaslı basit indeks",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Değişik esaslı Paasche indeksi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sabit esaslı bileşik indeks",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sabit esaslı basit indeks",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Değişik esaslı bileşik indeks",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Başlangıç dönemi miktarlarını tartı olarak kullanan bileşik indeks aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fisher indeksi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Laspeyres indeksi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Paasche indeksi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Değişik esaslı indeks",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Reel indeks",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "I. Basit indeksler\nII. Bileşik indeksler\nIII. Değişik esaslı indeksler\nYukarıdakilerden hangisi veya hangileri esas alınan döneme göre indeks türlerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız III",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "e5a16af6d3f75a90534f26918a2ee8a7e60c743701e0394cd5f43f70396aafcd"
+}

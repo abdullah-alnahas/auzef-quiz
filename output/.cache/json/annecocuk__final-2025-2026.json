@@ -1,0 +1,739 @@
+{
+  "course": "Anne Çocuk Beslenmesi",
+  "course_slug": "annecocuk",
+  "exam": "2025-2026 Final Soruları",
+  "exam_slug": "final-2025-2026",
+  "page_title": "Anne Çocuk Beslenmesi 2025-2026 Final Soruları",
+  "source_url": "https://lolonolo.com/2026/07/09/anne-cocuk-beslenmesi-2025-2026-final-sorulari/",
+  "scraped_at": "2026-11-12T11:33:34+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi iyi D vitamini kaynağı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Güneş ışığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hayvansal kaynaklar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yağlı balıklar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yumurta sarısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bitkisel kaynaklar",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Süt ve süt ürünleri tüketimi ile ilgili aşağıdaki önerilerden hangisi yanıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "B2 vitaminince kayıp olmaması için, yoğurt suyu süzülüp atılmamalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yağ sınırlandırması yapılması gereken yetişkinler yarım yağlı ya da az yağlı süt ve süt ürünü tüketmelidirler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İçerdiği mineral ve vitaminler sebebiyle süt, yoğurt, peynir ve türevleri günde en az 6 porsiyon tüketilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Süt ürünleri kalsiyum açısından zengindir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ambalajlı ürün veya ürünler besin etiketi okunarak tüketilmelidir",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Bir kreş menüsünde et yemekleri genellikle nasıl servis edilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Haşlama olarak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Izgara olarak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Köfte şeklinde",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Büyük et parçaları olarak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kızartma olarak",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Etkili bir menü planlaması için hangi adım atlanmamalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Müşteri geri bildirimlerinin dikkate alınması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yemeklerin besin içeriğinin hesaplanması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mevsimsel ürünlerin göz ardı edilmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Menüde her gün aynı besin grubuna ait yiyeceklerin olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnızca popüler yemeklerin seçilmesi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Gebelik öncesi önerilen günlük folik asit takviyesi miktarı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0,8 mg",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0,4 mg",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "0,6 mg",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0,10 mg",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "0,2 mg",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Lif (posa) ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Meyve, sebze, tam tahıllı kahvaltılık gevrekler ve tahıllar posa açısından zengindirler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Vücut tarafından emilemezler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Nişasta olmayan polisakkarittirler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "En önemli pozitif etkilerinden biri konstipasyonu önlemeleridir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Lifler, vücutta doğrudan enerji kaynağı olarak kullanılırlar",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi mikroorganizmaların çoğalmasına neden olmamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "pH 10",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Donmuş besinleri uygunsuz çözdürme koşulları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yetersiz tuzlama ve kürleme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yemek servisinin düşük ısısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yüksek su içeriği",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi içerdiği kalsiyum sebebiyle diş minesinin onarılmasına yardımcı olmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gazoz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Buğday",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Patates kızartması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ayran",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Şekerli besinler",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi taşıyıcı proteinlere örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aktin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hemoglobin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Elastin",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zein",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kazein",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “trigliserid” tanımına uyan bir yapıya sahiptir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gliserol + gliserol + gliserol",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yağ asidi + yağ asidi + yağ asidi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gliserol + gliserol + gliserol + yağ asidi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gliserol + gliserol + yağ asidi + yağ asidi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gliserol + yağ asidi + yağ asidi + yağ asidi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Okul öncesi dönem çocukları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece yetişkinlere değil, bir çocuğun bir yiyeceğe karşı hoşnutsuzluğuna da saygı gösterilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Zaman içinde çok az aktivite ile çok fazla yemek yemek, çocukların fazla kilolu olmalarına neden olabilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çok fazla yağ içeren çok fazla yiyecek yemek, daha sonraki yaşamda sağlık sorunlarına yol açabilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okul öncesi çocuklar her zaman yeni bir yemek denemek istemeyebilirler. Çocuk bir yiyeceği sevmiyorsa, ısrar edilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tatlı, yapışkan yiyecekleri çok sık yemek, özellikle diş fırçalama gibi uygun diş hijyeni yemeyi takip etmezse, diş çürümesine yol açabilir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ince bağırsaktan salgılanan karbonhidrat sindiren enzimlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sukraz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Maltaz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Laktaz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Peptidaz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sakkaraz",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “çay şekeri” olarak adlandırılan bir disakkarittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sakkaroz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Galaktoz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fruktoz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Glikoz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Laktoz",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kontaminasyona neden olmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hijyen ve sanitasyon kurallarına uygunluk",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Besin ile temas halindeki bireylerin enfeksiyon hastalık geçirmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zehirli kimyasal maddeler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kuru depolama uygulamalarında yetersizlikler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnfekte besinlerin tüketilmesi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Gebelik dönemi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gebe kalmadan önce kadınlara kanda vitamin ve mineral durumuna bakılması gerekmez.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gebe kadının tüm trimesterlerde enerji gereksinmesi, gebe olmayan kadının önerilen enerji gereksinmesinden fazladır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gebelik döneminde ortaya çıkması muhtemel olan preeklempsi gebenin beslenmesi ile ilişkili değildir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gebelik döneminde kan değerlerine bakılarak hangi vitamin ve mineral takviyelerinin alınacağına karar verilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "A vitamini yağda çözünen bir vitamin olduğu için gebelerde fazla alınmasının bir sakıncası yoktur.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki yapılardan hangisinde fosfor bulunmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "RNA",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fosfolipid",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "DNA",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "ATP",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Selüloz",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Fenilketonüri hangi enzim eksikliği veya yetersizliği sonucu oluşmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ketoasit dehidrogenaz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fenilalanin hidroksilaz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Peptidaz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Fumarilasetoasetik hidroksilaz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Laktaz",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi A vitamini formlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Retinoik asit",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Retinol",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Araşidonik asit",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Karotenoid",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Retinal",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Besinlerle alınan kolesterol karaciğere hangi yapı içinde gelir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "VLDL kolesterol",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Şilomikron",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hemoglobin",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "LDL kolesterol",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "HDL kolesterol",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi doğrudan kalsiyum eksikliğinde oluşmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Osteomalazi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sinir sistemi rahatsızlıkları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tiroid hormonlarında azalma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kemik hastalıkları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kas sistemi rahatsızlıkları",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "6cc0b6342522edbdc7e5b643f4c9f9cdedbc28eaf355b8c75c2c3b581e588f0e"
+}

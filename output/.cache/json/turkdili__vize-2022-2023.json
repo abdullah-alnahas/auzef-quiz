@@ -1,0 +1,739 @@
+{
+  "course": "Türk Dili 1-2 ( AUZEF )",
+  "course_slug": "turkdili",
+  "exam": "2022-2023 Vize Soruları",
+  "exam_slug": "vize-2022-2023",
+  "page_title": "Türk Dili -1 2022 – 2023 Vize Soruları",
+  "source_url": "https://lolonolo.com/2022/11/24/turk-dili-1-2022-2023-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:33:18+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki atasözlerinden hangisinde mecazlı bir söyleyiş yoktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sütten ağzı yanan, yoğurdu üfleyerek yer.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bugünün işini yarına bırakma.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sakla samanı, gelir zamanı.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dere geçilirken, at değiştirilmez.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Komşunun tavuğu komşuya kaz görünür.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "“İnsan hafızasının yükünü azaltır, düşüncenin işlemesine, olgunlaşmasına ve zenginleşmesine yarar. Sözü düzenler, nlatımı kuvvetlendirir.” Bu parçada sözü edilen dil becerisi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konuşma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yazma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anlatma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dinleme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okuma",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerin hangisi deyimlerin bir özelliği değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genellikle gerçek anlamından ayrı bir anlam belirtirler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bir yargı bildirirler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çekici bir anlatım özelliği taşırlar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kısa ve özlü ifade araçlarıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kalıplaşmış kelime öbekleridir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "“Dil, insanlar ve nesiller arasında en önemli iletişim ve aktarım aracı olarak toplumların varlık sebeplerinden biri lmuştur. Dil ile dünyayı algılar, düşüncelerimizi şekillendiririz. Dil ununla sınırlı kalmayıp aynı zamanda gerçekliği de şekillendirir. Ortaya ıkan gerçeklik toplumsal bir algı oluşturur ve toplumun bütün bireylerine ktarılır. Dolayısıyla dil çalışmalarında toplumun, toplumsal çalışmalarda a dilin göz ardı edilemeyeceği gerçeği ortaya çıkar. Çünkü insan olmadan dilin, dil olmadan da toplumun olması mümkün değildir.” Yukarıdaki metinde aşağıdaki ilişkilerin hangisinden bahsedilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil-Toplum ilişkisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dil-Birey ilişkisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dil-Tarih ilişkisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dil-Ruh bilim ilişkisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dil-Coğrafya ilişkisi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Bu dönem Türkçenin yazı dili açısından zengin olduğu bir dönemdir. Çünkü bu dönemde Karahanlı, Harezm-Kıpçak ve Çağatay Türkçeleri olmak üzere üç yazı dili oluştuğu görülmektedir. Yukarıda bahsedilen dönem aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eski Türkçe",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlk Türkçe",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Osmanlı Türkçesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Orta Türkçe",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eski Anadolu Türkçesi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Yazıyı bulan ve bu yazı sistemiyle bize hayli metin bırakan ilk kültürdür. Bu kültürün diline ait metinlerin incelenmesi sonucu, o dile ait olmadığı bilinen kelimelerden 168 kadarının Türkçe kökenli kelime olduğu, tarihî ses denklikleriyle ortaya konmuştur. Mesela dar- kelimesinin Türkçe yar- “ikiye ayırmak”, dib kelimesinin yip “ip”, gişig’in eşik “kapı”, gud’un ud “öküz, sığır” olduğu anlaşılmıştır. Yukarıdaki metinde bahsedilen kültür aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sümer",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hitit",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çin",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Akad",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sanskrit",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Başlangıçta anneden ve yakın aile çevresinden, daha sonra da ilişkili ulunulan çevrelerden öğrenilen, insanın bilinçaltına inen ve bireylerin oplumla en güçlü bağlarını oluşturan dile ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konuşma dili",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ortak dil",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ana dili",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Resmî dil",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ana dil",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "“Dil ve düşünce arasındaki ilişkileri dilbilimsel bir çerçeveye taşıyarak dil, kültür, kimlik ve toplumu birlikte ele alan …..’e göre her dil erçekliği o dili konuşanlara kendi açısından yansıtmaktadır. Çünkü dil, oplumsal gerçekliğin sembolik bir yansımasıdır. Bu gerçeklik içinde oluşan nlamlar, en çok o gerçekliği yaşayanlar için anlamlıdır.” Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi etirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ergin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hegel",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Saussure",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Chomsky",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sapir",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Öğretmen: Arkadaşlar, dil nedir? Elif: Dil, insanlar arasında anlaşmayı sağlayan bir araçtır. Öğretmen: Aferin Elif, çok güzel bir tanım yaptın. Bu diyaloga göre ğretmen hangi geribildirim türünü kullanmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yüksek kontrol",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Düşük kontrol",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gecikmiş",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Negatif",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Pozitif",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "İlk sözlüğümüz olan Dîvânü Lugati’t Türk, Türkçenin hangi dönemine aittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uygur",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kıpçak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karahanlı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Köktürk",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çağatay",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "“Öğrenci kimlik belgemi kaybettim. Yeni bir öğrenci kimlik belgesi alabilmem için gerekli İşlemlerin yapılmasını ereğinize saygılarımla arz ederim.” Bu parçanın türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öz geçmiş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Makale",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dilekçe",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Rapor",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tutanak",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "“Kitap okumayı çok severim. Çünkü bana yeni kapılar açtığını, farklı öğrenmelere kaynaklık etiğini düşünürüm. İyi bir okur olmam, sahip olduğum en güçlü yöndür, diyebilirim.” Bu parçanın türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öz geçmiş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Makale",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mektup",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gezi yazısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Haber metni",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi konuşma dilinin özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yazı dili olmadan da konuşma dili olabilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Konuşma dili, bölgelere ve kişilere göre farklılık gösterebilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir toplumda birden fazla konuşma dili vardır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Konuşma dilinde dilbilgisi kurallarına dikkat etmek bir zorunluluktur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Konuşma dili, katı bir dil değildir, değişebilir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "“Türk dili ile yazılı belgeler yaklaşık ….. yıl öncesine, Göktürk Kağanlığı dönemine uzanır; ancak bundan önce de Türk dilinin uzun bir geçmişi olduğu komşu kültürlerin dillerinde veya belgelerinde korunmuştur.” Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5000",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "900",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "100",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "1500",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "750",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Yeryüzünde konuşulan bir dilin değişik sebeplerle ortadan kalkmasına literatürde ne ad verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil bilimi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dil birliği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dil ölümü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dil dağılımı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dil ilişkisi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dil ödünçlemeleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil bilgisi ödünçlemesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilgi ödünçlemesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Özenti ödünçlemesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Söz varlığı ödünçlemesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kaynak ödünçlemesi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Dil, düşünce ve kültür ile sürekli etkileşim içinde olduğundan düşünce ve kültürde meydana gelen bir değişim dili de etkilemektedir. Bu parçadan hareketle dilin aşağıdaki zelliklerinden hangisi vurgulanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil kültürün hem bir unsuru hem koruyucusu hem de aktarıcısıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dil canlı bir varlıktır, sürekli değişir ve gelişir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dil insanlar arasında anlaşmayı sağlayan tabii bir vasıtadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dil uzun bir sosyal gelişme sürecinde yaratılan kodlar sistemidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sözlü ve yazılı iletişimin oluşmasını sağlar.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Tonyukuk, Kül Tigin, Bilge Kağan Anıtları Türkçenin hangi tarihî dönemine aittr?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yeni Türkçe",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlk Türkçe",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ana Türkçe",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Eski Türkçe",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Orta Türkçe",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Bir dildeki kelimelerin söylenişi her zaman aynı olmamaktadır. Kelimeler kişilere ve bölgelere göre farklı seslendirilmektedir, bu söyleyiş farklılıklarına….. denir. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi etirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ağız",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "lehçe",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "devlet dili",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "argo",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "yazı dili",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Bireyin yaşam boyunca en fazla kullandığı dil becerisi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okuma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Konuşma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anlatma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yazma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dinleme",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "072f263294d6a36747b59b098400fc81a0bd98dd40a098becd718c3b217c5165"
+}

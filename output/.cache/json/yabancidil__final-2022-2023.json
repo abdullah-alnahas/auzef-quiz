@@ -1,0 +1,883 @@
+{
+  "course": "Yabancı Dil 1-2 ( İngilizce )",
+  "course_slug": "yabancidil",
+  "exam": "2022-2023 Final Soruları",
+  "exam_slug": "final-2022-2023",
+  "page_title": "İngilizce -2 2022-2023 Final Soruları",
+  "source_url": "https://lolonolo.com/2023/07/08/ingilizce-2-2022-2023-final-sorulari/",
+  "scraped_at": "2026-11-12T11:33:23+03:00",
+  "answer_source": "markup",
+  "question_count": 24,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "I’m not …..Thomas. He is two years older than me. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "as old as",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "than old",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "the oldest",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "old",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "old than",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "A: ….. Liz ….. at the party? B: Yes. Yukarıdaki diyalogda boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Do / is",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Can / being",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Is / be",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Is / going to be",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Did / is",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "My parents live in Ankara. I visit ….. every weekend. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "they",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "we",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "he",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "them",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "his",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Take your umbrella with you. It ….. . Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "to rain",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "rain",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "raining",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "rained",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "is going to rain",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "A: What is the weather like today? B: It is ….. . Yukarıdaki diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "foggy",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "wind",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "rain",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "sun",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "snow",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "In her kitchen, there are some ….. tools. Each has a special use. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "functional",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "patterns",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "store",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "develop",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "tiles",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "A: When ….. you ….. school? B: A year ago. Yukarıdaki diyalogda boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "do / started",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "did / started",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "are / start",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "did / start",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "can / starting",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "People need to do more to help the poor members of their ….. . Yukarıdaki cümleyi tamamlayan doğru sözcük aşağıdakilerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "friendship",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "members",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "society",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "order",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "race",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "We bought the tickets one month ago. We ….. to Paris tomorrow. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "are flying",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "flew",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "flying",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "to fly",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "has flown",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "….. Marry ….. her homework yet? Yukarıdaki cümlede boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Has / doing",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Did / did",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Has / done",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Have / done",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Does / do",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "A: Your grandmother was ill last week. Did ….. call ….. ? B: Yes, I called her two days ago. Yukarıdaki diyalogda boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "you/you",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "you/her",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I/me",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "your/your",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "he/her",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "We are staying at a hotel on holiday ….. . Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "last month",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "two weeks ago",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "last year",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "yesterday",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "next week",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Do not tell lies. Be ….. . Cümleyi tamamlayan doğru seçenek aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "quickly",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "honest",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "carefully",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "seriously",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "angrily",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "I don’t like this book. It is really ….. . Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "bored",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "depressed",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "boring",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "interested",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "excited",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Julia is …… her sister. Cümleyi tamamlayan doğru seçenek aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "most",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "quieter than",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "the quietest",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "quiet",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "quieter",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "I ….. the guitar before the accident, but now I can’t. Cümleyi tamamlayan doğru seçenek aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "don’t play",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "could play",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "playing",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "can play",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "not play",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Rob is ….. and ….. . Yukarıdaki cümlede boş bırakılan yerlere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "handsome / young",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "curly / long hair",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "beard / moustache",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "short / straight hair",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "dark skin / brown eyes",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "A: Have you ever ….. to Spain? B: Yes, I was there 2 years ago. Yukarıdaki diyalogda boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "go",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "be",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "being",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "to go",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "been",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "A: Excuse me, madam! ….. you ….. me, please? B: Sure. Yukarıdaki diyalogda boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Can / helping",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Will / to help",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Did / help",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Are / help",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Could / help",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Adam is 30, Daniel is 42 and Joe is 55. So Adam is the ….. of all. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "youngest",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "good",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "taller",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "more intelligent",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "oldest",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "Canan was so ….. about her exams that she couldn’t sleep. Yukarıdaki cümleyi tamamlayan en uygun sözcük aşağıdaki seçeneklerden hangisinde yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "nervous",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "selfish",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "social",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "polite",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "dishonest",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "David and Ashley are married. David’s mother is Ashley’s ….. . Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "nephew",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "mother-in-law",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "grandmother",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "cousin",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "sister-in-law",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "A: Elizabeth is in London now. ….. is going to visit ….. tomorrow. B: What a surprise! Yukarıdaki diyalogda boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "She/us",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "She/your",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "He/he",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "She/she",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I/her",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 24,
+      "type": "multiple_choice_text",
+      "stem": "Fairy Chimneys in Cappadocia never fails to ….. visitors. Yukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "touch",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "appreciate",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "impress",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "show off",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "register",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "f65db82a03fedd053c0fd1c4042ed4f429edebd9b71b3aa8af6a8b3e950b9705"
+}

@@ -1,0 +1,739 @@
+{
+  "course": "Erken Çocukluk Döneminde Yabancı Dil Eğitimi",
+  "course_slug": "erken-cocukluk-doneminde-yabanci-dil-egitimi",
+  "exam": "2024-2025 Final Soruları",
+  "exam_slug": "final-2024-2025",
+  "page_title": "Erken Çocukluk Döneminde Yabancı Dil Eğitimi 2024-2025 Final Soruları",
+  "source_url": "https://lolonolo.com/2025/06/02/erken-cocukluk-doneminde-yabanci-dil-egitimi-2024-2025-final-sorulari/",
+  "scraped_at": "2026-11-12T11:34:49+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Görev tabanlı dil öğretiminde amaç aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınıfta aktif olarak dili kullanarak gerçek hayatla bağ kurmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların okuma hızını artırmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sadece kelime dağarcığını arttırmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dil bilgisi kurallarını ezberlemek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğrencilerin sınıfta bireysel çalışmasını sağlamak",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Tüm Fiziksel Tepki (TPR) yönteminin temel dayanağı olan hipotezlerden birine göre dil öğrenimi aşağıdakilerden hangisini içermemelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anlam",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Stres",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dilbilgisi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dinleme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kelime öbeği",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Dil deneyimi yaklaşımı (LEA) hangi prensibi vurgulamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karmaşık dil bilgisi yapılarının öğretilmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yazma becerilerine odaklanılması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Okuma-anlama becerilerine odaklanılması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişisel deneyimlerin ve sözlü dilin kullanılması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Fiziksel okuma becerilerinin geliştirilmesi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Tüm fiziksel tepki yöntemi (TPR) temel olarak hangi dil becerisine odaklanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konuşma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yazma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dinleme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dil bilgisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okuma",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Tema temelli dil eğitimi hangi tür öğrenmeye dayanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil odaklı öğrenme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bireysel öğrenme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğrenci merkezli ve iş birlikli öğrenme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğretmen merkezli öğrenme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Grupla öğrenme",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi erken yaşta yabancı dil öğretiminde dinleme becerisini ölçmek için kullanılabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kelimeleri deftere yazmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sessizce resim çizmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hikâyeden sonra sorular sormak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kompozisyon yazmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okuma parçası yazmak",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Yabancı dilde konuşma becerilerini geliştirmek isteyen çocuklar için aşağıdakilerden hangisi diğerlerine göre daha faydalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil bilgisi kurallarını ezberlemek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Konuşma sırasında sık sık hata düzeltmesi yapmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sadece öğretmeni dinlemek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İkili veya grup olarak diyalog çalışmaları yapmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Uzun konuşma metinleri ezberlemek",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi görev odaklı dil öğretiminde kullanılan etkinliklerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir pop star için kıyafet tasarlama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dil bilgisi kurallarını öğrenme çalışmaları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "\"Bil bakalım kim?\" oyunu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Maske yapma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Karışık karikatürleri doğru sıralayarak hikâye oluşturma",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Dil sınıfında bir öğretmenin öğrencilere test öncesi verdiği yönergelerin etkinliği ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yönergeler sadece dil becerilerini değil, aynı zamanda öğrencilerin matematiksel düşünme yeteneklerini de test etmeli, bu nedenle karmaşık yapılar kullanılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yönergeler, testin bütün aşamalarını kapsamalı ve öğrencilere neyi, ne zaman ve nasıl yapacaklarımı net bir şekilde açıklamalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yönergeler, çocukların yaşına ve dil seviyelerine uygun olmalıdır, böylece her öğrenci yönergeyi kolaylıkla anlayabilir ve ona göre hareket edebilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yönergeler kısa cümlelerden oluşmalıdır, böylece öğrencilerin anlaması kolaylaşır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yönergeler, öğrencilerin okuma düzeylerine uygun olmalıdır, bu sayede her öğrenci testin ne istediğini tam olarak anlayabilir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "H. Krashen’ın Girdi Hipotezi’ne göre dil ediniminin gerçekleşebilmesi için girdi nasıl olmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrenenin dil seviyesiyle eşit",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğrenenin dil seviyesinden biraz daha zor",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğrenenin dil seviyesinin altında",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğrenenin hiç bilmediği düzeyde zor",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğrenenin ilgi alanıyla ilgili olması yeterlidir",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "İçerik odaklı dil eğitimi (CBLT) yöntemi, hangi tür öğretim yaklaşımı kapsamında değerlendirilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil merkezli",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İçerik merkezli",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğrenci merkezli",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Beceri merkezli",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğretmen merkezli",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi rastlantısal kelime öğreniminin özelliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrenmenin açık talimatlarla gerçekleşmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğrenmenin temel amacının kelime öğretimi olması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğrenmenin yalnızca sınıf ortamında gerçekleşmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğrenmenin planlı olarak gerçekleşmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğrenmenin bilinçsizce gerçekleşmesi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Dil öğretiminde sınıf içi etkileşimin önemiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Etkileşimin dil öğretimindeki rolü son yıllarda önemsizleşmiştir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Teknoloji gelişmeden önce dil öğretiminde etkileşim yoktu.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dil sınıflarında etkileşim yalnızca öğretmen merkezlidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Başarılı dil öğretimi için sınıf içi etkileşim şarttır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Etkileşim sadece öğrenciler arasında gerçekleşir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçme aracının adil olmasıyla ilgili bir faktör değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sertifikalarla ödüllendirmesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Müfredat ve pedagojik odak tarafından şekillenmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların motivasyonunu ve öğrenen olarak benlik duygusunu etkilemesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Eğitimin bir diğer basamağına geçişi kontrol etmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun fiziksel görünüşü",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Yabancı dil öğrenen çocuklarda motivasyon düzeylerinin farklı olması neyi etkileyebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınıfta kullanılan kitapların türünü",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların derslere devam oranını",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların uyku düzenini",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların fiziksel gelişimini",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğretmenin sınıf içindeki disiplini sağlamasını",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Yabancı dil öğreniminde öğrenme stili farklılığı neyi ifade etmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların işitsel aktivitelerden hoşlanması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların bireysel çalışabilmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların hepsinin aynı öğrenme hızına sahip olması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların görsel materyallerle öğrenebilmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların öğrenirken farklı yöntemleri tercih etmeleri (görsel, işitsel, dokunsal)",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Erken yaşta yabancı dil öğretiminde hikâye kullanımının temel faydası aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil becerilerini geliştirmesinin yanı sıra çocukların gelişimini desteklemesi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnızca dinleme becerilerini geliştirmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğrencilerin bireysel farklılıklarını ortadan kaldırması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğrencilerin telaffuzunu düzeltmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğretmenin sınıf kontrolünü kolaylaştırması",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Erken çocuklukta yabancı dil öğrenme için kullanılan kelime panolarının amacı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrencilerin resim çizme yeteneklerini geliştirmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğrencilerin yazma becerilerini geliştirmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuklara matematik becerileri kazandırmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Öğrencilerin kelime ilişkilerini görsel olarak görmelerini sağlamak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğrencilerin müzikal yeteneklerini geliştirmek",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki etkinliklerden hangisi görev odaklı dil öğretimine örnek olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile ağaçlarının tamamlanması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dinleme alıştırmaları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yeni kelimelerin ezberlenmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dil bilgisi alıştırmaları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hikâye yazma",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Birinci ve ikinci dil edinimi arasındaki farklar aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Motivasyon, dil öğrenme stratejileri, dil bilgisi kuralları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Okuryazarlığın önemi, sosyal etkileşim, bireysel farklılıklar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal etkileşimin önemi, çevreden dil edinimi, yaş faktörü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dil gelişiminin sosyal-zihinsel gelişimle bağlantısı, çevreden dil edinimi, motivasyon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaş faktörü, zihinde başka bir dilin varlığı, karşılaştırmalı olgunluk",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "3e38efdd391720a7fc640c341ddfe385bb42f1c5adf28b3dbc4145c14b98b90e"
+}

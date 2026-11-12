@@ -1,0 +1,919 @@
+{
+  "course": "İlk Yardım",
+  "course_slug": "ilk-yardim",
+  "exam": "2025-2026 Final Soruları",
+  "exam_slug": "final-2025-2026",
+  "page_title": "İlk Yardım 2025-2026 Final Soruları (Bahar)",
+  "source_url": "https://lolonolo.com/2026/06/19/ilk-yardim-2025-2026-final-sorulari-bahar/",
+  "scraped_at": "2026-11-12T11:34:10+03:00",
+  "answer_source": "markup",
+  "question_count": 25,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Bayılmanın (senkop) en yaygın nedenlerinden biri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beyne giden kan akışının azalması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Aşırı sıvı tüketimi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yüksek tansiyon",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hızlı ve derin nefes alıp verme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Düşük vücut ısısı",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Acil durumlarda Türkiye’de aranması gereken ortak acil çağrı numarası aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "110",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "112",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "155",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "156",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "177",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Derinin tüm tabakalarının etkilendiği. özellikle kaslar. sinirler ve damarların zarar gördüğü yanık derecesi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3. Derece yanık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1. Derece yanık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çok boyutlu yanık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2. Derece yanık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kısmi yanık",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dış kanamalarda yapılan ilk yardım uygulamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta ya da yaralı sırtüstü yatırılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kanayan yer üzerine temiz bir bez ile bastırılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yara ya da kanama değerlendirilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hasta ya da yaralıya bir şeyler yedirilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tıbbi yardım istenir (112).",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilk yardım yapan kişinin öncelikli olarak yapması gerekenlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hasta ya da yaralının tansiyonu ölçülür.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hasta ya da yaralının korku ve endişeleri giderilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hasta ya da yaralının durumunun ağırlaşmasını önlemek için gerekli müdahalelerde bulunulur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hasta ya da yaralıya müdahalede yardımcı olacak kişiler organize edilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hasta ya da yaralının durumu değerlendirilir (ilk yardımın ABC'si).",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Yetişkinlerde temel yaşam desteğinde kalp masajı ile suni solunum oranı (tek ya da iki ilk yardımcı) aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "15 bası - 1 soluk",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "30 bası - 2 soluk",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "5 bası - 1 soluk",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "10 bası - 2 soluk",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "50 bası - 5 soluk",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Kısa süreli. yüzeysel ve geçici bilinç kaybına ….. denirken dışarıdan gelen uyarılara karşı tepkinin azalması ya da yok olması ile ortaya çıkan uzun süreli bilinç kaybına ….. denir.Yukarıdaki boşluklara sırasıyla gelmesi gerekenler aşağıdakilerden hangisinde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "koma - senkop",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "bayılma - koma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "bayılma - senkop",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "senkop - beyin ölümü",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "sinir krizi - senkop",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Sobadan zehirlenen bir kişiye aşağıdakilerden hangisi yapılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ortam ışıklandırılır ve sobaya su dökülür.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilinci kapalı ise hasta sırt üstü yatırılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilinci açıksa yüz üstü yatırılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Solunumu korumak için maske veya ıslak bez kullanılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Cam ve kapılar kapalı tutulur.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "I. Bulantı kusmaII. Denge kaybıIII. Göz çevresinde morlukIV. AğlamasıAraç içi trafik kazası sonucu kafasını cama çarpmış bir yaralıda aşağıdaki belirtilerden hangisinin olması kafa travması olduğunu düşündürür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I. III. IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II. III. IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I. II. III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "II. III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I. II",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hava yolunun tam olarak tıkanmasının belirtilerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişi acı çeker. ellerini boynuna götürür.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kişi nefes alamaz.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kişi konuşamaz.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişinin rengi morarmıştır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kişinin burnu akar.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Temel yaşam desteğinde yetişkin bir kişiye uygulanan kalp masajında göğüs kemiği kaç cm çökecek şekilde bası yapılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1-2 cm",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2-3 cm",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "En az 5 cm",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "8-10 cm",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "10-12 cm",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sıcak çarpmasına maruz kalan hastaya yapılan ilk yardım uygulamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilinci açıksa sıvı verilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Vücut soğutulmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Baş geri. çene yukarı pozisyonu verilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Giysiler çıkarılır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hasta serin ve havadar bir yere alınır.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çıkık durumunda ilk yardım uygulaması olarak doğru bir yaklaşımdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ağızdan su verilerek korkusu azaltılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çıkık yerine oturtulur ve sıkı bandaj yapılır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kişi olduğu yerde hemen yürütülür.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Eklem aynen bulunduğu şekilde tespit edilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çıkık bölgesine sıcak su torbası konularak ağrı azaltılır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Endüstriyel merkezde çalışan ve karbonmonoksit zehirlenmesinden şüphelenilen bir işçide aşağıdaki belirtilerden hangisi görülmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hiperaktif enerjik hareketler",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bulantı-kusma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tansiyon düşüklüğü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Baş dönmesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Göğüs ağrısı. çarpıntı hissi",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Donma vakalarında ilk yardım uygulamaları sırasında aşağıdakilerden hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kuru giysiler giydirilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sıcak içecekler verilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "El ve ayaklar yukarı kaldırılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hasta ılık bir ortama alınır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Donuk bölge ovulur.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kırığın yol açabileceği olumsuz durumlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kırık bölgeden nabız alınmaması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kırık yakınındaki damar. sinir ve kaslarda kasılma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Parçalı kırıklarda kanamaya bağlı şok",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kırık yakınındaki damar. sinir ve kaslarda yaralanma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kırık yakınındaki damar. sinir ve kaslarda sıkışma",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Şok durumundaki bir hastaya uygulanan ve ayakların yaklaşık 30 cm yukarı kaldırıldığı pozisyon aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Koma pozisyonu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Şok pozisyonu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yarı oturur pozisyon",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yüzüstü pozisyon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sabit yan pozisyon",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki vücut bölgelerinin hangisinden nabız alınmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Şah damarı (Âdemelmasının her iki yanında)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bacak damarı (Ayak sırtının merkezinde)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ön-kol damarı (Bileğin iç yüzü. başparmağın üst hizası)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kol damarı (Kolun iç yüzü. dirseğin üstü)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ön-ayak damarı (Ayağın iç yüzü. ayak başparmağın üst hizası)",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Kalp Krizi (Miyokart Enfarktüsü) geçiren bir kişide aşağıdaki belirtilerden hangisi görülmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Omuzlara. boyuna ve çeneye yayılan ağrı vardır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Soğuk terleme. bulantı kusma görülür.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ağrı uzun süreli ve yoğundur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hasta derin nefes alıp verdiğinde ağrı geçer.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ciddi ölüm korkusu (kaygısı) vardır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Bisiklet sürerken araba çarpan Ahmet T.’nin alt bacağındaki kemiği pantolonundan dışarı çıkmış. kemik uçları görünmektedir. Yaralının çok ağrısı vardır.Yukarıda bahsedilen yaralıda oluşan kırık türü hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vertikal kırık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Açık kırık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Büyük kırık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yatay kırık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kapalı kırık",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "Hava yolu yabancı cisimle tıkanan bilinci açık bir yetişkinde uygulanan ve karına bası yaparak cismi çıkarmayı amaçlayan ilk yardım manevrası aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Heimlich manevrası",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Rentek manevrası",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Koma pozisyonu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Şok pozisyonu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Recovery pozisyonu",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Trafik kazalarında oluşan ölüm oranlarına ilişkin aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "% 90'i kafatası ve omurga yaralanmalarından olmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "% 80'i kafatası ve omurga yaralanmalarından olmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "% 50'i kafatası ve omurga yaralanmalarından olmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "% 70'i kafatası ve omurga yaralanmalarından olmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "% 60'i kafatası ve omurga yaralanmalarından olmaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sinir sistemini oluşturan yapılardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beyincik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Omurilik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kafatası",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Beyin",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Omurilik soğanı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 24,
+      "type": "multiple_choice_text",
+      "stem": "İlk yardım uygulamalarının önemine ilişkin aşağıdaki çıkarımlardan hangisi konu ile ilgili bilgilerden doğrudan desteklenmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Acil sağlık ekiplerinin olay yerine ulaşma süresi çoğu zaman hayati sınırın üzerindedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Beynin oksijensiz kalmaya dayanma süresi sınırlıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İlk yardım yalnızca sağlık personeli tarafından yapılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kazalardaki ölümlerin önemli bir bölümü ilk 30 dakika içinde gerçekleşmektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İlk yardım eğitimi toplumun geniş kesimlerine verilmelidir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 25,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sindirim yoluyla meydana gelen zehirlenmelerde ilk yardım uygulamaları içerisinde yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nabzı değerlendirilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Solunumu değerlendirilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilinç kontrolü yapılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilinç kaybı varsa koma pozisyonu verilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yoğurt yedirilir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "8ef376bb34e86a57682f6270138eb2896f33acf4bd29cb3c1eb1e1bcf004a649"
+}

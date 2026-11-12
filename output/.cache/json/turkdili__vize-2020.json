@@ -1,0 +1,1179 @@
+{
+  "course": "Türk Dili 1-2 ( AUZEF )",
+  "course_slug": "turkdili",
+  "exam": "2020 Vize Soruları",
+  "exam_slug": "vize-2020",
+  "page_title": "Türk Dili 2 2020 Vize Sorular",
+  "source_url": "https://lolonolo.com/2020/06/16/turk-dili-2-2020-vize-sorular/",
+  "scraped_at": "2026-11-12T11:33:19+03:00",
+  "answer_source": "inline",
+  "question_count": 33,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Belirli bir konuda bilgi vermenin amaçlandığı metin tipi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kanıtlayıcı Metin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Betimsel Metin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anlatısal Metin",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Açıklayıcı Metin",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yazımsal Metin",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Klasik Türk edebiyatında Arapça ve Farsça yöneliş hangi yüzyılda artar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "16. Yüzyıl",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "14. yüzyıl",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "17. Yüzyıl",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "13. Yüzyıl",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "11. yüzyıl",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Makale ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Seçilen konuda yeterince bilgi edinmek için araştırma yaptığı notlar alınmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bizden önce bu konuda yapılmış çalışmaların görülmüş olması şarttır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Elde edilen bilgiler üzerinde yorumlar yapıp sonuca varmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oldukça sade yapmacıklıktan uzak fakat süslü bir anlatım tarzı kullanılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ana fikrimizi desteklemek için yeteri kadar yardımcı düşünceye ve sağlam belge ve delilere müracaat edilmelidir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Akademik yazmaya başlamadan önce yazmaya hazırlık aşamasında yapılması gerekenlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konu seçimi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Düzeltme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Amaç belirleme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yazı türünü belirleme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hedef kitleyi belirleme",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "I- Yazının ana düşüncesinin önemi vurgulanır\nII- Okuyucu da son bir intiba oluşturur\nIII- Tanıtım cümleleri ile konu ayrıntıları ile anlatılır\nIV- Dil ve düşünce yönünden kendinden önceki bölüme bağlıdır.\nYukarıdakilerden hangisi ya da hangileri sonuç bölümünün özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "III ve IV",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yanlız I",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yanlız III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I VE III",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "“Bu aşamada taslaklar incelenirken ilk olarak kelime, cümle ve anlatıma odaklanmalıdır. İmla ve noktalama sonraki aşamalarda kontrol edilmelidir. Yani yazının mekanik boyutundan ziyade içeriğine önem verilmelidir. ”\nYukarıda verilen bilgi yazma sürecinin aşamalarından hangisi ile doğrudan İlgilidir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaynakça hazırlama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Düzeltme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yazıya hazırlık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kontrol etme ve sunum",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yazıyı oluşturma",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "“Karşılaştığımız bir problemi, birçok yöntemlerle çözebilmek mümkünken neden çaresiz gibi bekliyoruz.” Cümlesindeki anlatım bozukluğunu gidermek için aşağıdakilerden hangisi yapılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "“Yöntemler” sözcüğünde bulunan çoğul eki kullanılmamalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "“birçok” sözcüğünün yeri değiştirilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "“Karşılaştığımız” sözcüğü “karşılaştıkları” şeklinde değiştirilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "“Neden” sözcüğü cümleden çıkarılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "“Problem” sözcüğünden sonra “de” bağlacı getirilmelidir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Klâsik edebiyatımızda kullanılan dil, günümüzdeki dilden en fazla ne bakımdan farklılık gösterir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Şekil bilgisi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kelime (söz) varlığı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kelime grupları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Cümle yapısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yapım ekleri",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi tezin yöntem bölümünden verilmesi gereken alt başlıklarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Problem durumu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Evren-Örneklem çalışma grubu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Verilerin analizi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Verilerin toplanması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Araştırma modeli",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Türk edebiyatında Mesnevi türünde anlatılan konulardan biri değildir ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uzun aşk hikayeleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dini konular",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Destanlar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ahlâki konular",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hükümdara övgü",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi İnsanoğlunun hem kendisini hemde çevresini anlatma ihtiyacını giderir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Resim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Heykel",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Coğrafya",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yazılı anlatım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Müzik",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Yazım aşamalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözden geçirme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Düzenleme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Özetleme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Planlama",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi insanoğlunun hem kendisini hem de çevresini anlatma ihtiyacını\ngiderme yöntemlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Resim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Heykel",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Müzik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yazılı anlatım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Coğrafya",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "“Yazın artınca sıcak\nSararır her bir başak\nBiçerler ekinleri\nŞenlenir harman yeri\nOlup bitince harman\nAyrılır buğday saptan.”\nYukarıdaki dizelerde aşağıdaki şiir türlerinden hangisine özgü nitelikler ağır bulunmaktadır ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Pastoral",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Lirik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Epik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Didaktik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dramatik",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Metin kaynaklı ve zihin kaynaklı okumanın eksik yönlerinin eleştirilmesi ile Rumelhart tarafından ortaya konulan okuma modeli aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yoğun okuma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sessiz okuma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gözden geçirerek okuma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tarayarak okuma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Etkileşimli okuma",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Okuma sürecini başlatan ve böylece okunacak metnin, okuyucunun kullanacağı okuma stratejisinin belirlenmesinde etkili olan etmen aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okuma amaçları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Okumanın işlenmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Okuma stratejileri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Okuma metni",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okuma biçimleri",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "*Bilimsel bir araştırmanın sonucu olan, belli biçimsel ölçülere uygun olarak ve genellikle derece ya da diploma almak için hazırlanan çalışmalara denir.\n*Bir konuyu, bir olayı, bir eseri ele alıp çeşitli özelliklerini ayrıntılarıyla inceleyen ve onunla ilgili birtakım sonuçlara ulaşan; ya da bir görüşü, savı belge ve kanıtlarla destekleyerek savunan yazılara denir.\n*Uzman kişiler tarafından kanıtlarla desteklenerek hazırlanır ve bilimsel kongrelerde sunulur.\nKongredeki dinleyiciler, öğrenci veya konuyla ilgilenen uzman olabilir.\nYukarıda bazı akademik metin türlerinin tanımlarına yer verilmiştir. Tanımlanan terimlerin karşılıkları sırasıyla verilmek istendiğinde aşağıdakilerden hangisi doğru olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Makale, bildiri, tez",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bildiri, makale, tez",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Makale, e-posta, bildiri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tez, bildiri, makale",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tez, makale, bildiri",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Koku, dünyada ortaya çıkan ilk duyudur. Doğadaki yırtıcı hayvanlar, avlaması gereken hayvanları kokularından tanır. Koku sayesinde hangi besine ihtiyacı olduğunu ayırt edebilir. Bu sebeple bir timsah antiloptan oldukça fayda sağlar ve bir koyunun yaptığı gibi sabahtan akşama kadar ot çiğnemez. Aslan, et; köpek balığı ise balık peşindedir. ……………….. hatta hangisine daha çok ihtiyaç duyduğumuz bile genlerimizde bulunur. Ona göre ete, balığa ya da ota yöneliriz. Vücudumuz için iyi olanı arzularımız bilir.\nYukarıdaki parçada boş bırakılan yere, düşüncenin akışına uygun olarak aşağıdakilerden hangisi\ngetirilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Koku duyusunda meydana gelen bozukluklar, insanın besin ihtiyacını etkilemektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bizler de bunun gibi doğanın sunmuş olduğu etçil ve otçul besinleri tüketmenin yararımıza olduğunu biliyoruz.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bu ve buna benzeyen etkileri düşünüldüğünde kokunun insan hayatındaki yerinin tartışılmaz olduğu ortaya çıkmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hayvanların koku alma duyusu, koku bölgeleri büyük olduğu için insanlarınkinden daha güçlüdür.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnsanlar ve hayvanlar kokusunu iyi almadıkları bir maddenin tadını da tam olarak alamaz.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "“Bu yaklaşımıyla Cumalı. Urla’ya olan ilginin artırılmasına ve böylece tanınmasına kendince katkı sağlayabileceğini söylüyor.”\nYukarıdaki anlatım bozukluğunun nedeni aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çatı uyuşmazlığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tamlayan eksikliği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Nesne eksikliği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Özne – Yüklem uyuşmazlığı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gereksiz ek kullanımı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Ders: Türkçe\nKonu: Makale Türünün Özellikleri\nGİRİŞ – GELİŞME – SONUÇ\na- Kararlar ve öneriler yazılır.\nb- Konu, ayrıntıya girilmeden yüzeysel bir şeklide açıklanır.\nc- Konu ile ilgili detaylı bilgiler verilmektedir. Aynı zamanda bu bolümde okuyucuya ulaşılan kanıtlar da sunulmaktadır. Türkçe dersinde makale türünün özelliklerini anlatan öğretmen giriş, gelişme ve sonuç bölümlerine sırasıyla hangi bilgileri yazmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "b-c-a",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "c-b-a",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "c-a-b",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "a-b-c",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "b-a-c",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "……………… Bu anlamda, günlük yaşamın bir parçası sayılabilir. Akademik beklentileri karşılamaya çalışırken, yeni ortama uyum sağlarken veya yeni arkadaşlıklar kurarken stres yaşayabilirsiniz. Yaşadığınız stres her zaman zararlı değildir. Hatta hafif derecedeki stres sizi harekete geçiren, enerji veren ve kendinizi geliştirmenize yol açan bir etken olabilir. Ancak stres düzeyiniz yüksek olduğunda verimliliğiniz düşebilir, yaşamdan aldığınız zevk azalabilir ve çevrenizle olan ilişkilerinizde sorunlar ortaya çıkabilir,\nYukarıdaki parçada boş bırakılan yere düşüncenin akışına uygun olarak aşağıdakilerden hangisi getirilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Stres, kişinin üzerinde hissettiği baskı ve gerginlik durumudur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İnsanlar stres altındayken hiçbir şey yapmak istemezler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Stres ve başarı arasındaki ilişki uzmanlar tarafından kanıtlanmıştır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sağlıklı yaşamak İnsan hayatından stresi uzaklaştırır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Strese verilen tepki insandan insana farklılık göstermektedir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "(I) Her şeyden önce, araştırma yapacak kişinin bilim ahlakına sahip olması gerekir.\n(II) Araştırmacı adayının veya bilimsel eser yazacak kişinin tecessüs derecesinde entelektüel meraka sahip olması beklenir. (III) Bilimsel çalışmalar titiz araştırmaları ve uzun bir süreyi gerektirdiğinden araştırmacı işinde oldukça titiz ve aceleci olmalıdır. (IV) Diğer bir husus da bu tür metinlerin anlatım yönünden kusursuz olması beklendiğinden yazarın dili çok iyi bilmesi ve kullanması gerekmektedir. (V) Akademik yazma yapacak araştırmacının yayın etiği kurallarına hâkim olması da oldukça önemlidir.\nAkademik yazarlık özelliklerinin anlatıldığı paragrafın cümleleri numaralandırılmıştır. Numaralı\ncümlelerden hangisinde bilgi yanlışlığı yapılmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "V",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "IV",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "Başak, “Akademik yazma ile ilgili kısaca bilgi veriniz.” adlı Türk Dili dersi final sınavı sorusunu aşağıdaki gibi cevaplandırmış, fakat sorudan eksik puan almıştır:\n(I) Akademik yazma, kişisel yazılarda olmayan birçok şey içerir (II) Akademik yazılar yazarların yayımlanmış eserlerinden alıntılar yapmaya dayalıdır. (III) Akademik yazılar bilgi vermek amacı taşıdığı için gramer ve noktalamaya dikkat edilmesi önemli değildir. (IV) Geleneksel olarak akademik konular, somut bir kalıba koyamayacağımız fikirler ve konseptler gibi soyut konular üzerine odaklıdır. (V) Akademik yazma, kendi kural ve uygulamaları olan özel bir yazı türüdür.\nBaşak’ın bu sorudan eksik puan almasının sebebi hangi cümlede yaptığı hatadan kaynaklanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "V",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "IV",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "II",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "(I) Oğuz Atay, son yıllarda üzerinde en çok durulan yazarlardan biridir. (II) Bunun sebebi de çağdaş batının roman aracılığıyla söz konusu ettiği noktalara temas etmiş olmasıdır. (III) Onun romanları, Türk romanına çağdaş bir görünüm kazandıran özelliklere sahiptir. (IV) Bunların başında da birey merkezli, onun iç dünyasını, karmaşık bilinç yapısını esas alması gelmektedir. (V) Dolayısıyla Oğuz Atay’ın romanını anlamak için öncelikle kahramanlarının dünyasını bilmek gerekmektedir.\nYukarıdaki parçada numaralanmış cümlelerden hangisi anlam bütünlüğünü bozmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "V",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "Husreva kullarunun eyle reva hacetini Ki ebed oldı müyesser kamu dil-hah sana. Yukarıdaki beyitte geçen “hacet” kelimesinin anlamım aşağıdakilerden hangisinde doğru verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hayal",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Giysi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yiyecek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İhtiyaç",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İstek",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "Düzenli spor yapmanın pek çok farklı kanser türünü engelleyebileceği ne biliyor musunuz? spor yapmak özellikle kalın bağırsak ve rahim kanseri riskini azaltıcı etkiye sahiptir düzenli spor aynı zamanda yemek borusu kanseri ile karaciğer mide böbrek mesane kanseri ve lösemi riskini de azaltmaktadır yapılan son çalışmaya göre spor yapmak kansere yakalanma riskini %20 azaltmaktadır yapılan araştırmaların ortaya koyduğu bir başka çarpıcı gerçekte sigara içen ve aşırı kilolu olan kişilerin düzenli spor yaptıklarında kansere yakalanma riskinin azaltılmasıdır Bu nedenle kanser olma riskini taşıyan kişilere düzenli olarak spor yapmaları önerilmektedir.\nBu parçanın anlatımında aşağıdakilerden hangisine yer verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Soru sorma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sayısal verilerden yararlanma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tanımlama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Benzetme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tanık gösterme",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "Yeni iletişim teknolojileri sayesinde özellikle internet tabanlı çeşitlenmeler ile kitle iletişim dünyası, oldukça değişmekte ise de toplumun çokça ilgi göstermeye devam ettiği kitle iletişim araçları gazete ve televizyondur. Bunu doğrulayan önemli göstergelerden birisi kitle iletişim araçlarının reklam pazarından elde ettikleri paydır. Türkiye’de yaklaşık üç milyar dolar civarındaki reklam pastasından televizyonun aldığı pay %57 oranını aşarken gazetelerin payının %24. internet mecrasının %8 olduğu belirtilmektedir. Üstelik bu durum yalnızca Türkiye’ye özgü de değildir. Gelişmiş ülkelerde gazete ve televizyonların okunma ve izlenme oranları düzenli düşüş eğilimi göstermemekle birlikte küresel ölçekte toplam reklam gelirlerinden televizyonun aldığı pay %40 civarındadır. Televizyonu %20 ile internet. %17 ile gazeteler izlemektedir.\nYukarıdaki parçada düşünceyi geliştirme yollarından hangileri kullanılmıştır ?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Örnekleme – Sayısal verilerden yararlanma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Açıklama – Karşılaştırma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karşılaştırma – Sayısal verilerden yararlanma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sayısal verilerden yararlanma- Benzetme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tanık gösterme – Sayısal verilerden yararlanma",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "I- Gazetecidir, hep gazeteci olarak yaşamış, bu yüzden sürgünler görmüştür.\nII- Refik Halit gazeteci, hikâyeci, romancı, mizah yazarı, politikacıdır.\nIII- Hikâyecidir, ilk hikâyelerinden itibaren dikkatleri çekmiş ve hikâyeciliğimizin Anadolu’ya açılmasında öncülük etmiştir.\nIV- Romancıdır, önce İstanbul hayatını romanlaştırmakla işe başlamış sonra aşk ve macera ağırlıklı çok sayıda roman kaleme almıştır.\nV- Birinci sürgününden hikâyeleri sayesinde kurtulmuş, sonra romana yönelmiştir.\nYukarıdaki numaralanmış cümleler anlamlı bir bütün oluşturacak bir biçimde sıralandığında aşağıdakilerden hangisi sonuncu olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "V",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "Çocuklar fiziksel yönden olduğu gibi psikolojik ve zihinsel bakımdan da yetişkinlerden farklıdır. Onların kendilerine mahsus bir dünyaları vardır. Olaylara bakışları, olayları değerlendirişleri, hayalleri kendilerine mahsustur. ……….. Bu ihtiyaca bağlı olarak dünyanın neresinde olursa olsun, çocuğun olduğu her yerde oyun vardır. Oyun, adeta çocuğun hayatının gayesidir.\nYukarıdaki parçada boş bırakılan yere düşüncenin akışına uygun olarak aşağıdakilerden hangisi getirilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu bağlamda çocukların en temel ihtiyaçlarından biri oyundur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bu sebeple çocuk için oyun demek, bir eğlence ve öğrenme kaynağı demektir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa oyun için uygun ortamın ve yeterli malzemenin sağlanması gerekir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oyun çocuğun yaşantısında beslenme ve nefes alıp vermek kadar önemlidir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Oyun insan hayatındaki çeşitli dönemler gibi çocuk veya çocukluk da bir dönemdir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki cümlelerden hangisinde sözcüğün gereksiz kullanımından kaynaklanan bir anlatım bozukluğu vardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yazın sıcak günlerinde Büyükada’nın zirvesindeki kiliseye ulaşmak yaşlılar için bir işkenceye dönüşür.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sokaktaki çocukların neşeli sesleri bütün gün hiç eksilmeden devam ediyordu.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir masal meyvesi gibi paylaştık gece mehtabı, bütün dostlarla.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnsan hayatı boyunca gerçeğin, haklının ve mazlumun yanında olmaktan vazgeçmemelidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İki kardeşten en büyüğü her zaman kendisinin haklı olduğunu iddia ederdi.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 31,
+      "type": "legacy_text",
+      "stem": "Okumanın fiziksel yönüne vurgu yapan okuma biçemleri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sesli okuma – sessiz okuma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Metin kaynaklı okuma – zihin kaynaklı okuma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gözden geçirerek okuma – tarayarak okuma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yoğun okuma – yaygın okuma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aşağıdan yukarı okuma – yukarıdan aşağıya okuma",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 32,
+      "type": "legacy_text",
+      "stem": "I-Ömer Seyfettin Türk edebiyatı tarihinde her şeyden önce hikayeleri ile öne çıkmış bir yazardır.\nII-Bununla beraber o hikayelerinin yanında makale, deneme, eleştiri, fıkra, anı ve tiyatro türlerinde de eserler vermiştir.\nIII-Bir kitabı dolduracak kadar şiirleri de vardır.\nIV-Bu demektir ki Ömer Seyfettin hem bir edebiyatçı hem de bir edebiyat ve sanat kuramcısıdır.\nV-Hikaye, Tiyatro ve şiirleri ile edebiyat eserleri yazarken aynı zamanda deneme ve eleştirileri ile edebiyat ve sanat kuramına dair görüşler de ortaya koymuştur.\nYukarıda numaralanmış cümlelerin anlamlı bir bütün oluşturması için hangi cümleler yer değiştirmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "IV ve V",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II ve IV",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "II ve III",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 33,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi başarılı bir yazılı anlatım yapabilmek için önemli değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözlem yapmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ana dilini iyi kullanabilmek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Düşünmek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Güzel el yazısı yazabilmek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okumak",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "omitted_questions": [
+    {
+      "n": 9,
+      "reason": "option_letters",
+      "stem": "“……. daha genel bir dinleyici kitlesine,…… ise konusunda uzmanlaşmış kişilerden oluşan topluluğa yani daha özel bir dinleyici kitlesine hitap eder. …….. sunan kişi, konunun uzmanıdır ve ileri sürdüğü görüşü kanıtlamak ister. ……. genel bir\nkonu savunulur.”\nYukarıdaki cümlelerde boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir ?A) Konferans- bildiri- konferans- bildiride"
+    }
+  ],
+  "content_hash": "bdf720d503224d3da907f5c5c4d20319d13c4585304874ecac13af1570ec66a7"
+}

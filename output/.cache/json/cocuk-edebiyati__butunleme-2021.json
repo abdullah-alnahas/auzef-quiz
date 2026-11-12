@@ -1,0 +1,1277 @@
+{
+  "course": "Çocuk Edebiyatı",
+  "course_slug": "cocuk-edebiyati",
+  "exam": "2021 Bütünleme Soruları",
+  "exam_slug": "butunleme-2021",
+  "page_title": "Çocuk Edebiyatı 2021 Bütünleme",
+  "source_url": "https://lolonolo.com/2021/11/26/cocuk-edebiyati-2021-butunleme/",
+  "scraped_at": "2026-11-12T11:33:54+03:00",
+  "answer_source": "inline",
+  "question_count": 36,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Batı’da çocuğu hedef kitlesi alan metinlerin yazılma ve yayımlanma süreci hangi dönemde gerçekleşmeye başlamıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "17. yüzyıl sonu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "19. yüzyıl sonu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "15. yüzyıl sonu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "18. yüzyıl sonu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "16. yüzyıl sonu",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi Hansel ve Gretel masalının özeliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hansel ve Gretel’in annesi gerçekçidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Anne oğul arasındaki ilişkiyi ve beklentileri ortaya koyar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Masalda herkesin karnını doyuramadığı bir aileden söz edilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hansel bu masalda kurtarıcı rolü üstlenir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gretel bu masalda kurtarıcı rolü üstlenir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi “efsanevi olayların anlatıları” olarak tanımlanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Destan",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öykü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mitoloji",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Roman",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Masal",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Kentleşmeyle birlikte aşağıdaki gelişmelerden hangisi gerçekleşmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tarım toplumundan sanayi topluma geçiş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Rol modellere bağlı olarak çekirdek ailenin oluşumu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Büyük aile yapısı ortadan kalkışı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kentleşmenin kendine özgü insan talebi oluşumu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "2. Dünya Savaşı sonrasında hem dünya savaşını eleştiren hem de savaşa neden olan insanın iç çöküşünü sorgulayan eser aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Küçük Prens",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tom Sawyer",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Pippi Uzunçorap",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pıtırcık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Küçük Kadınlar",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi sözlü edebiyatının temelini oluşturmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Roman",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hiçbiri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Masal",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hikaye",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Söyleşi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Çocuklar fotoğraflarda hangi dönemde yer almaya başlamıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "15. yüzyıl",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "17. yüzyıl",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "18. Yüzyıl",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "19. Yüzyıl",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "16. yüzyıl",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi yayıncının/yayınevinin sorumluluklarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yayıncı, kitapların niteliğinden sorumludur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yayınevi çocuğa karşı sorumlu olan paradigmaya sahip olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bir yayınevinin yayın paradigması olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğu tüketim nesnesi olarak görmemelidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tüm yargılar doğrudur.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Bir edebiyat metninin fantastik olabilmesi için gerekli olan özellik aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hepsi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gerçeküstü bir düzlemde olmalı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İçinde masal öğesi bulunmamalı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hayali (kurgu) olmamalı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gerçekte olanları aktarmalı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Yunan mitolojisinde yer alan “Artemis” ne anlama gelmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Güzellik Tanrıçası",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Savaş Tanrısı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ay Tanrıçası",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tanrıların Habercisi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Güneş Tanrısı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Edebiyat metinlerinin çocuğa katkısı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun çevresiyle iletişiminin artmasını sağlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğu düşlemeye yönlendirir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğu düşünmeye yönlendirir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğu dilselleştirir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Masalla ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İyi olanın zafere ulaştığını gösterir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Toprağa bağlı yaşayan insan yaşamını konu alır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnsan korkularını, kaygılarını, umutlarını, umutsuzluklarını, yaşadıklarını, buna bağlı hesaplaşmalarını işler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İyi ve kötü arasındaki kavgayı gösterir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk hedef kitle alarak yazılmıştır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Amerikan resimli çocuk kitaplarında baskın konumda olan ulusal renk sarıdır. Ders kitabında yer alan bilgiye göre Türkiye’deki yerli çocuk kitaplarında baskın renk aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sarı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yeşil",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mavi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kırmızı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Turuncu",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Çocuk edebiyatında sevgi motifini ele alan yapıt aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Pinokyo",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Benjamin Anna’yı Seviyor",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Emil ve Dedektier",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hiçbiri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Pippi Uzunçorap",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi önemli fantastik türü ürünlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Küçük Vampir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Pippi Uzunçorap",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çarli’nin Çikolata Fabrikası",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Robinson Cruseau",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kim Takar Salatalık Kralını",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Çocuk edebiyatı ile ilk yayınların yapıldığı ve bu yayınları basan matbaaların bulunduğu yer neresidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Selanik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İstanbul",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ankara",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Arnavutluk",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İzmir",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "Kitabın resmedilmesiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görseller kendi içinde metni temsil etmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk kitabı resimlemesi görsel şölendir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Görsel kendi başına öyküdür.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Metinle eş değerde bir görseller bütünü hazırlanmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hiçbiri",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Pamuk Prenses masalıyla ilgili aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tüm yargılar doğrudur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Pamuk Prenses, cücelerle yaşarken imgesel anlamda hayatın içinde olmuştur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anne kızını tarakla öldürmek isterken onun güzelliğini hedef almıştır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pamuk Prenses üç kez ölür ve dirilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anne kızını önce onu kemerle öldürmeye kalkar",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "Dönemi açısından sosyolojik gerçekliğe tanıklık ederek çocuğun ilk kez bir romanda özneleşmesine imkân sağlayan yapıt aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Köprü Altı Çocukları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Alis Harikalar Ülkesinde",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Pippi Uzunçorap",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Emil ve Dedektifler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Benjamin Anna’yı Seviyor",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Ülkemizde, çocuk edebiyatında yayıncılık ilk olarak ne zaman başlamıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "20. yüzyılın ikinci yarısı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "19. yüzyılın ikinci yarısı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "17. yüzyılın ikinci yarısı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "16. yüzyılın ikinci yarısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "18. yüzyılın ikinci yarısı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi derleme bir masaldır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uyuyan Güzel",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Elma Masalı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hepsi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hansel ve Gretel",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Pamuk Prenses",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi dinsel ahlak anlayışıyla birlikte Aydınlanma döneminin ahlak anlayışı ile derlenen masallarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Binbir Gece Masalları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Grimm Masalları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İran Masalları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hiçbiri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Doğu Masalları",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi modern romanın özelliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dışa kapalılıktan ve anlatım sürekliliğinden vazgeçmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ele alınan konunun anlaşılamaması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hiçbiri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Romanın sonu belirsiz olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Romana ani bir girişle başlanması",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "Keloğlan ile ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Baba yoktur, böylece Keloğlan’ın üstünde bir otorite de yoktur",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Keloğlan tembeldir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Anne çalışır ve oğluna bakar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Keloğlan, annesinin tanımlamasıyla aylak ve beleşçidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tüm yargılar doğrudur.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "Masallarda kadına biçilen rol aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kadın, edilgen konumdadır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kadın, sabırla mutlu olacağı günü bekler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kadın, sıkıntıları ailesiyle paylaşma hakkına sahip değildir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kadına, kurtarıcısını bekleme rolü verilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki eserlerin hangisinde çocuğa on dört yaşına kadar özgürlük ve hata yapma hakkı tanınmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Küçük Lord",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Pollyanna",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Küçük Prenses",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pinokyo",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Pamuk Prenses",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "Çocuk kitapla temas ederken aşağıdaki tutumlardan hangisine sahiptir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eleştirme özgürlüğü",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Reddetme özgürlüğü",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Okuma özgürlüğü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Seçme özgürlüğü",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "Çocuk edebiyatı tarihine ilk psikolojik roman örneği olarak geçen ve Peter Haertling tarafından kaleme alınan roman aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Köprü Altı Çocukları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Benjamin Anna’yı Seviyor",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çarli’nin Çikolata Fabrikası",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Küçük Vampir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hiçbiri",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki yargılardan hangisi Emil ve Dedektifler romanı için doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2. Dünya Savaşı sonrası çocukların karşılaştığı sorunlar ele alınır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kız ve erkek çocuk eşitlikçi yaklaşımının öncüsüdür.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sokak çetelerinin (grupların) oluşma nedenlerini açıklar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Erkek çocukların üstün geldiği ve kız çocukların aşağılandığı bir kurgu içerir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dönemsel olarak çocuğun ilk kez bir romanda özneleşmesine imkân sağlar",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 30,
+      "type": "legacy_text",
+      "stem": "Masallarda “orman” aşağıdakilerden hangisini simgeler?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölüm",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Korku",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hayat",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Huzur",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Doğum",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 31,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi anti masallarla ilgili yanlış bir yargıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Masalın tüm donanımları, anlatım biçimi, biçemi, kurgusu dili karşı masalda da vardır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geleneksel masalı tümüyle korur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bu masal kaynağını geleneksel masaldan alır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Anti masalda olmayan ise masalın temsil ettiği feodal anlayıştır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geleneksel masalın temsil ettiği sistematiğin tam zıddı olan bir masaldır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 32,
+      "type": "legacy_text",
+      "stem": "19. yüzyılda sömürgecilik anlayışı, modernleşme, ulus devlet oluşumları aşağıdaki hangi tür altında edebiyata yansımıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnsan ilişkileri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Korku",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dinsellik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Felsefe",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 33,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi editörle ilgili doğru bir bilgidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bir metni kamusal alana çıkmadan denetleyen, inceleyen, sorgulayan, hedef kitlesine göre değerlendiren kişidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Düzeltmeyi üstlense bile bu onun öncelikli görevi değildir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Editör bir metni düzeltmez.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Metin üzerinde yazarı yönlendirir ve metnin eksiklerinin tamamlanmasını ister",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tüm yargılar doğrudur.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 34,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi kitabın basıma verilmeden önce yapılması gereken önemli aşamalardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Denetlenmeye gerek duyulmamalı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hiçbiri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Metinler sorgulanmamalı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Editör denetiminden geçmeli",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yazılanlar mutlak olarak kabul edilmeli",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 35,
+      "type": "legacy_text",
+      "stem": "İllüstratör kavramı aşağıdakilerden hangisine denk gelir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yayıncı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çizer",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eleştirmen",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yazar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Editör",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 36,
+      "type": "legacy_text",
+      "stem": "Anlatıcı ya da okuma eylemini gerçekleştiren kişi aşağıdakilerden hangisini dikkate almalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okuma ve dinleme konusunda çocukları hazırlamış olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Metnin ortak hedef kitlesine göre olduğundan emin olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hepsi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Metne hâkim olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Konunun çocuğa göre olduğundan emin olmalıdır",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "4bbed9509054f523ba61d92020bd03102397d7091ebdfa81481bed9bf594a841"
+}

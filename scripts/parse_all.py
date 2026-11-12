@@ -188,6 +188,16 @@ def is_other_programme(page_title: str, course_slug: str) -> bool:
     return bool(re.search(r"\bTDS\b", page_title)) and "tds" not in course_slug
 
 
+def is_mock_page(page_title: str) -> bool:
+    """A "Deneme" / "Online Test" page is a mock, never a past exam sitting."""
+    return bool(re.search(r"\bdeneme\b|online\s+test", page_title, re.I))
+
+
+def is_unit_page(page_title: str) -> bool:
+    """A unit-by-unit set is out of scope, even if cross-listed as an exam."""
+    return bool(re.search(r"\bünite\b", page_title, re.I))
+
+
 def is_compilation_title(title: str) -> bool:
     """A term-less "Vize Ve Final Soruları" page is a unit study compilation."""
     return bool(re.search(r"vize\s+ve\s+final", title, re.I)) \
@@ -199,8 +209,9 @@ def is_compilation_body(questions: list) -> bool:
     for q in questions:
         for line in q["stem"].split("\n"):
             text = line.strip()
-            if re.match(r"^(?:Cevap|CEVAP)\s*:", text):
-                return True
+            # True/false items and dash separators are the reliable signals of
+            # a unit question bank. "Cevap :" alone is not: some legacy pages
+            # embed it in a normal stem when their options use lowercase a-e.
             if text in ("Doğru", "Yanlış"):
                 return True
             if re.fullmatch(r"-{5,}", text):
@@ -252,6 +263,18 @@ def main() -> None:
         # "Anatomi (TDS)" for Tıbbi Dokümantasyon). The corpus is the child
         # development programme, so a page that names another programme in its
         # own title is out of scope rather than a defective exam.
+        if is_mock_page(d["page_title"]):
+            e.update({"status": "skipped_quality", "quality_reason": "mock_page",
+                      "page_title": d["page_title"],
+                      "question_count": d["question_count"]})
+            out.append(e)
+            continue
+        if is_unit_page(d["page_title"]):
+            e.update({"status": "skipped_quality", "quality_reason": "unit_page",
+                      "page_title": d["page_title"],
+                      "question_count": d["question_count"]})
+            out.append(e)
+            continue
         if is_other_programme(d["page_title"], e["course_slug"]):
             e.update({"status": "skipped_quality",
                       "quality_reason": "other_programme",
@@ -264,6 +287,14 @@ def main() -> None:
         # A "Vize Ve Final Soruları" page with no term is a unit-by-unit study
         # compilation, not a sitting of an exam. It spans many units with its
         # own numbering, so it is out of scope rather than a defective exam.
+        # A term-less page with dozens of questions is a unit question bank,
+        # not one sitting (e.g. "Final Soruları-1" with 91 questions).
+        if d["question_count"] > 60 and tper == "unknown":
+            e.update({"status": "skipped_quality", "quality_reason": "compilation",
+                      "page_title": d["page_title"],
+                      "question_count": d["question_count"]})
+            out.append(e)
+            continue
         if is_compilation_title(title):
             e.update({"status": "skipped_quality", "quality_reason": "compilation",
                       "page_title": d["page_title"],

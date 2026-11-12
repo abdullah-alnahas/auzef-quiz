@@ -1,0 +1,55 @@
+{
+  "course": "Okul Öncesi Eğitim Programları 2",
+  "course_slug": "okul-oncesi-egitim-programlari-2",
+  "exam": "2021 Bütünleme Soruları",
+  "exam_slug": "butunleme-2021",
+  "page_title": "Okul Öncesi Eğitim Programları 2 Bütünleme 2021",
+  "source_url": "https://lolonolo.com/2021/07/04/okul-oncesi-egitim-programlari-2-butunleme-2021/",
+  "scraped_at": "2026-11-12T11:34:44+03:00",
+  "answer_source": "inline",
+  "question_count": 1,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "I. İnce-kalın, hızlı-yavaş, uzun-kısa gibi kavramlara yönelik anlayış geliştirme\nII. Doğru ve akıcı konuşma becerisi geliştirme\nIII. El-göz koordinasyonu geliştirme\nYukarıda verilenlerden hangisi/hangileri müzik etkinliklerinin çocuk gelişimine sağladığı katkılardandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I, II ve III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "I ve II",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "source_numbers": [
+    8
+  ],
+  "content_hash": "8bbc17183ae9d1b96e8467a632d8bc7102b611b9c4d36af28f21e062f939d21d"
+}

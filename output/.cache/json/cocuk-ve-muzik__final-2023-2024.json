@@ -1,0 +1,739 @@
+{
+  "course": "Çocuk ve Müzik",
+  "course_slug": "cocuk-ve-muzik",
+  "exam": "2023-2024 Final Soruları",
+  "exam_slug": "final-2023-2024",
+  "page_title": "Çocuk ve Müzik 2023-2024 Final Soruları",
+  "source_url": "https://lolonolo.com/2024/07/05/cocuk-ve-muzik-2023-2024-final-sorulari/",
+  "scraped_at": "2026-11-12T11:34:38+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi insanın çocukluk evresinden çıktığı üst yaş sınırıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "15",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "18",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 3-5 yaş arası çocukların söyleyebilecekleri şarkıların yaratımındaki ses/nota sınırıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sİ-Bemol-Mİ’",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "DO-LA",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mİ-LA",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "DO-DO’",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "SOL-DO’",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi seslendirme kaydı yapılmış müziğin işitsel iletim araçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "mp3",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaset",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "CD",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Notasyon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Plak",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukların okul dışı müzikalite ifadelerinin oluşmasındaki beş canlı durumdan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaşayan dinleme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yaşayan alan",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaşayan zaman",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaşayan beden",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaşayan müzikalite",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi müziğin çocuklarda ve yetişkinlerdeki etkisi üzerine çok sayıda araştırma ve uygulamanın yapıldığı kavramdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sevinç",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Terapi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hareket",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mutluluk",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Estetik",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukların müzikle ilgili üç yeteneğinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Araştırıcı müziksel yetenek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sınıflandırıcı müziksel yetenek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaratıcı müziksel yetenek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gözlemleyici müziksel yetenek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eleştirici müziksel yetenek",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi müzik eserinin notasyonunda porte üstündeki karşılıklı “tekrarlama” işaretini ifade eder?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Donanım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Vuruş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ölçü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Röpriz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Senyö",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Çek halk dansıyken Avrupa Sanat Müziği formuna dönüşmüştür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tango",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Country",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Polka",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Blues",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Metal",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bir müzik formunun en küçük oluşum parçasıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cümle",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bölüm",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Motif",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Form",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dönem",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki hangisi doğrudan çalgıların incelendiği bilim dalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Müzikoloji",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Psikoloji",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyoloji",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Organoloji",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Antropoloji",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi müziksel deneyimleriyle çocuklarda duygusal, fiziksel ve sosyal alanları kapsayan faydalı bir etkiye sahiptir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bilimsel",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bedensel",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kişisel",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Akılsal",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuklar için bir tür estetik eğitimidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dilsel eğitim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Müzik eğitimi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Temel eğitim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal eğitim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zorunlu eğitim",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukların müziği algıladığı ilk süreçtir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doğum sonrası bebeklik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Anne karnı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Okul öncesi eğitim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Lise dönemi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İlköğretim dönemi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi müziğin zihinsel algısı ve anlamlandırılmasını belirleyen etkenlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mekân",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Atmosfer (Ortam)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zaman",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Psikolojik etkenler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Nesnellik",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Güncel Türkçe Sözlük’teki müzik tanımında aşağıdakilerden hangisi yoktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Belli kurallar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Eserlerin okunması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Seslendirme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Düzenlenmiş sesler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Seslerle anlatma sanatı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ABCD… şeklinde bölümleri olan bir şarkı formudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zincir form",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İki bölümlü form",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Beş bölümlü form",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bir bölümlü form",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Üç bölümlü form",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi müziğin üç ana unsurundan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tempo",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Porte",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zaman İşareti",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Anahtar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ritim",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi müziği seslendirmeye dair terimlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Söyleme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yorumlama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çalma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Performans",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gönderme",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuk müziğini ifade eden terimlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul şarkıları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Okul müziği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk şarkıları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Popüler müzik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eğitim müziği",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “ciddi müzik” teriminin karşılığıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sanat müziği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Halk müziği",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Rock müzik",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Popüler müzik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hafif müzik",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "d91d302e40c3abcbbb72f13b28c31c401a0d390f6794a9300b75036e61bfbc5b"
+}

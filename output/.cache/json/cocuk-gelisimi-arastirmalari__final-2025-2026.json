@@ -1,0 +1,919 @@
+{
+  "course": "Çocuk Gelişimi Araştırmaları",
+  "course_slug": "cocuk-gelisimi-arastirmalari",
+  "exam": "2025-2026 Final Soruları",
+  "exam_slug": "final-2025-2026",
+  "page_title": "Çocuk Gelişimi Araştırmaları 2025-2026 Final Soruları",
+  "source_url": "https://lolonolo.com/2026/06/20/cocuk-gelisimi-arastirmalari-2025-2026-final-sorulari/",
+  "scraped_at": "2026-11-12T11:34:35+03:00",
+  "answer_source": "markup",
+  "question_count": 25,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Bir öğretmen çocuklarına ‘beş taş’ oynamayı öğretiyor ise amacının aşağıdakilerden hangisi olduğu söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların büyük kas becerilerine dönük olarak manipülatif becerilerini geliştirmeye çalışıyordur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların küçük kas becerilerine dönük olarak manipülatif becerilerini geliştirmeye çalışıyordur.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların büyük kaslarını geliştirmeye çalışıyordur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların küçük kas becerilerine dönük olarak lokomotor becerilerini geliştirmeye çalışıyordur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların büyük kas becerilerine dönük olarak lokomotor becerilerini geliştirmeye çalışıyordur.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Bronfenbrenner’in ekolojik sistemler kuramında. çocuğun doğrudan etkileşimde bulunduğu aile. okul ve akran grubu gibi en yakın çevreyi ifade eden sistem aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mikrosistem",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mezosistem",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ekzosistem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Makrosistem",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kronosistem",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi araştırmalarında. aynı bireylerin uzun bir zaman dilimi boyunca tekrar tekrar incelendiği araştırma yöntemi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Boylamsal (longitudinal) yöntem",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kesitsel (enlemesine) yöntem",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Deneysel yöntem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Vaka çalışması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Korelasyonel yöntem",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk edebiyatı türleri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk edebiyatı türlerinde evrensel değerler yerine yalnızca yerel değerler verilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Resimli çocuk kitaplarının dil ve anlatım özellikleri oldukça önemlidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Resimli çocuk kitaplarında bir tema. konu ya da kahraman yer alır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hikâye/öykü türünde gerçek ya da gerçeğe yakın olaylar ele alınır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bir sayfasında resim bir sayfasında yazının yer aldığı. diğer sayfasında ise bir ya da birkaç sözcüğün yer aldığı kitaplar. edebî olmayan kitaplardır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Efferent sinirlerin görevi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bedenden alınan sinyalleri beyne iletmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hareketi durdurmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ağrı ve acı bilgilerini beyne iletmek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Beyinden alınan sinyalleri ilgili kas gruplarına iletmek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hareketin doğru yapılıp yapılmadığını kontrol etmek",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "….. sadece normal gelişim gösteren çocukların değil. farklı sebeplerle özel gereksinimli olarak dünyaya gelen. sonradan özel gereksinimli olan ya da gelişimsel gerilik riski altında olan çocukların onlara sunulan öğrenme fırsatlarıyla önemli gelişimsel kazançlar elde ettikleri bir dönemdir.\nYukarıdaki ifadede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ergenlik ve genç yetişkinlik dönemi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İleri yaş dönemi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yetişkinlik dönemi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Genç yetişkinlik dönemi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okul öncesi dönem",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Vygotsky’nin sosyokültürel kuramında. çocuğun bir yetişkin ya da daha yetkin bir akranın desteğiyle. tek başına yapamayacağı işleri başarabildiği destekleme sürecine ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yapı iskelesi (scaffolding)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Özümseme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Düzenleme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dengeleme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Pekiştirme",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Ülkemizde yapılan özel eğitimle ilgili araştırmalarda aşağıdaki yöntemlerden hangisi daha yoğun kullanılmıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yarı deneysel",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Deneysel",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tek denekli",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nitel",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Nicel",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Oyun için alıştırmalı oyun. sembolik oyun ve kurallı oyun türlerini içeren bir hiyerarşi oluşturmuştur. Ona göre saklambaç oyunu gibi kurallı bir oyun oynayan çocuğun gelişimi emziği ileri geri sallayan oyuna ilgi duyan çocuğun gelişimine göre daha öndedir. Bu sebeple çocukların ilgi duydukları oyun türleri gelişim düzeyleri hakkında bilgi sunabilmektedir.\nYukarıda anlatılan görüşü savunan gelişim kuramcısı kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vygotsky",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Freud",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bruner",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Erikson",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Piaget",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Üstün yetenekli bireyler için mentorlük desteği hangi eğitim kademesinde sunulmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Üniversite",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İlkokul",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Okul öncesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ortaokul",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Lise",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Bilişsel gelişimi bireyin yaşamı boyunca ….. süreçlerinde oluşan değişimler olarak tanımlamak mümkündür.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "zihinsel",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "sosyal gelişim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "özbakım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "duyu motor",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "duygusal gelişim",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi aile katılımı engellerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğretmenin aile katılımı etkinliklerini planlama yetersizliği",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Katılım çalışmalarının sınıf ve sınıf dışı olarak planlanması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ev ve okul arasında yeterli iletişimin kurulmaması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ailelerin çocuk yetiştirme konusundaki yetersizlik algısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ailelerin çalışma koşullarının uygun olmaması",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "2023 yılı verilerine göre dünyada engelli oranı yaklaşık ne kadardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "yüzde 10",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "yüzde 18",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "yüzde 15",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "yüzde 20",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "yüzde 8",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Ülkemizde Çocuk Hakları Sözleşmesi’nin yürürlüğe girdiği yıl aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2003",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1995",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1990",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2002",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1989",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Bebeklik döneminde bilişsel gelişim ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3 aylık olunca bebekler. özellikle duydukları seslerden yola çıkarak insanları birbirinden ayırma yeteneğine sahip olur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Araştırmacılar beyin gelişiminin büyük bir kısmının 0-4 yaş arasında tamamlandığı konusunda hemfikirdirler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Piaget'e göre bebeğin dış dünyayı keşfetmede duyularını ve motor becerilerini kullandığı döneme 'duyu-motor gelişim dönemi' olarak adlandırılır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "8. aydan itibaren nesneleri göremedikleri zaman. o nesnenin var olmaya devam ettiğini anlamaya başlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bebeklik döneminde dil gelişimi sadece ve tek gelişim alanı olarak duygusal gelişimi değerlendirmede kullanılabilir.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Ainsworth’un ‘Yabancı Durum’ deneyiyle tanımladığı. bebeğin bakım verenden ayrıldığında orta düzeyde kaygı yaşadığı ve geri döndüğünde kolayca sakinleşip yeniden oyuna döndüğü bağlanma türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Güvenli bağlanma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaçıngan bağlanma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kaygılı/kararsız bağlanma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dağınık/düzensiz bağlanma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bağımlı bağlanma",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Kohlberg’in ahlaki gelişim kuramına göre. bireyin kuralları ceza almaktan kaçınmak ya da ödül kazanmak için izlediği en alt düzey aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gelenek öncesi düzey",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geleneksel düzey",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gelenek sonrası düzey",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Özerk düzey",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Evrensel düzey",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Bir bireyin üstün yetenekli sayılması için gereken zekâ puanı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "50-70",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "30-50",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "130-135",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "90-110",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "70-90",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki erken müdahale programlarından hangisi Millî Eğitim Bakanlığı Hayat Boyu Öğrenme Genel Müdürlüğü tarafından uygulanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Etkileşim Temelli Erken Çocuklukta Müdahale Programı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Küçük Adımlar Eğitim Programı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Portage Erken Eğitim Programı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aile Eğitim Programı (0-18 Yaş)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gelişimsel Destek Programı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Ergenlik dönemini açıklamaya yardımcı olan kuramlar açısından aşağıdaki eşleştirmelerinden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Erikson - Bilişsel Gelişim Kuramı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Freud - Tekrarlama Kuramı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hall - Yapısalcı Kuram",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bandura - Sosyal Öğrenme Kuramı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Piaget - Sosyal Gelişim Kuramı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "Baba Destek Programı’na yönelik aşağıdakilerden hangisi söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplantılara anneler de katılır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "AÇEV programı 1996 yılında başlatmıştır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Program süresi bir aydır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "0-3 yaş çocukların babalarına yöneliktir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Millî Eğitim Bakanlığı tarafından geliştirilmiştir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Erken çocukluk dönemine yönelik çocuk edebiyatı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cep boy çocuk kitapları bu dönemdeki çocuklar için önerilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Masal türü çocuğa dinleme becerisi kazandırmakta ve dinlediklerini somutlaştırmayı öğretmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Şiir. tekerleme. parmak oyunu gibi türler akılda tutma. hatırlama. ilişki kurma vb. açıdan bilişsel gelişime katkı sağlamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tekerlemeler çocukların nefes kontrolü yapmalarına katkı sağlar.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk kitaplarında. masallarda ve hikâyelerde yer alan olay örgüsü çocukların sebep sonuç ilişkisi kurmalarına katkı sağlar.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "Bütünleştirme ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okulun öğrenciye değil. öğrencinin okula uyum sağlaması beklenir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bütünleştirmede okullar. farklı tür ve düzeylerde özel eğitime gereksinim duyan öğrenciler için gerekli düzenlemeleri yaparlar.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bütünleştirme. sınıf öğretmeni ile iş birliği yapılarak uygun sınıf içi destek hizmetlerinin sağlanarak özel gereksinimli öğrencinin. normal gelişim gösteren akranlarıyla birlikte genel eğitim sınıflarında tam zamanlı eğitim almasıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bütünleştirmede her okul. kaynaştırma okuludur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Öğrencinin okula değil. okulun öğrenciye uyum sağlaması beklenir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 24,
+      "type": "multiple_choice_text",
+      "stem": "İlkokulda dil öğretim sürecinde aşağıdaki becerilerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okuma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Konuşma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yazma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İkna etme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dinleme",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 25,
+      "type": "multiple_choice_text",
+      "stem": "I. Yatılı özel eğitim okulu\nII. Gündüzlü özel eğitim okulu\nIII. Özel eğitim sınıfı\nIV. Yarı zamanlı kaynaştırma\nV. Destek eğitim odası destekli kaynaştırma\nVI. Tam zamanlı kaynaştırma\nEn fazla kısıtlayıcı ortamlardan en az kısıtlayıcı ortamlara doğru bir sıralama yapıldığında aşağıdakilerden hangisi doğru olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "V - IV - III - II - I - VI",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "VI - V - IV - III - II - I",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "I - II - III - IV - V - VI",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "III - II - I - VI - V - IV",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "II - I - III - V - VI - IV",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "e46d2f1dd1302af0914c70f68de7655692c9347db4c711f57affc9e03a3e9526"
+}

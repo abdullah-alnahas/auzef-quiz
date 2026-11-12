@@ -1,0 +1,554 @@
+{
+  "course": "Anne Çocuk Sağlığı",
+  "course_slug": "anne-cocuk-sagligi",
+  "exam": "2021-2022 Vize Soruları",
+  "exam_slug": "vize-2021-2022",
+  "page_title": "Anne Çocuk Sağlığı 2021-2022 Vize Soruları",
+  "source_url": "https://lolonolo.com/2022/10/27/anne-cocuk-sagligi-2021-2022-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:33:51+03:00",
+  "answer_source": "markup",
+  "question_count": 15,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Doğum sonrası dönemde anne de birtakım değişiklikler ortaya çıkmaktadır. Bu süreç için aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rahim doğumdan sonra büyüktür ve karın üzerinde ele gelir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Lohusalık dönemi bitiminde adet kanaması olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duygusal dalgalanmalar ve ağlama görülebilir,",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doğum sonrası kanamanın rengi zamanla değişim göstermektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Doğum sonrası adet kanamasına benzer bir kanama görülür.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Doğumdan itibaren ilk 28 günü tamamlamış bebeklere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "prematüre",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "postmatür",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "immatür",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "sürmatür",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "yenidoğan",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Bir olayın başka bir olaya göre durumunun yansıtır. A/B şeklinde ifade edilir. Pay, paydadan tamamen farklıdır. Yukarıda açıklaması verilen kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oran",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Orantı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hız",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Süre",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zaman",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Sağlıklı çocuk izleminde baş çevresinin ölçümü kaç yaşına kadar yapılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "5",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Bir olayın topluluk (risk altındaki toplum) içindeki görülme sıklığını veya oluşma riskini bulmak için kullanılır. A/A+N şeklindeki ifade edilir. Yukarıda açıklaması verilen kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Orantı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hız",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Süre",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zaman",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Oran",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Topuk kanında aşağıdaki hastalıklardan hangisine bakılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konjenital Hipotiroidi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Talasemi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Fenilketonüri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Biotinidaz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kistik Fibrozis",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Bir olayın bir bütün içindeki durumunu yansıtır. A/ A+B şeklinde ifade edilir. Pay, paydanın içinden çıkmaktadır. Yukarıda verilen kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Süre",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Orantı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Oran",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hız",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Zaman",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kadınların ve kızların kaliteli sağlık hizmetlerinden yararlanmasını ve mümkün olan en iyi sağlık seviyesine ulaşmasını engelleyen sosyo kültürel faktörlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Erkekler ve kadınlar arasındaki eşitlik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kadınların üreme rollerine özel bir odaklanma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ücretli istihdam olanaklarını azaltan sosyal normlar",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Fiziksel, cinsel ve duygusal şiddetin bir potansiyel olması veya yaşanılmış gerçek bir tecrübe olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eğitim olanaklarını azaltan sosyal normlar",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Kadın dış üreme organlarının genel adı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Klitoris",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Labia minör",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Labia majör",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mons pubis",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Vulva",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Yenidoğan bebeğin baş çevresi kaç cm dir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "35",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "38",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "39",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "32",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Doğumda bebeğin değerlendirilmesi önemlidir. Aşağıdakilerden hangisi doğumdan hemen sonra yapılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cildi hassas olduğu için sıcak duyarlılığı değerlendirilmelidir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Solunum dolaşım yeterliliği açısından değerlendirilmelidir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Direncinin artması için vitamin düzeyi değerlendirilmelidir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Enfeksiyon oluşma olasılığı için hijyeni değerlendirilmelidir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Vücudu doğum kanalında bulaşmış kan ve müküsten temizlemek için yıkanmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Ek gıdaya ne zaman başlanabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3 ay",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "5 ay",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "2 ay",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "4 ay",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "6 ay",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Bir toplumun doğurganlık düzeyini belirten, çok duyarlı olmayan ölçüte ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk kadın oranı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kaba doğum hızı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Genel doğurganlık hızı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Genel doğurganlık hızı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yaşa göre doğurganlık hızı",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Kafatasın içerisinde bulunan iki yanlı açıklık bıngıldak en uzun ne zaman kapanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3 ay",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "6 ay",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "2 yıl",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3 yıl",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "4 yıl",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Üreme sistemi, işlevleri ve süreci ile ilgili sadece hastalık ve sakatlığın olmaması değil tüm bunlara ilişkin fiziksel, zihinsel ve sosyal yönden tam bir iyilik halinin olmasına ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kadın sağlığı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ana sağlığı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal sağlık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Üreme sağlığı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnfertilite",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "91a08ade5783a36c9036ca9ba915c579b3098650f06e4af57469acdfc6763dbe"
+}

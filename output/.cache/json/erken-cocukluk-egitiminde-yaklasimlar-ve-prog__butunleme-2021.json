@@ -1,0 +1,332 @@
+{
+  "course": "Erken Çocukluk Eğitiminde Yaklaşımlar Ve Prog.",
+  "course_slug": "erken-cocukluk-egitiminde-yaklasimlar-ve-prog",
+  "exam": "2021 Bütünleme Soruları",
+  "exam_slug": "butunleme-2021",
+  "page_title": "Erken Çocukluk Eğitiminde Yaklaşımlar ve Programlar 2021 Bütünleme",
+  "source_url": "https://lolonolo.com/2021/07/11/erken-cocukluk-egitiminde-yaklasimlar-ve-programlar-2021-butunleme/",
+  "scraped_at": "2026-11-12T11:34:18+03:00",
+  "answer_source": "inline",
+  "question_count": 9,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Orman okulu yaklaşımının uygulandığı okullarda sıradan bir günde aşağıdakilerden hangisinin gerçekleşmesi daha az olasıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ormandaki değişimler hakkında konuşmak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ormanda yürüyüş yapmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ormanda araştırma ve keşif yapmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ormanda sanat çalışmaları yapmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ormanda oyun oynamak",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Orman yaklaşımı uygulayan öğretmenlerle ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Risk ve güvenlik konusunda dengeli bir tutum sergilerler.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmenlerin orman okulu konusunda eğitim almış olmaları gerekir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğretmenler, grup liderliği ve asistanlık gibi farklı pozisyonlarda görev alabilirler.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Doğada olmayı sever ve çocukları da cesaretlendirirler.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların ruhsal ve manevi yönlerini ortaya çıkarmaya odaklanırlar.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi ön yargı karşıtı eğitim programının vizyonundan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitim sürecine programın ve okulun tüm paydaşları dâhil edilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tüm aileler ve çocuklar güvenli, sağlıklı, huzurlu evlerde yaşamayı hak ederler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Her bir çocuk kendi ailesinin kültürel acılarını beraberinde getirmektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tüm aileler ve çocuklar aidiyet hissine sahiptir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tüm aileler çocuklarını yetiştirebilecekleri kaynaklara sahiptir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Proje yaklaşımını uygulayan bir öğretmen, çocukları alan çalışması için bir geziye çıkarmış, ancak, çocukların alan gezisinde projeyle hiç ilgilenmediklerini fark etmiştir. Bu noktada, öğretmenin kendine aşağıdaki sorulardan hangisini sorması beklenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Proje konusunu doğru seçtim mi?",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Proje konusuna temel sağlayacak yeterince deneyim sunmuş muydum?",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Proje ağında çocukların fikirlerine yeterince başvurdum mu?",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Proje konusuyla ilgili uzman olarak kimi çağırabilirim?",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Proje konusuyla ilgili yeterli öğrenme daveti sundum mu?",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Portage erken eğitim programında çocuğu değerlendirme sürecine ilişkin olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aileler Portage erken eğitim programının değerlendirme sürecinin de etkin birer katılımcısıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Portage erken eğitim programında değerlendirme süreklilik arz etmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Portage erken eğitim programında değerlendirme yapılırken Portage gelişim kontrol listesinden yararlanılmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Portage eğitimcileri için çocuğun standart testlerden aldıkları puanlar oldukça önemli olup, öğretim bu puanlara göre düzenlenmektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Portage’da değerlendirme sürecinin merkezinde çocuk yer almaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "“Sınıfımdaki çocuklardan birinin yeni bir kardeşi doğdu ve böylece bizim de ‘bebekler ve büyüme’ projemiz ortaya çıktı” diyen bir öğretmen, proje konusunun belirlenmesiyle ilgili aşağıdakilerden hangisine öncelikle dikkat çekmek istemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Proje konularının çocukların yaşantılarından doğması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Proje konularının çocuklarda merak uyandırması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Proje konularının işlevsel olması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Proje konularının uygulanabilir olup olmaması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Proje konularının öğrenmeye değer olması",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Reggio Emilia yaklaşımının çocuğa bakış açısıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların iletişim yeteneklerine güvenir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların öğrenmeye liderlik edebilecek yetkinliğe sahip olduğuna inanır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun değer görme arzusuna saygılı yaklaşır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların olumlu özelliklerine odaklanır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların zaman içinde eksiklerini tamamladıklarına inanır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Aşağıdakilerden hangisi dokümantasyonun amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğrenilenleri görünür hâle getirmek",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocukların nasıl düşündüklerini açığa çıkarmak",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aileler ve toplumla iletişim kanalı oluşturmak",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların performansını karşılaştırarak geride kalanlara destek olmak",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Projelerin gidişatını takip etmek",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Portage erken eğitim programına yönelik olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Portage erken eğitim programında ebeveynler çocuklarına öğretimde bulunurken gösterdikleri çabalarını ve bu çabalarının sonuçlarını Portage etkinlik kartlarına kaydetmektedir. Düzeltildi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Portage etkinlik kartlarında hedef davranışı öğretirken kullanılacak öğretim yöntemleri, materyaller hakkında bilgiler verilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Portage kontrol listesine göre çocuğun değerlendirmesi yapıldıktan sonra tespit edilen davranışlar çocuğun başlangıç düzeyi olarak kabul edilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Portage erken eğitim programında zaman içerisinde çeşitli değişiklikler yapılmıştır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Portage erken eğitim programı; Portege kullanım kılavuzu, kontrol listesi ve etkinlik kartlarından oluşmaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "59e3bd767da9835a1f197e4b39104f3fda5cc3d9590363fad0ea2665a33e499b"
+}

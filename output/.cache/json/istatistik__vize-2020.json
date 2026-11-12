@@ -1,0 +1,1063 @@
+{
+  "course": "İstatistik",
+  "course_slug": "istatistik",
+  "exam": "2020 Vize Soruları",
+  "exam_slug": "vize-2020",
+  "page_title": "İstatistik 2020 Vize Soruları",
+  "source_url": "https://lolonolo.com/2020/07/08/istatistik-2020-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:33:28+03:00",
+  "answer_source": "inline",
+  "question_count": 29,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Bir istatistik araştırmasını yapabilmek için ihtiyaç duyulan verinin toplama işlemine ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rölöve",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Veri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Vasıf",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Şık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Birim",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Sınıflanmış serilerin grafik gösterimine…….. denir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çubuk grafik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Histogram",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Serpilme diyagramı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Daire dilimleri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bindirmeli grafik",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Anakütleyi karakterize eden, niteleyen değerlere ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İstatistik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tam sayım",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Örnekleme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Parametre",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Rölöve",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 4,
+      "type": "legacy_text",
+      "stem": "Aritmetik ortalamanın hesaplanabilmesi için verinin en az …………….ölçüm düzeyinde toplanmış olması gerekir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nominal",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kategorik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ordinal",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sıralı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aralık",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 5,
+      "type": "legacy_text",
+      "stem": "Gözlem değerlerini küçükten büyüğe doğru sıralayarak yaratılan seriye…………denir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tasnif edilmiş seri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Basit seri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sınıflanmış seri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gruplanmış seri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bileşik seri",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 6,
+      "type": "legacy_text",
+      "stem": "Fiziksel maddi bir varlığa sahip olan birime ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Varlık birim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fiziksel birim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Maddi birim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Somut birim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Soyut birim",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "legacy_text",
+      "stem": "Bir öğrenci bir dönem boyunca girdiği matematik sınavlarından 92, 95 ve 98 puan almıştır. Buna göre aritmetik ortalaması kaçtır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "91",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "92",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "94",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "95",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "96",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 8,
+      "type": "legacy_text",
+      "stem": "Aşağıda verilen niteliklerden hangisi nicel vasıf özelliği taşır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Medeni durum",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Doğum yeri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eğitim durumu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Meslek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Boy uzunluğu",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "legacy_text",
+      "stem": "Verileri düzenlemek amacıyla verinin birbirine yakın şıklarını mümkün olduğunca homojen sınıflarda toplamak\nsuretiyle oluşturulan serilere ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınıflanmış seri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Birleştirilmiş seri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sıralama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Düzenleme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ayırma",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 10,
+      "type": "legacy_text",
+      "stem": "Aşağıda verilen birimlerden hangisi maddi birim olarak nitelendirilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evlenme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Doğum",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Boşanma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bina",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ölüm",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 11,
+      "type": "legacy_text",
+      "stem": "Hangisi analitik duyarlı ortalamalar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ağırlıklı aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mod",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "legacy_text",
+      "stem": "Aşağıdaki ortalamalardan hangisi birimlerin kareleri üzerinden hesaplanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mod",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Medyan",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geometrik ortalama",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "legacy_text",
+      "stem": "Bir istatistik çalışmasında toplanan verileri birbirine yakın homojen gruplara toplamak suretiyle oluşturulan alt ve üst sınırı belli aralıkların her birine ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Frekans",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tasnif",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Birim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sınıf",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sınır",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "legacy_text",
+      "stem": "Zaman vasfının şıklarına göre verilerin düzenlenmesi ile elde edilen serilere ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bölünme serileri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Mekan serileri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Zaman serileri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bileşik seriler",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Panel veriler",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 15,
+      "type": "legacy_text",
+      "stem": "Bir veri kümesini özetlemek, akılda kalıcı tek bir değer olarak ifade etmek ya da veri kümesini temsil etmek amacıyla hesaplanan ve kullanılan istatistik ölçüleri genel olarak …………… olarak adlandırılır.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mod",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Medyan",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Mutlak değer",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Egemen değer",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "legacy_text",
+      "stem": "Bir istatistik çalışmasında toplanan veriler içinde yer alan her bir gözlem değerinin veri içinde kaç kez tekrar ettiğini gösteren değere ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Frekans",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tasnif",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Birim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sınıf",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Grup",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 17,
+      "type": "legacy_text",
+      "stem": "İstatistik araştırmasına konu olan bir birimin, uzun süre zarfında gözlenmesi mümkünse ya da bir birm uzun ömürlü olarak tanımlanıyorsa bu tür birimlere ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Somut birim",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ani birim",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Maddi birim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Devamlı birim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Soyut birim",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 18,
+      "type": "legacy_text",
+      "stem": "Gözlem değerini küçükten büyüğe ( ya da büyükten küçüğe) sıraladığımızda tam ortada yer alan değere ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Medyan (ortanca)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Duyarlı ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kareli ortalama",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "legacy_text",
+      "stem": "İstatistik alanda yapılan bir çalışmanın konusunu oluşturan ve kollektif olay olarak nitelenen olaylara ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vasıf",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Veri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Birim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Şık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnsan",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 20,
+      "type": "legacy_text",
+      "stem": "Sınıflanmış bir dağılımda bir sınıfın alt sınırının toplanarak ikiye bölünmesi ile elde edilen ve o sınıfı temsil ettiği kabul edilen değere ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınıf alt sınırı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sınıf aralığı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sınıf genişliği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sınıf üst sınırı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sınıf orta noktası",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 21,
+      "type": "legacy_text",
+      "stem": "Gruplama işlemi yapılırken dikkat edilmesi gereken husus oluşturulacak sınıfların mümkün olduğunca ………. olmasıdır.\nYukarıdaki boşluğa uygun olanı işaretleyiniz.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Geniş",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Homojen",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sayısal",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Heterojen",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 22,
+      "type": "legacy_text",
+      "stem": "Hem zaman ve hem mekan vasfına göre düzenlenen serilere ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mekân serileri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bölünme serileri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Panel veriler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Zaman serileri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bileşik seriler",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 23,
+      "type": "legacy_text",
+      "stem": "100\nYukarıda verilere göre sınıf orta noktaları sırayla nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "10-20-50-70",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "0-20-50-100",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "10-35-60-85",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "5-25-50-75",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "1-5-10-15",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 24,
+      "type": "legacy_text",
+      "stem": "Gözlem değerleri ( 3, 4, 5, 6, 7, 8, 8, 9, 9, 9, 10 ) olan ve 11 gözlemden oluşan serinin medyanı kaçtır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "7,5",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "8,5",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "8",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 25,
+      "type": "legacy_text",
+      "stem": "Mutlak sıfır noktasına sahip olan ölçüm düzeyi …………..dir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınıflayıcı ölçüm düzeyi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sıralayıcı ölçüm düzeyi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aralık ölçüm düzeyi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oran ölçüm düzeyi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Nominal ölçüm düzeyi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 26,
+      "type": "legacy_text",
+      "stem": "Bir ilde Mart ayı sıcaklıkları -2, 1, -1, 2 şeklinde ölçülmüştür. Bu serinin ortalaması hesaplanmak istendiğinde hangi duyarlı analitik ortalamanın kullanılması uygun olacaktır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ağırlıklı aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Medyan",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 27,
+      "type": "legacy_text",
+      "stem": "Aynı koşullar altında her zaman aynı sonuçları veren olaylara ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Atipik olay",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Tipik olay",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kollektif olay",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gözlem",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Veri",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 28,
+      "type": "legacy_text",
+      "stem": "Araştırmacının bir kurum ya da kuruluş tarafından toplanmış verileri kullanması durumunda ……………… söz konusu olmaktadır.\nYukarıdaki boşluğa uygun olanı işaretleyiniz.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözlem",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İkincil veri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Birincil veri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Veri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Anket",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 29,
+      "type": "legacy_text",
+      "stem": "Değerleri 18, 20, 20, 22, 24, 24, 26 serinin aritmetik ortalaması kaçtır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "21",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "24",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "22",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "source_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    70,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "content_hash": "324d046086a116956941c0270a582d4c9736436864d7094ed6636d9af2c3d2aa"
+}

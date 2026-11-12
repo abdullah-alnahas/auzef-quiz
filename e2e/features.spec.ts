@@ -80,9 +80,12 @@ test("course-level vize set combines all vize exams", async ({ page }) => {
 
   await page.locator(".test-all").getByRole("button", { name: "النصفي", exact: true }).click();
   await expect(page.locator(".test-all")).toContainText(`${expected.exams}`);
+  await expect(page.locator(".combined-list li")).toHaveCount(expected.exams);
   await page.locator(".test-all").getByRole("button", { name: "تدريب", exact: true }).click();
   await expect(page.locator("h1")).toHaveText("النصفي");
   await expect(page.locator(".quiz-meta")).toContainText(`1 من ${expected.questions}`);
+  await expect(page.locator(".combined-source li")).toHaveCount(expected.exams);
+  await expect(page.locator("p.muted.small").first()).toContainText("من");
   await expect(page.locator(".choice").first()).toBeVisible();
   expect(page.url()).toContain("/combined/");
 });

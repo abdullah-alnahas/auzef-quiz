@@ -1,0 +1,919 @@
+{
+  "course": "İstatistik",
+  "course_slug": "istatistik",
+  "exam": "2025-2026 Vize Soruları",
+  "exam_slug": "vize-2025-2026",
+  "page_title": "İstatistik 2025-2026 Vize Soruları (Bahar)",
+  "source_url": "https://lolonolo.com/2026/05/15/istatistik-2025-2026-vize-sorulari-bahar/",
+  "scraped_at": "2026-11-12T11:33:26+03:00",
+  "answer_source": "markup",
+  "question_count": 25,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Bir veri kümesi içinde bulunan aşırı değerlere karşı en duyarlı ortalama aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Medyan",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mod",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Harmonik ortalama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Bir ana kütleyi başka ana kütlelerden ayırt eden özelliklere; diğer bir ifadeyle ana kütleyi karakterize eden, niteleyen değerlere verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Parametre",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İstatistik",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Örneklem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tamsayım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Rölöve",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Bir veri kümesi içindeki gözlem değerleri arasında en çok tekrar eden gözlem değerine ….. denir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "mod (egemen değer)",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "medyan (ortalayan)",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Gruplama işlemi sırasında, sınıfların aşırı ….. tutulması sınıfların homojenliğine zarar vererek veriye ilişkin detayların kaybolmasına yol açar.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aralıklı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geniş",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kısa",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Dar",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Küçük",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ölçüm düzeylerinden hangisi kategoriler arasında eşit aralık varsayımı taşımakla birlikte mutlak sıfır noktasına sahip değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nominal ölçüm düzeyi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ordinal ölçüm düzeyi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aralık ölçüm düzeyi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Oran ölçüm düzeyi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sınıflayıcı ölçüm düzeyi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Mutlak sıfır noktasına sahip olan ve en güçlü ölçüm düzeyi olarak tanımlanan ölçüm düzeyine ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aralık ölçüm düzeyi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sıralayıcı ölçüm düzeyi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Oran ölçüm düzeyi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sınıflayıcı ölçüm düzeyi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Nominal ölçüm düzeyi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Birincil veri ile ikincil veri arasındaki temel fark nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Birincil veri sayısal, ikincil veri kategoriktir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Birincil veri araştırmacı tarafından bizzat toplanırken ikincil veri başka kaynaklardan elde edilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İkincil veri daha güvenilirdir çünkü uzmanlar tarafından toplanmıştır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Birincil veri yalnızca anketle, ikincil veri yalnızca gözlemle toplanır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Aralarında herhangi bir fark yoktur.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Bir öğrenci girdiği beş dersin sınavlarından 57, 62, 65, 73 ve 78 puan almıştır.Öğrencinin söz konusu dersler için not ortalaması aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "65",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "64",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "66",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "67",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "68",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Ortalama hesabında gözlem değerlerinin logaritmalarının kullanıldığı ortalama aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Medyan",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mod",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Bir birimi nitelemeye yönelik vasıfların, birimlerde ortaya çıkış ya da görünüş şekillerine ………… denir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ölçüm düzeyi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "ölçek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "ölçü",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "nitelik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "şık",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda verilen ortalamalardan hangisi duyarlı (analitik) ortalamalar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Harmonik ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Egemen değer (Mod)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kareli ortalama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Bir hastanenin yatan hasta kısmındaki kişilerin bölümlere göre dağılımı aşağıdaki grafikte yer almaktadır.Bu hastaların yüzde 60’ının iç hastalıkları, yüzde 10’unun göz hastalıkları ve yüzde 30’unun cilt hastalıkları bölümünde yattığı görülmektedir.Bu bilginin sunulduğu grafik türü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Serpilme diyagramı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çizgi diyagramı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Histogram",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bindirmeli grafik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çubuk grafiği",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "I. Çubuk grafik\nII. Daire dilimleri grafiği\nIII. Çizgi grafiği\nYukarıdakilerden hangisi veya hangileri nicel veriler için kullanılan bir grafik türüdür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız I",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Bir veri kümesi içinde yer alan gözlem değerlerinin veri içinde kaç kez tekrar ettiğini gösteren değere ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değer",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sayı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ölçüm",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ölçek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Frekans",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Sınıflanmış ya da gruplanmış serilerin grafik sunumuna verilen ad aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Grafik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Serpilme diyagramı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Histogram",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Daire",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çubuk grafik",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Bir seride yer alan gözlem değerleri arasında aşırı değer bulunması durumunda, seriyi daha iyi temsil etmesi bakımından ……. tercih edilmelidir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "duyarlı ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "tartılı aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "kareli ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "geometrik ortalama",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Bir istatistik araştırmayla ilgili olarak gerçekleştirilen veri toplama işlemine ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rölöve (Derleme)",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Vasıf",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Şık",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Birim",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Veri",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Gözlem değerleri (3,4,5,6,7,7,8,8,9,9,10) olan ve 11 gözlemden oluşan serinin medyanı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "8",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Bir veri setinde gözlem değerleri 4, 4, 5, 6, 6, 6, 7, 8 şeklinde verilmiştir.Bu verinin modu aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "8",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "I. Göz rengi\nII. Eğitim Düzeyi\nIII. Cinsiyet\nYukarıda verilen değişkenlerden hangisi veya hangileri sıralama (ordinal) ölçüm düzeyine örnek olarak verilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "I ve III",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız I",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız II",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "Bir istatistik çalışmasında toplanan verilerin birbirine yakın şıklarını mümkün olduğunca homojen sınıflara ayırmak suretiyle yapılan veri düzenleme işlemine ….. denir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ayırma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "düzenleme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "gruplama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "sıralama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "tasnif",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Bir ilde, gün içinde farklı saatlerde saptanan sıcaklık değerleri −2, 1, 1, 2, 2, 3 şeklinde belirlenmiştir.Günlük ortalama sıcaklık analitik (duyarlı) bir ortalama ile hesaplanmak istendiğinde aşağıdaki ortalamalardan hangisi hesaplanamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Mod (Egemen değer)",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Medyan (Ortanca)",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kareli ortalama",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "Araştırmada, bir kurum ya da kuruluş tarafından toplanmış verinin kullanılması durumunda veriye, ….. denmektedir.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İkincil veri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Birincil veri",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Gözlem",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Örnek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Veri",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 24,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ortalamalardan hangisi veri setindeki tüm gözlem değerlerini dikkate almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aritmetik ortalama",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Geometrik ortalama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Harmonik ortalama",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Medyan",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kareli ortalama",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 25,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki veri setlerinden hangisinin medyanı 5’tir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1, 2, 3, 4, 5, 6, 7, 8, 9",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "2, 3, 5, 7, 9",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1, 3, 5, 5, 9",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3, 4, 5, 6, 7",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hepsi",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "9c0e97e033b8ef71c550a71d2611378f01427d9abb55e9ea85be7e992746a602"
+}

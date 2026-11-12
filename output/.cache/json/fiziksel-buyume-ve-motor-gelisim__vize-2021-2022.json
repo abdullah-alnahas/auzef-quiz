@@ -1,0 +1,122 @@
+{
+  "course": "Fiziksel Büyüme ve Motor Gelişim",
+  "course_slug": "fiziksel-buyume-ve-motor-gelisim",
+  "exam": "2021-2022 Vize Soruları",
+  "exam_slug": "vize-2021-2022",
+  "page_title": "Fiziksel Büyüme ve Motor Gelişim 2021-2022 Vize",
+  "source_url": "https://lolonolo.com/2022/11/11/fiziksel-buyume-ve-motor-gelisim-2021-2022-vize/",
+  "scraped_at": "2026-11-12T11:33:46+03:00",
+  "answer_source": "inline",
+  "question_count": 3,
+  "questions": [
+    {
+      "n": 1,
+      "type": "legacy_text",
+      "stem": "Lokomotor hareketler hangi sistemlerin gelişimi ile ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "kas dolaşım iskelet sistemi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "sinir kas ve iskelet sistemi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "solunum beyin kas sistemi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "sinir boşaltım ve vestibüler sistem",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "iskelet sindirim ve solunum",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "legacy_text",
+      "stem": "Hangisi bilgi toplama, yiyecek arama ve koruyucu tepkiler olarak sınıflandırılan ilkel reflekslerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Moro refleksi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Paraşüt refleksi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Babinski refleksi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kavrama refleksi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tonik boyun refleksi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 3,
+      "type": "legacy_text",
+      "stem": "Hangi gelişmeler çocukluk döneminde yaş arttıkça çocukların daha iyi motor kontrolü kazanmalarına\nolanak sağlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Merkezi sinir sistemine bağlı olarak olgunlaşma yaşanması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Reflekslerin ortadan kalkması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Okullarda hareket eğitimi ile çocukların desteklenmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ailelerin yaş arttıkça motor becerileri desteklemesi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Büyük kas becerilerinin gelişmesi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    }
+  ],
+  "_debug": {
+    "format": "legacy"
+  },
+  "content_hash": "e87fb0b57b3e2b1b5dd689f601e49b245796e7176f8f2d435bbee959743e5781"
+}

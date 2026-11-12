@@ -1,0 +1,739 @@
+{
+  "course": "Yaşam Becerileri",
+  "course_slug": "yasamb",
+  "exam": "2020 Vize Soruları",
+  "exam_slug": "vize-2020",
+  "page_title": "Yaşam Becerileri 2020 Vize",
+  "source_url": "https://lolonolo.com/2021/02/26/yasam-becerileri-2020-vize/",
+  "scraped_at": "2026-11-12T11:33:32+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Bireyin ailesi ile sorun yaşaması ve anne babasının şiddet içerikli baskıcı bir tutumla kendisini yetiştirmesini etkileyen hangi sisteme bir örnek olarak verilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal çevre",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Davranış sistemi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kişilik sistemi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Toplum sistemi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yapısal çevre",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi problem davranışının ortaya çıkmasında koruyucu bir faktör değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Koruyucu anne baba tutumu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal aktivitelere katılma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sağlığa verilen değer",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Problem davranışın yakın çevre tarafından onaylanmaması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Uygun davranışla ile ilgili ebeveyn ve arkadaş modelleri",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi davranış teorisini doğru olarak açıklamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu teori problem davranışları ortaya çıkarmak için geliştirilmiştir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bireyin riskli veya problemli davranışlarının ortaya çıkma nedenleri üzerine yoğunlaşmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bu teori problem davranışları ortadan kaldırmak için geliştirilmiştir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bu teori problem davranışları ortadan kaldırması için eğitim programları geliştirilmesi için geliştirilmiştir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bu teori bireyin problem durumları karşısında nasıl sağlam durabileceğini açıklamaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Yaşar Kemal’in filler sultanı ile kırmızı sakallı topal karınca kitabındaki filler sultanı karıncalar ülkesine giderek hepsini esir almıştır. Himayesi altına aldığı karıncalardan kendisine bir saray ve yerin 7 kat altından çıkartacakları elmastan karıncalara fillerin bütün ambarlarını çiçek özü ve bal özleriyle doldurmalarını emretmiştir. Biz bunu yapamayız bizler çok küçüğüz ve ambarlarınız için çalışırsak kendi ambarlarımızı dolduramayız kışı aç geçiririz, hepimiz ölürüz. Diyen karıncalarda tek tek cezalandırılır. Yukarıdaki metne göre filler Sultan’ında eksik olan yaşam becerisi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öz farkındalık",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Problem çözme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Empati",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yaratıcı düşünme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Eleştirel düşünme",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okul dışında yürütülen yaşam becerileri eğitimi programlarının özelliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gelişmiş ülkelerde uygulanır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Eğitimleri bireysel olarak gerçekleşir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Eğitimlere katılım zorunludur",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Program yapısı esnektir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İçeriği eğitim otoriterleri tarafından belirlenir",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yaratıcılığın esneklik boyutunu açıklamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireyin birden fazla problem durumuna odaklanması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Problem durumunun çözümünde kullanılan fikir sayısıdır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Problem durumuna ve çözüm sürecine farklı açılardan bakabilmektir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bireyin kendine has bakış açısı ile problem durumuna yaklaşması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireyin fikirleri ilginç bilgilerle ilişkilendirmesidir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Okullardan birinde yürütülen yaşam becerileri eğitimi programına öğrencilerin görüşleri sorulmadan tümü kaydedilmiştir. 4 hafta sürecek olan bu programa tüm öğrencilerin katılımı zorunlu olmuştur. Bu durum aşağıdaki standartlardan hangisine uygun değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uzman eğitimler tarafından verilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk dostu bir ortamda verilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bilgi, tutum, beceri kazandırmayı hedeflemiştir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kazandırılacak beceriler açık ve net olmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk merkezli olmalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Murat üniversite Çağına gelmiş bir bireydir. Üniversitede okumak istediği bölüm görsel iletişim tasarımıdır. Bu bölüm kendi yaşadığı şehirdeki bir üniversitede mevcutken Murat bu alanda isim yapmış bir üniversitede okumak istemektedir. Öte yandan kendi şehrinden başka şehre okumaya giderse ailesi için maddi anlamda zorluğa neden olabilecektir. Bunun yanı sıra ondan 2 yaş küçük olan ve üniversitede okumak isteyen bir kardeşi vardır. Ailesinin maddi geliri pekte iyi olmayan Murat’ın gideceği üniversite konusunda kendisi için en uygun olanı seçmesi gerekmektedir. Buna göre Murat’ın geçirdiği süreç hangi yaşam becerisiyle ilgilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eleştirel düşünme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Karar verme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yaratıcı düşünme",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Duygularla baş etme",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Problem çözme",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi eleştirel düşünmeyle ilgili yanlış bir ifadedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Üst düzey bilişsel becerilerdir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gelişim ergenlik döneminde başlamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Öğretilebilir becerilerdir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bireyin kendi yaşamına entegre edilebilir becerilerdir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geleneksellikten uzak bir eğitim sistemi ile geliştirilebilir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki düşüncelerden hangisi yaratıcı düşünmenin ortaya çıkabilmesi için bireyde bulunması gereken özellikler arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Problem durumunu tanıması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Problem durumunu analiz etmesi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Problem durumuna geleneksel çözümler üretmesi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Problem durumu ile ilgili anlamlı sorular sorması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Problem durumunu sorgulaması",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bireyin sergilediği problem davranışların kaynakları arasında gösterilemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireyin kişisel beklentileri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bireyin toplumla ilişkisi",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bireyin alkol kullanması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bireyin akademik anlamda başarılı olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bireyin toplumla uyumu",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi problem çözme becerisi ile ilgili yanlış bir ifadedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Problem çözme becerisi ile ilgili eğitimler bireye ne düşüneceklerini kazandırmayı amaçlamaktadır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Problem çözme becerisi gelişmiş çocukların daha az dürtüsel davranışlar sergilediği görülmektedir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Problem çözme becerisi eğitimi ile gerçekleştirilebilen bir beceridir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Problem çözme becerisi bireylerin çevre ile olan ilişkilerini olumlu yönde etkilemektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hem çocuklara hem de ailelere yönelik Problem çözme becerisi eğitimleri bulunmaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Eleştirel düşünmenin öğretilmesi planlanan içerikten bağımsız olarak beceri temelli bir eğitim programı aracılığı ile verilmesi vurgulanan program aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Beceri temelli yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Konuya entegre etme yaklaşımı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karma yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Genel Yaklaşım",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Konu tabanlı eğitim yaklaşımı",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi problem davranışların ortaya çıkmasına yönelik kişilik sistemi içerisinde yer alan risk faktörlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Depresif duygu durumu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Günlük yaşamda algılanan stres",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Risk alma eğilimi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Maddelere ulaşılabilirlik",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Okulu tanıma düşüncesi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi gözlem ve taklit yoluyla öğrenilebilecek bir davranış değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Paylaşma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Alkol kullanma",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İş birliği yapma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yardımlaşma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sakinlik",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Ergenlerin karar verme becerileri ile ilgili hangisi söylenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Riskli kararların bu dönemde daha fazla verildiği gözlenmektedir",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Verilen kararlardan ebeveynin etkisi yoğun olarak hissedilmektedir",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Verilen kararlardan akran etkileri gözlenmektedir",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ergenlerden erken yetişkinlik yaşamını düzenlemeyi kolaylaştıracak kararlar almaları beklenmektedir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ergenlerden eş yaşam yeri ve ideoloji gibi konularda karar vermeleri beklenmektedir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yaşam becerileri eğitimi ile ilgili yanlış ifadedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tutum bilgi ve becerileri geliştirmeyi amaçlar.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Programlarda genelde sunum yöntemi kullanılmaktadır",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sonuç odaklıdır",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların ve gençlerin ihtiyaçlarına yönelik düzenlenmelidir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Olası riskleri önlemeyi amaçlamaktadır",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi problem davranış teorisini doğru olarak açıklamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu teori problem davranışları ortadan kaldırması için eğitim programları geliştirmesine yönelik ortaya çıkmıştır",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Bu teori problem davranışları ortadan kaldırmak için geliştirilmiştir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bu teori problem davranışları ortaya çıkarmak için geliştirilmiştir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bu teori bireyin problem durumlar karşısında nasıl sağlam durabileceğini açıklamaktadır",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bu teori bireyin riskli veya problemli davranışlarının ortaya çıkma nedenleri üzerine yoğunlaşmaktadır",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi problem davranışın ortaya çıkmasında koruyucu bir faktör değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal aktivitelere katılma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Problem davranışın yakın çevre tarafından onaylanmaması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Koruyucu anne baba tutumu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sağlığa verilen değer",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Uygun davranışlarla ilgili ebeveyn ve arkadaş modelleri",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "3 yaşındaki Cemre karar verirken aşağıdakilerinden hangisinden etkilenmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplum baskısı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Anne baba tutumlar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sezgiler",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Akranları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sosyo-ekonomik düzeyi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "050af43e6b03a2b46726f3f427f7f220eb708d44ee993e6ad36b18952f13b950"
+}

@@ -1,0 +1,739 @@
+{
+  "course": "Anne Çocuk Beslenmesi",
+  "course_slug": "annecocuk",
+  "exam": "2024 Bütünleme Soruları",
+  "exam_slug": "butunleme-2024",
+  "page_title": "Anne Çocuk Beslenmesi 2024 Bütünleme Soruları",
+  "source_url": "https://lolonolo.com/2024/08/21/anne-cocuk-beslenmesi-2024-butunleme-sorulari/",
+  "scraped_at": "2026-11-12T11:33:35+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi vitaminlerin hepsinin yapısında bulunan elementlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Karbon",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Fosfor",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Oksijen",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Nitrojen",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hidrojen",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi mineraller açısından yanlış bir bilgidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kalsiyum vücutta en çok miktarda bulunan mineraldir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Minerallerin kemik ve hormon oluşumuna katılmak, kalp hızının düzenlenmesine yardımcı olmak gibi pek çok hayati görevi bulunmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Biyoyararlılık besin maddelerinin vücudumuz tarafından değerlendirilen veya emilen yüzde miktarını ifade etmektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Vücuttaki fosforun yaklaşık %85'i kemiklerde ve dişlerde kalsiyum ile beraber bulunur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mineraller içme suyunda bulunmamaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi mikroorganizmaların çoğalmasına neden olmamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yetersiz tuzlama ve kürleme",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "pH 10",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yüksek su içeriği",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yemek servisinin düşük ısısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Donmuş besinleri uygunsuz çözdürme koşulları",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Yağlarla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Balık yağları, avokado, fındık, ay çiçek yağı, zeytinyağı ve sebze yağlarında bulunur.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hindistan cevizi yağı, doymuş yağa bir örnektir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Doymuş yağlar beslenme planında bulunması gereken, kalp sağlığına yararlı yağlardır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Balık yağındaki omega 3 özellikle kanda pıhtılaşmasını önler.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Bazı vitaminler yağ varlığında emilirler.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi insülin direncini azaltarak ve insülinin hücreler tarafından daha etkili kullanılmasını sağlayarak kan şekerinin kontrolüne yardımcı olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Krom",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Kobalt",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Magnezyum",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Demir",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Manganez",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Vücutta demirin kullanımıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fazla miktarda çay, kahve tüketimi demir emilimi negatif yönde etkilemektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gebeler, gebe olmayan kadınlara göre demire daha fazla ihtiyaç duymaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Beslenme planında C vitamini içeriği zengin besinlerin bulunması demir emilimini negatif yönde etkilemektedir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sık gebelik demir eksikliği anemisine yol açabilmektedir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ergen gebelik ve vejetaryenlik demir eksikliği anemisine yol açabilmektedir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi iyi D vitamini kaynağı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bitkisel kaynaklar",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yağlı balıklar",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Güneş ışığı",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yumurta sarısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Hayvansal kaynaklar",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisinin düşük seviyede olması preeklemsi riski ile ilişkilendirilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bor",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "B5 vitamini",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "D vitamini",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Kükürt",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Selenyum",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Besin grupları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Et, yumurta, kurubaklagiller grubuna ait besinlerde B1, B6, B12 vitaminleri ve demir, çinko, fosfor, magnezyum gibi mineraller bulunmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklar et, yumurta, kurubaklagil grubunda bulunan doymuş yağ ağırlıklı besinlerden herhangi bir sınır olmadan dilediğince tüketebilirler.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tahıl grubu besinler kurubaklagiller, yumurta, yoğurt, et gibi besinlerle bir arada tüketildiklerinde protein kalitesi artar.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Sebze ve meyveler başta C vitamini ve A vitamini, kalsiyum, magnezyum olmak üzere pek çok vitamin ve mineral içerirler.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Süt ve süt ürünleri grubundaki besinler kalsiyum, protein ve B vitaminleri yönünden zengindir.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Süt ve süt ürünleri tüketimi ile ilgili aşağıdaki önerilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "B2 vitaminince kayıp olmaması için, yoğurt suyu süzülüp atılmamalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İçerdiği mineral ve vitaminler sebebiyle süt, yoğurt, peynir ve türevleri günde en az 6 porsiyon tüketilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ambalajlı ürün veya ürünler besin etiketi okunarak tüketilmelidir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Süt ürünleri kalsiyum açısından zengindir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Yağ sınırlandırması yapılması gereken yetişkinler yarım yağlı ya da az yağlı süt ve süt ürünü tüketmelidirler.",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi süte özgü bir disakkarittir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fruktoz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Glikoz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sakkaroz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Maltoz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Laktoz",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi içerdiği kalsiyum sebebiyle diş minesinin onarılmasına yardımcı olmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ayran",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Şekerli besinler",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Patates kızartması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Buğday",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gazoz",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Kullanım sürelerine göre menüler kaça ayrılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "5",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ‘‘trigliserid’’ tanımına uyan bir yapıya sahiptir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gliserol + gliserol + gliserol + yağ asidi",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Gliserol + gliserol + gliserol",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Yağ asidi + yağ asidi + yağ asidi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Gliserol + yağ asidi + yağ asidi +yağ asidi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Gliserol + gliserol + yağ asidi + yağ asidi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hareket etmeyi sağlayan proteinlerden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hemoglobin",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Keratin",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Elastin",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Aktin",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Kazein",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi protein kaybeden entropatinin beslenme tedavisinde doğru bir yaklaşım değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yüksek enerji ve biyolojik değeri yüksek protein içerikli diyet verilebilir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "MCT içeriği yüksek olan ürünler diyete eklenebilir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hayvansal yerine bitkisel protein tercih edilebilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Yumurta tüketimi arttırılabilir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Artan enerji ve protein gereksiniminin tamamlanması için özel enerji ve protein modülleri diyete eklenebilir.",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi hijyen ve sanitasyon açısından yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ortamın hastalık yapan etmenlerden arındırılması için gerekenleri sağlık ve temizlik kurallarına uygun yapmaya sanitasyon denir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Temizlik, ortamda görülebilir kir ve kalıntıların ortadan kaldırılmasıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Dezenfeksiyon ile hastalıklara neden olabilecek etmenler yok edilir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Çalışma ortamında takı kullanılması besin kaynaklı ya da başka hastalıkların yayılmasında etkili değildir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sağlığın korunması amacıyla öz bakım becerilerine önem verilmelidir.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Menü oluşturulurken ilk olarak kaçıncı grup yemeklerden başlanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "5",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Safra tuzu yetersizliği ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Safra tuzu yetersizliğinde steatore görülmektedir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yağların ve yağ varlığında absorbe edilen vitaminlerin malabsorpsiyonu vardır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Karaciğerde safra tuzu yapımında bozukluk mevcuttur.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Hastalara orta zincirli yağ asitleri içeren ve A, D, E, ve K vitaminleri ile safra tuzu bağlayan reçine verilmesi uygundur.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Duodenum ve jejenumdaki ince barsak mukozasında aktif çinko transportunda sorun vardır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ince bağırsaktan salgılanan karbonhidrat sindiren enzimlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sukraz",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Laktaz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Sakkaraz",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Maltaz",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Peptidaz",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "7f3dc260fa0b80a1af978fc16072725a1835dfde3170f8121c9a1ba7350898e0"
+}

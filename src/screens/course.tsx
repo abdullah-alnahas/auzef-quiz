@@ -123,6 +123,16 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
           {scoped.length} {t(prefs.lang, "examUnit")} · {scopedQuestions}{" "}
           {t(prefs.lang, "questionUnit")}
         </p>
+        <details class="combined-list">
+          <summary>
+            {t(prefs.lang, "includedExams")} ({scoped.length})
+          </summary>
+          <ul>
+            {scoped.map((exam) => (
+              <li key={exam.examId}>{exam.exam}</li>
+            ))}
+          </ul>
+        </details>
         <div class="row-actions">
           <button
             type="button"

@@ -1,0 +1,919 @@
+{
+  "course": "Yönetim ve Liderlik",
+  "course_slug": "yonetim-ve-liderlik",
+  "exam": "2025-2026 Vize Soruları",
+  "exam_slug": "vize-2025-2026",
+  "page_title": "Ambalaj Grafiği Tasarımı 2025-2026 Vize Soruları",
+  "source_url": "https://lolonolo.com/2026/11/11/ambalaj-grafigi-tasarimi-2025-2026-vize-sorulari/",
+  "scraped_at": "2026-11-12T11:34:57+03:00",
+  "answer_source": "markup",
+  "question_count": 25,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi karton ambalaj tasarımının biçimlendirilme parametrelerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşlevsel boyutu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Dayanıklılık koşulları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Pazarlama kriterleri",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tasarımcının düşünce yapısı",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Biçimi",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Görselde verilen piktogramlar ambalajlarda hangi amaçlarla kullanılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ürüne ait geri dönüşüm bilgisi verme amaçlı kullanılmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ürün tanıtımı için kullanılmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ürünün albenisini arttırma amaçlı kullanılmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ürünün nasıl kullanılacağı konusunda bilgi amaçlı kullanılmaktadır.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Dikkat çekme ve uyarı amaçlı kullanılmaktadır.",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Tehlikeli ve yanlış kullanımlarda zarar verebilecek ürünlerin, farmakolojik içerikli ve kimyasallardan oluşan temizlik ürünlerinin dikkatsiz, bilinçsiz ve çocukların kolayca açamayacağı şekilde ambalajlanması gerekmektedir.\nAşağıdakilerden hangisi bu nedenle uygulanan tedbirler kapsamındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Reçete ile satılması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Özel açma sistemli kapakların kullanılması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Bu türden ürünlere alarm takılması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bu türden ürünleri alma izinlerinin sorgulanması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Özel ambalaj malzemesinin kullanılması",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi etiket metninin anlaşılır olabilmesi için gerekli şartlardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fon rengi, metnin okunurluğunu zorlaştırmamalıdır.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Açıklayıcı metin ile markanın adı, logosu birbirinden net bir şekilde ayrılmalıdır.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Hiçbir metin puntosu, marka puntosu büyüklüğünde olmamalıdır.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tasarımcının, ambalajın üzerinde bulunan marka dâhil metinlerin okunurluğunu test etmemesi gerekir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Açıklayıcı metin ve marka puntoları belirgin ve etkili olacak bir şekilde birbirlerinden ayrılmalı, okunmayacak kadar küçük puntolar kullanılmamalıdır.",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Ambalajın ürünü fiziksel ve mekanik etkilere karşı koruması, nem ve atmosferik etkilerden kaynaklanan bozulmaları önlemesi ve ürünün raf ömrünü uzatması aşağıdaki ambalaj fonksiyonlarından hangisiyle doğrudan ilişkilidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sembolik olarak iletişim kurma",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Müşteriye kolaylık sağlama",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ürünü tanıtma",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ürünü koruma",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Elleçleme",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ahşap ambalajın olumlu özelliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Depolama ve taşımada fazla yer kaplaması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Üretiminin otomasyona elverişli olmaması",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tekrar kullanılabilir olması",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İşçilik ve malzeme giderlerinin yüksek olması",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Çekiciliğinin düşük olması",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ambalaj malzemesinin seçimine etki eden faktörlerden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ambalajın yalnızca rengine sahip olması",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ambalajın ağırlığı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ambalajın sadece üretim maliyeti",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ambalajın yalnızca şekli",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ambalajın depoda sergilenmesi",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Bir plastiğin karakteristik özelliklerini, üretiminde tercih edilen moleküler bileşim belirler. Polimerizasyon adı verilen bu molekül zincirlerinin bağlantı biçimleri çizgisel, dallı budaklı, katlanır, çapraz, yığınsal, şekilsiz ya da bunların birkaçının kombinasyonu şeklinde olabilir.\nBu şekilde elde edilen ve toz, tabaka, topak ya da sıvı formlarda olabilen ürüne ne ad verilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Monomer",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Polimer",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Pleksiglas",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Karbon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Reçine",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Ambalajları süsleyen ve önemli bir görev üstlenen ikinci ambalaja ne ad verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kutu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Palet",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Etiket",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İllüstrasyon",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Sarım kâğıdı",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Işık frekansının belli bir oranda yoğunlaşması ile ortaya çıkan renkler, içerdikleri düşük ya da yüksek titreşimli enerjileriyle insan psikolojisi ve davranışları üzerinde etkili olmaktadırlar.\nBuradan hareketle aşağıdakilerden hangisi renklerin psikolojik etkisi içerisinde rol almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnsanın fiziksel performansı",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İnsanın psikososyal durumu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnsanın insanı sevme durumu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnsanın zihinsel aktiviteleri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnsan-donanım-çevre sistemi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Ambalaj malzemelerinin fiziki özellikleri kapsamında olan mekanik özellikler, bir yandan ürünün buhara ve bazı sıvılara karşı korunmasını sağlarken diğer yandan da çarpma ve sarsıntılara karşı koyabilme ile dayanıklılığını ifade eder.\nYukarıdaki ifadede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "boşalmaya",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "kurumaya",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "ıslanma ve buhara",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "akmaya",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "kırılma ve çatlamaya",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ambalaj tasarımını araştırma ve geliştirme uygulamaları içerisinde değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mühendislik",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ürünün tadı",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Üretim süreci",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tedarikçi, satıcı ve tüketici görüşleri",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Reklam ve tanıtım",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sanayicinin ambalaj seçiminde dikkate alması gereken hususlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hedef kitlenin ihtiyaçlarını anlamak",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ambalaj özelliklerinin tüketiciye uygunluğunu belirlemek",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ambalajın kullanım alanlarını ve kullanım şeklini bilmek",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ambalaj sektöründeki teknolojik gelişmeleri takip etmek",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Tüketicilerin alışveriş alışkanlıklarını göz ardı etmek",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "İnsanlığın başlangıçta barınma ihtiyacını doğal oluşumlar içerisinde karşıladığı, avcı ve toplayıcı olarak geçimini sağladığı belirtilmektedir.\nİnsanların içme suyunu korumak ve muhafaza etmek için yaptıklarına dair varsayım aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaptıkları kuyulara doldurdukları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Hayvan derilerine doldurdukları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Taşıma su yaptıkları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Su kenarlarında yaşadıklarından muhafaza yapmadıkları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Topraktan yaptıkları kaplara doldurdukları",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Ürünün tanıtılması, ürünün hazırlanması ve kullanım yöntemi, besin değerleri ve depolama koşulları, güvenlik uyarıları, iletişim bilgileri, açılış talimatları ve kullanım ömrü gibi bilgiler ambalajın hangi fonksiyonunun alt başlıklarıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sembolik iletişim fonksiyonu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ürünü tanıtım fonksiyonu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Kolaylık fonksiyonu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Bilgilendirme fonksiyonu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Koruma fonksiyonu",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "2012 yılı verilerine göre Türkiye’de tüketilen ambalajların yüzde kaçını plastik ambalajlar oluşturmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "yüzde 28",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "yüzde 30",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "yüzde 32",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "yüzde 34",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "yüzde 36",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ambalaj tasarımı sürecinin ilk aşamasında, seçilen malzemenin avantaj ve dezavantajını değerlendirme sorularından biri olamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Maliyete dayalı sınırlılıklar var mıdır?",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Ürün nasıl teşhir edilecektir?",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ürünün türü nedir?",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ürünü hangi firma üretecek?",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ürünün nakliyesi nasıl gerçekleşecektir?",
+          "images": []
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki bilgilerden hangisi barkod sistemi içerisinde verilmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ürünün kimlere satılabileceğini belirtir.",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Üretildiği ülke, firma hakkında bilgilendirir.",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Ürün sınıfı hakkında bilgilendirir.",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Ürün stoğu, fiyatı konusunda mağazayı bilgilendirir.",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Ürünün üreticisini belirtir.",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Birlikteliğin, mutluluğun ve güvenin rengidir. Aynı zamanda çocuklara hitap eden yönü bulunur. Yumuşak, sıcak ve pastel tonlar özellikle de kız çocukların ilgisini çekmektedir. Kırılgan bir iletisi olan bu renk; nazik, kibar ve sevecen bir intiba uyandırmaktadır.\nYukarıda tanımı yapılan renk aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mor",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Beyaz",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Pembe",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Turuncu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Mavi",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Ambalaj tasarımı esnasında aşağıdaki unsurlardan hangisi kullanılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Renk",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Malzeme",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Tasarımcı imi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Tipografi",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İmge",
+          "images": []
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "n": 21,
+      "type": "multiple_choice_text",
+      "stem": "1970’lere gelindiğinde ambalaj tasarımının rolü, önceden düşünülmüş bir konteyner ve satış noktası reklam panosundan daha iyi tanımlanmış bir ………… ifade etme mecrası olmuştur.\nYukarıdaki cümlede boş bırakılan yere aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "araştırma stratejisini",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "pazarlama stratejisini",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "tasarım stratejisini",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "tüketici stratejisini",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "değerlendirme stratejisini",
+          "images": []
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "n": 22,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların algılama becerisi gençlere göre, gençlerinki ise yaşlılara göre daha hızlı olduğundan görsel tasarımında göz ardı edilmemesi gereken husus aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İnsanların fizyolojik yapıları",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "İnsanların psikolojik yapıları",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "İnsanların morfolojik yapıları",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "İnsanların biyolojik yapıları",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "İnsanların sosyolojik yapıları",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 23,
+      "type": "multiple_choice_text",
+      "stem": "Yukarıdaki piktogram ambalajın hangi özelliği hakkında bilgi vermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çok amaçı olduğu",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Uluslararası olduğu",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Taşınabilir olduğu",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Radyasyonlu olduğu",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Geri dönüştürülebilir olduğu",
+          "images": []
+        }
+      ],
+      "answer": "E"
+    },
+    {
+      "n": 24,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sektörde başarılı ve kalıcı bir çalışma ortamı oluşturmanın en temel unsurları arasında değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tutuculuk",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Yansızlık",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Profesyonelce iletişim",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Şeffaflık",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Karşılıklı güven",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "n": 25,
+      "type": "multiple_choice_text",
+      "stem": "Markaları yöneten ambalaj tasarımcıları iş ortaklığı için kritik öneme sahiptir. Bu nedenle görsel iletişim ve yapısal tasarıma ek olarak sahip olması gereken anlayışlar da vardır.\nAşağıdakilerden hangisi bu anlayışlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitim faaliyetleri",
+          "images": []
+        },
+        {
+          "letter": "B",
+          "text": "Sosyoloji ve psikoloji",
+          "images": []
+        },
+        {
+          "letter": "C",
+          "text": "Finans ve ekonomi",
+          "images": []
+        },
+        {
+          "letter": "D",
+          "text": "Pazarlama",
+          "images": []
+        },
+        {
+          "letter": "E",
+          "text": "Uluslararası ticaret",
+          "images": []
+        }
+      ],
+      "answer": "A"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "f8dec62475986fc4732329a1b3d7dc72fccdbd35b774c197f7ab73a584457fef"
+}
