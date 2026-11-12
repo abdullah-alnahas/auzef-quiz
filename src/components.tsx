@@ -135,9 +135,22 @@ export function Dialog({
   children: ComponentChildren;
 }) {
   const ref = useRef<HTMLDialogElement>(null);
+  const returnTo = useRef<HTMLElement | null>(null);
   useEffect(() => {
+    // Preact removes the <dialog> on close, so the browser cannot restore focus
+    // itself; remember the trigger and put focus back when we unmount.
+    returnTo.current =
+      document.activeElement instanceof HTMLElement ? document.activeElement : null;
     const dialog = ref.current;
     if (dialog && !dialog.open) dialog.showModal();
+    return () => {
+      const target = returnTo.current;
+      // Removing an open <dialog> moves focus to <body> synchronously; restore
+      // on the next task so the browser's focus fixup cannot undo it.
+      setTimeout(() => {
+        if (target?.isConnected) target.focus();
+      }, 0);
+    };
   }, []);
   return (
     <dialog
