@@ -12,6 +12,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import fold, sha1, sha256_json  # noqa: E402
+from discover import period_of  # noqa: E402
 from parse_exam import parse, CACHE  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -159,17 +160,6 @@ def classify(text: str):
     return None
 
 
-def period(text: str):
-    m = re.search(r"(20\d{2})\s*[-–/]\s*(\d{2,4})", text)
-    if m:
-        a, b = m.group(1), m.group(2)
-        if len(b) == 2:
-            b = a[:2] + b
-        return f"{a}-{b}"
-    m = re.search(r"(20\d{2})", text)
-    return m.group(1) if m else None
-
-
 def ascii_fold(s: str) -> str:
     """Lowercase + Turkish-to-ASCII letters, keeping punctuation."""
     table = str.maketrans({
@@ -292,7 +282,7 @@ def main() -> None:
             out.append(e)
             continue
         ttype = classify(title) or classify(e["label"]) or e["type"]
-        tper = period(title) or e["period"] or "unknown"
+        tper = period_of(title) or e["period"] or "unknown"
         if explicit_unit:
             ttype = "unite"
         elif explicit_mock:
