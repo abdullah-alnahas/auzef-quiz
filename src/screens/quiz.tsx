@@ -4,7 +4,6 @@ import {
   Badge,
   ChoiceContent,
   ConfirmDialog,
-  Dialog,
   RichTextView,
   TableView,
 } from "../components.tsx";
@@ -19,13 +18,11 @@ import {
   goTo,
   isLocked,
   isRevealed,
-  navigatorState,
   newSession,
   score,
   select,
-  type NavigatorState,
 } from "../engine.ts";
-import { scopeTitle, t, type Key } from "../i18n.ts";
+import { scopeTitle, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
   deleteSession,
@@ -37,6 +34,7 @@ import {
   setBookmark,
 } from "../storage.ts";
 import type { Exam, Mode, ScopeGroup, SessionState } from "../types.ts";
+import { QuizNavigator } from "./quiz-navigator.tsx";
 
 type Failure =
   | { kind: "offline" }
@@ -60,14 +58,6 @@ type QuizProps = ScreenProps & {
   examId?: string;
   courseId?: string;
   scopeGroups?: ScopeGroup[];
-};
-
-const NAV_LABEL_KEYS: Record<NavigatorState, Key> = {
-  correct: "correct",
-  wrong: "incorrect",
-  unknown: "unknownKey",
-  answered: "answered",
-  unanswered: "unanswered",
 };
 
 export function Quiz({
@@ -250,11 +240,6 @@ export function Quiz({
   const title = exam.scope
     ? scopeTitle(prefs.lang, parseScope(exam.scope))
     : exam.exam;
-
-  const hasUnknownAnswered = exam.questions.some(
-    (question) =>
-      Boolean(session.answers[question.id]) && question.answer === null,
-  );
 
   return (
     <div class="quiz">
@@ -473,70 +458,14 @@ export function Quiz({
       )}
 
       {showNavigator && (
-        <Dialog titleId="nav-title" onClose={() => setShowNavigator(false)}>
-          <h2 id="nav-title">{t(prefs.lang, "questionNavigator")}</h2>
-          <ul class="navigator">
-            {exam.questions.map((question, index) => {
-              const state = navigatorState(session, question);
-              const isMarked = bookmarks.has(question.number);
-              const label = t(prefs.lang, NAV_LABEL_KEYS[state]);
-              return (
-                <li key={question.id}>
-                  <button
-                    type="button"
-                    class={[
-                      "nav-cell",
-                      index === session.index ? "current" : "",
-                      state === "answered" ? "answered" : `status-${state}`,
-                      isMarked ? "marked" : "",
-                    ]
-                      .filter(Boolean)
-                      .join(" ")}
-                    aria-current={index === session.index ? "true" : undefined}
-                    aria-label={`${t(prefs.lang, "question")} ${index + 1}: ${label}`}
-                    onClick={() => {
-                      updateSession(goTo(session, index, total));
-                      setShowNavigator(false);
-                    }}
-                  >
-                    {index + 1}
-                    {state === "correct" && (
-                      <span class="nav-mark" aria-hidden="true">✓</span>
-                    )}
-                    {state === "wrong" && (
-                      <span class="nav-mark" aria-hidden="true">✗</span>
-                    )}
-                    {state === "unanswered" && (
-                      <span class="nav-mark" aria-hidden="true">–</span>
-                    )}
-                  </button>
-                </li>
-              );
-            })}
-          </ul>
-          <ul class="nav-legend">
-            {session.mode === "practice" ? (
-              <>
-                <li><i class="swatch swatch-correct" aria-hidden="true" />{t(prefs.lang, "correct")}</li>
-                <li><i class="swatch swatch-wrong" aria-hidden="true" />{t(prefs.lang, "incorrect")}</li>
-                <li><i class="swatch swatch-unanswered" aria-hidden="true" />{t(prefs.lang, "unanswered")}</li>
-                {hasUnknownAnswered && (
-                  <li><i class="swatch swatch-unknown" aria-hidden="true" />{t(prefs.lang, "unknownKey")}</li>
-                )}
-              </>
-            ) : (
-              <>
-                <li><i class="swatch swatch-answered" aria-hidden="true" />{t(prefs.lang, "answered")}</li>
-                <li><i class="swatch swatch-unanswered" aria-hidden="true" />{t(prefs.lang, "unanswered")}</li>
-              </>
-            )}
-          </ul>
-          <div class="dialog-actions">
-            <button type="button" class="ghost" onClick={() => setShowNavigator(false)}>
-              {t(prefs.lang, "cancel")}
-            </button>
-          </div>
-        </Dialog>
+        <QuizNavigator
+          lang={prefs.lang}
+          exam={exam}
+          session={session}
+          bookmarks={bookmarks}
+          onSelect={(index) => updateSession(goTo(session, index, total))}
+          onClose={() => setShowNavigator(false)}
+        />
       )}
 
       {confirmSubmit && (
