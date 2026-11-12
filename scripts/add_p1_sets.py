@@ -53,7 +53,7 @@ def main() -> None:
             print(f"missing page: {course['slug']}", file=sys.stderr)
             continue
         soup = BeautifulSoup(path.read_text(encoding="utf-8"), "lxml")
-        found = {}
+        found: dict[str, str] = {}
         for table in soup.find_all("table"):
             for anchor in table.find_all("a", href=True):
                 href = anchor["href"].split("#")[0]
@@ -63,7 +63,7 @@ def main() -> None:
                 if classify(label):
                     found.setdefault(href, label)
 
-        used = {}
+        used: dict[str, int] = {}
         for href, label in found.items():
             if href in have:
                 continue
