@@ -109,11 +109,23 @@ export async function loadPrefs(): Promise<Prefs> {
       Object.assign(prefs, { [row.key]: row.value });
     }
   }
+  mirrorTheme(prefs.theme);
   return prefs;
 }
 
 export async function setPref<K extends keyof Prefs>(key: K, value: Prefs[K]): Promise<void> {
+  if (key === "theme") mirrorTheme(value as Prefs["theme"]);
   await run("prefs", "readwrite", (s) => s.put({ key, value }));
+}
+
+/** Keep the pre-paint theme hint in localStorage in sync with the real pref. */
+function mirrorTheme(theme: Prefs["theme"]): void {
+  try {
+    if (theme === "system") localStorage.removeItem("auzef.theme");
+    else localStorage.setItem("auzef.theme", theme);
+  } catch {
+    /* storage blocked: IndexedDB remains the source of truth */
+  }
 }
 
 export function sessionKey(examId: string, mode: Mode): string {

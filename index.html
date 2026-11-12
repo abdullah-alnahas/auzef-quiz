@@ -7,6 +7,18 @@
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="icon" href="./icons/icon-192.png" />
     <title>مذاكرة AUZEF</title>
+    <script>
+      // Apply the stored theme before first paint. Preferences live in
+      // IndexedDB, which is async, so the theme choice is mirrored here.
+      try {
+        var storedTheme = localStorage.getItem("auzef.theme");
+        if (storedTheme === "light" || storedTheme === "dark") {
+          document.documentElement.dataset.theme = storedTheme;
+        }
+      } catch (error) {
+        /* storage blocked: fall back to the system preference */
+      }
+    </script>
   </head>
   <body>
     <div id="app"></div>
