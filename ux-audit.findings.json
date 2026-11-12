@@ -1,6 +1,6 @@
 {
  "run_id": "2026-11-12T14:45:00Z",
- "build_sha": "c32837e",
+ "build_sha": "6539521",
  "rule_version": "2.0",
  "framework": "ux-audit-framework-v2",
  "config": "./ux-audit.config.yaml",
@@ -18,8 +18,8 @@
   "audited_templates": 11,
   "rules_evaluated": 90,
   "results": {
-   "PASS": 45,
-   "FAIL": 21,
+   "PASS": 52,
+   "FAIL": 14,
    "N-A": 20,
    "NEEDS-HUMAN": 3,
    "BLOCKED-TEST": 1,
@@ -27,34 +27,27 @@
   },
   "fails_by_severity": {
    "Critical": 0,
-   "Major": 8,
-   "Minor": 13,
+   "Major": 4,
+   "Minor": 10,
    "Advisory": 0
   },
   "baseline": {
    "new_critical": 0,
    "existing_critical": 0,
    "regressed": 0,
-   "fixed_since_last_run": 8
+   "fixed_since_last_run": 15
   },
   "gate": "PASS",
   "next_actions": [
-   "A11Y-04",
    "ERR-02",
    "STA-03",
-   "A11Y-03",
-   "ERR-01",
-   "STA-02",
    "STA-04",
    "VIS-02",
    "CNT-03",
-   "THM-01",
    "I18N-01",
    "IA-03",
    "I18N-02",
-   "A11Y-02",
    "VIS-04",
-   "DS-04",
    "USA-01",
    "IXD-04",
    "FRM-02",
@@ -950,6 +943,12 @@
      "location": "all routes",
      "detail": "Body 16px, line-height 1.6 (LTR) / 1.9 (Arabic), one font family. WCAG 1.4.12 overrides survive (text-spacing injection: 0 clipped, 0 overflow).",
      "tool": "computed styles"
+    },
+    {
+     "type": "re-audit",
+     "location": "6539521",
+     "detail": "Question measure is now 71 characters per line (581px @ 8.17px glyph), inside the 45–75 target. The type scale is still ad hoc (16 rem sizes), so the rule stays FAIL.",
+     "tool": "Playwright re-run on the merged build"
     }
    ],
    "affected_templates": 6,
@@ -1155,7 +1154,7 @@
    "category": "A11Y",
    "name": "Name, role, value",
    "mode": "AUTO",
-   "verdict": "FAIL",
+   "verdict": "PASS",
    "confidence": "HIGH",
    "severity": "Minor",
    "severity_computation": {
@@ -1165,7 +1164,7 @@
      "-2 after remediation: the blocking defect is gone; what remains is one poorly named dismiss button"
     ]
    },
-   "baseline_status": "EXISTING",
+   "baseline_status": "FIXED",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Critical",
    "scope": [
@@ -1205,6 +1204,12 @@
      "location": "storage-error banner",
      "detail": "The dismiss control is <button class=\"ghost\">×</button>; its accessible name is literally '×'.",
      "tool": "accessibility-tree sample"
+    },
+    {
+     "type": "re-audit",
+     "location": "6539521",
+     "detail": "Storage-banner dismiss and language toggle get visually-hidden action text so their accessible names include the visible label; the earlier dangling aria-labelledby stays fixed.",
+     "tool": "Playwright + axe-core re-run on the merged build"
     }
    ],
    "affected_templates": 3,
@@ -1214,7 +1219,7 @@
    "disposition": "FIX",
    "needs_human": null,
    "fix": {
-    "tier": "A",
+    "tier": "B",
     "summary": "Give the question block the id its ARIA references point at.",
     "patch_refs": [
      "src/components.tsx",
@@ -1223,16 +1228,18 @@
     "reaudit_required": [
      "A11Y-02",
      "A11Y-01"
-    ]
+    ],
+    "applied": true,
+    "commit": "6539521"
    },
-   "remaining": "Dismiss button in the storage-error banner is named '×' (Tier B: needs a localized 'Dismiss' string)."
+   "remaining": null
   },
   {
    "principle_id": "A11Y-03",
    "category": "A11Y",
    "name": "Colour and contrast",
    "mode": "AUTO",
-   "verdict": "FAIL",
+   "verdict": "PASS",
    "confidence": "HIGH",
    "severity": "Major",
    "severity_computation": {
@@ -1241,7 +1248,7 @@
      "+0: not body text; the affected labels are redundant with adjacent text and the safe default stays legible"
     ]
    },
-   "baseline_status": "EXISTING",
+   "baseline_status": "FIXED",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Major",
    "scope": [
@@ -1287,6 +1294,12 @@
      "location": "all token pairs",
      "detail": "text/bg, muted/bg, accent pairs, ok/okBg, bad/badBg, warn/warnBg all ≥4.5:1 in both themes; only the pairs listed above fail.",
      "tool": "audit/checks3.mjs §7"
+    },
+    {
+     "type": "re-audit",
+     "location": "1658d84",
+     "detail": "Added --control-border (3.1–3.6:1 in both themes) and --on-ok/--on-bad text tokens (8.1–9.7:1); .secondary, .icon-button, .field, .field select and .choice letters now use them.",
+     "tool": "Playwright + axe-core re-run on the merged build"
     }
    ],
    "affected_templates": 3,
@@ -1305,7 +1318,9 @@
      "A11Y-03",
      "THM-01",
      "VIS-03"
-    ]
+    ],
+    "applied": true,
+    "commit": "1658d84"
    },
    "remaining": null
   },
@@ -1314,7 +1329,7 @@
    "category": "A11Y",
    "name": "Keyboard operability",
    "mode": "ASSISTED",
-   "verdict": "FAIL",
+   "verdict": "PASS",
    "confidence": "HIGH",
    "severity": "Major",
    "severity_computation": {
@@ -1323,7 +1338,7 @@
      "-1: no trap and no unreachable control; keyboard users can Tab from the top of the new view"
     ]
    },
-   "baseline_status": "EXISTING",
+   "baseline_status": "FIXED",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Major",
    "scope": [
@@ -1358,6 +1373,12 @@
      "location": "route change",
      "detail": "After home→course→quiz→results, document.activeElement is BODY every time; focus is not moved to the new view.",
      "tool": "Playwright activeElement probe"
+    },
+    {
+     "type": "re-audit",
+     "location": "66d82a2",
+     "detail": "Route changes now move focus into <main tabindex=\"-1\">; verified activeElement is MAIN after course, quiz and back navigation, BODY on first load.",
+     "tool": "Playwright + axe-core re-run on the merged build"
     }
    ],
    "affected_templates": 4,
@@ -1377,7 +1398,9 @@
      "A11Y-04",
      "A11Y-09",
      "IA-04"
-    ]
+    ],
+    "applied": true,
+    "commit": "66d82a2"
    },
    "remaining": null
   },
@@ -2310,7 +2333,7 @@
    "category": "ERR",
    "name": "Destructive and irreversible actions",
    "mode": "ASSISTED",
-   "verdict": "FAIL",
+   "verdict": "PASS",
    "confidence": "HIGH",
    "severity": "Major",
    "severity_computation": {
@@ -2319,7 +2342,7 @@
      "-1: every action is recoverable by re-downloading; no user data is lost except when reset is chosen deliberately"
     ]
    },
-   "baseline_status": "EXISTING",
+   "baseline_status": "FIXED",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Major",
    "scope": [
@@ -2352,6 +2375,12 @@
      "location": "both dialogs",
      "detail": "Default focus is Cancel (safe option); Escape closes; no type-to-confirm needed at this impact level.",
      "tool": "Playwright dialog walk"
+    },
+    {
+     "type": "re-audit",
+     "location": "994f27d",
+     "detail": "Clear-all dialog now says every downloaded item will be removed; exam-removal dialog names the exam in a bdi-isolated line.",
+     "tool": "Playwright + axe-core re-run on the merged build"
     }
    ],
    "affected_templates": 2,
@@ -2372,7 +2401,9 @@
      "ERR-01",
      "DS-04",
      "CNT-03"
-    ]
+    ],
+    "applied": true,
+    "commit": "994f27d"
    },
    "remaining": null
   },
@@ -2657,14 +2688,14 @@
    "category": "STA",
    "name": "Empty state",
    "mode": "AUTO",
-   "verdict": "FAIL",
+   "verdict": "PASS",
    "confidence": "HIGH",
    "severity": "Major",
    "severity_computation": {
     "default": "Major",
     "adjustments": []
    },
-   "baseline_status": "EXISTING",
+   "baseline_status": "FIXED",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Major",
    "scope": [
@@ -2691,6 +2722,12 @@
      "location": "#/results/:id filter 'المحفوظة'",
      "detail": "With no bookmarks the review list is empty: 0 items, no message, no clear-filter action.",
      "tool": "Playwright filter probe"
+    },
+    {
+     "type": "re-audit",
+     "location": "0e786e5",
+     "detail": "Home search miss renders a dedicated no-results state with a clear-search action; results filter with no matches renders a no-items state with show-all.",
+     "tool": "Playwright + axe-core re-run on the merged build"
     }
    ],
    "affected_templates": 2,
@@ -2711,7 +2748,9 @@
      "STA-02",
      "IA-03",
      "CNT-01"
-    ]
+    ],
+    "applied": true,
+    "commit": "0e786e5"
    },
    "remaining": null
   },
@@ -3171,6 +3210,12 @@
      "location": "quiz navigator dialog",
      "detail": "The only dismissal is labelled 'إلغاء'/'Vazgeç' (Cancel) though it just closes the map; 'Close' would name the outcome.",
      "tool": "DOM sample"
+    },
+    {
+     "type": "re-audit",
+     "location": "6539521",
+     "detail": "Language toggle now announces the action (visible label plus visually-hidden 'switch to Turkish/Arabic'). The navigator dialog's exit is still labelled 'Cancel', so the rule stays FAIL.",
+     "tool": "Playwright re-run on the merged build"
     }
    ],
    "affected_templates": 6,
@@ -3829,7 +3874,7 @@
    "category": "THM",
    "name": "Complete, token-driven theming",
    "mode": "ASSISTED",
-   "verdict": "FAIL",
+   "verdict": "PASS",
    "confidence": "HIGH",
    "severity": "Minor",
    "severity_computation": {
@@ -3838,7 +3883,7 @@
      "-1: a one-frame flash, no content or state lost"
     ]
    },
-   "baseline_status": "EXISTING",
+   "baseline_status": "FIXED",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Minor",
    "scope": [
@@ -3864,13 +3909,19 @@
      "location": "src/styles.css",
      "detail": "All surfaces have light + dark token blocks; system preference respected via prefers-color-scheme; color-scheme declared. 3× #fff literals are the only unthemed colours (see A11Y-03).",
      "tool": "token scan"
+    },
+    {
+     "type": "re-audit",
+     "location": "ea8fbd2",
+     "detail": "Pre-paint inline script reads the localStorage theme mirror; dataset.theme is already 'dark' at DOMContentLoaded, and setPref/loadPrefs keep the mirror in sync.",
+     "tool": "Playwright + axe-core re-run on the merged build"
     }
    ],
    "affected_templates": 6,
    "flow_tier": 1,
    "priority_score": 18,
    "acceptance_criteria": "No unthemed islands; no flash",
-   "disposition": "DEFER",
+   "disposition": "FIX",
    "needs_human": null,
    "fix": {
     "tier": "B",
@@ -3882,7 +3933,9 @@
     "reaudit_required": [
      "THM-01",
      "A11Y-03"
-    ]
+    ],
+    "applied": true,
+    "commit": "ea8fbd2"
    },
    "remaining": null
   },
@@ -3969,6 +4022,12 @@
      "location": "src/i18n.ts",
      "detail": "Both catalogs are key-complete (same Key union); no plural forms exist in the product (counts use '{a} من {n}' style templates).",
      "tool": "type-checked catalog"
+    },
+    {
+     "type": "re-audit",
+     "location": "6539521",
+     "detail": "The language toggle and dismiss glyph now carry catalogued accessible text, but the visible 'Türkçe'/'العربية' literals and the '×' glyph remain in source.",
+     "tool": "Playwright re-run on the merged build"
     }
    ],
    "affected_templates": 6,
@@ -4650,14 +4709,14 @@
    "category": "DS",
    "name": "Cross-screen consistency",
    "mode": "ASSISTED",
-   "verdict": "FAIL",
+   "verdict": "PASS",
    "confidence": "HIGH",
    "severity": "Minor",
    "severity_computation": {
     "default": "Minor",
     "adjustments": []
    },
-   "baseline_status": "EXISTING",
+   "baseline_status": "FIXED",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Minor",
    "scope": [
@@ -4684,13 +4743,19 @@
      "location": "remove flows",
      "detail": "Exam removal uses the same dialog title ('حذف') as the bookmark removal action, which is a different concept.",
      "tool": "DOM review"
+    },
+    {
+     "type": "re-audit",
+     "location": "994f27d",
+     "detail": "deleteConfirm (one exam) and deleteAllDownloads (whole device) are now separate strings with separate blast radii.",
+     "tool": "Playwright + axe-core re-run on the merged build"
     }
    ],
    "affected_templates": 2,
    "flow_tier": 1,
    "priority_score": 6,
    "acceptance_criteria": "One term per concept",
-   "disposition": "DEFER",
+   "disposition": "FIX",
    "needs_human": null,
    "fix": {
     "tier": "B",
@@ -4704,7 +4769,9 @@
      "DS-04",
      "ERR-01",
      "CNT-03"
-    ]
+    ],
+    "applied": true,
+    "commit": "994f27d"
    },
    "remaining": null
   },
@@ -4764,5 +4831,7 @@
    },
    "remaining": null
   }
- ]
+ ],
+ "reaudit_run_id": "2026-11-12T15:44:34Z",
+ "reaudit_round": 2
 }

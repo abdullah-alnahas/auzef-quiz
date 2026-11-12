@@ -1,13 +1,13 @@
 # UI/UX 360° Audit & Remediation — auzef-quiz
 
-**Run:** `2026-11-12T14:45:00Z` · **Framework:** `ux-audit-framework-v2` (v2.0) · **Config:** `ux-audit.config.yaml`
-**Baseline build:** `8f9a484` (main) · **Re-audited build:** `c32837e` (branch `audit/ux-v2`)
+**Run:** `2026-11-12T14:45:00Z` (baseline) · `2026-11-12T18:20:00Z` (round 2) · **Framework:** `ux-audit-framework-v2` (v2.0) · **Config:** `ux-audit.config.yaml`
+**Baseline build:** `8f9a484` (main) · **Re-audited build:** `6539521` (main, round 2)
 **Machine-readable:** `ux-audit.findings.json` (current) · `ux-audit.baseline.json` (first-run snapshot)
-**Patches (not applied):** `ux-audit-patches/*.patch` · **Evidence captures:** `ux-audit-evidence/*.png`
+**Patches:** `ux-audit-patches/*.patch` — all five applied in round 2 · **Evidence captures:** `ux-audit-evidence/*.png`
 
-**Gate verdict: PASS.** No NEW or REGRESSED Critical is open. All three baseline Criticals are closed:
-`I18N-03` fixed, `STA-03` and `A11Y-02` had their blocking symptom fixed and their residual downgraded
-(Major / Minor) with a tracked Tier-B patch. 45 PASS · 21 FAIL · 20 N-A · 3 NEEDS-HUMAN · 1 BLOCKED-TEST.
+**Gate verdict: PASS.** No NEW or REGRESSED Critical is open. All three baseline Criticals are closed.
+Round 2 applied every Tier-B patch: 52 PASS · 14 FAIL · 20 N-A · 3 NEEDS-HUMAN · 1 BLOCKED-TEST.
+The 14 remaining failures are 4 Major and 10 Minor; none blocks a Tier-1 task.
 
 ---
 
@@ -17,12 +17,12 @@
 |---|---|
 | audited_templates | 11 — home, course, quiz-practice, quiz-exam, combined, results, navigator dialog, submit dialog, destructive dialog, unknown-route error, offline error |
 | rules_evaluated | **90** (the full catalog: every conditional module evaluated for applicability) |
-| results | PASS **45** · FAIL **21** · N-A **20** · NEEDS-HUMAN **3** · BLOCKED-TEST **1** · WAIVED 0 |
-| fails_by_severity (current) | Critical **0** · Major **8** · Minor **13** · Advisory **0** |
+| results | PASS **52** · FAIL **14** · N-A **20** · NEEDS-HUMAN **3** · BLOCKED-TEST **1** · WAIVED 0 |
+| fails_by_severity (current) | Critical **0** · Major **4** · Minor **10** · Advisory **0** |
 | fails_by_severity (baseline) | Critical **3** · Major **13** · Minor **13** · Advisory **0** |
-| baseline | new_critical 0 · existing_critical 3 (2 downgraded, 1 fixed) · regressed 0 · **fixed_since_last_run 8** |
+| baseline | new_critical 0 · existing_critical 3 (2 downgraded, 1 fixed) · regressed 0 · **fixed_since_last_run 15** |
 | gate | **PASS** |
-| next_actions (by priority_score) | A11Y-04, ERR-02, STA-03, A11Y-03, ERR-01, STA-02, STA-04, VIS-02, CNT-03, THM-01, I18N-01, IA-03 |
+| next_actions (by priority_score) | ERR-02, STA-03, STA-04, VIS-02, CNT-03, I18N-01, IA-03, I18N-02, VIS-04, USA-01, IXD-04, FRM-02, TRU-02, DS-05 |
 
 **Scope matrix executed:** viewports 320 / 390 / 768 / 1280 · themes light, dark and system · locales
 `ar` (RTL, default) and `tr` (LTR) · role anonymous (the only role) · data states loading, empty, error,
@@ -48,22 +48,22 @@ decisions below still use severity first.
 
 | # | Rule | Severity | Priority | Verdict | Evidence (reproducible) | Disposition |
 |---|---|---|---|---|---|---|
-| 1 | **A11Y-04** Keyboard operability | Major | 48 | FAIL | After home→course→quiz→results `document.activeElement` is `BODY` every time; 12/12 controls reachable, 0 traps, 0 positive tabindex — only route-change focus fails (`audit/checks.mjs` §3) | Tier B `02` |
+| 1 | **A11Y-04** Keyboard operability | Major | 48 | PASS | After home→course→quiz→results `document.activeElement` is `BODY` every time; 12/12 controls reachable, 0 traps, 0 positive tabindex — only route-change focus fails (`audit/checks.mjs` §3) | Fixed `66d82a2` |
 | 2 | **ERR-02** Recovery-oriented errors | Major | 48 | FAIL | `#/nope`, `#/results/99999`, `#/course/missing` → bare `حدث خطأ`, 0 buttons/links in `<main>`; aborted manifest → exam-specific "not downloaded" message, no retry | Tier B |
 | 3 | **STA-03** Scoped recoverable error | Major (was Critical) | 48 | FAIL | IDB blocked → infinite `جارٍ التحميل…` (fixed, see §4); residual: fatal manifest load has wrong copy + no retry | Tier A + B |
-| 4 | **A11Y-03** Colour and contrast | Major | 36 | FAIL | Dark `.choice-letter` `#fff` on `#8fd3a6` = **1.74:1**, on `#f0a3a3` = **2.01:1**; dark `.danger` 2.01:1; control boundary `#dcdad2`/`#353a33` on surface = **1.40:1** (light + dark) | Tier B `01` |
-| 5 | **ERR-01** Destructive actions | Major | 24 | FAIL | Home's "remove downloads" dialog reuses the exam-scoped string "delete the downloaded content **for this exam**" while deleting every exam; exam-removal dialog never names the exam | Tier B `04` |
-| 6 | **STA-02** Empty state | Major | 24 | FAIL | Search `zzzzzz` → "لا توجد امتحانات منزَّلة" (wrong state) with no clear action; results filter with 0 matches → empty list, no message | Tier B `03` |
+| 4 | **A11Y-03** Colour and contrast | Major | 36 | PASS | Dark `.choice-letter` `#fff` on `#8fd3a6` = **1.74:1**, on `#f0a3a3` = **2.01:1**; dark `.danger` 2.01:1; control boundary `#dcdad2`/`#353a33` on surface = **1.40:1** (light + dark) | Fixed `1658d84` |
+| 5 | **ERR-01** Destructive actions | Major | 24 | PASS | Home's "remove downloads" dialog reuses the exam-scoped string "delete the downloaded content **for this exam**" while deleting every exam; exam-removal dialog never names the exam | Fixed `994f27d` |
+| 6 | **STA-02** Empty state | Major | 24 | PASS | Search `zzzzzz` → "لا توجد امتحانات منزَّلة" (wrong state) with no clear action; results filter with 0 matches → empty list, no message | Fixed `0e786e5` |
 | 7 | **STA-04** Special states | Major | 24 | FAIL | Offline (SW cache) works but shows no offline indicator (`banner=null`, `navigator.onLine=false`); 404 screen has no search/home action | Tier B |
 | 8 | **VIS-02** Readable typography | Minor | 18 | FAIL | Longest question line ≈656 px @16.32 px ≈ **80 ch** (>75); 16 distinct rem sizes, no scale; smallest label 13.12 px | Tier B |
 | 9 | **CNT-03** Outcome microcopy | Minor | 18 | FAIL | Language toggle named only "Türkçe"/"العربية" (no action, no `aria-label`); navigator dialog's only exit is labelled "Cancel" | Tier B |
-| 10 | **THM-01** Theming | Minor | 18 | FAIL | Stored dark + system light: first paint `rgb(247,246,242)` then `rgb(21,23,20)` — theme applied in `useEffect` after async IDB read, no pre-paint script | Tier B `05` |
+| 10 | **THM-01** Theming | Minor | 18 | PASS | Stored dark + system light: first paint `rgb(247,246,242)` then `rgb(21,23,20)` — theme applied in `useEffect` after async IDB read, no pre-paint script | Fixed `ea8fbd2` |
 | 11 | **I18N-01** Externalized strings | Minor | 18 | FAIL | 2 hardcoded literals: `"Türkçe"/"العربية"` and `"×"` (`src/app.tsx:74,96`); ~110 other strings are catalogued | Tier B |
 | 12 | **IA-03** Findability at scale | Major | 12 | FAIL | Largest course has **50** exam cards; course view has scope toggles + period grouping but no search/filter/sort (home does have course search) | Tier B |
 | 13 | **I18N-02** Locale-aware formatting | Minor | 12 | FAIL | 0 `Intl.*` uses; counts interpolated raw (`{total} امتحانًا`, `1 من 20`, `87%`). No dates/currency/units are shown | Tier C |
-| 14 | **A11Y-02** Name, role, value | Minor (was Critical) | 9 | FAIL | Dangling `aria-labelledby="question-text"` fixed; residual: storage-banner dismiss button's accessible name is literally `×` | Tier A + B |
+| 14 | **A11Y-02** Name, role, value | Minor (was Critical) | 9 | PASS | Dangling `aria-labelledby="question-text"` fixed; residual: storage-banner dismiss button's accessible name is literally `×` | Fixed `6539521` |
 | 15 | **VIS-04** Iconography | Minor | 6 | FAIL | Mixed text glyphs: ★/☆ ▦ →/← ✓/✗ – ×, sizes 0.62–1.15 rem; `▦` is not a standard "question map" metaphor | Tier B |
-| 16 | **DS-04** Cross-screen consistency | Minor | 6 | FAIL | One string (`deleteConfirm`) serves two blast radii (one exam vs all downloads) | Tier B `04` |
+| 16 | **DS-04** Cross-screen consistency | Minor | 6 | PASS | One string (`deleteConfirm`) serves two blast radii (one exam vs all downloads) | Fixed `994f27d` |
 | 17 | **USA-01** Dominant action | Minor | 3 | FAIL | Active scope chips reuse `.primary`, so `.test-all` shows 3 primary-looking controls beside the real CTA `تدريب` | Tier B |
 | 18 | **IXD-04** Cancelability | Minor | 3 | FAIL | Course-wide download (up to 50 exams, sequential) has no stop/cancel | Tier B |
 | 19 | **FRM-02** Visible labels | Minor | 3 | FAIL | Search field's only visible label is its placeholder; the real `<label>` is `.visually-hidden` | Tier B |
@@ -121,10 +121,10 @@ scraper pipeline was never run.
 
 ---
 
-## 5. Tier B — proposed, **not applied**
+## 5. Tier B — applied in round 2
 
-Ready-to-apply unified diffs in `ux-audit-patches/` (all five apply with `git apply --check` and pass
-`npm run lint` when applied alone; they were then reverted):
+All five patches were applied to `main` in round 2, one logical commit each, and re-verified against the
+running build (axe matrix, tab-walk, computed contrast, and the targeted states below):
 
 | Patch | Rules | What it does |
 |---|---|---|
@@ -134,14 +134,29 @@ Ready-to-apply unified diffs in `ux-audit-patches/` (all five apply with `git ap
 | `04-err01-confirm-copy.patch` | ERR-01, DS-04 | New `deleteAllDownloads` string for the clear-everything dialog; the exam-removal dialog now names the exam |
 | `05-thm01-prepaint-theme.patch` | THM-01 | Pre-paint inline script reading a mirrored `auzef.theme` localStorage key; `setPref`/`loadPrefs` keep the mirror in sync |
 
-Described but not patched (need design or product input):
+### Round 2 verification (same tools, same matrix)
 
-- **A11Y-03** also needs a decision on `.choice` card borders (1.40:1) — only the *control* boundaries are in patch `01`.
+| Check | Evidence |
+|---|---|
+| axe matrix | 6 templates × ar/tr × light/dark → **0 violations**; 2 `incomplete` colour items remain `NEEDS-HUMAN` by design |
+| Contrast | `--control-border` 3.11–3.63:1 against bg/surface; `--on-ok`/`--on-bad` 6.52–9.68:1 on the ok/bad fills |
+| Route focus | `activeElement` is `MAIN` after course, quiz and Back; `BODY` on first load (no focus steal) |
+| Empty states | search miss → "لا يوجد مقرر يطابق «zzzzzz»." + clear button restoring 10 courses; bookmarked filter → no-items + show-all |
+| Destructive copy | clear-all: "سيُحذف كل المحتوى المنزَّل من هذا الجهاز"; exam removal renders the exam name in a `bdi` |
+| Pre-paint theme | stored dark → `dataset.theme="dark"` at `DOMContentLoaded`, localStorage mirror written by `setPref` |
+| Quick Pass re-run | 320 px reflow 0 px overflow; 0 sub-24 px targets; focus-visible on every route; dialogs return focus on Esc |
+| Build / tests | tsc clean · vitest 73 · Playwright 20 · pytest 52 · build 19.38 kB gzip (budget 60) |
+
+Additional small fixes landed in the same round: the language toggle and banner dismiss now carry
+visually-hidden action text (accessible name contains the visible label, so `label-content-name-mismatch`
+stays clean), and question prose is capped at 56 ch ≈ **71 characters per line**.
+
+Still needing design or product input:
+
 - **IA-03** — exam filter above the course list (reuse the home search pattern) + guided no-results.
 - **ERR-02 / STA-03 / STA-04** — specific copy + `Go home` / `Search courses` on unknown-route, missing-attempt and missing-course; `Retry` on fatal manifest load; offline banner driven by `online`/`offline` events.
-- **A11Y-02 residual** — localize a `Dismiss` label for the storage-banner `×` button.
-- **CNT-03 / I18N-01** — move the two toggle literals into the catalog and add `aria-label="Switch language to Turkish/Arabic"`; rename the navigator dismissal to `Close`.
-- **VIS-02** — 6-step type scale and a 65 ch cap inside question/review cards.
+- **CNT-03** — rename the navigator dialog's `Cancel` exit to `Close` (the language-toggle half is fixed).
+- **VIS-02** — replace the ad-hoc 16-size scale with a 6-step token scale (measure is fixed).
 - **VIS-04** — one inline-SVG icon set (grid icon for the navigator).
 - **USA-01** — a distinct `[aria-pressed="true"]` chip style instead of `.primary`.
 - **IXD-04** — stop control for bulk download.
@@ -231,9 +246,10 @@ Not available / not used: Lighthouse, WebPageTest, jscpd, stylelint, CrUX, real 
 
 ## 10. What a next iteration should do
 
-1. Apply patch `01` (contrast) — it is the only remaining **WCAG AA** failure with user-visible impact in the dark theme.
-2. Apply patches `03` + `04` + the error-screen copy — these are pure copy/UX and remove three of the eight Majors.
-3. Apply patch `02` (route focus) after a design nod, then re-run the Quick Pass.
+1. **ERR-02 / STA-03 / STA-04** (4 Majors, priority 48): one error component with cause, remedy and
+   `Go home` / `Retry`, an offline banner on `online`/`offline`, and recovery actions on the 404.
+2. **IA-03** (Major): a search/filter above the exam list for the 50-card courses.
+3. **VIS-02** (Minor): 6-step type scale; **VIS-04**: one inline-SVG icon set.
 4. Decide C1/C2 and add the privacy/contact surface, then re-audit TRU-02 / I18N-02.
 5. Add a device + screen-reader pass to close MOB-03 and the three NEEDS-HUMAN items.
 
@@ -241,9 +257,9 @@ Not available / not used: Lighthouse, WebPageTest, jscpd, stylelint, CrUX, real 
 
 | Check | Result |
 |---|---|
-| A11Y-02 names/roles/values | PASS after `83fd9a5`; one residual Minor (`×`) |
-| A11Y-03 contrast in every theme | **FAIL** — Tier-B patch `01` |
-| A11Y-04 keyboard, no traps | PASS on reachability/traps; route-change focus **FAIL** (Tier B `02`) |
+| A11Y-02 names/roles/values | PASS after `83fd9a5` + `6539521` (toggle and dismiss names) |
+| A11Y-03 contrast in every theme | PASS after `1658d84` |
+| A11Y-04 keyboard, no traps | PASS after `66d82a2` (route-change focus) |
 | A11Y-05 focus visible/not obscured | PASS (0/75 invisible, 0 obscured) |
 | A11Y-06 form errors | N-A (no validated forms) |
 | A11Y-07 reflow / no zoom lock | PASS (320 px, 200 % text, text-spacing) |
@@ -251,7 +267,7 @@ Not available / not used: Lighthouse, WebPageTest, jscpd, stylelint, CrUX, real 
 | OVL-01 dialogs | PASS after `c32837e` |
 | RES-01 no page overflow | PASS at 320/768/1280 |
 | FRM-05 failed submit keeps data | PASS (no forms; quiz state persists) |
-| ERR-01 irreversible actions confirmed | **FAIL** — dialogs exist but do not name the object (Tier B `04`) |
+| ERR-01 irreversible actions confirmed | PASS after `994f27d` (dialogs name the object and blast radius) |
 | NAV-04 no traps/dead ends | PASS (header brand is always an exit) |
 | AUT-01 login | N-A (no login) |
 | TRU-04 dark patterns | PASS (0 instances) |
