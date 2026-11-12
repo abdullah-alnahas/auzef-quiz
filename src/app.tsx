@@ -54,6 +54,25 @@ export function App() {
     document.documentElement.dataset.theme = prefs.theme === "system" ? "" : prefs.theme;
   }, [prefs.lang, prefs.theme]);
 
+  // Hash routing keeps one document: give every route a distinct title so the
+  // tab, history and screen-reader context describe the current screen.
+  useEffect(() => {
+    const app = t(prefs.lang, "appName");
+    const course = manifest?.courses.find((entry) => entry.courseId === route[1]);
+    const exam =
+      route[0] === "quiz"
+        ? manifest?.courses
+            .flatMap((entry) => entry.exams)
+            .find((entry) => entry.examId === route[1])
+        : undefined;
+    let page = "";
+    if (route[0] === "course" && course) page = course.course;
+    else if (route[0] === "quiz" && exam) page = exam.exam;
+    else if (route[0] === "combined" && course) page = course.course;
+    else if (route[0] === "results") page = t(prefs.lang, "results");
+    document.title = page ? `${page} — ${app}` : `${app} AUZEF`;
+  }, [prefs.lang, manifest, route[0], route[1]]);
+
   const updatePref = useCallback(
     <K extends keyof Prefs>(key: K, value: Prefs[K]): void => {
       setPrefsState((current) => ({ ...current, [key]: value }));
