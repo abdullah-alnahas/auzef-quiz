@@ -189,7 +189,7 @@ const tr: Record<Key, string> = {
 const catalogs: Record<Lang, Record<Key, string>> = { ar, tr };
 
 export function t(lang: Lang, key: Key, vars?: Record<string, string | number>): string {
-  let text = catalogs[lang][key] ?? catalogs.ar[key];
+  let text = catalogs[lang][key];
   for (const [name, value] of Object.entries(vars ?? {})) {
     text = text.replaceAll(`{${name}}`, String(value));
   }
