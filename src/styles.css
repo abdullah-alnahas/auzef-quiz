@@ -112,6 +112,11 @@ body {
   padding: 16px 16px 64px;
 }
 
+/* Focus target after a route change; not an interactive control. */
+.app-main:focus {
+  outline: none;
+}
+
 .stack {
   display: flex;
   flex-direction: column;

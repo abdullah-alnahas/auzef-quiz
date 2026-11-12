@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useState } from "preact/hooks";
+import { useCallback, useEffect, useMemo, useRef, useState } from "preact/hooks";
 import { loadManifest } from "./data.ts";
 import { t, dirOf } from "./i18n.ts";
 import { navigate, type ScreenProps } from "./props.ts";
@@ -77,6 +77,16 @@ export function App() {
     document.title = page ? `${page} — ${app}` : `${app} AUZEF`;
   }, [prefs.lang, manifest, route]);
 
+  // A hash route change swaps the whole view: move focus to the new screen so
+  // keyboard and screen-reader users are not left at the top of the old one.
+  const mainRef = useRef<HTMLElement>(null);
+  const previousHash = useRef(hash);
+  useEffect(() => {
+    if (previousHash.current === hash) return;
+    previousHash.current = hash;
+    mainRef.current?.focus({ preventScroll: true });
+  }, [hash]);
+
   const updatePref = useCallback(
     <K extends keyof Prefs>(key: K, value: Prefs[K]): void => {
       setPrefsState((current) => ({ ...current, [key]: value }));
@@ -127,7 +137,7 @@ export function App() {
         </div>
       )}
 
-      <main class="app-main">
+      <main class="app-main" ref={mainRef} tabIndex={-1}>
         {fatal && <p class="notice">{t(prefs.lang, "notDownloaded")}</p>}
         {!fatal && !props && <p class="muted">{t(prefs.lang, "loading")}</p>}
         {props && route.kind === "course" && (
