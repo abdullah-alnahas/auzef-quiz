@@ -157,3 +157,41 @@ export function Dialog({
     </dialog>
   );
 }
+
+/** Title + question + cancel/confirm pair, shared by every destructive prompt. */
+export function ConfirmDialog({
+  titleId,
+  title,
+  body,
+  confirmLabel,
+  cancelLabel,
+  tone = "danger",
+  busy = false,
+  onConfirm,
+  onClose,
+}: {
+  titleId: string;
+  title: string;
+  body: ComponentChildren;
+  confirmLabel: string;
+  cancelLabel: string;
+  tone?: "primary" | "danger";
+  busy?: boolean;
+  onConfirm: () => void;
+  onClose: () => void;
+}) {
+  return (
+    <Dialog titleId={titleId} onClose={onClose}>
+      <h2 id={titleId}>{title}</h2>
+      <p>{body}</p>
+      <div class="dialog-actions">
+        <button type="button" class="ghost" onClick={onClose}>
+          {cancelLabel}
+        </button>
+        <button type="button" class={tone} disabled={busy} onClick={onConfirm}>
+          {confirmLabel}
+        </button>
+      </div>
+    </Dialog>
+  );
+}

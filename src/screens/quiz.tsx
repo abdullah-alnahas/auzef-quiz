@@ -3,6 +3,7 @@ import { parseScope } from "../combine.ts";
 import {
   Badge,
   ChoiceContent,
+  ConfirmDialog,
   Dialog,
   RichTextView,
   TableView,
@@ -516,23 +517,17 @@ export function Quiz({
       )}
 
       {confirmSubmit && (
-        <Dialog titleId="submit-title" onClose={() => setConfirmSubmit(false)}>
-          <h2 id="submit-title">{t(prefs.lang, "submitTitle")}</h2>
-          <p>{t(prefs.lang, "submitBody", { n: unanswered })}</p>
-          <div class="dialog-actions">
-            <button type="button" class="ghost" onClick={() => setConfirmSubmit(false)}>
-              {t(prefs.lang, "cancel")}
-            </button>
-            <button
-              type="button"
-              class="primary"
-              disabled={submitting}
-              onClick={() => void finish()}
-            >
-              {t(prefs.lang, "confirm")}
-            </button>
-          </div>
-        </Dialog>
+        <ConfirmDialog
+          titleId="submit-title"
+          title={t(prefs.lang, "submitTitle")}
+          body={t(prefs.lang, "submitBody", { n: unanswered })}
+          cancelLabel={t(prefs.lang, "cancel")}
+          confirmLabel={t(prefs.lang, "confirm")}
+          tone="primary"
+          busy={submitting}
+          onClose={() => setConfirmSubmit(false)}
+          onConfirm={() => void finish()}
+        />
       )}
 
       {storageError && (

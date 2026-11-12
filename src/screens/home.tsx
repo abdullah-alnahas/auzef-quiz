@@ -1,5 +1,5 @@
 import { useEffect, useState } from "preact/hooks";
-import { Dialog } from "../components.tsx";
+import { ConfirmDialog } from "../components.tsx";
 import { clearDownloads } from "../downloads.ts";
 import { t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
@@ -147,52 +147,36 @@ export function Home({ manifest, prefs, updatePref, navigate }: ScreenProps) {
       </footer>
 
       {confirmDownloads && (
-        <Dialog titleId="downloads-title" onClose={() => setConfirmDownloads(false)}>
-          <h2 id="downloads-title">{t(prefs.lang, "removeDownloads")}</h2>
-          <p>{t(prefs.lang, "deleteConfirm")}</p>
-          <div class="dialog-actions">
-            <button type="button" class="ghost" onClick={() => setConfirmDownloads(false)}>
-              {t(prefs.lang, "cancel")}
-            </button>
-            <button
-              type="button"
-              class="danger"
-              onClick={() => {
-                clearDownloads()
-                  .then(() => setConfirmDownloads(false))
-                  .catch(() => setConfirmDownloads(false));
-              }}
-            >
-              {t(prefs.lang, "confirm")}
-            </button>
-          </div>
-        </Dialog>
+        <ConfirmDialog
+          titleId="downloads-title"
+          title={t(prefs.lang, "removeDownloads")}
+          body={t(prefs.lang, "deleteConfirm")}
+          cancelLabel={t(prefs.lang, "cancel")}
+          confirmLabel={t(prefs.lang, "confirm")}
+          onClose={() => setConfirmDownloads(false)}
+          onConfirm={() => {
+            void clearDownloads()
+              .catch(() => undefined)
+              .finally(() => setConfirmDownloads(false));
+          }}
+        />
       )}
 
       {confirmReset && (
-        <Dialog titleId="reset-title" onClose={() => setConfirmReset(false)}>
-          <h2 id="reset-title">{t(prefs.lang, "resetProgress")}</h2>
-          <p>{t(prefs.lang, "resetConfirm")}</p>
-          <div class="dialog-actions">
-            <button type="button" class="ghost" onClick={() => setConfirmReset(false)}>
-              {t(prefs.lang, "cancel")}
-            </button>
-            <button
-              type="button"
-              class="danger"
-              onClick={() => {
-                resetProgress()
-                  .then(() => {
-                    setSessions([]);
-                    setConfirmReset(false);
-                  })
-                  .catch(() => setConfirmReset(false));
-              }}
-            >
-              {t(prefs.lang, "confirm")}
-            </button>
-          </div>
-        </Dialog>
+        <ConfirmDialog
+          titleId="reset-title"
+          title={t(prefs.lang, "resetProgress")}
+          body={t(prefs.lang, "resetConfirm")}
+          cancelLabel={t(prefs.lang, "cancel")}
+          confirmLabel={t(prefs.lang, "confirm")}
+          onClose={() => setConfirmReset(false)}
+          onConfirm={() => {
+            void resetProgress()
+              .then(() => setSessions([]))
+              .catch(() => undefined)
+              .finally(() => setConfirmReset(false));
+          }}
+        />
       )}
     </div>
   );

@@ -5,7 +5,7 @@ import {
   SCOPE_GROUPS,
   scopeCode,
 } from "../combine.ts";
-import { Dialog } from "../components.tsx";
+import { ConfirmDialog } from "../components.tsx";
 import { scopeGroupKey, t } from "../i18n.ts";
 import type { ScreenProps } from "../props.ts";
 import {
@@ -240,26 +240,19 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
       ))}
 
       {removeTarget && (
-        <Dialog titleId="remove-title" onClose={() => setRemoveTarget(null)}>
-          <h2 id="remove-title">{t(prefs.lang, "remove")}</h2>
-          <p>{t(prefs.lang, "deleteConfirm")}</p>
-          <div class="dialog-actions">
-            <button type="button" class="ghost" onClick={() => setRemoveTarget(null)}>
-              {t(prefs.lang, "cancel")}
-            </button>
-            <button
-              type="button"
-              class="danger"
-              onClick={() => {
-                const target = removeTarget;
-                setRemoveTarget(null);
-                if (target) void removeExam(target).then(refresh);
-              }}
-            >
-              {t(prefs.lang, "confirm")}
-            </button>
-          </div>
-        </Dialog>
+        <ConfirmDialog
+          titleId="remove-title"
+          title={t(prefs.lang, "remove")}
+          body={t(prefs.lang, "deleteConfirm")}
+          cancelLabel={t(prefs.lang, "cancel")}
+          confirmLabel={t(prefs.lang, "confirm")}
+          onClose={() => setRemoveTarget(null)}
+          onConfirm={() => {
+            const target = removeTarget;
+            setRemoveTarget(null);
+            if (target) void removeExam(target).then(refresh);
+          }}
+        />
       )}
     </div>
   );
