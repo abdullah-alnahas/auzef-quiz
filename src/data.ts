@@ -18,24 +18,23 @@ export function dataUrl(path: string): string {
   return new URL(`data/${path}`, document.baseURI).toString();
 }
 
-export async function loadManifest(): Promise<AppManifest> {
+/** Fetch one app-data file; any failure (network, HTTP, JSON) is offline. */
+async function fetchJson<T>(path: string, message: string): Promise<T> {
   try {
-    const response = await fetch(dataUrl("manifest.json"), { cache: "no-cache" });
+    const response = await fetch(dataUrl(path), { cache: "no-cache" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    return (await response.json()) as AppManifest;
+    return (await response.json()) as T;
   } catch {
-    throw new OfflineError("manifest unavailable");
+    throw new OfflineError(message);
   }
 }
 
-export async function loadExam(examId: string): Promise<Exam> {
-  try {
-    const response = await fetch(dataUrl(`exams/${examId}.json`), { cache: "no-cache" });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    return (await response.json()) as Exam;
-  } catch {
-    throw new OfflineError("exam unavailable");
-  }
+export function loadManifest(): Promise<AppManifest> {
+  return fetchJson("manifest.json", "manifest unavailable");
+}
+
+export function loadExam(examId: string): Promise<Exam> {
+  return fetchJson(`exams/${examId}.json`, "exam unavailable");
 }
 
 /**
