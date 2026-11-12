@@ -111,6 +111,10 @@ export function App() {
           onClick={() => updatePref("lang", prefs.lang === "ar" ? "tr" : "ar")}
         >
           {prefs.lang === "ar" ? "Türkçe" : "العربية"}
+          <span class="visually-hidden">
+            {" "}
+            — {t(prefs.lang, "switchLanguage")}
+          </span>
         </button>
       </header>
 
@@ -131,8 +135,12 @@ export function App() {
       {storageError && (
         <div class="banner banner-bad" role="alert">
           <span>{t(prefs.lang, "storageError")}</span>
-          <button type="button" class="ghost" onClick={() => setStorageError(false)}>
-            ×
+          <button
+            type="button"
+            class="ghost"
+            onClick={() => setStorageError(false)}
+          >
+            ×<span class="visually-hidden"> {t(prefs.lang, "dismiss")}</span>
           </button>
         </div>
       )}

@@ -523,6 +523,7 @@ button[aria-disabled="true"] {
 
 .question-tr,
 .question-ar {
+  max-inline-size: 56ch;
   padding: 12px 14px;
   border-radius: var(--radius);
   border: 1px solid var(--border);
