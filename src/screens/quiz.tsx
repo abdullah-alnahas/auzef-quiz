@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "preact/hooks";
+import { useEffect, useState } from "preact/hooks";
 import { parseScope } from "../combine.ts";
 import {
   Badge,
@@ -13,7 +13,6 @@ import {
   loadCombinedExam,
   loadExam,
   MissingExamsError,
-  OfflineError,
 } from "../data.ts";
 import {
   changedQuestions,
@@ -44,6 +43,18 @@ type Failure =
   | { kind: "missing"; missing: string[] }
   | { kind: "empty" };
 
+type Loaded = {
+  exam: Exam;
+  session: SessionState;
+  bookmarks: Set<number>;
+  changed: Set<string>;
+};
+
+type LoadState =
+  | { kind: "loading" }
+  | { kind: "failed"; failure: Failure }
+  | { kind: "ready"; data: Loaded };
+
 type QuizProps = ScreenProps & {
   mode: Mode;
   examId?: string;
@@ -69,61 +80,62 @@ export function Quiz({
   navigate,
   manifest,
 }: QuizProps) {
-  const [exam, setExam] = useState<Exam | null>(null);
-  const [session, setSession] = useState<SessionState | null>(null);
-  const [bookmarks, setBookmarks] = useState<Set<number>>(new Set());
-  const [changed, setChanged] = useState<Set<string>>(new Set());
-  const [failure, setFailure] = useState<Failure | null>(null);
+  const [state, setState] = useState<LoadState>({ kind: "loading" });
   const [showNavigator, setShowNavigator] = useState(false);
   const [confirmSubmit, setConfirmSubmit] = useState(false);
   const [storageError, setStorageError] = useState(false);
   const [retryKey, setRetryKey] = useState(0);
   const [submitting, setSubmitting] = useState(false);
 
+  const ready = state.kind === "ready" ? state.data : null;
+
   useEffect(() => {
     let alive = true;
-    setFailure(null);
+    setState({ kind: "loading" });
     void (async () => {
       try {
         let loaded: Exam;
         if (courseId && scopeGroups && scopeGroups.length > 0) {
           const course = manifest.courses.find((entry) => entry.courseId === courseId);
           if (!course) {
-            if (alive) setFailure({ kind: "empty" });
+            if (alive) setState({ kind: "failed", failure: { kind: "empty" } });
             return;
           }
           loaded = await loadCombinedExam(course, scopeGroups);
         } else if (examId) {
           loaded = await loadExam(examId);
         } else {
-          if (alive) setFailure({ kind: "empty" });
+          if (alive) setState({ kind: "failed", failure: { kind: "empty" } });
           return;
         }
-        if (!alive) return;
-        setExam(loaded);
-        const key = sessionKey(loaded.examId, mode);
-        const stored = await getSession(key);
-        if (stored && !stored.submitted) {
-          setSession(stored);
-          if (stored.examHash !== loaded.contentHash) {
-            setChanged(changedQuestions(stored, loaded));
-          }
-        } else {
-          setSession(newSession(loaded, mode));
-        }
+        const stored = await getSession(sessionKey(loaded.examId, mode));
+        const resumed = stored && !stored.submitted ? stored : null;
+        const session = resumed ?? newSession(loaded, mode);
+        const changed =
+          resumed && resumed.examHash !== loaded.contentHash
+            ? changedQuestions(resumed, loaded)
+            : new Set<string>();
         const marks = await listBookmarks(loaded.examId);
-        if (alive) setBookmarks(new Set(marks.map((mark) => mark.number)));
+        if (alive) {
+          setState({
+            kind: "ready",
+            data: {
+              exam: loaded,
+              session,
+              changed,
+              bookmarks: new Set(marks.map((mark) => mark.number)),
+            },
+          });
+        }
       } catch (error) {
         if (!alive) return;
-        if (error instanceof MissingExamsError) {
-          setFailure({ kind: "missing", missing: error.missing });
-        } else if (error instanceof EmptyScopeError) {
-          setFailure({ kind: "empty" });
-        } else if (error instanceof OfflineError) {
-          setFailure({ kind: "offline" });
-        } else {
-          setFailure({ kind: "offline" });
-        }
+        const failure: Failure =
+          error instanceof MissingExamsError
+            ? { kind: "missing", missing: error.missing }
+            : error instanceof EmptyScopeError
+              ? { kind: "empty" }
+              : { kind: "offline" };
+        setState({ kind: "failed", failure });
       }
     })();
     return () => {
@@ -132,21 +144,18 @@ export function Quiz({
   }, [examId, courseId, scopeGroups, mode, retryKey, manifest]);
 
   useEffect(() => {
-    if (!exam || !session) return;
+    if (!ready) return;
+    const { exam, session } = ready;
     updatePref("lastExam", exam.examId);
     updatePref("lastQuestion", exam.questions[session.index]?.number);
     saveSession({
       ...session,
       key: sessionKey(exam.examId, session.mode),
     }).catch(() => setStorageError(true));
-  }, [exam, session, updatePref]);
+  }, [ready?.exam, ready?.session, updatePref]);
 
-  const current = useMemo(
-    () => (exam && session ? exam.questions[session.index] : null),
-    [exam, session],
-  );
-
-  if (failure) {
+  if (state.kind === "failed") {
+    const { failure } = state;
     const message =
       failure.kind === "missing"
         ? t(prefs.lang, "missingExams", {
@@ -173,9 +182,22 @@ export function Quiz({
       </div>
     );
   }
-  if (!exam || !session || !current) {
+  if (state.kind === "loading") {
     return <p class="muted">{t(prefs.lang, "loading")}</p>;
   }
+  const { exam, session, bookmarks, changed } = state.data;
+  const current = exam.questions[session.index];
+  if (!current) {
+    return <p class="muted">{t(prefs.lang, "loading")}</p>;
+  }
+
+  const updateSession = (next: SessionState): void => {
+    setState((currentState) =>
+      currentState.kind === "ready"
+        ? { ...currentState, data: { ...currentState.data, session: next } }
+        : currentState,
+    );
+  };
 
   const total = exam.questions.length;
   const answered = Object.keys(session.answers).length;
@@ -185,16 +207,17 @@ export function Quiz({
   const isBookmarked = bookmarks.has(current.number);
 
   const choose = (letter: string): void => {
-    setSession(select(session, current, letter));
+    updateSession(select(session, current, letter));
   };
 
   const toggleBookmark = (): void => {
     const next = !isBookmarked;
-    setBookmarks((marks) => {
-      const copy = new Set(marks);
-      if (next) copy.add(current.number);
-      else copy.delete(current.number);
-      return copy;
+    setState((currentState) => {
+      if (currentState.kind !== "ready") return currentState;
+      const marks = new Set(currentState.data.bookmarks);
+      if (next) marks.add(current.number);
+      else marks.delete(current.number);
+      return { ...currentState, data: { ...currentState.data, bookmarks: marks } };
     });
     setBookmark(exam.examId, current.number, next).catch(() => setStorageError(true));
   };
@@ -406,7 +429,7 @@ export function Quiz({
           type="button"
           class="secondary"
           disabled={session.index === 0}
-          onClick={() => setSession(goTo(session, session.index - 1, total))}
+          onClick={() => updateSession(goTo(session, session.index - 1, total))}
         >
           {t(prefs.lang, "previous")}
         </button>
@@ -414,7 +437,7 @@ export function Quiz({
           <button
             type="button"
             class="primary"
-            onClick={() => setSession(goTo(session, session.index + 1, total))}
+            onClick={() => updateSession(goTo(session, session.index + 1, total))}
           >
             {t(prefs.lang, "next")}
           </button>
@@ -472,7 +495,7 @@ export function Quiz({
                     aria-current={index === session.index ? "true" : undefined}
                     aria-label={`${t(prefs.lang, "question")} ${index + 1}: ${label}`}
                     onClick={() => {
-                      setSession(goTo(session, index, total));
+                      updateSession(goTo(session, index, total));
                       setShowNavigator(false);
                     }}
                   >
