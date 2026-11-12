@@ -411,7 +411,7 @@
     "default": "Major",
     "adjustments": []
    },
-   "baseline_status": "FIXED",
+   "baseline_status": "EXISTING",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Major",
    "scope": [
@@ -713,7 +713,7 @@
      "-1: downloads are idempotent cache writes, so a double click duplicates work but not data"
     ]
    },
-   "baseline_status": "FIXED",
+   "baseline_status": "EXISTING",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Minor",
    "scope": [
@@ -1092,7 +1092,7 @@
     "default": "Major",
     "adjustments": []
    },
-   "baseline_status": "FIXED",
+   "baseline_status": "EXISTING",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Major",
    "scope": [
@@ -1602,7 +1602,7 @@
     "default": "Major",
     "adjustments": []
    },
-   "baseline_status": "FIXED",
+   "baseline_status": "EXISTING",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Major",
    "scope": [
@@ -1668,7 +1668,7 @@
     "default": "Major",
     "adjustments": []
    },
-   "baseline_status": "FIXED",
+   "baseline_status": "EXISTING",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Major",
    "scope": [
@@ -2475,7 +2475,7 @@
     "default": "Major",
     "adjustments": []
    },
-   "baseline_status": "FIXED",
+   "baseline_status": "EXISTING",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Major",
    "scope": [
@@ -4072,7 +4072,7 @@
      "+0: Arabic RTL is the default and the primary market"
     ]
    },
-   "baseline_status": "FIXED",
+   "baseline_status": "EXISTING",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Critical",
    "scope": [
@@ -4296,7 +4296,7 @@
     "default": "Major",
     "adjustments": []
    },
-   "baseline_status": "FIXED",
+   "baseline_status": "EXISTING",
    "baseline_verdict": "FAIL",
    "baseline_severity": "Major",
    "scope": [
