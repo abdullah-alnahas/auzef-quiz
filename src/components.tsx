@@ -28,15 +28,17 @@ export function RichTextView({
   className,
   lang,
   dir,
+  id,
 }: {
   content: RichText;
   className?: string;
   lang: string;
   dir: "rtl" | "ltr";
+  id?: string;
 }) {
   const paragraphs = content.text.split(/\n{2,}/);
   return (
-    <div class={className} lang={lang} dir={dir}>
+    <div class={className} id={id} lang={lang} dir={dir}>
       {paragraphs.map((paragraph, index) => (
         <p key={index}>
           {paragraph.split("\n").map((line, lineIndex) => (

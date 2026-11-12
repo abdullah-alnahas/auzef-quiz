@@ -319,6 +319,7 @@ export function Quiz({
         </div>
         <RichTextView
           className="question-tr"
+          id="question-text"
           content={current.turkish}
           lang="tr"
           dir="ltr"
