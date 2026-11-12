@@ -5,7 +5,7 @@ export function registerServiceWorker(onUpdate: () => void): void {
   const start = (): void => {
     const url = new URL("sw.js", document.baseURI).toString();
     navigator.serviceWorker
-      .register(url)
+      .register(url, { updateViaCache: "none" })
       .then((registration) => {
         const check = (): void => {
           if (registration.waiting && navigator.serviceWorker.controller) {

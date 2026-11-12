@@ -138,6 +138,31 @@ native pass (see `src/i18n.ts` for the full catalog):
 - خريطة الأسئلة · مُجاب · الحالي
 - تُحتسب الأسئلة ذات مفاتيح الإجابات فقط.
 
+## Deploying to GitHub Pages
+
+This is a static site: GitHub Pages (`https://<user>.github.io/<repo>/`) needs no
+Node server. The build already uses relative paths and hash routing, so a
+repository subpath works unchanged.
+
+1. Settings → Pages → Build and deployment → **Source: GitHub Actions**.
+2. Push to `main`; `.github/workflows/pages.yml` runs `npm ci`, `npm test`,
+   `npm run build` and publishes `dist/`.
+3. The first deployment URL is `https://<user>.github.io/<repo>/`.
+
+`public/data/` (generated exam JSON) is committed on purpose: GitHub Actions
+does not have the scraper's `output/` corpus, so CI must build from committed
+data. After scraping/translating new exams:
+
+```bash
+npm run ingest          # regenerate public/data + ingest-report.json
+git add public/data && git commit -m "data: refresh exams"
+git push                # Pages rebuilds and clients get the update banner
+```
+
+`output/` itself stays out of git (raw pages, queues, rendered Markdown); only
+the app-ready JSON is versioned. A custom domain also works: keep `base: "./"`
+and the relative manifest/SW scope resolve against it automatically.
+
 ## Known limitations
 
 - The current corpus has no `assets/` files, so image download/offline paths are

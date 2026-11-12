@@ -12,6 +12,5 @@ node_modules/
 dist/
 playwright-report/
 test-results/
-public/data/
 ingest-report.json
 output/.browser/
