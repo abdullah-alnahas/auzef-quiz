@@ -1,9 +1,9 @@
 import { useCallback, useEffect, useMemo, useState } from "preact/hooks";
-import { parseScope } from "./combine.ts";
 import { loadManifest } from "./data.ts";
 import { t, dirOf } from "./i18n.ts";
 import { navigate, type ScreenProps } from "./props.ts";
 import { applyUpdate, registerServiceWorker } from "./pwa.ts";
+import { parseRoute } from "./route.ts";
 import { DEFAULT_PREFS, loadPrefs, setPref, type Prefs } from "./storage.ts";
 import type { AppManifest } from "./types.ts";
 import { Home } from "./screens/home.tsx";
@@ -11,14 +11,14 @@ import { Course } from "./screens/course.tsx";
 import { Quiz } from "./screens/quiz.tsx";
 import { Results } from "./screens/results.tsx";
 
-function useRoute(): string[] {
+function useHash(): string {
   const [hash, setHash] = useState(window.location.hash || "#/");
   useEffect(() => {
     const onChange = (): void => setHash(window.location.hash || "#/");
     window.addEventListener("hashchange", onChange);
     return () => window.removeEventListener("hashchange", onChange);
   }, []);
-  return hash.replace(/^#\/?/, "").split("/").filter(Boolean);
+  return hash;
 }
 
 export function App() {
@@ -27,8 +27,8 @@ export function App() {
   const [fatal, setFatal] = useState(false);
   const [storageError, setStorageError] = useState(false);
   const [updateReady, setUpdateReady] = useState(false);
-  const route = useRoute();
-  const combinedGroups = useMemo(() => parseScope(route[2] ?? ""), [route[2]]);
+  const hash = useHash();
+  const route = useMemo(() => parseRoute(hash), [hash]);
 
   useEffect(() => {
     registerServiceWorker(() => setUpdateReady(true));
@@ -106,29 +106,25 @@ export function App() {
       <main class="app-main">
         {fatal && <p class="notice">{t(prefs.lang, "notDownloaded")}</p>}
         {!fatal && !props && <p class="muted">{t(prefs.lang, "loading")}</p>}
-        {props && route[0] === "course" && (
-          <Course {...props} courseId={route[1] ?? ""} />
+        {props && route.kind === "course" && (
+          <Course {...props} courseId={route.courseId} />
         )}
-        {props && route[0] === "quiz" && (
+        {props && route.kind === "quiz" && (
+          <Quiz {...props} examId={route.examId} mode={route.mode} />
+        )}
+        {props && route.kind === "combined" && (
           <Quiz
             {...props}
-            examId={route[1] ?? ""}
-            mode={route[2] === "exam" ? "exam" : "practice"}
+            courseId={route.courseId}
+            scopeGroups={route.groups}
+            mode={route.mode}
           />
         )}
-        {props && route[0] === "combined" && combinedGroups.length > 0 && (
-          <Quiz
-            {...props}
-            courseId={route[1] ?? ""}
-            scopeGroups={combinedGroups}
-            mode={route[3] === "exam" ? "exam" : "practice"}
-          />
+        {props && route.kind === "results" && (
+          <Results {...props} attemptId={route.attemptId} />
         )}
-        {props && route[0] === "results" && (
-          <Results {...props} attemptId={Number(route[1])} />
-        )}
-        {props && route.length === 0 && <Home {...props} />}
-        {props && !["course", "quiz", "combined", "results"].includes(route[0]) && route.length > 0 && (
+        {props && route.kind === "home" && <Home {...props} />}
+        {props && route.kind === "unknown" && (
           <p class="notice">{t(prefs.lang, "error")}</p>
         )}
       </main>
