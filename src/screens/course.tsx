@@ -69,6 +69,9 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
 
   const download = async (exam: ExamSummary): Promise<void> => {
     setError(false);
+    // Mark the row as in flight before the first await so the button reacts
+    // immediately and cannot be triggered twice.
+    setProgress((current) => ({ ...current, [exam.examId]: { done: 0, total: 0 } }));
     try {
       await downloadExam(exam, (value) =>
         setProgress((current) => ({ ...current, [exam.examId]: value })),
@@ -94,6 +97,13 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
     setBusy(false);
   };
 
+  const inFlight = Object.entries(progress)
+    .map(([examId, value]) => ({
+      exam: course.exams.find((entry) => entry.examId === examId),
+      value,
+    }))
+    .filter((entry) => entry.exam);
+
   return (
     <div class="stack">
       <button type="button" class="ghost back" onClick={() => navigate("/")}>
@@ -106,6 +116,17 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
         </button>
       </div>
       {error && <p class="notice notice-bad">{t(prefs.lang, "downloadFailed")}</p>}
+      <p class="visually-hidden" role="status" aria-live="polite">
+        {inFlight.length > 0 && (
+          <>
+            {t(prefs.lang, "downloading")}{" "}
+            <bdi lang="tr">{inFlight[0].exam!.exam}</bdi>
+            {inFlight[0].value.total
+              ? ` ${inFlight[0].value.done}/${inFlight[0].value.total}`
+              : ""}
+          </>
+        )}
+      </p>
 
       <section class="test-all" aria-labelledby="test-all-title">
         <h2 id="test-all-title">{t(prefs.lang, "testAll")}</h2>
@@ -221,7 +242,9 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
                         onClick={() => void download(exam)}
                       >
                         {running
-                          ? `${t(prefs.lang, "downloading")} ${running.done}/${running.total}`
+                          ? running.total
+                            ? `${t(prefs.lang, "downloading")} ${running.done}/${running.total}`
+                            : t(prefs.lang, "downloading")
                           : status === "update"
                             ? t(prefs.lang, "retry")
                             : t(prefs.lang, "downloadExam")}
