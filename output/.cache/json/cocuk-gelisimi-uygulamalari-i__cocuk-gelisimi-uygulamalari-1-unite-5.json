@@ -1,0 +1,439 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Çocuk Gelişimi Uygulamaları-1 Ünite -5",
+  "exam_slug": "cocuk-gelisimi-uygulamalari-1-unite-5",
+  "page_title": "Çocuk Gelişimi Uygulamaları-1 Ünite -5",
+  "source_url": "https://lolonolo.com/2023/09/26/cocuk-gelisimi-uygulamalari-1-unite-5/",
+  "scraped_at": "2026-11-12T16:23:43+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Umut Evleri, hangi bakanlığın alt birimlerine bağlı olarak hizmet vermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Milli Eğitim Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة التربية الوطنية"
+        },
+        {
+          "letter": "B",
+          "text": "Sağlık Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الصحة"
+        },
+        {
+          "letter": "C",
+          "text": "İçişleri Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الداخلية"
+        },
+        {
+          "letter": "D",
+          "text": "Aile ve Sosyal Hizmetler Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الأسرة والخدمات الاجتماعية"
+        },
+        {
+          "letter": "E",
+          "text": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة العمل والضمان الاجتماعي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "إلى أي وزارة تتبع الوحدات الفرعية التي تقدّم بيوت الأمل خدماتها من خلالها؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Umut Evleri’nde en fazla kaç engelli birey bir arada kalabilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2",
+          "images": [],
+          "text_ar": "فردان"
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "images": [],
+          "text_ar": "3 أفراد"
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "images": [],
+          "text_ar": "4 أفراد"
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "images": [],
+          "text_ar": "5 أفراد"
+        },
+        {
+          "letter": "E",
+          "text": "6",
+          "images": [],
+          "text_ar": "6 أفراد"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ما أقصى عدد من الأفراد ذوي الإعاقة يمكن أن يقيموا معًا في بيوت الأمل؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aile Danışma Merkezlerinde görev alacak olan Çocuk Gelişimciler lisans mezuniyetleri haricinde hangi eğitim programını almak zorundadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitimde Drama Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج التدريب على الدراما في التعليم"
+        },
+        {
+          "letter": "B",
+          "text": "Aile Danışmanlığı Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تدريب الإرشاد الأسري"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk Ergen Psikopatoloji Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تدريب علم النفس المرضي للطفل والمراهق"
+        },
+        {
+          "letter": "D",
+          "text": "Oyun Terapi Programı",
+          "images": [],
+          "text_ar": "برنامج العلاج باللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk-Aile İletişim Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تدريب التواصل بين الطفل والأسرة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي برنامج تدريبي يجب أن يتلقاه أخصائيو نمو الطفل الذين سيعملون في مراكز الإرشاد الأسري إلى جانب شهادة البكالوريوس؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bir Çocuk Evinde görev yapan Çocuk Gelişimcinin görevi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuklara gelişim testi uygulamak",
+          "images": [],
+          "text_ar": "تطبيق اختبارات نمائية على الأطفال"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklara eğitim programı hazırlamak",
+          "images": [],
+          "text_ar": "إعداد برنامج تعليمي للأطفال"
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların gelişimlerini takip etmek",
+          "images": [],
+          "text_ar": "متابعة نمو الأطفال"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklara iyi alışkanlıklar kazandırmak",
+          "images": [],
+          "text_ar": "إكساب الأطفال عادات جيدة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların tıbbi değerlendirmelerini yapmak",
+          "images": [],
+          "text_ar": "إجراء التقييمات الطبية للأطفال"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من مهام أخصائي نمو الطفل العامل في بيت الأطفال؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Sosyal Hizmet Merkezlerinin temel hedef kitlesi hangi grupları içerir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece kadınlar",
+          "images": [],
+          "text_ar": "النساء فقط"
+        },
+        {
+          "letter": "B",
+          "text": "Sadece yaşlılar",
+          "images": [],
+          "text_ar": "كبار السن فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnızca çocuklar",
+          "images": [],
+          "text_ar": "الأطفال فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Dezavantajlı Veya Riskli Gruplar",
+          "images": [],
+          "text_ar": "الفئات المحرومة أو المعرضة للخطر"
+        },
+        {
+          "letter": "E",
+          "text": "Sadece gençler",
+          "images": [],
+          "text_ar": "الشباب فقط"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الفئات تشملها الفئة المستهدفة الأساسية لمراكز الخدمة الاجتماعية؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aile Danışma Merkezlerinde ailelere sıklıkla hangi danışma hizmeti verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Boşanma Süreci Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد في عملية الطلاق"
+        },
+        {
+          "letter": "B",
+          "text": "Kardeş Kıskançlığı Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد بشأن الغيرة بين الأشقاء"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel Davranışçı Terapi Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد بالعلاج المعرفي السلوكي"
+        },
+        {
+          "letter": "D",
+          "text": "İş Bulma Hizmet Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد في خدمات البحث عن عمل"
+        },
+        {
+          "letter": "E",
+          "text": "Boşanma Süreci Hukuki Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد القانوني في عملية الطلاق"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي خدمة إرشادية تُقدَّم للأسر بشكل متكرر في مراكز الإرشاد الأسري؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Bir çocuk evinde kalan çocuklar arasında en fazla kaç yaş aranmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1 Yaş",
+          "images": [],
+          "text_ar": "سنة واحدة"
+        },
+        {
+          "letter": "B",
+          "text": "2 Yaş",
+          "images": [],
+          "text_ar": "سنتان"
+        },
+        {
+          "letter": "C",
+          "text": "3 Yaş",
+          "images": [],
+          "text_ar": "3 سنوات"
+        },
+        {
+          "letter": "D",
+          "text": "4 Yaş",
+          "images": [],
+          "text_ar": "4 سنوات"
+        },
+        {
+          "letter": "E",
+          "text": "5 Yaş",
+          "images": [],
+          "text_ar": "5 سنوات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما أقصى فارق عمري يُشترط بين الأطفال المقيمين في بيت الأطفال؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ANKA Çocuk Destek Programının bileşenlerinden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Grup Çalışması",
+          "images": [],
+          "text_ar": "العمل الجماعي"
+        },
+        {
+          "letter": "B",
+          "text": "Aile Çalışmaları",
+          "images": [],
+          "text_ar": "العمل مع الأسرة"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel Destek Bileşeni",
+          "images": [],
+          "text_ar": "مكوّن الدعم المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Krize Müdahale",
+          "images": [],
+          "text_ar": "التدخل في الأزمات"
+        },
+        {
+          "letter": "E",
+          "text": "Bireysel Danışmanlık",
+          "images": [],
+          "text_ar": "الإرشاد الفردي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من مكونات برنامج دعم الطفل ANKA؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Sosyal Hizmet Merkezlerinde görev alan sosyal çalışma görevlileri hangi alanlardan mezun olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mühendislik",
+          "images": [],
+          "text_ar": "الهندسة"
+        },
+        {
+          "letter": "B",
+          "text": "Tıp",
+          "images": [],
+          "text_ar": "الطب"
+        },
+        {
+          "letter": "C",
+          "text": "İşletme",
+          "images": [],
+          "text_ar": "إدارة الأعمال"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk Gelişimi",
+          "images": [],
+          "text_ar": "نمو الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Hukuk",
+          "images": [],
+          "text_ar": "القانون"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "من أي التخصصات يمكن أن يكون موظفو العمل الاجتماعي العاملون في مراكز الخدمة الاجتماعية متخرجين؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk Destek Merkezlerinde çocuklara hangi eğitim programı uygulanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ANKA Çocuk Destek Programı",
+          "images": [],
+          "text_ar": "برنامج دعم الطفل ANKA"
+        },
+        {
+          "letter": "B",
+          "text": "DESTEK Çocuk Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج DESTEK لتعليم الأطفال"
+        },
+        {
+          "letter": "C",
+          "text": "FLOORTİME Çocuk Destek Programı",
+          "images": [],
+          "text_ar": "برنامج دعم الطفل فلورتايم"
+        },
+        {
+          "letter": "D",
+          "text": "Montessori Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج مونتيسوري التعليمي"
+        },
+        {
+          "letter": "E",
+          "text": "Terapötik Oyun Destek Programı",
+          "images": [],
+          "text_ar": "برنامج الدعم باللعب العلاجي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي برنامج تعليمي يُطبَّق على الأطفال في مراكز دعم الطفل؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "5babc6de505245cef6c9d65ffd713d5e33af91ce4981db5e1a5dd42f4a478f2e"
+}

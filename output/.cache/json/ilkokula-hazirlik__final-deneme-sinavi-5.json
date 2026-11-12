@@ -1,0 +1,859 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "Final Deneme Sınavı -5",
+  "exam_slug": "final-deneme-sinavi-5",
+  "page_title": "İlkokula Hazırlık Final Deneme Sınavı -5",
+  "source_url": "https://lolonolo.com/2023/09/22/ilkokula-hazirlik-final-deneme-sinavi-5/",
+  "scraped_at": "2026-11-12T16:23:54+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilgisiz aile türünde bulunan ailelerin kaçınılmaları gereken davranışlardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okulun ilk günü kendini güvende hissetmesi",
+          "images": [],
+          "text_ar": "أن يشعر الطفل بالأمان في اليوم الأول من المدرسة"
+        },
+        {
+          "letter": "B",
+          "text": "Aile-çocuk paylaşımının artması",
+          "images": [],
+          "text_ar": "زيادة المشاركة بين الأسرة والطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Okul yerine ailenin daha güvenli olduğunun söylenmesi",
+          "images": [],
+          "text_ar": "أن يُقال للطفل إن الأسرة أكثر أمانًا من المدرسة"
+        },
+        {
+          "letter": "D",
+          "text": "Okuldaki problemlerin doğal olduğunun söylenmesi",
+          "images": [],
+          "text_ar": "أن يُقال للطفل إن المشكلات في المدرسة أمر طبيعي"
+        },
+        {
+          "letter": "E",
+          "text": "Problemlerin sevgi ve iş birliği ile çözüleceğinin söylenmesi",
+          "images": [],
+          "text_ar": "أن يُقال للطفل إن المشكلات تُحل بالحب والتعاون"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من السلوكيات التي ينبغي أن تتجنبها الأسر من النوع غير المبالية؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum programında “çocuğu merkeze alma” sürecinde hazırlanacak etkinliklerde, öğretmenin aşağıdaki sorulardan hangisine cevap verecek nitelikte etkinlik hazırlaması beklenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu etkinlikle sınıfımdaki her çocuğa yarar sağlamalı mıyım?",
+          "images": [],
+          "text_ar": "هل ينبغي أن أضمن استفادة كل طفل في صفي من هذا النشاط؟"
+        },
+        {
+          "letter": "B",
+          "text": "Bu etkinlikle hangi çocukların yarar sağlaması için özel çaba göstermeliyim?",
+          "images": [],
+          "text_ar": "ما الأطفال الذين ينبغي أن أبذل جهدًا خاصًا لضمان استفادتهم من هذا النشاط؟"
+        },
+        {
+          "letter": "C",
+          "text": "Bu etkinlikle çocukların hangi gereksinimleri karşılanır?",
+          "images": [],
+          "text_ar": "ما احتياجات الأطفال التي يلبيها هذا النشاط؟"
+        },
+        {
+          "letter": "D",
+          "text": "Bu etkinlikle hangi çocuklar yarar sağlar?",
+          "images": [],
+          "text_ar": "أي الأطفال يستفيدون من هذا النشاط؟"
+        },
+        {
+          "letter": "E",
+          "text": "Bu etkinlikle çocuklar için hangi yöntem-teknikleri seçsem daha yararlı olur?",
+          "images": [],
+          "text_ar": "ما الأساليب والتقنيات التي لو اخترتها لهذا النشاط لكانت أكثر فائدة للأطفال؟"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في الأنشطة التي ستُعدّ في عملية «جعل الطفل في المركز» ضمن برنامج التكيف مع المدرسة، لا يُتوقع من المعلم أن يعدّ نشاطًا يجيب عن أي من الأسئلة التالية؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum programlarının dayandığı ekolojik sistemler kuramı içinde aşağıdakilerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ekzosistem",
+          "images": [],
+          "text_ar": "النظام الخارجي"
+        },
+        {
+          "letter": "B",
+          "text": "Koronosistem",
+          "images": [],
+          "text_ar": "النظام الزمني"
+        },
+        {
+          "letter": "C",
+          "text": "Mezosistem",
+          "images": [],
+          "text_ar": "النظام الوسيط"
+        },
+        {
+          "letter": "D",
+          "text": "Mikrosistem",
+          "images": [],
+          "text_ar": "النظام المصغر"
+        },
+        {
+          "letter": "E",
+          "text": "Atmosistem",
+          "images": [],
+          "text_ar": "النظام الجوي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن نظرية النظم البيئية التي تستند إليها برامج التكيف مع المدرسة؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi okula hazır ailenin özellikleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun özgüven kazanacağı ortamı yaratan",
+          "images": [],
+          "text_ar": "تُهيّئ بيئة يكتسب فيها الطفل الثقة بالنفس"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun gelişim özelliklerini bilen",
+          "images": [],
+          "text_ar": "تعرف خصائص نمو الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Eğitim kurumunun önemini bilen",
+          "images": [],
+          "text_ar": "تدرك أهمية المؤسسة التعليمية"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun karşılaşabileceği her tür uyarıcıyı çevreden kaldıran",
+          "images": [],
+          "text_ar": "تُزيل من المحيط كل أنواع المثيرات التي قد يواجهها الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Eğitim kurumuyla iş birliği kuran",
+          "images": [],
+          "text_ar": "تُقيم تعاونًا مع المؤسسة التعليمية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الخيارات الآتية لا يندرج ضمن خصائص الأسرة الجاهزة للمدرسة؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi ilkokul 1. sınıf uyum programı sonunda, öğrencilerin edinebileceği kazanımlar arasında yer alamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bölme ve çarpmayı öğrenir.",
+          "images": [],
+          "text_ar": "يتعلم القسمة والضرب."
+        },
+        {
+          "letter": "B",
+          "text": "Hece ve kelimeleri öğrenir.",
+          "images": [],
+          "text_ar": "يتعلم المقاطع والكلمات."
+        },
+        {
+          "letter": "C",
+          "text": "Kendisini ve ailesini tanır.",
+          "images": [],
+          "text_ar": "يتعرف نفسه وأسرته."
+        },
+        {
+          "letter": "D",
+          "text": "Doğayı, bitki ve hayvanları gözlemler.",
+          "images": [],
+          "text_ar": "يلاحظ الطبيعة والنباتات والحيوانات."
+        },
+        {
+          "letter": "E",
+          "text": "Planlama yapabilir.",
+          "images": [],
+          "text_ar": "يستطيع التخطيط."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي الخيارات الآتية لا يندرج ضمن مخرجات التعلم التي يمكن أن يحققها الطلاب في نهاية برنامج التكيف للصف الأول الابتدائي؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşırı hoşgörülü aile türlerinde yetişen çocuklarda sık görülen davranışlardan biri aşağıdakilerden hangisi olamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Saldırgan davranışlar",
+          "images": [],
+          "text_ar": "السلوكيات العدوانية"
+        },
+        {
+          "letter": "B",
+          "text": "Kurallara uymama",
+          "images": [],
+          "text_ar": "عدم الالتزام بالقواعد"
+        },
+        {
+          "letter": "C",
+          "text": "Şımarık olma",
+          "images": [],
+          "text_ar": "التدلل"
+        },
+        {
+          "letter": "D",
+          "text": "Arkadaşlarıyla sağlıklı ilişkiler kurmama",
+          "images": [],
+          "text_ar": "عدم إقامة علاقات صحية مع الأصدقاء"
+        },
+        {
+          "letter": "E",
+          "text": "Paylaşma ve iş birliğine yatkınlık",
+          "images": [],
+          "text_ar": "الميل إلى المشاركة والتعاون"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يمكن أن يكون من السلوكيات الشائعة عند الأطفال الذين ينشؤون في أسر متسامحة مفرطة؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde ilkokula hazırbulunuşluk geliştirilirken dikkate alınan aile etkileşim tipleri bir arada ve doğru biçimde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uyumlu, bağımlı, otoriter",
+          "images": [],
+          "text_ar": "المتناغمة، التابعة، السلطوية"
+        },
+        {
+          "letter": "B",
+          "text": "Otoriter, ağ gibi saran, bağımsız",
+          "images": [],
+          "text_ar": "السلطوية، المتشابكة، المستقلة"
+        },
+        {
+          "letter": "C",
+          "text": "Demokratik, ağ gibi saran, bağımsız",
+          "images": [],
+          "text_ar": "الديمقراطية، المتشابكة، المستقلة"
+        },
+        {
+          "letter": "D",
+          "text": "Uyumsuz, bağımlı, ağ gibi saran",
+          "images": [],
+          "text_ar": "غير المتناغمة، التابعة، المتشابكة"
+        },
+        {
+          "letter": "E",
+          "text": "Uyumlu, bağımsız, ağ gibi saran",
+          "images": [],
+          "text_ar": "المتناغمة، المستقلة، المتشابكة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي الخيارات الآتية يرد فيها أنماط التفاعل الأسري التي تُراعى عند تنمية الاستعداد للمدرسة الابتدائية مجتمعةً وعلى نحو صحيح؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki bölümlerden hangisi “Metropolitan Okul Olgunluğu” testine ait bölümlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Cümleler",
+          "images": [],
+          "text_ar": "الجمل"
+        },
+        {
+          "letter": "B",
+          "text": "Eşleştirme",
+          "images": [],
+          "text_ar": "المطابقة"
+        },
+        {
+          "letter": "C",
+          "text": "Sayılar",
+          "images": [],
+          "text_ar": "الأعداد"
+        },
+        {
+          "letter": "D",
+          "text": "Harfler",
+          "images": [],
+          "text_ar": "الحروف"
+        },
+        {
+          "letter": "E",
+          "text": "Kelime anlama",
+          "images": [],
+          "text_ar": "فهم الكلمات"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الأقسام الآتية ليس من أقسام اختبار ميتروبوليتان للنضج المدرسي؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi aşırı hoşgörülü ebeveynlik sergileyen ailelerin yapması gereken davranışlardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun her dediğinin yapılması",
+          "images": [],
+          "text_ar": "تنفيذ كل ما يطلبه الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Toplumda belli kuralların olduğunun hatırlatılması",
+          "images": [],
+          "text_ar": "التذكير بأن في المجتمع قواعد معينة"
+        },
+        {
+          "letter": "C",
+          "text": "Arkadaşlarının her dediğini yapmalarının söylenmesi",
+          "images": [],
+          "text_ar": "أن يُقال للطفل إن عليه تنفيذ كل ما يقوله أصدقاؤه"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun öfkeyle baş etmesine yardım edilmesi",
+          "images": [],
+          "text_ar": "مساعدة الطفل على التعامل مع الغضب"
+        },
+        {
+          "letter": "E",
+          "text": "Öğretmen ve arkadaşlarına saygılı olmasının söylenmesi",
+          "images": [],
+          "text_ar": "أن يُقال للطفل إن عليه أن يكون محترمًا لمعلمه وأصدقائه"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من السلوكيات التي ينبغي أن تقوم بها الأسر التي تتبع نمط الوالدية المتسامحة المفرطة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki hazırbulunuşluğu değerlendirme tekniklerinden hangisi “Test Dışı Teknikler” arasında yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlkokula hazırbulunuşluk ölçeği",
+          "images": [],
+          "text_ar": "مقياس الاستعداد للمدرسة الابتدائية"
+        },
+        {
+          "letter": "B",
+          "text": "Marmara ilköğretime hazırbulunuşluk ölçeği",
+          "images": [],
+          "text_ar": "مقياس مرمرة للاستعداد للتعليم الابتدائي"
+        },
+        {
+          "letter": "C",
+          "text": "Mülakat ve anketler",
+          "images": [],
+          "text_ar": "المقابلات والاستبيانات"
+        },
+        {
+          "letter": "D",
+          "text": "Erken okuryazarlık becerilerini değerlendirme",
+          "images": [],
+          "text_ar": "تقييم مهارات القراءة والكتابة المبكرة"
+        },
+        {
+          "letter": "E",
+          "text": "Metropolitan okul olgunluğu testi",
+          "images": [],
+          "text_ar": "اختبار ميتروبوليتان للنضج المدرسي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي تقنيات تقييم الاستعداد الآتية يندرج ضمن «التقنيات غير الاختبارية»؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Hazırbulunuşluğu değerlendirmede kullanılabilen alternatif değerlendirme yöntemleri aşağıdaki seçeneklerden hangisi gibi sınıflandırılmaktadı",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gözleme dayalı",
+          "images": [],
+          "text_ar": "القائمة على الملاحظة"
+        },
+        {
+          "letter": "B",
+          "text": "Testlere dayalı ve anketlere dayalı",
+          "images": [],
+          "text_ar": "القائمة على الاختبارات والقائمة على الاستبيانات"
+        },
+        {
+          "letter": "C",
+          "text": "Ölçmeye dayalı ve ölçmeye dayalı olmayan",
+          "images": [],
+          "text_ar": "القائمة على القياس وغير القائمة على القياس"
+        },
+        {
+          "letter": "D",
+          "text": "Ölçmeye dayalı ve gözleme dayalı",
+          "images": [],
+          "text_ar": "القائمة على القياس والقائمة على الملاحظة"
+        },
+        {
+          "letter": "E",
+          "text": "Test dışı ve test içi",
+          "images": [],
+          "text_ar": "خارج الاختبار وداخل الاختبار"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "كيف تُصنَّف أساليب التقييم البديلة التي يمكن استخدامها في تقييم الاستعداد وفق أي من الخيارات الآتية؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okul öncesinden ilkokula geçişte hazırbulunuşluk açısından değerlendirilebilecek temel becerilerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun yeni şeyler öğrenmede meraklı olması",
+          "images": [],
+          "text_ar": "أن يكون الطفل فضوليًا في تعلم أشياء جديدة"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun ihtiyaçlarını ifade edecek dil becerilerine sahip olması",
+          "images": [],
+          "text_ar": "أن يمتلك مهارات لغوية تعبّر عن احتياجاته"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun öz güvenli olması",
+          "images": [],
+          "text_ar": "أن يكون واثقًا بنفسه"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun ödevlerini annesiyle yapması",
+          "images": [],
+          "text_ar": "أن يقوم بواجباته مع أمه"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun öz bakım becerisine sahip olması",
+          "images": [],
+          "text_ar": "أن يمتلك مهارات العناية بالذات"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من المهارات الأساسية التي يمكن تقييمها من حيث الاستعداد في الانتقال من مرحلة ما قبل المدرسة إلى المدرسة الابتدائية؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Okul öncesi ilkokula hazırbulunuşlukta erken çocukluk eğitim programının içeriğinde aşağıdaki seçeneklerdeki yönlerden hangisi yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil yönü",
+          "images": [],
+          "text_ar": "الجانب اللغوي"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyo-ekonomik yön",
+          "images": [],
+          "text_ar": "الجانب الاجتماعي-الاقتصادي"
+        },
+        {
+          "letter": "C",
+          "text": "Akademik yön",
+          "images": [],
+          "text_ar": "الجانب الأكاديمي"
+        },
+        {
+          "letter": "D",
+          "text": "Okuryazarlık yönü",
+          "images": [],
+          "text_ar": "جانب القراءة والكتابة"
+        },
+        {
+          "letter": "E",
+          "text": "Bilişsel yön",
+          "images": [],
+          "text_ar": "الجانب المعرفي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي الجوانب الآتية لا يندرج ضمن محتوى برنامج تعليم الطفولة المبكرة في الاستعداد للمدرسة الابتدائية في مرحلة ما قبل المدرسة؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukta hazırbulunuşluğu etkileyen etmenlerden birisi olamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Biyolojik etmenler",
+          "images": [],
+          "text_ar": "العوامل البيولوجية"
+        },
+        {
+          "letter": "B",
+          "text": "Duygusal etmenler",
+          "images": [],
+          "text_ar": "العوامل العاطفية"
+        },
+        {
+          "letter": "C",
+          "text": "Çevresel etmenler",
+          "images": [],
+          "text_ar": "العوامل البيئية"
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel etmenler",
+          "images": [],
+          "text_ar": "العوامل المعرفية"
+        },
+        {
+          "letter": "E",
+          "text": "Öz düzenleyici etmenler",
+          "images": [],
+          "text_ar": "العوامل التنظيمية الذاتية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يمكن أن يكون من العوامل المؤثرة في استعداد الطفل؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun gelişim ve eğitiminde yer alan fonksiyonlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sevgi",
+          "images": [],
+          "text_ar": "المحبة"
+        },
+        {
+          "letter": "B",
+          "text": "Fizyolojik",
+          "images": [],
+          "text_ar": "الفسيولوجية"
+        },
+        {
+          "letter": "C",
+          "text": "Ekonomik",
+          "images": [],
+          "text_ar": "الاقتصادية"
+        },
+        {
+          "letter": "D",
+          "text": "Sosyalleştirme",
+          "images": [],
+          "text_ar": "التنشئة الاجتماعية"
+        },
+        {
+          "letter": "E",
+          "text": "Biyolojik",
+          "images": [],
+          "text_ar": "البيولوجية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من الوظائف الموجودة في نمو الطفل وتعليمه؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “Stanley Hall” ve “Arnold Gess” tarafından ortaya atılan hazırbulunuşluğu değerlendiren görüştür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olgunlaşmacı görüş",
+          "images": [],
+          "text_ar": "الرأي النضجي"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal yapılandırmacı görüş",
+          "images": [],
+          "text_ar": "الرأي البنائي الاجتماعي"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişselci görüş",
+          "images": [],
+          "text_ar": "الرأي المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Etkileşimci görüş",
+          "images": [],
+          "text_ar": "الرأي التفاعلي"
+        },
+        {
+          "letter": "E",
+          "text": "Çevreselci görüş",
+          "images": [],
+          "text_ar": "الرأي البيئي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي هو الرأي الذي طرحه ستانلي هول وأرنولد جيس في تقييم الاستعداد؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Hazırbulunuşluğun değerlendirilmesi sürecinde temel alınması gereken ilkelerden biri aşağıdaki seçeneklerden hangisinde yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikolojik özelliklerin belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد الخصائص النفسية"
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirme kriterlerinin belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد معايير التقييم"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa ait ölçülmesi gereken özelliklerin belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد الخصائص التي ينبغي قياسها لدى الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Gözlemin hangi araçlarla yapılacağının belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد الأدوات التي تُجرى بها الملاحظة"
+        },
+        {
+          "letter": "E",
+          "text": "Gözlemin kim tarafından yapılacağının belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد من يُجري الملاحظة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي الخيارات الآتية لا يتضمن أحد المبادئ التي ينبغي أن يُستند إليها في عملية تقييم الاستعداد؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde, çocuğun okula uyumunda yer alan boyutlar bir arada ve doğru biçimde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hazır çocuk ve hazır okul",
+          "images": [],
+          "text_ar": "طفل جاهز ومدرسة جاهزة"
+        },
+        {
+          "letter": "B",
+          "text": "Hazır müdür, hazır çocuk, hazır aile",
+          "images": [],
+          "text_ar": "مدير جاهز وطفل جاهز وأسرة جاهزة"
+        },
+        {
+          "letter": "C",
+          "text": "Hazır müdür ve hazır aile",
+          "images": [],
+          "text_ar": "مدير جاهز وأسرة جاهزة"
+        },
+        {
+          "letter": "D",
+          "text": "Hazır aile, hazır çocuk, hazır okul",
+          "images": [],
+          "text_ar": "أسرة جاهزة وطفل جاهز ومدرسة جاهزة"
+        },
+        {
+          "letter": "E",
+          "text": "Hazır aile ve hazır çocuk",
+          "images": [],
+          "text_ar": "أسرة جاهزة وطفل جاهز"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الخيارات الآتية يرد فيها مجتمعةً وعلى نحو صحيح أبعاد تكيف الطفل مع المدرسة؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okula hazırbulunuşluğu etkileyen faktörlerden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zekâ düzeyi",
+          "images": [],
+          "text_ar": "مستوى الذكاء"
+        },
+        {
+          "letter": "B",
+          "text": "Dil becerileri",
+          "images": [],
+          "text_ar": "المهارات اللغوية"
+        },
+        {
+          "letter": "C",
+          "text": "Ebeveyn-çocuk ilişkisi",
+          "images": [],
+          "text_ar": "علاقة الوالدين بالطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Öğretmen-çocuk ilişkisi",
+          "images": [],
+          "text_ar": "علاقة المعلم بالطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Akran-çocuk ilişkisi",
+          "images": [],
+          "text_ar": "علاقة الأقران بالطفل"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من العوامل المؤثرة في الاستعداد للمدرسة؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi ilkokula hazırlık sürecinde çocuklardaki temel gelişimsel özelliklerden “olgunlaşmanın” içinde yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öz bakım becerileri",
+          "images": [],
+          "text_ar": "مهارات العناية بالذات"
+        },
+        {
+          "letter": "B",
+          "text": "Okuma-yazma becerileri",
+          "images": [],
+          "text_ar": "مهارات القراءة والكتابة"
+        },
+        {
+          "letter": "C",
+          "text": "Bedensel gelişim",
+          "images": [],
+          "text_ar": "النمو الجسدي"
+        },
+        {
+          "letter": "D",
+          "text": "Kağıt kesebilme becerileri",
+          "images": [],
+          "text_ar": "مهارات قص الورق"
+        },
+        {
+          "letter": "E",
+          "text": "İnce ve kalın kas kullanma becerileri",
+          "images": [],
+          "text_ar": "مهارات استخدام العضلات الدقيقة والغليظة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي الخيارات الآتية لا يندرج ضمن «النضج» من الخصائص النمائية الأساسية عند الأطفال في عملية الاستعداد للمدرسة الابتدائية؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "9ca86c2282d09e3408132af91772ab5fe73cab618add0f9aefe76a2f6ba640de"
+}

@@ -3,7 +3,7 @@ course: ÇOCUK GELİŞİMİ UYGULAMALARI I
 exam: Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -4
 source_url: https://lolonolo.com/2023/09/28/cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-4/
 question_count: 20
-scraped_at: 2026-11-12T15:00:49+03:00
+scraped_at: 2026-11-12T16:23:40+03:00
 ---
 
 ### Q1

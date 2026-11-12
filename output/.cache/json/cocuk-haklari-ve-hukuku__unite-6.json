@@ -1,0 +1,433 @@
+{
+  "course": "ÇOCUK HAKLARI VE HUKUKU",
+  "course_slug": "cocuk-haklari-ve-hukuku",
+  "exam": "Ünite 6",
+  "exam_slug": "unite-6",
+  "page_title": "Çocuk Hakları ve Hukuku Ünite 6",
+  "source_url": "https://lolonolo.com/2022/11/13/cocuk-haklari-ve-hukuku-unite-6/",
+  "scraped_at": "2026-11-12T16:23:49+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Bay A aşağıdakilerden hangisine yardım nafakası vermekle yükümlü değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kardeşine",
+          "images": [],
+          "text_ar": "أخيه"
+        },
+        {
+          "letter": "B",
+          "text": "Babasına",
+          "images": [],
+          "text_ar": "أبيه"
+        },
+        {
+          "letter": "C",
+          "text": "Annesinin dedesine",
+          "images": [],
+          "text_ar": "جدّ أمه"
+        },
+        {
+          "letter": "D",
+          "text": "Kuzeninin eşine",
+          "images": [],
+          "text_ar": "زوج قريبه"
+        },
+        {
+          "letter": "E",
+          "text": "Torununa",
+          "images": [],
+          "text_ar": "حفيده"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من الأشخاص الآتيين لا يلتزم السيد A بدفع نفقة إعانة له؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Vesayet altında olan ve ayırt etme gücü de bulunmayan Bayan F’nin şehirde dolaşırken bir operatör mağazasından 3.000 liralık telefon alması durumunda, satış işleminin geçerliliği için aşağıdakilerden hangisi söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Satış işlemi geçerlidir. Çünkü sözleşmenin karşı tarafı Bayan F’nin akıl hastası olduğunu bilmemektedir.",
+          "images": [],
+          "text_ar": "عملية البيع صحيحة؛ لأن الطرف الآخر في العقد لا يعلم أن السيدة F مريضة عقليًا."
+        },
+        {
+          "letter": "B",
+          "text": "Satış işlemi geçerlidir. Çünkü Bayan F’nin maddi durumuna nazaran yaptığı alışveriş makul bir harcamadır.",
+          "images": [],
+          "text_ar": "عملية البيع صحيحة؛ لأن ما أنفقته السيدة F بالنظر إلى حالتها المادية يُعد إنفاقًا معقولًا."
+        },
+        {
+          "letter": "C",
+          "text": "Satış işleminin sonuç doğurması mümkün değildir. Zira Bayan F tam ehliyetsizdir.",
+          "images": [],
+          "text_ar": "لا يمكن أن تُنتج عملية البيع أثرًا؛ لأن السيدة F عديمة الأهلية تمامًا."
+        },
+        {
+          "letter": "D",
+          "text": "Satış işlemi geçerlidir. Çünkü Bayan F bu telefonu yüzde elli indirimli fiyat üzerinden almıştır.",
+          "images": [],
+          "text_ar": "عملية البيع صحيحة؛ لأن السيدة F اشترت هذا الهاتف بخصم خمسين بالمئة."
+        },
+        {
+          "letter": "E",
+          "text": "Satış işlemi yüzde elli indirimli fiyat üzerinden yapılmış olduğu için askıda hükümüzdür. Veli veya vasisinin rızasına göre geçerli olur ya da olmaz.",
+          "images": [],
+          "text_ar": "عملية البيع موقوفة الحكم لأنها جرت بخصم خمسين بالمئة؛ فتكون صحيحة أو غير صحيحة بحسب رضا وليّها أو وصيّها."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "في حال قيام السيدة F، الخاضعة للوصاية والفاقدة لقوة التمييز، بشراء هاتف بـ 3.000 ليرة من متجر لمشغل الهاتف أثناء تجولها في المدينة، أي مما يلي يمكن قوله بشأن صحة عملية البيع؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Ahlaka aykırı bir yaşam süren eşinden bu yüzden ayrılan Bayan C maddi yönden sıkıntı içerisinde kalmıştır. Bayan C boşandığı eşinden aşağıdaki istemlerden hangisinde bulunabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tedbir nafakası",
+          "images": [],
+          "text_ar": "النفقة المؤقتة"
+        },
+        {
+          "letter": "B",
+          "text": "Yoksulluk nafakası",
+          "images": [],
+          "text_ar": "نفقة الفقر"
+        },
+        {
+          "letter": "C",
+          "text": "İştirak nafakası",
+          "images": [],
+          "text_ar": "نفقة المشاركة"
+        },
+        {
+          "letter": "D",
+          "text": "Manevi tazminat",
+          "images": [],
+          "text_ar": "تعويض معنوي"
+        },
+        {
+          "letter": "E",
+          "text": "Maddi tazminat",
+          "images": [],
+          "text_ar": "تعويض مادي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "السيدة C التي انفصلت عن زوجها بسبب حياته المنافية للأخلاق، وقعت في ضائقة مادية. أي من الطلبات الآتية يمكن أن تقدمها السيدة C على زوجها المطلق؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Vesayet altında olan Bay B’nin yerleşim yeri neresidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vesayet makamının bulunduğu yer",
+          "images": [],
+          "text_ar": "مكان جهة الوصاية"
+        },
+        {
+          "letter": "B",
+          "text": "Vasinin yerleşim yeri",
+          "images": [],
+          "text_ar": "موطن الوصي"
+        },
+        {
+          "letter": "C",
+          "text": "Vasinin bizzat kendisinin belirlediği yer",
+          "images": [],
+          "text_ar": "المكان الذي يحدده الوصي بنفسه"
+        },
+        {
+          "letter": "D",
+          "text": "Bay B’nin velilerinin yerleşim yeri",
+          "images": [],
+          "text_ar": "موطن وليَّي السيد B"
+        },
+        {
+          "letter": "E",
+          "text": "Bay B’nin bizzat belirlediği yer",
+          "images": [],
+          "text_ar": "المكان الذي يحدده السيد B بنفسه"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما هو موطن السيد B الخاضع للوصاية؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Bay A için aşağıdaki nedenlerden hangisi mahkeme kararıyla kısıtlama sebebi oluşturmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Savurganlık",
+          "images": [],
+          "text_ar": "التبذير"
+        },
+        {
+          "letter": "B",
+          "text": "Alkol ve uyuşturucu madde bağımlılığı",
+          "images": [],
+          "text_ar": "إدمان الكحول والمخدرات"
+        },
+        {
+          "letter": "C",
+          "text": "Kötü yaşama Tarzı",
+          "images": [],
+          "text_ar": "سوء أسلوب الحياة"
+        },
+        {
+          "letter": "D",
+          "text": "Tecrübesizlik",
+          "images": [],
+          "text_ar": "عدم الخبرة"
+        },
+        {
+          "letter": "E",
+          "text": "İsteğe bağlı",
+          "images": [],
+          "text_ar": "الحجر بناءً على طلبه"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من الأسباب الآتية لا يُعد سببًا للحجر بقرار من المحكمة في حق السيد A؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Evliliğin boşanma sebebiyle sona ermesinden doğan dava hakları, boşanma hükmünün kesinleşmesinden itibaren ne kadarlık bir zaman aşımına tabidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6 ay",
+          "images": [],
+          "text_ar": "6 أشهر"
+        },
+        {
+          "letter": "B",
+          "text": "1 yıl",
+          "images": [],
+          "text_ar": "سنة واحدة"
+        },
+        {
+          "letter": "C",
+          "text": "3 yıl",
+          "images": [],
+          "text_ar": "3 سنوات"
+        },
+        {
+          "letter": "D",
+          "text": "10 yıl",
+          "images": [],
+          "text_ar": "10 سنوات"
+        },
+        {
+          "letter": "E",
+          "text": "Süresiz",
+          "images": [],
+          "text_ar": "بلا مدة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما مدة التقادم التي تخضع لها حقوق الدعوى الناشئة عن انتهاء الزواج بسبب الطلاق، ابتداءً من اكتساب حكم الطلاق قوة الأمر المقضي؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki şıklarda belirtilenlerden hangisi belirli bir işin görülmesi için sulh mahkemesi tarafından atanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yasal danışman",
+          "images": [],
+          "text_ar": "المرشد القانوني"
+        },
+        {
+          "letter": "B",
+          "text": "Kayyım",
+          "images": [],
+          "text_ar": "القيّم"
+        },
+        {
+          "letter": "C",
+          "text": "Vasi",
+          "images": [],
+          "text_ar": "الوصي"
+        },
+        {
+          "letter": "D",
+          "text": "Akdi temsilci",
+          "images": [],
+          "text_ar": "الممثل التعاقدي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما ورد في الخيارات الآتية يُعيَّن من قِبَل محكمة الصلح للقيام بعمل معين؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Geçici olup boşanma davalarında boşanma kararı kesinleşinceye kadar geçen sürede ekonomik durumu kötü olan eşin mağdur olmaması için açılacak dava hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tedbir nafakası",
+          "images": [],
+          "text_ar": "النفقة المؤقتة"
+        },
+        {
+          "letter": "B",
+          "text": "Yoksulluk nafakası",
+          "images": [],
+          "text_ar": "نفقة الفقر"
+        },
+        {
+          "letter": "C",
+          "text": "İştirak nafakası",
+          "images": [],
+          "text_ar": "نفقة المشاركة"
+        },
+        {
+          "letter": "D",
+          "text": "Manevi tazminat",
+          "images": [],
+          "text_ar": "تعويض معنوي"
+        },
+        {
+          "letter": "E",
+          "text": "Maddi tazminat",
+          "images": [],
+          "text_ar": "تعويض مادي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما الدعوى المؤقتة التي تُرفع في دعاوى الطلاق حتى يصبح حكم الطلاق نهائيًا، لكي لا يتضرر الزوج ذو الحالة الاقتصادية السيئة؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi vasinin izni ile yapılabilecek işlemlerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kefil olmak",
+          "images": [],
+          "text_ar": "أن يكون كفيلًا"
+        },
+        {
+          "letter": "B",
+          "text": "Gayrimenkul almak ve satmak",
+          "images": [],
+          "text_ar": "شراء العقارات وبيعها"
+        },
+        {
+          "letter": "C",
+          "text": "Vakıf kurmak",
+          "images": [],
+          "text_ar": "إنشاء وقف"
+        },
+        {
+          "letter": "D",
+          "text": "Önemli bağışlamalarda bulunmak",
+          "images": [],
+          "text_ar": "القيام بتبرعات كبيرة"
+        },
+        {
+          "letter": "E",
+          "text": "Rekabet yasağı anlaşması yapmak",
+          "images": [],
+          "text_ar": "إبرام اتفاق منع المنافسة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي من التصرفات التي يمكن القيام بها بإذن الوصي؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki şıklardan hangisinde hakimin resen karar verebileceği önlemler bulunmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Maddi ve manevi tazminat",
+          "images": [],
+          "text_ar": "التعويض المادي والمعنوي"
+        },
+        {
+          "letter": "B",
+          "text": "Tedbir ve iştirak nafakası",
+          "images": [],
+          "text_ar": "النفقة المؤقتة ونفقة المشاركة"
+        },
+        {
+          "letter": "C",
+          "text": "Yoksulluk nafakası ve maddi - manevi tazminat",
+          "images": [],
+          "text_ar": "نفقة الفقر والتعويض المادي والمعنوي"
+        },
+        {
+          "letter": "D",
+          "text": "Tedbir, iştirak ve yoksulluk nafakası",
+          "images": [],
+          "text_ar": "النفقة المؤقتة ونفقة المشاركة ونفقة الفقر"
+        },
+        {
+          "letter": "E",
+          "text": "İştirak nafakası ve maddi tazminat",
+          "images": [],
+          "text_ar": "نفقة المشاركة والتعويض المادي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من الخيارات الآتية تشمل تدابير يجوز للقاضي أن يحكم بها من تلقاء نفسه؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "abee351036a90dfbadfbd54a5aa5782435f7b934488031fd12f60c5f78b3d1a5"
+}

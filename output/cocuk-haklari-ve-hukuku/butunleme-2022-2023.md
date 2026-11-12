@@ -3,7 +3,7 @@ course: ÇOCUK HAKLARI VE HUKUKU
 exam: 2022-2023 Bütünleme Soruları
 source_url: https://lolonolo.com/2024/02/04/cocuk-haklari-ve-hukuku-2022-2023-butunleme-sorulari/
 question_count: 20
-scraped_at: 2026-11-12T14:58:12+03:00
+scraped_at: 2026-11-12T16:21:25+03:00
 ---
 
 ### Q1

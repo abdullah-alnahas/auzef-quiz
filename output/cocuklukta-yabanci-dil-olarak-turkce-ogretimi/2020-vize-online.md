@@ -3,7 +3,7 @@ course: ÇOCUKLUKTA YABANCI DİL OLARAK TÜRKÇE ÖĞRETİMİ
 exam: 2020 Vize Online
 source_url: https://lolonolo.com/2021/08/11/cocuklukta-yabanci-dil-olarak-turkce-ogretimi-2020-vize-online/
 question_count: 34
-scraped_at: 2026-11-12T15:00:56+03:00
+scraped_at: 2026-11-12T16:23:51+03:00
 ---
 
 ### Q1

@@ -1,0 +1,442 @@
+{
+  "course": "OYUN VE OYUN TERAPİSİ",
+  "course_slug": "oyun-ve-oyun-terapisi",
+  "exam": "Ünite-4",
+  "exam_slug": "unite-4",
+  "page_title": "Oyun ve Oyun Terapisi Ünite-4",
+  "source_url": "https://lolonolo.com/2025/10/02/oyun-ve-oyun-terapisi-unite-4/",
+  "scraped_at": "2026-11-12T16:23:59+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Ray ve Landreth’ e göre ebeveyn danışmanlıklarının amaçları arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ebeveyne destek olmak",
+          "images": [],
+          "text_ar": "دعم الوالدين"
+        },
+        {
+          "letter": "B",
+          "text": "Ebeveynlere bireysel psikolojik danışmanlık hizmeti sunmak",
+          "images": [],
+          "text_ar": "تقديم خدمة إرشاد نفسي فردي للوالدين"
+        },
+        {
+          "letter": "C",
+          "text": "Ebeveyne bilgi ve beceri öğretimi",
+          "images": [],
+          "text_ar": "تعليم الوالدين المعلومات والمهارات"
+        },
+        {
+          "letter": "D",
+          "text": "Terapi sürecinin ilerlemesinin izlenmesi",
+          "images": [],
+          "text_ar": "متابعة تقدم العملية العلاجية"
+        },
+        {
+          "letter": "E",
+          "text": "Terapi ile beraber ebeveynin tutum veya davranışlarının değerlendirilerek değişimini sağlamak",
+          "images": [],
+          "text_ar": "تقييم اتجاهات الوالدين أو سلوكياتهم وإحداث تغيير فيها إلى جانب العلاج"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج، وفقًا لراي ولاندريث، ضمن أهداف الإرشاد الوالدي؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "-1. Uygun alternatifler sunmak\n-2. Çocuğun duygularını ve isteklerini anlamak\n-3. Kararlı bir biçimde sınırı uygulamak\n-4. Sınırı açık ve net şekilde ifade etmek\nSınır koyma aşamaları yukarıda karışık halde verilmiştir. Sınır koyma aşamalarının doğru sıralanmış hali aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2-4-1-3",
+          "images": [],
+          "text_ar": "الترتيب: 2-4-1-3"
+        },
+        {
+          "letter": "B",
+          "text": "4-2-3-1",
+          "images": [],
+          "text_ar": "الترتيب: 4-2-3-1"
+        },
+        {
+          "letter": "C",
+          "text": "2-4-3-1",
+          "images": [],
+          "text_ar": "الترتيب: 2-4-3-1"
+        },
+        {
+          "letter": "D",
+          "text": "4-2-1-3",
+          "images": [],
+          "text_ar": "الترتيب: 4-2-1-3"
+        },
+        {
+          "letter": "E",
+          "text": "3-2-4-1",
+          "images": [],
+          "text_ar": "الترتيب: 3-2-4-1"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "-1. تقديم بدائل مناسبة\n-2. فهم مشاعر الطفل ورغباته\n-3. تطبيق الحد بحزم\n-4. التعبير عن الحد بوضوح وصراحة\nوردت مراحل وضع الحدود أعلاه مبعثرة. أي مما يلي يمثل الترتيب الصحيح لمراحل وضع الحدود؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "-1. Theraplay\n-2. Çocuk Merkezli Oyun Terapisi\n-3. Deneyimsel Oyun Terapisi\n-4. Filial Terapi\nYukarıdakilerden hangisi veya hangileri ebeveynin de terapi sürecine katıldığı oyun terapi türlerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız 1",
+          "images": [],
+          "text_ar": "1 فقط"
+        },
+        {
+          "letter": "B",
+          "text": "1 ve 2",
+          "images": [],
+          "text_ar": "1 و2"
+        },
+        {
+          "letter": "C",
+          "text": "1,2 ve 3",
+          "images": [],
+          "text_ar": "1 و2 و3"
+        },
+        {
+          "letter": "D",
+          "text": "1,3 ve 4",
+          "images": [],
+          "text_ar": "1 و3 و4"
+        },
+        {
+          "letter": "E",
+          "text": "1 ve 4",
+          "images": [],
+          "text_ar": "1 و4"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "-1. ثيرابلاي\n-2. العلاج باللعب المتمركز حول الطفل\n-3. العلاج باللعب الخبراتي\n-4. العلاج الفيليالي\nأي مما ورد أعلاه من أنواع العلاج باللعب التي يشارك فيها الوالد أيضًا في العملية العلاجية؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Filial Terapide ebeveyne öğretilecek temel beceriler arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yapılandırma",
+          "images": [],
+          "text_ar": "البناء التنظيمي"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun Liderliğini Takip Etme",
+          "images": [],
+          "text_ar": "تتبع قيادة الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Oyunu yönlendirme",
+          "images": [],
+          "text_ar": "توجيه اللعب"
+        },
+        {
+          "letter": "D",
+          "text": "Empatik Dinleme",
+          "images": [],
+          "text_ar": "الإنصات التعاطفي"
+        },
+        {
+          "letter": "E",
+          "text": "Sınır Çizme",
+          "images": [],
+          "text_ar": "وضع الحدود"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يندرج ضمن المهارات الأساسية التي تُعلَّم للوالد في العلاج الفيليالي؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuklarda duygu düzenlemesini desteklemek için ebeveynlere verilebilecek öneriler arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun duyguyu tanımlayabilmesine yardımcı olarak duygusunu ifade etmesine izin vermek",
+          "images": [],
+          "text_ar": "مساعدة الطفل على تسمية العاطفة والسماح له بالتعبير عنها"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun yaşamış olduğu duyguya ilişkin eleştiri ve yorumda bulunmak",
+          "images": [],
+          "text_ar": "توجيه النقد والتعليق إلى العاطفة التي عاشها الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Paylaştığı duyguları yansıtmak",
+          "images": [],
+          "text_ar": "عكس المشاعر التي يشاركها"
+        },
+        {
+          "letter": "D",
+          "text": "Ebeveynin duygularını ifade ederek çocuğuna rol model olması",
+          "images": [],
+          "text_ar": "تعبير الوالد عن مشاعره ليكون قدوة لطفله"
+        },
+        {
+          "letter": "E",
+          "text": "Zorlu duygularda yanında olarak sakinleştirici aktiviteler planlamak",
+          "images": [],
+          "text_ar": "البقاء إلى جانبه في المشاعر الصعبة وتخطيط أنشطة مهدّئة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن التوصيات التي يمكن تقديمها للوالدين لدعم تنظيم المشاعر عند الأطفال؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "1. Olumlu benlik algısı oluşturma\n2. Çocuğun sorumluluk almasını ve özerk olma duygusunu destekleyerek özgüven geliştirme\n3. Kendisini kabulüne yardımcı olma\nYukarıdakilerden hangisi veya hangileri çocuk merkezli oyun terapisinin amaçları arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız 1",
+          "images": [],
+          "text_ar": "1 فقط"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız 3",
+          "images": [],
+          "text_ar": "3 فقط"
+        },
+        {
+          "letter": "C",
+          "text": "2 ve 3",
+          "images": [],
+          "text_ar": "2 و3"
+        },
+        {
+          "letter": "D",
+          "text": "1, 2 ve 3",
+          "images": [],
+          "text_ar": "1 و2 و3"
+        },
+        {
+          "letter": "E",
+          "text": "1 ve 2",
+          "images": [],
+          "text_ar": "1 و2"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "1. تكوين إدراك ذاتي إيجابي\n2. تنمية الثقة بالنفس عبر دعم تحمّل الطفل للمسؤولية وشعوره بالاستقلالية\n3. مساعدته على قبول ذاته\nأي مما ورد أعلاه يندرج ضمن أهداف العلاج باللعب المتمركز حول الطفل؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi oyun terapilerinde ebeveynin rolü ilgili doğru bir bilgi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ebeveynden çocuğa dair bilgi almak terapistin kullanacağı müdahalede etkilidir.",
+          "images": [],
+          "text_ar": "الحصول على معلومات من الوالدين عن الطفل يؤثر في التدخل الذي سيستخدمه المعالج."
+        },
+        {
+          "letter": "B",
+          "text": "Ebeveyn çocuğun hayatına dair önemli bir bilgi kaynağıdır.",
+          "images": [],
+          "text_ar": "الوالدان مصدر مهم للمعلومات عن حياة الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Ebeveynlerin de terapi sürecinde anlaşılmaya ve güvende hissetmeye ihtiyacı vardır.",
+          "images": [],
+          "text_ar": "يحتاج الوالدان أيضًا إلى أن يُفهَما وأن يشعرا بالأمان أثناء العملية العلاجية."
+        },
+        {
+          "letter": "D",
+          "text": "Oyun terapilerinde odak nokta çocuk değil ebeveynlerdir.",
+          "images": [],
+          "text_ar": "محور الاهتمام في العلاجات باللعب هو الوالدان لا الطفل."
+        },
+        {
+          "letter": "E",
+          "text": "Ebeveynlerin ihtiyaçları ve ilerleme hızları terapi sürecinde önemsenmelidir.",
+          "images": [],
+          "text_ar": "ينبغي مراعاة احتياجات الوالدين وسرعة تقدمهما في العملية العلاجية."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس معلومة صحيحة عن دور الوالدين في العلاجات باللعب؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki şıklardan hangisinde sırasıyla Ece, Okan ve Ayşe’nin ebeveyn tutumları yer almaktadır?\n● Ece’nin ebeveynleri ona şefkatle destek sunarken güvenliğini sağlamak için gerektiğinde sınırlar koymaktadırlar.\n● Ali evde kendi fikirlerini rahat bir şekilde ifade eder ve ebeveynleri tarafından birey olarak kabul edildiğini hisseder.\n● Okan’ın ebeveynleri çok katı kurallar koymakta ve disipline çok önem vermektedirler. Okan kendi kararlarını vermekte güçlük yaşamaktadır ve çevresiyle ilişkisinde boyun eğen tarafta olmaktadır.\n● Ayşe’nin ebeveynler ona karşı aşırı kontrolcü şekilde davranırlar. Ayşe’nin tüm ihtiyaçlarını kendileri karşılayarak sorumluluk alma ve özerk olma duygusunu engellerler.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Reddedici-Otoriter-Tutarsız",
+          "images": [],
+          "text_ar": "الرافض-السلطوي-المتقلب"
+        },
+        {
+          "letter": "B",
+          "text": "Demokratik-Aşırı Hoşgörülü-Reddedici",
+          "images": [],
+          "text_ar": "الديمقراطي-المتسامح المفرط-الرافض"
+        },
+        {
+          "letter": "C",
+          "text": "Demokratik-Otoriter-Aşırı Korumacı",
+          "images": [],
+          "text_ar": "الديمقراطي-السلطوي-الحمائي المفرط"
+        },
+        {
+          "letter": "D",
+          "text": "Otoriter-Aşırı Korumacı-Reddedici",
+          "images": [],
+          "text_ar": "السلطوي-الحمائي المفرط-الرافض"
+        },
+        {
+          "letter": "E",
+          "text": "Aşırı Hoşgörülü-Aşırı Korumacı-Demokratik",
+          "images": [],
+          "text_ar": "المتسامح المفرط-الحمائي المفرط-الديمقراطي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من الخيارات التالية يعرض بالترتيب الاتجاهات الوالدية لدى Ece وOkan وAyşe؟\n● يقدم والدا Ece لها الدعم بحنان، ويضعان حدودًا عند الحاجة لضمان أمانها.\n● يعبّر Ali في المنزل عن أفكاره بحرية، ويشعر بأن والديه يقبلانه فردًا مستقلًا.\n● يضع والدا Okan قواعد صارمة جدًا ويهتمان بالانضباط اهتمامًا كبيرًا. ويجد Okan صعوبة في اتخاذ قراراته بنفسه، ويكون في علاقاته مع محيطه في الجانب الخاضع.\n● يتعامل والدا Ayşe معها بطريقة مفرطة في التحكم. ويلبيان جميع احتياجاتها بنفسيهما، فيعيقان شعورها بتحمل المسؤولية والاستقلالية.",
+      "review": [
+        "q8.stem: الفقرة الثانية في المصدر تتحدث عن Ali لا عن Ece/Okan/Ayşe، فنُقلت كما وردت."
+      ]
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Temelini bağlanma kuramına dayandıran ilişki odaklı, eğlenceli ve neşeli, fiziksel etkinlikleri barındıran, ebeveynlerin de sürece aktif katılım gösterdiği oyun terapi yöntemi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Filial Terapi",
+          "images": [],
+          "text_ar": "العلاج الفيليالي"
+        },
+        {
+          "letter": "B",
+          "text": "Psikanalitik Oyun Terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب التحليلي النفسي"
+        },
+        {
+          "letter": "C",
+          "text": "Theraplay",
+          "images": [],
+          "text_ar": "ثيرابلاي"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk Merkezli Oyun Terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب المتمركز حول الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Deneyimsel Oyun Terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب الخبراتي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما طريقة العلاج باللعب التي تستند أساسًا إلى نظرية التعلق، وتقوم على العلاقة، وتتضمن المتعة والبهجة والأنشطة الجسدية، ويشارك فيها الوالدان مشاركة نشطة في العملية؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Theraplay’ın temellerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Geçmiş ve gelecek odaklıdır.",
+          "images": [],
+          "text_ar": "يركز على الماضي والمستقبل."
+        },
+        {
+          "letter": "B",
+          "text": "Eğlence ve neşeyi barındırır.",
+          "images": [],
+          "text_ar": "يتضمن المتعة والبهجة."
+        },
+        {
+          "letter": "C",
+          "text": "Yetişkin rehberliğindedir.",
+          "images": [],
+          "text_ar": "يقوم على توجيه شخص بالغ."
+        },
+        {
+          "letter": "D",
+          "text": "Etkileşim odaklıdır.",
+          "images": [],
+          "text_ar": "يقوم على التفاعل."
+        },
+        {
+          "letter": "E",
+          "text": "Sağ beyin ve sosyal gelişim temellidir.",
+          "images": [],
+          "text_ar": "يستند إلى الدماغ الأيمن والنمو الاجتماعي."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من أسس ثيرابلاي؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "6a874fd256058a0b95e7b962e8e2c33dda99409a76a1a90ac7ac0485995d7ac5"
+}

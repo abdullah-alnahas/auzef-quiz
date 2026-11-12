@@ -1,0 +1,859 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Vize Deneme Sınavı -3",
+  "exam_slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-vize-deneme-sinavi-3",
+  "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Vize Deneme Sınavı -3",
+  "source_url": "https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-vize-deneme-sinavi-3/",
+  "scraped_at": "2026-11-12T16:24:02+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme ve değerlendirme konusunda etik çalışan bir uygulayıcı hangisini yapar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yeterli bilgisi olmadığı testleri uygulayarak para kazanır.",
+          "images": [],
+          "text_ar": "يكسب المال بتطبيق اختبارات لا يملك معلومات كافية عنها."
+        },
+        {
+          "letter": "B",
+          "text": "Standarda uygun olmayan uygulamayı sonuç raporunda yazar.",
+          "images": [],
+          "text_ar": "يكتب في تقرير النتيجة التطبيق غير المطابق للمعيار."
+        },
+        {
+          "letter": "C",
+          "text": "Test prosedürü konusunda çocuğa yalan söyler.",
+          "images": [],
+          "text_ar": "يكذب على الطفل بشأن إجراء الاختبار."
+        },
+        {
+          "letter": "D",
+          "text": "Testlerle kafasındaki hipotezi doğrulamaya çalışır.",
+          "images": [],
+          "text_ar": "يحاول تأكيد فرضيته في ذهنه بالاختبارات."
+        },
+        {
+          "letter": "E",
+          "text": "Tecrübesi olmayan testleri seçerek deneyim kazanır.",
+          "images": [],
+          "text_ar": "يكتسب الخبرة باختيار اختبارات لا خبرة له بها."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي يفعله المطبّق الذي يعمل وفق الأخلاقيات في القياس والتقييم؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların dili kullanma becerilerinin sınırlı olması ölçme ve değerlendirmede nasıl bir farklılığa neden olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece çocukla konuşarak karar verilmesini sağlar.",
+          "images": [],
+          "text_ar": "يجعل اتخاذ القرار ممكنًا بالحديث مع الطفل فقط."
+        },
+        {
+          "letter": "B",
+          "text": "Sözel diyalogda dikkatinin kolaylıkla dağılmasına neden olur.",
+          "images": [],
+          "text_ar": "يؤدي إلى سهولة تشتت انتباهه في الحوار اللفظي."
+        },
+        {
+          "letter": "C",
+          "text": "Gürültüsüz bir ortamda çalışılmasını gerektirir.",
+          "images": [],
+          "text_ar": "يقتضي العمل في بيئة خالية من الضوضاء."
+        },
+        {
+          "letter": "D",
+          "text": "Gizliliğe daha çok dikkat edilmesini gerektirir.",
+          "images": [],
+          "text_ar": "يقتضي مزيدًا من الاهتمام بالسرية."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuktan bilgi alınmamasına neden olur.",
+          "images": [],
+          "text_ar": "يؤدي إلى عدم الحصول على معلومات من الطفل."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما نوع الاختلاف الذي تُحدثه محدودية قدرات الأطفال على استخدام اللغة في القياس والتقييم؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Ölçeğin kapsam geçerliği nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçüm aracının ölçmesi amaçlanan değişkeni ve onunla ilişkili özellikleri ölçmesi",
+          "images": [],
+          "text_ar": "أن تقيس أداة القياس المتغير المقصود قياسه والخصائص المرتبطة به"
+        },
+        {
+          "letter": "B",
+          "text": "Ölçüm sonucunun ölçütle kıyaslanması işlemi",
+          "images": [],
+          "text_ar": "عملية مقارنة نتيجة القياس بالمحك"
+        },
+        {
+          "letter": "C",
+          "text": "Ölçüm aracının maddelerinin o konudaki teorik bilgiye uygun bir yapı oluşturması",
+          "images": [],
+          "text_ar": "أن تشكّل فقرات أداة القياس بنية مطابقة للمعرفة النظرية في الموضوع"
+        },
+        {
+          "letter": "D",
+          "text": "Ölçüm aracının maddelerinin tutarlı bir şekilde aynı değişkeni değerlendirmesi",
+          "images": [],
+          "text_ar": "أن تقيّم فقرات أداة القياس المتغير نفسه على نحو متسق"
+        },
+        {
+          "letter": "E",
+          "text": "Ölçüm aracının farklı değerlendiricilerde tutarlı bir şekilde benzer sonuçlar vermesi",
+          "images": [],
+          "text_ar": "أن تعطي أداة القياس نتائج متشابهة على نحو متسق لدى مصححين مختلفين"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما صدق المحتوى للمقياس؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bir ölçüm aracının geçerliğinin hesaplanmasında kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İç tutarlılık",
+          "images": [],
+          "text_ar": "الاتساق الداخلي"
+        },
+        {
+          "letter": "B",
+          "text": "Yüzdelik normlar",
+          "images": [],
+          "text_ar": "المعايير المئينية"
+        },
+        {
+          "letter": "C",
+          "text": "Farklı zamanlarda uygulanan test sonuçlarının karşılaştırılması",
+          "images": [],
+          "text_ar": "مقارنة نتائج الاختبارات المطبقة في أوقات مختلفة"
+        },
+        {
+          "letter": "D",
+          "text": "Paralel formlar",
+          "images": [],
+          "text_ar": "الصور الموازية"
+        },
+        {
+          "letter": "E",
+          "text": "Faktör analizi",
+          "images": [],
+          "text_ar": "تحليل العوامل"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي يُستخدم في حساب صدق أداة القياس؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçme ve değerlendirme yaptıran kişinin haklarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilgilendirilme hakkı",
+          "images": [],
+          "text_ar": "الحق في الحصول على المعلومات"
+        },
+        {
+          "letter": "B",
+          "text": "Gizlilik hakkı",
+          "images": [],
+          "text_ar": "الحق في السرية"
+        },
+        {
+          "letter": "C",
+          "text": "Saygılı hizmet alma hakkı",
+          "images": [],
+          "text_ar": "الحق في الحصول على خدمة محترمة"
+        },
+        {
+          "letter": "D",
+          "text": "Test geliştirme hakkı",
+          "images": [],
+          "text_ar": "الحق في تطوير الاختبار"
+        },
+        {
+          "letter": "E",
+          "text": "Yeterli hizmet alma hakkı",
+          "images": [],
+          "text_ar": "الحق في الحصول على خدمة كافية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من حقوق الشخص الذي يُجرى له القياس والتقييم؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Norm dayanaklı test ve değerleme nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Testin farklı ölçümlerde aynı sonucu vermesidir.",
+          "images": [],
+          "text_ar": "أن يعطي الاختبار النتيجة نفسها في قياسات مختلفة."
+        },
+        {
+          "letter": "B",
+          "text": "Test sonuçlarının kolay yorumlanmasıdır.",
+          "images": [],
+          "text_ar": "سهولة تفسير نتائج الاختبار."
+        },
+        {
+          "letter": "C",
+          "text": "Bireysel puanların norm grubuyla kıyaslanarak anlam çıkarılmasıdır.",
+          "images": [],
+          "text_ar": "استخلاص المعنى بمقارنة الدرجات الفردية بالمجموعة المعيارية."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçüm sonuçlarında hataya rastlanmamasıdır.",
+          "images": [],
+          "text_ar": "عدم ورود خطأ في نتائج القياس."
+        },
+        {
+          "letter": "E",
+          "text": "Ölçek sonuçlarının uzmanın görüşüne başvurarak yorumlanmasıdır.",
+          "images": [],
+          "text_ar": "تفسير نتائج المقياس بالرجوع إلى رأي الخبير."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما المقصود بالاختبار والتقييم المستندين إلى المعايير؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Belirtke tablosu hangi amaçla kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kapsam geçerliği",
+          "images": [],
+          "text_ar": "صدق المحتوى"
+        },
+        {
+          "letter": "B",
+          "text": "Ölçüt geçerliği",
+          "images": [],
+          "text_ar": "صدق المحك"
+        },
+        {
+          "letter": "C",
+          "text": "Paralel form tutarlılığı",
+          "images": [],
+          "text_ar": "اتساق الصور الموازية"
+        },
+        {
+          "letter": "D",
+          "text": "Yapı geçerliği",
+          "images": [],
+          "text_ar": "صدق البناء"
+        },
+        {
+          "letter": "E",
+          "text": "Görünüş geçerliği",
+          "images": [],
+          "text_ar": "الصدق الظاهري"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "لأي غرض يُستخدم جدول المواصفات؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Değerlendirme raporunun içeriği konusunda aileye bilgi verilirken özellikle neye dikkat edilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukla oyun oynamaya",
+          "images": [],
+          "text_ar": "اللعب مع الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Görüşmenin çok kısa tutulmasına",
+          "images": [],
+          "text_ar": "أن تكون المقابلة قصيرة جدًا"
+        },
+        {
+          "letter": "C",
+          "text": "Tüm aile üyelerinin orada olmasına",
+          "images": [],
+          "text_ar": "حضور جميع أفراد الأسرة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukla ilgili olumlu bir dil kullanmaya",
+          "images": [],
+          "text_ar": "استخدام لغة إيجابية بشأن الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Gerçekleri gizlemeye",
+          "images": [],
+          "text_ar": "إخفاء الحقائق"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "إلى ما ينبغي الانتباه إليه بالدرجة الأولى عند تقديم معلومات للأسرة عن محتوى تقرير التقييم؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Okul ortamında arkadaşları ile sorun yaşayan bir çocuğun değerlendirmesinde hangi yöntem öncelikli olarak tercih edilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul gözlemi",
+          "images": [],
+          "text_ar": "الملاحظة المدرسية"
+        },
+        {
+          "letter": "B",
+          "text": "Ebeveyn görüşmesi",
+          "images": [],
+          "text_ar": "مقابلة الوالدين"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa test uygulanması",
+          "images": [],
+          "text_ar": "تطبيق اختبار على الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Arkadaşlarına test uygulanması",
+          "images": [],
+          "text_ar": "تطبيق اختبار على أصدقائه"
+        },
+        {
+          "letter": "E",
+          "text": "Rol oynama yöntemi",
+          "images": [],
+          "text_ar": "أسلوب لعب الأدوار"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في تقييم طفل يعاني مشكلات مع أصدقائه في بيئة المدرسة، أي أسلوب ينبغي تفضيله بالدرجة الأولى؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun değerlendirilmesinde ısınma faaliyeti kullanılmasının sebebi nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun yeni ortam ve kişiye uyum göstermesine yardımcı olmak",
+          "images": [],
+          "text_ar": "مساعدة الطفل على التكيف مع البيئة والشخص الجديدين"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğu mutlu etmek",
+          "images": [],
+          "text_ar": "إسعاد الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Değerlendiricinin dinlenmesi",
+          "images": [],
+          "text_ar": "راحة المُقيِّم"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun ebeveynini etkilemek",
+          "images": [],
+          "text_ar": "التأثير في والدي الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun özgüvenini olumlu etkilemek",
+          "images": [],
+          "text_ar": "التأثير الإيجابي في ثقة الطفل بنفسه"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما سبب استخدام نشاط تهيئة في تقييم الطفل؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Ölçüm öncesi yapılacak işlem hakkında neden bilgi verilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun uygun performans sergilemesi için",
+          "images": [],
+          "text_ar": "ليؤدي الطفل أداءً مناسبًا"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukla arkadaş olmak için",
+          "images": [],
+          "text_ar": "لأن نصادق الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Ölçeğin iç tutarlılığını yükseltmek için",
+          "images": [],
+          "text_ar": "لرفع الاتساق الداخلي للمقياس"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun test sırasında soru sormaması için",
+          "images": [],
+          "text_ar": "لكي لا يطرح الطفل أسئلة أثناء الاختبار"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun psikoloji konusundaki bilgisini artırmak için",
+          "images": [],
+          "text_ar": "لزيادة معرفة الطفل بعلم النفس"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "لماذا ينبغي تقديم معلومات عن الإجراء الذي سيُجرى قبل القياس؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçüm işleminin yapıldığı yerin özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yeterli ışık alması",
+          "images": [],
+          "text_ar": "أن يحصل على ضوء كافٍ"
+        },
+        {
+          "letter": "B",
+          "text": "Sessiz olması",
+          "images": [],
+          "text_ar": "أن يكون هادئًا"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun rahat olabileceği şekilde tasarlanması",
+          "images": [],
+          "text_ar": "أن يكون مصممًا بحيث يكون الطفل مرتاحًا فيه"
+        },
+        {
+          "letter": "D",
+          "text": "Çevrece çocuğun sıkıldıkça oynayacağı oyuncakların olması",
+          "images": [],
+          "text_ar": "أن يحتوي على ألعاب يلعب بها الطفل عندما يملّ"
+        },
+        {
+          "letter": "E",
+          "text": "Havadar olması",
+          "images": [],
+          "text_ar": "أن يكون جيد التهوية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من خصائص المكان الذي تُجرى فيه عملية القياس؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun test sırasında sıkıldığı, esnediği ve teste devam etmek istemediğini söylediği durumda ne yapılabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Annesinden çocuğunu uyarması istenir.",
+          "images": [],
+          "text_ar": "يُطلب من أمه تنبيه طفلها."
+        },
+        {
+          "letter": "B",
+          "text": "Başka bir gün tamamlanmak üzere test ara verilir.",
+          "images": [],
+          "text_ar": "يُوقف الاختبار مؤقتًا لإكماله في يوم آخر."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa testi bitirirse ödül verileceği söylenir.",
+          "images": [],
+          "text_ar": "يُقال للطفل إنه سيُكافأ إذا أكمل الاختبار."
+        },
+        {
+          "letter": "D",
+          "text": "Test bu şekilde tamamlanır.",
+          "images": [],
+          "text_ar": "يُكمل الاختبار على هذه الحال."
+        },
+        {
+          "letter": "E",
+          "text": "Testin çocuğa uygun olmadığına karar verilir.",
+          "images": [],
+          "text_ar": "يُقرر أن الاختبار غير مناسب للطفل."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما الذي يمكن فعله إذا شعر الطفل بالملل أثناء الاختبار وتثاءب وقال إنه لا يريد متابعة الاختبار؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Ölçüm araçları aşağıdakilerden hangi şekilde kullanılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukla ilgili bilgi sahibi olmadan önce",
+          "images": [],
+          "text_ar": "قبل امتلاك معلومات عن الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun durumunu anlamak için tek başına",
+          "images": [],
+          "text_ar": "بمفردها لفهم حالة الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğu iyi tanıyıp sorunu öğrendikten sonra hipotez test etmek amacıyla",
+          "images": [],
+          "text_ar": "بهدف اختبار الفرضية بعد معرفة الطفل جيدًا والتعرّف على المشكلة"
+        },
+        {
+          "letter": "D",
+          "text": "Okulda çocuğun velisine bilgi vermeden",
+          "images": [],
+          "text_ar": "في المدرسة دون إعطاء معلومات لولي أمر الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun ailesi merak ettiği için",
+          "images": [],
+          "text_ar": "لأن أسرة الطفل تشعر بالفضول"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "كيف ينبغي استخدام أدوات القياس؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme hataları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçme hataları ölçüm sonuçlarını etkilemez.",
+          "images": [],
+          "text_ar": "لا تؤثر أخطاء القياس في نتائج القياس."
+        },
+        {
+          "letter": "B",
+          "text": "Doğrudan ölçümler sırasında hatanın kontrol edilmesi zordur.",
+          "images": [],
+          "text_ar": "يسهل ضبط الخطأ أثناء القياسات المباشرة."
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal bilimlerde yapılan ölçümlerde genelde ölçme hatası olmaz.",
+          "images": [],
+          "text_ar": "لا يوجد في العادة خطأ قياس في القياسات التي تُجرى في العلوم الاجتماعية."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçme hatası, iyi bir ölçücünün elinde sıfırlanabilir.",
+          "images": [],
+          "text_ar": "يمكن إلغاء خطأ القياس عند مُقيس جيد."
+        },
+        {
+          "letter": "E",
+          "text": "Ölçme hatası, ölçme aracı ya da ölçülen kişiden kaynaklanabilir.",
+          "images": [],
+          "text_ar": "قد ينشأ خطأ القياس من أداة القياس أو من الشخص الذي يُقاس."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي العبارات التالية صحيح بشأن أخطاء القياس؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçme ve değerlendirme raporu yazılmasının amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yönlendirme sebebine yönelik uygun açıklamalar üretilmesi",
+          "images": [],
+          "text_ar": "إنتاج تفسيرات مناسبة لسبب الإحالة"
+        },
+        {
+          "letter": "B",
+          "text": "Bireyin psikolojik durumunu tanımlanması",
+          "images": [],
+          "text_ar": "وصف الحالة النفسية للفرد"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun güçlü yanlarının belirlenip çözüm için kullanılması",
+          "images": [],
+          "text_ar": "تحديد جوانب قوة الطفل واستخدامها في الحل"
+        },
+        {
+          "letter": "D",
+          "text": "Problemlere yönelik bilimsel olarak kanıtlanmış öneriler sunulması",
+          "images": [],
+          "text_ar": "تقديم توصيات مثبتة علميًا تجاه المشكلات"
+        },
+        {
+          "letter": "E",
+          "text": "Ailenin arzu ettiği şekilde bir içerik üretilmesi.",
+          "images": [],
+          "text_ar": "إنتاج محتوى على النحو الذي ترغبه الأسرة."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أهداف كتابة تقرير القياس والتقييم؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi eşit oranlı ölçeklere örnektir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Likert tipi ölçekler",
+          "images": [],
+          "text_ar": "مقاييس ليكرت"
+        },
+        {
+          "letter": "B",
+          "text": "Hava sıcaklığı",
+          "images": [],
+          "text_ar": "درجة حرارة الهواء"
+        },
+        {
+          "letter": "C",
+          "text": "Cinsiyet",
+          "images": [],
+          "text_ar": "الجنس"
+        },
+        {
+          "letter": "D",
+          "text": "Boy",
+          "images": [],
+          "text_ar": "الطول"
+        },
+        {
+          "letter": "E",
+          "text": "Memnuniyet anketleri",
+          "images": [],
+          "text_ar": "استبيانات الرضا"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي مثال على المقاييس ذات النسب المتساوية؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme ile ilgili aşağıdaki bilgilerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçme, herhangi bir niteliğin belirli kurallara göre sayısal olarak ifade edilme sürecidir.",
+          "images": [],
+          "text_ar": "القياس هو عملية التعبير عن أي صفة تعبيرًا عدديًا وفق قواعد معينة."
+        },
+        {
+          "letter": "B",
+          "text": "Ölçme işlemi, sayarak, sınıflandırarak, derecelendirerek yapılabilir.",
+          "images": [],
+          "text_ar": "يمكن إجراء عملية القياس بالعد والتصنيف والترتيب المتدرج."
+        },
+        {
+          "letter": "C",
+          "text": "Ölçme işleminin amacı ölçüte göre uygun bir karara varmaktır.",
+          "images": [],
+          "text_ar": "هدف عملية القياس هو الوصول إلى قرار مناسب وفق المحك."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçme işlemi bir nitelik ifade etme yöntemi olduğu için objektif olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن تكون عملية القياس موضوعية لأنها طريقة للتعبير عن صفة."
+        },
+        {
+          "letter": "E",
+          "text": "Psikometri, psikolojik ölçme ve değerlendirme bilimidir.",
+          "images": [],
+          "text_ar": "علم القياس النفسي هو علم القياس والتقييم النفسيين."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من المعلومات التالية عن القياس غير صحيح؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Ölçeğin yapı geçerliği için hangi hesaplama yapılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Faktör analizi",
+          "images": [],
+          "text_ar": "تحليل العوامل"
+        },
+        {
+          "letter": "B",
+          "text": "Ölçütle karşılaştırılması",
+          "images": [],
+          "text_ar": "مقارنته بمحك"
+        },
+        {
+          "letter": "C",
+          "text": "İç tutarlık",
+          "images": [],
+          "text_ar": "الاتساق الداخلي"
+        },
+        {
+          "letter": "D",
+          "text": "Test tekrar test skorlarının karşılaştırılması",
+          "images": [],
+          "text_ar": "مقارنة درجات إعادة الاختبار"
+        },
+        {
+          "letter": "E",
+          "text": "Paralel formların karşılaştırılması",
+          "images": [],
+          "text_ar": "مقارنة الصور الموازية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي حساب يُجرى لصدق البناء للمقياس؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi psikolojik değerlendirme raporlarının içeriğini oluşturmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanımlayıcı bilgiler",
+          "images": [],
+          "text_ar": "معلومات تعريفية"
+        },
+        {
+          "letter": "B",
+          "text": "Yüzdelik normlar",
+          "images": [],
+          "text_ar": "المعايير المئينية"
+        },
+        {
+          "letter": "C",
+          "text": "Geçmiş bilgisi",
+          "images": [],
+          "text_ar": "معلومات عن التاريخ"
+        },
+        {
+          "letter": "D",
+          "text": "Özet ve öneriler",
+          "images": [],
+          "text_ar": "الملخص والتوصيات"
+        },
+        {
+          "letter": "E",
+          "text": "Yönlendirme nedeni",
+          "images": [],
+          "text_ar": "سبب الإحالة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يشكّل محتوى تقارير التقييم النفسي؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "7e900d29696117a110883c34db3b3026ba6cd26a4b1bfe85a97976c88c150927"
+}

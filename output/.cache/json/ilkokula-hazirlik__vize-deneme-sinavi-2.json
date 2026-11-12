@@ -1,0 +1,859 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "Vize Deneme Sınavı -2",
+  "exam_slug": "vize-deneme-sinavi-2",
+  "page_title": "İlkokula Hazırlık Vize Deneme Sınavı -2",
+  "source_url": "https://lolonolo.com/2023/09/18/ilkokula-hazirlik-vize-deneme-sinavi-2/",
+  "scraped_at": "2026-11-12T16:23:52+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların erken okuryazarlık yaşantıları kazandığı alanlar arasında aşağıdakilerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile ile tartışma yapma",
+          "images": [],
+          "text_ar": "إجراء مناقشة مع الأسرة"
+        },
+        {
+          "letter": "B",
+          "text": "Toplumsal alışveriş",
+          "images": [],
+          "text_ar": "التبادل الاجتماعي"
+        },
+        {
+          "letter": "C",
+          "text": "Teknoloji",
+          "images": [],
+          "text_ar": "التكنولوجيا"
+        },
+        {
+          "letter": "D",
+          "text": "Masallar",
+          "images": [],
+          "text_ar": "الحكايات"
+        },
+        {
+          "letter": "E",
+          "text": "Tekerlemeler",
+          "images": [],
+          "text_ar": "الأهازيج"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا يندرج ضمن مجالات اكتساب الأطفال خبرات القراءة والكتابة المبكرة؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum programında “çocuğu merkeze alma” sürecinde hazırlanacak etkinliklerde, öğretmenin aşağıdaki sorulardan hangisine cevap verecek nitelikte etkinlik hazırlaması beklenemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu etkinlikle sınıfımdaki her çocuğa yarar sağlamalı mıyım?",
+          "images": [],
+          "text_ar": "هل ينبغي أن أضمن استفادة كل طفل في صفي من هذا النشاط؟"
+        },
+        {
+          "letter": "B",
+          "text": "Bu etkinlikle hangi çocukların yarar sağlaması için özel çaba göstermeliyim?",
+          "images": [],
+          "text_ar": "ما الأطفال الذين ينبغي أن أبذل جهدًا خاصًا لضمان استفادتهم من هذا النشاط؟"
+        },
+        {
+          "letter": "C",
+          "text": "Bu etkinlikle çocukların hangi gereksinimleri karşılanır?",
+          "images": [],
+          "text_ar": "ما احتياجات الأطفال التي يلبيها هذا النشاط؟"
+        },
+        {
+          "letter": "D",
+          "text": "Bu etkinlikle hangi çocuklar yarar sağlar?",
+          "images": [],
+          "text_ar": "أي الأطفال يستفيدون من هذا النشاط؟"
+        },
+        {
+          "letter": "E",
+          "text": "Bu etkinlikle çocuklar için hangi yöntem-teknikleri seçsem daha yararlı olur?",
+          "images": [],
+          "text_ar": "ما الأساليب والتقنيات التي لو اخترتها لهذا النشاط لكانت أكثر فائدة للأطفال؟"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في الأنشطة التي ستُعدّ في عملية «جعل الطفل في المركز» ضمن برنامج التكيف مع المدرسة، لا يُتوقع من المعلم أن يعدّ نشاطًا يجيب عن أي من الأسئلة التالية؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi erken okuryazarlık becerilerinin okul öncesi dönemde edinilmesindeki avantajlardan biri olamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlkokul 1. sınıfta okuma-yazmanın kolaylaşması",
+          "images": [],
+          "text_ar": "تسهّل القراءة والكتابة في الصف الأول من المدرسة الابتدائية"
+        },
+        {
+          "letter": "B",
+          "text": "İlerleyen yıllarda akademik becerilerin olumlu etkilenmesi",
+          "images": [],
+          "text_ar": "تتأثر المهارات الأكاديمية إيجابًا في السنوات اللاحقة"
+        },
+        {
+          "letter": "C",
+          "text": "İlerleyen yıllarda iyi bir okur-yazar olması",
+          "images": [],
+          "text_ar": "أن يصبح قارئًا وكاتبًا جيدًا في السنوات اللاحقة"
+        },
+        {
+          "letter": "D",
+          "text": "Evdeki ve okuldaki kişilerle iyi iletişim kurabilmesi",
+          "images": [],
+          "text_ar": "أن يقيم تواصلًا جيدًا مع الأشخاص في البيت والمدرسة"
+        },
+        {
+          "letter": "E",
+          "text": "Akranlarından önce okuyabildiğinden onlarla tartışma yaşaması",
+          "images": [],
+          "text_ar": "أن يدخل في جدال مع أقرانه لأنه يقرأ قبلهم"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يمكن أن يكون من مزايا اكتساب مهارات القراءة والكتابة المبكرة في مرحلة ما قبل المدرسة؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukta hazırbulunuşluğu değerlendiren kuramlar arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal yapılandırmacı kuram",
+          "images": [],
+          "text_ar": "النظرية البنائية الاجتماعية"
+        },
+        {
+          "letter": "B",
+          "text": "Çevreselci kuram",
+          "images": [],
+          "text_ar": "النظرية البيئية"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişselci kuram",
+          "images": [],
+          "text_ar": "النظرية المعرفية"
+        },
+        {
+          "letter": "D",
+          "text": "Olgunlaşmacı kuram",
+          "images": [],
+          "text_ar": "النظرية النضجية"
+        },
+        {
+          "letter": "E",
+          "text": "Etkileşimci kuram",
+          "images": [],
+          "text_ar": "النظرية التفاعلية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يندرج ضمن النظريات التي تقيّم استعداد الطفل؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi ilkokul 1. sınıf uyum programı sonunda, öğrencilerin edinebileceği kazanımlar arasında yer alamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bölme ve çarpmayı öğrenir.",
+          "images": [],
+          "text_ar": "يتعلم القسمة والضرب."
+        },
+        {
+          "letter": "B",
+          "text": "Hece ve kelimeleri öğrenir.",
+          "images": [],
+          "text_ar": "يتعلم المقاطع والكلمات."
+        },
+        {
+          "letter": "C",
+          "text": "Kendisini ve ailesini tanır.",
+          "images": [],
+          "text_ar": "يتعرف نفسه وأسرته."
+        },
+        {
+          "letter": "D",
+          "text": "Doğayı, bitki ve hayvanları gözlemler.",
+          "images": [],
+          "text_ar": "يلاحظ الطبيعة والنباتات والحيوانات."
+        },
+        {
+          "letter": "E",
+          "text": "Planlama yapabilir.",
+          "images": [],
+          "text_ar": "يستطيع التخطيط."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي الخيارات الآتية لا يندرج ضمن مخرجات التعلم التي يمكن أن يحققها الطلاب في نهاية برنامج التكيف للصف الأول الابتدائي؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Erken okuryazarlık bileşenlerinden yazı ve baskı farkındalığında aşağıdakilerden hangisi öğrenilmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kelimelerin sağdan sola ve yukarıdan aşağıya okunması",
+          "images": [],
+          "text_ar": "قراءة الكلمات من اليمين إلى اليسار ومن الأعلى إلى الأسفل"
+        },
+        {
+          "letter": "B",
+          "text": "Kitabın nasıl tutulacağının öğrenilmesi",
+          "images": [],
+          "text_ar": "تعلم كيفية حمل الكتاب"
+        },
+        {
+          "letter": "C",
+          "text": "Cümlelerin sonunda noktalama işaretlerinin olduğunun öğrenilmesi",
+          "images": [],
+          "text_ar": "تعلم وجود علامات الترقيم في نهاية الجمل"
+        },
+        {
+          "letter": "D",
+          "text": "Kelime ve cümlelerin nasıl oluştuğunun öğrenilmesi",
+          "images": [],
+          "text_ar": "تعلم كيفية تكوّن الكلمات والجمل"
+        },
+        {
+          "letter": "E",
+          "text": "Kitabın dış kapağının olduğunun öğrenilmesi",
+          "images": [],
+          "text_ar": "تعلم أن للكتاب غلافًا خارجيًا"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا يُتعلَّم في الوعي بالكتابة والطباعة، وهو أحد مكونات القراءة والكتابة المبكرة؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi okula hazır ailenin özellikleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun özgüven kazanacağı ortamı yaratan",
+          "images": [],
+          "text_ar": "تُهيّئ بيئة يكتسب فيها الطفل الثقة بالنفس"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun gelişim özelliklerini bilen",
+          "images": [],
+          "text_ar": "تعرف خصائص نمو الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Eğitim kurumunun önemini bilen",
+          "images": [],
+          "text_ar": "تدرك أهمية المؤسسة التعليمية"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun karşılaşabileceği her tür uyarıcıyı çevreden kaldıran",
+          "images": [],
+          "text_ar": "تُزيل من المحيط كل أنواع المثيرات التي قد يواجهها الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Eğitim kurumuyla iş birliği kuran",
+          "images": [],
+          "text_ar": "تُقيم تعاونًا مع المؤسسة التعليمية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الخيارات الآتية لا يندرج ضمن خصائص الأسرة الجاهزة للمدرسة؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "“En genel şekilde çocuğun yeni öğrenmeleri gerçekleştirebilmeleri için kendisinde aranan bilişsel, duyuşsal ve devinişsel yeterliklerdir.” şeklinde tanımlanan kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hazırbulunuşluk",
+          "images": [],
+          "text_ar": "الاستعداد"
+        },
+        {
+          "letter": "B",
+          "text": "Öğrenme",
+          "images": [],
+          "text_ar": "التعلم"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim",
+          "images": [],
+          "text_ar": "النمو"
+        },
+        {
+          "letter": "D",
+          "text": "Büyüme",
+          "images": [],
+          "text_ar": "النمو الجسمي"
+        },
+        {
+          "letter": "E",
+          "text": "Olgunlaşma",
+          "images": [],
+          "text_ar": "النضج"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما المفهوم المعرّف بأنه «الكفايات المعرفية والوجدانية والحركية التي تُطلب في الطفل بصورة عامة ليتمكن من تحقيق تعلمات جديدة»؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Uluslararası erken okuryazarlık değerlendirme araçlarından hangisi “Yazı Bilgisi, Kelime Tanımlama ve Fonolojik Farkındalık” belirlemeye yöneliktir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "PALS",
+          "images": [],
+          "text_ar": "اختبار PALS للقراءة والكتابة المبكرة"
+        },
+        {
+          "letter": "B",
+          "text": "DIBELS",
+          "images": [],
+          "text_ar": "اختبار DIBELS للمهارات المبكرة"
+        },
+        {
+          "letter": "C",
+          "text": "GTRT",
+          "images": [],
+          "text_ar": "اختبار GTRT للقراءة"
+        },
+        {
+          "letter": "D",
+          "text": "TOPEL",
+          "images": [],
+          "text_ar": "اختبار TOPEL للغة والقراءة المبكرة"
+        },
+        {
+          "letter": "E",
+          "text": "PPVT-4",
+          "images": [],
+          "text_ar": "اختبار PPVT-4 للمفردات"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي أدوات التقييم الدولية للقراءة والكتابة المبكرة يهدف إلى تحديد «معرفة الكتابة، وتعريف الكلمات، والوعي الصوتي»؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "İlkokulda ilk okuma yazmaya başlama ve ilerleme aşamasında aşağıdaki aşamalardan hangisi yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Boyama ve çizgi çalışmaları",
+          "images": [],
+          "text_ar": "أعمال التلوين والخطوط"
+        },
+        {
+          "letter": "B",
+          "text": "Metin okuma",
+          "images": [],
+          "text_ar": "قراءة النص"
+        },
+        {
+          "letter": "C",
+          "text": "Harfi okuma ve yazma",
+          "images": [],
+          "text_ar": "قراءة الحرف وكتابته"
+        },
+        {
+          "letter": "D",
+          "text": "Sesi hissetme ve tanıma",
+          "images": [],
+          "text_ar": "الإحساس بالصوت والتعرف عليه"
+        },
+        {
+          "letter": "E",
+          "text": "Harflerden hece oluşturma",
+          "images": [],
+          "text_ar": "تكوين المقاطع من الحروف"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي المراحل الآتية لا يندرج ضمن مرحلة البدء بالقراءة والكتابة الأولى والتقدم فيها في المدرسة الابتدائية؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilkokula hazırlık çalışmalarında yapılabilecek zihinsel çalışmalar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dikkat çalışmaları",
+          "images": [],
+          "text_ar": "تمارين الانتباه"
+        },
+        {
+          "letter": "B",
+          "text": "Kendi duygularını tanıma çalışmaları",
+          "images": [],
+          "text_ar": "تمارين التعرف على مشاعر الطفل نفسه"
+        },
+        {
+          "letter": "C",
+          "text": "Hafıza çalışmaları",
+          "images": [],
+          "text_ar": "تمارين الذاكرة"
+        },
+        {
+          "letter": "D",
+          "text": "Matematiksel beceri çalışmaları",
+          "images": [],
+          "text_ar": "تمارين المهارات الرياضية"
+        },
+        {
+          "letter": "E",
+          "text": "Bilimsel düşünmeye yönelik çalışmalar",
+          "images": [],
+          "text_ar": "تمارين موجهة إلى التفكير العلمي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن الأعمال الذهنية التي يمكن القيام بها في أنشطة الاستعداد للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "“Programlar ve sınıflar arasında ilerledikçe konuların daha detaylı bir hale gelmesi, fakat genel çerçevenin değişmeden öğrencilere sunulmasıdır.” cümlesinde anlatılan programların hangi ilkesidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Esneklik",
+          "images": [],
+          "text_ar": "المرونة"
+        },
+        {
+          "letter": "B",
+          "text": "Öğreticilik",
+          "images": [],
+          "text_ar": "التعليمية"
+        },
+        {
+          "letter": "C",
+          "text": "Sarmallık",
+          "images": [],
+          "text_ar": "الحلزونية"
+        },
+        {
+          "letter": "D",
+          "text": "Yakınlık",
+          "images": [],
+          "text_ar": "القرب"
+        },
+        {
+          "letter": "E",
+          "text": "Uzaklık",
+          "images": [],
+          "text_ar": "البعد"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما مبدأ البرامج الذي تشرحه الجملة الآتية: «تحوّل الموضوعات إلى شكل أكثر تفصيلًا مع التقدم بين البرامج والصفوف، مع تقديم الإطار العام للطلاب دون تغيير»؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi MEB tarafından okul öncesi eğitim programında çocukta bulunması gereken hazırbulunuşluk ölçütleri arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun kendi temizliğini yapabilmesi",
+          "images": [],
+          "text_ar": "أن يتمكن الطفل من العناية بنظافته الشخصية"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun anne ve evden kopmaması",
+          "images": [],
+          "text_ar": "ألا ينفصل الطفل عن أمه والبيت"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun sorumluluk almaktan korkmaması",
+          "images": [],
+          "text_ar": "ألا يخاف الطفل من تحمّل المسؤولية"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun teneffüste kendini koruyabilmesi",
+          "images": [],
+          "text_ar": "أن يستطيع الطفل حماية نفسه في وقت الاستراحة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun öğretmenle iletişim kurabilmesi",
+          "images": [],
+          "text_ar": "أن يستطيع الطفل التواصل مع المعلم"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن معايير الاستعداد التي ينبغي أن تتوفر في الطفل وفق برنامج تعليم ما قبل المدرسة الصادر عن وزارة التربية الوطنية؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi erken okuryazarlık kapsamında ele alınabilecek eylem ve davranışlardan 12-24 ay arasında yapılabileceklerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Annesinin elinde en sevdiği kitabını görünce keyifli bir ses çıkarması",
+          "images": [],
+          "text_ar": "أن يُصدر صوتًا ممتعًا عند رؤية كتابه المفضل في يد أمه"
+        },
+        {
+          "letter": "B",
+          "text": "Araba giderken yolda gördüğü sokak tabelalarını okuması",
+          "images": [],
+          "text_ar": "أن يقرأ لافتات الشوارع التي يراها في الطريق أثناء ركوب السيارة"
+        },
+        {
+          "letter": "C",
+          "text": "Annesi kitap okurken kitaptaki resimleri göstermesi",
+          "images": [],
+          "text_ar": "أن يشير إلى الصور في الكتاب بينما تقرأ أمه"
+        },
+        {
+          "letter": "D",
+          "text": "Annesi ninni veya tekerleme okurken başını sallaması",
+          "images": [],
+          "text_ar": "أن يهزّ رأسه بينما تقرأ أمه تهويدة أو أهزوجة"
+        },
+        {
+          "letter": "E",
+          "text": "Annesi alışveriş listesi hazırlarken yazı yazma denemeleri yapması",
+          "images": [],
+          "text_ar": "أن يقوم بمحاولات كتابية بينما تعدّ أمه قائمة المشتريات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من الأفعال والسلوكيات التي يمكن تناولها في إطار القراءة والكتابة المبكرة عند ما بين 12 و24 شهرًا؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum programlarının dayandığı ekolojik sistemler kuramı içinde aşağıdakilerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ekzosistem",
+          "images": [],
+          "text_ar": "النظام الخارجي"
+        },
+        {
+          "letter": "B",
+          "text": "Koronosistem",
+          "images": [],
+          "text_ar": "النظام الزمني"
+        },
+        {
+          "letter": "C",
+          "text": "Mezosistem",
+          "images": [],
+          "text_ar": "النظام الوسيط"
+        },
+        {
+          "letter": "D",
+          "text": "Mikrosistem",
+          "images": [],
+          "text_ar": "النظام المصغر"
+        },
+        {
+          "letter": "E",
+          "text": "Atmosistem",
+          "images": [],
+          "text_ar": "النظام الجوي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن نظرية النظم البيئية التي تستند إليها برامج التكيف مع المدرسة؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Okul Öncesi Eğitimi Programının temel özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk merkezlidir.",
+          "images": [],
+          "text_ar": "متمركز حول الطفل."
+        },
+        {
+          "letter": "B",
+          "text": "Esnektir.",
+          "images": [],
+          "text_ar": "مرن."
+        },
+        {
+          "letter": "C",
+          "text": "Dengelidir.",
+          "images": [],
+          "text_ar": "متوازن."
+        },
+        {
+          "letter": "D",
+          "text": "Oyun temellidir.",
+          "images": [],
+          "text_ar": "قائم على اللعب."
+        },
+        {
+          "letter": "E",
+          "text": "Keşfederek öğrenmeyi önemsemez.",
+          "images": [],
+          "text_ar": "لا يولي أهمية للتعلم بالاكتشاف."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من الخصائص الأساسية لبرنامج تعليم ما قبل المدرسة؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun ilkokula hazırbulunuşluğunu etkileyen modellerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çevresel model",
+          "images": [],
+          "text_ar": "النموذج البيئي"
+        },
+        {
+          "letter": "B",
+          "text": "Yetenek modeli",
+          "images": [],
+          "text_ar": "نموذج القدرة"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimsel model",
+          "images": [],
+          "text_ar": "النموذج النمائي"
+        },
+        {
+          "letter": "D",
+          "text": "Çevresel- girdi modeli",
+          "images": [],
+          "text_ar": "نموذج المدخلات البيئية"
+        },
+        {
+          "letter": "E",
+          "text": "Yeteneksel- girdi modeli",
+          "images": [],
+          "text_ar": "نموذج المدخلات القدرية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من النماذج المؤثرة في استعداد الطفل للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Okul Öncesi Eğitimi ve Hayat Bilgisi Öğretimi Programlarında kazandırılabilecek ortak değerler arasında aşağıdakilerden hangisi yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vatanseverlik",
+          "images": [],
+          "text_ar": "الوطنية"
+        },
+        {
+          "letter": "B",
+          "text": "Aile birliğine önem verme",
+          "images": [],
+          "text_ar": "إيلاء أهمية لوحدة الأسرة"
+        },
+        {
+          "letter": "C",
+          "text": "Adalet",
+          "images": [],
+          "text_ar": "العدالة"
+        },
+        {
+          "letter": "D",
+          "text": "Kültürel mirasa duyarlılık",
+          "images": [],
+          "text_ar": "الحساسية تجاه التراث الثقافي"
+        },
+        {
+          "letter": "E",
+          "text": "Paylaşma",
+          "images": [],
+          "text_ar": "المشاركة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي يندرج ضمن القيم المشتركة التي يمكن تنميتها في برنامجي تعليم ما قبل المدرسة والدراسات الحياتية؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun hazırbulunuşluğunu “sosyal yapılandırmacı kurama” göre değerlendirebilecek maddeler arasında yer alamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğa bütüncül yaklaşılması",
+          "images": [],
+          "text_ar": "النظر إلى الطفل نظرة كلية"
+        },
+        {
+          "letter": "B",
+          "text": "Toplumun değer ve beklentilerinin dikkate alınması",
+          "images": [],
+          "text_ar": "مراعاة قيم المجتمع وتوقعاته"
+        },
+        {
+          "letter": "C",
+          "text": "Kültürel farklılıkların göz ardı edilmesi",
+          "images": [],
+          "text_ar": "تجاهل الفروق الثقافية"
+        },
+        {
+          "letter": "D",
+          "text": "Uygulamalar yapılması",
+          "images": [],
+          "text_ar": "إجراء تطبيقات"
+        },
+        {
+          "letter": "E",
+          "text": "Önceki değerlendirmelerin dikkate alınması",
+          "images": [],
+          "text_ar": "مراعاة التقييمات السابقة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يندرج ضمن البنود التي يمكن أن يُقيَّم بها استعداد الطفل وفق «النظرية البنائية الاجتماعية»؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde, çocuğun okula uyumunda yer alan boyutlar bir arada ve doğru biçimde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hazır çocuk ve hazır okul",
+          "images": [],
+          "text_ar": "طفل جاهز ومدرسة جاهزة"
+        },
+        {
+          "letter": "B",
+          "text": "Hazır müdür, hazır çocuk, hazır aile",
+          "images": [],
+          "text_ar": "مدير جاهز وطفل جاهز وأسرة جاهزة"
+        },
+        {
+          "letter": "C",
+          "text": "Hazır müdür ve hazır aile",
+          "images": [],
+          "text_ar": "مدير جاهز وأسرة جاهزة"
+        },
+        {
+          "letter": "D",
+          "text": "Hazır aile, hazır çocuk, hazır okul",
+          "images": [],
+          "text_ar": "أسرة جاهزة وطفل جاهز ومدرسة جاهزة"
+        },
+        {
+          "letter": "E",
+          "text": "Hazır aile ve hazır çocuk",
+          "images": [],
+          "text_ar": "أسرة جاهزة وطفل جاهز"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الخيارات الآتية يرد فيها مجتمعةً وعلى نحو صحيح أبعاد تكيف الطفل مع المدرسة؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "6dc113fe5a8fc31dc3ebfb49fd40c38ef2f5abc9afec34afc9e346973e2d28a7"
+}

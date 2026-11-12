@@ -3,7 +3,7 @@ course: OYUN VE OYUN TERAPİSİ
 exam: 2021 Vize Deneme Sınavı
 source_url: https://lolonolo.com/2021/09/12/oyun-ve-oyun-terapisi-2021-vize-deneme-sinavi/
 question_count: 40
-scraped_at: 2026-11-12T15:01:03+03:00
+scraped_at: 2026-11-12T16:24:00+03:00
 ---
 
 ### Q1

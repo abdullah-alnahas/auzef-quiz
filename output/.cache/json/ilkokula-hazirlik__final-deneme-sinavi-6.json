@@ -1,0 +1,859 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "Final Deneme Sınavı -6",
+  "exam_slug": "final-deneme-sinavi-6",
+  "page_title": "İlkokula Hazırlık Final Deneme Sınavı -6",
+  "source_url": "https://lolonolo.com/2023/09/22/ilkokula-hazirlik-final-deneme-sinavi-6/",
+  "scraped_at": "2026-11-12T16:23:54+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sağlıklı bir hazırbulunuşluk sürecinde yapılması gereken temel davranışlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kitap okumak",
+          "images": [],
+          "text_ar": "قراءة الكتب"
+        },
+        {
+          "letter": "B",
+          "text": "Dramatizasyon",
+          "images": [],
+          "text_ar": "التمثيل الدرامي"
+        },
+        {
+          "letter": "C",
+          "text": "Okul gezileri",
+          "images": [],
+          "text_ar": "الرحلات المدرسية"
+        },
+        {
+          "letter": "D",
+          "text": "Matematik problemleri çözmek",
+          "images": [],
+          "text_ar": "حل مسائل الرياضيات"
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal aktiviteler yapmak",
+          "images": [],
+          "text_ar": "القيام بأنشطة اجتماعية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من السلوكيات الأساسية التي ينبغي القيام بها في عملية استعداد صحية؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun okula uyum sürecinde iş birliği yapılabilecek paydaşlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Veliler",
+          "images": [],
+          "text_ar": "أولياء الأمور"
+        },
+        {
+          "letter": "B",
+          "text": "Okul yönetimi",
+          "images": [],
+          "text_ar": "إدارة المدرسة"
+        },
+        {
+          "letter": "C",
+          "text": "Komşular",
+          "images": [],
+          "text_ar": "الجيران"
+        },
+        {
+          "letter": "D",
+          "text": "Diğer öğretmenler",
+          "images": [],
+          "text_ar": "المعلمون الآخرون"
+        },
+        {
+          "letter": "E",
+          "text": "Rehber öğretmenler",
+          "images": [],
+          "text_ar": "المرشدون المعلمون"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من أصحاب المصلحة الذين يمكن التعاون معهم في عملية تكيف الطفل مع المدرسة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilkokul hazırlıkta okul öncesinde bulunan öğrenme merkezleri arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dramatik oyun merkezi",
+          "images": [],
+          "text_ar": "مركز اللعب الدرامي"
+        },
+        {
+          "letter": "B",
+          "text": "Sanat merkezi",
+          "images": [],
+          "text_ar": "مركز الفن"
+        },
+        {
+          "letter": "C",
+          "text": "Psikoloji merkezi",
+          "images": [],
+          "text_ar": "مركز علم النفس"
+        },
+        {
+          "letter": "D",
+          "text": "Açık hava oyun alanları",
+          "images": [],
+          "text_ar": "ساحات اللعب في الهواء الطلق"
+        },
+        {
+          "letter": "E",
+          "text": "Fen merkezi",
+          "images": [],
+          "text_ar": "مركز العلوم"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يندرج ضمن مراكز التعلم الموجودة في مرحلة ما قبل المدرسة في إطار الاستعداد للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi aile tutumlarını etkileyen faktörlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anne- babanın yetişme biçimi",
+          "images": [],
+          "text_ar": "طريقة تنشئة الوالدين"
+        },
+        {
+          "letter": "B",
+          "text": "Anne- babanın sosyo-ekonomik düzeyi",
+          "images": [],
+          "text_ar": "المستوى الاجتماعي-الاقتصادي للوالدين"
+        },
+        {
+          "letter": "C",
+          "text": "Anne- baba arasındaki ilişki",
+          "images": [],
+          "text_ar": "العلاقة بين الوالدين"
+        },
+        {
+          "letter": "D",
+          "text": "Anne- babanın ailesinin ekonomik düzeyi",
+          "images": [],
+          "text_ar": "المستوى الاقتصادي لأسرة الوالدين"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun yaşı ve cinsiyeti",
+          "images": [],
+          "text_ar": "عمر الطفل وجنسه"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من العوامل المؤثرة في اتجاهات الأسرة؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okula uyum sürecinde kaçınılması gereken davranışlar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ailenin çocukla sınıfa girmesi",
+          "images": [],
+          "text_ar": "دخول الأسرة مع الطفل إلى الصف"
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmenden korkutulması",
+          "images": [],
+          "text_ar": "تخويف الطفل من المعلم"
+        },
+        {
+          "letter": "C",
+          "text": "Okuldan sıkılıp sıkılmadığının sorgulanması",
+          "images": [],
+          "text_ar": "السؤال عن مدى شعوره بالملل من المدرسة"
+        },
+        {
+          "letter": "D",
+          "text": "Okuldan vedalaşma sürecinin çok kısa tutulması",
+          "images": [],
+          "text_ar": "جعل عملية الوداع عند المدرسة قصيرة جدًا"
+        },
+        {
+          "letter": "E",
+          "text": "Aile bireylerinin çocuğun okula gitmesine yönelik tutarlı olmaları",
+          "images": [],
+          "text_ar": "أن يكون أفراد الأسرة متسقين في ما يتعلق بذهاب الطفل إلى المدرسة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن السلوكيات التي ينبغي تجنبها في عملية التكيف مع المدرسة؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde “Ünsal’ın” sınıflamasını yaptığı “içeriğine göre oyun türleri bir arada ve doğru şekilde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dijital, müzikli, grup oyunları",
+          "images": [],
+          "text_ar": "ألعاب رقمية، موسيقية، جماعية"
+        },
+        {
+          "letter": "B",
+          "text": "Müzikli, açık hava oyunları, kapalı hava oyunları",
+          "images": [],
+          "text_ar": "ألعاب موسيقية، ألعاب الهواء الطلق، ألعاب الأماكن المغلقة"
+        },
+        {
+          "letter": "C",
+          "text": "Riskli, müzikli, parmak oyunları",
+          "images": [],
+          "text_ar": "ألعاب خطرة، موسيقية، ألعاب الأصابع"
+        },
+        {
+          "letter": "D",
+          "text": "Isındırıcı, müzikli, dinlendirici",
+          "images": [],
+          "text_ar": "ألعاب التهيئة، موسيقية، مهدّئة"
+        },
+        {
+          "letter": "E",
+          "text": "Riskli, açık hava oyunları, kapa hava oyunları",
+          "images": [],
+          "text_ar": "ألعاب خطرة، ألعاب الهواء الطلق، ألعاب الأماكن المغلقة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الخيارات الآتية يرد فيها أنواع اللعب وفق مضمونها كما صنّفها أونسال مجتمعةً وعلى نحو صحيح؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "“En genel şekilde çocuğun yeni öğrenmeleri gerçekleştirebilmeleri için kendisinde aranan bilişsel, duyuşsal ve devinişsel yeterliklerdir.” şeklinde tanımlanan kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hazırbulunuşluk",
+          "images": [],
+          "text_ar": "الاستعداد"
+        },
+        {
+          "letter": "B",
+          "text": "Öğrenme",
+          "images": [],
+          "text_ar": "التعلم"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim",
+          "images": [],
+          "text_ar": "النمو"
+        },
+        {
+          "letter": "D",
+          "text": "Büyüme",
+          "images": [],
+          "text_ar": "النماء"
+        },
+        {
+          "letter": "E",
+          "text": "Olgunlaşma",
+          "images": [],
+          "text_ar": "النضج"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما المفهوم المعرَّف بأنه «الكفايات المعرفية والوجدانية والحركية التي تُطلب من الطفل بصورة عامة ليتمكن من تحقيق تعلّمات جديدة»؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Piaget tarafından sınıflandırılan gelişimsel oyunlardan değildir",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İşlevsel oyunlar",
+          "images": [],
+          "text_ar": "الألعاب الوظيفية"
+        },
+        {
+          "letter": "B",
+          "text": "Yapı inşa oyunları",
+          "images": [],
+          "text_ar": "ألعاب البناء والتركيب"
+        },
+        {
+          "letter": "C",
+          "text": "Sembolik oyunlar",
+          "images": [],
+          "text_ar": "الألعاب الرمزية"
+        },
+        {
+          "letter": "D",
+          "text": "Kurallı oyunlar",
+          "images": [],
+          "text_ar": "الألعاب ذات القواعد"
+        },
+        {
+          "letter": "E",
+          "text": "-Mış gibi oyun",
+          "images": [],
+          "text_ar": "اللعب التخيلي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أنواع اللعب النمائي التي صنّفها بياجيه؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi otoriter ebeveynlik sergileyen ailelerin kaçınmaları gereken davranışlardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğretmenin otorite olarak görülmesi gerektiğinin anlatılması",
+          "images": [],
+          "text_ar": "بيان أنه ينبغي النظر إلى المعلم بوصفه سلطة"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk okula başlamadan önce ona güven duygusu aşılanmalı",
+          "images": [],
+          "text_ar": "ينبغي غرس شعور الثقة في الطفل قبل بدئه المدرسة"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk okula başlamadan önce onun özerkliği desteklenmeli",
+          "images": [],
+          "text_ar": "ينبغي دعم استقلالية الطفل قبل بدئه المدرسة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk okula başlamadan önce toplumsal kurallar öğretilmeli",
+          "images": [],
+          "text_ar": "ينبغي تعليم الطفل القواعد الاجتماعية قبل بدئه المدرسة"
+        },
+        {
+          "letter": "E",
+          "text": "Cezalandırma ve olumsuz davranışlardan uzak durulmalı",
+          "images": [],
+          "text_ar": "ينبغي الابتعاد عن العقاب والسلوكيات السلبية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي من السلوكيات التي ينبغي أن تتجنبها الأسر التي تُظهر تربية والدية تسلطية؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun hazırbulunuşluğunu “sosyal yapılandırmacı kurama” göre değerlendirebilecek maddeler arasında yer alamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğa bütüncül yaklaşılması",
+          "images": [],
+          "text_ar": "مقاربة الطفل مقاربة شمولية"
+        },
+        {
+          "letter": "B",
+          "text": "Toplumun değer ve beklentilerinin dikkate alınması",
+          "images": [],
+          "text_ar": "مراعاة قيم المجتمع وتوقعاته"
+        },
+        {
+          "letter": "C",
+          "text": "Kültürel farklılıkların göz ardı edilmesi",
+          "images": [],
+          "text_ar": "تجاهل الفروق الثقافية"
+        },
+        {
+          "letter": "D",
+          "text": "Uygulamalar yapılması",
+          "images": [],
+          "text_ar": "إجراء تطبيقات"
+        },
+        {
+          "letter": "E",
+          "text": "Önceki değerlendirmelerin dikkate alınması",
+          "images": [],
+          "text_ar": "مراعاة التقييمات السابقة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يمكن أن يندرج ضمن الفقرات التي تُقيّم استعداد الطفل وفق «النظرية البنائية الاجتماعية»؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “Türkçe ve Okuma-Yazmaya Hazırlık” etkinlikleri hazırlanırken kullanılan kazanımlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dili iletişim amacıyla kullanır",
+          "images": [],
+          "text_ar": "يستخدم لغته لأغراض التواصل"
+        },
+        {
+          "letter": "B",
+          "text": "Hece ve kelimeleri öğrenir",
+          "images": [],
+          "text_ar": "يتعلم المقاطع والكلمات"
+        },
+        {
+          "letter": "C",
+          "text": "Okumanın günlük yaşamdaki önemini açıklar",
+          "images": [],
+          "text_ar": "يوضح أهمية القراءة في الحياة اليومية"
+        },
+        {
+          "letter": "D",
+          "text": "Yazının günlük yaşamdaki önemini açıklar",
+          "images": [],
+          "text_ar": "يوضح أهمية الكتابة في الحياة اليومية"
+        },
+        {
+          "letter": "E",
+          "text": "Konuşmak için sırasını bekler",
+          "images": [],
+          "text_ar": "ينتظر دوره ليتكلم"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من مخرجات التعلم المستخدمة عند إعداد أنشطة «التركية والاستعداد للقراءة والكتابة»؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi, okula uyum sürecinde “hazır çocuk” kavramında çocuğun hazır hale gelmesi gereken gelişim alanlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Motor",
+          "images": [],
+          "text_ar": "الحركي"
+        },
+        {
+          "letter": "B",
+          "text": "Psikolojik",
+          "images": [],
+          "text_ar": "النفسي"
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal- duyuşsal",
+          "images": [],
+          "text_ar": "الاجتماعي-الوجداني"
+        },
+        {
+          "letter": "D",
+          "text": "Fiziksel",
+          "images": [],
+          "text_ar": "الجسدي"
+        },
+        {
+          "letter": "E",
+          "text": "Bilişsel",
+          "images": [],
+          "text_ar": "المعرفي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي الخيارات الآتية ليس من مجالات النمو التي ينبغي أن يصبح فيها الطفل جاهزًا في مفهوم «الطفل الجاهز» ضمن عملية التكيف مع المدرسة؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum sürecinde çocuğun geçmesi gereken aşamalar, aşağıdaki seçeneklerin hangisinde doğru sırada ve tam olarak verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul başlama, hazırlık, yerleşme",
+          "images": [],
+          "text_ar": "بدء المدرسة، التهيئة، الاستقرار"
+        },
+        {
+          "letter": "B",
+          "text": "Okula başlama, yerleşme, bütünleşme",
+          "images": [],
+          "text_ar": "بدء المدرسة، الاستقرار، الاندماج"
+        },
+        {
+          "letter": "C",
+          "text": "Hazırlık, yerleşme, bütünleşme",
+          "images": [],
+          "text_ar": "التهيئة، الاستقرار، الاندماج"
+        },
+        {
+          "letter": "D",
+          "text": "Hazırlık, bütünleşme, yerleşme",
+          "images": [],
+          "text_ar": "التهيئة، الاندماج، الاستقرار"
+        },
+        {
+          "letter": "E",
+          "text": "Hazırlık, okula başlama, bütünleşme",
+          "images": [],
+          "text_ar": "التهيئة، بدء المدرسة، الاندماج"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الخيارات الآتية يرد فيها المراحل التي ينبغي أن يمرّ بها الطفل في عملية التكيف مع المدرسة بالترتيب الصحيح وكاملة؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi genel olarak kullanılan aile türleri sınıflandırması arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Otoriter",
+          "images": [],
+          "text_ar": "التسلطية"
+        },
+        {
+          "letter": "B",
+          "text": "Her şeye kızan",
+          "images": [],
+          "text_ar": "السريعة الغضب من كل شيء"
+        },
+        {
+          "letter": "C",
+          "text": "Aşırı hoşgörülü",
+          "images": [],
+          "text_ar": "المفرطة في التسامح"
+        },
+        {
+          "letter": "D",
+          "text": "İlgisiz",
+          "images": [],
+          "text_ar": "غير المهتمة"
+        },
+        {
+          "letter": "E",
+          "text": "Demokratik",
+          "images": [],
+          "text_ar": "الديمقراطية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن التصنيف الشائع لأنواع الأسر؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilkokula hazır bulunuşlukta kullanılabilecek oyunlardan yapılarına göre sınıflandırılan oyun türlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hayali oyun",
+          "images": [],
+          "text_ar": "اللعب التخيلي"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyo-dramatik oyun",
+          "images": [],
+          "text_ar": "اللعب الاجتماعي الدرامي"
+        },
+        {
+          "letter": "C",
+          "text": "Grup oyunları",
+          "images": [],
+          "text_ar": "الألعاب الجماعية"
+        },
+        {
+          "letter": "D",
+          "text": "Açık hava oyunları",
+          "images": [],
+          "text_ar": "ألعاب الهواء الطلق"
+        },
+        {
+          "letter": "E",
+          "text": "Dijital oyunlar",
+          "images": [],
+          "text_ar": "الألعاب الرقمية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من أنواع اللعب المصنَّفة وفق بنيتها، والتي يمكن استخدامها في الاستعداد للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki aile türlerinden hangisinde yetişen çocuklar yapılan çalışmalara göre, diğerlerine oranla daha kaygılı olmaktadırlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Otoriter- aşırı koruyucu",
+          "images": [],
+          "text_ar": "التسلطية-المفرطة في الحماية"
+        },
+        {
+          "letter": "B",
+          "text": "Demokratik",
+          "images": [],
+          "text_ar": "الديمقراطية"
+        },
+        {
+          "letter": "C",
+          "text": "Hoşgörülü",
+          "images": [],
+          "text_ar": "المتسامحة"
+        },
+        {
+          "letter": "D",
+          "text": "Üniversite mezunu",
+          "images": [],
+          "text_ar": "من خريجي الجامعات"
+        },
+        {
+          "letter": "E",
+          "text": "İlkokul mezunu",
+          "images": [],
+          "text_ar": "من خريجي المدرسة الابتدائية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "وفق الدراسات، في أي من أنواع الأسر الآتية يكون الأطفال الذين نشأوا فيها أكثر قلقًا نسبيًا من غيرهم؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukta hazırbulunuşluğu değerlendiren kuramlar arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal yapılandırmacı kuram",
+          "images": [],
+          "text_ar": "النظرية البنائية الاجتماعية"
+        },
+        {
+          "letter": "B",
+          "text": "Çevreselci kuram",
+          "images": [],
+          "text_ar": "النظرية البيئية"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişselci kuram",
+          "images": [],
+          "text_ar": "النظرية المعرفية"
+        },
+        {
+          "letter": "D",
+          "text": "Olgunlaşmacı kuram",
+          "images": [],
+          "text_ar": "نظرية النضج"
+        },
+        {
+          "letter": "E",
+          "text": "Etkileşimci kuram",
+          "images": [],
+          "text_ar": "النظرية التفاعلية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يندرج ضمن النظريات التي تُقيّم استعداد الطفل؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun ilkokula hazırbulunuşluğunu etkileyen modellerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çevresel model",
+          "images": [],
+          "text_ar": "النموذج البيئي"
+        },
+        {
+          "letter": "B",
+          "text": "Yetenek modeli",
+          "images": [],
+          "text_ar": "نموذج القدرة"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimsel model",
+          "images": [],
+          "text_ar": "النموذج النمائي"
+        },
+        {
+          "letter": "D",
+          "text": "Çevresel- girdi modeli",
+          "images": [],
+          "text_ar": "النموذج البيئي-المدخلي"
+        },
+        {
+          "letter": "E",
+          "text": "Yeteneksel- girdi modeli",
+          "images": [],
+          "text_ar": "نموذج القدرة-المدخل"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من النماذج المؤثرة في استعداد الطفل للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum programının temel ilkeleri arasında aşağıdakilerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Paydaşlarla iş birliği",
+          "images": [],
+          "text_ar": "التعاون مع أصحاب المصلحة"
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmenin merkez olması",
+          "images": [],
+          "text_ar": "أن يكون المعلم هو المحور"
+        },
+        {
+          "letter": "C",
+          "text": "Okula uyum programını özümseme",
+          "images": [],
+          "text_ar": "استيعاب برنامج التكيف مع المدرسة"
+        },
+        {
+          "letter": "D",
+          "text": "Okula uyum programını değerlendirme",
+          "images": [],
+          "text_ar": "تقييم برنامج التكيف مع المدرسة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğu ve aileyi tanıma",
+          "images": [],
+          "text_ar": "التعرف على الطفل والأسرة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن المبادئ الأساسية لبرنامج التكيف مع المدرسة؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi MEB tarafından okul öncesi eğitim programında çocukta bulunması gereken hazırbulunuşluk ölçütleri arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun kendi temizliğini yapabilmesi",
+          "images": [],
+          "text_ar": "أن يتمكن الطفل من القيام بنظافته الشخصية"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun anne ve evden kopmaması",
+          "images": [],
+          "text_ar": "ألا ينفصل الطفل عن أمه والمنزل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun sorumluluk almaktan korkmaması",
+          "images": [],
+          "text_ar": "ألا يخاف الطفل من تحمّل المسؤولية"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun teneffüste kendini koruyabilmesi",
+          "images": [],
+          "text_ar": "أن يتمكن الطفل من حماية نفسه في فترة الاستراحة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun öğretmenle iletişim kurabilmesi",
+          "images": [],
+          "text_ar": "أن يتمكن الطفل من التواصل مع المعلم"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن معايير الاستعداد التي يجب أن تتوفر في الطفل في برنامج تعليم ما قبل المدرسة لدى وزارة التربية الوطنية؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "b5728c22dc946979262cac0718e9b4cf86b68fb39a0b5a78d85982faed489a97"
+}

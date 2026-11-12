@@ -1,0 +1,859 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "İlk Okula Hazırlık Final Deneme Sınavı-7",
+  "exam_slug": "ilk-okula-hazirlik-final-deneme-sinavi-7",
+  "page_title": "İlk Okula Hazırlık Final Deneme Sınavı-7",
+  "source_url": "https://lolonolo.com/2023/09/22/ilk-okula-hazirlik-final-deneme-sinavi-7/",
+  "scraped_at": "2026-11-12T16:23:54+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Parten tarafından sınıflandırılan Gelişimsel Oyun çeşitleri arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İş birliğine dayalı oyun",
+          "images": [],
+          "text_ar": "اللعب التعاوني"
+        },
+        {
+          "letter": "B",
+          "text": "Tasarımsal oyun",
+          "images": [],
+          "text_ar": "اللعب التصميمي"
+        },
+        {
+          "letter": "C",
+          "text": "Paralel oyun",
+          "images": [],
+          "text_ar": "اللعب المتوازي"
+        },
+        {
+          "letter": "D",
+          "text": "İlişkisel oyun",
+          "images": [],
+          "text_ar": "اللعب الترابطي"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız oyun",
+          "images": [],
+          "text_ar": "اللعب المنفرد"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن أنواع اللعب النمائي التي صنّفها بارتن؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 1924 yılı ilkokul programının genel özelliklerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu programla devreler ortadan kalkmıştır.",
+          "images": [],
+          "text_ar": "بهذا البرنامج أُلغيت المراحل."
+        },
+        {
+          "letter": "B",
+          "text": "İlkokul öğretim süresi beş yıla inmiştir.",
+          "images": [],
+          "text_ar": "خُفّضت مدة التعليم الابتدائي إلى خمس سنوات."
+        },
+        {
+          "letter": "C",
+          "text": "Erkek ve kız öğrenciler için tek program düzenlenmiştir.",
+          "images": [],
+          "text_ar": "وُضع برنامج واحد للطلاب والطالبات."
+        },
+        {
+          "letter": "D",
+          "text": "Yenisi hazırlanıncaya kadar geçici bir program olma özelliği taşımaktadır.",
+          "images": [],
+          "text_ar": "كان برنامجًا مؤقتًا إلى أن يُعدّ برنامج جديد."
+        },
+        {
+          "letter": "E",
+          "text": "Programdaki dersler arasında ilişki kurulmamıştır.",
+          "images": [],
+          "text_ar": "لم تُقم علاقة بين دروس البرنامج."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من الخصائص العامة لبرنامج المدرسة الابتدائية لعام 1924؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi erken okuryazarlık bileşenlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Harf / alfabe bilgisi",
+          "images": [],
+          "text_ar": "معرفة الحروف/الأبجدية"
+        },
+        {
+          "letter": "B",
+          "text": "Cümle bilgisi",
+          "images": [],
+          "text_ar": "معرفة الجمل"
+        },
+        {
+          "letter": "C",
+          "text": "Yazı/ baskı farkındalığı",
+          "images": [],
+          "text_ar": "الوعي بالكتابة/الطباعة"
+        },
+        {
+          "letter": "D",
+          "text": "Ses bilgisel farkındalık",
+          "images": [],
+          "text_ar": "الوعي الصوتي"
+        },
+        {
+          "letter": "E",
+          "text": "Sözcük bilgisi",
+          "images": [],
+          "text_ar": "المفردات"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من مكونات القراءة والكتابة المبكرة؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Rubin, Fein ve Vanderbeg tarafından sınıflandırılan oyunlardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yapılandırılmış oyun",
+          "images": [],
+          "text_ar": "اللعب المنظم"
+        },
+        {
+          "letter": "B",
+          "text": "Kurallı oyun",
+          "images": [],
+          "text_ar": "اللعب ذو القواعد"
+        },
+        {
+          "letter": "C",
+          "text": "Epistemik oyun",
+          "images": [],
+          "text_ar": "اللعب المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Oyuncu oyun",
+          "images": [],
+          "text_ar": "اللعب الترفيهي"
+        },
+        {
+          "letter": "E",
+          "text": "İş birliğine dayalı oyun",
+          "images": [],
+          "text_ar": "اللعب التعاوني"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي يعد من أنواع اللعب التي صنّفها روبين وفين وفاندربيرغ؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi erken okuryazarlık kapsamında ele alınabilecek eylem ve davranışlardan 3 yaş ve sonrasındaki davranışlar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çevredeki bazı logoları tanır.",
+          "images": [],
+          "text_ar": "يتعرف بعض الشعارات في محيطه."
+        },
+        {
+          "letter": "B",
+          "text": "Sınıfta uydurma hecelemelerle yazdığı ilk resimli öyküyü sunar",
+          "images": [],
+          "text_ar": "يقدّم في الصف أول قصة مصوّرة كتبها بهجاءات مختلقة."
+        },
+        {
+          "letter": "C",
+          "text": "Annesi alışveriş listesi hazırlarken kendisi yazı yazma denemeleri yapar",
+          "images": [],
+          "text_ar": "يقوم بمحاولات كتابية بينما تعدّ أمه قائمة المشتريات."
+        },
+        {
+          "letter": "D",
+          "text": "Adını yazma denemeleri yaptığı bloknotunu gösterir",
+          "images": [],
+          "text_ar": "يُظهر دفتره الذي أجرى فيه محاولات لكتابة اسمه."
+        },
+        {
+          "letter": "E",
+          "text": "Büyük ablası ve abisinin okuduğu kitaptan belli kelimeleri tekrarlar.",
+          "images": [],
+          "text_ar": "يكرر كلمات معينة من كتاب تقرأه أخته الكبرى وأخوه."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن الأفعال والسلوكيات التي يمكن تناولها في إطار القراءة والكتابة المبكرة عند سن 3 سنوات وما بعدها؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Bebeğin doğumundan itibaren etrafı tanımasıyla ve yazı dilini öğrenmesiyle ifade etmeye başladığı, anaokuluna başlamasından önce kazanılan ve fiziksel, sosyal ve duygusal gelişim alanlarıyla ilişkili olan kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okuryazarlık",
+          "images": [],
+          "text_ar": "القراءة والكتابة"
+        },
+        {
+          "letter": "B",
+          "text": "Hazırbulunuşluk",
+          "images": [],
+          "text_ar": "الاستعداد"
+        },
+        {
+          "letter": "C",
+          "text": "Konuşma",
+          "images": [],
+          "text_ar": "الكلام"
+        },
+        {
+          "letter": "D",
+          "text": "Gıgıldama",
+          "images": [],
+          "text_ar": "المناغاة"
+        },
+        {
+          "letter": "E",
+          "text": "Emekleme",
+          "images": [],
+          "text_ar": "الحبو"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما المفهوم الذي يبدأ الرضيع التعبير عنه منذ ولادته بتعرّفه على محيطه وتعلّمه اللغة المكتوبة، ويُكتسب قبل الالتحاق برياض الأطفال، ويرتبط بمجالات النمو الجسدي والاجتماعي والعاطفي؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki erken okuryazarlık becerilerinden hangileri ulusal değerlendirme araçlarından biri olan “EROT” ile ölçülemez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İfade edici dilde sözcük bilgisi",
+          "images": [],
+          "text_ar": "المفردات في اللغة التعبيرية"
+        },
+        {
+          "letter": "B",
+          "text": "Alıcı dilde sözcük bilgisi",
+          "images": [],
+          "text_ar": "المفردات في اللغة الاستقبالية"
+        },
+        {
+          "letter": "C",
+          "text": "Dinlediğini anlama",
+          "images": [],
+          "text_ar": "فهم المسموع"
+        },
+        {
+          "letter": "D",
+          "text": "Genel isimlendirme",
+          "images": [],
+          "text_ar": "التسمية العامة"
+        },
+        {
+          "letter": "E",
+          "text": "Öyküyü anlama",
+          "images": [],
+          "text_ar": "فهم القصة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مهارات القراءة والكتابة المبكرة الآتية لا يمكن قياسها بأداة التقييم الوطنية «EROT»؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 1936 yılı ilkokul programında yer alan eğitim durumlarına ilişkin esaslardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ezberleyerek öğrenmenin önemini anlatma",
+          "images": [],
+          "text_ar": "بيان أهمية التعلم بالحفظ"
+        },
+        {
+          "letter": "B",
+          "text": "Resim ve şekillerle ders anlatma",
+          "images": [],
+          "text_ar": "تدريس الدروس بالرسوم والأشكال"
+        },
+        {
+          "letter": "C",
+          "text": "Hayatla ilişkilendirme",
+          "images": [],
+          "text_ar": "الربط بالحياة"
+        },
+        {
+          "letter": "D",
+          "text": "Sorun çözme tekniklerini kullanma",
+          "images": [],
+          "text_ar": "استخدام تقنيات حل المشكلات"
+        },
+        {
+          "letter": "E",
+          "text": "Öğretim ilkelerine uyma",
+          "images": [],
+          "text_ar": "مراعاة مبادئ التدريس"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من المبادئ المتعلقة بالحالات التعليمية الواردة في برنامج المدرسة الابتدائية لعام 1936؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "“Programlar ve sınıflar arasında ilerledikçe konuların daha detaylı bir hale gelmesi, fakat genel çerçevenin değişmeden öğrencilere sunulmasıdır.” cümlesinde anlatılan programların hangi ilkesidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Esneklik",
+          "images": [],
+          "text_ar": "المرونة"
+        },
+        {
+          "letter": "B",
+          "text": "Öğreticilik",
+          "images": [],
+          "text_ar": "التعليمية"
+        },
+        {
+          "letter": "C",
+          "text": "Sarmallık",
+          "images": [],
+          "text_ar": "الحلزونية"
+        },
+        {
+          "letter": "D",
+          "text": "Yakınlık",
+          "images": [],
+          "text_ar": "القرب"
+        },
+        {
+          "letter": "E",
+          "text": "Uzaklık",
+          "images": [],
+          "text_ar": "البعد"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما مبدأ البرامج الذي تشرحه الجملة الآتية: «تحوّل الموضوعات إلى شكل أكثر تفصيلًا مع التقدم بين البرامج والصفوف، مع تقديم الإطار العام للطلاب دون تغيير»؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "“Isıtıcı, Hareketli ve Dinlendirici oyun” şeklinde sınıflandırılan oyunlar aşağıdakilerden hangi türe girmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hareketlilik derecesine göre oyunlar",
+          "images": [],
+          "text_ar": "حسب درجة الحركة"
+        },
+        {
+          "letter": "B",
+          "text": "İçeriğine göre oyunla",
+          "images": [],
+          "text_ar": "حسب مضمونها"
+        },
+        {
+          "letter": "C",
+          "text": "Yapılarına göre oyunlar",
+          "images": [],
+          "text_ar": "حسب بنيتها"
+        },
+        {
+          "letter": "D",
+          "text": "Oynandığı yere göre oyunlar",
+          "images": [],
+          "text_ar": "حسب مكان اللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Oyunu ortaya koyan kişiye göre oyunlar",
+          "images": [],
+          "text_ar": "حسب الشخص الذي يضع اللعبة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "إلى أي تصنيف من التصنيفات الآتية تندرج الألعاب المصنفة على أنها «ألعاب الإحماء والحركة والاسترخاء»؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yapılandırmacı öğrenme yaklaşımında izlenen adımlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yeni bilginin kazanılması",
+          "images": [],
+          "text_ar": "اكتساب المعرفة الجديدة"
+        },
+        {
+          "letter": "B",
+          "text": "Bilginin farkında olunması",
+          "images": [],
+          "text_ar": "الوعي بالمعرفة"
+        },
+        {
+          "letter": "C",
+          "text": "Bilginin anlaşılması",
+          "images": [],
+          "text_ar": "فهم المعرفة"
+        },
+        {
+          "letter": "D",
+          "text": "Bilginin uygulanması",
+          "images": [],
+          "text_ar": "تطبيق المعرفة"
+        },
+        {
+          "letter": "E",
+          "text": "Önceki bilgilerin bir etkisinin olmaması",
+          "images": [],
+          "text_ar": "ألا يكون للمعارف السابقة أي أثر"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من الخطوات المتبعة في المقاربة البنائية للتعلم؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde yazı farkındalığında kazanılabilecek becerilerden hepsi bir arada verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konuşma kuralları ve sözcük bilgisi",
+          "images": [],
+          "text_ar": "قواعد الكلام والمفردات"
+        },
+        {
+          "letter": "B",
+          "text": "Yazı kuralları ve harf bilgisi",
+          "images": [],
+          "text_ar": "قواعد الكتابة ومعرفة الحروف"
+        },
+        {
+          "letter": "C",
+          "text": "Sözcük bilgisi, harf bilgisi ve yazı kuralları",
+          "images": [],
+          "text_ar": "المفردات ومعرفة الحروف وقواعد الكتابة"
+        },
+        {
+          "letter": "D",
+          "text": "Sözcük bilgisi ve harf bilgisi",
+          "images": [],
+          "text_ar": "المفردات ومعرفة الحروف"
+        },
+        {
+          "letter": "E",
+          "text": "Harf bilgisi, konuşma kuralları, yazı kuralları",
+          "images": [],
+          "text_ar": "معرفة الحروف وقواعد الكلام وقواعد الكتابة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الخيارات الآتية يرد فيها مجتمعةً كل المهارات التي يمكن اكتسابها في الوعي بالكتابة؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilkokula hazırlık çalışmalarında yapılabilecek zihinsel çalışmalar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dikkat çalışmaları",
+          "images": [],
+          "text_ar": "تمارين الانتباه"
+        },
+        {
+          "letter": "B",
+          "text": "Kendi duygularını tanıma çalışmaları",
+          "images": [],
+          "text_ar": "تمارين التعرف على مشاعر الطفل نفسه"
+        },
+        {
+          "letter": "C",
+          "text": "Hafıza çalışmaları",
+          "images": [],
+          "text_ar": "تمارين الذاكرة"
+        },
+        {
+          "letter": "D",
+          "text": "Matematiksel beceri çalışmaları",
+          "images": [],
+          "text_ar": "تمارين المهارات الرياضية"
+        },
+        {
+          "letter": "E",
+          "text": "Bilimsel düşünmeye yönelik çalışmalar",
+          "images": [],
+          "text_ar": "تمارين موجهة إلى التفكير العلمي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن الأعمال الذهنية التي يمكن القيام بها في أنشطة الاستعداد للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisine 1968 ilkokul programının “yöntem ve teknikler” bölümünde yer verilmemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Buluş yoluyla öğretim",
+          "images": [],
+          "text_ar": "التدريس بطريقة الاكتشاف"
+        },
+        {
+          "letter": "B",
+          "text": "Anlatım yoluyla öğretim",
+          "images": [],
+          "text_ar": "التدريس بطريقة الإلقاء"
+        },
+        {
+          "letter": "C",
+          "text": "cevap yoluyla öğretim",
+          "images": [],
+          "text_ar": "التدريس بطريقة السؤال والجواب"
+        },
+        {
+          "letter": "D",
+          "text": "Proje ile öğretim",
+          "images": [],
+          "text_ar": "التدريس بالمشروع"
+        },
+        {
+          "letter": "E",
+          "text": "Deneylerle öğretim",
+          "images": [],
+          "text_ar": "التدريس بالتجارب"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لم يُدرج في قسم «الأساليب والتقنيات» في برنامج المدرسة الابتدائية لعام 1968؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Okul Öncesi Eğitimi Programının temel özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk merkezlidir.",
+          "images": [],
+          "text_ar": "متمركز حول الطفل."
+        },
+        {
+          "letter": "B",
+          "text": "Esnektir.",
+          "images": [],
+          "text_ar": "مرن."
+        },
+        {
+          "letter": "C",
+          "text": "Dengelidir.",
+          "images": [],
+          "text_ar": "متوازن."
+        },
+        {
+          "letter": "D",
+          "text": "Oyun temellidir.",
+          "images": [],
+          "text_ar": "قائم على اللعب."
+        },
+        {
+          "letter": "E",
+          "text": "Keşfederek öğrenmeyi önemsemez.",
+          "images": [],
+          "text_ar": "لا يولي أهمية للتعلم بالاكتشاف."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من الخصائص الأساسية لبرنامج تعليم ما قبل المدرسة؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “sanat, okumaya hazırlık ve görsel materyal okuma” etkinlikleri hazırlanırken kullanılan kazanımlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Algıladıklarını hatırlar",
+          "images": [],
+          "text_ar": "يتذكر ما يدركه"
+        },
+        {
+          "letter": "B",
+          "text": "Günlük yaşam sembollerini tanır",
+          "images": [],
+          "text_ar": "يتعرف رموز الحياة اليومية"
+        },
+        {
+          "letter": "C",
+          "text": "Görsel materyalleri okur",
+          "images": [],
+          "text_ar": "يقرأ المواد البصرية"
+        },
+        {
+          "letter": "D",
+          "text": "Eksilen veya eklenen nesneyi söyler",
+          "images": [],
+          "text_ar": "يذكر الشيء الناقص أو المضاف"
+        },
+        {
+          "letter": "E",
+          "text": "Gösterilen sembolün anlamını söyler",
+          "images": [],
+          "text_ar": "يذكر معنى الرمز المعروض"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من مخرجات التعلم المستخدمة عند إعداد أنشطة «الفن والاستعداد للقراءة وقراءة المواد البصرية»؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "İlkokulda ilk okuma yazmaya başlama ve ilerleme aşamasında aşağıdaki aşamalardan hangisi yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Boyama ve çizgi çalışmaları",
+          "images": [],
+          "text_ar": "أعمال التلوين والخطوط"
+        },
+        {
+          "letter": "B",
+          "text": "Metin okuma",
+          "images": [],
+          "text_ar": "قراءة النصوص"
+        },
+        {
+          "letter": "C",
+          "text": "Harfi okuma ve yazma",
+          "images": [],
+          "text_ar": "قراءة الحرف وكتابته"
+        },
+        {
+          "letter": "D",
+          "text": "Sesi hissetme ve tanıma",
+          "images": [],
+          "text_ar": "الإحساس بالصوت والتعرف عليه"
+        },
+        {
+          "letter": "E",
+          "text": "Harflerden hece oluşturma",
+          "images": [],
+          "text_ar": "تكوين المقاطع من الحروف"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي المراحل الآتية لا يندرج ضمن مرحلة البدء بالقراءة والكتابة الأولى والتقدم فيها في المدرسة الابتدائية؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “Matematik” etkinlikleri hazırlanırken kullanılan kazanımlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eksilen veya eklenen nesneyi söyler.",
+          "images": [],
+          "text_ar": "يذكر الشيء الناقص أو المضاف."
+        },
+        {
+          "letter": "B",
+          "text": "Nesneleri sayar",
+          "images": [],
+          "text_ar": "يعد الأشياء"
+        },
+        {
+          "letter": "C",
+          "text": "Belirtilen sayı kadar nesneyi söyler",
+          "images": [],
+          "text_ar": "يذكر عدد الأشياء المحدد"
+        },
+        {
+          "letter": "D",
+          "text": "Saydığı nesnelerin kaç tane olduğunu söyler",
+          "images": [],
+          "text_ar": "يقول كم عدد الأشياء التي عدّها"
+        },
+        {
+          "letter": "E",
+          "text": "Nesneleri birbiriyle toplar ve çıkarma yapar",
+          "images": [],
+          "text_ar": "يجمع الأشياء بعضها إلى بعض ويجري عملية الطرح"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من مخرجات التعلم المستخدمة عند إعداد أنشطة «الرياضيات»؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Okul Öncesi Eğitimi ve Hayat Bilgisi Öğretimi Programlarında kazandırılabilecek ortak değerler arasında aşağıdakilerden hangisi yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vatanseverlik",
+          "images": [],
+          "text_ar": "الوطنية"
+        },
+        {
+          "letter": "B",
+          "text": "Aile birliğine önem verme",
+          "images": [],
+          "text_ar": "إيلاء أهمية لوحدة الأسرة"
+        },
+        {
+          "letter": "C",
+          "text": "Adalet",
+          "images": [],
+          "text_ar": "العدالة"
+        },
+        {
+          "letter": "D",
+          "text": "Kültürel mirasa duyarlılık",
+          "images": [],
+          "text_ar": "الحساسية تجاه التراث الثقافي"
+        },
+        {
+          "letter": "E",
+          "text": "Paylaşma",
+          "images": [],
+          "text_ar": "المشاركة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي يندرج ضمن القيم المشتركة التي يمكن تنميتها في برنامجي تعليم ما قبل المدرسة والدراسات الحياتية؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi 1948 yılı ilkokul programının genel amaç başlıkları arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Toplumsal",
+          "images": [],
+          "text_ar": "اجتماعي"
+        },
+        {
+          "letter": "B",
+          "text": "Kişisel",
+          "images": [],
+          "text_ar": "شخصي"
+        },
+        {
+          "letter": "C",
+          "text": "İnsan Münasebetleri",
+          "images": [],
+          "text_ar": "العلاقات الإنسانية"
+        },
+        {
+          "letter": "D",
+          "text": "Ekonomik Hayat",
+          "images": [],
+          "text_ar": "الحياة الاقتصادية"
+        },
+        {
+          "letter": "E",
+          "text": "Vicdan Münasebetleri",
+          "images": [],
+          "text_ar": "علاقات الضمير"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن العناوين العامة للأهداف في برنامج المدرسة الابتدائية لعام 1948؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "831eb90a967e76c716144035d3c31077ab92dd5ee675c45c1faa26c6362effaf"
+}

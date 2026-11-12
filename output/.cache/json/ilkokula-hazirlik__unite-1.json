@@ -1,0 +1,439 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "Ünite -1",
+  "exam_slug": "unite-1",
+  "page_title": "İlkokula Hazırlık Ünite -1",
+  "source_url": "https://lolonolo.com/2023/09/18/ilkokula-hazirlik-unite-1/",
+  "scraped_at": "2026-11-12T16:23:55+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "“En genel şekilde çocuğun yeni öğrenmeleri gerçekleştirebilmeleri için kendisinde aranan bilişsel, duyuşsal ve devinişsel yeterliklerdir.” şeklinde tanımlanan kavram aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hazırbulunuşluk",
+          "images": [],
+          "text_ar": "الاستعداد"
+        },
+        {
+          "letter": "B",
+          "text": "Öğrenme",
+          "images": [],
+          "text_ar": "التعلم"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim",
+          "images": [],
+          "text_ar": "النمو"
+        },
+        {
+          "letter": "D",
+          "text": "Büyüme",
+          "images": [],
+          "text_ar": "النماء"
+        },
+        {
+          "letter": "E",
+          "text": "Olgunlaşma",
+          "images": [],
+          "text_ar": "النضج"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما المفهوم المعرَّف بأنه «الكفايات المعرفية والوجدانية والحركية التي تُطلب من الطفل بصورة عامة ليتمكن من تحقيق تعلّمات جديدة»؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Okul öncesi ilkokula hazırbulunuşlukta erken çocukluk eğitim programının içeriğinde aşağıdaki seçeneklerdeki yönlerden hangisi yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil yönü",
+          "images": [],
+          "text_ar": "البعد اللغوي"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyo-ekonomik yön",
+          "images": [],
+          "text_ar": "البعد الاجتماعي-الاقتصادي"
+        },
+        {
+          "letter": "C",
+          "text": "Akademik yön",
+          "images": [],
+          "text_ar": "البعد الأكاديمي"
+        },
+        {
+          "letter": "D",
+          "text": "Okuryazarlık yönü",
+          "images": [],
+          "text_ar": "بعد القراءة والكتابة"
+        },
+        {
+          "letter": "E",
+          "text": "Bilişsel yön",
+          "images": [],
+          "text_ar": "البعد المعرفي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي الأبعاد الآتية لا يرد في محتوى برنامج تعليم الطفولة المبكرة في إطار الاستعداد للمدرسة الابتدائية في مرحلة ما قبل المدرسة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukta hazırbulunuşluğu etkileyen etmenlerden birisi olamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Biyolojik etmenler",
+          "images": [],
+          "text_ar": "العوامل البيولوجية"
+        },
+        {
+          "letter": "B",
+          "text": "Duygusal etmenler",
+          "images": [],
+          "text_ar": "العوامل العاطفية"
+        },
+        {
+          "letter": "C",
+          "text": "Çevresel etmenler",
+          "images": [],
+          "text_ar": "العوامل البيئية"
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel etmenler",
+          "images": [],
+          "text_ar": "العوامل المعرفية"
+        },
+        {
+          "letter": "E",
+          "text": "Öz düzenleyici etmenler",
+          "images": [],
+          "text_ar": "العوامل ذاتية التنظيم"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يمكن أن يكون من العوامل المؤثرة في استعداد الطفل؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okul öncesinden ilkokula geçişte hazırbulunuşluk açısından değerlendirilebilecek temel becerilerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun yeni şeyler öğrenmede meraklı olması",
+          "images": [],
+          "text_ar": "أن يكون الطفل فضوليًا في تعلّم أشياء جديدة"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun ihtiyaçlarını ifade edecek dil becerilerine sahip olması",
+          "images": [],
+          "text_ar": "أن يمتلك الطفل مهارات لغوية يعبّر بها عن احتياجاته"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun öz güvenli olması",
+          "images": [],
+          "text_ar": "أن يكون الطفل واثقًا بنفسه"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun ödevlerini annesiyle yapması",
+          "images": [],
+          "text_ar": "أن يؤدي الطفل واجباته مع أمه"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun öz bakım becerisine sahip olması",
+          "images": [],
+          "text_ar": "أن يمتلك الطفل مهارة العناية بالذات"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من المهارات الأساسية التي يمكن تقييمها من حيث الاستعداد في الانتقال من مرحلة ما قبل المدرسة إلى المدرسة الابتدائية؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun ilkokula hazırbulunuşluğunu etkileyen modellerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çevresel model",
+          "images": [],
+          "text_ar": "النموذج البيئي"
+        },
+        {
+          "letter": "B",
+          "text": "Yetenek modeli",
+          "images": [],
+          "text_ar": "نموذج القدرة"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimsel model",
+          "images": [],
+          "text_ar": "النموذج النمائي"
+        },
+        {
+          "letter": "D",
+          "text": "Çevresel- girdi modeli",
+          "images": [],
+          "text_ar": "النموذج البيئي-المدخلي"
+        },
+        {
+          "letter": "E",
+          "text": "Yeteneksel- girdi modeli",
+          "images": [],
+          "text_ar": "نموذج القدرة-المدخل"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من النماذج المؤثرة في استعداد الطفل للمدرسة الابتدائية؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi MEB tarafından okul öncesi eğitim programında çocukta bulunması gereken hazırbulunuşluk ölçütleri arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun kendi temizliğini yapabilmesi",
+          "images": [],
+          "text_ar": "أن يتمكن الطفل من القيام بنظافته الشخصية"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun anne ve evden kopmaması",
+          "images": [],
+          "text_ar": "ألا ينفصل الطفل عن أمه والمنزل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun sorumluluk almaktan korkmaması",
+          "images": [],
+          "text_ar": "ألا يخاف الطفل من تحمّل المسؤولية"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun teneffüste kendini koruyabilmesi",
+          "images": [],
+          "text_ar": "أن يتمكن الطفل من حماية نفسه في فترة الاستراحة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun öğretmenle iletişim kurabilmesi",
+          "images": [],
+          "text_ar": "أن يتمكن الطفل من التواصل مع المعلم"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن معايير الاستعداد التي يجب أن تتوفر في الطفل في برنامج تعليم ما قبل المدرسة لدى وزارة التربية الوطنية؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okula hazırbulunuşluğu etkileyen faktörlerden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zekâ düzeyi",
+          "images": [],
+          "text_ar": "مستوى الذكاء"
+        },
+        {
+          "letter": "B",
+          "text": "Dil becerileri",
+          "images": [],
+          "text_ar": "المهارات اللغوية"
+        },
+        {
+          "letter": "C",
+          "text": "Ebeveyn-çocuk ilişkisi",
+          "images": [],
+          "text_ar": "علاقة الوالدين بالطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Öğretmen-çocuk ilişkisi",
+          "images": [],
+          "text_ar": "علاقة المعلم بالطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Akran-çocuk ilişkisi",
+          "images": [],
+          "text_ar": "علاقة الأقران بالطفل"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من العوامل المؤثرة في الاستعداد للمدرسة؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun hazırbulunuşluğunu “sosyal yapılandırmacı kurama” göre değerlendirebilecek maddeler arasında yer alamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğa bütüncül yaklaşılması",
+          "images": [],
+          "text_ar": "مقاربة الطفل مقاربة شمولية"
+        },
+        {
+          "letter": "B",
+          "text": "Toplumun değer ve beklentilerinin dikkate alınması",
+          "images": [],
+          "text_ar": "مراعاة قيم المجتمع وتوقعاته"
+        },
+        {
+          "letter": "C",
+          "text": "Kültürel farklılıkların göz ardı edilmesi",
+          "images": [],
+          "text_ar": "تجاهل الفروق الثقافية"
+        },
+        {
+          "letter": "D",
+          "text": "Uygulamalar yapılması",
+          "images": [],
+          "text_ar": "إجراء تطبيقات"
+        },
+        {
+          "letter": "E",
+          "text": "Önceki değerlendirmelerin dikkate alınması",
+          "images": [],
+          "text_ar": "مراعاة التقييمات السابقة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يمكن أن يندرج ضمن الفقرات التي تُقيّم استعداد الطفل وفق «النظرية البنائية الاجتماعية»؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukta hazırbulunuşluğu değerlendiren kuramlar arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal yapılandırmacı kuram",
+          "images": [],
+          "text_ar": "النظرية البنائية الاجتماعية"
+        },
+        {
+          "letter": "B",
+          "text": "Çevreselci kuram",
+          "images": [],
+          "text_ar": "النظرية البيئية"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişselci kuram",
+          "images": [],
+          "text_ar": "النظرية المعرفية"
+        },
+        {
+          "letter": "D",
+          "text": "Olgunlaşmacı kuram",
+          "images": [],
+          "text_ar": "نظرية النضج"
+        },
+        {
+          "letter": "E",
+          "text": "Etkileşimci kuram",
+          "images": [],
+          "text_ar": "النظرية التفاعلية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي لا يندرج ضمن النظريات التي تُقيّم استعداد الطفل؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “Stanley Hall” ve “Arnold Gess” tarafından ortaya atılan hazırbulunuşluğu değerlendiren görüştür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olgunlaşmacı görüş",
+          "images": [],
+          "text_ar": "الرأي النضجي"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal yapılandırmacı görüş",
+          "images": [],
+          "text_ar": "الرأي البنائي الاجتماعي"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişselci görüş",
+          "images": [],
+          "text_ar": "الرأي المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Etkileşimci görüş",
+          "images": [],
+          "text_ar": "الرأي التفاعلي"
+        },
+        {
+          "letter": "E",
+          "text": "Çevreselci görüş",
+          "images": [],
+          "text_ar": "الرأي البيئي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي هو الرأي الذي طرحه «ستانلي هول» و«أرنولد جيس» في تقييم الاستعداد؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "c16d631679b8758a2abbaf5bef861618f7b9d1eea16d1cac0f3fe04ee67c7bac"
+}

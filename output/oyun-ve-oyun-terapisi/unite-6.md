@@ -3,7 +3,7 @@ course: OYUN VE OYUN TERAPİSİ
 exam: Ünite-6
 source_url: https://lolonolo.com/2025/10/03/oyun-ve-oyun-terapisi-unite-6/
 question_count: 10
-scraped_at: 2026-11-12T15:01:02+03:00
+scraped_at: 2026-11-12T16:23:59+03:00
 ---
 
 ### Q1

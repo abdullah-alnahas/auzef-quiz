@@ -1,0 +1,859 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Çocuk Gelişimi Uygulamaları-1 Final Deneme Sınavı -9",
+  "exam_slug": "cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-9",
+  "page_title": "Çocuk Gelişimi Uygulamaları-1 Final Deneme Sınavı -9",
+  "source_url": "https://lolonolo.com/2023/09/29/cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-9/",
+  "scraped_at": "2026-11-12T16:23:41+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Mesleki eğitim programlarında, genel yetkinliklerin yanı sıra etik değerlere uygun davranma gibi özellikleri kapsayan beceri seti hangi kategori altında ele alınmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İleri Mesleki Beceriler",
+          "images": [],
+          "text_ar": "المهارات المهنية المتقدمة"
+        },
+        {
+          "letter": "B",
+          "text": "Özel Mesleki Beceriler",
+          "images": [],
+          "text_ar": "المهارات المهنية الخاصة"
+        },
+        {
+          "letter": "C",
+          "text": "Genel Eğitim Becerileri",
+          "images": [],
+          "text_ar": "مهارات التعليم العام"
+        },
+        {
+          "letter": "D",
+          "text": "Temel Mesleki Beceriler",
+          "images": [],
+          "text_ar": "المهارات المهنية الأساسية"
+        },
+        {
+          "letter": "E",
+          "text": "Seçmeli Meslek Dersleri",
+          "images": [],
+          "text_ar": "المقررات المهنية الاختيارية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "في برامج التعليم المهني، تحت أي فئة تُدرَج مجموعة المهارات التي تشمل، إلى جانب الكفايات العامة، خصائص مثل التصرف وفق القيم الأخلاقية؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "M-CHAT Tarama ölçeği hangi özel gereksinimi belirlemeye yarayan bir ölçme aracıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Down Sendromu",
+          "images": [],
+          "text_ar": "متلازمة داون"
+        },
+        {
+          "letter": "B",
+          "text": "Otizm",
+          "images": [],
+          "text_ar": "التوحد"
+        },
+        {
+          "letter": "C",
+          "text": "Asperger",
+          "images": [],
+          "text_ar": "أسبرجر"
+        },
+        {
+          "letter": "D",
+          "text": "Zihinsel Engellilik",
+          "images": [],
+          "text_ar": "الإعاقة العقلية"
+        },
+        {
+          "letter": "E",
+          "text": "Üstün Yeteneklilik",
+          "images": [],
+          "text_ar": "الموهبة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "مقياس M-CHAT للمسح أداة قياس تهدف إلى تحديد أي احتياج خاص؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "İdeal öğretmen kavramı aşağıdakilerden hangisini içermez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kültürlenme",
+          "images": [],
+          "text_ar": "التثاقف"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyalleşme",
+          "images": [],
+          "text_ar": "التنشئة الاجتماعية"
+        },
+        {
+          "letter": "C",
+          "text": "Bireyselleşme",
+          "images": [],
+          "text_ar": "التفرد"
+        },
+        {
+          "letter": "D",
+          "text": "Disiplin",
+          "images": [],
+          "text_ar": "الانضباط"
+        },
+        {
+          "letter": "E",
+          "text": "Toplumsallaşma",
+          "images": [],
+          "text_ar": "الاندماج الاجتماعي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "مفهوم المعلم المثالي لا يشمل أي مما يلي؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Sınıf ne kadar küçük olursa olsun, bir okul öncesi sınıfında en az kaç tane öğrenme merkezi olma zorunluluğu vardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1",
+          "images": [],
+          "text_ar": "مركز واحد"
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "images": [],
+          "text_ar": "مركزان"
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "images": [],
+          "text_ar": "3 مراكز"
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "images": [],
+          "text_ar": "4 مراكز"
+        },
+        {
+          "letter": "E",
+          "text": "5",
+          "images": [],
+          "text_ar": "5 مراكز"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "مهما كان الصف صغيرًا، فما الحد الأدنى الإلزامي لعدد مراكز التعلم في صف ما قبل المدرسة؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi ve eğitimi alanına öğretmen atamalarına ilişkin bilgilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece Çocuk Gelişimi bölümü mezunları Mesleki ve Teknik liselerde öğretmen olabilirler.",
+          "images": [],
+          "text_ar": "خريجو قسم نمو الطفل فقط يمكنهم أن يصبحوا معلمين في الثانويات المهنية والتقنية."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk Gelişimi bölümü mezunları doğrudan öğretmen olarak atanabilirler.",
+          "images": [],
+          "text_ar": "يمكن تعيين خريجي قسم نمو الطفل مباشرة معلمين."
+        },
+        {
+          "letter": "C",
+          "text": "Pedagojik formasyon eğitimi ya da tezsiz yüksek lisans yapma koşulu, Çocuk Gelişimi bölümü mezunları için öğretmenlik için bir zorunluluktur.",
+          "images": [],
+          "text_ar": "شرط الحصول على تدريب التكوين التربوي أو الماجستير بدون رسالة إلزامي لخريجي قسم نمو الطفل للتدريس."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk Gelişimi bölümü mezunları sadece üniversitelerde görev yapabilirler.",
+          "images": [],
+          "text_ar": "يمكن لخريجي قسم نمو الطفل العمل في الجامعات فقط."
+        },
+        {
+          "letter": "E",
+          "text": "MEB, Çocuk Gelişimi bölümü mezunları için tezsiz yüksek lisans programını kaldırmıştır.",
+          "images": [],
+          "text_ar": "ألغت وزارة التربية الوطنية برنامج الماجستير بدون رسالة لخريجي قسم نمو الطفل."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من المعلومات المتعلقة بتعيين المعلمين في مجال نمو الطفل وتعليمه صحيح؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi ve eğitimi çerçeve öğretim programının hangi bileşeni, öğrencilere kendi yetenekleri, ilgileri ve hedefleri doğrultusunda bireysel olarak öğrenme ve gelişme fırsatları sunar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genel Kültür",
+          "images": [],
+          "text_ar": "الثقافة العامة"
+        },
+        {
+          "letter": "B",
+          "text": "Yükseköğretim Hazırlığı",
+          "images": [],
+          "text_ar": "الاستعداد للتعليم العالي"
+        },
+        {
+          "letter": "C",
+          "text": "Mesleki Yönlendirme",
+          "images": [],
+          "text_ar": "التوجيه المهني"
+        },
+        {
+          "letter": "D",
+          "text": "Kişisel Gelişim",
+          "images": [],
+          "text_ar": "النمو الشخصي"
+        },
+        {
+          "letter": "E",
+          "text": "Temel Mesleki Beceriler",
+          "images": [],
+          "text_ar": "المهارات المهنية الأساسية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مكوّن من مكونات برنامج التعليم الإطاري لمجال نمو الطفل وتعليمه يقدم للطلاب فرصًا فردية للتعلم والنمو وفقًا لقدراتهم واهتماماتهم وأهدافهم؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk Koruma Evlerinden yararlanabilecek çocukların yaşları en fazla kaç olabilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3 yaş",
+          "images": [],
+          "text_ar": "3 سنوات"
+        },
+        {
+          "letter": "B",
+          "text": "6 yaş",
+          "images": [],
+          "text_ar": "6 سنوات"
+        },
+        {
+          "letter": "C",
+          "text": "12 yaş",
+          "images": [],
+          "text_ar": "12 سنة"
+        },
+        {
+          "letter": "D",
+          "text": "15 yaş",
+          "images": [],
+          "text_ar": "15 سنة"
+        },
+        {
+          "letter": "E",
+          "text": "18 yaş",
+          "images": [],
+          "text_ar": "18 سنة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "كم يمكن أن يكون عمر الأطفال الذين يمكنهم الاستفادة من بيوت حماية الطفل على الأكثر؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Anne-Çocuk Oyun Merkezi ile ilgili verilen bilgilerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "7 gün 24 saat hizmet vermektedir.",
+          "images": [],
+          "text_ar": "يقدم خدماته 7 أيام على مدار 24 ساعة."
+        },
+        {
+          "letter": "B",
+          "text": "Katılım için öncelikle kaydolunması gerekmektedir.",
+          "images": [],
+          "text_ar": "يجب التسجيل أولًا للمشاركة."
+        },
+        {
+          "letter": "C",
+          "text": "Hem lisans hem ön lisans mezunu olan çocuk gelişimciler burada görev alabilmektedir.",
+          "images": [],
+          "text_ar": "يمكن لأخصائيي نمو الطفل من حملة البكالوريوس والدرجة المتوسطة على حد سواء العمل هنا."
+        },
+        {
+          "letter": "D",
+          "text": "Her merkezde sadece 1 tane merkez sorumlusu vardır.",
+          "images": [],
+          "text_ar": "يوجد مسؤول مركز واحد فقط في كل مركز."
+        },
+        {
+          "letter": "E",
+          "text": "Annelere çocukları ile nasıl oyun oynaması gerektiği öğretilmektedir.",
+          "images": [],
+          "text_ar": "تُعلَّم الأمهات كيفية اللعب مع أطفالهن."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من المعلومات التالية عن مركز اللعب للأم والطفل غير صحيحة؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Çocuklarla yapılan araştırmalarda çocuğun yaşına ve anlama kapasitesine uygun olarak hangi bilgilerin açıklanması esastır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun geçmişi",
+          "images": [],
+          "text_ar": "ماضي الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Araştırmanın maliyeti",
+          "images": [],
+          "text_ar": "تكلفة البحث"
+        },
+        {
+          "letter": "C",
+          "text": "Araştırmanın amacı, yöntemi, süresi ve olası riskleri",
+          "images": [],
+          "text_ar": "هدف البحث ومنهجه ومدته ومخاطره المحتملة"
+        },
+        {
+          "letter": "D",
+          "text": "Araştırmayı kimin finanse ettiği",
+          "images": [],
+          "text_ar": "الجهة التي تموّل البحث"
+        },
+        {
+          "letter": "E",
+          "text": "Araştırmacıların geçmişi",
+          "images": [],
+          "text_ar": "ماضي الباحثين"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "في البحوث التي تُجرى مع الأطفال، ما المعلومات التي يجب بيانها بما يتناسب مع عمر الطفل وقدرته على الفهم؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Kadın Danışma Merkezlerinin kadınlara sunduğu destek hizmetlerinden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikolojik Destek",
+          "images": [],
+          "text_ar": "الدعم النفسي"
+        },
+        {
+          "letter": "B",
+          "text": "Hukuksal Destek",
+          "images": [],
+          "text_ar": "الدعم القانوني"
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal Destek",
+          "images": [],
+          "text_ar": "الدعم الاجتماعي"
+        },
+        {
+          "letter": "D",
+          "text": "Ekonomik Destek",
+          "images": [],
+          "text_ar": "الدعم الاقتصادي"
+        },
+        {
+          "letter": "E",
+          "text": "Sağlıksal Destek",
+          "images": [],
+          "text_ar": "الدعم الصحي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من خدمات الدعم التي تقدمها مراكز إرشاد المرأة للنساء؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Belediyelere bağlı olan Çocuk Evleri kaç yaş grubu çocuklara hizmet vermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0-12 aylık bebekler",
+          "images": [],
+          "text_ar": "الرضّع بين 0-12 شهرًا"
+        },
+        {
+          "letter": "B",
+          "text": "12-24 aylık çocuklar",
+          "images": [],
+          "text_ar": "الأطفال بين 12-24 شهرًا"
+        },
+        {
+          "letter": "C",
+          "text": "24-48 aylık çocuklar",
+          "images": [],
+          "text_ar": "الأطفال بين 24-48 شهرًا"
+        },
+        {
+          "letter": "D",
+          "text": "36-60 aylık çocuklar",
+          "images": [],
+          "text_ar": "الأطفال بين 36-60 شهرًا"
+        },
+        {
+          "letter": "E",
+          "text": "0-18 yaş arası tüm çocuklar",
+          "images": [],
+          "text_ar": "جميع الأطفال بين 0-18 سنة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "لأي فئة عمرية من الأطفال تقدم بيوت الطفل التابعة للبلديات خدماتها؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimciler Kültür ve Turizm Bakanlığı’na bağlı hangi kurumda çalışabilirler?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hastanelerde",
+          "images": [],
+          "text_ar": "في المستشفيات"
+        },
+        {
+          "letter": "B",
+          "text": "Kütüphanelerde",
+          "images": [],
+          "text_ar": "في المكتبات"
+        },
+        {
+          "letter": "C",
+          "text": "Üniversitelerde",
+          "images": [],
+          "text_ar": "في الجامعات"
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal Hizmet Merkezlerinde",
+          "images": [],
+          "text_ar": "في مراكز الخدمة الاجتماعية"
+        },
+        {
+          "letter": "E",
+          "text": "Meslek liselerinde",
+          "images": [],
+          "text_ar": "في الثانويات المهنية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "في أي مؤسسة تابعة لوزارة الثقافة والسياحة يمكن لأخصائيي نمو الطفل أن يعملوا؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi alanında çalışan profesyoneller için hangi dernek çocuklarla çalışırken gözetilmesi gereken etik prensipleri belirlemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "WHO",
+          "images": [],
+          "text_ar": "منظمة الصحة العالمية (WHO)"
+        },
+        {
+          "letter": "B",
+          "text": "UNICEF",
+          "images": [],
+          "text_ar": "صندوق الأمم المتحدة للطفولة (UNICEF)"
+        },
+        {
+          "letter": "C",
+          "text": "UNDP",
+          "images": [],
+          "text_ar": "برنامج الأمم المتحدة الإنمائي (UNDP)"
+        },
+        {
+          "letter": "D",
+          "text": "UNESCO",
+          "images": [],
+          "text_ar": "منظمة الأمم المتحدة للتربية والعلم والثقافة (UNESCO)"
+        },
+        {
+          "letter": "E",
+          "text": "UNEP",
+          "images": [],
+          "text_ar": "برنامج الأمم المتحدة للبيئة (UNEP)"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي جمعية حددت المبادئ الأخلاقية التي يجب مراعاتها عند العمل مع الأطفال للمهنيين العاملين في مجال نمو الطفل؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Türkiye’de uygulanan Okul Öncesi Eğitim Programının temel amaçlarından birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlkokulda gerekli olan temel becerileri kazandırmak",
+          "images": [],
+          "text_ar": "إكساب المهارات الأساسية اللازمة في المدرسة الابتدائية"
+        },
+        {
+          "letter": "B",
+          "text": "En az 1 yabancı dil ve 1 sanat alanında çocukları desteklemek",
+          "images": [],
+          "text_ar": "دعم الأطفال في مجال لغة أجنبية واحدة على الأقل وفن واحد على الأقل"
+        },
+        {
+          "letter": "C",
+          "text": "Türkçeyi doğru ve güzel kullanmasını sağlamak",
+          "images": [],
+          "text_ar": "تمكين الطفل من استخدام التركية استخدامًا صحيحًا وجميلًا"
+        },
+        {
+          "letter": "D",
+          "text": "Dezavantajlı çocuklar ve aileleri için demokratik eğitim fırsatları sunmak",
+          "images": [],
+          "text_ar": "تقديم فرص تعليمية ديمقراطية للأطفال المحرومين وأسرهم"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklara iyi alışkanlıklar kazandırmak",
+          "images": [],
+          "text_ar": "إكساب الأطفال عادات جيدة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من الأهداف الأساسية لبرنامج تعليم ما قبل المدرسة المطبق في تركيا؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Okul Öncesi Eğitim Programında aşağıdaki hangi gelişim alanı için ayrı bir kazanım listesi oluşturulmamıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel Gelişim",
+          "images": [],
+          "text_ar": "النمو المعرفي"
+        },
+        {
+          "letter": "B",
+          "text": "Dil Gelişimi",
+          "images": [],
+          "text_ar": "تطور اللغة"
+        },
+        {
+          "letter": "C",
+          "text": "Ahlak Gelişimi",
+          "images": [],
+          "text_ar": "النمو الأخلاقي"
+        },
+        {
+          "letter": "D",
+          "text": "Motor Gelişimi",
+          "images": [],
+          "text_ar": "النمو الحركي"
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal Duygusal Gelişim",
+          "images": [],
+          "text_ar": "النمو الاجتماعي-العاطفي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مجال من مجالات النمو التالية لم تُوضع له قائمة مستقلة لمخرجات التعلم في برنامج تعليم ما قبل المدرسة؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Toplum Sağlığı Merkezlerinin ana görevi aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların fiziksel ihtiyaçlarına yanıt vermek",
+          "images": [],
+          "text_ar": "تلبية الاحتياجات الجسدية للأطفال"
+        },
+        {
+          "letter": "B",
+          "text": "Öğrencilere eğitim vermek",
+          "images": [],
+          "text_ar": "تقديم التعليم للطلاب"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnızca çocuklara yönelik hizmet vermek",
+          "images": [],
+          "text_ar": "تقديم خدمات للأطفال فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Toplumun ve bireylerin sağlığını korumak ve sağlık düzeylerini yükseltmek",
+          "images": [],
+          "text_ar": "حماية صحة المجتمع والأفراد والارتقاء بمستوياتهم الصحية"
+        },
+        {
+          "letter": "E",
+          "text": "Aile danışmanlığı yapmak",
+          "images": [],
+          "text_ar": "تقديم الإرشاد الأسري"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما المهمة الرئيسية لمراكز صحة المجتمع؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Okul Öncesi Eğitim Programında özel gereksinimli çocuklar için etkinlikler üzerinde yapılan düzenlemeler ne olarak adlandırılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gün Akışı",
+          "images": [],
+          "text_ar": "التسلسل اليومي"
+        },
+        {
+          "letter": "B",
+          "text": "Oryantasyon",
+          "images": [],
+          "text_ar": "التوجيه"
+        },
+        {
+          "letter": "C",
+          "text": "Bütünleştirme",
+          "images": [],
+          "text_ar": "الدمج"
+        },
+        {
+          "letter": "D",
+          "text": "Planlama",
+          "images": [],
+          "text_ar": "التخطيط"
+        },
+        {
+          "letter": "E",
+          "text": "Uyarlama",
+          "images": [],
+          "text_ar": "التكييف"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ماذا تُسمَّى التعديلات التي تُجرى على الأنشطة من أجل الأطفال ذوي الاحتياجات الخاصة في برنامج تعليم ما قبل المدرسة؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi mesleki etik kodları arasında hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk ve yetişkinlerle saygı ve güven ilişkisi kurmak",
+          "images": [],
+          "text_ar": "إقامة علاقة احترام وثقة مع الأطفال والبالغين"
+        },
+        {
+          "letter": "B",
+          "text": "Yeni fikir ve bilgileri reddetme",
+          "images": [],
+          "text_ar": "رفض الأفكار والمعلومات الجديدة"
+        },
+        {
+          "letter": "C",
+          "text": "Meslektaşlarına rehber olmak",
+          "images": [],
+          "text_ar": "أن يكون مرشدًا لزملائه"
+        },
+        {
+          "letter": "D",
+          "text": "Yapılan hizmetlerin hukuki boyutlarının farkında olmak",
+          "images": [],
+          "text_ar": "إدراك الأبعاد القانونية للخدمات المقدمة"
+        },
+        {
+          "letter": "E",
+          "text": "Her bireyin benzersizliği ve değerine saygı duymak",
+          "images": [],
+          "text_ar": "احترام تفرد كل فرد وقيمته"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من مدونات الأخلاق المهنية في مجال نمو الطفل؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "I. Programı Değerlendirme II. Çocuğu Değerlendirme III. Öğretmenin Kendini Değerlendirmesi Okul Öncesi Eğitim Programında yukarıdaki değerlendirme modellerinden hangisi ya da hangileri yapılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "E",
+          "text": "I-II-III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. تقييم البرنامج II. تقييم الطفل III. تقييم المعلم لذاته. في برنامج تعليم ما قبل المدرسة، أي من نماذج التقييم المذكورة أعلاه أو أيها ينبغي تنفيذه؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi ve eğitimi alanı çerçeve öğretim programında hangi iki dal yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Müzik ve Dramatik Etkinlikler, İlk Yardım",
+          "images": [],
+          "text_ar": "الموسيقى والأنشطة الدرامية، الإسعاف الأولي"
+        },
+        {
+          "letter": "B",
+          "text": "Oyuncak Hazırlama, Çocuk Edebiyatı",
+          "images": [],
+          "text_ar": "إعداد الألعاب، أدب الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Erken Çocukluk Eğitimi, Özel Eğitim",
+          "images": [],
+          "text_ar": "تعليم الطفولة المبكرة، التربية الخاصة"
+        },
+        {
+          "letter": "D",
+          "text": "İşletmelerde Mesleki Eğitim, Çocuk Etkinlikleri",
+          "images": [],
+          "text_ar": "التدريب المهني في المؤسسات، أنشطة الأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Sanat ve Oyun, Hikaye ve Masal Anlatıcılığı",
+          "images": [],
+          "text_ar": "الفن واللعب، سرد القصص والحكايات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي فرعين يردان في برنامج التعليم الإطاري لمجال نمو الطفل وتعليمه؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "c5c576d7e82e7e4e70eab1be28d3024233db1a046f7001df7c482eb5306df99e"
+}

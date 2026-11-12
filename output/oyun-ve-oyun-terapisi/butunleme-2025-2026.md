@@ -3,7 +3,7 @@ course: OYUN VE OYUN TERAPİSİ
 exam: 2025-2026 Bütünleme Soruları
 source_url: https://lolonolo.com/2026/10/08/oyun-ve-oyun-terapisi-2025-2026-butunleme-sorulari/
 question_count: 25
-scraped_at: 2026-11-12T14:58:26+03:00
+scraped_at: 2026-11-12T16:21:37+03:00
 ---
 
 ### Q1

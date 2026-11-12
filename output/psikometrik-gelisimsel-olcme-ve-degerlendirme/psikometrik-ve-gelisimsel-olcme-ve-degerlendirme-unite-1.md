@@ -3,7 +3,7 @@ course: PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME
 exam: Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -1
 source_url: https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-1/
 question_count: 10
-scraped_at: 2026-11-12T15:01:05+03:00
+scraped_at: 2026-11-12T16:24:05+03:00
 ---
 
 ### Q1

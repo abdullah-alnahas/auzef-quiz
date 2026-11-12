@@ -3,7 +3,7 @@ course: İLKOKULA HAZIRLIK
 exam: Ünite -7
 source_url: https://lolonolo.com/2023/09/19/ilkokula-hazirlik-unite-7/
 question_count: 10
-scraped_at: 2026-11-12T15:00:59+03:00
+scraped_at: 2026-11-12T16:23:55+03:00
 ---
 
 ### Q1

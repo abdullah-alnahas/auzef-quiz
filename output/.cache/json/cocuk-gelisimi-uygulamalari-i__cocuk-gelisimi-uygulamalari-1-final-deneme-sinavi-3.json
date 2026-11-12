@@ -1,0 +1,859 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -3",
+  "exam_slug": "cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-3",
+  "page_title": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -3",
+  "source_url": "https://lolonolo.com/2023/09/28/cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-3/",
+  "scraped_at": "2026-11-12T16:23:40+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Tam zamanlı kaynaştırma/bütünleştirme yoluyla eğitim ile ilgili aşağıda verilen lerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece özel eğitim sınıflarında.",
+          "images": [],
+          "text_ar": "في صفوف التربية الخاصة فقط."
+        },
+        {
+          "letter": "B",
+          "text": "Yarı zamanlı genel eğitim sınıflarında.",
+          "images": [],
+          "text_ar": "في صفوف التعليم العام على أساس دوام جزئي."
+        },
+        {
+          "letter": "C",
+          "text": "Bir okul günü boyunca genel eğitim sınıfında.",
+          "images": [],
+          "text_ar": "في صف التعليم العام طوال يوم دراسي كامل."
+        },
+        {
+          "letter": "D",
+          "text": "Özel eğitim danışmanının ofisinde.",
+          "images": [],
+          "text_ar": "في مكتب مرشد التربية الخاصة."
+        },
+        {
+          "letter": "E",
+          "text": "Sadece evde.",
+          "images": [],
+          "text_ar": "في المنزل فقط."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي صحيح بشأن التعليم بالدمج/التضمين على أساس التفرغ الكامل؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Milli Eğitim Bakanlığı Özel Eğitim Hizmetleri yönetmeliğinde özel eğitimin tanımı olarak belirtilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel eğitim ihtiyacı duyan bireyler için özel yetiştirilmiş personel, uyarlanmış eğitim programları ve yöntemleriyle bireyin ihtiyaçlarına uygun ortamlarda gerçekleştirilen eğitimdir.",
+          "images": [],
+          "text_ar": "تعليم يُقدَّم للأفراد ذوي الاحتياجات التربوية الخاصة بواسطة كوادر مدرّبة تدريبًا خاصًا وبرامج تعليمية وأساليب مكيّفة، وفي بيئات تلائم احتياجات الفرد."
+        },
+        {
+          "letter": "B",
+          "text": "Özel eğitim ihtiyaçları olan bireylerin normal gelişim gösteren akranlarıyla birlikte aynı sınıfta eğitime entegre edilmesidir.",
+          "images": [],
+          "text_ar": "دمج الأفراد ذوي الاحتياجات التربوية الخاصة في التعليم داخل الصف نفسه مع أقرانهم ذوي النمو الطبيعي."
+        },
+        {
+          "letter": "C",
+          "text": "Bireyin bir yaralanma veya sapma nedeniyle karşılaştığı zorluklar.",
+          "images": [],
+          "text_ar": "الصعوبات التي يواجهها الفرد نتيجة إصابة أو انحراف."
+        },
+        {
+          "letter": "D",
+          "text": "Bireyin yaş, cinsiyet, sosyal ve kültürel faktörlere göre belirlenen rolleri yeterli bir şekilde yerine getirememesi durumudur.",
+          "images": [],
+          "text_ar": "حالة عدم قدرة الفرد على أداء الأدوار المحددة له وفقًا للعمر والجنس والعوامل الاجتماعية والثقافية على نحو كافٍ."
+        },
+        {
+          "letter": "E",
+          "text": "Bireyin gelişim özellikleri bakımından diğer akranlarından anlamlı şekilde farklılık göstermesi.",
+          "images": [],
+          "text_ar": "اختلاف الفرد اختلافًا دالًّا عن أقرانه الآخرين من حيث خصائص النمو."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ورد في لائحة خدمات التربية الخاصة الصادرة عن وزارة التربية الوطنية تعريفًا للتربية الخاصة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Özel Eğitim Anaokulu açmak için en önemli koşul aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Akıllı bina olması",
+          "images": [],
+          "text_ar": "أن تكون مبنى ذكيًا"
+        },
+        {
+          "letter": "B",
+          "text": "Müstakil bir yapı olması",
+          "images": [],
+          "text_ar": "أن تكون مبنى مستقلًا"
+        },
+        {
+          "letter": "C",
+          "text": "Bahçesinin olması",
+          "images": [],
+          "text_ar": "أن يكون لها حديقة"
+        },
+        {
+          "letter": "D",
+          "text": "Yerden ısıtma sisteminde olması",
+          "images": [],
+          "text_ar": "أن تكون مزودة بنظام تدفئة أرضية"
+        },
+        {
+          "letter": "E",
+          "text": "Şehirden uzak bir alanda olması",
+          "images": [],
+          "text_ar": "أن تكون في منطقة بعيدة عن المدينة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما الشرط الأهم لفتح روضة أطفال للتربية الخاصة؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Rehberlik ve Araştırma Merkezi’nin (RAM) hangi bakanlığa bağlı olarak faaliyet göstermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sağlık Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الصحة"
+        },
+        {
+          "letter": "B",
+          "text": "Aile ve Sosyal Politikalar Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الأسرة والسياسات الاجتماعية"
+        },
+        {
+          "letter": "C",
+          "text": "Milli Eğitim Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة التربية الوطنية"
+        },
+        {
+          "letter": "D",
+          "text": "Gençlik ve Spor Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الشباب والرياضة"
+        },
+        {
+          "letter": "E",
+          "text": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة العمل والضمان الاجتماعي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "تحت أي وزارة يعمل مركز الإرشاد والبحث (RAM)؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda verilen çocuğu tanıma ve değerlendirme süreçleri ile ilgili bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukları değerlendirirken çocuğun güçlü yanlarına odaklanmalıdır.",
+          "images": [],
+          "text_ar": "عند تقييم الأطفال ينبغي التركيز على جوانب القوة لديهم."
+        },
+        {
+          "letter": "B",
+          "text": "Hem çocuğun hem de ebeveynin izni olmalıdır.",
+          "images": [],
+          "text_ar": "يجب الحصول على موافقة كل من الطفل والوالدين."
+        },
+        {
+          "letter": "C",
+          "text": "Ortaya çıkan tanılar tüm herkesle rahatça paylaşılmalıdır.",
+          "images": [],
+          "text_ar": "يجب مشاركة التشخيصات الناتجة مع الجميع بحرية."
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirme yaparken tüm gelişim alanı bir bütün şekilde ele alınmalıdır.",
+          "images": [],
+          "text_ar": "عند التقييم ينبغي تناول مجالات النمو جميعها بوصفها كلًّا متكاملًا."
+        },
+        {
+          "letter": "E",
+          "text": "Hem formal hem de İnformal değerlendirmeyi birlikte yapmak sonucun güvenirliğini arttırır.",
+          "images": [],
+          "text_ar": "إجراء التقييم الرسمي وغير الرسمي معًا يزيد ثبات النتيجة."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من المعلومات التالية عن عمليات التعرف على الطفل وتقييمه غير صحيحة؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Milli Eğitim Bakanlığına bağlı olarak açılacak bir kurumun alkollü içecek satışı yapan yerlerden en az ne kadar uzakta olması gerekmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "50 metre",
+          "images": [],
+          "text_ar": "50 مترًا"
+        },
+        {
+          "letter": "B",
+          "text": "100 metre",
+          "images": [],
+          "text_ar": "100 متر"
+        },
+        {
+          "letter": "C",
+          "text": "200 metre",
+          "images": [],
+          "text_ar": "200 متر"
+        },
+        {
+          "letter": "D",
+          "text": "250 metre",
+          "images": [],
+          "text_ar": "250 مترًا"
+        },
+        {
+          "letter": "E",
+          "text": "500 metre",
+          "images": [],
+          "text_ar": "500 متر"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "على أي مسافة على الأقل يجب أن تكون المؤسسة التي ستُفتح تابعًا لوزارة التربية الوطنية من الأماكن التي تبيع المشروبات الكحولية؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Okul Öncesi Eğitim Programında özel gereksinimli çocuklar için etkinlikler üzerinde yapılan düzenlemeler ne olarak adlandırılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gün Akışı",
+          "images": [],
+          "text_ar": "التسلسل اليومي"
+        },
+        {
+          "letter": "B",
+          "text": "Oryantasyon",
+          "images": [],
+          "text_ar": "التوجيه"
+        },
+        {
+          "letter": "C",
+          "text": "Bütünleştirme",
+          "images": [],
+          "text_ar": "الدمج"
+        },
+        {
+          "letter": "D",
+          "text": "Planlama",
+          "images": [],
+          "text_ar": "التخطيط"
+        },
+        {
+          "letter": "E",
+          "text": "Uyarlama",
+          "images": [],
+          "text_ar": "التكييف"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ماذا تُسمَّى التعديلات التي تُجرى على الأنشطة من أجل الأطفال ذوي الاحتياجات الخاصة في برنامج تعليم ما قبل المدرسة؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "I. Programı Değerlendirme II. Çocuğu Değerlendirme III. Öğretmenin Kendini Değerlendirmesi Okul Öncesi Eğitim Programında yukarıdaki değerlendirme modellerinden hangisi ya da hangileri yapılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "E",
+          "text": "I-II-III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "I. تقييم البرنامج II. تقييم الطفل III. تقييم المعلم لذاته. في برنامج تعليم ما قبل المدرسة، أي من نماذج التقييم المذكورة أعلاه أو أيها ينبغي تنفيذه؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi formal değerlendirme araçlarından birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hazırbulunuşluk Testleri",
+          "images": [],
+          "text_ar": "اختبارات الاستعداد"
+        },
+        {
+          "letter": "B",
+          "text": "Başarı Testleri",
+          "images": [],
+          "text_ar": "اختبارات التحصيل"
+        },
+        {
+          "letter": "C",
+          "text": "Gözlem Formları",
+          "images": [],
+          "text_ar": "استمارات الملاحظة"
+        },
+        {
+          "letter": "D",
+          "text": "Yetenek Testleri",
+          "images": [],
+          "text_ar": "اختبارات القدرات"
+        },
+        {
+          "letter": "E",
+          "text": "Gelişimsel Tarama Testleri",
+          "images": [],
+          "text_ar": "اختبارات المسح النمائي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من أدوات التقييم الرسمية؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi eğitsel değerlendirme ve tanılama sürecinin temel ilkelerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireyin ihtiyaçları dikkate alınarak en uygun ortamda gerçekleştirilir.",
+          "images": [],
+          "text_ar": "تُجرى في البيئة الأنسب مع مراعاة احتياجات الفرد."
+        },
+        {
+          "letter": "B",
+          "text": "Herhangi bir yaşta yapılabilir.",
+          "images": [],
+          "text_ar": "يمكن إجراؤها في أي عمر."
+        },
+        {
+          "letter": "C",
+          "text": "Bireyin özel ihtiyaçlarına bağlı olarak çeşitli yöntem, teknik ve uygun ölçme araçlarıyla yapılır.",
+          "images": [],
+          "text_ar": "تُجرى بأساليب وتقنيات متنوعة وبأدوات قياس مناسبة، وفقًا للاحتياجات الخاصة للفرد."
+        },
+        {
+          "letter": "D",
+          "text": "Aile, okul ve uzmanlar birlikte çalışırlar.",
+          "images": [],
+          "text_ar": "تعمل الأسرة والمدرسة والخبراء معًا."
+        },
+        {
+          "letter": "E",
+          "text": "Ailenin ve gerektiğinde bireyin görüşüne başvurulmaktadır.",
+          "images": [],
+          "text_ar": "يُستشار رأي الأسرة ورأي الفرد عند الحاجة."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من المبادئ الأساسية لعملية التقييم والتشخيص التربوي؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi informal değerlendirme araçlarından birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ev Ödevleri",
+          "images": [],
+          "text_ar": "الواجبات المنزلية"
+        },
+        {
+          "letter": "B",
+          "text": "Görüşme Notları",
+          "images": [],
+          "text_ar": "ملاحظات المقابلات"
+        },
+        {
+          "letter": "C",
+          "text": "Gözlem Listeleri",
+          "images": [],
+          "text_ar": "قوائم الملاحظة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların Resimleri",
+          "images": [],
+          "text_ar": "رسوم الأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Ankara Gelişim Tarama Envanteri",
+          "images": [],
+          "text_ar": "قائمة أنقرة للمسح النمائي (AGTE)"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أدوات التقييم غير الرسمية؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Sınıf ne kadar küçük olursa olsun, bir okul öncesi sınıfında en az kaç tane öğrenme merkezi olma zorunluluğu vardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1",
+          "images": [],
+          "text_ar": "مركز واحد"
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "images": [],
+          "text_ar": "مركزان"
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "images": [],
+          "text_ar": "3 مراكز"
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "images": [],
+          "text_ar": "4 مراكز"
+        },
+        {
+          "letter": "E",
+          "text": "5",
+          "images": [],
+          "text_ar": "5 مراكز"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "مهما كان الصف صغيرًا، فما الحد الأدنى الإلزامي لعدد مراكز التعلم في صف ما قبل المدرسة؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Okul Öncesi Eğitim Programında aşağıdaki hangi gelişim alanı için ayrı bir kazanım listesi oluşturulmamıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel Gelişim",
+          "images": [],
+          "text_ar": "النمو المعرفي"
+        },
+        {
+          "letter": "B",
+          "text": "Dil Gelişimi",
+          "images": [],
+          "text_ar": "تطور اللغة"
+        },
+        {
+          "letter": "C",
+          "text": "Ahlak Gelişimi",
+          "images": [],
+          "text_ar": "النمو الأخلاقي"
+        },
+        {
+          "letter": "D",
+          "text": "Motor Gelişimi",
+          "images": [],
+          "text_ar": "النمو الحركي"
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal Duygusal Gelişim",
+          "images": [],
+          "text_ar": "النمو الاجتماعي-العاطفي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مجال من مجالات النمو التالية لم تُوضع له قائمة مستقلة لمخرجات التعلم في برنامج تعليم ما قبل المدرسة؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Türkiye’de uygulanan Okul Öncesi Eğitim Programının temel amaçlarından birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlkokulda gerekli olan temel becerileri kazandırmak",
+          "images": [],
+          "text_ar": "إكساب المهارات الأساسية اللازمة في المدرسة الابتدائية"
+        },
+        {
+          "letter": "B",
+          "text": "En az 1 yabancı dil ve 1 sanat alanında çocukları desteklemek",
+          "images": [],
+          "text_ar": "دعم الأطفال في مجال لغة أجنبية واحدة على الأقل وفن واحد على الأقل"
+        },
+        {
+          "letter": "C",
+          "text": "Türkçeyi doğru ve güzel kullanmasını sağlamak",
+          "images": [],
+          "text_ar": "تمكين الطفل من استخدام التركية استخدامًا صحيحًا وجميلًا"
+        },
+        {
+          "letter": "D",
+          "text": "Dezavantajlı çocuklar ve aileleri için demokratik eğitim fırsatları sunmak",
+          "images": [],
+          "text_ar": "تقديم فرص تعليمية ديمقراطية للأطفال المحرومين وأسرهم"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklara iyi alışkanlıklar kazandırmak",
+          "images": [],
+          "text_ar": "إكساب الأطفال عادات جيدة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من الأهداف الأساسية لبرنامج تعليم ما قبل المدرسة المطبق في تركيا؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Kaç yaşını doldurmuş çocuklar ebeveynlerin yazılı izni olmadan ilkokula kayıt yaptırabilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "48 aylık",
+          "images": [],
+          "text_ar": "48 شهرًا"
+        },
+        {
+          "letter": "B",
+          "text": "52 aylık",
+          "images": [],
+          "text_ar": "52 شهرًا"
+        },
+        {
+          "letter": "C",
+          "text": "58 aylık",
+          "images": [],
+          "text_ar": "58 شهرًا"
+        },
+        {
+          "letter": "D",
+          "text": "66 aylık",
+          "images": [],
+          "text_ar": "66 شهرًا"
+        },
+        {
+          "letter": "E",
+          "text": "69 aylık",
+          "images": [],
+          "text_ar": "69 شهرًا"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي الأطفال الذين أتموا كم شهرًا يمكنهم التسجيل في المدرسة الابتدائية دون إذن كتابي من الوالدين؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Aile Danışmanlığı Merkezi Açmak için gerekli olan fiziksel özelliklerden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Muhakkak bekleme salonu olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن تكون هناك صالة انتظار بالضرورة."
+        },
+        {
+          "letter": "B",
+          "text": "En az 2 adet görüşme odası olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن تكون هناك غرفتا مقابلة على الأقل."
+        },
+        {
+          "letter": "C",
+          "text": "En az 750 kişi kapasiteli konferans salonu olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن تكون هناك قاعة مؤتمرات بسعة 750 شخصًا على الأقل."
+        },
+        {
+          "letter": "D",
+          "text": "Yönetici odası ya da odaları olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن يكون هناك مكتب أو مكاتب للمدير."
+        },
+        {
+          "letter": "E",
+          "text": "Hem çocukların kayıtlarının hem de kuruma ait resmi belgelerin depolanması için arşivin olması gerekmektedir.",
+          "images": [],
+          "text_ar": "يجب أن يوجد أرشيف لحفظ سجلات الأطفال والوثائق الرسمية الخاصة بالمؤسسة."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من الخصائص الفيزيائية اللازمة لفتح مركز إرشاد أسري؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "“Erken yaşta tanı konulan durumlar için alınacak önlemler, çocuğun gelişimi için büyük önem taşır.” ifadesi çocuğu tanıma ve değerlendirme sürecindeki uygulanacak olan hangi genel ilke kapsamına girmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Erkenlik İlkesi",
+          "images": [],
+          "text_ar": "مبدأ التبكير"
+        },
+        {
+          "letter": "B",
+          "text": "Bütünlük İlkesi",
+          "images": [],
+          "text_ar": "مبدأ التكامل"
+        },
+        {
+          "letter": "C",
+          "text": "Gizlilik İlkesi",
+          "images": [],
+          "text_ar": "مبدأ السرية"
+        },
+        {
+          "letter": "D",
+          "text": "İşbirliği İlkesi",
+          "images": [],
+          "text_ar": "مبدأ التعاون"
+        },
+        {
+          "letter": "E",
+          "text": "Yeterlilik İlkesi",
+          "images": [],
+          "text_ar": "مبدأ الكفاية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "«تكتسب التدابير المتخذة في الحالات التي تُشخَّص في سن مبكرة أهمية كبيرة لنمو الطفل.» تدخل العبارة أعلاه في نطاق أي مبدأ عام من المبادئ التي تُطبَّق في عملية التعرف على الطفل وتقييمه؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Özel bir anaokulu açarken okulda en az kaç çocuğun olması gerekmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5 çocuk",
+          "images": [],
+          "text_ar": "5 أطفال"
+        },
+        {
+          "letter": "B",
+          "text": "10 çocuk",
+          "images": [],
+          "text_ar": "10 أطفال"
+        },
+        {
+          "letter": "C",
+          "text": "20 çocuk",
+          "images": [],
+          "text_ar": "20 طفلًا"
+        },
+        {
+          "letter": "D",
+          "text": "25 çocuk",
+          "images": [],
+          "text_ar": "25 طفلًا"
+        },
+        {
+          "letter": "E",
+          "text": "50 çocuk",
+          "images": [],
+          "text_ar": "50 طفلًا"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "عند فتح روضة أطفال خاصة، ما الحد الأدنى لعدد الأطفال الذين يجب أن يكونوا في المدرسة؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Destek eğitim programlarının temel amacı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece fiziksel engelli bireyleri eğitmek.",
+          "images": [],
+          "text_ar": "تعليم الأفراد ذوي الإعاقة الجسدية فقط."
+        },
+        {
+          "letter": "B",
+          "text": "Öğrencilere standart bir eğitim sunmak.",
+          "images": [],
+          "text_ar": "تقديم تعليم معياري للطلاب."
+        },
+        {
+          "letter": "C",
+          "text": "Öğrencinin ilgilerine ve ihtiyaçlarına odaklanan bir eğitim programı oluşturmak.",
+          "images": [],
+          "text_ar": "إعداد برنامج تعليمي يركّز على ميول الطالب واحتياجاته."
+        },
+        {
+          "letter": "D",
+          "text": "Öğretmenlere yeni yöntemler öğretmek.",
+          "images": [],
+          "text_ar": "تعليم المعلمين أساليب جديدة."
+        },
+        {
+          "letter": "E",
+          "text": "Sadece özel eğitim öğretmenlerini eğitmek.",
+          "images": [],
+          "text_ar": "تدريب معلمي التربية الخاصة فقط."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما الهدف الأساسي لبرامج التعليم الداعم؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğu tanıma ve değerlendirme amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk için gelişimsel destek programı hazırlamak",
+          "images": [],
+          "text_ar": "إعداد برنامج دعم نمائي للطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun gelişimsel takibini yapmak",
+          "images": [],
+          "text_ar": "إجراء المتابعة النمائية للطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun ilgi ve ihtiyaçlarını tespit etmek",
+          "images": [],
+          "text_ar": "تحديد ميول الطفل واحتياجاته"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun zayıf yönlerini belirlemek",
+          "images": [],
+          "text_ar": "تحديد جوانب الضعف عند الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların bireysel farklılıklarını ortaya çıkartmak",
+          "images": [],
+          "text_ar": "إظهار الفروق الفردية بين الأطفال"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من أهداف التعرف على الطفل وتقييمه؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "9b074bda2292c9764acd4bd0aacae59ae3e4d17b40df73cf8c8f958ff52ad3db"
+}

@@ -1,0 +1,859 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -7",
+  "exam_slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-7",
+  "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -7",
+  "source_url": "https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-7/",
+  "scraped_at": "2026-11-12T16:24:04+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dikkat eksikliği hiperaktivite bozukluğu ( DEHB )’nun değerlendirilmesinde ölçek kullanımı hakkında doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçekler yardımıyla çocuğun ebeveyni ve öğretmeninden bilgi alınabilir.",
+          "images": [],
+          "text_ar": "يمكن بمساعدة المقاييس الحصول على معلومات من والدي الطفل ومعلمه."
+        },
+        {
+          "letter": "B",
+          "text": "DEHB ölçekleri çocuğun zekasının tespitini sağlar.",
+          "images": [],
+          "text_ar": "تتيح مقاييس DEHB تحديد ذكاء الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk, ölçeklerin içeriğini önceden bilmelidir.",
+          "images": [],
+          "text_ar": "يجب أن يعرف الطفل محتوى المقاييس مسبقًا."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçekler, sadece tanı koymak için kullanılır.",
+          "images": [],
+          "text_ar": "تُستخدم المقاييس لتشخيص الحالة فقط."
+        },
+        {
+          "letter": "E",
+          "text": "Ölçeklerle DEHB tanısı güvenle konabilir.",
+          "images": [],
+          "text_ar": "يمكن تشخيص DEHB بثقة بواسطة المقاييس."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي صحيح بشأن استخدام المقاييس في تقييم اضطراب نقص الانتباه وفرط النشاط (DEHB)؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ölçeklerden hangisi değerlendirici tarafından çocuğu gözleyerek ve ebeveyne sorularak doldurulur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukluk Çağı Anksiyete ve Depresyon Ölçeği Yeniden Düzenlenmiş",
+          "images": [],
+          "text_ar": "مقياس القلق والاكتئاب في مرحلة الطفولة - النسخة المنقّحة"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukluk Çağı Otizm Derecelendirme Ölçeği",
+          "images": [],
+          "text_ar": "مقياس تقدير التوحد في مرحلة الطفولة"
+        },
+        {
+          "letter": "C",
+          "text": "Weiss İşlevsellikte Bozulma Ölçeği",
+          "images": [],
+          "text_ar": "مقياس فايس للخلل الوظيفي"
+        },
+        {
+          "letter": "D",
+          "text": "Güçler ve Güçlükler Anketi",
+          "images": [],
+          "text_ar": "استبيان القدرات والصعوبات"
+        },
+        {
+          "letter": "E",
+          "text": "Conners Anababa Değerlendirme Ölçeği",
+          "images": [],
+          "text_ar": "مقياس كونرز لتقييم الوالدين"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من المقاييس التالية يملؤه المقيّم بملاحظة الطفل وسؤال أحد الوالدين؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Değerlendirme için aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değerlendirme, ölçülen şeyin değerine ilişkin sonuca varma sürecidir.",
+          "images": [],
+          "text_ar": "التقييم عملية التوصل إلى استنتاج بشأن قيمة ما يُقاس."
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirmenin başarısı objektif olmasına bağlıdır.",
+          "images": [],
+          "text_ar": "يتوقف نجاح التقييم على كونه موضوعيًا."
+        },
+        {
+          "letter": "C",
+          "text": "Değerlendirmede karar ölçüte göre verilir.",
+          "images": [],
+          "text_ar": "يُتخذ القرار في التقييم وفق المحك."
+        },
+        {
+          "letter": "D",
+          "text": "İyi bir ölçüt, net bir şekilde tanımlanmış ve gözden geçirilebilir olmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يكون المحك الجيد محددًا تحديدًا واضحًا وقابلًا للمراجعة."
+        },
+        {
+          "letter": "E",
+          "text": "Değerlendirmede ölçüm sonuçları dışındaki değişkenler de dikkat alınır.",
+          "images": [],
+          "text_ar": "تُراعى في التقييم أيضًا متغيرات أخرى غير نتائج القياس."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح بشأن التقييم؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yüz yüze yapılan değerlendirme görüşmelerinin faydalarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun giyim kuşamının gözlenebilmesi",
+          "images": [],
+          "text_ar": "إمكانية ملاحظة ملبس الطفل وهندامه"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun sözel iletişiminin gözlenebilmesi",
+          "images": [],
+          "text_ar": "إمكانية ملاحظة التواصل اللفظي للطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun arkadaşları ile ilişkilerinin gözlenebilmesi",
+          "images": [],
+          "text_ar": "إمكانية ملاحظة علاقات الطفل بأصدقائه"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun sözel olmayan iletişiminin gözlenebilmesi",
+          "images": [],
+          "text_ar": "إمكانية ملاحظة التواصل غير اللفظي للطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun davranışlarının gözlenebilmesi",
+          "images": [],
+          "text_ar": "إمكانية ملاحظة سلوكيات الطفل"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من فوائد مقابلات التقييم التي تُجرى وجهًا لوجه؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçme ve değerlendirmenin etik kurallarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilgilendirilme hakkı",
+          "images": [],
+          "text_ar": "الحق في الحصول على المعلومات"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğa uygun testin seçilmesi",
+          "images": [],
+          "text_ar": "اختيار الاختبار المناسب للطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Uygulayıcının uygulamada yeterli olması",
+          "images": [],
+          "text_ar": "أن يكون المطبّق كفؤًا في التطبيق"
+        },
+        {
+          "letter": "D",
+          "text": "Uygulamanın standartlara uygun olması",
+          "images": [],
+          "text_ar": "أن يتوافق التطبيق مع المعايير"
+        },
+        {
+          "letter": "E",
+          "text": "Ucuz olması",
+          "images": [],
+          "text_ar": "أن يكون منخفض التكلفة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من القواعد الأخلاقية للقياس والتقييم؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Dikkat nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ortamdaki diğer unsurları görmezden gelip, istediği bilgiye odaklanabilmektir.",
+          "images": [],
+          "text_ar": "القدرة على تجاهل العناصر الأخرى في البيئة والتركيز على المعلومة المطلوبة."
+        },
+        {
+          "letter": "B",
+          "text": "Mevcut durumu iyi analiz edip uygun kelimeleri seçebilmektir.",
+          "images": [],
+          "text_ar": "القدرة على تحليل الوضع القائم تحليلًا جيدًا واختيار الكلمات المناسبة."
+        },
+        {
+          "letter": "C",
+          "text": "Somut nesne ve olaylarla doğrudan ilişkili olmayan kelimelerle düşünebilmektir.",
+          "images": [],
+          "text_ar": "القدرة على التفكير بكلمات لا ترتبط ارتباطًا مباشرًا بالأشياء والأحداث الملموسة."
+        },
+        {
+          "letter": "D",
+          "text": "Bilgiyi alma, anlama ve uygun cevabı vermenin zamanlamasıdır.",
+          "images": [],
+          "text_ar": "توقيت تلقي المعلومة وفهمها وإعطاء الاستجابة المناسبة."
+        },
+        {
+          "letter": "E",
+          "text": "Yeni durumları doğru değerlendirmek ve ona uygun tepkiler ortaya koymaktır.",
+          "images": [],
+          "text_ar": "القدرة على تقييم المواقف الجديدة تقييمًا صحيحًا وإظهار استجابات مناسبة لها."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما الانتباه؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Değerlendirme raporunun özet ve öneriler kısmı için hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Teknik bir dille yazılmış olmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن يكون مكتوبًا بلغة تقنية."
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirmede öğrenilen tüm bilgileri içerir.",
+          "images": [],
+          "text_ar": "يتضمن جميع المعلومات التي جرى تعلّمها في التقييم."
+        },
+        {
+          "letter": "C",
+          "text": "Kısa ve net cümleler kullanılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي استخدام جمل قصيرة وواضحة."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun sorununun ne olduğu yönünde hipotezler sıralanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي سرد الفرضيات حول ماهية مشكلة الطفل."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun kimlik bilgilerini içermelidir.",
+          "images": [],
+          "text_ar": "ينبغي أن يتضمن البيانات التعريفية للطفل."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي صحيح بشأن قسم الملخص والتوصيات في تقرير التقييم؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ruh sağlığı alanında ölçek kullanımı için doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçekler, klinik değerlendirme yapılamadığı zamanlarda tanı konup tedavi kararı vermek için kullanılır.",
+          "images": [],
+          "text_ar": "تُستخدم المقاييس عند تعذّر إجراء التقييم الإكلينيكي لتشخيص الحالة واتخاذ قرار العلاج."
+        },
+        {
+          "letter": "B",
+          "text": "Belli bir ölçek, sadece bir kere uygulanmalı ve takipte kullanılmamalıdır.",
+          "images": [],
+          "text_ar": "يجب تطبيق مقياس معين مرة واحدة فقط وألّا يُستخدم في المتابعة."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuklar, ölçek doldursa bile verdikleri bilgiler güvenilir değildir.",
+          "images": [],
+          "text_ar": "حتى إذا ملأ الأطفال المقياس فإن المعلومات التي يقدمونها غير موثوقة."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçekler, çocuğun anlatmakta zorlandığı şeyleri ifade etmesi için farklı bir yol sağlar.",
+          "images": [],
+          "text_ar": "توفّر المقاييس طريقًا مختلفًا يعبّر به الطفل عن أمور يجد صعوبة في الحديث عنها."
+        },
+        {
+          "letter": "E",
+          "text": "Ölçekler tarama amaçlı olarak kullanılamaz.",
+          "images": [],
+          "text_ar": "لا يمكن استخدام المقاييس لأغراض المسح."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي صحيح بشأن استخدام المقاييس في مجال الصحة النفسية؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme ve değerlendirme sonucunun raporlanması neden önemlidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçüm yanlışlarının tespitini sağlar.",
+          "images": [],
+          "text_ar": "تتيح الكشف عن أخطاء القياس."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun test sonuçlarını öğrenmesini sağlar.",
+          "images": [],
+          "text_ar": "تتيح للطفل معرفة نتائج اختباره."
+        },
+        {
+          "letter": "C",
+          "text": "Öğrenilen bilginin anlamlı bir bütün haline getirilmesini sağlar.",
+          "images": [],
+          "text_ar": "تتيح تحويل المعلومات المكتسبة إلى كل ذي معنى."
+        },
+        {
+          "letter": "D",
+          "text": "Test sonuçlarının gizli kalmasını sağlar.",
+          "images": [],
+          "text_ar": "تضمن بقاء نتائج الاختبار سرية."
+        },
+        {
+          "letter": "E",
+          "text": "İlgili uzmanın memnun olmasını sağlar.",
+          "images": [],
+          "text_ar": "تضمن رضا الاختصاصي المعني."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "لماذا تُعدّ كتابة تقرير نتيجة القياس والتقييم مهمة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme ve değerlendirme raporları için hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Raporun dili kime ve ne amaçla yazıldığına göre farklılıklar gösterir.",
+          "images": [],
+          "text_ar": "تختلف لغة التقرير باختلاف من كُتب له ولأي غرض."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun diliyle yazılmış gibi ifadelerden oluşur.",
+          "images": [],
+          "text_ar": "يتكون من عبارات مكتوبة بلغة الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Ailenin çocukla ilgili düşüncelerini destekler.",
+          "images": [],
+          "text_ar": "يدعم أفكار الأسرة بشأن الطفل."
+        },
+        {
+          "letter": "D",
+          "text": "Adli amaçla rapor yazılamaz.",
+          "images": [],
+          "text_ar": "لا يمكن كتابة تقرير لغرض قضائي."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun tüm geçmiş bilgisi raporda yer alır.",
+          "images": [],
+          "text_ar": "تتضمن كل المعلومات التاريخية عن الطفل في التقرير."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي صحيح بشأن تقارير القياس والتقييم؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçme hatalarını artıran faktörlerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçüm aracının psikometrik sağlamlığı",
+          "images": [],
+          "text_ar": "متانة أداة القياس سيكومتريًا"
+        },
+        {
+          "letter": "B",
+          "text": "Ölçümü yapan kişinin tecrübesi",
+          "images": [],
+          "text_ar": "خبرة من يجري القياس"
+        },
+        {
+          "letter": "C",
+          "text": "Ölçüm sonucunun dikkatli puanlanması",
+          "images": [],
+          "text_ar": "تصحيح نتيجة القياس بعناية"
+        },
+        {
+          "letter": "D",
+          "text": "Ölçüm ortamının sessiz olması",
+          "images": [],
+          "text_ar": "كون بيئة القياس هادئة"
+        },
+        {
+          "letter": "E",
+          "text": "Ölçülen kişinin isteksizliği",
+          "images": [],
+          "text_ar": "عدم رغبة الشخص المقيس"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي من العوامل التي تزيد أخطاء القياس؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi kaygı bozuklukları için doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kaygı bozuklukları, neredeyse toplumun tamamında görülür.",
+          "images": [],
+          "text_ar": "تظهر اضطرابات القلق لدى المجتمع بأكمله تقريبًا."
+        },
+        {
+          "letter": "B",
+          "text": "Kaygı, anormal bir duygudur ve her zaman bir probleme işaret eder.",
+          "images": [],
+          "text_ar": "القلق عاطفة غير طبيعية ويشير دائمًا إلى وجود مشكلة."
+        },
+        {
+          "letter": "C",
+          "text": "Kaygı bozukluklarının değerlendirmesinde özdeğerlendirme ölçekleri çok önemlidir.",
+          "images": [],
+          "text_ar": "مقاييس التقييم الذاتي مهمة جدًا في تقييم اضطرابات القلق."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçekler, kaygı bozukluklarının tanısını koymak için kullanılır.",
+          "images": [],
+          "text_ar": "تُستخدم المقاييس لتشخيص اضطرابات القلق."
+        },
+        {
+          "letter": "E",
+          "text": "Kaygı bozukluklarında ölçek sonucuna göre tanı ve tedavi düzenlenir.",
+          "images": [],
+          "text_ar": "في اضطرابات القلق يُنظَّم التشخيص والعلاج وفق نتيجة المقياس."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح بشأن اضطرابات القلق؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Zekanın tanımlanmasında kullanılan bilgi işleme modeli hakkında hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilginin nasıl öğrenildiği ve problem çözmek için nasıl kullanıldığına odaklanır.",
+          "images": [],
+          "text_ar": "يركز على كيفية تعلّم المعلومات وكيفية استخدامها في حل المشكلات."
+        },
+        {
+          "letter": "B",
+          "text": "Günümüzde kabul gören bir model değildir.",
+          "images": [],
+          "text_ar": "ليس نموذجًا مقبولًا في الوقت الحاضر."
+        },
+        {
+          "letter": "C",
+          "text": "Zekayı, içsel zeka, müziksel zeka gibi alanlara ayırarak inceler.",
+          "images": [],
+          "text_ar": "يدرس الذكاء بتقسيمه إلى مجالات مثل الذكاء الداخلي والذكاء الموسيقي."
+        },
+        {
+          "letter": "D",
+          "text": "Modelde insanın doğa ile ilişkisi merkezde bulunur.",
+          "images": [],
+          "text_ar": "تقع علاقة الإنسان بالطبيعة في مركز النموذج."
+        },
+        {
+          "letter": "E",
+          "text": "Cattell-Horn-Carroll kuramı bu modele dayanır.",
+          "images": [],
+          "text_ar": "تستند نظرية كاتيل-هورن-كارول إلى هذا النموذج."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي صحيح بشأن نموذج معالجة المعلومات المستخدم في تعريف الذكاء؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genetik faktörler zeka üzerinde etkilidir.",
+          "images": [],
+          "text_ar": "العوامل الوراثية مؤثرة في الذكاء."
+        },
+        {
+          "letter": "B",
+          "text": "Çevresel faktörler zeka üzerinde etkilidir.",
+          "images": [],
+          "text_ar": "العوامل البيئية مؤثرة في الذكاء."
+        },
+        {
+          "letter": "C",
+          "text": "Zeka puanları bebeklikten itibaren değişmez.",
+          "images": [],
+          "text_ar": "درجات الذكاء لا تتغير منذ مرحلة الرضاعة."
+        },
+        {
+          "letter": "D",
+          "text": "Zekanın kalıtsallığı yaşla birlikte artar.",
+          "images": [],
+          "text_ar": "تزداد وراثية الذكاء مع تقدم العمر."
+        },
+        {
+          "letter": "E",
+          "text": "18 yaşından sonra zeka skorlarında belirgin değişme olması beklenmez.",
+          "images": [],
+          "text_ar": "لا يُتوقع حدوث تغير واضح في درجات الذكاء بعد سن 18."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية غير صحيح؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Değerlendirmede çocukla ilgili eski kayıtları ve değerlendirme raporlarını bulup onları kullanan bir ruh sağlığı uzmanı hangi değerlendirme yöntemini kullanmış olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Görüşme",
+          "images": [],
+          "text_ar": "المقابلة"
+        },
+        {
+          "letter": "B",
+          "text": "Katılımlı gözlem",
+          "images": [],
+          "text_ar": "الملاحظة المشاركة"
+        },
+        {
+          "letter": "C",
+          "text": "Dokümanları inceleme",
+          "images": [],
+          "text_ar": "فحص الوثائق"
+        },
+        {
+          "letter": "D",
+          "text": "Rol yapma yöntemi",
+          "images": [],
+          "text_ar": "طريقة لعب الأدوار"
+        },
+        {
+          "letter": "E",
+          "text": "Katılımsız gözlem",
+          "images": [],
+          "text_ar": "الملاحظة غير المشاركة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "إذا عثر اختصاصي صحة نفسية على السجلات القديمة وتقارير التقييم المتعلقة بالطفل واستخدمها في التقييم، فأي طريقة تقييم يكون قد استخدمها؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme ve değerlendirme yapan biri etik olarak hangi yeterliliği taşımalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Standarda uygun ölçüm yapabilme",
+          "images": [],
+          "text_ar": "القدرة على إجراء قياس وفق المعيار"
+        },
+        {
+          "letter": "B",
+          "text": "Esneklik",
+          "images": [],
+          "text_ar": "المرونة"
+        },
+        {
+          "letter": "C",
+          "text": "Güçlü kişilik",
+          "images": [],
+          "text_ar": "شخصية قوية"
+        },
+        {
+          "letter": "D",
+          "text": "Sessiz bir şekilde çalışabilme",
+          "images": [],
+          "text_ar": "القدرة على العمل في هدوء"
+        },
+        {
+          "letter": "E",
+          "text": "Yeni testleri hızlı öğrenebilme",
+          "images": [],
+          "text_ar": "القدرة على تعلّم الاختبارات الجديدة بسرعة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي كفاءة ينبغي أن يتحلى بها من يقوم بالقياس والتقييم من الناحية الأخلاقية؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi ruh sağlığı alanında ölçek kullanımı konusunda doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçek kullanımı, klinik değerlendirmeye alternatiftir.",
+          "images": [],
+          "text_ar": "استخدام المقاييس بديل عن التقييم الإكلينيكي."
+        },
+        {
+          "letter": "B",
+          "text": "Ölçekler, geniş bir belirti kümesinin hızlı bir şekilde incelenmesini sağlar.",
+          "images": [],
+          "text_ar": "تتيح المقاييس فحص مجموعة واسعة من الأعراض بسرعة."
+        },
+        {
+          "letter": "C",
+          "text": "Ölçekler aynı anda birden çok kişiye uygulanmamalıdır.",
+          "images": [],
+          "text_ar": "يجب ألّا تُطبَّق المقاييس على أكثر من شخص في الوقت نفسه."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçeklerde genelde hata bulunmaz.",
+          "images": [],
+          "text_ar": "لا يوجد خطأ في المقاييس عمومًا."
+        },
+        {
+          "letter": "E",
+          "text": "Öğretmenlerin doldurduğu ölçeklerde genellikle hata bulunmaz.",
+          "images": [],
+          "text_ar": "لا يوجد خطأ عمومًا في المقاييس التي يملؤها المعلمون."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من العبارات التالية صحيح بشأن استخدام المقاييس في مجال الصحة النفسية؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi zeka kuramı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İki Etmenli Zeka Kuramı",
+          "images": [],
+          "text_ar": "نظرية العاملين للذكاء"
+        },
+        {
+          "letter": "B",
+          "text": "Küme Etmen Kuramı",
+          "images": [],
+          "text_ar": "نظرية العوامل المجموعية"
+        },
+        {
+          "letter": "C",
+          "text": "Çoklu Zeka Kuramı",
+          "images": [],
+          "text_ar": "نظرية الذكاءات المتعددة"
+        },
+        {
+          "letter": "D",
+          "text": "Cattell-Horn-Carroll Kuramı",
+          "images": [],
+          "text_ar": "نظرية كاتيل-هورن-كارول"
+        },
+        {
+          "letter": "E",
+          "text": "Psikoanalitik Kuram",
+          "images": [],
+          "text_ar": "النظرية التحليلية النفسية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس نظرية من نظريات الذكاء؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Zeka için aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sir Francis Galton, zekanın duysal özelliklerle bağlantılı olduğunu öne sürmüştür.",
+          "images": [],
+          "text_ar": "ذهب السير فرانسيس غالتون إلى أن الذكاء مرتبط بالخصائص الحسية."
+        },
+        {
+          "letter": "B",
+          "text": "Zeka bölümü (IQ) terimi ilk kez William Stern tarafından kullanılmıştır.",
+          "images": [],
+          "text_ar": "استُخدم مصطلح حاصل الذكاء (IQ) لأول مرة على يد وليام شتيرن."
+        },
+        {
+          "letter": "C",
+          "text": "Günümüzdeki şekliyle ilk zeka testini Alfred Binet geliştirmiştir.",
+          "images": [],
+          "text_ar": "طوّر ألفريد بينيه أول اختبار ذكاء بشكله الحالي."
+        },
+        {
+          "letter": "D",
+          "text": "Zeka testleri ilk kez 19. yy’ın başında İngiltere’de kullanılmıştır.",
+          "images": [],
+          "text_ar": "استُخدمت اختبارات الذكاء لأول مرة في مطلع القرن 19 في إنجلترا."
+        },
+        {
+          "letter": "E",
+          "text": "Jean Piaget zekayı, dış dünyaya adapte olma üzerinden tanımlamıştır.",
+          "images": [],
+          "text_ar": "عرّف جان بياجيه الذكاء من خلال التكيّف مع العالم الخارجي."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من العبارات التالية غير صحيح بشأن الذكاء؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ölçek tiplerinden hangisi hesaplama ve istatistiklerde kullanım için en uygundur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eşit aralıklı ölçekler",
+          "images": [],
+          "text_ar": "المقاييس ذات الفواصل المتساوية"
+        },
+        {
+          "letter": "B",
+          "text": "Eşit oranlı ölçekler",
+          "images": [],
+          "text_ar": "المقاييس ذات النسب المتساوية"
+        },
+        {
+          "letter": "C",
+          "text": "Sınıflama ölçekleri",
+          "images": [],
+          "text_ar": "مقاييس التصنيف"
+        },
+        {
+          "letter": "D",
+          "text": "Sıralama ölçekleri",
+          "images": [],
+          "text_ar": "مقاييس الترتيب"
+        },
+        {
+          "letter": "E",
+          "text": "Sayısal ölçekler",
+          "images": [],
+          "text_ar": "المقاييس العددية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من أنواع المقاييس التالية أنسب للاستخدام في الحسابات والإحصاءات؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "c62b7b9272a663128666010b3141abc6032213c8dd24f52d190157bd80c37325"
+}

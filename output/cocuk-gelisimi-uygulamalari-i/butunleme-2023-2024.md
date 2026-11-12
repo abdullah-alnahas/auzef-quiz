@@ -3,7 +3,7 @@ course: ÇOCUK GELİŞİMİ UYGULAMALARI I
 exam: 2023-2024 Bütünleme Soruları
 source_url: https://lolonolo.com/2024/12/15/cocuk-gelisimi-uygulamalari-1-2023-2024-butunleme-sorulari-2/
 question_count: 20
-scraped_at: 2026-11-12T14:58:09+03:00
+scraped_at: 2026-11-12T16:21:22+03:00
 ---
 
 ### Q1

@@ -1,0 +1,859 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -6",
+  "exam_slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-6",
+  "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -6",
+  "source_url": "https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-6/",
+  "scraped_at": "2026-11-12T16:24:04+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Ölçüm öncesi yapılacak işlem hakkında neden bilgi verilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun uygun performans sergilemesi için",
+          "images": [],
+          "text_ar": "ليُظهر الطفل أداءً مناسبًا"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukla arkadaş olmak için",
+          "images": [],
+          "text_ar": "ليصبح المقيّم صديقًا للطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Ölçeğin iç tutarlılığını yükseltmek için",
+          "images": [],
+          "text_ar": "لرفع الاتساق الداخلي للمقياس"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun test sırasında soru sormaması için",
+          "images": [],
+          "text_ar": "لكيلا يطرح الطفل أسئلة أثناء الاختبار"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun psikoloji konusundaki bilgisini artırmak için",
+          "images": [],
+          "text_ar": "لزيادة معرفة الطفل بعلم النفس"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "لماذا ينبغي إعطاء معلومات عن الإجراء الذي سيُجرى قبل القياس؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Bir testin güvenirliğinin hesaplanmasında hangisi kullanılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Testin farklı ölçümlerde benzer sonuçlar vermesi",
+          "images": [],
+          "text_ar": "أن يعطي الاختبار نتائج متشابهة في قياسات مختلفة"
+        },
+        {
+          "letter": "B",
+          "text": "Testin farklı değerlendiricilerde benzer sonuçlar vermesi",
+          "images": [],
+          "text_ar": "أن يعطي الاختبار نتائج متشابهة لدى مقيّمين مختلفين"
+        },
+        {
+          "letter": "C",
+          "text": "Paralel formların benzer sonuçlar vermesi",
+          "images": [],
+          "text_ar": "أن تعطي الصور الموازية نتائج متشابهة"
+        },
+        {
+          "letter": "D",
+          "text": "Maddelerin tutarlı bir şekilde aynı değişkeni değerlendirmesi",
+          "images": [],
+          "text_ar": "أن تقيس الفقرات المتغير نفسه على نحو متسق"
+        },
+        {
+          "letter": "E",
+          "text": "Testin ölçüt ile benzer sonuçlar vermesi",
+          "images": [],
+          "text_ar": "أن يعطي الاختبار نتائج متشابهة مع المحك"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يُستخدم في حساب ثبات الاختبار؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Sınıf normları hangi amaçla kullanılır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun sınıfın ortalama beceri düzeyine göre durumunun belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد وضع الطفل بالنسبة إلى متوسط مستوى مهارات الصف"
+        },
+        {
+          "letter": "B",
+          "text": "Farklı yaşlardaki çocukların beceri seviyesinin belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد مستوى مهارات الأطفال في أعمار مختلفة"
+        },
+        {
+          "letter": "C",
+          "text": "Test edilen bireyin norm grubuna göre yüzdesinin belirlenmesi",
+          "images": [],
+          "text_ar": "تحديد النسبة المئوية للفرد المختبر وفق مجموعة المعايير"
+        },
+        {
+          "letter": "D",
+          "text": "Testlerin bir sınıfın tamamına uygulanabilmesi",
+          "images": [],
+          "text_ar": "إمكانية تطبيق الاختبارات على الصف بأكمله"
+        },
+        {
+          "letter": "E",
+          "text": "Sınıflardaki çocukların başarısının artırılması",
+          "images": [],
+          "text_ar": "زيادة تحصيل الأطفال في الصفوف"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "لأي غرض تُستخدم معايير الصف؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Ankara Gelişim Tarama Envanteri’nin özelliği değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul öncesi dönem çocuklarının gelişimsel değerlendirmesinde kullanılır",
+          "images": [],
+          "text_ar": "تُستخدم في التقييم النمائي لأطفال مرحلة ما قبل المدرسة."
+        },
+        {
+          "letter": "B",
+          "text": "Türkiye’de geliştirilmiştir.",
+          "images": [],
+          "text_ar": "طُوّرت في تركيا."
+        },
+        {
+          "letter": "C",
+          "text": "Tüm maddeler çocuğun performansına göre klinisyen tarafından doldurulur.",
+          "images": [],
+          "text_ar": "يملأ الطبيب السريري جميع الفقرات وفق أداء الطفل."
+        },
+        {
+          "letter": "D",
+          "text": "154 maddeden oluşur.",
+          "images": [],
+          "text_ar": "تتكون من 154 فقرة."
+        },
+        {
+          "letter": "E",
+          "text": "Türk çocukları için norm tablosu vardır.",
+          "images": [],
+          "text_ar": "لها جدول معايير للأطفال الأتراك."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من خصائص قائمة أنقرة للمسح النمائي؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun değerlendirilmesinde ısınma faaliyeti kullanılmasının sebebi nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun yeni ortam ve kişiye uyum göstermesine yardımcı olmak",
+          "images": [],
+          "text_ar": "مساعدة الطفل على التكيّف مع البيئة والشخص الجديدين"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğu mutlu etmek",
+          "images": [],
+          "text_ar": "إسعاد الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Değerlendiricinin dinlenmesi",
+          "images": [],
+          "text_ar": "حصول المقيّم على الراحة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun ebeveynini etkilemek",
+          "images": [],
+          "text_ar": "التأثير في والدي الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun özgüvenini olumlu etkilemek",
+          "images": [],
+          "text_ar": "التأثير الإيجابي في ثقة الطفل بنفسه"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما سبب استخدام نشاط التهيئة في تقييم الطفل؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun test sırasında sıkıldığı, esnediği ve teste devam etmek istemediğini söylediği durumda ne yapılabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Annesinden çocuğunu uyarması istenir.",
+          "images": [],
+          "text_ar": "يُطلب من الأم أن تنبّه طفلها."
+        },
+        {
+          "letter": "B",
+          "text": "Başka bir gün tamamlanmak üzere test ara verilir.",
+          "images": [],
+          "text_ar": "يُوقف الاختبار مؤقتًا لإكماله في يوم آخر."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa testi bitirirse ödül verileceği söylenir.",
+          "images": [],
+          "text_ar": "يُقال للطفل إنه سيحصل على مكافأة إذا أنهى الاختبار."
+        },
+        {
+          "letter": "D",
+          "text": "Test bu şekilde tamamlanır.",
+          "images": [],
+          "text_ar": "يُكمل الاختبار على هذه الحال."
+        },
+        {
+          "letter": "E",
+          "text": "Testin çocuğa uygun olmadığına karar verilir.",
+          "images": [],
+          "text_ar": "يُقرر أن الاختبار غير مناسب للطفل."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ماذا يمكن فعله إذا شعر الطفل بالملل أثناء الاختبار وتثاءب وقال إنه لا يريد متابعة الاختبار؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel değerlendirmede gelişim seviyesi 2 yaş civarında çıkan 5 yaşındaki çocuk için hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Davranışları değerlendirilirken 2 yaşındaki çocuklarla kıyaslanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي مقارنة سلوكياته بأطفال في الثانية من العمر عند تقييمها."
+        },
+        {
+          "letter": "B",
+          "text": "5 yaş çocuğundan beklenen davranışları sergiler.",
+          "images": [],
+          "text_ar": "يُظهر السلوكيات المتوقعة من طفل في الخامسة."
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimsel değerlendirme sonucuna göre davranışlar değerlendirilemez.",
+          "images": [],
+          "text_ar": "لا يمكن تقييم السلوكيات وفق نتيجة التقييم النمائي."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk yaşıtları ile rahatlıkla anlaşabilir.",
+          "images": [],
+          "text_ar": "يستطيع الطفل أن يتفاهم بسهولة مع أقرانه."
+        },
+        {
+          "letter": "E",
+          "text": "5 yaşındaki bir çocuğa gelişimsel değerlendirme yapılmamalıdır.",
+          "images": [],
+          "text_ar": "لا ينبغي إجراء تقييم نمائي لطفل في الخامسة."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في التقييم النمائي، أي مما يلي صحيح بشأن طفل عمره 5 سنوات ظهر مستوى نموه نحو السنتين؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların dili kullanma becerilerinin sınırlı olması ölçme ve değerlendirmede nasıl bir farklılığa neden olur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece çocukla konuşarak karar verilmesini sağlar.",
+          "images": [],
+          "text_ar": "يجعل اتخاذ القرار يقتصر على التحدث مع الطفل."
+        },
+        {
+          "letter": "B",
+          "text": "Sözel diyalogda dikkatinin kolaylıkla dağılmasına neden olur.",
+          "images": [],
+          "text_ar": "يؤدي إلى سهولة تشتت انتباه الطفل في الحوار اللفظي."
+        },
+        {
+          "letter": "C",
+          "text": "Gürültüsüz bir ortamda çalışılmasını gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم العمل في بيئة خالية من الضوضاء."
+        },
+        {
+          "letter": "D",
+          "text": "Gizliliğe daha çok dikkat edilmesini gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم مزيدًا من الاهتمام بالسرية."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuktan bilgi alınmamasına neden olur.",
+          "images": [],
+          "text_ar": "يؤدي إلى عدم الحصول على معلومات من الطفل."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "كيف يؤدي محدودية مهارات الأطفال في استخدام اللغة إلى اختلاف في القياس والتقييم؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel sapma nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tipik gelişim sürecinde olması beklenmeyen bir özelliğin ortaya çıkması",
+          "images": [],
+          "text_ar": "ظهور سمة لا يُتوقع وجودها في مسار النمو النموذجي"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun kazandığı gelişimsel becerileri kaybetmesi",
+          "images": [],
+          "text_ar": "فقدان الطفل المهارات النمائية التي اكتسبها"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim alanlarında anlamlı düzeyde gecikme olması",
+          "images": [],
+          "text_ar": "وجود تأخر ذي دلالة في مجالات النمو"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun tipik bir gelişim yörüngesi izlemesi",
+          "images": [],
+          "text_ar": "أن يتبع الطفل مسارًا نمائيًا نموذجيًا"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun belli becerileri kazanması için gereken beceriler",
+          "images": [],
+          "text_ar": "المهارات التي يحتاجها الطفل لاكتساب مهارات معينة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما الانحراف النمائي؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Bir ölçüm aracının psikometrik olarak sağlam olduğunun söylenmesi için aşağıdakilerden hangisi gereklidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçüm aracının sonuçlarında hataya rastlanmamalıdır.",
+          "images": [],
+          "text_ar": "ألّا يُرصد أي خطأ في نتائج أداة القياس."
+        },
+        {
+          "letter": "B",
+          "text": "Ölçüm aracı, ölçmeyi amaçladığı değişkeni doğru bir şekilde ölçmeli ve sonuçları tutarlı olmalıdır.",
+          "images": [],
+          "text_ar": "أن تقيس أداة القياس المتغير الذي تهدف إلى قياسه قياسًا صحيحًا وأن تكون نتائجها متسقة."
+        },
+        {
+          "letter": "C",
+          "text": "Ölçüm aracı, klinik yargıya varmayı kolaylaştırmalıdır.",
+          "images": [],
+          "text_ar": "أن تُسهّل أداة القياس التوصل إلى حكم إكلينيكي."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçüm aracı, kolay uygulanmalı, puanlanmalı ve yorumlanmalıdır.",
+          "images": [],
+          "text_ar": "أن تكون أداة القياس سهلة التطبيق والتصحيح والتفسير."
+        },
+        {
+          "letter": "E",
+          "text": "Ölçüm aracı, tüm çocuklarda kullanılabilmelidir.",
+          "images": [],
+          "text_ar": "أن تكون أداة القياس قابلة للاستخدام مع جميع الأطفال."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لازم للقول بأن أداة القياس متينة سيكومتريًا؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "İşitme problemi olan bir çocuğun değerlendirilmesinde hangi zeka testi kullanılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel Değerlendirme Sistemi",
+          "images": [],
+          "text_ar": "نظام التقييم المعرفي"
+        },
+        {
+          "letter": "B",
+          "text": "Anadolu Sak Zeka Testi",
+          "images": [],
+          "text_ar": "اختبار أنادولو ساك للذكاء"
+        },
+        {
+          "letter": "C",
+          "text": "Leiter Uluslararası Performans Ölçeği",
+          "images": [],
+          "text_ar": "مقياس لايتر الدولي للأداء"
+        },
+        {
+          "letter": "D",
+          "text": "Stanford Binet Testi",
+          "images": [],
+          "text_ar": "اختبار ستانفورد-بينيه"
+        },
+        {
+          "letter": "E",
+          "text": "Wechsler Çocuklar için Zeka Ölçeği-IV",
+          "images": [],
+          "text_ar": "مقياس وكسلر للذكاء للأطفال-IV"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي اختبار ذكاء ينبغي استخدامه في تقييم طفل لديه مشكلة سمعية؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Normal gelişim için aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Normal gelişim, tamamen genetik olarak belirlenir.",
+          "images": [],
+          "text_ar": "النمو الطبيعي محدَّد وراثيًا تحديدًا كاملًا."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun gelişimini takip etmek için her çocuğa düzenli olarak gelişim testi yapılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي إجراء اختبار نمو لكل طفل بانتظام لمتابعة نموه."
+        },
+        {
+          "letter": "C",
+          "text": "Gelişim takibi için gelişimsel dönüm noktaları kullanılabilir.",
+          "images": [],
+          "text_ar": "يمكن استخدام المعالم النمائية لمتابعة النمو."
+        },
+        {
+          "letter": "D",
+          "text": "Normal gelişim, izole alanların bağımsız gelişimi sonucu ortaya çıkar.",
+          "images": [],
+          "text_ar": "النمو الطبيعي ينشأ عن النمو المستقل للمجالات المعزولة."
+        },
+        {
+          "letter": "E",
+          "text": "Sosyoekonomik faktörlerin gelişim üzerinde etkisi yoktur.",
+          "images": [],
+          "text_ar": "لا تأثير للعوامل الاجتماعية-الاقتصادية في النمو."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية صحيح بشأن النمو الطبيعي؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi zeka testi uygulanılırken dikkat edilmesi gereken noktalardandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk, zeka testine tok, uykusunu almış, dinlenmiş ve sağlıklı bir şekilde girmelidir.",
+          "images": [],
+          "text_ar": "يجب أن يدخل الطفل اختبار الذكاء وهو شبعان وقد أخذ كفايته من النوم ومستريح ومعافى."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk, test ortamını önceden görmemelidir.",
+          "images": [],
+          "text_ar": "يجب ألّا يرى الطفل بيئة الاختبار قبل ذلك."
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk, test uygulayıcısıyla test öncesinde tanışmamalıdır.",
+          "images": [],
+          "text_ar": "يجب ألّا يتعرّف الطفل إلى مطبّق الاختبار قبل الاختبار."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk, test öncesinde hiçbir ilaç kullanılmamalıdır.",
+          "images": [],
+          "text_ar": "يجب ألّا يتناول الطفل أي دواء قبل الاختبار."
+        },
+        {
+          "letter": "E",
+          "text": "Çocukta geçici bir sorun varsa beklenmeden test yapılır ve raporda sorun belirtilir.",
+          "images": [],
+          "text_ar": "إذا كانت لدى الطفل مشكلة مؤقتة يُجرى الاختبار دون انتظار وتُذكر المشكلة في التقرير."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من العبارات التالية من النقاط الواجب مراعاتها عند تطبيق اختبار الذكاء؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi gelişimsel değerlendirme konusunda yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gelişimsel değerlendirmenin özenli bir şekilde yapılması gerekir.",
+          "images": [],
+          "text_ar": "يجب إجراء التقييم النمائي بعناية."
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirmede sadece çocuktan bilgi alınır.",
+          "images": [],
+          "text_ar": "لا تُؤخذ المعلومات في التقييم إلا من الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimsel değerlendirmede çocuğun doğum ayı göz önünde bulundurulmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي مراعاة شهر ولادة الطفل في التقييم النمائي."
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirme öncesi çocuk hakkında ebeveyninden bilgi alınması gerekir.",
+          "images": [],
+          "text_ar": "يجب الحصول على معلومات عن الطفل من والديه قبل التقييم."
+        },
+        {
+          "letter": "E",
+          "text": "Prematüre bebeklerin gelişimleri için düzeltilmiş yaş kullanılır.",
+          "images": [],
+          "text_ar": "يُستخدم العمر المصحح في تقييم نمو الرضّع المولودين مبكّرًا."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من العبارات التالية غير صحيح بشأن التقييم النمائي؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi zeka testi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Stroop Testi",
+          "images": [],
+          "text_ar": "اختبار ستروب"
+        },
+        {
+          "letter": "B",
+          "text": "Wechsler Çocuklar için Zeka Ölçeği-R",
+          "images": [],
+          "text_ar": "مقياس وكسلر للذكاء للأطفال-R"
+        },
+        {
+          "letter": "C",
+          "text": "Stanford Binet Testi",
+          "images": [],
+          "text_ar": "اختبار ستانفورد-بينيه"
+        },
+        {
+          "letter": "D",
+          "text": "Leiter Uluslararası Performans Ölçeği",
+          "images": [],
+          "text_ar": "مقياس لايتر الدولي للأداء"
+        },
+        {
+          "letter": "E",
+          "text": "Goodenough Harris İnsan Resmi Çizme Testi",
+          "images": [],
+          "text_ar": "اختبار غودإنوف-هاريس لرسم الإنسان"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس اختبار ذكاء؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi zeka testi kullanılırken dikkat edilmesi gereken noktalardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zeka testleri, klinik değerlendirmenin bir parçası olarak kullanılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي استخدام اختبارات الذكاء جزءًا من التقييم الإكلينيكي."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk, zeka testinden önce ayrıntılı bir şekilde değerlendirilmelidir.",
+          "images": [],
+          "text_ar": "ينبغي تقييم الطفل تقييمًا مفصّلًا قبل اختبار الذكاء."
+        },
+        {
+          "letter": "C",
+          "text": "Değerlendirici, test öncesinde çocuğun problemini bilmemelidir.",
+          "images": [],
+          "text_ar": "لا ينبغي أن يعرف المقيّم مشكلة الطفل قبل الاختبار."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğu yeterince tanımadan zeka testi istenmesi doğru değildir.",
+          "images": [],
+          "text_ar": "ليس صحيحًا طلب اختبار ذكاء دون معرفة الطفل معرفة كافية."
+        },
+        {
+          "letter": "E",
+          "text": "Zeka testleri, testi yorumlayabilecek kişiler tarafından istenmelidir.",
+          "images": [],
+          "text_ar": "ينبغي أن يطلب اختبارات الذكاء أشخاص قادرون على تفسيرها."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية ليس من النقاط الواجب مراعاتها عند استخدام اختبار الذكاء؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi zekanın ölçülmesi konusunda doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaşamın ilk iki yılında zeka ölçümü çocuğun gelişimsel değerlendirmesinden ibarettir.",
+          "images": [],
+          "text_ar": "في أول سنتين من الحياة يقتصر قياس الذكاء على التقييم النمائي للطفل."
+        },
+        {
+          "letter": "B",
+          "text": "Küçük yaşlarda elde edilen IQ puanlarının devamlılığı düşüktür.",
+          "images": [],
+          "text_ar": "استمرارية درجات IQ التي تُحصَّل في الأعمار الصغيرة منخفضة."
+        },
+        {
+          "letter": "C",
+          "text": "Zeka bölümü, zeka yaşının kronolojik yaşa bölünüp 100 ile çarpılmasıyla elde edilir.",
+          "images": [],
+          "text_ar": "يُحصَل على حاصل الذكاء بقسمة العمر العقلي على العمر الزمني ثم ضرب الناتج في 100."
+        },
+        {
+          "letter": "D",
+          "text": "Zeka bölümünün doğru hesaplanabilmesi için çocuk testte uygun performans göstermelidir.",
+          "images": [],
+          "text_ar": "لكي يُحسب حاصل الذكاء حسابًا صحيحًا يجب أن يُظهر الطفل أداءً مناسبًا في الاختبار."
+        },
+        {
+          "letter": "E",
+          "text": "Zeka bölümünün doğru hesaplanabilmesi için testin herhangi bir ülkedeki normları kullanılabilir.",
+          "images": [],
+          "text_ar": "لكي يُحسب حاصل الذكاء حسابًا صحيحًا يمكن استخدام معايير الاختبار في أي بلد."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من العبارات التالية غير صحيح بشأن قياس الذكاء؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Hangi testler için yaş normlarının mevcut olması önemlidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Likert tipi ölçekler",
+          "images": [],
+          "text_ar": "المقاييس من نوع ليكرت"
+        },
+        {
+          "letter": "B",
+          "text": "Gelişim testleri",
+          "images": [],
+          "text_ar": "اختبارات النمو"
+        },
+        {
+          "letter": "C",
+          "text": "Kişilik testleri",
+          "images": [],
+          "text_ar": "اختبارات الشخصية"
+        },
+        {
+          "letter": "D",
+          "text": "Ebeveynlik stili testleri",
+          "images": [],
+          "text_ar": "اختبارات أسلوب الوالدية"
+        },
+        {
+          "letter": "E",
+          "text": "Memnuniyet anketleri",
+          "images": [],
+          "text_ar": "استبيانات الرضا"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "لأي اختبارات تكون أهمية لوجود معايير عمرية؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Ölçüm araçları aşağıdakilerden hangi şekilde kullanılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukla ilgili bilgi sahibi olmadan önce",
+          "images": [],
+          "text_ar": "قبل الحصول على معلومات عن الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun durumunu anlamak için tek başına",
+          "images": [],
+          "text_ar": "بمفردها لفهم حالة الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğu iyi tanıyıp sorunu öğrendikten sonra hipotez test etmek amacıyla",
+          "images": [],
+          "text_ar": "بعد معرفة الطفل جيدًا وتحديد المشكلة، بهدف اختبار الفرضيات"
+        },
+        {
+          "letter": "D",
+          "text": "Okulda çocuğun velisine bilgi vermeden",
+          "images": [],
+          "text_ar": "في المدرسة دون إبلاغ ولي أمر الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun ailesi merak ettiği için",
+          "images": [],
+          "text_ar": "لأن أسرة الطفل تشعر بالفضول"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "كيف ينبغي استخدام أدوات القياس؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ölçeğin kullanım rahatlığı ile ilgili değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kolay uygulanması",
+          "images": [],
+          "text_ar": "سهولة تطبيقه"
+        },
+        {
+          "letter": "B",
+          "text": "Kolay puanlanması",
+          "images": [],
+          "text_ar": "سهولة تصحيحه"
+        },
+        {
+          "letter": "C",
+          "text": "Ucuz olması",
+          "images": [],
+          "text_ar": "انخفاض تكلفته"
+        },
+        {
+          "letter": "D",
+          "text": "Farklı ölçümlerde tutarlı sonuçlar vermesi",
+          "images": [],
+          "text_ar": "أن يعطي نتائج متسقة في قياسات مختلفة"
+        },
+        {
+          "letter": "E",
+          "text": "Kolay yorumlanması",
+          "images": [],
+          "text_ar": "سهولة تفسيره"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي لا يتعلق بسهولة استخدام المقياس؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "9649aff12184096eb7543fbd22fbc8a42fdbe7d08afa899a87aee4f363516ed5"
+}

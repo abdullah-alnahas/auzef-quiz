@@ -3,7 +3,7 @@ course: ANNE BABA EĞİTİMİ
 exam: Final Deneme Sınavı
 source_url: https://lolonolo.com/2022/12/06/anne-baba-egitimi-final-deneme-sinavi/
 question_count: 20
-scraped_at: 2026-11-12T15:00:47+03:00
+scraped_at: 2026-11-12T16:23:38+03:00
 ---
 
 ### Q1

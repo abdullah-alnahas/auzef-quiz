@@ -3,7 +3,7 @@ course: ANNE BABA EĞİTİMİ
 exam: 2021 Final Deneme-2
 source_url: https://lolonolo.com/2021/11/29/anne-baba-egitimi-2021-final-deneme-2/
 question_count: 20
-scraped_at: 2026-11-12T15:00:46+03:00
+scraped_at: 2026-11-12T16:23:37+03:00
 ---
 
 ### Q1

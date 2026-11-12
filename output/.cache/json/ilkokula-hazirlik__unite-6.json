@@ -1,0 +1,439 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "Ünite -6",
+  "exam_slug": "unite-6",
+  "page_title": "İlkokula Hazırlık Ünite -6",
+  "source_url": "https://lolonolo.com/2023/09/19/ilkokula-hazirlik-unite-6/",
+  "scraped_at": "2026-11-12T16:23:55+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi aşırı hoşgörülü ebeveynlik sergileyen ailelerin yapması gereken davranışlardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun her dediğinin yapılması",
+          "images": [],
+          "text_ar": "تنفيذ كل ما يقوله الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Toplumda belli kuralların olduğunun hatırlatılması",
+          "images": [],
+          "text_ar": "تذكير الطفل بأن في المجتمع قواعد معينة"
+        },
+        {
+          "letter": "C",
+          "text": "Arkadaşlarının her dediğini yapmalarının söylenmesi",
+          "images": [],
+          "text_ar": "أن يُقال للطفل إن عليه أن يفعل كل ما يقوله أصدقاؤه"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun öfkeyle baş etmesine yardım edilmesi",
+          "images": [],
+          "text_ar": "مساعدة الطفل على التعامل مع الغضب"
+        },
+        {
+          "letter": "E",
+          "text": "Öğretmen ve arkadaşlarına saygılı olmasının söylenmesi",
+          "images": [],
+          "text_ar": "أن يُقال للطفل إن عليه أن يكون محترمًا لمعلمه وأصدقائه"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من السلوكيات التي ينبغي أن تقوم بها الأسر التي تُظهر تسامحًا مفرطًا في التربية الوالدية؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ilgisiz aile türünde bulunan ailelerin kaçınılmaları gereken davranışlardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okulun ilk günü kendini güvende hissetmesi",
+          "images": [],
+          "text_ar": "أن يشعر الطفل بالأمان في اليوم الأول من المدرسة"
+        },
+        {
+          "letter": "B",
+          "text": "Aile-çocuk paylaşımının artması",
+          "images": [],
+          "text_ar": "زيادة المشاركة بين الأسرة والطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Okul yerine ailenin daha güvenli olduğunun söylenmesi",
+          "images": [],
+          "text_ar": "أن يُقال للطفل إن الأسرة أكثر أمانًا من المدرسة"
+        },
+        {
+          "letter": "D",
+          "text": "Okuldaki problemlerin doğal olduğunun söylenmesi",
+          "images": [],
+          "text_ar": "أن يُقال للطفل إن المشكلات في المدرسة أمر طبيعي"
+        },
+        {
+          "letter": "E",
+          "text": "Problemlerin sevgi ve iş birliği ile çözüleceğinin söylenmesi",
+          "images": [],
+          "text_ar": "أن يُقال للطفل إن المشكلات تُحل بالمحبة والتعاون"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من السلوكيات التي ينبغي أن تتجنبها الأسر من نوع الأسرة غير المهتمة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi aile tutumlarını etkileyen faktörlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Anne- babanın yetişme biçimi",
+          "images": [],
+          "text_ar": "طريقة تنشئة الوالدين"
+        },
+        {
+          "letter": "B",
+          "text": "Anne- babanın sosyo-ekonomik düzeyi",
+          "images": [],
+          "text_ar": "المستوى الاجتماعي-الاقتصادي للوالدين"
+        },
+        {
+          "letter": "C",
+          "text": "Anne- baba arasındaki ilişki",
+          "images": [],
+          "text_ar": "العلاقة بين الوالدين"
+        },
+        {
+          "letter": "D",
+          "text": "Anne- babanın ailesinin ekonomik düzeyi",
+          "images": [],
+          "text_ar": "المستوى الاقتصادي لأسرة الوالدين"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun yaşı ve cinsiyeti",
+          "images": [],
+          "text_ar": "عمر الطفل وجنسه"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من العوامل المؤثرة في اتجاهات الأسرة؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun gelişim ve eğitiminde yer alan fonksiyonlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sevgi",
+          "images": [],
+          "text_ar": "المحبة"
+        },
+        {
+          "letter": "B",
+          "text": "Fizyolojik",
+          "images": [],
+          "text_ar": "الفسيولوجية"
+        },
+        {
+          "letter": "C",
+          "text": "Ekonomik",
+          "images": [],
+          "text_ar": "الاقتصادية"
+        },
+        {
+          "letter": "D",
+          "text": "Sosyalleştirme",
+          "images": [],
+          "text_ar": "التنشئة الاجتماعية"
+        },
+        {
+          "letter": "E",
+          "text": "Biyolojik",
+          "images": [],
+          "text_ar": "البيولوجية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من الوظائف التي تندرج في نمو الطفل وتعليمه؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki aile türlerinden hangisinde yetişen çocuklar yapılan çalışmalara göre, diğerlerine oranla daha kaygılı olmaktadırlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Otoriter- aşırı koruyucu",
+          "images": [],
+          "text_ar": "التسلطية-المفرطة في الحماية"
+        },
+        {
+          "letter": "B",
+          "text": "Demokratik",
+          "images": [],
+          "text_ar": "الديمقراطية"
+        },
+        {
+          "letter": "C",
+          "text": "Hoşgörülü",
+          "images": [],
+          "text_ar": "المتسامحة"
+        },
+        {
+          "letter": "D",
+          "text": "Üniversite mezunu",
+          "images": [],
+          "text_ar": "من خريجي الجامعات"
+        },
+        {
+          "letter": "E",
+          "text": "İlkokul mezunu",
+          "images": [],
+          "text_ar": "من خريجي المدرسة الابتدائية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "وفق الدراسات، في أي من أنواع الأسر الآتية يكون الأطفال الذين نشأوا فيها أكثر قلقًا نسبيًا من غيرهم؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sağlıklı bir hazırbulunuşluk sürecinde yapılması gereken temel davranışlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kitap okumak",
+          "images": [],
+          "text_ar": "قراءة الكتب"
+        },
+        {
+          "letter": "B",
+          "text": "Dramatizasyon",
+          "images": [],
+          "text_ar": "التمثيل الدرامي"
+        },
+        {
+          "letter": "C",
+          "text": "Okul gezileri",
+          "images": [],
+          "text_ar": "الرحلات المدرسية"
+        },
+        {
+          "letter": "D",
+          "text": "Matematik problemleri çözmek",
+          "images": [],
+          "text_ar": "حل مسائل الرياضيات"
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal aktiviteler yapmak",
+          "images": [],
+          "text_ar": "القيام بأنشطة اجتماعية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من السلوكيات الأساسية التي ينبغي القيام بها في عملية استعداد صحية؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşırı hoşgörülü aile türlerinde yetişen çocuklarda sık görülen davranışlardan biri aşağıdakilerden hangisi olamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Saldırgan davranışlar",
+          "images": [],
+          "text_ar": "السلوكيات العدوانية"
+        },
+        {
+          "letter": "B",
+          "text": "Kurallara uymama",
+          "images": [],
+          "text_ar": "عدم الالتزام بالقواعد"
+        },
+        {
+          "letter": "C",
+          "text": "Şımarık olma",
+          "images": [],
+          "text_ar": "التدلل"
+        },
+        {
+          "letter": "D",
+          "text": "Arkadaşlarıyla sağlıklı ilişkiler kurmama",
+          "images": [],
+          "text_ar": "عدم إقامة علاقات صحية مع الأصدقاء"
+        },
+        {
+          "letter": "E",
+          "text": "Paylaşma ve iş birliğine yatkınlık",
+          "images": [],
+          "text_ar": "الميل إلى المشاركة والتعاون"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يمكن أن يكون من السلوكيات الشائعة عند الأطفال الذين نشأوا في أسر متسامحة إلى حد مفرط؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi otoriter ebeveynlik sergileyen ailelerin kaçınmaları gereken davranışlardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Öğretmenin otorite olarak görülmesi gerektiğinin anlatılması",
+          "images": [],
+          "text_ar": "بيان أنه ينبغي النظر إلى المعلم بوصفه سلطة"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk okula başlamadan önce ona güven duygusu aşılanmalı",
+          "images": [],
+          "text_ar": "ينبغي غرس شعور الثقة في الطفل قبل بدئه المدرسة"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk okula başlamadan önce onun özerkliği desteklenmeli",
+          "images": [],
+          "text_ar": "ينبغي دعم استقلالية الطفل قبل بدئه المدرسة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk okula başlamadan önce toplumsal kurallar öğretilmeli",
+          "images": [],
+          "text_ar": "ينبغي تعليم الطفل القواعد الاجتماعية قبل بدئه المدرسة"
+        },
+        {
+          "letter": "E",
+          "text": "Cezalandırma ve olumsuz davranışlardan uzak durulmalı",
+          "images": [],
+          "text_ar": "ينبغي الابتعاد عن العقاب والسلوكيات السلبية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي من السلوكيات التي ينبغي أن تتجنبها الأسر التي تُظهر تربية والدية تسلطية؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi genel olarak kullanılan aile türleri sınıflandırması arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Otoriter",
+          "images": [],
+          "text_ar": "التسلطية"
+        },
+        {
+          "letter": "B",
+          "text": "Her şeye kızan",
+          "images": [],
+          "text_ar": "السريعة الغضب من كل شيء"
+        },
+        {
+          "letter": "C",
+          "text": "Aşırı hoşgörülü",
+          "images": [],
+          "text_ar": "المفرطة في التسامح"
+        },
+        {
+          "letter": "D",
+          "text": "İlgisiz",
+          "images": [],
+          "text_ar": "غير المهتمة"
+        },
+        {
+          "letter": "E",
+          "text": "Demokratik",
+          "images": [],
+          "text_ar": "الديمقراطية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن التصنيف الشائع لأنواع الأسر؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisinde ilkokula hazırbulunuşluk geliştirilirken dikkate alınan aile etkileşim tipleri bir arada ve doğru biçimde verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Uyumlu, bağımlı, otoriter",
+          "images": [],
+          "text_ar": "متوافقة، تابعة، تسلطية"
+        },
+        {
+          "letter": "B",
+          "text": "Otoriter, ağ gibi saran, bağımsız",
+          "images": [],
+          "text_ar": "تسلطية، متشابكة، مستقلة"
+        },
+        {
+          "letter": "C",
+          "text": "Demokratik, ağ gibi saran, bağımsız",
+          "images": [],
+          "text_ar": "ديمقراطية، متشابكة، مستقلة"
+        },
+        {
+          "letter": "D",
+          "text": "Uyumsuz, bağımlı, ağ gibi saran",
+          "images": [],
+          "text_ar": "غير متوافقة، تابعة، متشابكة"
+        },
+        {
+          "letter": "E",
+          "text": "Uyumlu, bağımsız, ağ gibi saran",
+          "images": [],
+          "text_ar": "متوافقة، مستقلة، متشابكة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في أي الخيارات الآتية ترد مجتمعةً وعلى نحو صحيح أنماط التفاعل الأسرية التي تُراعى عند تنمية الاستعداد للمدرسة الابتدائية؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "ee58fbe61d86d7f1249eff28a53055f968052da394befd47e19c0094319b68eb"
+}

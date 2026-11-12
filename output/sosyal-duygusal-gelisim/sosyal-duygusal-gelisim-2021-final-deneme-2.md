@@ -3,7 +3,7 @@ course: SOSYAL-DUYGUSAL GELİŞİM
 exam: Sosyal – Duygusal Gelişim 2021 Final Deneme-2
 source_url: https://lolonolo.com/2021/11/25/sosyal-duygusal-gelisim-2021-final-deneme-2/
 question_count: 20
-scraped_at: 2026-11-12T15:01:08+03:00
+scraped_at: 2026-11-12T16:24:10+03:00
 ---
 
 ### Q1

@@ -1,0 +1,439 @@
+{
+  "course": "OYUN VE OYUN TERAPİSİ",
+  "course_slug": "oyun-ve-oyun-terapisi",
+  "exam": "Ünite-7",
+  "exam_slug": "unite-7",
+  "page_title": "Oyun ve Oyun Terapisi Ünite-7",
+  "source_url": "https://lolonolo.com/2025/10/03/oyun-ve-oyun-terapisi-unite-7/",
+  "scraped_at": "2026-11-12T16:24:00+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi oyun temaları envanterinin terapötik kullanım amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun oyunundaki tekrar eden temaları belirlemek",
+          "images": [],
+          "text_ar": "تحديد الموضوعات المتكررة في لعب الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Terapistin çocuğun içsel dünyasına dair çıkarım yapmasını sağlamak",
+          "images": [],
+          "text_ar": "تمكين المعالج من الاستدلال على العالم الداخلي للطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun IQ düzeyini belirlemek",
+          "images": [],
+          "text_ar": "تحديد مستوى الذكاء (IQ) لدى الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Terapi sürecindeki ilerlemeyi gözlemlemek",
+          "images": [],
+          "text_ar": "ملاحظة التقدم في العملية العلاجية"
+        },
+        {
+          "letter": "E",
+          "text": "Öfkenin yoğunluğu ve sıklığını izlemek",
+          "images": [],
+          "text_ar": "متابعة شدة الغضب وتكراره"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من أغراض الاستخدام العلاجي لقائمة موضوعات اللعب؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisi sürecinde çocuklarda gözlemlenen aşağıdaki davranışlardan hangisi öfkeye işaret eden bir belirti değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sık sık oyuncak bebekleri besleme",
+          "images": [],
+          "text_ar": "إطعام الدمى بشكل متكرر"
+        },
+        {
+          "letter": "B",
+          "text": "Materyalleri yok etme eğilimi",
+          "images": [],
+          "text_ar": "الميل إلى تدمير المواد"
+        },
+        {
+          "letter": "C",
+          "text": "Kontrolcü oyun senaryoları",
+          "images": [],
+          "text_ar": "سيناريوهات لعب تحكّمية"
+        },
+        {
+          "letter": "D",
+          "text": "Terapiste karşı çatışmacı tutum",
+          "images": [],
+          "text_ar": "موقف صراعي تجاه المعالج"
+        },
+        {
+          "letter": "E",
+          "text": "Saldırgan hikâye anlatımları",
+          "images": [],
+          "text_ar": "روايات قصص عدوانية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من السلوكيات التالية التي تُلاحظ عند الأطفال في عملية العلاج باللعب ليس علامة على الغضب؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun ek hizmetlere yönlendirilmesini gerektiren durumlardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun oynarken sessiz kalması",
+          "images": [],
+          "text_ar": "صمته أثناء اللعب"
+        },
+        {
+          "letter": "B",
+          "text": "Tekrarlayıcı ve şiddetli saldırgan davranışlar",
+          "images": [],
+          "text_ar": "سلوكيات عدوانية متكررة وشديدة"
+        },
+        {
+          "letter": "C",
+          "text": "Duygularını sembollerle ifade etmesi",
+          "images": [],
+          "text_ar": "تعبيره عن مشاعره بالرموز"
+        },
+        {
+          "letter": "D",
+          "text": "Sınıf arkadaşlarıyla anlaşmazlık yaşaması",
+          "images": [],
+          "text_ar": "وقوع خلاف مع أقرانه في الصف"
+        },
+        {
+          "letter": "E",
+          "text": "Aile figürlerini oyuna dahil etmesi",
+          "images": [],
+          "text_ar": "إشراكه شخصيات الأسرة في اللعب"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي من الحالات التي تستلزم إحالة الطفل إلى خدمات إضافية؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisinde kullanılan “Hayatını Renklendir” tekniğinin temel amacı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun akademik becerilerini değerlendirmek",
+          "images": [],
+          "text_ar": "تقييم مهارات الطفل الأكاديمية"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun fiziksel koordinasyonunu geliştirmek",
+          "images": [],
+          "text_ar": "تنمية التناسق الجسدي لدى الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun yaşamındaki duygusal deneyimleri sembolik olarak ifade etmesini sağlamak",
+          "images": [],
+          "text_ar": "تمكين الطفل من التعبير الرمزي عن الخبرات العاطفية في حياته"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun bilişsel performansını ölçmek",
+          "images": [],
+          "text_ar": "قياس الأداء المعرفي للطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun sosyal becerilerini test etmek",
+          "images": [],
+          "text_ar": "اختبار المهارات الاجتماعية للطفل"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما الهدف الأساسي لتقنية «لوّن حياتك» المستخدمة في العلاج باللعب؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuklukta öfke duygusunun düzenlenememesi durumunda ortaya çıkabilecek olumsuz sonuçlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal ilişkilerde zorlanma",
+          "images": [],
+          "text_ar": "الصعوبة في العلاقات الاجتماعية"
+        },
+        {
+          "letter": "B",
+          "text": "Akademik başarının olumsuz etkilenmesi",
+          "images": [],
+          "text_ar": "تأثر التحصيل الأكاديمي سلبًا"
+        },
+        {
+          "letter": "C",
+          "text": "Duygusal farkındalığın artması",
+          "images": [],
+          "text_ar": "زيادة الوعي العاطفي"
+        },
+        {
+          "letter": "D",
+          "text": "Uyum sorunları yaşam",
+          "images": [],
+          "text_ar": "مواجهة مشكلات في التكيف"
+        },
+        {
+          "letter": "E",
+          "text": "Saldırgan davranışlar geliştirme",
+          "images": [],
+          "text_ar": "تطوير سلوكيات عدوانية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من النتائج السلبية التي قد تظهر عند عدم القدرة على تنظيم شعور الغضب في الطفولة؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuklarda öfkenin oyun yoluyla metaforik ifadesine örnek olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyuncakları düzenli bir şekilde sıralama",
+          "images": [],
+          "text_ar": "ترتيب الألعاب بشكل منظم"
+        },
+        {
+          "letter": "B",
+          "text": "Doğal afet (volkan, fırtına) temalarının tekrarı",
+          "images": [],
+          "text_ar": "تكرار موضوعات الكوارث الطبيعية (البركان، العاصفة)"
+        },
+        {
+          "letter": "C",
+          "text": "Sessiz şekilde resim çizme",
+          "images": [],
+          "text_ar": "الرسم في صمت"
+        },
+        {
+          "letter": "D",
+          "text": "Öğretmenin rolünü üstlenme",
+          "images": [],
+          "text_ar": "تقمص دور المعلم"
+        },
+        {
+          "letter": "E",
+          "text": "Evcilik oyunu oynama",
+          "images": [],
+          "text_ar": "لعب لعبة البيت"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي يمكن أن يكون مثالًا على التعبير المجازي عن الغضب لدى الأطفال من خلال اللعب؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ebeveyn eğitiminin oyun terapisi sürecindeki amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ebeveynin duygusal farkındalığını artırmak",
+          "images": [],
+          "text_ar": "زيادة الوعي العاطفي لدى الوالد"
+        },
+        {
+          "letter": "B",
+          "text": "Ebeveynin duygularını bastırmayı öğretmek",
+          "images": [],
+          "text_ar": "تعليم الوالد كبت مشاعره"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa duyarlı yaklaşım geliştirmek",
+          "images": [],
+          "text_ar": "تنمية أسلوب مراعٍ تجاه الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Ebeveynin rol model olmasını desteklemek",
+          "images": [],
+          "text_ar": "دعم الوالد ليكون قدوة"
+        },
+        {
+          "letter": "E",
+          "text": "Ebeveynin terapötik sürece katkı sunmasını sağlamak",
+          "images": [],
+          "text_ar": "تمكين الوالد من الإسهام في العملية العلاجية"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من أهداف تدريب الوالدين في عملية العلاج باللعب؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi oyun odasında sınır ve kural koymanın temel gerekçelerindendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Terapistin çocuğun davranışlarını değerlendirmesini kolaylaştırmak",
+          "images": [],
+          "text_ar": "تسهيل تقييم المعالج لسلوكيات الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun ifade özgürlüğünü sınırlamak",
+          "images": [],
+          "text_ar": "تقييد حرية التعبير لدى الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Terapist ile çocuk arasında mesafe yaratmak",
+          "images": [],
+          "text_ar": "إيجاد مسافة بين المعالج والطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Fiziksel ve duygusal güvenliği sağlamak",
+          "images": [],
+          "text_ar": "توفير السلامة الجسدية والعاطفية"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğu oyun oynamaktan caydırmak",
+          "images": [],
+          "text_ar": "ثني الطفل عن اللعب"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من العبارات التالية من الأسباب الأساسية لوضع الحدود والقواعد في غرفة اللعب؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi erken çocukluk döneminde görülen bir duygu düzenleme stratejisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dikkati başka yöne çevirme",
+          "images": [],
+          "text_ar": "تحويل الانتباه إلى اتجاه آخر"
+        },
+        {
+          "letter": "B",
+          "text": "Yatıştırıcı nesnelere yönelme",
+          "images": [],
+          "text_ar": "التوجه إلى أشياء مهدئة"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel yeniden çerçeveleme",
+          "images": [],
+          "text_ar": "إعادة التأطير المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Sembolik oyun yoluyla ifade",
+          "images": [],
+          "text_ar": "التعبير من خلال اللعب الرمزي"
+        },
+        {
+          "letter": "E",
+          "text": "Sallanma davranışı",
+          "images": [],
+          "text_ar": "سلوك التأرجح"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من استراتيجيات تنظيم العاطفة الشائعة في مرحلة الطفولة المبكرة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "“Terapistin Arkadaşı Kukla” tekniği aşağıdakilerden hangisi için özellikle uygundur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sınıf kurallarını öğretmek",
+          "images": [],
+          "text_ar": "تعليم قواعد الصف"
+        },
+        {
+          "letter": "B",
+          "text": "Akademik başarıyı artırmak",
+          "images": [],
+          "text_ar": "زيادة التحصيل الأكاديمي"
+        },
+        {
+          "letter": "C",
+          "text": "Sınır ihlali yapan çocuklara dolaylı geri bildirim vermek",
+          "images": [],
+          "text_ar": "تقديم تغذية راجعة غير مباشرة للأطفال الذين يخرقون الحدود"
+        },
+        {
+          "letter": "D",
+          "text": "Duygusal kalkan imgelemesi yapmak",
+          "images": [],
+          "text_ar": "إجراء تخيل الدرع العاطفي"
+        },
+        {
+          "letter": "E",
+          "text": "Sanatsal yetenekleri geliştirmek",
+          "images": [],
+          "text_ar": "تنمية المواهب الفنية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "تقنية «الدمية صديق المعالج» مناسبة بشكل خاص لأي مما يلي؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "491a1e84a2d7042605f270ce72e616925beff6f70850f433c492c350deb5f349"
+}

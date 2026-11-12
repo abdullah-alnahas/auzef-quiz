@@ -1,0 +1,862 @@
+{
+  "course": "İLKOKULA HAZIRLIK",
+  "course_slug": "ilkokula-hazirlik",
+  "exam": "Final Deneme Sınavı -3",
+  "exam_slug": "final-deneme-sinavi-3",
+  "page_title": "İlkokula Hazırlık Final Deneme Sınavı -3",
+  "source_url": "https://lolonolo.com/2023/09/22/ilkokula-hazirlik-final-deneme-sinavi-3/",
+  "scraped_at": "2026-11-12T16:23:53+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okula uyum sürecinde kaçınılması gereken davranışlar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ailenin çocukla sınıfa girmesi",
+          "images": [],
+          "text_ar": "دخول الأسرة مع الطفل إلى الصف"
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmenden korkutulması",
+          "images": [],
+          "text_ar": "تخويف الطفل من المعلم"
+        },
+        {
+          "letter": "C",
+          "text": "Okuldan sıkılıp sıkılmadığının sorgulanması",
+          "images": [],
+          "text_ar": "السؤال عن مدى شعوره بالملل من المدرسة"
+        },
+        {
+          "letter": "D",
+          "text": "Okuldan vedalaşma sürecinin çok kısa tutulması",
+          "images": [],
+          "text_ar": "جعل عملية الوداع عند المدرسة قصيرة جدًا"
+        },
+        {
+          "letter": "E",
+          "text": "Aile bireylerinin çocuğun okula gitmesine yönelik tutarlı olmaları",
+          "images": [],
+          "text_ar": "أن يكون أفراد الأسرة متسقين في ما يتعلق بذهاب الطفل إلى المدرسة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يندرج ضمن السلوكيات التي ينبغي تجنبها في عملية التكيف مع المدرسة؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Parten tarafından sınıflandırılan Gelişimsel Oyun çeşitleri arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İş birliğine dayalı oyun",
+          "images": [],
+          "text_ar": "اللعب التعاوني"
+        },
+        {
+          "letter": "B",
+          "text": "Tasarımsal oyun",
+          "images": [],
+          "text_ar": "اللعب التصميمي"
+        },
+        {
+          "letter": "C",
+          "text": "Paralel oyun",
+          "images": [],
+          "text_ar": "اللعب المتوازي"
+        },
+        {
+          "letter": "D",
+          "text": "İlişkisel oyun",
+          "images": [],
+          "text_ar": "اللعب الترابطي"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız oyun",
+          "images": [],
+          "text_ar": "اللعب المنفرد"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن أنواع اللعب النمائي التي صنّفها بارتن؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “Stanley Hall” ve “Arnold Gess” tarafından ortaya atılan hazırbulunuşluğu değerlendiren görüştür?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Olgunlaşmacı görüş",
+          "images": [],
+          "text_ar": "الرأي النضجي"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyal yapılandırmacı görüş",
+          "images": [],
+          "text_ar": "الرأي البنائي الاجتماعي"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişselci görüş",
+          "images": [],
+          "text_ar": "الرأي المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Etkileşimci görüş",
+          "images": [],
+          "text_ar": "الرأي التفاعلي"
+        },
+        {
+          "letter": "E",
+          "text": "Çevreselci görüş",
+          "images": [],
+          "text_ar": "الرأي البيئي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي هو الرأي الذي طرحه ستانلي هول وأرنولد جيس في تقييم الاستعداد؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “sanat, okumaya hazırlık ve görsel materyal okuma” etkinlikleri hazırlanırken kullanılan kazanımlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Algıladıklarını hatırlar",
+          "images": [],
+          "text_ar": "يتذكر ما يدركه"
+        },
+        {
+          "letter": "B",
+          "text": "Günlük yaşam sembollerini tanır",
+          "images": [],
+          "text_ar": "يتعرف رموز الحياة اليومية"
+        },
+        {
+          "letter": "C",
+          "text": "Görsel materyalleri okur",
+          "images": [],
+          "text_ar": "يقرأ المواد البصرية"
+        },
+        {
+          "letter": "D",
+          "text": "Eksilen veya eklenen nesneyi söyler",
+          "images": [],
+          "text_ar": "يذكر الشيء الناقص أو المضاف"
+        },
+        {
+          "letter": "E",
+          "text": "Gösterilen sembolün anlamını söyler",
+          "images": [],
+          "text_ar": "يذكر معنى الرمز المعروض"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من مخرجات التعلم المستخدمة عند إعداد أنشطة «الفن والاستعداد للقراءة وقراءة المواد البصرية»؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "“Isıtıcı, Hareketli ve Dinlendirici oyun” şeklinde sınıflandırılan oyunlar aşağıdakilerden hangi türe girmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hareketlilik derecesine göre oyunlar",
+          "images": [],
+          "text_ar": "حسب درجة الحركة"
+        },
+        {
+          "letter": "B",
+          "text": "İçeriğine göre oyunla",
+          "images": [],
+          "text_ar": "حسب مضمونها"
+        },
+        {
+          "letter": "C",
+          "text": "Yapılarına göre oyunlar",
+          "images": [],
+          "text_ar": "حسب بنيتها"
+        },
+        {
+          "letter": "D",
+          "text": "Oynandığı yere göre oyunlar",
+          "images": [],
+          "text_ar": "حسب مكان اللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Oyunu ortaya koyan kişiye göre oyunlar",
+          "images": [],
+          "text_ar": "حسب الشخص الذي يضع اللعبة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "إلى أي تصنيف من التصنيفات الآتية تندرج الألعاب المصنفة على أنها «ألعاب الإحماء والحركة والاسترخاء»؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukta hazırbulunuşluğu etkileyen etmenlerden birisi olamaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Biyolojik etmenler",
+          "images": [],
+          "text_ar": "العوامل البيولوجية"
+        },
+        {
+          "letter": "B",
+          "text": "Duygusal etmenler",
+          "images": [],
+          "text_ar": "العوامل العاطفية"
+        },
+        {
+          "letter": "C",
+          "text": "Çevresel etmenler",
+          "images": [],
+          "text_ar": "العوامل البيئية"
+        },
+        {
+          "letter": "D",
+          "text": "Bilişsel etmenler",
+          "images": [],
+          "text_ar": "العوامل المعرفية"
+        },
+        {
+          "letter": "E",
+          "text": "Öz düzenleyici etmenler",
+          "images": [],
+          "text_ar": "العوامل التنظيمية الذاتية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يمكن أن يكون من العوامل المؤثرة في استعداد الطفل؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okul öncesinden ilkokula geçişte hazırbulunuşluk açısından değerlendirilebilecek temel becerilerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun yeni şeyler öğrenmede meraklı olması",
+          "images": [],
+          "text_ar": "أن يكون الطفل فضوليًا في تعلم أشياء جديدة"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun ihtiyaçlarını ifade edecek dil becerilerine sahip olması",
+          "images": [],
+          "text_ar": "أن يمتلك مهارات لغوية تعبّر عن احتياجاته"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun öz güvenli olması",
+          "images": [],
+          "text_ar": "أن يكون واثقًا بنفسه"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun ödevlerini annesiyle yapması",
+          "images": [],
+          "text_ar": "أن يقوم بواجباته مع أمه"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun öz bakım becerisine sahip olması",
+          "images": [],
+          "text_ar": "أن يمتلك مهارات العناية بالذات"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من المهارات الأساسية التي يمكن تقييمها من حيث الاستعداد في الانتقال من مرحلة ما قبل المدرسة إلى المدرسة الابتدائية؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki seçeneklerden hangisi, okula uyum sürecinde “hazır çocuk” kavramında çocuğun hazır hale gelmesi gereken gelişim alanlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Motor",
+          "images": [],
+          "text_ar": "الحركي"
+        },
+        {
+          "letter": "B",
+          "text": "Psikolojik",
+          "images": [],
+          "text_ar": "النفسي"
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal- duyuşsal",
+          "images": [],
+          "text_ar": "الاجتماعي-الوجداني"
+        },
+        {
+          "letter": "D",
+          "text": "Fiziksel",
+          "images": [],
+          "text_ar": "الجسدي"
+        },
+        {
+          "letter": "E",
+          "text": "Bilişsel",
+          "images": [],
+          "text_ar": "المعرفي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي الخيارات الآتية ليس من مجالات النمو التي ينبغي أن يصبح فيها الطفل جاهزًا في مفهوم «الطفل الجاهز» ضمن عملية التكيف مع المدرسة؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi “Matematik” etkinlikleri hazırlanırken kullanılan kazanımlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eksilen veya eklenen nesneyi söyler.",
+          "images": [],
+          "text_ar": "يذكر الشيء الناقص أو المضاف."
+        },
+        {
+          "letter": "B",
+          "text": "Nesneleri sayar",
+          "images": [],
+          "text_ar": "يعد الأشياء"
+        },
+        {
+          "letter": "C",
+          "text": "Belirtilen sayı kadar nesneyi söyler",
+          "images": [],
+          "text_ar": "يذكر عدد الأشياء المحدد"
+        },
+        {
+          "letter": "D",
+          "text": "Saydığı nesnelerin kaç tane olduğunu söyler",
+          "images": [],
+          "text_ar": "يقول كم عدد الأشياء التي عدّها"
+        },
+        {
+          "letter": "E",
+          "text": "Nesneleri birbiriyle toplar ve çıkarma yapar",
+          "images": [],
+          "text_ar": "يجمع الأشياء بعضها إلى بعض ويجري عملية الطرح"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من مخرجات التعلم المستخدمة عند إعداد أنشطة «الرياضيات»؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Okul öncesi ilkokula hazırbulunuşlukta erken çocukluk eğitim programının içeriğinde aşağıdaki seçeneklerdeki yönlerden hangisi yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dil yönü",
+          "images": [],
+          "text_ar": "الجانب اللغوي"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyo-ekonomik yön",
+          "images": [],
+          "text_ar": "الجانب الاجتماعي-الاقتصادي"
+        },
+        {
+          "letter": "C",
+          "text": "Akademik yön",
+          "images": [],
+          "text_ar": "الجانب الأكاديمي"
+        },
+        {
+          "letter": "D",
+          "text": "Okuryazarlık yönü",
+          "images": [],
+          "text_ar": "جانب القراءة والكتابة"
+        },
+        {
+          "letter": "E",
+          "text": "Bilişsel yön",
+          "images": [],
+          "text_ar": "الجانب المعرفي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي الجوانب الآتية لا يندرج ضمن محتوى برنامج تعليم الطفولة المبكرة في الاستعداد للمدرسة الابتدائية في مرحلة ما قبل المدرسة؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Cumhuriyet döneminin en uzun süre uygulanan ilkokul programının özellikleri aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1924",
+          "images": [],
+          "text_ar": "برنامج 1924"
+        },
+        {
+          "letter": "B",
+          "text": "1926",
+          "images": [],
+          "text_ar": "برنامج 1926"
+        },
+        {
+          "letter": "C",
+          "text": "1936",
+          "images": [],
+          "text_ar": "برنامج 1936"
+        },
+        {
+          "letter": "D",
+          "text": "1948",
+          "images": [],
+          "text_ar": "برنامج 1948"
+        },
+        {
+          "letter": "E",
+          "text": "2005",
+          "images": [],
+          "text_ar": "برنامج 2005"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما خصائص برنامج المدرسة الابتدائية الأطول مدةً في التطبيق في العهد الجمهوري مما يلي؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "– Aşağıda özellikleri verilen ilkokul programı hangi yıla aittir? -Cumhuriyet döneminin ilk kapsamlı programı niteliğinde olması çıkmaktadır. -Yeni Türk harflerinin ilk uygulandığı program olma özelliği de kazanmıştır. -Bu program ile birlikte derslerin özel amaçlarına her dersin girişinde “Dersin Hedefleri” başlığı altında yer verilmiştir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1924",
+          "images": [],
+          "text_ar": "عام 1924"
+        },
+        {
+          "letter": "B",
+          "text": "1926",
+          "images": [],
+          "text_ar": "عام 1926"
+        },
+        {
+          "letter": "C",
+          "text": "1936",
+          "images": [],
+          "text_ar": "عام 1936"
+        },
+        {
+          "letter": "D",
+          "text": "1948",
+          "images": [],
+          "text_ar": "عام 1948"
+        },
+        {
+          "letter": "E",
+          "text": "1998",
+          "images": [],
+          "text_ar": "عام 1998"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "– إلى أي سنة يعود برنامج المدرسة الابتدائية الموصوفة خصائصه فيما يلي؟ -يُعدّ أول برنامج شامل في العهد الجمهوري. -اكتسب أيضًا صفة كونه أول برنامج طُبّقت فيه الحروف التركية الجديدة. -مع هذا البرنامج، أُدرجت الأهداف الخاصة بالدروس عند مدخل كل درس تحت عنوان «أهداف الدرس»."
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum sürecinde çocuğun geçmesi gereken aşamalar, aşağıdaki seçeneklerin hangisinde doğru sırada ve tam olarak verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul başlama, hazırlık, yerleşme",
+          "images": [],
+          "text_ar": "بدء المدرسة، التهيئة، الاستقرار"
+        },
+        {
+          "letter": "B",
+          "text": "Okula başlama, yerleşme, bütünleşme",
+          "images": [],
+          "text_ar": "بدء المدرسة، الاستقرار، الاندماج"
+        },
+        {
+          "letter": "C",
+          "text": "Hazırlık, yerleşme, bütünleşme",
+          "images": [],
+          "text_ar": "التهيئة، الاستقرار، الاندماج"
+        },
+        {
+          "letter": "D",
+          "text": "Hazırlık, bütünleşme, yerleşme",
+          "images": [],
+          "text_ar": "التهيئة، الاندماج، الاستقرار"
+        },
+        {
+          "letter": "E",
+          "text": "Hazırlık, okula başlama, bütünleşme",
+          "images": [],
+          "text_ar": "التهيئة، بدء المدرسة، الاندماج"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي الخيارات الآتية يرد فيها المراحل التي ينبغي أن يمرّ بها الطفل في عملية التكيف مع المدرسة بالترتيب الصحيح وكاملة؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi okula hazırbulunuşluğu etkileyen faktörlerden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zekâ düzeyi",
+          "images": [],
+          "text_ar": "مستوى الذكاء"
+        },
+        {
+          "letter": "B",
+          "text": "Dil becerileri",
+          "images": [],
+          "text_ar": "المهارات اللغوية"
+        },
+        {
+          "letter": "C",
+          "text": "Ebeveyn-çocuk ilişkisi",
+          "images": [],
+          "text_ar": "علاقة الوالدين بالطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Öğretmen-çocuk ilişkisi",
+          "images": [],
+          "text_ar": "علاقة المعلم بالطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Akran-çocuk ilişkisi",
+          "images": [],
+          "text_ar": "علاقة الأقران بالطفل"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من العوامل المؤثرة في الاستعداد للمدرسة؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Okula uyum programının temel ilkeleri arasında aşağıdakilerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Paydaşlarla iş birliği",
+          "images": [],
+          "text_ar": "التعاون مع أصحاب المصلحة"
+        },
+        {
+          "letter": "B",
+          "text": "Öğretmenin merkez olması",
+          "images": [],
+          "text_ar": "أن يكون المعلم هو المحور"
+        },
+        {
+          "letter": "C",
+          "text": "Okula uyum programını özümseme",
+          "images": [],
+          "text_ar": "استيعاب برنامج التكيف مع المدرسة"
+        },
+        {
+          "letter": "D",
+          "text": "Okula uyum programını değerlendirme",
+          "images": [],
+          "text_ar": "تقييم برنامج التكيف مع المدرسة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğu ve aileyi tanıma",
+          "images": [],
+          "text_ar": "التعرف على الطفل والأسرة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يندرج ضمن المبادئ الأساسية لبرنامج التكيف مع المدرسة؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki programlardan hangisinde öğretmenin hazırlayacağı “Yıllık Plan, Ünite Planı ve Günlük Planlar” ilk olarak gündeme gelmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1936",
+          "images": [],
+          "text_ar": "برنامج 1936"
+        },
+        {
+          "letter": "B",
+          "text": "1948",
+          "images": [],
+          "text_ar": "برنامج 1948"
+        },
+        {
+          "letter": "C",
+          "text": "1968",
+          "images": [],
+          "text_ar": "برنامج 1968"
+        },
+        {
+          "letter": "D",
+          "text": "1998",
+          "images": [],
+          "text_ar": "برنامج 1998"
+        },
+        {
+          "letter": "E",
+          "text": "2005",
+          "images": [],
+          "text_ar": "برنامج 2005"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "في أي من البرامج الآتية ظهرت أول مرة «الخطة السنوية وخطة الوحدة والخطط اليومية» التي يعدّها المعلم؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Türkiye’de halen uygulanmakta olan son ilkokul programında hangi sınıf seviyelerine ve haftada kaçar saat ders verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1-2-3. sınıflar ve 25’er saat",
+          "images": [],
+          "text_ar": "الصفوف 1-2-3 و25 ساعة لكل صف"
+        },
+        {
+          "letter": "B",
+          "text": "1-2-3. sınıflar ve 29’ar saat",
+          "images": [],
+          "text_ar": "الصفوف 1-2-3 و29 ساعة لكل صف"
+        },
+        {
+          "letter": "C",
+          "text": "1-2-3-4. sınıflar ve 25’er saat",
+          "images": [],
+          "text_ar": "الصفوف 1-2-3-4 و25 ساعة لكل صف"
+        },
+        {
+          "letter": "D",
+          "text": "1-2-3-4. sınıflar ve 30’ar saat",
+          "images": [],
+          "text_ar": "الصفوف 1-2-3-4 و30 ساعة لكل صف"
+        },
+        {
+          "letter": "E",
+          "text": "1-2-3-4-5. sınıflar ve 30’ar saat",
+          "images": [],
+          "text_ar": "الصفوف 1-2-3-4-5 و30 ساعة لكل صف"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "في آخر برنامج للمدرسة الابتدائية لا يزال معمولًا به في تركيا، أي الصفوف تُدرَّس، وكم ساعة أسبوعيًا لكل صف؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğun okula uyum sürecinde iş birliği yapılabilecek paydaşlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Veliler",
+          "images": [],
+          "text_ar": "أولياء الأمور"
+        },
+        {
+          "letter": "B",
+          "text": "Okul yönetimi",
+          "images": [],
+          "text_ar": "إدارة المدرسة"
+        },
+        {
+          "letter": "C",
+          "text": "Komşular",
+          "images": [],
+          "text_ar": "الجيران"
+        },
+        {
+          "letter": "D",
+          "text": "Diğer öğretmenler",
+          "images": [],
+          "text_ar": "المعلمون الآخرون"
+        },
+        {
+          "letter": "E",
+          "text": "Rehber öğretmenler",
+          "images": [],
+          "text_ar": "المرشدون المعلمون"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من أصحاب المصلحة الذين يمكن التعاون معهم في عملية تكيف الطفل مع المدرسة؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Rubin, Fein ve Vanderbeg tarafından sınıflandırılan oyunlardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yapılandırılmış oyun",
+          "images": [],
+          "text_ar": "اللعب المنظم"
+        },
+        {
+          "letter": "B",
+          "text": "Kurallı oyun",
+          "images": [],
+          "text_ar": "اللعب ذو القواعد"
+        },
+        {
+          "letter": "C",
+          "text": "Epistemik oyun",
+          "images": [],
+          "text_ar": "اللعب المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Oyuncu oyun",
+          "images": [],
+          "text_ar": "اللعب التمثيلي"
+        },
+        {
+          "letter": "E",
+          "text": "İş birliğine dayalı oyun",
+          "images": [],
+          "text_ar": "اللعب التعاوني"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي يعد من أنواع اللعب التي صنّفها روبين وفين وفاندربيرغ؟",
+      "review": [
+        "q19.D: مصطلح تصنيفي غير واضح في المصدر (Oyuncu oyun)؛ تُرجم بأقرب معنى."
+      ]
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ilkokul programı ikililerinden hangileri sırasıyla, “davranışçı ve yapılandırmacı” yaklaşımların ilk olarak ortaya çıktığı programlardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1948-2005",
+          "images": [],
+          "text_ar": "برنامجا 1948 و2005"
+        },
+        {
+          "letter": "B",
+          "text": "1998-2005",
+          "images": [],
+          "text_ar": "برنامجا 1998 و2005"
+        },
+        {
+          "letter": "C",
+          "text": "1936-2005",
+          "images": [],
+          "text_ar": "برنامجا 1936 و2005"
+        },
+        {
+          "letter": "D",
+          "text": "1968-2018",
+          "images": [],
+          "text_ar": "برنامجا 1968 و2018"
+        },
+        {
+          "letter": "E",
+          "text": "1998-2018",
+          "images": [],
+          "text_ar": "برنامجا 1998 و2018"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من ثنائيات برامج المدرسة الابتدائية الآتية هما، على الترتيب، البرنامجان اللذان ظهرت فيهما أول مرة مقاربتا «السلوكية» و«البنائية»؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "54e4fc852266300250354ac5b3765684fff3085262932a94f722f33617faee9c"
+}

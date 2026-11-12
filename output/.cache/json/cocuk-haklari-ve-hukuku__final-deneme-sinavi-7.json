@@ -1,0 +1,847 @@
+{
+  "course": "ÇOCUK HAKLARI VE HUKUKU",
+  "course_slug": "cocuk-haklari-ve-hukuku",
+  "exam": "Final Deneme Sınavı -7",
+  "exam_slug": "final-deneme-sinavi-7",
+  "page_title": "Çocuk Hakları ve Hukuku Final Deneme Sınavı -7",
+  "source_url": "https://lolonolo.com/2022/11/14/cocuk-haklari-ve-hukuku-final-deneme-sinavi-7/",
+  "scraped_at": "2026-11-12T16:23:49+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Tarafların resmi memur önünde değil de kendi aralarında yaptıkları bir evliliğin akıbeti nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hâkim kararı ile geçerli hale gelir.",
+          "images": [],
+          "text_ar": "يصبح صحيحًا بقرار من القاضي."
+        },
+        {
+          "letter": "B",
+          "text": "Nisbi butlan ile sakattır.",
+          "images": [],
+          "text_ar": "معيب بالبطلان النسبي."
+        },
+        {
+          "letter": "C",
+          "text": "Mutlak butlan ile sakattır.",
+          "images": [],
+          "text_ar": "معيب بالبطلان المطلق."
+        },
+        {
+          "letter": "D",
+          "text": "Yoklukla sakattır.",
+          "images": [],
+          "text_ar": "معيب بالانعدام."
+        },
+        {
+          "letter": "E",
+          "text": "İlgililerce bir yıl içinde itiraz edilmezse geçerli hale gelir.",
+          "images": [],
+          "text_ar": "يصبح صحيحًا إذا لم يعترض عليه ذوو الشأن خلال سنة."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما مصير زواج أجراه الطرفان بينهما لا أمام موظف رسمي؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk Koruma Kanunu çocukların korunması amacıyla birtakım temel ilkeler göz önünde bulundurularak hazırlanmıştır. Bu temel ilkeler arasında aşağıdakilerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Soruşturma ve kovuşturma sürecinde çocuğun durumuna uygun özel ihtimam gösterilmesi",
+          "images": [],
+          "text_ar": "إيلاء عناية خاصة مناسبة لوضع الطفل في مرحلتي التحقيق والمحاكمة"
+        },
+        {
+          "letter": "B",
+          "text": "Kararların alınmasında ve uygulanmasında, çocuğun yaşına ve gelişimine uygun eğitimini ve öğrenimini, kişiliğini ve toplumsal sorumluluğunu geliştirmesinin desteklenmesi",
+          "images": [],
+          "text_ar": "دعم تطوير تعليم الطفل وتعلمه بما يتناسب مع عمره ونموه، وتطوير شخصيته ومسؤوليته الاجتماعية، عند اتخاذ القرارات وتنفيذها"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuklar hakkında adli para cezasına en son çare olarak başvurulması",
+          "images": [],
+          "text_ar": "اللجوء إلى الغرامة القضائية بحق الأطفال كحل أخير"
+        },
+        {
+          "letter": "D",
+          "text": "Tedbir kararı verilirken kurumda bakım ve kurumda tutmanın son çare olarak görülmesi, kararların verilmesinde ve uygulanmasında toplumsal sorumluluğun paylaşılmasının sağlanması",
+          "images": [],
+          "text_ar": "اعتبار الرعاية في المؤسسة والإبقاء فيها حلًا أخيرًا عند إصدار قرار التدبير، وضمان تقاسم المسؤولية الاجتماعية في إصدار القرارات وتنفيذها"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklar hakkında yürütülen işlemlerde, yargılama ve kararların yerine getirilmesinde kimliğinin başkaları tarafından belirlenememesine yönelik önlemler alınmasıdır",
+          "images": [],
+          "text_ar": "اتخاذ تدابير تهدف إلى عدم تمكن الآخرين من تحديد هوية الطفل في الإجراءات المتخذة بشأنه وفي المحاكمة وتنفيذ القرارات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أُعدّ قانون حماية الطفل بهدف حماية الأطفال مع مراعاة مجموعة من المبادئ الأساسية. أي مما يلي ليس من هذه المبادئ الأساسية؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi örf adet hukukunun manevi unsurunu oluşturur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Süreklilik",
+          "images": [],
+          "text_ar": "الاستمرارية"
+        },
+        {
+          "letter": "B",
+          "text": "Genellik",
+          "images": [],
+          "text_ar": "العمومية"
+        },
+        {
+          "letter": "C",
+          "text": "Devlet desteği",
+          "images": [],
+          "text_ar": "دعم الدولة"
+        },
+        {
+          "letter": "D",
+          "text": "Genel inanç",
+          "images": [],
+          "text_ar": "الاعتقاد العام"
+        },
+        {
+          "letter": "E",
+          "text": "Tekrarlanma",
+          "images": [],
+          "text_ar": "التكرار"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي يشكل العنصر المعنوي للقانون العرفي؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki sosyal düzen kurallarının hangisinin sosyal müeyyidesinin diğerlerine göre biraz daha hafif olduğu söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hukuk Kuralları",
+          "images": [],
+          "text_ar": "القواعد القانونية"
+        },
+        {
+          "letter": "B",
+          "text": "Örf ve Adet Kuralları",
+          "images": [],
+          "text_ar": "قواعد العرف والعادة"
+        },
+        {
+          "letter": "C",
+          "text": "Din Kuralları",
+          "images": [],
+          "text_ar": "القواعد الدينية"
+        },
+        {
+          "letter": "D",
+          "text": "Ahlak Kuralla",
+          "images": [],
+          "text_ar": "قواعد الأخلاق"
+        },
+        {
+          "letter": "E",
+          "text": "Görgü Kuralları",
+          "images": [],
+          "text_ar": "قواعد اللياقة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من القواعد التالية للنظام الاجتماعي يمكن القول إن الجزاء الاجتماعي فيها أخف نسبيًا من غيرها؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Koruyucu ve destekleyici tedbirlerin alınmasında çocuğun içerisinde bulunduğu durumun derhal ve acil şekilde tedbir kararlarının alınmasını gerekli kıldığı durumlarda izlenen usul ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal Hizmetler ve Çocuk Esirgeme Kurumu tarafından bakım ve gözetim altına alındıktan sonra acil korunma kararının alınması için Kurum tarafından çocuğun Kuruma geldiği tarihten itibaren en geç beş gün içinde çocuk hâkimine müracaat edilir. Hâkim tarafından, üç gün içinde talep hakkında karar verilir.",
+          "images": [],
+          "text_ar": "بعد أن تتولى مؤسسة الخدمات الاجتماعية ورعاية الطفل رعايته والإشراف عليه، تتقدم المؤسسة بطلب إلى قاضي الطفل لاتخاذ قرار الحماية العاجل في موعد أقصاه خمسة أيام من تاريخ وصول الطفل إلى المؤسسة. ويصدر القاضي قراره بشأن الطلب خلال ثلاثة أيام."
+        },
+        {
+          "letter": "B",
+          "text": "Acil korunma kararı en fazla otuz günlük süre ile sınırlı olmak üzere verilebilir. Bu süre içinde Sosyal Hizmetler ve Çocuk Esirgeme Kurumunca çocuk hakkında sosyal inceleme yapılır.",
+          "images": [],
+          "text_ar": "يجوز إصدار قرار الحماية العاجل بحد أقصى مدته ثلاثون يومًا. وتُجري مؤسسة الخدمات الاجتماعية ورعاية الطفل خلال هذه المدة دراسة اجتماعية عن الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal Hizmetler ve Çocuk Esirgeme Kurumu, yaptığı inceleme sonucunda, tedbir kararı alınmasının gerekmediği sonucuna varırsa bu yöndeki görüşünü ve sağlayacağı hizmetleri hâkime bildirir.",
+          "images": [],
+          "text_ar": "إذا خلصت مؤسسة الخدمات الاجتماعية ورعاية الطفل، نتيجة دراستها، إلى عدم الحاجة إلى اتخاذ قرار تدبير، أبلغت القاضي برأيها في هذا الشأن وبالخدمات التي ستقدمها."
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal Hizmetler ve Çocuk Esirgeme Kurumu çocuğun, ailesine teslim edilip edilmeyeceğine veya uygun görülen başkaca bir tedbire karar verebilir.",
+          "images": [],
+          "text_ar": "يجوز لمؤسسة الخدمات الاجتماعية ورعاية الطفل أن تقرر ما إذا كان الطفل سيُسلَّم إلى أسرته أو يُتخذ بشأنه تدبير آخر تراه مناسبًا."
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal Hizmetler ve Çocuk Esirgeme Kurumu, çocuk hakkında tedbir kararı alınması gerektiği sonucuna varırsa hâkimden koruyucu ve destekleyici tedbir kararı verilmesini talep eder",
+          "images": [],
+          "text_ar": "إذا خلصت مؤسسة الخدمات الاجتماعية ورعاية الطفل إلى وجوب اتخاذ قرار تدبير بشأن الطفل، طلبت من القاضي إصدار قرار بتدبير وقائي وداعم"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي غير صحيح بشأن الإجراء المتبع في حالات اتخاذ التدابير الوقائية والداعمة عندما يقتضي وضع الطفل اتخاذ قرارات تدبير فورية وعاجلة؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Derhâl korunma altına alınmasını gerektiren bir durumun varlığı hâlinde çocuk, Sosyal Hizmetler ve Çocuk Esirgeme Kurumu tarafından bakım ve gözetim altına alındıktan sonra acil korunma kararının alınması için Kurum tarafından çocuğun Kuruma geldiği tarihten itibaren en geç …… içinde çocuk hâkimine müracaat edilir. Hâkim tarafından, …… içinde talep hakkında karar verilir. Yukarıdaki boşluklara aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5 gün / 3 gün",
+          "images": [],
+          "text_ar": "5 أيام / 3 أيام"
+        },
+        {
+          "letter": "B",
+          "text": "3 gün / 5 gün",
+          "images": [],
+          "text_ar": "3 أيام / 5 أيام"
+        },
+        {
+          "letter": "C",
+          "text": "1 hafta / 3 gün",
+          "images": [],
+          "text_ar": "أسبوع واحد / 3 أيام"
+        },
+        {
+          "letter": "D",
+          "text": "1 gün / aynı gün",
+          "images": [],
+          "text_ar": "يوم واحد / اليوم نفسه"
+        },
+        {
+          "letter": "E",
+          "text": "5 gün / 1 hafta",
+          "images": [],
+          "text_ar": "5 أيام / أسبوع واحد"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في حال وجود وضع يقتضي وضع الطفل تحت الحماية فورًا، وبعد أن تتولى مؤسسة الخدمات الاجتماعية ورعاية الطفل رعايته والإشراف عليه، تتقدم المؤسسة بطلب إلى قاضي الطفل لاتخاذ قرار الحماية العاجل في موعد أقصاه …… من تاريخ وصول الطفل إلى المؤسسة. ويصدر القاضي قراره بشأن الطلب خلال …… . أي مما يلي ينبغي وضعه في الفراغين أعلاه؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Hukuk normlarının şekline saygı gösterilerek özünün yok edilmesi hangi kavramla ifade edilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kanuna karşı hile",
+          "images": [],
+          "text_ar": "التحايل على القانون"
+        },
+        {
+          "letter": "B",
+          "text": "Adaletsizlik",
+          "images": [],
+          "text_ar": "الظلم"
+        },
+        {
+          "letter": "C",
+          "text": "Metrukiyet",
+          "images": [],
+          "text_ar": "المتروك"
+        },
+        {
+          "letter": "D",
+          "text": "Lafza bağlılık",
+          "images": [],
+          "text_ar": "التمسك باللفظ"
+        },
+        {
+          "letter": "E",
+          "text": "Takdir yetkisi",
+          "images": [],
+          "text_ar": "السلطة التقديرية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما المفهوم الذي يعبر عن إهلاك جوهر قاعدة قانونية مع احترام شكلها؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Terk sebebiyle boşama davası hakkında aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Terk mutlak bir boşanma sebebi olup hâkimin ortak hayatın çekilmez hale geldiğini araştırmasına gerek yoktur.",
+          "images": [],
+          "text_ar": "الهجر سبب طلاق مطلق، ولا حاجة للقاضي إلى البحث في أن الحياة المشتركة أصبحت غير محتملة."
+        },
+        {
+          "letter": "B",
+          "text": "Terk edilen eş, en erken terk olayını izleyen dördüncü ayın sonunda hâkime başvurarak terk eden eşe ihtarda bulunmalıdır.",
+          "images": [],
+          "text_ar": "يجب على الزوج المهجور أن يتقدم إلى القاضي في نهاية الشهر الرابع على أبعد تقدير من واقعة الهجر لينذر الزوج الهاجر."
+        },
+        {
+          "letter": "C",
+          "text": "Terk haklı bir sebebe dayanmamalıdır.",
+          "images": [],
+          "text_ar": "يجب ألا يستند الهجر إلى سبب مشروع."
+        },
+        {
+          "letter": "D",
+          "text": "Terk, ortak hayata son verecek şekilde gerçekleşmelidir.",
+          "images": [],
+          "text_ar": "يجب أن يقع الهجر على نحو ينهي الحياة المشتركة."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح بشأن دعوى الطلاق بسبب الهجر؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Geçici olup boşanma davalarında boşanma kararı kesinleşinceye kadar geçen sürede ekonomik durumu kötü olan eşin mağdur olmaması için açılacak dava hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tedbir nafakası",
+          "images": [],
+          "text_ar": "النفقة المؤقتة"
+        },
+        {
+          "letter": "B",
+          "text": "Yoksulluk nafakası",
+          "images": [],
+          "text_ar": "نفقة الفقر"
+        },
+        {
+          "letter": "C",
+          "text": "İştirak nafakası",
+          "images": [],
+          "text_ar": "نفقة المشاركة"
+        },
+        {
+          "letter": "D",
+          "text": "Manevi tazminat",
+          "images": [],
+          "text_ar": "التعويض المعنوي"
+        },
+        {
+          "letter": "E",
+          "text": "Maddi tazminat",
+          "images": [],
+          "text_ar": "التعويض المادي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما الدعوى المؤقتة التي تُرفع في دعاوى الطلاق حتى يصبح حكم الطلاق نهائيًا، لكي لا يتضرر الزوج الذي تدهورت حالته الاقتصادية؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Türk Medeni Kanunu’na göre, aşağıdaki evliliklerden hangisi yasak değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evlatlığın eşi ile evlat edinen arasında",
+          "images": [],
+          "text_ar": "بين زوج المتبنَّى والمتبنّي"
+        },
+        {
+          "letter": "B",
+          "text": "Evlatlığın altsoyu ile evlat edinen arasında",
+          "images": [],
+          "text_ar": "بين فرع المتبنَّى الأدنى والمتبنّي"
+        },
+        {
+          "letter": "C",
+          "text": "Evlat edinen ile evlatlığın üstsoyu arasında",
+          "images": [],
+          "text_ar": "بين المتبنّي وأصل المتبنَّى الأعلى"
+        },
+        {
+          "letter": "D",
+          "text": "Evlat edinen ile evlatlık arasında",
+          "images": [],
+          "text_ar": "بين المتبنّي والمتبنَّى"
+        },
+        {
+          "letter": "E",
+          "text": "Evlat edinenin altsoyu ile evlatlık arasında",
+          "images": [],
+          "text_ar": "بين فرع المتبنّي الأدنى والمتبنَّى"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "وفقًا للقانون المدني التركي، أي من الزواجات الآتية غير محظور؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki butlan nedenlerinden hangisi yalnızca eşler tarafından ileri sürülebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mevcut bir evliliğin bulunması",
+          "images": [],
+          "text_ar": "وجود زواج قائم"
+        },
+        {
+          "letter": "B",
+          "text": "Evlat edinen ile evlatlık arasındaki evlilik",
+          "images": [],
+          "text_ar": "الزواج بين المتبنّي والمتبنَّى"
+        },
+        {
+          "letter": "C",
+          "text": "Evlenmeye engel nitelikte akıl hastalığı",
+          "images": [],
+          "text_ar": "مرض عقلي يمنع الزواج"
+        },
+        {
+          "letter": "D",
+          "text": "Amca, dayı, hala ve teyze ile yapılan evlilik",
+          "images": [],
+          "text_ar": "الزواج بالعم والخال والعمة والخالة"
+        },
+        {
+          "letter": "E",
+          "text": "Ayırt etme gücünden geçici yoksunluk",
+          "images": [],
+          "text_ar": "فقدان قوة التمييز مؤقتًا"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من أسباب البطلان الآتية لا يجوز التمسك به إلا من قبل الزوجين؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki şıklarda belirtilenlerden hangisi belirli bir işin görülmesi için sulh mahkemesi tarafından atanır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yasal danışman",
+          "images": [],
+          "text_ar": "المستشار القانوني"
+        },
+        {
+          "letter": "B",
+          "text": "Kayyım",
+          "images": [],
+          "text_ar": "القيّم"
+        },
+        {
+          "letter": "C",
+          "text": "Vasi",
+          "images": [],
+          "text_ar": "الوصي"
+        },
+        {
+          "letter": "D",
+          "text": "Akdi temsilci",
+          "images": [],
+          "text_ar": "الممثل التعاقدي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما ورد في الخيارات الآتية يُعيَّن من قبل محكمة الصلح للقيام بعمل معين؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "I.Miras Hukuku II. Vergi Hukuku III. Devletler Genel Hukuku IV. Çocuk Hukuku V. Ceza Hukuku< Yukarıdaki öncüllerden hangisi veya hangileri özel hukukun dallarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II, III ve V",
+          "images": [],
+          "text_ar": "II و III و V"
+        },
+        {
+          "letter": "B",
+          "text": "III, IV ve V",
+          "images": [],
+          "text_ar": "III و IV و V"
+        },
+        {
+          "letter": "C",
+          "text": "II, IV ve V",
+          "images": [],
+          "text_ar": "II و IV و V"
+        },
+        {
+          "letter": "D",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I و II و III"
+        },
+        {
+          "letter": "E",
+          "text": "II, III ve IV",
+          "images": [],
+          "text_ar": "II و III و IV"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "I. قانون الميراث\nII. قانون الضرائب\nIII. القانون الدولي العام\nIV. قانون الطفل\nV. القانون الجنائي\nأي مما ورد أعلاه أو أيها ليس من فروع القانون الخاص؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "I. Maddi tazminat II. Manevi tazminat III. Hediyelerin iadesi Yukarıdakilerden hangisi veya hangileri nişanın bozulmasının sonucunda yalnızca kusurun varlığı halinde ileri sürülebilecek bir taleptir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I و II"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "C",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I و II و III"
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I و III"
+        },
+        {
+          "letter": "E",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II و III"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "I. التعويض المادي\nII. التعويض المعنوي\nIII. إعادة الهدايا\nأي مما سبق، واحدة كانت أو أكثر، طلب لا يمكن التمسك به نتيجة فسخ الخطبة إلا في حال وجود خطأ؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi vasinin izni ile yapılabilecek işlemlerdendir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kefil olmak",
+          "images": [],
+          "text_ar": "الكفالة عن شخص"
+        },
+        {
+          "letter": "B",
+          "text": "Gayrimenkul almak ve satmak",
+          "images": [],
+          "text_ar": "شراء العقارات وبيعها"
+        },
+        {
+          "letter": "C",
+          "text": "Vakıf kurmak",
+          "images": [],
+          "text_ar": "إنشاء وقف"
+        },
+        {
+          "letter": "D",
+          "text": "Önemli bağışlamalarda bulunmak",
+          "images": [],
+          "text_ar": "القيام بهبات كبيرة"
+        },
+        {
+          "letter": "E",
+          "text": "Rekabet yasağı anlaşması yapmak",
+          "images": [],
+          "text_ar": "إبرام اتفاق حظر المنافسة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي من التصرفات التي يجوز القيام بها بإذن الوصي؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Danışmanlık tedbiri süreciyle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk, aile, bakmakla yükümlü kişi veya kişiler ile ilgili bilgiler ve dosya bilgileri toplanarak incelenir",
+          "images": [],
+          "text_ar": "تُجمع المعلومات المتعلقة بالطفل والأسرة والشخص أو الأشخاص الملزمين برعايته، ومعلومات الملف، وتُفحص"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk, aile, bakmakla yükümlü kişi veya kişiler ile tanışılır",
+          "images": [],
+          "text_ar": "يُلتقى بالطفل والأسرة والشخص أو الأشخاص الملزمين برعايته"
+        },
+        {
+          "letter": "C",
+          "text": "Danışman, görev ve sorumlulukları hakkında çocuğu, aileyi, bakmakla yükümlü kişi veya kişileri bilgilendirir",
+          "images": [],
+          "text_ar": "يُعلم المرشد الطفل والأسرة والشخص أو الأشخاص الملزمين برعايته بمهامه ومسؤولياته"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun ailesine mahkeme kararı ve yükümlülüklerinin tanıtımı, uymama halinde ve devamının kesilmesinde sonuçları anlatılır, çocuğa bu konuda bilgi verilmez",
+          "images": [],
+          "text_ar": "يُعرَّف أهل الطفل بالحكم القضائي وبالتزاماتهم، وتُشرح لهم النتائج في حال عدم الالتزام وانقطاع الاستمرار، ولا تُعطى للطفل معلومات في هذا الشأن"
+        },
+        {
+          "letter": "E",
+          "text": "Sorunun tarafları olabilecek aile, öğretmen, idareci ve bunun gibi kimselerle görüşülerek problemin sınırları belirlenir",
+          "images": [],
+          "text_ar": "تُحدَّد حدود المشكلة من خلال مقابلة الأسرة والمعلم والإداري ومن في حكمهم ممن قد يكونون أطرافًا في المشكلة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي غير صحيح بشأن عملية التدبير الإرشادي؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Çocukla ilgili olarak hazırlanan sosyal inceleme raporlarında aşağıdaki hususlardan hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doğumundan başlayarak geçirdiği gelişim aşamaları",
+          "images": [],
+          "text_ar": "مراحل النمو التي مرّ بها منذ ولادته"
+        },
+        {
+          "letter": "B",
+          "text": "Ailesinin toplumsal, ekonomik ve kültürel durumu",
+          "images": [],
+          "text_ar": "الوضع الاجتماعي والاقتصادي والثقافي لأسرته"
+        },
+        {
+          "letter": "C",
+          "text": "Aile bireylerinin toplum ilişkileri",
+          "images": [],
+          "text_ar": "علاقات أفراد الأسرة بالمجتمع"
+        },
+        {
+          "letter": "D",
+          "text": "Okul ve iş ortamı ile boş zamanlarını değerlendirdiği çevre",
+          "images": [],
+          "text_ar": "بيئة المدرسة والعمل والوسط الذي يقضي فيه أوقات فراغه"
+        },
+        {
+          "letter": "E",
+          "text": "İnceleme sırasında uzmanlar tarafından tespit edilen davranışları",
+          "images": [],
+          "text_ar": "سلوكياته التي يحددها الخبراء أثناء الدراسة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من الأمور التالية لا يرد في تقارير الدراسة الاجتماعية المُعدّة عن الطفل؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki şıklardan hangisinde ülkemizde yürürlükte olan bir kanun verilmemiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ticaret Kanunu",
+          "images": [],
+          "text_ar": "قانون التجارة"
+        },
+        {
+          "letter": "B",
+          "text": "Medeni Kanun",
+          "images": [],
+          "text_ar": "القانون المدني"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk Hakları Kanunu",
+          "images": [],
+          "text_ar": "قانون حقوق الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Tüketici Haklarının Korunması Hakkında Kanun",
+          "images": [],
+          "text_ar": "قانون حماية حقوق المستهلك"
+        },
+        {
+          "letter": "E",
+          "text": "İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun",
+          "images": [],
+          "text_ar": "قانون تنظيم النشر في بيئة الإنترنت ومكافحة الجرائم المرتكبة عبر هذا النشر"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من الخيارات التالية لا يعرض قانونًا نافذًا في بلدنا؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Bay A için aşağıdaki nedenlerden hangisi mahkeme kararıyla kısıtlama sebebi oluşturmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Savurganlık",
+          "images": [],
+          "text_ar": "التبذير"
+        },
+        {
+          "letter": "B",
+          "text": "Alkol ve uyuşturucu madde bağımlılığı",
+          "images": [],
+          "text_ar": "إدمان الكحول والمخدرات"
+        },
+        {
+          "letter": "C",
+          "text": "Kötü yaşama Tarzı",
+          "images": [],
+          "text_ar": "سوء أسلوب الحياة"
+        },
+        {
+          "letter": "D",
+          "text": "Tecrübesizlik",
+          "images": [],
+          "text_ar": "عدم الخبرة"
+        },
+        {
+          "letter": "E",
+          "text": "İsteğe bağlı",
+          "images": [],
+          "text_ar": "الحجر بناءً على طلبه"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من الأسباب الآتية لا يُعد سببًا للحجر بقرار من المحكمة في حق السيد A؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki şıklardan hangisinde hakimin resen karar verebileceği önlemler bulunmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Maddi ve manevi tazminat",
+          "images": [],
+          "text_ar": "التعويض المادي والمعنوي"
+        },
+        {
+          "letter": "B",
+          "text": "Tedbir ve iştirak nafakası",
+          "images": [],
+          "text_ar": "النفقة المؤقتة ونفقة المشاركة"
+        },
+        {
+          "letter": "C",
+          "text": "Yoksulluk nafakası ve maddi - manevi tazminat",
+          "images": [],
+          "text_ar": "نفقة الفقر والتعويض المادي والمعنوي"
+        },
+        {
+          "letter": "D",
+          "text": "Tedbir, iştirak ve yoksulluk nafakası",
+          "images": [],
+          "text_ar": "النفقة المؤقتة ونفقة المشاركة ونفقة الفقر"
+        },
+        {
+          "letter": "E",
+          "text": "İştirak nafakası ve maddi tazminat",
+          "images": [],
+          "text_ar": "نفقة المشاركة والتعويض المادي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "في أي من الخيارات الآتية توجد تدابير يجوز للقاضي أن يحكم بها من تلقاء نفسه؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "a9fe265fc33794dab0db396680cc585438d3d321f4b0b1301de73667712c1cc7"
+}

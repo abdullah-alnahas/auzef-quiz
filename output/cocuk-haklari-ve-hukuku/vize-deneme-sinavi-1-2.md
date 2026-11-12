@@ -3,7 +3,7 @@ course: ÇOCUK HAKLARI VE HUKUKU
 exam: Vize Deneme Sınavı 1
 source_url: https://lolonolo.com/2020/11/03/cocuk-haklari-ve-hukuku-vize-deneme-sinavi-1/
 question_count: 21
-scraped_at: 2026-11-12T15:00:54+03:00
+scraped_at: 2026-11-12T16:23:47+03:00
 ---
 
 ### Q1

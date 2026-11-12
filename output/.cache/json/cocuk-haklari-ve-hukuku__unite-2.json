@@ -1,0 +1,442 @@
+{
+  "course": "ÇOCUK HAKLARI VE HUKUKU",
+  "course_slug": "cocuk-haklari-ve-hukuku",
+  "exam": "Ünite 2",
+  "exam_slug": "unite-2",
+  "page_title": "Çocuk Hakları ve Hukuku Ünite 2",
+  "source_url": "https://lolonolo.com/2020/11/10/cocuk-haklari-ve-hukuku-unite-2/",
+  "scraped_at": "2026-11-12T16:23:49+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "TMK. m. 8’e göre “Her insanın hak ehliyeti vardır. Buna göre bütün insanlar, hukuk düzeninin sınırları içerisinde, haklara ve borçlara ehil olmada eşittirler.” Aşağıdakilerden hangisi, gerçek kişilerin hak ehliyetlerinde eşitlik ilkesinin istisnalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yaş",
+          "images": [],
+          "text_ar": "السن"
+        },
+        {
+          "letter": "B",
+          "text": "Ayırt etme gücü",
+          "images": [],
+          "text_ar": "قدرة التمييز"
+        },
+        {
+          "letter": "C",
+          "text": "Irk, renk ve dil",
+          "images": [],
+          "text_ar": "العرق واللون واللغة"
+        },
+        {
+          "letter": "D",
+          "text": "Şeref ve haysiyetsizlik",
+          "images": [],
+          "text_ar": "الشرف وفقدان الكرامة"
+        },
+        {
+          "letter": "E",
+          "text": "Akıl hastalığı",
+          "images": [],
+          "text_ar": "المرض العقلي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "وفقًا للمادة 8 من القانون المدني التركي (TMK): «لكل إنسان أهلية الوجوب. وبناءً على ذلك، جميع الناس متساوون في الأهلية لاكتساب الحقوق والالتزامات في حدود النظام القانوني.» أي مما يلي ليس من استثناءات مبدأ المساواة في أهلية الوجوب للأشخاص الطبيعيين؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Kişiye yasal danışman atanmış ise bu kişi aşağıdaki işlemlerden hangisini tek başına yapabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Dava açma ve sulh olma",
+          "images": [],
+          "text_ar": "رفع الدعوى والصلح"
+        },
+        {
+          "letter": "B",
+          "text": "Taşınmazların alımı, satımı, rehnedilmesi ve bunlar üzerinde başka bir ayni hak kurulması",
+          "images": [],
+          "text_ar": "شراء العقارات وبيعها ورهنها وإنشاء حق عيني آخر عليها"
+        },
+        {
+          "letter": "C",
+          "text": "Ödünç verme ve alma",
+          "images": [],
+          "text_ar": "الإقراض والاقتراض"
+        },
+        {
+          "letter": "D",
+          "text": "Kefil olma",
+          "images": [],
+          "text_ar": "الكفالة"
+        },
+        {
+          "letter": "E",
+          "text": "Evlat edinmeye ilişkin aranan şartlar mevcutsa evlat edinmek",
+          "images": [],
+          "text_ar": "التبني إذا توفرت الشروط المطلوبة للتبني"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "إذا عُيّن للشخص مستشار قانوني، فأي الإجراءات التالية يستطيع القيام به بمفرده؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sınırlı ehliyetsiz çocuğun bizzat yapabileceği işlemlerden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rekabet yasağı sözleşmesi yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد حظر المنافسة"
+        },
+        {
+          "letter": "B",
+          "text": "Vakıf kurmak",
+          "images": [],
+          "text_ar": "إنشاء وقف"
+        },
+        {
+          "letter": "C",
+          "text": "Önemli miktarda bağışlama sözleşmesi yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد تبرع بمبلغ كبير"
+        },
+        {
+          "letter": "D",
+          "text": "Karşılık olmaksızın kendisini borçtan kurtaran sözleşme yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد يعفيه من الدين دون مقابل"
+        },
+        {
+          "letter": "E",
+          "text": "Borçlu sıfatıyla kefalet sözleşmesi yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد كفالة بصفته مدينًا"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي من التصرفات التي يستطيع الطفل محدود الأهلية القيام بها بنفسه؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki hangisi kısıtlama nedenlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Akıl hastalığı",
+          "images": [],
+          "text_ar": "المرض العقلي"
+        },
+        {
+          "letter": "B",
+          "text": "Kötü yaşama tarzı",
+          "images": [],
+          "text_ar": "أسلوب الحياة السيئ"
+        },
+        {
+          "letter": "C",
+          "text": "Yaş küçüklüğü",
+          "images": [],
+          "text_ar": "صغر السن"
+        },
+        {
+          "letter": "D",
+          "text": "Alkol ve uyuşturucu madde bağımlılığı",
+          "images": [],
+          "text_ar": "إدمان الكحول والمخدرات"
+        },
+        {
+          "letter": "E",
+          "text": "İstek üzerine",
+          "images": [],
+          "text_ar": "بناءً على الطلب"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من أسباب الحجر؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Bir küçüğün (çocuğun) ergin kılınması için aşağıdakilerden hangisinin bulunması gerekmez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "On beş yaşın tamamlanması",
+          "images": [],
+          "text_ar": "إتمام الخامسة عشرة من العمر"
+        },
+        {
+          "letter": "B",
+          "text": "Yasal temsilcinin rızası",
+          "images": [],
+          "text_ar": "رضا الممثل القانوني"
+        },
+        {
+          "letter": "C",
+          "text": "Küçüğün menfaatinin bulunması",
+          "images": [],
+          "text_ar": "تحقق مصلحة القاصر"
+        },
+        {
+          "letter": "D",
+          "text": "Mahkeme kararı ve kararın ilanı",
+          "images": [],
+          "text_ar": "قرار المحكمة وإعلان القرار"
+        },
+        {
+          "letter": "E",
+          "text": "Vesayet sona ermiş olsa dahi vesayet makamlarını izni",
+          "images": [],
+          "text_ar": "إذن جهات الوصاية حتى لو كانت الوصاية قد انتهت"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يُشترط توافره لإعلان رشد القاصر؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki hususlardan hangisinde hak ehliyetinin değil, fiil ehliyetinin sınırlanması söz konusudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişinin kendi dinini belirleyebilme hakkı, ergin olmasına bağlıdır.",
+          "images": [],
+          "text_ar": "حق الشخص في تحديد دينه مرهون ببلوغه سن الرشد."
+        },
+        {
+          "letter": "B",
+          "text": "Kişi evli değilse, evlat edinebilmek için otuz yaşını doldurmuş olması gerekmektedir.",
+          "images": [],
+          "text_ar": "إذا لم يكن الشخص متزوجًا، يجب أن يكون قد أتم الثلاثين ليتمكن من التبني."
+        },
+        {
+          "letter": "C",
+          "text": "Kişinin ölüme bağlı tasarruflardan miras sözleşmesi yapabilmesi için on sekiz yaşını doldurmuş olması gerekmektedir.",
+          "images": [],
+          "text_ar": "لكي يتمكن الشخص من إبرام عقد الميراث، وهو من التصرفات المعلقة على الموت، يجب أن يكون قد أتم الثامنة عشرة."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun ergin kılınması isteminde bulunabilmesi için on beş yaşını tamamlamış olması gerekmektedir.",
+          "images": [],
+          "text_ar": "لكي يتمكن الطفل من تقديم طلب إعلان رشده، يجب أن يكون قد أتم الخامسة عشرة."
+        },
+        {
+          "letter": "E",
+          "text": "Kişinin geçerli olarak kefil olabilmesi için ergin olması, kısıtlı olmaması ve ayırt etme gücüne de sahip olması gerekir.",
+          "images": [],
+          "text_ar": "لكي يكون الشخص كفيلًا صحيحًا يجب أن يكون راشدًا وغير محجور ويتمتع بقدرة التمييز."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في أي من المسائل التالية يتعلق الأمر بتقييد أهلية الأداء لا أهلية الوجوب؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Kişinin kendi fiilleri ve işlemleriyle kendi lehine haklar ve kendi aleyhine borçlar oluşturabilme iktidarına ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ayni hak",
+          "images": [],
+          "text_ar": "الحق العيني"
+        },
+        {
+          "letter": "B",
+          "text": "Fiil ehliyeti",
+          "images": [],
+          "text_ar": "أهلية الأداء"
+        },
+        {
+          "letter": "C",
+          "text": "Mutlak hak",
+          "images": [],
+          "text_ar": "الحق المطلق"
+        },
+        {
+          "letter": "D",
+          "text": "Hak ehliyeti",
+          "images": [],
+          "text_ar": "أهلية الوجوب"
+        },
+        {
+          "letter": "E",
+          "text": "Şahsa sıkı sıkıya bağlı haklar",
+          "images": [],
+          "text_ar": "الحقوق المرتبطة ارتباطًا وثيقًا بالشخص"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما اسم القدرة على إنشاء حقوق لصالح الشخص والتزامات عليه من خلال أفعاله وتصرفاته؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Ayırt etme gücüne sahip küçük, aşağıdaki işlemlerden hangisini yasal temsilcinin iznine gerek duymadan yapabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evlenmek",
+          "images": [],
+          "text_ar": "الزواج"
+        },
+        {
+          "letter": "B",
+          "text": "Miras sözleşmesi yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد الميراث"
+        },
+        {
+          "letter": "C",
+          "text": "İsmini değiştirmek",
+          "images": [],
+          "text_ar": "تغيير اسمه"
+        },
+        {
+          "letter": "D",
+          "text": "On beş yaşını da doldurmuş ise vasiyetname yapmak",
+          "images": [],
+          "text_ar": "عمل وصية إذا كان قد أتم الخامسة عشرة"
+        },
+        {
+          "letter": "E",
+          "text": "Spor arabasını satmak",
+          "images": [],
+          "text_ar": "بيع سيارة رياضية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "القاصر المتمتع بقدرة التمييز، أي من التصرفات التالية يستطيع القيام بها دون حاجة إلى إذن الممثل القانوني؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "On iki yaşındaki Z’ye halası Bayan C oldukça pahalı bir bilgisayar hediye etmiştir. Henüz küçük olduğu için bilgisayar kullanmasını uygun görmeyen anne babası ise durumu sonradan öğrenmiştir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Söz konusu işlemin geçerliliği ile ilgili olarak aşağıdaki ifadelerden hangisi söylenebilir?",
+          "images": [],
+          "text_ar": "أي من العبارات التالية يمكن قولها بشأن صحة التصرف المذكور؟"
+        },
+        {
+          "letter": "B",
+          "text": "İşlem geçerlidir. Çünkü olayda Z herhangi bir borç altına girmemiştir. Sadece kazanımda bulunmuştur.",
+          "images": [],
+          "text_ar": "التصرف صحيح، لأن Z لم يلتزم بأي دين في الواقعة، بل حصل على كسب فقط."
+        },
+        {
+          "letter": "C",
+          "text": "İşlem geçerlidir. Fakat Z’nin anne ve babası bu işlemi yanı bağışlamayı iptal edebilirler.",
+          "images": [],
+          "text_ar": "التصرف صحيح، لكن والدي Z يمكنهما إلغاء هذا التبرع."
+        },
+        {
+          "letter": "D",
+          "text": "Z on iki yaşında olduğu için tam ehliyetsizdir. Dolayısıyla bu bağışlama işlemi her durumda geçersizdir.",
+          "images": [],
+          "text_ar": "Z فاقد الأهلية تمامًا لأنه في الثانية عشرة، ولذلك هذا التبرع باطل في جميع الأحوال."
+        },
+        {
+          "letter": "E",
+          "text": "Bağışlama tek taraflı bir hukuki işlem olduğu için işlem geçerlidir.",
+          "images": [],
+          "text_ar": "التصرف صحيح لأن التبرع تصرف قانوني منفرد."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أهدت السيدة C، عمة Z البالغة اثنتي عشرة سنة، حاسوبًا باهظ الثمن. أما والداه اللذان لم يجدا مناسبًا أن يستخدم حاسوبًا لأنه ما زال صغيرًا فقد علما بالأمر لاحقًا.",
+      "review": [
+        "q9.C: في الأصل «yanı bağışlamayı» عبارة غير سليمة (خطأ مطبعي محتمل)، فتُرجمت بأقرب معنى: إلغاء التبرع."
+      ]
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Bayan B’nin on yedi yaşını dolduran ve ayır etme gücüne sahip oğlu K’nın fiil ehliyeti ile ilgili olarak aşağıdakilerden hangisi söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "K, on sekiz yaşını doldurmadığı için sınırlı ehliyetlidir.",
+          "images": [],
+          "text_ar": "K محدود الأهلية لأنه لم يبلغ الثامنة عشرة."
+        },
+        {
+          "letter": "B",
+          "text": "K, kendisine bağışlanan bir bilgisayarı kabul edemez.",
+          "images": [],
+          "text_ar": "لا يمكن لـ K قبول حاسوب وُهب له."
+        },
+        {
+          "letter": "C",
+          "text": "K, on sekiz yaşını doldurmamış olsa da ayırt etme gücü bulunduğu için fiil ehliyeti tamdır.",
+          "images": [],
+          "text_ar": "K تامة الأهلية لأنه يتمتع بقدرة التمييز وإن لم يبلغ الثامنة عشرة."
+        },
+        {
+          "letter": "D",
+          "text": "K, borçlu sıfatıyla kefalet sözleşmesi yapamaz.",
+          "images": [],
+          "text_ar": "لا يمكن لـ K إبرام عقد كفالة بصفته مدينًا."
+        },
+        {
+          "letter": "E",
+          "text": "Ayırt etme gücü bulunsa da on sekiz yaşını henüz doldurmadığı için haksız fiil ehliyeti yoktur.",
+          "images": [],
+          "text_ar": "لا يملك أهلية الفعل الضار لأنه لم يبلغ الثامنة عشرة بعد، وإن كان يتمتع بقدرة التمييز."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "بشأن أهلية الأداء لـ K، ابن السيدة B الذي أتم السابعة عشرة ويتمتع بقدرة التمييز، أي مما يلي يمكن قوله؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "2c0da58fb46b47ce3bc5636fc256251d39493193b2152332a425a7a68c292a33"
+}

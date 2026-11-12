@@ -1,0 +1,226 @@
+{
+  "course": "ANNE BABA EĞİTİMİ",
+  "course_slug": "anne-baba-egitimi",
+  "exam": "Ünite -9",
+  "exam_slug": "unite-9",
+  "page_title": "Anne Baba Eğitimi Ünite -9",
+  "source_url": "https://lolonolo.com/2022/12/06/anne-baba-egitimi-unite-9/",
+  "scraped_at": "2026-11-12T16:23:38+03:00",
+  "answer_source": "markup",
+  "question_count": 5,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Kişinin bazı kuralları benimsemesi ve dış uyaranlara gerek kalmadan bu kurallara kendi kendine uyması ve uygulamasıdır. Verilen tanım aşağıdakilerden hangisinin tanımıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Alay",
+          "images": [],
+          "text_ar": "السخرية"
+        },
+        {
+          "letter": "B",
+          "text": "Sözle hor görme",
+          "images": [],
+          "text_ar": "الاحتقار اللفظي"
+        },
+        {
+          "letter": "C",
+          "text": "Baskı",
+          "images": [],
+          "text_ar": "القمع"
+        },
+        {
+          "letter": "D",
+          "text": "Özdenetim",
+          "images": [],
+          "text_ar": "ضبط الذات"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "هو أن يتبنى الشخص بعض القواعد فيلتزم بها ويطبقها من تلقاء نفسه دون حاجة إلى مثيرات خارجية. التعريف المذكور هو تعريف أي مما يلي؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Disiplin hayatın doğru ve yanlışlarını öğrenmektir. Cezalandırma ise disiplinin olumsuz bölümüdür.",
+          "images": [],
+          "text_ar": "الانضباط هو تعلّم صواب الحياة وخطئها، أما العقاب فهو الجانب السلبي من الانضباط."
+        },
+        {
+          "letter": "B",
+          "text": "Disiplin kişiyi, cezalandırma davranışı yanlış olarak ele almaktadır.",
+          "images": [],
+          "text_ar": "الانضباط يتناول الشخص نفسه، أما العقاب فيتناول السلوك بوصفه خطأً."
+        },
+        {
+          "letter": "C",
+          "text": "Disiplin etkili olmak için iyi bir şansa sahiptir. Cezalandırmanın sonuçları ise tahmin edilemez.",
+          "images": [],
+          "text_ar": "الانضباط لديه فرصة جيدة لأن يكون فعّالًا، أما نتائج العقاب فلا يمكن التنبؤ بها."
+        },
+        {
+          "letter": "D",
+          "text": "Disiplin düşünce ürünüdür. Cezalandırma kızgınlık ürünüdür.",
+          "images": [],
+          "text_ar": "الانضباط نتاج التفكير، والعقاب نتاج الغضب."
+        },
+        {
+          "letter": "E",
+          "text": "Cezalandırma sizden ne beklendiğini bilmeksizin disiplin altına almaktır.",
+          "images": [],
+          "text_ar": "العقاب هو إخضاع الشخص للانضباط دون أن يعرف ما هو المتوقع منه."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح؟",
+      "review": [
+        "q2.B: الجملة التركية ملتبسة بين تناول الشخص وتناول السلوك؛ اعتمدتُ القراءة المنطقية المقابلة للعبارة التالية لها."
+      ]
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Utanma duygusu ne zaman ortaya çıkmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1,5- 3 yaş",
+          "images": [],
+          "text_ar": "1,5-3 سنوات"
+        },
+        {
+          "letter": "B",
+          "text": "3-5 yaş",
+          "images": [],
+          "text_ar": "3-5 سنوات"
+        },
+        {
+          "letter": "C",
+          "text": "3-6 yaş",
+          "images": [],
+          "text_ar": "3-6 سنوات"
+        },
+        {
+          "letter": "D",
+          "text": "5-6 yaş",
+          "images": [],
+          "text_ar": "5-6 سنوات"
+        },
+        {
+          "letter": "E",
+          "text": "7-8 yaş",
+          "images": [],
+          "text_ar": "7-8 سنوات"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "متى يظهر شعور الخجل؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dış kontrollü disiplin yöntemlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Alay",
+          "images": [],
+          "text_ar": "السخرية"
+        },
+        {
+          "letter": "B",
+          "text": "Sözle hor görme",
+          "images": [],
+          "text_ar": "الاحتقار اللفظي"
+        },
+        {
+          "letter": "C",
+          "text": "Baskı",
+          "images": [],
+          "text_ar": "القمع"
+        },
+        {
+          "letter": "D",
+          "text": "Özdenetim",
+          "images": [],
+          "text_ar": "ضبط الذات"
+        },
+        {
+          "letter": "E",
+          "text": "Sevgiyi esirgeme",
+          "images": [],
+          "text_ar": "الحرمان من الحب"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من أساليب الانضباط ذي الرقابة الخارجية؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Suçluluk duygusu ne zaman ortaya çıkmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1,5- 3 yaş",
+          "images": [],
+          "text_ar": "1,5-3 سنوات"
+        },
+        {
+          "letter": "B",
+          "text": "3-5 yaş",
+          "images": [],
+          "text_ar": "3-5 سنوات"
+        },
+        {
+          "letter": "C",
+          "text": "3-6 yaş",
+          "images": [],
+          "text_ar": "3-6 سنوات"
+        },
+        {
+          "letter": "D",
+          "text": "5-6 yaş",
+          "images": [],
+          "text_ar": "5-6 سنوات"
+        },
+        {
+          "letter": "E",
+          "text": "7-8 yaş",
+          "images": [],
+          "text_ar": "7-8 سنوات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "متى يظهر شعور الذنب؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "3161954e12875919da8113163b7a62a6e010a052e614111b077494af329a7d90"
+}

@@ -1,0 +1,859 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -1",
+  "exam_slug": "cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-1",
+  "page_title": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -1",
+  "source_url": "https://lolonolo.com/2023/09/28/cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-1/",
+  "scraped_at": "2026-11-12T16:23:39+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk odaklı danışmanlıkta hangi yaklaşım, çocuğun olumsuz düşünce kalıplarını ve davranışlarını tanımlamaya ve değiştirmeye yardımcı olmayı amaçlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun Terapisi",
+          "images": [],
+          "text_ar": "العلاج باللعب"
+        },
+        {
+          "letter": "B",
+          "text": "Çözüm Odaklı Kısa Terapi",
+          "images": [],
+          "text_ar": "العلاج القصير المتمركز حول الحل"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel Davranışçı Terapi",
+          "images": [],
+          "text_ar": "العلاج المعرفي السلوكي"
+        },
+        {
+          "letter": "D",
+          "text": "Sanat ve Ekspresif Terapiler",
+          "images": [],
+          "text_ar": "العلاجات الفنية والتعبيرية"
+        },
+        {
+          "letter": "E",
+          "text": "Öyküsel Aile Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد الأسري السردي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مقاربة في الإرشاد المتمركز حول الطفل تهدف إلى المساعدة في تحديد أنماط التفكير والسلوك السلبية لدى الطفل وتغييرها؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Engelli İyileştirme ve Hizmet Merkezleri için verilen aşağıdaki bilgilerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Engelli bireylerin gereksinimlerini belirler.",
+          "images": [],
+          "text_ar": "تحدد احتياجات الأفراد ذوي الإعاقة."
+        },
+        {
+          "letter": "B",
+          "text": "Engelli bireylerin ihtiyaçlarına dair çözüm öneriler sunar.",
+          "images": [],
+          "text_ar": "تقدم مقترحات حلول لاحتياجات الأفراد ذوي الإعاقة."
+        },
+        {
+          "letter": "C",
+          "text": "Engelli bireylere hukuki danışmanlık hizmeti sağlar.",
+          "images": [],
+          "text_ar": "تقدم خدمة إرشاد قانوني للأفراد ذوي الإعاقة."
+        },
+        {
+          "letter": "D",
+          "text": "Sadece engelli bireylerin kendilerine hizmet verir.",
+          "images": [],
+          "text_ar": "تقدم خدماتها للأفراد ذوي الإعاقة أنفسهم فقط."
+        },
+        {
+          "letter": "E",
+          "text": "Engelli bireylerin toplum içindeki kabulünü sağlamaya çalışır.",
+          "images": [],
+          "text_ar": "تسعى إلى تحقيق قبول الأفراد ذوي الإعاقة في المجتمع."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من المعلومات التالية عن مراكز تأهيل وخدمة ذوي الإعاقة غير صحيحة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "İdeal öğretmen kavramı aşağıdakilerden hangisini içermez?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kültürlenme",
+          "images": [],
+          "text_ar": "التثاقف"
+        },
+        {
+          "letter": "B",
+          "text": "Sosyalleşme",
+          "images": [],
+          "text_ar": "التنشئة الاجتماعية"
+        },
+        {
+          "letter": "C",
+          "text": "Bireyselleşme",
+          "images": [],
+          "text_ar": "التفرد"
+        },
+        {
+          "letter": "D",
+          "text": "Disiplin",
+          "images": [],
+          "text_ar": "الانضباط"
+        },
+        {
+          "letter": "E",
+          "text": "Toplumsallaşma",
+          "images": [],
+          "text_ar": "الاندماج الاجتماعي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "مفهوم المعلم المثالي لا يشمل أي مما يلي؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aile Danışma Merkezlerinde görev alacak olan Çocuk Gelişimciler lisans mezuniyetleri haricinde hangi eğitim programını almak zorundadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Eğitimde Drama Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج التدريب على الدراما في التعليم"
+        },
+        {
+          "letter": "B",
+          "text": "Aile Danışmanlığı Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تدريب الإرشاد الأسري"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk Ergen Psikopatoloji Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تدريب علم النفس المرضي للطفل والمراهق"
+        },
+        {
+          "letter": "D",
+          "text": "Oyun Terapi Programı",
+          "images": [],
+          "text_ar": "برنامج العلاج باللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk-Aile İletişim Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تدريب التواصل بين الطفل والأسرة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي برنامج تدريبي يجب أن يتلقاه أخصائيو نمو الطفل الذين سيعملون في مراكز الإرشاد الأسري إلى جانب شهادة البكالوريوس؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi ve eğitimi alanı çerçeve öğretim programında hangi iki dal yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Müzik ve Dramatik Etkinlikler, İlk Yardım",
+          "images": [],
+          "text_ar": "الموسيقى والأنشطة الدرامية، الإسعاف الأولي"
+        },
+        {
+          "letter": "B",
+          "text": "Oyuncak Hazırlama, Çocuk Edebiyatı",
+          "images": [],
+          "text_ar": "إعداد الألعاب، أدب الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Erken Çocukluk Eğitimi, Özel Eğitim",
+          "images": [],
+          "text_ar": "تعليم الطفولة المبكرة، التربية الخاصة"
+        },
+        {
+          "letter": "D",
+          "text": "İşletmelerde Mesleki Eğitim, Çocuk Etkinlikleri",
+          "images": [],
+          "text_ar": "التدريب المهني في المؤسسات، أنشطة الأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Sanat ve Oyun, Hikaye ve Masal Anlatıcılığı",
+          "images": [],
+          "text_ar": "الفن واللعب، سرد القصص والحكايات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي فرعين يردان في برنامج التعليم الإطاري لمجال نمو الطفل وتعليمه؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Bir çocuk evinde kalan çocuklar arasında en fazla kaç yaş aranmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "1 Yaş",
+          "images": [],
+          "text_ar": "سنة واحدة"
+        },
+        {
+          "letter": "B",
+          "text": "2 Yaş",
+          "images": [],
+          "text_ar": "سنتان"
+        },
+        {
+          "letter": "C",
+          "text": "3 Yaş",
+          "images": [],
+          "text_ar": "3 سنوات"
+        },
+        {
+          "letter": "D",
+          "text": "4 Yaş",
+          "images": [],
+          "text_ar": "4 سنوات"
+        },
+        {
+          "letter": "E",
+          "text": "5 Yaş",
+          "images": [],
+          "text_ar": "5 سنوات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما أقصى فارق عمري يُشترط بين الأطفال المقيمين في بيت الأطفال؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Mesleki eğitim programlarında, genel yetkinliklerin yanı sıra etik değerlere uygun davranma gibi özellikleri kapsayan beceri seti hangi kategori altında ele alınmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İleri Mesleki Beceriler",
+          "images": [],
+          "text_ar": "المهارات المهنية المتقدمة"
+        },
+        {
+          "letter": "B",
+          "text": "Özel Mesleki Beceriler",
+          "images": [],
+          "text_ar": "المهارات المهنية الخاصة"
+        },
+        {
+          "letter": "C",
+          "text": "Genel Eğitim Becerileri",
+          "images": [],
+          "text_ar": "مهارات التعليم العام"
+        },
+        {
+          "letter": "D",
+          "text": "Temel Mesleki Beceriler",
+          "images": [],
+          "text_ar": "المهارات المهنية الأساسية"
+        },
+        {
+          "letter": "E",
+          "text": "Seçmeli Meslek Dersleri",
+          "images": [],
+          "text_ar": "المقررات المهنية الاختيارية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "في برامج التعليم المهني، تحت أي فئة تُدرَج مجموعة المهارات التي تشمل، إلى جانب الكفايات العامة، خصائص مثل التصرف وفق القيم الأخلاقية؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi ve eğitimi alanına öğretmen atamalarına ilişkin bilgilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece Çocuk Gelişimi bölümü mezunları Mesleki ve Teknik liselerde öğretmen olabilirler.",
+          "images": [],
+          "text_ar": "خريجو قسم نمو الطفل فقط يمكنهم أن يصبحوا معلمين في الثانويات المهنية والتقنية."
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk Gelişimi bölümü mezunları doğrudan öğretmen olarak atanabilirler.",
+          "images": [],
+          "text_ar": "يمكن تعيين خريجي قسم نمو الطفل مباشرة معلمين."
+        },
+        {
+          "letter": "C",
+          "text": "Pedagojik formasyon eğitimi ya da tezsiz yüksek lisans yapma koşulu, Çocuk Gelişimi bölümü mezunları için öğretmenlik için bir zorunluluktur.",
+          "images": [],
+          "text_ar": "شرط الحصول على تدريب التكوين التربوي أو الماجستير بدون رسالة إلزامي لخريجي قسم نمو الطفل للتدريس."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk Gelişimi bölümü mezunları sadece üniversitelerde görev yapabilirler.",
+          "images": [],
+          "text_ar": "يمكن لخريجي قسم نمو الطفل العمل في الجامعات فقط."
+        },
+        {
+          "letter": "E",
+          "text": "MEB, Çocuk Gelişimi bölümü mezunları için tezsiz yüksek lisans programını kaldırmıştır.",
+          "images": [],
+          "text_ar": "ألغت وزارة التربية الوطنية برنامج الماجستير بدون رسالة لخريجي قسم نمو الطفل."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من المعلومات المتعلقة بتعيين المعلمين في مجال نمو الطفل وتعليمه صحيح؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk Destek Merkezlerinde çocuklara hangi eğitim programı uygulanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "ANKA Çocuk Destek Programı",
+          "images": [],
+          "text_ar": "برنامج دعم الطفل ANKA"
+        },
+        {
+          "letter": "B",
+          "text": "DESTEK Çocuk Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج DESTEK لتعليم الأطفال"
+        },
+        {
+          "letter": "C",
+          "text": "FLOORTİME Çocuk Destek Programı",
+          "images": [],
+          "text_ar": "برنامج دعم الطفل فلورتايم"
+        },
+        {
+          "letter": "D",
+          "text": "Montessori Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج مونتيسوري التعليمي"
+        },
+        {
+          "letter": "E",
+          "text": "Terapötik Oyun Destek Programı",
+          "images": [],
+          "text_ar": "برنامج الدعم باللعب العلاجي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي برنامج تعليمي يُطبَّق على الأطفال في مراكز دعم الطفل؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi ve eğitimi çerçeve öğretim programının hangi bileşeni, öğrencilere kendi yetenekleri, ilgileri ve hedefleri doğrultusunda bireysel olarak öğrenme ve gelişme fırsatları sunar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genel Kültür",
+          "images": [],
+          "text_ar": "الثقافة العامة"
+        },
+        {
+          "letter": "B",
+          "text": "Yükseköğretim Hazırlığı",
+          "images": [],
+          "text_ar": "الاستعداد للتعليم العالي"
+        },
+        {
+          "letter": "C",
+          "text": "Mesleki Yönlendirme",
+          "images": [],
+          "text_ar": "التوجيه المهني"
+        },
+        {
+          "letter": "D",
+          "text": "Kişisel Gelişim",
+          "images": [],
+          "text_ar": "النمو الشخصي"
+        },
+        {
+          "letter": "E",
+          "text": "Temel Mesleki Beceriler",
+          "images": [],
+          "text_ar": "المهارات المهنية الأساسية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مكوّن من مكونات برنامج التعليم الإطاري لمجال نمو الطفل وتعليمه يقدم للطلاب فرصًا فردية للتعلم والنمو وفقًا لقدراتهم واهتماماتهم وأهدافهم؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi belediyelere bağlı olan Aile Danışmanlık ve Eğitim Merkezlerinde çalışan bir çocuk gelişimcinin 0-6 yaş grubu çocuklarına uyguladığı testlerden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Denver II",
+          "images": [],
+          "text_ar": "اختبار دنفر II"
+        },
+        {
+          "letter": "B",
+          "text": "Ruhsal Uyum Ölçeği",
+          "images": [],
+          "text_ar": "مقياس التوافق النفسي"
+        },
+        {
+          "letter": "C",
+          "text": "Süreklilik Durumluluk Kaygı Ölçeği",
+          "images": [],
+          "text_ar": "مقياس القلق كحالة وسمة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk Yetiştirme Anketi",
+          "images": [],
+          "text_ar": "استبيان تنشئة الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "M-CHAT Tarama Ölçeği",
+          "images": [],
+          "text_ar": "مقياس M-CHAT لمسح التوحد"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من الاختبارات التي يطبقها أخصائي نمو الطفل العامل في مراكز الإرشاد والتدريب الأسري التابعة للبلديات على الأطفال في الفئة العمرية 0-6 سنوات؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Belediyelere bağlı Çocuk Evlerinde hangi program uygulanmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okul Öncesi Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تعليم ما قبل المدرسة"
+        },
+        {
+          "letter": "B",
+          "text": "Üstün Yetenekliler Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تعليم الموهوبين"
+        },
+        {
+          "letter": "C",
+          "text": "Otizmle Mücadele Erken Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج التعليم المبكر لمكافحة التوحد"
+        },
+        {
+          "letter": "D",
+          "text": "Bilim Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج التعليم العلمي"
+        },
+        {
+          "letter": "E",
+          "text": "STEM Eğitim Programı",
+          "images": [],
+          "text_ar": "برنامج تعليم STEM"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما البرنامج المطبق في بيوت الطفل التابعة للبلديات؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "“Duvall Aile Yaşam Döngüsü” modelini geliştiren kişi kimdir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evelyn Patterson",
+          "images": [],
+          "text_ar": "إيفلين باترسون"
+        },
+        {
+          "letter": "B",
+          "text": "Sarah Riggio",
+          "images": [],
+          "text_ar": "سارة ريجيو"
+        },
+        {
+          "letter": "C",
+          "text": "Mikulincer & Shaver",
+          "images": [],
+          "text_ar": "ميكولينسر وشيفر"
+        },
+        {
+          "letter": "D",
+          "text": "E.G Duvall",
+          "images": [],
+          "text_ar": "إ. ج. دوفال"
+        },
+        {
+          "letter": "E",
+          "text": "Patterson & Repacholi",
+          "images": [],
+          "text_ar": "باترسون وريباشولي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "من هو الشخص الذي طوّر نموذج «دورة حياة الأسرة» لدوفال؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Umut Evleri, hangi bakanlığın alt birimlerine bağlı olarak hizmet vermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Milli Eğitim Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة التربية الوطنية"
+        },
+        {
+          "letter": "B",
+          "text": "Sağlık Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الصحة"
+        },
+        {
+          "letter": "C",
+          "text": "İçişleri Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الداخلية"
+        },
+        {
+          "letter": "D",
+          "text": "Aile ve Sosyal Hizmetler Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الأسرة والخدمات الاجتماعية"
+        },
+        {
+          "letter": "E",
+          "text": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة العمل والضمان الاجتماعي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "إلى أي وزارة تتبع الوحدات الفرعية التي تقدّم بيوت الأمل خدماتها من خلالها؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aile Danışmanlığı ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Aile danışmanı, ailelerin karşılaştığı sorunlara çözüm üreten bir uzmandır.",
+          "images": [],
+          "text_ar": "المرشد الأسري أخصائي يضع حلولًا للمشكلات التي تواجه الأسر."
+        },
+        {
+          "letter": "B",
+          "text": "Aile danışmanlığı sertifikası alabilmek için belirlenen bazı meslek grupları arasında Çocuk Gelişimi, Hemşirelik ve Sosyoloji bulunmaktadır.",
+          "images": [],
+          "text_ar": "من بين بعض الفئات المهنية المحددة التي يجوز لها الحصول على شهادة الإرشاد الأسري: نمو الطفل والتمريض وعلم الاجتماع."
+        },
+        {
+          "letter": "C",
+          "text": "Aile danışmanlarının ana görevi sadece aile içi sorunları değerlendirmek ve tedavi etmektir.",
+          "images": [],
+          "text_ar": "المهمة الرئيسية للمرشدين الأسريين هي تقييم المشكلات داخل الأسرة وعلاجها فقط."
+        },
+        {
+          "letter": "D",
+          "text": "Aile danışmanlığı eğitimi ve sertifikasyonu, Aile ve Sosyal Politikalar Bakanlığı'nın sorumluluğundadır.",
+          "images": [],
+          "text_ar": "يتولى تدريب المرشدين الأسريين ومنح شهاداتهم وزارة الأسرة والسياسات الاجتماعية."
+        },
+        {
+          "letter": "E",
+          "text": "Aile danışmanı, aile bireylerine bilgi ve beceri kazandırmayı amaçlayan eğitim programlarının düzenlenmesinde rol alır.",
+          "images": [],
+          "text_ar": "يشارك المرشد الأسري في تنظيم برامج تدريبية تهدف إلى إكساب أفراد الأسرة معارف ومهارات."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية عن الإرشاد الأسري غير صحيحة؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi, sağlıksız aile özelliklerinden biri olarak gösterilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Etkili İletişim",
+          "images": [],
+          "text_ar": "التواصل الفعّال"
+        },
+        {
+          "letter": "B",
+          "text": "Duygusal Yabancılaşma",
+          "images": [],
+          "text_ar": "الاغتراب العاطفي"
+        },
+        {
+          "letter": "C",
+          "text": "Destekleyici Ortam",
+          "images": [],
+          "text_ar": "البيئة الداعمة"
+        },
+        {
+          "letter": "D",
+          "text": "Güven",
+          "images": [],
+          "text_ar": "الثقة"
+        },
+        {
+          "letter": "E",
+          "text": "Esneklik",
+          "images": [],
+          "text_ar": "المرونة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي يُعدّ من خصائص الأسرة غير الصحية؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi TÜİK’in 2019 tarihli “Aile Yapısı Araştırması”na göre Türkiye’de en yaygın olan aile tipidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Geniş Aile",
+          "images": [],
+          "text_ar": "الأسرة الممتدة"
+        },
+        {
+          "letter": "B",
+          "text": "Çekirdek Aile",
+          "images": [],
+          "text_ar": "الأسرة النووية"
+        },
+        {
+          "letter": "C",
+          "text": "Tek Ebeveynli Aile",
+          "images": [],
+          "text_ar": "الأسرة أحادية الوالد"
+        },
+        {
+          "letter": "D",
+          "text": "Birleşik Aile",
+          "images": [],
+          "text_ar": "الأسرة المركّبة"
+        },
+        {
+          "letter": "E",
+          "text": "Foster (Koruyucu) Aile",
+          "images": [],
+          "text_ar": "أسرة حاضنة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "وفقًا لبحث «بنية الأسرة» لعام 2019 الصادر عن المعهد التركي للإحصاء TÜİK، أي مما يلي هو نمط الأسرة الأكثر شيوعًا في تركيا؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk Koruma Evlerinde kalan çocukların ne kadar sürelik periyotlarda rutin sağlık kontrolleri yapılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3 ayda bir",
+          "images": [],
+          "text_ar": "مرة واحدة كل 3 أشهر"
+        },
+        {
+          "letter": "B",
+          "text": "6 ayda bir",
+          "images": [],
+          "text_ar": "مرة واحدة كل 6 أشهر"
+        },
+        {
+          "letter": "C",
+          "text": "8 ayda bir",
+          "images": [],
+          "text_ar": "مرة واحدة كل 8 أشهر"
+        },
+        {
+          "letter": "D",
+          "text": "12 ayda bir",
+          "images": [],
+          "text_ar": "مرة واحدة كل 12 شهرًا"
+        },
+        {
+          "letter": "E",
+          "text": "18 ayda bir",
+          "images": [],
+          "text_ar": "مرة واحدة كل 18 شهرًا"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "بأي فترات زمنية تُجرى الفحوص الصحية الروتينية للأطفال المقيمين في بيوت حماية الطفل؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Sosyal Hizmet Merkezlerinin temel hedef kitlesi hangi grupları içerir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece kadınlar",
+          "images": [],
+          "text_ar": "النساء فقط"
+        },
+        {
+          "letter": "B",
+          "text": "Sadece yaşlılar",
+          "images": [],
+          "text_ar": "كبار السن فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnızca çocuklar",
+          "images": [],
+          "text_ar": "الأطفال فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Dezavantajlı Veya Riskli Gruplar",
+          "images": [],
+          "text_ar": "الفئات المحرومة أو المعرضة للخطر"
+        },
+        {
+          "letter": "E",
+          "text": "Sadece gençler",
+          "images": [],
+          "text_ar": "الشباب فقط"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي الفئات تشملها الفئة المستهدفة الأساسية لمراكز الخدمة الاجتماعية؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "I. Güvenli Oyun Alanları Sağlamak II. Annelere Etkin Oyun Oynama Becerisini Kazandırma III. Çocukların Teknolojik Okur Yazarlığını Arttırmak Yukarıda verilen maddelerden hangisi ya da hangileri Anne-Çocuk Oyun Merkezinin amaçlarından birisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "C",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "D",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "E",
+          "text": "I-II-III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. توفير مساحات لعب آمنة II. إكساب الأمهات مهارة اللعب الفعّال III. زيادة الثقافة التقنية لدى الأطفال. أي من البنود المذكورة أعلاه أو أيها من أهداف مركز اللعب للأم والطفل؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "6bee83399324bbea1a1ef3373358c862a5249264209048fb025d684c248798ec"
+}

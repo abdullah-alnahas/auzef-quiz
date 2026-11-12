@@ -3,7 +3,7 @@ course: OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ
 exam: 2022-23 Vize Deneme Sınavı
 source_url: https://lolonolo.com/2022/09/28/okul-oncesi-donemde-duyu-egitimi-2022-23-vize-deneme-sinavi/
 question_count: 27
-scraped_at: 2026-11-12T15:01:00+03:00
+scraped_at: 2026-11-12T16:23:57+03:00
 ---
 
 ### Q1

@@ -3,7 +3,7 @@ course: SOSYAL-DUYGUSAL GELİŞİM
 exam: Sosyal – Duygusal Gelişim Vize Deneme Sınavı -1
 source_url: https://lolonolo.com/2022/10/03/sosyal-duygusal-gelisim-vize-deneme-sinavi-1/
 question_count: 20
-scraped_at: 2026-11-12T15:01:06+03:00
+scraped_at: 2026-11-12T16:24:06+03:00
 ---
 
 ### Q1

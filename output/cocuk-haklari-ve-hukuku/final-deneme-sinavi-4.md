@@ -3,7 +3,7 @@ course: ÇOCUK HAKLARI VE HUKUKU
 exam: Final Deneme Sınavı -4
 source_url: https://lolonolo.com/2022/11/13/cocuk-haklari-ve-hukuku-final-deneme-sinavi-4/
 question_count: 20
-scraped_at: 2026-11-12T15:00:54+03:00
+scraped_at: 2026-11-12T16:23:48+03:00
 ---
 
 ### Q1

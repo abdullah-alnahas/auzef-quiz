@@ -325,7 +325,7 @@
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "provisional_slug": "vize-2024-2025",
-      "status": "parsed",
+      "status": "duplicate_content",
       "slug": "vize-2024-2025",
       "page_title": "Çocuk Gelişimi Uygulamaları-1 2024-2025 Vize Soruları",
       "question_count": 20,
@@ -11055,7 +11055,7 @@
       "course": "Çocuk Gelişimi Uygulamaları 2",
       "course_slug": "cocuk-gelisimi-uygulamalari-2",
       "provisional_slug": "vize-2024",
-      "status": "parsed",
+      "status": "duplicate_content",
       "slug": "vize-2023-2024",
       "page_title": "Çocuk Gelişimi Uygulamaları-2 2023-2024 Vize Soruları",
       "question_count": 20,
@@ -12906,7 +12906,11 @@
       "course": "ANNE BABA EĞİTİMİ",
       "course_slug": "anne-baba-egitimi",
       "provisional_slug": "unite-3",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-3",
+      "page_title": "Anne Baba Eğitimi Ünite -3",
+      "question_count": 5,
+      "answer_source": "markup"
     },
     {
       "label": "Ünite -8",
@@ -12917,7 +12921,11 @@
       "course": "ANNE BABA EĞİTİMİ",
       "course_slug": "anne-baba-egitimi",
       "provisional_slug": "unite-8",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-8",
+      "page_title": "Anne Baba Eğitimi Ünite -8",
+      "question_count": 5,
+      "answer_source": "markup"
     },
     {
       "label": "Ünite -4",
@@ -12943,7 +12951,11 @@
       "course": "ANNE BABA EĞİTİMİ",
       "course_slug": "anne-baba-egitimi",
       "provisional_slug": "unite-9",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-9",
+      "page_title": "Anne Baba Eğitimi Ünite -9",
+      "question_count": 5,
+      "answer_source": "markup"
     },
     {
       "label": "Ünite -5",
@@ -13006,7 +13018,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -1",
+      "label": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -1",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -13014,7 +13026,11 @@
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "provisional_slug": "final-deneme-1",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-1",
+      "page_title": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -1",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Çocuk Gelişimi Uygulamaları -1 Vize Deneme Sınavı -3",
@@ -13032,7 +13048,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -2",
+      "label": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -2",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -13040,7 +13056,11 @@
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "provisional_slug": "final-deneme-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-2",
+      "page_title": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -2",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Çocuk Gelişimi Uygulamaları -1 Vize Deneme Sınavı -4",
@@ -13058,7 +13078,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -3",
+      "label": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -3",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -13066,10 +13086,14 @@
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "provisional_slug": "final-deneme-3",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-3",
+      "page_title": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -3",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Vize Deneme -5",
+      "label": "Çocuk Gelişimi Uygulamaları -1 Vize Deneme Sınavı -5",
       "type": "vize",
       "period": "unknown",
       "mock": true,
@@ -13077,7 +13101,11 @@
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "provisional_slug": "vize-deneme-5",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "cocuk-gelisimi-uygulamalari-1-vize-deneme-sinavi-5",
+      "page_title": "Çocuk Gelişimi Uygulamaları -1 Vize Deneme Sınavı -5",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -4",
@@ -13095,7 +13123,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -5",
+      "label": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -5",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -13103,10 +13131,14 @@
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "provisional_slug": "final-deneme-5",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-5",
+      "page_title": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -5",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -6",
+      "label": "Çocuk Gelişimi Uygulamaları-1 Final Deneme Sınavı -6",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -13114,7 +13146,11 @@
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "provisional_slug": "final-deneme-6",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-6",
+      "page_title": "Çocuk Gelişimi Uygulamaları-1 Final Deneme Sınavı -6",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -7",
@@ -13132,7 +13168,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -8",
+      "label": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -8",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -13140,10 +13176,14 @@
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "provisional_slug": "final-deneme-8",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-8",
+      "page_title": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -8",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -9",
+      "label": "Çocuk Gelişimi Uygulamaları-1 Final Deneme Sınavı -9",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -13151,7 +13191,11 @@
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "provisional_slug": "final-deneme-9",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-9",
+      "page_title": "Çocuk Gelişimi Uygulamaları-1 Final Deneme Sınavı -9",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -10",
@@ -13199,7 +13243,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Ünite-2",
+      "label": "Çocuk Gelişimi Uygulamaları -1 Ünite -2",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -13207,10 +13251,14 @@
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "provisional_slug": "unite-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "cocuk-gelisimi-uygulamalari-1-unite-2",
+      "page_title": "Çocuk Gelişimi Uygulamaları -1 Ünite -2",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
-      "label": "Ünite-7",
+      "label": "Çocuk Gelişimi Uygulamaları-1 Ünite -7",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -13218,7 +13266,11 @@
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "provisional_slug": "unite-7",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "cocuk-gelisimi-uygulamalari-1-unite-7",
+      "page_title": "Çocuk Gelişimi Uygulamaları-1 Ünite -7",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
       "label": "Çocuk Gelişimi Uygulamaları -1 Ünite -3",
@@ -13281,7 +13333,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Ünite-5",
+      "label": "Çocuk Gelişimi Uygulamaları-1 Ünite -5",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -13289,7 +13341,11 @@
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "provisional_slug": "unite-5",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "cocuk-gelisimi-uygulamalari-1-unite-5",
+      "page_title": "Çocuk Gelişimi Uygulamaları-1 Ünite -5",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
       "label": "Çocuk Gelişimi Uygulamaları -1 Ünite -10",
@@ -13330,7 +13386,11 @@
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "provisional_slug": "unite-7-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-7",
+      "page_title": "Çocuk Gelişimi Uygulamaları I Ünite-7",
+      "question_count": 18,
+      "answer_source": "markup"
     },
     {
       "label": "Ünite-2",
@@ -13431,7 +13491,15 @@
       "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
       "course_slug": "cocuk-gelisimi-uygulamalari-i",
       "provisional_slug": "unite-5-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-5",
+      "page_title": "Çocuk Gelişimi Uygulamaları I Ünite-5",
+      "question_count": 18,
+      "answer_source": "markup",
+      "omitted_questions": [
+        2,
+        4
+      ]
     },
     {
       "label": "Ünite-11",
@@ -13494,7 +13562,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Vize Deneme-3",
+      "label": "Vize Deneme Sınavı -3",
       "type": "vize",
       "period": "unknown",
       "mock": true,
@@ -13502,7 +13570,11 @@
       "course": "ÇOCUK HAKLARI VE HUKUKU",
       "course_slug": "cocuk-haklari-ve-hukuku",
       "provisional_slug": "vize-deneme-3",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-deneme-sinavi-3",
+      "page_title": "Çocuk Hakları ve Hukuku Vize Deneme Sınavı -3",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Vize Deneme Sınavı -4",
@@ -13520,7 +13592,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "2021 Büt. Deneme",
+      "label": "2021 Bütünleme Deneme",
       "type": "butunleme",
       "period": "2021",
       "mock": true,
@@ -13528,7 +13600,11 @@
       "course": "ÇOCUK HAKLARI VE HUKUKU",
       "course_slug": "cocuk-haklari-ve-hukuku",
       "provisional_slug": "2021-but-deneme",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "2021-butunleme-deneme",
+      "page_title": "Çocuk Hakları ve Hukuku 2021 Bütünleme Deneme",
+      "question_count": 36,
+      "answer_source": "markup"
     },
     {
       "label": "2020 Vize Deneme",
@@ -13579,7 +13655,7 @@
       ]
     },
     {
-      "label": "Final Deneme -2",
+      "label": "Final Deneme Sınavı -2",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -13587,7 +13663,11 @@
       "course": "ÇOCUK HAKLARI VE HUKUKU",
       "course_slug": "cocuk-haklari-ve-hukuku",
       "provisional_slug": "final-deneme-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-deneme-sinavi-2",
+      "page_title": "Çocuk Hakları ve Hukuku Final Deneme Sınavı -2",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Final Deneme Sınavı -3",
@@ -13620,7 +13700,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -5",
+      "label": "Final Deneme Sınavı -5",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -13628,7 +13708,11 @@
       "course": "ÇOCUK HAKLARI VE HUKUKU",
       "course_slug": "cocuk-haklari-ve-hukuku",
       "provisional_slug": "final-deneme-5",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-deneme-sinavi-5",
+      "page_title": "Çocuk Hakları ve Hukuku Final Deneme Sınavı -5",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Final Deneme Sınavı -6",
@@ -13646,7 +13730,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -7",
+      "label": "Final Deneme Sınavı -7",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -13654,7 +13738,11 @@
       "course": "ÇOCUK HAKLARI VE HUKUKU",
       "course_slug": "cocuk-haklari-ve-hukuku",
       "provisional_slug": "final-deneme-7",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-deneme-sinavi-7",
+      "page_title": "Çocuk Hakları ve Hukuku Final Deneme Sınavı -7",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Final Deneme Sınavı -8",
@@ -13702,7 +13790,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Ünite-2",
+      "label": "Ünite 2",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -13710,10 +13798,14 @@
       "course": "ÇOCUK HAKLARI VE HUKUKU",
       "course_slug": "cocuk-haklari-ve-hukuku",
       "provisional_slug": "unite-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-2",
+      "page_title": "Çocuk Hakları ve Hukuku Ünite 2",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
-      "label": "Ünite-6",
+      "label": "Ünite 6",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -13721,7 +13813,11 @@
       "course": "ÇOCUK HAKLARI VE HUKUKU",
       "course_slug": "cocuk-haklari-ve-hukuku",
       "provisional_slug": "unite-6",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-6",
+      "page_title": "Çocuk Hakları ve Hukuku Ünite 6",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
       "label": "Ünite 3",
@@ -13784,7 +13880,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Ünite-1 Deneme Sınavı",
+      "label": "Çalışma Soruları Ünite-1",
       "type": "unite",
       "period": "unknown",
       "mock": true,
@@ -13792,7 +13888,14 @@
       "course": "ÇOCUK HAKLARI VE HUKUKU",
       "course_slug": "cocuk-haklari-ve-hukuku",
       "provisional_slug": "unite-1-deneme-sinavi",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "calisma-sorulari-unite-1",
+      "page_title": "Çocuk Hakları ve Hukuku Çalışma Soruları Ünite-1",
+      "question_count": 22,
+      "answer_source": "markup",
+      "omitted_questions": [
+        4
+      ]
     },
     {
       "label": "2020 Vize Online",
@@ -13863,18 +13966,26 @@
       "course": "ÇOCUKLUKTA YABANCI DİL OLARAK TÜRKÇE ÖĞRETİMİ",
       "course_slug": "cocuklukta-yabanci-dil-olarak-turkce-ogretimi",
       "provisional_slug": "final-deneme-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-deneme-2",
+      "page_title": "Çocuklukta Yabancı Dil Olarak Türkçe Öğretimi Final Deneme-2",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -1",
+      "label": "2021 Final Deneme Sınavı -1",
       "type": "final",
-      "period": "unknown",
+      "period": "2021",
       "mock": true,
       "url": "https://lolonolo.com/2021/11/27/cocuklukta-yabanci-dil-olarak-turkce-ogretimi-2021-final-deneme-sinavi-1/",
       "course": "ÇOCUKLUKTA YABANCI DİL OLARAK TÜRKÇE ÖĞRETİMİ",
       "course_slug": "cocuklukta-yabanci-dil-olarak-turkce-ogretimi",
       "provisional_slug": "final-deneme-1-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "2021-final-deneme-sinavi-1",
+      "page_title": "Çocuklukta Yabancı Dil Olarak Türkçe Öğretimi 2021 Final Deneme Sınavı -1",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "2021 Final Deneme Sınavı -2",
@@ -13922,7 +14033,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Vize Deneme -2",
+      "label": "Vize Deneme Sınavı -2",
       "type": "vize",
       "period": "unknown",
       "mock": true,
@@ -13930,10 +14041,14 @@
       "course": "İLKOKULA HAZIRLIK",
       "course_slug": "ilkokula-hazirlik",
       "provisional_slug": "vize-deneme-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-deneme-sinavi-2",
+      "page_title": "İlkokula Hazırlık Vize Deneme Sınavı -2",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Vize Deneme -3",
+      "label": "Vize Deneme Sınavı -3",
       "type": "vize",
       "period": "unknown",
       "mock": true,
@@ -13941,10 +14056,14 @@
       "course": "İLKOKULA HAZIRLIK",
       "course_slug": "ilkokula-hazirlik",
       "provisional_slug": "vize-deneme-3",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-deneme-sinavi-3",
+      "page_title": "İlkokula Hazırlık Vize Deneme Sınavı -3",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Vize Deneme -4",
+      "label": "Vize Deneme Sınavı -4",
       "type": "vize",
       "period": "unknown",
       "mock": true,
@@ -13952,7 +14071,11 @@
       "course": "İLKOKULA HAZIRLIK",
       "course_slug": "ilkokula-hazirlik",
       "provisional_slug": "vize-deneme-4",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-deneme-sinavi-4",
+      "page_title": "İlkokula Hazırlık Vize Deneme Sınavı -4",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Final Deneme Sınavı -1",
@@ -13985,7 +14108,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -3",
+      "label": "Final Deneme Sınavı -3",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -13993,7 +14116,11 @@
       "course": "İLKOKULA HAZIRLIK",
       "course_slug": "ilkokula-hazirlik",
       "provisional_slug": "final-deneme-3",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-deneme-sinavi-3",
+      "page_title": "İlkokula Hazırlık Final Deneme Sınavı -3",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Final Deneme Sınavı -4",
@@ -14011,7 +14138,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -5",
+      "label": "Final Deneme Sınavı -5",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -14019,10 +14146,14 @@
       "course": "İLKOKULA HAZIRLIK",
       "course_slug": "ilkokula-hazirlik",
       "provisional_slug": "final-deneme-5",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-deneme-sinavi-5",
+      "page_title": "İlkokula Hazırlık Final Deneme Sınavı -5",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -6",
+      "label": "Final Deneme Sınavı -6",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -14030,10 +14161,14 @@
       "course": "İLKOKULA HAZIRLIK",
       "course_slug": "ilkokula-hazirlik",
       "provisional_slug": "final-deneme-6",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "final-deneme-sinavi-6",
+      "page_title": "İlkokula Hazırlık Final Deneme Sınavı -6",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -7",
+      "label": "İlk Okula Hazırlık Final Deneme Sınavı-7",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -14041,10 +14176,14 @@
       "course": "İLKOKULA HAZIRLIK",
       "course_slug": "ilkokula-hazirlik",
       "provisional_slug": "final-deneme-7",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "ilk-okula-hazirlik-final-deneme-sinavi-7",
+      "page_title": "İlk Okula Hazırlık Final Deneme Sınavı-7",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Final Deneme -8",
+      "label": "İlk Okula Hazırlık Final Deneme Sınavı-8",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -14052,7 +14191,11 @@
       "course": "İLKOKULA HAZIRLIK",
       "course_slug": "ilkokula-hazirlik",
       "provisional_slug": "final-deneme-8",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "ilk-okula-hazirlik-final-deneme-sinavi-8",
+      "page_title": "İlk Okula Hazırlık Final Deneme Sınavı-8",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Ünite -1",
@@ -14063,7 +14206,11 @@
       "course": "İLKOKULA HAZIRLIK",
       "course_slug": "ilkokula-hazirlik",
       "provisional_slug": "unite-1",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-1",
+      "page_title": "İlkokula Hazırlık Ünite -1",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
       "label": "Ünite -5",
@@ -14096,7 +14243,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Ünite-6",
+      "label": "Ünite -6",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -14104,7 +14251,11 @@
       "course": "İLKOKULA HAZIRLIK",
       "course_slug": "ilkokula-hazirlik",
       "provisional_slug": "unite-6",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-6",
+      "page_title": "İlkokula Hazırlık Ünite -6",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
       "label": "Ünite -3",
@@ -14183,7 +14334,7 @@
       "quality_reason": "choice_count"
     },
     {
-      "label": "2021 Final Deneme -1",
+      "label": "2021 Final Deneme Sınavı -1",
       "type": "final",
       "period": "2021",
       "mock": true,
@@ -14191,7 +14342,11 @@
       "course": "İLKOKULA HAZIRLIK",
       "course_slug": "ilkokula-hazirlik",
       "provisional_slug": "2021-final-deneme-1",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "2021-final-deneme-sinavi-1",
+      "page_title": "İlkokula Hazırlık 2021 Final Deneme Sınavı -1",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "2021 Final Deneme Sınavı -2",
@@ -14235,7 +14390,11 @@
       "course": "OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ",
       "course_slug": "okul-oncesi-donemde-duyu-egitimi",
       "provisional_slug": "vize-deneme-1",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "vize-deneme-1",
+      "page_title": "Okul Öncesi Dönemde Duyu Eğitimi Vize Deneme-1",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Vize Deneme-2",
@@ -14261,7 +14420,11 @@
       "course": "OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ",
       "course_slug": "okul-oncesi-donemde-duyu-egitimi",
       "provisional_slug": "2021-final-deneme-sinavi",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "2021-final-deneme-sinavi",
+      "page_title": "Okul Öncesi Dönemde Duyu Eğitimi 2021 Final Deneme Sınavı",
+      "question_count": 38,
+      "answer_source": "markup"
     },
     {
       "label": "Final Deneme-1",
@@ -14317,7 +14480,11 @@
       "course": "OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ",
       "course_slug": "okul-oncesi-donemde-duyu-egitimi",
       "provisional_slug": "unite-5",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-5",
+      "page_title": "Okul Öncesi Dönemde Duyu Eğitimi Ünite -5",
+      "question_count": 5,
+      "answer_source": "markup"
     },
     {
       "label": "Ünite -2",
@@ -14343,7 +14510,11 @@
       "course": "OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ",
       "course_slug": "okul-oncesi-donemde-duyu-egitimi",
       "provisional_slug": "unite-6",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-6",
+      "page_title": "Okul Öncesi Dönemde Duyu Eğitimi Ünite -6",
+      "question_count": 5,
+      "answer_source": "markup"
     },
     {
       "label": "Ünite -3",
@@ -14384,7 +14555,14 @@
       "course": "OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ",
       "course_slug": "okul-oncesi-donemde-duyu-egitimi",
       "provisional_slug": "unite-4",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-4",
+      "page_title": "Okul Öncesi Dönemde Duyu Eğitimi Ünite -4",
+      "question_count": 9,
+      "answer_source": "markup",
+      "omitted_questions": [
+        7
+      ]
     },
     {
       "label": "Ünite -8",
@@ -14410,7 +14588,7 @@
       "course": "OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ",
       "course_slug": "okul-oncesi-donemde-duyu-egitimi",
       "provisional_slug": "2021-vize-deneme-sinavi",
-      "status": "parsed",
+      "status": "duplicate_content",
       "slug": "2021-vize-deneme-sinavi",
       "page_title": "Okul Öncesi Dönemde Duyu Eğitimi 2021 Vize Deneme Sınavı",
       "question_count": 36,
@@ -14419,7 +14597,7 @@
       "quality_reason": "same_questions_as:okul-oncesi-donemde-duyu-egitimi/vize-2020"
     },
     {
-      "label": "Ünite – 1",
+      "label": "Ünite-1",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -14427,7 +14605,11 @@
       "course": "OYUN VE OYUN TERAPİSİ",
       "course_slug": "oyun-ve-oyun-terapisi",
       "provisional_slug": "unite-1",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-1",
+      "page_title": "Oyun ve Oyun Terapisi Ünite-1",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
       "label": "Ünite-2",
@@ -14445,7 +14627,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Ünite – 5",
+      "label": "Ünite-5",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -14453,10 +14635,14 @@
       "course": "OYUN VE OYUN TERAPİSİ",
       "course_slug": "oyun-ve-oyun-terapisi",
       "provisional_slug": "unite-5",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-5",
+      "page_title": "Oyun ve Oyun Terapisi Ünite-5",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
-      "label": "Ünite – 3",
+      "label": "Ünite-3",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -14464,7 +14650,11 @@
       "course": "OYUN VE OYUN TERAPİSİ",
       "course_slug": "oyun-ve-oyun-terapisi",
       "provisional_slug": "unite-3",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-3",
+      "page_title": "Oyun ve Oyun Terapisi Ünite-3",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
       "label": "Ünite-6",
@@ -14482,7 +14672,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Ünite – 4",
+      "label": "Ünite-4",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -14490,10 +14680,14 @@
       "course": "OYUN VE OYUN TERAPİSİ",
       "course_slug": "oyun-ve-oyun-terapisi",
       "provisional_slug": "unite-4",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-4",
+      "page_title": "Oyun ve Oyun Terapisi Ünite-4",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
-      "label": "Ünite – 7",
+      "label": "Ünite-7",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -14501,7 +14695,11 @@
       "course": "OYUN VE OYUN TERAPİSİ",
       "course_slug": "oyun-ve-oyun-terapisi",
       "provisional_slug": "unite-7",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "unite-7",
+      "page_title": "Oyun ve Oyun Terapisi Ünite-7",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
       "label": "Ünite-8",
@@ -14549,29 +14747,37 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final Deneme Sınavı -2",
+      "label": "2021 Final Deneme Sınavı -2",
       "type": "final",
-      "period": "unknown",
+      "period": "2021",
       "mock": true,
       "url": "https://lolonolo.com/2021/11/28/oyun-ve-oyun-terapisi-2021-final-deneme-sinavi-2/",
       "course": "OYUN VE OYUN TERAPİSİ",
       "course_slug": "oyun-ve-oyun-terapisi",
       "provisional_slug": "final-deneme-sinavi-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "2021-final-deneme-sinavi-2",
+      "page_title": "Oyun ve Oyun Terapisi 2021 Final Deneme Sınavı -2",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Final Deneme Sınavı -3",
+      "label": "2021 Final Deneme Sınavı -3",
       "type": "final",
-      "period": "unknown",
+      "period": "2021",
       "mock": true,
       "url": "https://lolonolo.com/2021/11/28/oyun-ve-oyun-terapisi-2021-final-deneme-sinavi-3/",
       "course": "OYUN VE OYUN TERAPİSİ",
       "course_slug": "oyun-ve-oyun-terapisi",
       "provisional_slug": "final-deneme-sinavi-3",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "2021-final-deneme-sinavi-3",
+      "page_title": "Oyun ve Oyun Terapisi 2021 Final Deneme Sınavı -3",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "2020 Vize Deneme",
+      "label": "Psikometrik Gelişimsel Ölçme ve Değerlendirme 2020 Vize Deneme",
       "type": "vize",
       "period": "2020",
       "mock": true,
@@ -14579,10 +14785,14 @@
       "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
       "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
       "provisional_slug": "2020-vize-deneme",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme-2020-vize-deneme",
+      "page_title": "Psikometrik Gelişimsel Ölçme ve Değerlendirme 2020 Vize Deneme",
+      "question_count": 39,
+      "answer_source": "markup"
     },
     {
-      "label": "Ünite Soruları",
+      "label": "Psikometrik ve Gelişimsel Ölçme Değerlendirme Soruları",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -14590,7 +14800,12 @@
       "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
       "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
       "provisional_slug": "unite-sorulari",
-      "status": "fetch_missing"
+      "status": "skipped_quality",
+      "slug": "psikometrik-ve-gelisimsel-olcme-degerlendirme-sorulari",
+      "page_title": "Psikometrik ve Gelişimsel Ölçme Değerlendirme Soruları",
+      "question_count": 100,
+      "answer_source": "inline",
+      "quality_reason": "numbering,option_letters"
     },
     {
       "label": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Vize Deneme Sınavı -1",
@@ -14608,7 +14823,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "2021 Büt. Deneme",
+      "label": "Psikometrik ve Gelişimsel Ölçme 2021 Bütünleme Deneme",
       "type": "butunleme",
       "period": "2021",
       "mock": true,
@@ -14616,10 +14831,16 @@
       "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
       "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
       "provisional_slug": "2021-but-deneme",
-      "status": "fetch_missing"
+      "status": "duplicate_content",
+      "slug": "psikometrik-ve-gelisimsel-olcme-2021-butunleme-deneme",
+      "page_title": "Psikometrik ve Gelişimsel Ölçme  2021 Bütünleme Deneme",
+      "question_count": 33,
+      "answer_source": "markup",
+      "duplicate_of": "psikometrik-gelisimsel-olcme-ve-degerlendirme/butunleme-2021",
+      "quality_reason": "same_questions_as:psikometrik-gelisimsel-olcme-ve-degerlendirme/butunleme-2021"
     },
     {
-      "label": "Vize Deneme 2",
+      "label": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Vize Deneme Sınavı -2",
       "type": "vize",
       "period": "unknown",
       "mock": true,
@@ -14627,10 +14848,14 @@
       "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
       "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
       "provisional_slug": "vize-deneme-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-vize-deneme-sinavi-2",
+      "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Vize Deneme Sınavı -2",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Vize Deneme 3",
+      "label": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Vize Deneme Sınavı -3",
       "type": "vize",
       "period": "unknown",
       "mock": true,
@@ -14638,10 +14863,14 @@
       "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
       "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
       "provisional_slug": "vize-deneme-3",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-vize-deneme-sinavi-3",
+      "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Vize Deneme Sınavı -3",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Final deneme 1",
+      "label": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -1",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -14649,7 +14878,11 @@
       "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
       "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
       "provisional_slug": "final-deneme-1",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-1",
+      "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -1",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Vize Deneme Sınavı -4",
@@ -14712,7 +14945,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final deneme 4",
+      "label": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -4",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -14720,7 +14953,11 @@
       "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
       "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
       "provisional_slug": "final-deneme-4",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-4",
+      "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -4",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -5",
@@ -14738,7 +14975,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final deneme 6",
+      "label": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -6",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -14746,10 +14983,14 @@
       "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
       "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
       "provisional_slug": "final-deneme-6",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-6",
+      "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -6",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Final deneme 7",
+      "label": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -7",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -14757,7 +14998,11 @@
       "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
       "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
       "provisional_slug": "final-deneme-7",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-7",
+      "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -7",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -8",
@@ -14775,7 +15020,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final deneme 9",
+      "label": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -9",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -14783,7 +15028,11 @@
       "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
       "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
       "provisional_slug": "final-deneme-9",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-9",
+      "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -9",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -10",
@@ -14846,7 +15095,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Ünite 7",
+      "label": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -7",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -14854,7 +15103,11 @@
       "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
       "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
       "provisional_slug": "unite-7",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-7",
+      "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -7",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
       "label": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -3",
@@ -14962,7 +15215,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final deneme 1",
+      "label": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -1",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -14970,7 +15223,11 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "final-deneme-1",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-final-deneme-sinavi-1",
+      "page_title": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -1",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Sosyal – Duygusal Gelişim Vize Deneme Sınavı -2",
@@ -14988,7 +15245,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final deneme 2",
+      "label": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -2",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -14996,7 +15253,11 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "final-deneme-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-final-deneme-sinavi-2",
+      "page_title": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -2",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Sosyal – Duygusal Gelişim Vize Deneme Sınavı -3",
@@ -15014,7 +15275,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final deneme 3",
+      "label": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -3",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -15022,7 +15283,11 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "final-deneme-3",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-final-deneme-sinavi-3",
+      "page_title": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -3",
+      "question_count": 15,
+      "answer_source": "markup"
     },
     {
       "label": "Sosyal – Duygusal Gelişim Vize Deneme Sınavı -4",
@@ -15040,7 +15305,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final deneme 4",
+      "label": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -4",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -15048,10 +15313,14 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "final-deneme-4",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-final-deneme-sinavi-4",
+      "page_title": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -4",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Vize Deneme 5",
+      "label": "Sosyal – Duygusal Gelişim Vize Deneme Sınavı -5",
       "type": "vize",
       "period": "unknown",
       "mock": true,
@@ -15059,10 +15328,14 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "vize-deneme-5",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-vize-deneme-sinavi-5",
+      "page_title": "Sosyal – Duygusal Gelişim Vize Deneme Sınavı -5",
+      "question_count": 15,
+      "answer_source": "markup"
     },
     {
-      "label": "Final deneme 5",
+      "label": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -5",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -15070,10 +15343,14 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "final-deneme-5",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-final-deneme-sinavi-5",
+      "page_title": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -5",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Vize Deneme 6",
+      "label": "Sosyal – Duygusal Gelişim Vize Deneme Sınavı -6",
       "type": "vize",
       "period": "unknown",
       "mock": true,
@@ -15081,10 +15358,14 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "vize-deneme-6",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-vize-deneme-sinavi-6",
+      "page_title": "Sosyal – Duygusal Gelişim Vize Deneme Sınavı -6",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Final deneme 6",
+      "label": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -6",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -15092,7 +15373,11 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "final-deneme-6",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-final-deneme-sinavi-6",
+      "page_title": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -6",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -7",
@@ -15110,7 +15395,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final deneme 8",
+      "label": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -8",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -15118,10 +15403,14 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "final-deneme-8",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-final-deneme-sinavi-8",
+      "page_title": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -8",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Final deneme 9",
+      "label": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -9",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -15129,7 +15418,11 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "final-deneme-9",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-final-deneme-sinavi-9",
+      "page_title": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -9",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -10",
@@ -15162,7 +15455,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Final deneme 12",
+      "label": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -12",
       "type": "final",
       "period": "unknown",
       "mock": true,
@@ -15170,10 +15463,14 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "final-deneme-12",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-final-deneme-sinavi-12",
+      "page_title": "Sosyal – Duygusal Gelişim Final Deneme Sınavı -12",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "2021 Final Deneme-1",
+      "label": "Sosyal – Duygusal Gelişim 2021 Final Deneme-1",
       "type": "final",
       "period": "2021",
       "mock": true,
@@ -15181,7 +15478,11 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "2021-final-deneme-1",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-2021-final-deneme-1",
+      "page_title": "Sosyal – Duygusal Gelişim 2021 Final Deneme-1",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
       "label": "Sosyal – Duygusal Gelişim 2021 Final Deneme-2",
@@ -15214,7 +15515,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "2021 Büt. Deneme -2",
+      "label": "Sosyal – Duygusal Gelişim 2021 Bütünleme Deneme Sınavı-2",
       "type": "butunleme",
       "period": "2021",
       "mock": true,
@@ -15222,10 +15523,14 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "2021-but-deneme-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-2021-butunleme-deneme-sinavi-2",
+      "page_title": "Sosyal – Duygusal Gelişim 2021 Bütünleme Deneme Sınavı-2",
+      "question_count": 20,
+      "answer_source": "markup"
     },
     {
-      "label": "Ünite 1",
+      "label": "Sosyal – Duygusal Gelişim Ünite -1",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -15233,7 +15538,11 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "unite-1",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-unite-1",
+      "page_title": "Sosyal – Duygusal Gelişim Ünite -1",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
       "label": "Sosyal – Duygusal Gelişim Ünite -7",
@@ -15266,7 +15575,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Ünite 8",
+      "label": "Sosyal – Duygusal Gelişim Ünite -8",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -15274,10 +15583,14 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "unite-8",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-unite-8",
+      "page_title": "Sosyal – Duygusal Gelişim Ünite -8",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
-      "label": "Ünite 3",
+      "label": "Sosyal – Duygusal Gelişim Ünite -3",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -15285,7 +15598,11 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "unite-3",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-unite-3",
+      "page_title": "Sosyal – Duygusal Gelişim Ünite -3",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
       "label": "Sosyal – Duygusal Gelişim Ünite -9",
@@ -15303,7 +15620,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Ünite 4",
+      "label": "Sosyal – Duygusal Gelişim Ünite -4",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -15311,10 +15628,14 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "unite-4",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-unite-4",
+      "page_title": "Sosyal – Duygusal Gelişim Ünite -4",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
-      "label": "Ünite 10",
+      "label": "Sosyal – Duygusal Gelişim Ünite -10",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -15322,7 +15643,11 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "unite-10",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-unite-10",
+      "page_title": "Sosyal – Duygusal Gelişim Ünite -10",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
       "label": "Sosyal – Duygusal Gelişim Ünite -5",
@@ -15340,7 +15665,7 @@
       "answer_source": "markup"
     },
     {
-      "label": "Ünite 11",
+      "label": "Sosyal – Duygusal Gelişim Ünite -11",
       "type": "unite",
       "period": "unknown",
       "mock": false,
@@ -15348,7 +15673,11 @@
       "course": "SOSYAL-DUYGUSAL GELİŞİM",
       "course_slug": "sosyal-duygusal-gelisim",
       "provisional_slug": "unite-11",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "sosyal-duygusal-gelisim-unite-11",
+      "page_title": "Sosyal – Duygusal Gelişim Ünite -11",
+      "question_count": 10,
+      "answer_source": "markup"
     },
     {
       "label": "Sosyal – Duygusal Gelişim Ünite -6",
@@ -15403,7 +15732,7 @@
       "status": "fetch_missing"
     },
     {
-      "label": "2021 Deneme -1",
+      "label": "2021 Final Deneme Sınavı -1",
       "type": "final",
       "period": "2021",
       "mock": true,
@@ -15411,10 +15740,14 @@
       "course": "ÇOCUK HAKLARI VE HUKUKU",
       "course_slug": "cocuk-haklari-ve-hukuku",
       "provisional_slug": "2021-deneme-1",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "2021-final-deneme-sinavi-1",
+      "page_title": "Çocuk Hakları ve Hukuku 2021 Final Deneme Sınavı -1",
+      "question_count": 25,
+      "answer_source": "markup"
     },
     {
-      "label": "2021 Deneme -2",
+      "label": "2021 Final Deneme Sınavı -2",
       "type": "final",
       "period": "2021",
       "mock": true,
@@ -15422,7 +15755,11 @@
       "course": "ÇOCUK HAKLARI VE HUKUKU",
       "course_slug": "cocuk-haklari-ve-hukuku",
       "provisional_slug": "2021-deneme-2",
-      "status": "fetch_missing"
+      "status": "parsed",
+      "slug": "2021-final-deneme-sinavi-2",
+      "page_title": "Çocuk Hakları ve Hukuku 2021 Final Deneme Sınavı -2",
+      "question_count": 25,
+      "answer_source": "markup"
     },
     {
       "label": "2024 Üç Ders Soruları",

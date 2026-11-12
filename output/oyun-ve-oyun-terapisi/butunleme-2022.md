@@ -3,7 +3,7 @@ course: OYUN VE OYUN TERAPİSİ
 exam: 2022 Bütünleme Soruları
 source_url: https://lolonolo.com/2022/08/04/oyun-ve-oyun-terapisi-2022-butunleme-sorulari/
 question_count: 20
-scraped_at: 2026-11-12T14:58:29+03:00
+scraped_at: 2026-11-12T16:21:40+03:00
 ---
 
 ### Q1

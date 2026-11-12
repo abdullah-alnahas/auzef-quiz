@@ -1,0 +1,859 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -8",
+  "exam_slug": "cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-8",
+  "page_title": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -8",
+  "source_url": "https://lolonolo.com/2023/09/29/cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-8/",
+  "scraped_at": "2026-11-12T16:23:41+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Çocuklarla yapılan araştırmalarda aşağıda verilenlerden hangisi esastır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun bilgilendirilmiş onayı",
+          "images": [],
+          "text_ar": "الموافقة المستنيرة للطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun eğitim seviyesi",
+          "images": [],
+          "text_ar": "المستوى التعليمي للطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun sosyal statüsü",
+          "images": [],
+          "text_ar": "المكانة الاجتماعية للطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun yaşadığı şehir",
+          "images": [],
+          "text_ar": "المدينة التي يعيش فيها الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun hobileri",
+          "images": [],
+          "text_ar": "هوايات الطفل"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي يُعدّ أساسيًا في البحوث التي تُجرى مع الأطفال؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Çocuk Koruma Uygulama ve Araştırma Merkezlerinin (AÇSAP) ana misyonudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece hukuki destek sağlamak",
+          "images": [],
+          "text_ar": "تقديم الدعم القانوني فقط"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk haklarını ön planda tutarak fiziksel, duygusal ve psikososyal ihtiyaçlarına yanıt vermek",
+          "images": [],
+          "text_ar": "تلبية الاحتياجات الجسدية والعاطفية والنفسية الاجتماعية مع إيلاء الأولوية لحقوق الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnızca çocuk istismarıyla ilgilenmek",
+          "images": [],
+          "text_ar": "التعامل مع إساءة معاملة الأطفال فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların eğitim ihtiyaçlarını karşılamak",
+          "images": [],
+          "text_ar": "تلبية الاحتياجات التعليمية للأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Ailelere rehberlik etmek",
+          "images": [],
+          "text_ar": "تقديم الإرشاد للأسر"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي هو المهمة الأساسية لمراكز تطبيق وبحث حماية الطفل (AÇSAP)؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ANKA Çocuk Destek Programının bileşenlerinden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Grup Çalışması",
+          "images": [],
+          "text_ar": "العمل الجماعي"
+        },
+        {
+          "letter": "B",
+          "text": "Aile Çalışmaları",
+          "images": [],
+          "text_ar": "العمل مع الأسرة"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel Destek Bileşeni",
+          "images": [],
+          "text_ar": "مكوّن الدعم المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Krize Müdahale",
+          "images": [],
+          "text_ar": "التدخل في الأزمات"
+        },
+        {
+          "letter": "E",
+          "text": "Bireysel Danışmanlık",
+          "images": [],
+          "text_ar": "الإرشاد الفردي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من مكونات برنامج دعم الطفل ANKA؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi biriminde gelişimleri desteklenen grup seçeneklerden hangisinde eksik ya da yanlış verilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0- 15 yaş",
+          "images": [],
+          "text_ar": "0-15 سنة"
+        },
+        {
+          "letter": "B",
+          "text": "tipik gelişim gösteren",
+          "images": [],
+          "text_ar": "الذين يظهرون نموًا نمطيًا"
+        },
+        {
+          "letter": "C",
+          "text": "Atipik gelişim gösteren",
+          "images": [],
+          "text_ar": "الذين يظهرون نموًا غير نمطي"
+        },
+        {
+          "letter": "D",
+          "text": "Özel gereksinimli",
+          "images": [],
+          "text_ar": "ذوو الاحتياجات الخاصة"
+        },
+        {
+          "letter": "E",
+          "text": "0-18 yaş",
+          "images": [],
+          "text_ar": "0-18 سنة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في أي من الخيارات التالية وردت الفئة التي يُدعم نموها في وحدة نمو الطفل ناقصة أو خاطئة؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk çalışmalarında etik prensipler arasında aşağıda verilenlerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doğru ve dürüst bilgilendirme",
+          "images": [],
+          "text_ar": "تقديم معلومات صحيحة وصادقة"
+        },
+        {
+          "letter": "B",
+          "text": "Fiziksel ve duygusal güvenlik",
+          "images": [],
+          "text_ar": "السلامة الجسدية والعاطفية"
+        },
+        {
+          "letter": "C",
+          "text": "Profesyonellik",
+          "images": [],
+          "text_ar": "المهنية"
+        },
+        {
+          "letter": "D",
+          "text": "Bireysel farklılıkların tanınması",
+          "images": [],
+          "text_ar": "الاعتراف بالفروق الفردية"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların sosyoekonomik durumunun değerlendirilmesi",
+          "images": [],
+          "text_ar": "تقييم الوضع الاجتماعي والاقتصادي للأطفال"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يُعدّ من المبادئ الأخلاقية في الأعمال المتعلقة بالأطفال؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Yatak başı destek uygulamaları ile ilgili hangi seçenek yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun stresi azaltılacak",
+          "images": [],
+          "text_ar": "سيُخفَّض توتر الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Hastaneye uyum süreci zorlaşacak",
+          "images": [],
+          "text_ar": "ستصبح عملية التكيف مع المستشفى أصعب"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun kendisini rahatlıkla ifadesini sağlamak",
+          "images": [],
+          "text_ar": "تمكين الطفل من التعبير عن نفسه بسهولة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun hastane personeline güvenini sağlamak",
+          "images": [],
+          "text_ar": "إكساب الطفل الثقة في العاملين في المستشفى"
+        },
+        {
+          "letter": "E",
+          "text": "Çeşitli uyarıcılar ile ortam zenginleştirilecek",
+          "images": [],
+          "text_ar": "ستُثرى البيئة بمثيرات متنوعة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من الخيارات التالية غير صحيحة بشأن تطبيقات الدعم بجانب السرير؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk kavramının tanımı hangi uluslararası metne göre 18 yaşını tamamlamamış her birey olarak yapılmaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk Koruma Kanunu",
+          "images": [],
+          "text_ar": "قانون حماية الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk Gelişimi Sözleşmesi",
+          "images": [],
+          "text_ar": "اتفاقية نمو الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk Haklarına Dair Sözleşme",
+          "images": [],
+          "text_ar": "اتفاقية حقوق الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklar İçin Uluslararası Haklar Bildirgesi",
+          "images": [],
+          "text_ar": "الإعلان الدولي لحقوق الأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Gençlik Hakları Bildirgesi",
+          "images": [],
+          "text_ar": "إعلان حقوق الشباب"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "وفق أي نص دولي يُعرَّف مفهوم الطفل بأنه كل فرد لم يكمل الثامنة عشرة من عمره؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Özel Eğitim Anaokulu açmak için en önemli koşul aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Akıllı bina olması",
+          "images": [],
+          "text_ar": "أن تكون مبنى ذكيًا"
+        },
+        {
+          "letter": "B",
+          "text": "Müstakil bir yapı olması",
+          "images": [],
+          "text_ar": "أن تكون مبنى مستقلًا"
+        },
+        {
+          "letter": "C",
+          "text": "Bahçesinin olması",
+          "images": [],
+          "text_ar": "أن يكون لها حديقة"
+        },
+        {
+          "letter": "D",
+          "text": "Yerden ısıtma sisteminde olması",
+          "images": [],
+          "text_ar": "أن تكون مزودة بنظام تدفئة أرضية"
+        },
+        {
+          "letter": "E",
+          "text": "Şehirden uzak bir alanda olması",
+          "images": [],
+          "text_ar": "أن تكون في منطقة بعيدة عن المدينة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما الشرط الأهم لفتح روضة أطفال للتربية الخاصة؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Aile Danışmanlığı Merkezi Açmak için gerekli olan fiziksel özelliklerden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Muhakkak bekleme salonu olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن تكون هناك صالة انتظار بالضرورة."
+        },
+        {
+          "letter": "B",
+          "text": "En az 2 adet görüşme odası olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن تكون هناك غرفتا مقابلة على الأقل."
+        },
+        {
+          "letter": "C",
+          "text": "En az 750 kişi kapasiteli konferans salonu olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن تكون هناك قاعة مؤتمرات بسعة 750 شخصًا على الأقل."
+        },
+        {
+          "letter": "D",
+          "text": "Yönetici odası ya da odaları olmalıdır.",
+          "images": [],
+          "text_ar": "يجب أن يكون هناك مكتب أو مكاتب للمدير."
+        },
+        {
+          "letter": "E",
+          "text": "Hem çocukların kayıtlarının hem de kuruma ait resmi belgelerin depolanması için arşivin olması gerekmektedir.",
+          "images": [],
+          "text_ar": "يجب أن يوجد أرشيف لحفظ سجلات الأطفال والوثائق الرسمية الخاصة بالمؤسسة."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من الخصائص الفيزيائية اللازمة لفتح مركز إرشاد أسري؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Milli Eğitim Bakanlığına bağlı olarak açılacak bir kurumun alkollü içecek satışı yapan yerlerden en az ne kadar uzakta olması gerekmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "50 metre",
+          "images": [],
+          "text_ar": "50 مترًا"
+        },
+        {
+          "letter": "B",
+          "text": "100 metre",
+          "images": [],
+          "text_ar": "100 متر"
+        },
+        {
+          "letter": "C",
+          "text": "200 metre",
+          "images": [],
+          "text_ar": "200 متر"
+        },
+        {
+          "letter": "D",
+          "text": "250 metre",
+          "images": [],
+          "text_ar": "250 مترًا"
+        },
+        {
+          "letter": "E",
+          "text": "500 metre",
+          "images": [],
+          "text_ar": "500 متر"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "على أي مسافة على الأقل يجب أن تكون المؤسسة التي ستُفتح تابعًا لوزارة التربية الوطنية من الأماكن التي تبيع المشروبات الكحولية؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Umut Evleri’nde en fazla kaç engelli birey bir arada kalabilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2",
+          "images": [],
+          "text_ar": "فردان"
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "images": [],
+          "text_ar": "3 أفراد"
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "images": [],
+          "text_ar": "4 أفراد"
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "images": [],
+          "text_ar": "5 أفراد"
+        },
+        {
+          "letter": "E",
+          "text": "6",
+          "images": [],
+          "text_ar": "6 أفراد"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ما أقصى عدد من الأفراد ذوي الإعاقة يمكن أن يقيموا معًا في بيوت الأمل؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Hastane oyun odalarında çocuk gelişimcinin en sık kullandığı etkinlik hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyun Etkinliği",
+          "images": [],
+          "text_ar": "نشاط اللعب"
+        },
+        {
+          "letter": "B",
+          "text": "Hikâye Etkinliği",
+          "images": [],
+          "text_ar": "نشاط القصة"
+        },
+        {
+          "letter": "C",
+          "text": "Drama",
+          "images": [],
+          "text_ar": "الدراما"
+        },
+        {
+          "letter": "D",
+          "text": "Sanat etkinliği",
+          "images": [],
+          "text_ar": "نشاط فني"
+        },
+        {
+          "letter": "E",
+          "text": "Müzik etkinliği",
+          "images": [],
+          "text_ar": "نشاط موسيقي"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما النشاط الأكثر استخدامًا من قبل أخصائي نمو الطفل في غرف اللعب في المستشفيات؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Kaç yaşını doldurmuş çocuklar ebeveynlerin yazılı izni olmadan ilkokula kayıt yaptırabilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "48 aylık",
+          "images": [],
+          "text_ar": "48 شهرًا"
+        },
+        {
+          "letter": "B",
+          "text": "52 aylık",
+          "images": [],
+          "text_ar": "52 شهرًا"
+        },
+        {
+          "letter": "C",
+          "text": "58 aylık",
+          "images": [],
+          "text_ar": "58 شهرًا"
+        },
+        {
+          "letter": "D",
+          "text": "66 aylık",
+          "images": [],
+          "text_ar": "66 شهرًا"
+        },
+        {
+          "letter": "E",
+          "text": "69 aylık",
+          "images": [],
+          "text_ar": "69 شهرًا"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي الأطفال الذين أتموا كم شهرًا يمكنهم التسجيل في المدرسة الابتدائية دون إذن كتابي من الوالدين؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Sosyal Hizmet Merkezlerinde görev alan sosyal çalışma görevlileri hangi alanlardan mezun olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mühendislik",
+          "images": [],
+          "text_ar": "الهندسة"
+        },
+        {
+          "letter": "B",
+          "text": "Tıp",
+          "images": [],
+          "text_ar": "الطب"
+        },
+        {
+          "letter": "C",
+          "text": "İşletme",
+          "images": [],
+          "text_ar": "إدارة الأعمال"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk Gelişimi",
+          "images": [],
+          "text_ar": "نمو الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Hukuk",
+          "images": [],
+          "text_ar": "القانون"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "من أي التخصصات يمكن أن يكون موظفو العمل الاجتماعي العاملون في مراكز الخدمة الاجتماعية متخرجين؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Sağlık Bakanlığına bağlı çocuk gelişimcilerin çalışabilecekleri kurumlardan biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Denetimli Serbestlik Müdürlüğü",
+          "images": [],
+          "text_ar": "مديرية الإفراج المشروط"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk Hastalıkları Polikliniği",
+          "images": [],
+          "text_ar": "عيادة أمراض الأطفال"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk Gelişimi birimi",
+          "images": [],
+          "text_ar": "وحدة نمو الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk Şube Büro Amirliği",
+          "images": [],
+          "text_ar": "مديرية مكتب فرع الأحداث"
+        },
+        {
+          "letter": "E",
+          "text": "Gözlem ve Sınıflandırma Merkezi",
+          "images": [],
+          "text_ar": "مركز الملاحظة والتصنيف"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من المؤسسات التي يمكن لأخصائيي نمو الطفل العاملين في وزارة الصحة العمل فيها؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bir Çocuk Evinde görev yapan Çocuk Gelişimcinin görevi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuklara gelişim testi uygulamak",
+          "images": [],
+          "text_ar": "تطبيق اختبارات نمائية على الأطفال"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklara eğitim programı hazırlamak",
+          "images": [],
+          "text_ar": "إعداد برنامج تعليمي للأطفال"
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların gelişimlerini takip etmek",
+          "images": [],
+          "text_ar": "متابعة نمو الأطفال"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklara iyi alışkanlıklar kazandırmak",
+          "images": [],
+          "text_ar": "إكساب الأطفال عادات جيدة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların tıbbi değerlendirmelerini yapmak",
+          "images": [],
+          "text_ar": "إجراء التقييمات الطبية للأطفال"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من مهام أخصائي نمو الطفل العامل في بيت الأطفال؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aile Danışma Merkezlerinde ailelere sıklıkla hangi danışma hizmeti verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Boşanma Süreci Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد في عملية الطلاق"
+        },
+        {
+          "letter": "B",
+          "text": "Kardeş Kıskançlığı Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد بشأن الغيرة بين الأشقاء"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel Davranışçı Terapi Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد بالعلاج المعرفي السلوكي"
+        },
+        {
+          "letter": "D",
+          "text": "İş Bulma Hizmet Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد في خدمات البحث عن عمل"
+        },
+        {
+          "letter": "E",
+          "text": "Boşanma Süreci Hukuki Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد القانوني في عملية الطلاق"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي خدمة إرشادية تُقدَّم للأسر بشكل متكرر في مراكز الإرشاد الأسري؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Özel bir anaokulu açarken okulda en az kaç çocuğun olması gerekmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5 çocuk",
+          "images": [],
+          "text_ar": "5 أطفال"
+        },
+        {
+          "letter": "B",
+          "text": "10 çocuk",
+          "images": [],
+          "text_ar": "10 أطفال"
+        },
+        {
+          "letter": "C",
+          "text": "20 çocuk",
+          "images": [],
+          "text_ar": "20 طفلًا"
+        },
+        {
+          "letter": "D",
+          "text": "25 çocuk",
+          "images": [],
+          "text_ar": "25 طفلًا"
+        },
+        {
+          "letter": "E",
+          "text": "50 çocuk",
+          "images": [],
+          "text_ar": "50 طفلًا"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "عند فتح روضة أطفال خاصة، ما الحد الأدنى لعدد الأطفال الذين يجب أن يكونوا في المدرسة؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişiminde etik davranışların standartları neden oluşturulmuştur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukların daha iyi eğitim almasını sağlamak için",
+          "images": [],
+          "text_ar": "لضمان حصول الأطفال على تعليم أفضل"
+        },
+        {
+          "letter": "B",
+          "text": "Mesleki rekabeti artırmak için",
+          "images": [],
+          "text_ar": "لزيادة التنافس المهني"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuk gelişiminde karşılaşılan etik ikilemleri ve çıkmazları çözümlemek için",
+          "images": [],
+          "text_ar": "لتحليل المعضلات والمآزق الأخلاقية التي تواجه مجال نمو الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnızca uluslararası standartları karşılamak için",
+          "images": [],
+          "text_ar": "لتحقيق المعايير الدولية فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların sosyal becerilerini geliştirmek için",
+          "images": [],
+          "text_ar": "لتنمية المهارات الاجتماعية للأطفال"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "لماذا وُضعت معايير السلوك الأخلاقي في نمو الطفل؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aile Merkezli Bütüncül izlem modeli uygulanan Sağlık Bakanlığına bağlı çocuk gelişimcilerin çalışma alanı aşağıdaki seçeneklerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk İzlem Merkezi",
+          "images": [],
+          "text_ar": "مركز متابعة الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Ana Çocuk Sağlığı Merkezi",
+          "images": [],
+          "text_ar": "مركز صحة الأم والطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimsel Pediatri Birimi",
+          "images": [],
+          "text_ar": "وحدة طب الأطفال النمائي"
+        },
+        {
+          "letter": "D",
+          "text": "Oyun Odaları",
+          "images": [],
+          "text_ar": "غرف اللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuk gelişimi Birimi",
+          "images": [],
+          "text_ar": "وحدة نمو الطفل"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من الخيارات التالية هو مجال عمل أخصائيي نمو الطفل التابعين لوزارة الصحة الذين يُطبَّق في عملهم نموذج المتابعة الشمولية المتمركزة حول الأسرة؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "487fc63e34336080317814f8e6ac4d121f7f64187beba6a13f3874b754a7fa99"
+}

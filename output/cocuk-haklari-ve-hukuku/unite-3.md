@@ -3,7 +3,7 @@ course: ÇOCUK HAKLARI VE HUKUKU
 exam: Ünite 3
 source_url: https://lolonolo.com/2020/11/10/cocuk-haklari-ve-hukuku-unite-3/
 question_count: 10
-scraped_at: 2026-11-12T15:00:55+03:00
+scraped_at: 2026-11-12T16:23:50+03:00
 ---
 
 ### Q1

@@ -3,7 +3,7 @@ course: ÇOCUK GELİŞİMİ UYGULAMALARI I
 exam: Ünite-1
 source_url: https://lolonolo.com/2021/10/14/cocuk-gelisimi-uygulamalari-i-unite-1/
 question_count: 15
-scraped_at: 2026-11-12T15:00:50+03:00
+scraped_at: 2026-11-12T16:23:44+03:00
 ---
 
 ### Q1

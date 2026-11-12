@@ -1,0 +1,748 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Ünite-7",
+  "exam_slug": "unite-7",
+  "page_title": "Çocuk Gelişimi Uygulamaları I Ünite-7",
+  "source_url": "https://lolonolo.com/2021/12/10/cocuk-gelisimi-uygulamalari-i-unite-7/",
+  "scraped_at": "2026-11-12T16:23:44+03:00",
+  "answer_source": "markup",
+  "question_count": 18,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Özgül dil bozukluğunun okul çağındaki çocuklarda yaygınlığı ne kadardır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "%1-2",
+          "images": [],
+          "text_ar": "بين 1 و2%"
+        },
+        {
+          "letter": "B",
+          "text": "%3-7",
+          "images": [],
+          "text_ar": "بين 3 و7%"
+        },
+        {
+          "letter": "C",
+          "text": "%10",
+          "images": [],
+          "text_ar": "نحو 10%"
+        },
+        {
+          "letter": "D",
+          "text": "%15",
+          "images": [],
+          "text_ar": "نحو 15%"
+        },
+        {
+          "letter": "E",
+          "text": "%20",
+          "images": [],
+          "text_ar": "نحو 20%"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما معدل انتشار اضطراب اللغة النوعي لدى الأطفال في سن المدرسة؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "I. Çocuklar yaklaşık 10-50 sözcük dağarcığına ulaşırlar.  II. Bu dönemde jargon sözcükler yoğundur ve dönem dönem ekolali dikkati çeker. III. Ses tonu, duraklama ve sözcük düzeni yetişkininkine benzer hâle gelmeye başlar. Yukarıda verilenlere göre hangileri Tek sözcük döneminde ortaya çıkar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. يصل الأطفال إلى حصيلة لغوية تتراوح بين 10 و50 كلمة. II. تكثر في هذه المرحلة كلمات الثرثرة ويلفت الانتباه أحيانًا الإيكولاليا. III. يبدأ نبر الصوت والوقفات وترتيب الكلمات في الاقتراب من نبر البالغين. وفقًا لما ورد أعلاه، أي من هذه العبارات يظهر في مرحلة الكلمة الواحدة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "I. Sesletim bozukluğu 17 yaş ergenlerde ise %0,5 olduğu bildirilmektedir. II. Sesletim bozukluğu yaygınlığı, okul öncesi dönem için yaklaşık %10 olduğu bildirilmektedir.   III. Sesletim bozukluğu erkeklerde kızlara oranla daha sık görülmektedir. YUkarıda verilen bilgilerden hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. يُذكر أن اضطراب النطق يبلغ 0.5% لدى المراهقين في سن 17 سنة. II. يُذكر أن معدل انتشار اضطراب النطق يبلغ نحو 10% في مرحلة ما قبل المدرسة. III. يظهر اضطراب النطق لدى الذكور أكثر من الإناث. أي من المعلومات المذكورة أعلاه صحيح؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Sesletim bozukluğu (konuşma sesi bozukluğu) özellikle hangi çağdaki çocuklarda sık rastlanan bir bozukluktur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bebeklik dönemi",
+          "images": [],
+          "text_ar": "مرحلة الرضاعة"
+        },
+        {
+          "letter": "B",
+          "text": "Orta ergenlik dönemi",
+          "images": [],
+          "text_ar": "مرحلة المراهقة الوسطى"
+        },
+        {
+          "letter": "C",
+          "text": "Geç ergenlik dönemi",
+          "images": [],
+          "text_ar": "مرحلة المراهقة المتأخرة"
+        },
+        {
+          "letter": "D",
+          "text": "Yeni doğan dönemi",
+          "images": [],
+          "text_ar": "مرحلة حديثي الولادة"
+        },
+        {
+          "letter": "E",
+          "text": "Erken çocukluk ve ilköğretim dönemi",
+          "images": [],
+          "text_ar": "مرحلة الطفولة المبكرة والتعليم الابتدائي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في أي عمر يكثر ظهور اضطراب النطق (اضطراب صوت الكلام) لدى الأطفال؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "I- Konuşma bozukluklarının çoğu kalıcıdır. II-Konuşma bozukluğu olan çocukların çoğu bu zorluklarının farkındadırlar. III-Konuşma bozuklukları herhangi bir tedavi-müdahale olmadan düzelmezler. IV-Kekemeliği olan çocuklara konuşurken takıldıkları zaman mutlaka yardım edilmelidir. V-Özgül dil bozukluğu veya sesletim bozukluğu olan çocuklarda işitme testi yapılması gerekebilir. Konuşma bozukluğu olan çocuklar ve bu çocuklara yönelik yaklaşım açısından yukarıdakilerden hangileri doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I,II,III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        },
+        {
+          "letter": "B",
+          "text": "II,III,IV",
+          "images": [],
+          "text_ar": "II وIII وIV"
+        },
+        {
+          "letter": "C",
+          "text": "III, IV, V",
+          "images": [],
+          "text_ar": "III وIV وV"
+        },
+        {
+          "letter": "D",
+          "text": "I,III,IV",
+          "images": [],
+          "text_ar": "I وIII وIV"
+        },
+        {
+          "letter": "E",
+          "text": "II,III,V",
+          "images": [],
+          "text_ar": "II وIII وV"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "I. معظم اضطرابات الكلام دائمة. II. معظم الأطفال الذين لديهم اضطراب في الكلام يدركون هذه الصعوبات. III. اضطرابات الكلام لا تتحسن دون أي علاج أو تدخل. IV. يجب بالضرورة مساعدة الأطفال الذين يعانون التأتأة عندما يتعثرون أثناء الكلام. V. قد يلزم إجراء اختبار سمع للأطفال الذين لديهم اضطراب اللغة النوعي أو اضطراب النطق. من حيث الأطفال ذوو اضطراب الكلام والنهج المتبع معهم، أي مما ورد أعلاه غير صحيح؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Kekemelik genellikle kaç yaşlarda belirginleşmeye başlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "9-10 yaş",
+          "images": [],
+          "text_ar": "9-10 سنوات"
+        },
+        {
+          "letter": "B",
+          "text": "3-4 yaş",
+          "images": [],
+          "text_ar": "3-4 سنوات"
+        },
+        {
+          "letter": "C",
+          "text": "1-2 yaş",
+          "images": [],
+          "text_ar": "1-2 سنة"
+        },
+        {
+          "letter": "D",
+          "text": "2-3 yaş",
+          "images": [],
+          "text_ar": "2-3 سنوات"
+        },
+        {
+          "letter": "E",
+          "text": "5-6 yaş",
+          "images": [],
+          "text_ar": "5-6 سنوات"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في أي عمر تبدأ التأتأة عادةً في الظهور؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların sesleri atlama, değiştirme ya da düzensiz söylemeleri nedeniyle konuşma seslerini düzgün şekilde üretemedikleri konuşma bozukluğu hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özgül dil bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب اللغة النوعي"
+        },
+        {
+          "letter": "B",
+          "text": "Sesletim bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب النطق"
+        },
+        {
+          "letter": "C",
+          "text": "Kekemelik",
+          "images": [],
+          "text_ar": "التأتأة"
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal (pragmatik) iletişim bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التواصل الاجتماعي (البراغماتي)"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما اضطراب الكلام الذي لا يستطيع فيه الأطفال إنتاج أصوات الكلام إنتاجًا سليمًا بسبب حذف الأصوات أو إبدالها أو النطق بها نطقًا غير منتظم؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların gelişim öyküsünü sorgularken dil ediniminin dönüm noktalarının değerlendirilmesi, tanıda büyük önem taşımaktadır. Yukarıda verilen bilgiye göre aşağıdakilerden hangisi bu dönüm noktalarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6. aya kadar basit yönergeleri anlamayan bebekler",
+          "images": [],
+          "text_ar": "الرضع الذين لا يفهمون التوجيهات البسيطة حتى الشهر السادس"
+        },
+        {
+          "letter": "B",
+          "text": "4-5 yaşlarında basit öykü anlatmakta zorlanan çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الذين يجدون صعوبة في سرد قصة بسيطة في سن 4-5 سنوات"
+        },
+        {
+          "letter": "C",
+          "text": "12-15. aylara kadar babıldaması olmayan bebekler",
+          "images": [],
+          "text_ar": "الرضع الذين لا تكون لديهم مناغاة حتى الشهر 12-15"
+        },
+        {
+          "letter": "D",
+          "text": "24. aya kadar konuşmamış çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الذين لم يتكلموا حتى الشهر 24"
+        },
+        {
+          "letter": "E",
+          "text": "3 yaşına kadar cümle kuramamış çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الذين لم يكونوا جملة حتى سن الثالثة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "عند استقصاء تاريخ نمو الأطفال، يحظى تقييم المراحل المفصلية لاكتساب اللغة بأهمية كبيرة في التشخيص. وفقًا للمعلومات المذكورة أعلاه، أي مما يلي ليس من هذه المراحل المفصلية؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Alıcı dili değerlendirmeye yönelik bazı testler kullanılır. Aşağıdakilerden hangisi bunlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Peabody Resim Kelime Testi (PRKET)",
+          "images": [],
+          "text_ar": "اختبار بيبودي للصور والمفردات (PRKET)"
+        },
+        {
+          "letter": "B",
+          "text": "Türkçe İfade Edici ve Alıcı Dil Testi (TİFALDİ)",
+          "images": [],
+          "text_ar": "اختبار اللغة التعبيرية والاستقبالية التركي (TİFALDİ)"
+        },
+        {
+          "letter": "C",
+          "text": "Türkçe Erken Dil Gelişim Testi (TEDİL)",
+          "images": [],
+          "text_ar": "اختبار تطور اللغة المبكر التركي (TEDİL)"
+        },
+        {
+          "letter": "D",
+          "text": "Porteus Labirent Testi",
+          "images": [],
+          "text_ar": "اختبار بورتيوس للمتاهات"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "تُستخدم بعض الاختبارات لتقييم اللغة الاستقبالية. أي مما يلي ليس من هذه الاختبارات؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki bozukluklardan hangisi konuşma sorunu ya da gecikmesinin nedenlerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zihinsel yetersizlik",
+          "images": [],
+          "text_ar": "القصور العقلي"
+        },
+        {
+          "letter": "B",
+          "text": "İşitme kaybı",
+          "images": [],
+          "text_ar": "فقدان السمع"
+        },
+        {
+          "letter": "C",
+          "text": "Bilingualizm",
+          "images": [],
+          "text_ar": "ثنائية اللغة"
+        },
+        {
+          "letter": "D",
+          "text": "Otizm spektrum bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب طيف التوحد"
+        },
+        {
+          "letter": "E",
+          "text": "Dikkat eksikliği hiperaktivite bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب نقص الانتباه وفرط النشاط"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من الاضطرابات التالية ليس من أسباب مشكلات الكلام أو تأخره؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Konuşma akıcılığı bozukluğu (kekemelik) ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kız çocuklarında erkeklere göre daha sık görülmektedir.",
+          "images": [],
+          "text_ar": "يظهر لدى البنات أكثر من الأولاد."
+        },
+        {
+          "letter": "B",
+          "text": "Kekemeliğin spontan iyileşme oranı %80’dir.",
+          "images": [],
+          "text_ar": "تبلغ نسبة التحسن التلقائي في التأتأة 80%."
+        },
+        {
+          "letter": "C",
+          "text": "Ailesel geçiş yüksek orandadır.",
+          "images": [],
+          "text_ar": "نسبة الانتقال الوراثي في الأسرة مرتفعة."
+        },
+        {
+          "letter": "D",
+          "text": "Genellikle 10 yaşından önce başlar.",
+          "images": [],
+          "text_ar": "يبدأ عادةً قبل سن 10 سنوات."
+        },
+        {
+          "letter": "E",
+          "text": "Çocukluk çağında görülme sıklığı yaklaşık %3’tür.",
+          "images": [],
+          "text_ar": "تبلغ نسبة انتشاره في مرحلة الطفولة نحو 3%."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي غير صحيح بشأن اضطراب طلاقة الكلام (التأتأة)؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "En sık karşılaşılan iletişim (dil-konuşma) bozukluğu hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özgül dil bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب اللغة النوعي"
+        },
+        {
+          "letter": "B",
+          "text": "Sesletim bozukluğu (konuşma sesi bozukluğu)",
+          "images": [],
+          "text_ar": "اضطراب النطق (اضطراب صوت الكلام)"
+        },
+        {
+          "letter": "C",
+          "text": "Tanımlanmamış iletişim bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التواصل غير المحدد"
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal (pragmatik) iletişim bozukluğu",
+          "images": [],
+          "text_ar": "اضطراب التواصل الاجتماعي (البراغماتي)"
+        },
+        {
+          "letter": "E",
+          "text": "Konuşma akıcılık bozukluğu (kekemelik)",
+          "images": [],
+          "text_ar": "اضطراب طلاقة الكلام (التأتأة)"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما أكثر اضطرابات التواصل (اللغة والكلام) شيوعًا؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "11-14 aylar arasında çocuklar cümle seslerine benzeyen bir dizi ses üretiminde bulunurlar. Bu anlaşılmaz  mırıltılar konuşmanın hangi döneminde görülmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gıgıldama",
+          "images": [],
+          "text_ar": "المناغاة"
+        },
+        {
+          "letter": "B",
+          "text": "Mırıldanma",
+          "images": [],
+          "text_ar": "الدمدمة"
+        },
+        {
+          "letter": "C",
+          "text": "Jargon",
+          "images": [],
+          "text_ar": "الثرثرة"
+        },
+        {
+          "letter": "D",
+          "text": "Tek sözcük",
+          "images": [],
+          "text_ar": "الكلمة الواحدة"
+        },
+        {
+          "letter": "E",
+          "text": "Yenidoğan",
+          "images": [],
+          "text_ar": "حديثي الولادة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "بين الشهر 11 و14 يُصدر الأطفال سلسلة من الأصوات تشبه أصوات الجمل. في أي مرحلة من مراحل الكلام تظهر هذه الأصوات الغامضة غير المفهومة؟",
+      "review": [
+        "q13.C: jargon has no settled Arabic term; rendered as الثرثرة"
+      ]
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Dil ve konuşma bozuklukları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gecikmiş konuşması olan çocukların kısıtlı sözcük dağarcıkları vardır.",
+          "images": [],
+          "text_ar": "الأطفال الذين لديهم تأخر في الكلام تكون حصيلتهم اللغوية محدودة."
+        },
+        {
+          "letter": "B",
+          "text": "Kekemeliği olan çocukların tutumlarında korku önemli rol oynamaz.",
+          "images": [],
+          "text_ar": "لا يؤدي الخوف دورًا مهمًا في اتجاهات الأطفال الذين يعانون التأتأة."
+        },
+        {
+          "letter": "C",
+          "text": "2-5 yaş arasındaki geçici kekemelik döneminde çocuk hemen kekeme olarak etiketlenmemelidir.",
+          "images": [],
+          "text_ar": "لا ينبغي في مرحلة التأتأة المؤقتة بين سن 2 و5 سنوات أن يُوصم الطفل فورًا بأنه متأتئ."
+        },
+        {
+          "letter": "D",
+          "text": "Sesletim bozukluğu uygun eğitim ortamı sağlandığı zaman düzeltilebilecek bir problemdir.",
+          "images": [],
+          "text_ar": "اضطراب النطق مشكلة يمكن تصحيحها عند توفير بيئة تعليمية مناسبة."
+        },
+        {
+          "letter": "E",
+          "text": "Konuşma organlarındaki bir takım yapısal bozukluklar artikülasyon bozukluğuna neden olabilir.",
+          "images": [],
+          "text_ar": "قد تؤدي بعض الاضطرابات البنيوية في أعضاء الكلام إلى اضطراب في التلفظ."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح بشأن اضطرابات اللغة والكلام؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Konuşma gecikmesi olan çocuklarda ayrıcı tanı için gelişim testleri ve bilişsel testler uygulanmalıdır. Aşağıdakilerden  hangisi bunlardan biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Denver Gelişimsel Tarama Testi",
+          "images": [],
+          "text_ar": "اختبار دنفر للمسح النمائي"
+        },
+        {
+          "letter": "B",
+          "text": "Goodenough-Harris İnsan Resmi Çizme Testi",
+          "images": [],
+          "text_ar": "اختبار جودإنوف-هاريس لرسم صورة الإنسان"
+        },
+        {
+          "letter": "C",
+          "text": "Ankara Gelişim Tarama Envanteri",
+          "images": [],
+          "text_ar": "قائمة أنقرة للمسح النمائي (AGTE)"
+        },
+        {
+          "letter": "D",
+          "text": "Frostig Gelişimsel - Görsel Algı Testi",
+          "images": [],
+          "text_ar": "اختبار فروستيغ النمائي للإدراك البصري"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "يجب في الأطفال الذين لديهم تأخر في الكلام تطبيق اختبارات نمائية واختبارات معرفية من أجل التشخيص التفريقي. أي مما يلي ليس من هذه الاختبارات؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dil gelişimini olumlu etkileyen çevresel etmenlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Annenin kısa ve az sözcüklü cümleler kurması",
+          "images": [],
+          "text_ar": "أن تُكوّن الأم جملًا قصيرة قليلة الكلمات"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğa öyküler okunması ve tartışılması",
+          "images": [],
+          "text_ar": "قراءة القصص للطفل ومناقشتها"
+        },
+        {
+          "letter": "C",
+          "text": "Yüksek sosyoekonomik düzey",
+          "images": [],
+          "text_ar": "ارتفاع المستوى الاجتماعي-الاقتصادي"
+        },
+        {
+          "letter": "D",
+          "text": "İlk çocuk olma",
+          "images": [],
+          "text_ar": "أن يكون الطفل هو الأول"
+        },
+        {
+          "letter": "E",
+          "text": "Yemek sofrası konuşmalarının doyurucu olması",
+          "images": [],
+          "text_ar": "أن تكون الأحاديث على مائدة الطعام مُثرية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ليس من العوامل البيئية التي تؤثر إيجابًا في تطور اللغة؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dil ve konuşma bozukluğuna karşı alınabilecek önlemlerden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konuşma gelişimi dönemlerinde uygun ortamlar hazırlanmalı",
+          "images": [],
+          "text_ar": "إعداد بيئات مناسبة في مراحل تطور الكلام"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk konuşurken nasıl konuştuğuna yoğunlaşmalı",
+          "images": [],
+          "text_ar": "أن يُركّز على كيفية تحدث الطفل أثناء كلامه"
+        },
+        {
+          "letter": "C",
+          "text": "Aile içi problemler gerekirse uzman yardımı alınarak çözülmeli",
+          "images": [],
+          "text_ar": "حل المشكلات داخل الأسرة بالاستعانة بمساعدة مختص عند الحاجة"
+        },
+        {
+          "letter": "D",
+          "text": "Yetişkinler iyi model olmalı",
+          "images": [],
+          "text_ar": "أن يكون البالغون قدوة حسنة"
+        },
+        {
+          "letter": "E",
+          "text": "Yeterli ve dengeli beslenilmeli",
+          "images": [],
+          "text_ar": "التغذية الكافية والمتوازنة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من التدابير التي يمكن اتخاذها في مواجهة اضطرابات اللغة والكلام؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Bir çocuğun konuşma engelli olarak kabul edilebilmesi için konuşmanın bazı özelliklerinde sorun yaşaması gerekir.  Aşağıdakilerden hangisi bu sorunlardan değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Konuşma akışının bozuk olması",
+          "images": [],
+          "text_ar": "اضطراب انسياب الكلام"
+        },
+        {
+          "letter": "B",
+          "text": "Konuşma seslerinin tam olarak çıkmaması, anlaşılmaması",
+          "images": [],
+          "text_ar": "عدم إخراج أصوات الكلام إخراجًا تامًا وعدم فهمها"
+        },
+        {
+          "letter": "C",
+          "text": "Sesin çıkarılışının, ritminin ve vurgularının bozuk olması",
+          "images": [],
+          "text_ar": "اضطراب في إخراج الصوت وإيقاعه ونبره"
+        },
+        {
+          "letter": "D",
+          "text": "Sergilenen konuşmanın bireyin yaşına ve fiziksel yapısına uygunsuzluğu",
+          "images": [],
+          "text_ar": "عدم ملاءمة الكلام المعروض لعمر الفرد وبنيته الجسدية"
+        },
+        {
+          "letter": "E",
+          "text": "Yüksek sesle konuşması",
+          "images": [],
+          "text_ar": "التحدث بصوت مرتفع"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "لكي يُقبل الطفل بوصفه ذا إعاقة في الكلام، يجب أن يعاني مشكلة في بعض خصائص الكلام. أي مما يلي ليس من هذه المشكلات؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "6c197c4a850be2108438bbddf87f544b8d624716761266bf5a38494a6f65a137"
+}

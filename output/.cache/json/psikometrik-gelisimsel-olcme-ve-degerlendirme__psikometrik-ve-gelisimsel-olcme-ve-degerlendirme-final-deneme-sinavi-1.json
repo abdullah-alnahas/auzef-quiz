@@ -1,0 +1,859 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -1",
+  "exam_slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-1",
+  "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -1",
+  "source_url": "https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-1/",
+  "scraped_at": "2026-11-12T16:24:02+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme işlemi öncesinde hangisi yapılmamalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun kullandığı ilaçların öğrenilmesi",
+          "images": [],
+          "text_ar": "معرفة الأدوية التي يتناولها الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun herhangi bir sağlık sorunu varsa öğrenilmesi",
+          "images": [],
+          "text_ar": "معرفة ما إذا كانت لدى الطفل أي مشكلة صحية"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa yapılacak işlem hakkında bilgi verilmesi",
+          "images": [],
+          "text_ar": "إخبار الطفل عن الإجراء الذي سيُجرى له"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukla uzun süre oyun oynanması",
+          "images": [],
+          "text_ar": "اللعب مع الطفل مدة طويلة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun velisine bilgi verilmesi",
+          "images": [],
+          "text_ar": "إبلاغ ولي أمر الطفل"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي لا ينبغي القيام به قبل عملية القياس؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Türkiye’de geliştirilmiş bir zeka testidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Porteus Labirentleri Testi",
+          "images": [],
+          "text_ar": "اختبار متاهات بورتيوس"
+        },
+        {
+          "letter": "B",
+          "text": "Anadolu Sak Zeka Testi",
+          "images": [],
+          "text_ar": "اختبار أنادولو ساك للذكاء"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel Değerlendirme Sistemi",
+          "images": [],
+          "text_ar": "نظام التقييم المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Goodenough Harris İnsan Resmi Çizme Testi",
+          "images": [],
+          "text_ar": "اختبار غودإنوف-هاريس لرسم الإنسان"
+        },
+        {
+          "letter": "E",
+          "text": "Stanford Binet Testi",
+          "images": [],
+          "text_ar": "اختبار ستانفورد-بينيه"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي اختبار ذكاء طُوِّر في تركيا؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukların ölçme ve değerlendirmesinde erişkinlerden farklı olarak dikkate alınmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçüm aracının geçerli olması",
+          "images": [],
+          "text_ar": "أن تكون أداة القياس صادقة"
+        },
+        {
+          "letter": "B",
+          "text": "Ölçüm yapılacak odanın sessiz olması",
+          "images": [],
+          "text_ar": "أن تكون الغرفة التي يُجرى فيها القياس هادئة"
+        },
+        {
+          "letter": "C",
+          "text": "Ölçüm aracının güvenilir olması",
+          "images": [],
+          "text_ar": "أن تكون أداة القياس ثابتة"
+        },
+        {
+          "letter": "D",
+          "text": "Etiketleyici bir dil kullanılmaması",
+          "images": [],
+          "text_ar": "عدم استخدام لغة موسومة"
+        },
+        {
+          "letter": "E",
+          "text": "Oyun ve hikaye gibi yöntemler kullanılması",
+          "images": [],
+          "text_ar": "استخدام أساليب مثل اللعب والقصة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ينبغي مراعاته في قياس الأطفال وتقييمهم على نحو يختلف عن الراشدين؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Erikson’un psikososyal gelişim kuramına göre bebeklik döneminin temel kazanımı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çaba",
+          "images": [],
+          "text_ar": "السعي"
+        },
+        {
+          "letter": "B",
+          "text": "Vefa",
+          "images": [],
+          "text_ar": "الوفاء"
+        },
+        {
+          "letter": "C",
+          "text": "Üretkenlik",
+          "images": [],
+          "text_ar": "الإنتاجية"
+        },
+        {
+          "letter": "D",
+          "text": "Temel güven",
+          "images": [],
+          "text_ar": "الثقة الأساسية"
+        },
+        {
+          "letter": "E",
+          "text": "Bağıl düşünme",
+          "images": [],
+          "text_ar": "التفكير النسبي"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "وفق نظرية إريكسون للنمو النفسي-الاجتماعي، ما المكسب الأساسي لمرحلة الرضاعة؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi zeka testinin yorumlanması için doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Normal IQ aralığı 90-109’dur.",
+          "images": [],
+          "text_ar": "نطاق IQ الطبيعي هو 90-109."
+        },
+        {
+          "letter": "B",
+          "text": "Test çocukla ilgili başka bilgi olmadan yorumlanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي تفسير الاختبار دون أي معلومات أخرى عن الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Test sonucu yorumlanırken testin ölçtüğü beceriler ayrı ayrı değerlendirilmelidir.",
+          "images": [],
+          "text_ar": "عند تفسير نتيجة الاختبار ينبغي تقييم المهارات التي يقيسها الاختبار كلًّا على حدة."
+        },
+        {
+          "letter": "D",
+          "text": "Zeka testi sonucu elde edilen IQ puanı yorumlanmadan önce bakılacak yer test davranışıdır.",
+          "images": [],
+          "text_ar": "قبل تفسير درجة IQ التي تُحصَّل من نتيجة اختبار الذكاء ينبغي النظر إلى سلوك الطفل أثناء الاختبار."
+        },
+        {
+          "letter": "E",
+          "text": "Zeka testi sonucu test öncesinde edinilen bilgilerle anlamlı bir bütün oluşturmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي أن تشكّل نتيجة اختبار الذكاء مع المعلومات المكتسبة قبل الاختبار كلًّا متكاملًا ذا معنى."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي غير صحيح بشأن تفسير اختبار الذكاء؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ölçeklerden hangisi otizm spektrum bozukluklarının değerlendirmesinde kullanılan bir ölçek değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gilliam Otıstık Bozukluk Derecelendirme Ölçeği",
+          "images": [],
+          "text_ar": "مقياس جيليام لتقدير اضطراب التوحد"
+        },
+        {
+          "letter": "B",
+          "text": "Otizm Davranış Kontrol Listesi",
+          "images": [],
+          "text_ar": "قائمة تدقيق سلوك التوحد"
+        },
+        {
+          "letter": "C",
+          "text": "Çocukluk Çağı Otizm Derecelendirme Ölçeği",
+          "images": [],
+          "text_ar": "مقياس تقدير التوحد في مرحلة الطفولة"
+        },
+        {
+          "letter": "D",
+          "text": "Değiştirilmiş Erken Çocukluk Dönemi Otizm Tarama Ölçeği",
+          "images": [],
+          "text_ar": "مقياس المسح المعدَّل للتوحد في مرحلة الطفولة المبكرة"
+        },
+        {
+          "letter": "E",
+          "text": "Weiss İşlevsellikte Bozulma Ölçeği",
+          "images": [],
+          "text_ar": "مقياس فايس للخلل الوظيفي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من المقاييس التالية ليس مقياسًا يُستخدم في تقييم اضطرابات طيف التوحد؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların psikolojik değerlendirmesi ile ilgili ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Etiketleyici bir dil kullanılmamalıdır.",
+          "images": [],
+          "text_ar": "ينبغي عدم استخدام لغة موسومة."
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirmede çocuğun eksiklerine odaklanılması gerekir.",
+          "images": [],
+          "text_ar": "ينبغي التركيز في التقييم على جوانب نقص الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların dikkati erişkinlere göre daha kolay dağılır.",
+          "images": [],
+          "text_ar": "ينتشر انتباه الأطفال بسهولة أكبر مما يحدث لدى الراشدين."
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirmede esnek davranmak önemlidir.",
+          "images": [],
+          "text_ar": "من المهم التصرف بمرونة في التقييم."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun velisiyle iyi bir ilişki ve iletişim kurmak çok önemlidir.",
+          "images": [],
+          "text_ar": "من المهم جدًا إقامة علاقة وتواصل جيدين مع ولي أمر الطفل."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من العبارات المتعلقة بالتقييم النفسي للأطفال غير صحيحة؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun test performansını en uygun hale getirmek için hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Test sonrası sonuç hakkında bilgi verilir",
+          "images": [],
+          "text_ar": "تُقدَّم معلومات عن النتيجة بعد الاختبار"
+        },
+        {
+          "letter": "B",
+          "text": "Isınma faaliyeti kullanılır",
+          "images": [],
+          "text_ar": "يُستخدم نشاط تهيئة"
+        },
+        {
+          "letter": "C",
+          "text": "Odanın düzeni çocuğa uygun hale getirilir",
+          "images": [],
+          "text_ar": "يُجعل ترتيب الغرفة مناسبًا للطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Teste yumuşak geçiş yapılır",
+          "images": [],
+          "text_ar": "يُنتقل إلى الاختبار انتقالًا لطيفًا"
+        },
+        {
+          "letter": "E",
+          "text": "Gerekirse prosedürde değişiklik yapılır.",
+          "images": [],
+          "text_ar": "يُجرى تغيير في الإجراء عند الحاجة."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا يُفعل لجعل أداء الطفل في الاختبار في أفضل حالاته؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun motor gelişimi için hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Büyük kas gruplarının kullanımını gerektiren becerilere ince motor beceriler denir.",
+          "images": [],
+          "text_ar": "تسمى المهارات التي تتطلب استخدام مجموعات العضلات الكبيرة المهاراتِ الحركية الدقيقة."
+        },
+        {
+          "letter": "B",
+          "text": "Motor gelişim, diğer gelişim alanlarından izole olarak değerlendirilebilir.",
+          "images": [],
+          "text_ar": "يمكن تقييم النمو الحركي بمعزل عن مجالات النمو الأخرى."
+        },
+        {
+          "letter": "C",
+          "text": "Motor gelişim, baştan ayağa doğru ilerler.",
+          "images": [],
+          "text_ar": "يسير النمو الحركي من الرأس إلى القدمين."
+        },
+        {
+          "letter": "D",
+          "text": "Motor gelişimde ilk dönem ilkel hareket dönemidir.",
+          "images": [],
+          "text_ar": "أول مرحلة في النمو الحركي هي مرحلة الحركات البدائية."
+        },
+        {
+          "letter": "E",
+          "text": "0-1 yaş arası dönem temel hareket dönemidir.",
+          "images": [],
+          "text_ar": "المرحلة بين 0-1 سنة هي مرحلة الحركات الأساسية."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي صحيح بشأن النمو الحركي للطفل؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ruh sağlığı alanında ölçek kullanımının faydaları arasındadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçekler, her zaman güvenilir bilgiler verir.",
+          "images": [],
+          "text_ar": "تقدم المقاييس دائمًا معلومات موثوقة."
+        },
+        {
+          "letter": "B",
+          "text": "Klinik değerlendirmenin alternatifi olduğu için daha çok kişiye hizmet verilmesini sağlar.",
+          "images": [],
+          "text_ar": "لأنها بديل عن التقييم الإكلينيكي فهي تتيح تقديم الخدمة لعدد أكبر من الأشخاص."
+        },
+        {
+          "letter": "C",
+          "text": "Ölçekler, soyut psikolojik sorunların sayısallaştırılmasını sağlar.",
+          "images": [],
+          "text_ar": "تتيح المقاييس تحويل المشكلات النفسية المجردة إلى قيم عددية."
+        },
+        {
+          "letter": "D",
+          "text": "Ölçekler, çocuğun okumayı bilip bilmediğinin öğrenilmesini sağlar.",
+          "images": [],
+          "text_ar": "تتيح المقاييس معرفة ما إذا كان الطفل يعرف القراءة."
+        },
+        {
+          "letter": "E",
+          "text": "Ebeveynlere ölçek doldurtularak anlama becerileri değerlendirilir.",
+          "images": [],
+          "text_ar": "يُطلب من الوالدين ملء المقياس لتقييم مهارات الفهم لديهما."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من فوائد استخدام المقاييس في مجال الصحة النفسية؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Wechsler Çocuklar için Zeka Ölçeği-R’ın alt testlerinden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sözcük bulma",
+          "images": [],
+          "text_ar": "إيجاد المفردات"
+        },
+        {
+          "letter": "B",
+          "text": "Küplerle desen",
+          "images": [],
+          "text_ar": "تصميم المكعبات"
+        },
+        {
+          "letter": "C",
+          "text": "Şifre",
+          "images": [],
+          "text_ar": "الشفرة"
+        },
+        {
+          "letter": "D",
+          "text": "Labirentler",
+          "images": [],
+          "text_ar": "المتاهات"
+        },
+        {
+          "letter": "E",
+          "text": "İnsan çizme",
+          "images": [],
+          "text_ar": "رسم الإنسان"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من الاختبارات الفرعية لمقياس وكسلر للذكاء للأطفال-R؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi beyin gelişiminin altında yatan süreçlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nöronların işlev göreceği yere göç etmesi",
+          "images": [],
+          "text_ar": "هجرة الخلايا العصبية إلى الموضع الذي ستؤدي فيه وظيفتها"
+        },
+        {
+          "letter": "B",
+          "text": "Nöronların miyelin kılıfla kaplanması",
+          "images": [],
+          "text_ar": "تغليف الخلايا العصبية بالغمد المياليني"
+        },
+        {
+          "letter": "C",
+          "text": "Sinaps oluşumu",
+          "images": [],
+          "text_ar": "تكوّن المشابك"
+        },
+        {
+          "letter": "D",
+          "text": "Sinapsların budanması",
+          "images": [],
+          "text_ar": "تشذيب المشابك"
+        },
+        {
+          "letter": "E",
+          "text": "Senkronizasyon",
+          "images": [],
+          "text_ar": "التزامن"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من العمليات الكامنة وراء نمو الدماغ؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun dikkat süresinin kısa olması değerlendirmede hangi değişikliğe neden olmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Performansının yakından takip edilmesini gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم متابعة أدائه عن كثب."
+        },
+        {
+          "letter": "B",
+          "text": "Ölçme işlemini çocuğun keyif alacağı bir formatta sunmayı gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم تقديم عملية القياس في صيغة يستمتع بها الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "İşlem süresi uzarsa mola verilmesi gibi esneklikleri gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم مرونات مثل منح فترات راحة إذا طالت مدة الإجراء."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğa saygılı davranılmasını gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم التعامل مع الطفل باحترام."
+        },
+        {
+          "letter": "E",
+          "text": "Odada çocuğun dikkatini dağıtacak nesnelerin bulunmamasını gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم ألّا توجد في الغرفة أشياء تشتت انتباه الطفل."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي تغيير مما يلي لا يقتضيه قِصَر مدة انتباه الطفل في التقييم؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Piaget’nin kuramındaki duysal motor dönemin özelliklerinden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bu dönemde çocuğun dil becerileri hızlı bir şekilde gelişir.",
+          "images": [],
+          "text_ar": "في هذه المرحلة تتطور مهارات اللغة لدى الطفل بسرعة."
+        },
+        {
+          "letter": "B",
+          "text": "Nesnelerin de insanlar gibi düşünüp hissedebildiklerine inanma bu dönemin özelliğidir.",
+          "images": [],
+          "text_ar": "الاعتقاد بأن الأشياء يمكن أن تفكر وتشعر مثل البشر من خصائص هذه المرحلة."
+        },
+        {
+          "letter": "C",
+          "text": "Bu dönemde soyut düşünce şekillenmeye başlamıştır.",
+          "images": [],
+          "text_ar": "في هذه المرحلة يبدأ التفكير المجرد في التشكل."
+        },
+        {
+          "letter": "D",
+          "text": "Bu dönemin sonuna doğru nesne sürekliliği oluşur.",
+          "images": [],
+          "text_ar": "قرب نهاية هذه المرحلة يتكوّن دوام الأشياء."
+        },
+        {
+          "letter": "E",
+          "text": "Bu dönemde çocuk kategoriye ayırma ve sınıflama konusunda çok başarılıdır.",
+          "images": [],
+          "text_ar": "في هذه المرحلة يكون الطفل ناجحًا جدًا في التصنيف والفرز إلى فئات."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي من خصائص المرحلة الحسية الحركية في نظرية بياجيه؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun sosyal gelişimi için aşağıdakilerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk doğduğu dönemde kucağa alınınca sakinleşir.",
+          "images": [],
+          "text_ar": "يهدأ الطفل في مرحلة الولادة عندما يُحمل على الذراعين."
+        },
+        {
+          "letter": "B",
+          "text": "3 aylıkken sosyal gülümseme görülür.",
+          "images": [],
+          "text_ar": "تظهر الابتسامة الاجتماعية في عمر 3 أشهر."
+        },
+        {
+          "letter": "C",
+          "text": "18 aylık çocuk misafirlere oyuncağını gösterebilir.",
+          "images": [],
+          "text_ar": "يمكن لطفل عمره 18 شهرًا أن يُظهر لعبته للضيوف."
+        },
+        {
+          "letter": "D",
+          "text": "4 yaş çocuğu tuvalete yardımsız gider.",
+          "images": [],
+          "text_ar": "يذهب طفل الرابعة إلى المرحاض دون مساعدة."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun sosyal gelişiminde çevresel faktörlerin etkisi çok sınırlıdır.",
+          "images": [],
+          "text_ar": "تأثير العوامل البيئية في النمو الاجتماعي للطفل محدود جدًا."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي غير صحيح بشأن النمو الاجتماعي للطفل؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi psikolojik problem tarama amacıyla kullanılan ölçekler hakkında doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sık kullanılan ölçekler değildir.",
+          "images": [],
+          "text_ar": "ليست مقاييس شائعة الاستخدام."
+        },
+        {
+          "letter": "B",
+          "text": "Spesifik problemleri tararlar.",
+          "images": [],
+          "text_ar": "تمسح مشكلات محددة."
+        },
+        {
+          "letter": "C",
+          "text": "Sadece araştırmalarda kullanılır.",
+          "images": [],
+          "text_ar": "تُستخدم في البحوث فقط."
+        },
+        {
+          "letter": "D",
+          "text": "Geniş kitlelerde psikolojik problemi olan kişilerin tahmin edilmesi için kullanılabilir.",
+          "images": [],
+          "text_ar": "يمكن استخدامها لتقدير عدد الأشخاص الذين لديهم مشكلات نفسية في الجماهير الواسعة."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklarda zeka değerlendirmesi için kullanılır.",
+          "images": [],
+          "text_ar": "تُستخدم لتقييم الذكاء لدى الأطفال."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من العبارات التالية صحيح بشأن المقاييس المستخدمة لمسح المشكلات النفسية؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Zeka testi konusunda hangi ifade doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zeka testlerini uygulamak için test kılavuzunun okunması yeterlidir.",
+          "images": [],
+          "text_ar": "تكفي قراءة دليل الاختبار لتطبيق اختبارات الذكاء."
+        },
+        {
+          "letter": "B",
+          "text": "Zeka testi uygulanırken çocuğun performansının ve tepkilerinin gözlenmesi ihmal edilebilir.",
+          "images": [],
+          "text_ar": "يمكن إهمال ملاحظة أداء الطفل واستجاباته أثناء تطبيق اختبار الذكاء."
+        },
+        {
+          "letter": "C",
+          "text": "Test sırasında yapılan gözlemler sır niteliği taşıdığı için test raporuna yazılmaz.",
+          "images": [],
+          "text_ar": "لا تُكتب الملاحظات التي تُجرى أثناء الاختبار في تقرير الاختبار لأنها سرية."
+        },
+        {
+          "letter": "D",
+          "text": "Test davranışı, çocuğun problemlerin daha iyi anlaşılması için ipucu sağlayabilir.",
+          "images": [],
+          "text_ar": "يمكن أن يوفر سلوك الطفل أثناء الاختبار مؤشرات تساعد على فهم مشكلاته على نحو أفضل."
+        },
+        {
+          "letter": "E",
+          "text": "IQ puanı kalıcı bir yeteneğin ve başarının göstergesidir.",
+          "images": [],
+          "text_ar": "درجة IQ مؤشر على قدرة دائمة وعلى النجاح."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي عبارة صحيحة بشأن اختبار الذكاء؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dikkat eksikliği hiperaktivite bozukluğu ( DEHB )’nun değerlendirilmesinde kullanılan ölçeklerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Weiss İşlevsellikte Bozulma Ölçeği",
+          "images": [],
+          "text_ar": "مقياس فايس للخلل الوظيفي"
+        },
+        {
+          "letter": "B",
+          "text": "Dikkat Eksikliği ve Yıkıcı Davranış Bozuklukları için DSM IV'e Dayalı Tarama ve Değerlendirme Ölçeği",
+          "images": [],
+          "text_ar": "مقياس المسح والتقييم المبني على DSM IV لنقص الانتباه واضطرابات السلوك التدميري"
+        },
+        {
+          "letter": "C",
+          "text": "Conners Anababa Değerlendirme Ölçekleri",
+          "images": [],
+          "text_ar": "مقاييس كونرز لتقييم الوالدين"
+        },
+        {
+          "letter": "D",
+          "text": "Conners Öğretmen Değerlendirme Ölçekleri",
+          "images": [],
+          "text_ar": "مقاييس كونرز لتقييم المعلم"
+        },
+        {
+          "letter": "E",
+          "text": "Durumluk ve Sürekli Kaygı Envanteri",
+          "images": [],
+          "text_ar": "قائمة القلق الحالي والمستمر"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من المقاييس المستخدمة في تقييم اضطراب نقص الانتباه وفرط النشاط (DEHB)؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi zeka testi kullanımı konusunda doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ebeveynlerin çocuğun kapasitesini merak etmesi üzerine zeka testi yapılabilir.",
+          "images": [],
+          "text_ar": "يمكن إجراء اختبار الذكاء بدافع فضول الوالدين لمعرفة قدرات طفلهما."
+        },
+        {
+          "letter": "B",
+          "text": "Zeka testi yapılması herkes tarafından istenebilir.",
+          "images": [],
+          "text_ar": "يمكن لأي شخص أن يطلب إجراء اختبار الذكاء."
+        },
+        {
+          "letter": "C",
+          "text": "Zeka testi sırasında çocuğun performansını olumsuz etkileyebilecek faktörler elden geldiğince azaltılmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي تقليل العوامل التي قد تؤثر سلبًا في أداء الطفل أثناء اختبار الذكاء قدر المستطاع."
+        },
+        {
+          "letter": "D",
+          "text": "Küçük çocukların dikkat süresi kısa olduğu için ön bilgi alınmaksızın test yapılmalıdır.",
+          "images": [],
+          "text_ar": "لأن مدة انتباه الأطفال الصغار قصيرة ينبغي إجراء الاختبار دون الحصول على معلومات مسبقة."
+        },
+        {
+          "letter": "E",
+          "text": "Küçük çocuklarda zeka testi sonuçları neredeyse hatasızdır.",
+          "images": [],
+          "text_ar": "نتائج اختبار الذكاء لدى الأطفال الصغار تكاد تكون خالية من الخطأ."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية صحيح بشأن استخدام اختبار الذكاء؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ölçeklerden hangisi hem çocuğun belli bir anda hem de genel olarak nasıl hissettiğini ölçmeyi amaçlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Porteus Labirentleri Testi",
+          "images": [],
+          "text_ar": "اختبار متاهات بورتيوس"
+        },
+        {
+          "letter": "B",
+          "text": "Durumluk ve Sürekli Kaygı Envanteri",
+          "images": [],
+          "text_ar": "قائمة القلق الحالي والمستمر"
+        },
+        {
+          "letter": "C",
+          "text": "Çocukluk Çağı Anksiyete Tarama Ölçeği",
+          "images": [],
+          "text_ar": "مقياس مسح القلق في مرحلة الطفولة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukluk Çağı Depresyon Ölçeği",
+          "images": [],
+          "text_ar": "مقياس الاكتئاب في مرحلة الطفولة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukluk Çağı Anksiyete ve Depresyon Ölçeği Yeniden Düzenlenmiş",
+          "images": [],
+          "text_ar": "مقياس القلق والاكتئاب في مرحلة الطفولة - النسخة المنقّحة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من المقاييس التالية يهدف إلى قياس شعور الطفل في لحظة معينة وشعوره بوجه عام؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "cfddc532722f200db81413c81b7ecff2432ebe00ffc9e218f43b571cb173b159"
+}

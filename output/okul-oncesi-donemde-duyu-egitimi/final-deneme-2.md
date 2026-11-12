@@ -3,7 +3,7 @@ course: OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ
 exam: Final Deneme-2
 source_url: https://lolonolo.com/2021/11/30/okul-oncesi-donemde-duyu-egitimi-final-deneme-2/
 question_count: 20
-scraped_at: 2026-11-12T15:01:00+03:00
+scraped_at: 2026-11-12T16:23:58+03:00
 ---
 
 ### Q1

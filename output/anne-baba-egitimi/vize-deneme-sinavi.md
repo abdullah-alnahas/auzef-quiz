@@ -3,7 +3,7 @@ course: ANNE BABA EĞİTİMİ
 exam: Vize Deneme Sınavı
 source_url: https://lolonolo.com/2022/10/31/anne-baba-egitimi-vize-deneme-sinavi/
 question_count: 25
-scraped_at: 2026-11-12T15:00:45+03:00
+scraped_at: 2026-11-12T16:23:37+03:00
 ---
 
 ### Q1

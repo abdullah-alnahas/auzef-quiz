@@ -1,0 +1,399 @@
+---
+course: PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME
+exam: Psikometrik Gelişimsel Ölçme ve Değerlendirme 2020 Vize Deneme
+source_url: https://lolonolo.com/2021/10/31/psikometrik-gelisimsel-olcme-ve-degerlendirme-2020-vize-deneme/
+question_count: 39
+scraped_at: 2026-11-12T16:24:01+03:00
+---
+
+### Q1
+**Question:** Çocukların dikkatlerinin dış faktörlerden kolayca etkilenebilmesi değerlendirmede neye dikkat edilmesine neden olur? | ما الذي يستلزم الانتباه إليه في التقييم نتيجة سهولة تأثر انتباه الأطفال بالعوامل الخارجية؟
+**Choices:**
+- A) Değerlendirmeye gelmeden önce çocuğa değerlendirme hakkında bilgi verilmesi — إعطاء الطفل معلومات عن التقييم قبل قدومه إليه
+- B) Çoklu bilgi kaynağı kullanılması — استخدام مصادر معلومات متعددة
+- C) Uzun süren uygulamalar yapılması — إجراء تطبيقات طويلة المدة
+- D) Değerlendirme yapılan ortamın ses, hava ve ışığına özen gösterilmesi — العناية بالصوت والهواء والضوء في بيئة التقييم
+- E) Değerlendirme öncesi çocukla oyun oynanması — اللعب مع الطفل قبل التقييم
+**Answer:** D
+
+### Q2
+**Question:** Aşağıdakilerden hangisi Piaget’in Biişsel Gelişim Kuramındaki duyusal motor dönemin özelliklerindendir? | أي مما يلي من خصائص المرحلة الحسية الحركية في نظرية بياجيه للنمو المعرفي؟
+**Choices:**
+- A) Grup oyunları — ألعاب الجماعة
+- B) Karmaşık dil becerileri — مهارات لغوية معقدة
+- C) Hayali oyun — اللعب التخيلي
+- D) Benmerkezcilik — التمركز حول الذات
+- E) Nesne sürekliliğinin kazanılması — اكتساب ديمومة الأشياء
+**Answer:** E
+
+### Q3
+**Question:** Emekleme, yürüme, merdiven çıkma gibi büyük kas gruplarının kullanımını gerektiren becerilere ne ad verilir? | ماذا تُسمى المهارات التي تتطلب استخدام مجموعات عضلية كبيرة، مثل الزحف والمشي وصعود السلالم؟
+**Choices:**
+- A) Refleksif beceriler — المهارات الانعكاسية
+- B) Özelleşmiş hareket becerileri — مهارات الحركة المتخصصة
+- C) Büyük beceriler — المهارات الكبيرة
+- D) Kaba motor beceriler — المهارات الحركية الكبيرة
+- E) İnce motor beceriler — المهارات الحركية الدقيقة
+**Answer:** D
+
+### Q4
+**Question:** Aşağıdakilerden hangisi çocuğun motor gelişim evrelerinden değildir? | أي مما يلي ليس من مراحل النمو الحركي للطفل؟
+**Choices:**
+- A) İlkel hareketler dönemi — مرحلة الحركات البدائية
+- B) Refleksif hareketler dönemi — مرحلة الحركات الانعكاسية
+- C) Özelleşmiş hareketler dönemi — مرحلة الحركات المتخصصة
+- D) Sensörimotor dönemi — المرحلة الحسية الحركية
+- E) Temel hareketler dönemi — مرحلة الحركات الأساسية
+**Answer:** D
+
+### Q5
+**Question:** I. Nöronların miyelin kılıfla kaplanması II. Beyin omurilik sıvısı III. Sinapsların budanması IV. Yürütücü işlevler Yukarıdakilerden hangileri beyin gelişiminin altında yatan süreçlerdendir? | I. تغليف الخلايا العصبية بالغمد المياليني<br>II. السائل الدماغي الشوكي<br>III. تقليم المشابك العصبية<br>IV. الوظائف التنفيذية<br>أي مما سبق من العمليات الكامنة وراء نمو الدماغ؟
+**Choices:**
+- A) I-III — I وIII
+- B) I-II — I وII
+- C) II-IV — II وIV
+- D) III-IV — III وIV
+- E) II-III — II وIII
+**Answer:** A
+
+### Q6
+**Question:** I. Olaylara diğer insanların perspektiflerinden bakmama II. Miktarın korunumu IIII. Nesnelerin de insanlar gibi düşünüp hissedebildildiklerine inanma IV. Soyut düşünce Yukarıdakilerden hangileri Piaget’nin bilişsel gelişim kuramındaki işlem öncesi özelliklerindendir? | I. عدم النظر إلى الأحداث من منظور الآخرين<br>II. الحفاظ على الكمية<br>III. الاعتقاد بأن الأشياء يمكن أن تفكر وتشعر مثل البشر<br>IV. التفكير المجرد<br>أي مما سبق من خصائص مرحلة ما قبل العمليات في نظرية بياجيه للنمو المعرفي؟
+**Choices:**
+- A) II-III — II وIII
+- B) I-II — I وII
+- C) I-III — I وIII
+- D) II-IV — II وIV
+- E) III-IV — III وIV
+<!-- REVIEW: q6.stem: ورد الترقيم «IIII» في المصدر، وقُرئ III. -->
+**Answer:** C
+
+### Q7
+**Question:** Aşağıdakilerden hangisi ölçme ve değerlendirmenin etik kurallarındandır? | أي مما يلي من القواعد الأخلاقية للقياس والتقييم؟
+**Choices:**
+- A) Çocuğun oyun hakkı — حق الطفل في اللعب
+- B) Isınma aktivitesi — نشاط التهيئة
+- C) Ucuz olması — أن يكون منخفض التكلفة
+- D) Uygulayıcının yeterli olması — أن يكون المطبّق كفؤًا
+**Answer:** D
+
+### Q8
+**Question:** I. Değerlendirmede çocuğun eksiklerine odaklanılması gerekir. II. Çocukla iyi bir iletişim kurulmalıdır III. Çocukların dikkat süresi erişkinlerden uzundur. IV. Çocuklar değerlendirmeye genellikle kendi istekleri ile gelmez. Çocukların psikolojik değerlendirmesi ile ilgili yukarıdaki ifadelerden hangileri yanlıştır? | I. يجب التركيز في التقييم على أوجه نقص الطفل.<br>II. يجب إقامة تواصل جيد مع الطفل<br>III. مدة انتباه الأطفال أطول من مدة انتباه الراشدين.<br>IV. لا يأتي الأطفال عادة إلى التقييم بمحض إرادتهم.<br>أي من العبارات أعلاه بشأن التقييم النفسي للأطفال غير صحيحة؟
+**Choices:**
+- A) III-IV — III وIV
+- B) I-III — I وIII
+- C) II-IV — II وIV
+- D) I-II — I وII
+- E) II-III — II وIII
+**Answer:** B
+
+### Q9
+**Question:** Normlarla ile ilgili ifadelerden hangisi yanlıştır? | أي العبارات المتعلقة بالمعايير غير صحيحة؟
+**Choices:**
+- A) Standardizasyon örneklemenin seçiminde tesadüfi örnekleme yapılmasıdır — التقنين هو اعتماد العينة العشوائية في اختيار عينة التقنين
+- B) Bireyin aldığı puanların norm grubu ile kıyaslanarak anlam belirlenebilir — يمكن تحديد المعنى بمقارنة الدرجات التي حصل عليها الفرد بمجموعة المعيار
+- C) Normlar standardizasyon süreci ile elde edilir — تُستمد المعايير من عملية التقنين
+- D) Normlar ölçülecek çocuğu temsil eden bir grupta belirlenmiş olmalıdır — يجب أن تُحدد المعايير في مجموعة تمثل الطفل المطلوب قياسه
+- E) Normal ölçüm hatası yapılmasını önler — يمنع حدوث خطأ القياس الطبيعي
+**Answer:** E
+
+### Q10
+**Question:** I. ölçmeyi amaçladığı değişkeni doğru bir şekilde ölçmelidir II. Ölçüm aracı, tüm çocuklarda kullanılabilmelidir. III. Ölçüm aracının sonuçlarında hataya rastlamamalıdır. IV. Farklı zaman ve kişiler tarafından uygulandığında ölçüm sonuçları tutarlı olmalıdır. Bir ölçüm aracının psikometrik olarak sağlam olduğunun söylenmesi için yukarıdakilerden hangileri gereklidir? | I. أن تقيس أداة القياس المتغير الذي تهدف إلى قياسه قياسًا صحيحًا<br>II. أن تكون أداة القياس قابلة للاستخدام مع جميع الأطفال.<br>III. ألّا يوجد خطأ في نتائج أداة القياس.<br>IV. أن تكون نتائج القياس متسقة عند تطبيقها في أوقات مختلفة ومن أشخاص مختلفين.<br>أي مما سبق لازم لكي يُقال إن أداة القياس سليمة من الناحية السيكومترية؟
+**Choices:**
+- A) I-II — I وII
+- B) I-IV — I وIV
+- C) II-IV — II وIV
+- D) II-III — II وIII
+- E) III-IV — III وIV
+**Answer:** B
+
+### Q11
+**Question:** Aşağıdakilerden hangisi sınıflama ölçeklerine örnek olarak verilebilir? | أي مما يلي يمكن إعطاؤه مثالًا على مقاييس التصنيف؟
+**Choices:**
+- A) Sıcaklık dereceleri — درجات الحرارة
+- B) Memnuniyet anketleri — استبيانات الرضا
+- C) Sınav puanları — درجات الاختبارات
+- D) Yaş — العمر
+- E) Atletlerin sırt numaraları — أرقام قمصان الرياضيين
+**Answer:** E
+
+### Q12
+**Question:** Çocukların psikolojik değerlendirmesi ile ilgili aşağıdaki ifadelerden hangisi doğrudur? | أي من العبارات التالية صحيح بشأن التقييم النفسي للأطفال؟
+**Choices:**
+- A) Çocukların değerlendirmesinde tek bilgi kaynağı çocuktur. — مصدر المعلومات الوحيد في تقييم الأطفال هو الطفل.
+- B) Çocuklar, değerlendirmedeki etiketlerini dilden olumsuz etkilenmez. — لا يتأثر الأطفال سلبًا باللغة التصنيفية اللاصقة في التقييم.
+- C) Değerlendirmeye gelmeden önce çocuğa değerlendirme hakkında bilgi verilmemelidir. — يجب ألّا تُعطى للطفل معلومات عن التقييم قبل قدومه إليه.
+- D) Çocukların dili kullanma becerileri erişkinlerden farklı değildir. — مهارات الأطفال في استخدام اللغة لا تختلف عن مهارات الراشدين.
+- E) Çocuklar yaşadıkları sorunlarının bazılarını fark edecek deneyime sahip değildir. — لا يمتلك الأطفال الخبرة الكافية لإدراك بعض المشكلات التي يعيشونها.
+**Answer:** E
+
+### Q13
+**Question:** Erikson’un Pskososyal Gelişim Kuramına göre okul çağı döneminin temel kazanımı nedir? | وفق نظرية النمو النفسي-الاجتماعي لإريكسون، ما المكسب الأساسي لمرحلة سن المدرسة؟
+**Choices:**
+- A) Temel güven — الثقة الأساسية
+- B) Çaba — الجهد
+- C) İrade — الإرادة
+- D) Bağıl düşünme — التفكير النسبي
+- E) Üretkenlik — الإنتاجية
+**Answer:** E
+
+### Q14
+**Question:** Beyin gelişimi ile ilgili olarak aşağıdakilerden hangisi yanlıştır? | أي مما يلي غير صحيح بشأن نمو الدماغ؟
+**Choices:**
+- A) Beyin gelişiminin erken döneminde oluşan hasarların bir kısmı çok ağır sorunlara neden olur. — بعض الأضرار التي تحدث في مرحلة مبكرة من نمو الدماغ تؤدي إلى مشكلات بالغة الخطورة.
+- B) Belli becerilerin kazanımı için kritik dönemler vardır. — توجد مراحل حرجة لاكتساب مهارات معينة.
+- C) Beyin gelişimi özellikle anne karnında ve yaşamın ilk yıllarında çok hızlıdır. — نمو الدماغ سريع جدًا خاصة في الرحم وفي السنوات الأولى من الحياة.
+- D) Beyin gelişim sürecinin önemli bir kısmı yaşamın ilk yılı tamamlandığında nihayetine ermiş olur — ينتهي جزء مهم من عملية نمو الدماغ عند اكتمال السنة الأولى من الحياة
+- E) Nöronlar arası bağlantı oluşması ve bu bağlantıların sağ kalabilmesi genetik faktörlere bağlıdır. — يعتمد تكوين الروابط بين الخلايا العصبية وبقاء هذه الروابط على عوامل وراثية.
+**Answer:** E
+
+### Q15
+**Question:** Aşağıdakilerden hangisi dolaylı ölçme işlemiyle ölçülebilir? | أي مما يلي يمكن قياسه بعملية القياس غير المباشر؟
+**Choices:**
+- A) Boy — الطول
+- B) Sıcaklık — درجة الحرارة
+- C) Zeka — الذكاء
+- D) Tepki zamanı — زمن الاستجابة
+- E) Ağırlık — الوزن
+**Answer:** C
+
+### Q16
+**Question:** Ölçme değerlendirme raporları için hangisi yanlıştır? | أي مما يلي غير صحيح بشأن تقارير القياس والتقييم؟
+**Choices:**
+- A) Rapor, ailenin çocukla ilgili düşüncelerini destekler — يدعم التقرير أفكار الأسرة بشأن الطفل
+- B) Raporun dili kime ve ne amaçla yazıldığına göre farklılık gösterir — تختلف لغة التقرير بحسب الجهة التي كُتب لها والغرض من كتابته
+- C) Rapor etiketleyici ifadeler içermemelidir. — يجب ألّا يتضمن التقرير عبارات تصنيفية لاصقة.
+- D) Bireyin psikolojik durumunun tanımlanması amacıyla rapor yazılabilir. — يمكن كتابة التقرير بهدف وصف الحالة النفسية للفرد.
+- E) Adli amaçla rapor yazılabilir. — يمكن كتابة التقرير لغرض قضائي.
+**Answer:** A
+
+### Q17
+**Question:** Değerlendirme raporunun tanımlayıcı bilgiler kısmında hangi bilgi bulunmaz? | أي معلومة لا توجد في قسم البيانات التعريفية في تقرير التقييم؟
+**Choices:**
+- A) Değerlendiricinin adı soyadı — اسم المقيّم ولقبه
+- B) Rapor tarihi — تاريخ التقرير
+- C) Çocuğun adı ve soyadı — اسم الطفل ولقبه
+- D) Çocuğun neden yönlendirildiği — سبب إحالة الطفل
+- E) Çocuğun doğum tarihi — تاريخ ميلاد الطفل
+**Answer:** D
+
+### Q18
+**Question:** Aşağıdakilerden hangisi çocukları ölçme ve değerlendirmede erişkinlerden farklı değildir? | أي مما يلي لا يختلف فيه الأطفال عن الراشدين في القياس والتقييم؟
+**Choices:**
+- A) Beceri gelişimi için kritik dönemlerin olması — وجود مراحل حرجة لتطور المهارات
+- B) Dikkat süresinin kısa olması — قصر مدة الانتباه
+- C) Dil becerilerinin sınırlı olması — محدودية المهارات اللغوية
+- D) Geçişlerde zorlanma — صعوبة الانتقالات
+- E) Etiketleyici dilden olumsuz etkilenme — التأثر السلبي باللغة التصنيفية اللاصقة
+**Answer:** E
+
+### Q19
+**Question:** Eriksonun psiko-sosyal gelişim kuramına göre aşağıdakilerden hangisi doğrudur? | وفق نظرية النمو النفسي-الاجتماعي لإريكسون، أي مما يلي صحيح؟
+**Choices:**
+- A) İlk çocukluk dönemi-Üretkenlik — مرحلة الطفولة الأولى - الإنتاجية
+- B) Okul çağı dönemi-İrade — مرحلة سن المدرسة - الإرادة
+- C) Ergenlik dönemi-Temel güven — مرحلة المراهقة - الثقة الأساسية
+- D) Oyun çağı dönemi-Amaç ve amacında sebat edebilmek — مرحلة سن اللعب - الهدف والثبات على الهدف
+- E) Bebeklik dönemi-Vefa — مرحلة الرضاعة - الوفاء
+**Answer:** D
+
+### Q20
+**Question:** Aşağıdakilerden hangisi yapısal niteliklerine göre ölçek çeşitlerinden değildir? | أي مما يلي ليس من أنواع المقاييس وفق خصائصها البنيوية؟
+**Choices:**
+- A) Sıralama ölçekleri — مقاييس الترتيب
+- B) Eşit oranlı ölçekler — مقاييس النسب المتساوية
+- C) Sayısal ölçekler — المقاييس العددية
+- D) Sınıflama ölçekleri — مقاييس التصنيف
+- E) Eşit aralıklı ölçekler — مقاييس الفترات المتساوية
+**Answer:** C
+
+### Q21
+**Question:** Çocuğun normal gelişimi için hangisi yanlıştır? | أي مما يلي غير صحيح بشأن النمو الطبيعي للطفل؟
+**Choices:**
+- A) Normal gelişim çocuğun genetik özellikleri ve çevresinden etkilenir — يتأثر النمو الطبيعي بالخصائص الوراثية للطفل وبيئته
+- B) Değerlendirmede çocuğun gelişim özellikleri dikkate alınmalıdır — يجب مراعاة خصائص نمو الطفل في التقييم
+- C) Gelişimdeki farkların takibin kolaylaştırmak için perspektif eğrileri oluşturulur — تُنشأ منحنيات مئينية لتسهيل متابعة الفروق في النمو
+- D) Normal gelişim genellikle belli bir yörünge takip eder — يتبع النمو الطبيعي عادة مسارًا معينًا
+- E) Çocuğun normal gelişimi statik bir süreçtir — النمو الطبيعي للطفل عملية ساكنة
+<!-- REVIEW: q21.C: وردت «perspektif eğrileri» في المصدر، وهي على الأرجح persentil (منحنيات المئين). -->
+**Answer:** E
+
+### Q22
+**Question:** Değerlendirme raporunun özet ve öneriler kısmi hakkında hangisi yanlıştır? | أي مما يلي غير صحيح بشأن قسم الملخص والتوصيات في تقرير التقييم؟
+**Choices:**
+- A) Raporun içeriği bu kısımda kısa ve net cümlelerle özetlenmelidir — يجب تلخيص محتوى التقرير في هذا القسم بجمل قصيرة وواضحة
+- B) Bu bölün genelde raporun ilk bakılan kısmıdır — غالبًا ما يكون هذا القسم أول ما يُنظر إليه في التقرير
+- C) Öneriler bilimsel bir dille yazılmalıdır — يجب كتابة التوصيات بلغة علمية
+- D) Öneri ifadesinin bulguyla birlikte yazılması daha anlamlı olur — يكون كتابة عبارة التوصية مع النتيجة أكثر معنى
+- E) Bu bölün kendi içinde bir bütün teşkil etmelidir — يجب أن يشكّل هذا القسم وحدة متكاملة في ذاته
+**Answer:** C
+
+### Q23
+**Question:** Normlarla ilgili ifadelerden hangisi doğrudur? | أي العبارات المتعلقة بالمعايير صحيحة؟
+**Choices:**
+- A) Ölçüm aracının normları kullanılması planlanan grubu temsil eden bir örnekleme belirlenmelidir. — يجب تحديد معايير أداة القياس في عينة تمثل المجموعة المخطط لاستخدامها فيها.
+- B) Çocuğun yaşadığı ortamının gelişimi üzerinde önemli derecede etkili olması nedeniyle çocuklarda normlar önemli değildir — المعايير غير مهمة لدى الأطفال لأن البيئة التي يعيش فيها الطفل تؤثر تأثيرًا كبيرًا في نموه؟
+- C) Normların belirlenme sürecine psikometri denir — تسمى عملية تحديد المعايير علم القياس النفسي
+- D) Çocuklarda normlar hesaplanmaz — لا تُحسب المعايير لدى الأطفال
+- E) Ölçüm araçlarının belli bir amaç konusunda yararlı ve pratik bir değer taşımasına norm denir. — يُسمى حمل أداة القياس قيمة نافعة وعملية بشأن غرض معين معيارًا.
+**Answer:** A
+
+### Q24
+**Question:** Değerlendirme raporunun en önemli ve kendi içinde bir bütün teşkil etmesi gereken kısmı hangisidir? | أي أقسام تقرير التقييم هو الأهم والذي يجب أن يشكّل وحدة متكاملة في ذاته؟
+**Choices:**
+- A) Başlık ve tanımlayıcı bilgiler — العنوان والبيانات التعريفية
+- B) Sonuç ve yorum — النتائج والتفسير
+- C) Geçmiş bilgisi — معلومات التاريخ (الماضي)
+- D) Özet ve öneriler — الملخص والتوصيات
+- E) Yönlendirme nedeni — سبب الإحالة
+**Answer:** D
+
+### Q25
+**Question:** Norm dayanaklı test ve değerlendirme amacı nedir? | ما هدف الاختبار والتقييم المستندين إلى المعايير؟
+**Choices:**
+- A) Ölçüm hatalarının en aza indirilmesi — تقليل أخطاء القياس إلى الحد الأدنى
+- B) Test sonuçlarının yorumlanmasının zor olmasıdır — أن يكون تفسير نتائج الاختبار صعبًا
+- C) Testin farklı ölçümlerde de aynı sonucu vermesidir. — أن يعطي الاختبار النتيجة نفسها في قياسات مختلفة.
+- D) Ölçek sonuçlarının uzman görüşüne dayalı olarak yorumlanmasıdır. — تفسير نتائج المقياس استنادًا إلى رأي الخبير.
+- E) Bireyin aldığı puanların norm grubuyla kıyaslanacak anlamının belirlenmesidir. — تحديد معنى الدرجات التي حصل عليها الفرد بمقارنتها بمجموعة المعيار.
+**Answer:** E
+
+### Q26
+**Question:** I. Uygulanan ölçüm araçlarının sonuçları II. Çocuğun test davranışı ve uyumu III. Çocuğun kimlik bilgileri IV. Çocuğun mevcut problemi hakkında öneriler Değerlendirme raporunun sonuç ve yorum kısmında yukarıdaki bilgilerden hangileri bulunur? | I. نتائج أدوات القياس المطبقة<br>II. سلوك الطفل أثناء الاختبار وتوافقه<br>III. البيانات التعريفية للطفل<br>IV. توصيات بشأن مشكلة الطفل الحالية<br>أي من المعلومات أعلاه توجد في قسم النتائج والتفسير في تقرير التقييم؟
+**Choices:**
+- A) II-III — II وIII
+- B) I-III — I وIII
+- C) I-II — I وII
+- D) II-IV — II وIV
+- E) III-IV — III وIV
+**Answer:** C
+
+### Q27
+**Question:** Aşağıdakilerden hangisi Piaget’nin bilişsel gelişim kuramındaki soyut işlemler dönemin özelliklerinden değildir? | أي مما يلي ليس من خصائص مرحلة العمليات المجردة<br>في نظرية النمو المعرفي عند بياجيه؟
+**Choices:**
+- A) Ben merkezcilik — التمركز حول الذات
+- B) Düşünce üzerine düşünme — التفكير في التفكير
+- C) Mantıklı ve sistematik düşünme — التفكير المنطقي والمنهجي
+- D) Varsayımlar üretebilme — القدرة على توليد الفرضيات
+- E) Soyut kavramları düşünme — التفكير في المفاهيم المجردة
+**Answer:** A
+
+### Q28
+**Question:** Aşağıdakilerden hangisi eşit oranlı ölçeklere örnek olarak verilebilir? | أي مما يلي يمكن إعطاؤه مثالًا على مقاييس النسب المتساوية؟
+**Choices:**
+- A) Kovadaki topların renklerine göre numaralandırılması — ترقيم الكرات في الدلو بحسب ألوانها
+- B) IQ puanları — درجات IQ
+- C) Ağırlık — الوزن
+- D) Memnuniyet anketleri — استبيانات الرضا
+- E) Yılsonu başarı puanları — درجات التحصيل في نهاية العام
+**Answer:** C
+
+### Q29
+**Question:** I. Ölçüm aracının geçerli olması II. Etiketleyici bir dil kullanılmaması III. Oyun ve hikaye gibi yöntemler kullanılması IV. Ebeveynlerinden bilgi alınması Yukarıdakilerden hangileri çocukların ölçme ve değerlendirme erişkinlerden farklı olarak dikkate alınmalıdır? | I. أن تكون أداة القياس صادقة<br>II. عدم استخدام لغة تصنيفية لاصقة<br>III. استخدام أساليب مثل اللعب والقصة<br>IV. الحصول على معلومات من الوالدين<br>أي مما سبق ينبغي مراعاته في قياس الأطفال وتقييمهم على نحو يختلف عن الراشدين؟
+**Choices:**
+- A) I-II — I وII
+- B) II-III — II وIII
+- C) I-III — I وIII
+- D) III-IV — III وIV
+- E) II-IV — II وIV
+**Answer:** D
+
+### Q30
+**Question:** I. Çocuğa uygun ölçme araçlarının belirlenmesi II. Yönlendirme sebebine yönelik uygun açıklamalar üretilmesi III. Bireyin psikolojik durumunun tanımlanması IV. Ölçme hatalarının önlenmesi Yukarıdaki ifadelerden hangileri ölçme ve değerlendirme raporu yazılmasının amaçlarındandır? | I. تحديد أدوات القياس المناسبة للطفل<br>II. إنتاج تفسيرات مناسبة لسبب الإحالة<br>III. وصف الحالة النفسية للفرد<br>IV. منع أخطاء القياس<br>أي من العبارات أعلاه من أهداف كتابة تقرير القياس والتقييم؟
+**Choices:**
+- A) III-IV — III وIV
+- B) I-III — I وIII
+- C) I-II — I وII
+- D) II-IV — II وIV
+- E) II-III — II وIII
+**Answer:** E
+
+### Q31
+**Question:** I. Sınıf normları II. Belirtke tablosu III. Tanımlayıcı bilgiler IV. Özet ve öneriler Yukarıdakilerden hangileri psikolojik değerlendirme raporlarının içeriğini oluşturur? | I. معايير الصف<br>II. جدول المواصفات<br>III. البيانات التعريفية<br>IV. الملخص والتوصيات<br>أي مما سبق يشكّل محتوى تقارير التقييم النفسي؟
+**Choices:**
+- A) III-IV — III وIV
+- B) I-II — I وII
+- C) II-III — II وIII
+- D) I-III — I وIII
+- E) II-IV — II وIV
+**Answer:** A
+
+### Q32
+**Question:** Dil gelişimi için aşağıdakilerden hangisi doğrudur? | أي مما يلي صحيح بشأن تطور اللغة؟
+**Choices:**
+- A) Çocuğun kurallı konuşmayı öğrendiği kural öğrenme dönemi 0-2 yaş arasıdır. — مرحلة تعلم القواعد، التي يتعلم فيها الطفل الكلام القواعدي، هي بين 0-2 سنة.
+- B) Sözcük öğrenme dönemi olan 1-2 yaş arasında çocuk sözcükleri anlamlı bir şekilde kullanmaya başlar — بين 1-2 سنة، وهي مرحلة تعلم الكلمات، يبدأ الطفل في استخدام الكلمات استخدامًا ذا معنى
+- C) Çocuklarda dil gelişimi ile ilgili sorunlarda öncelikle konuşma değerlendirilir. — في مشكلات تطور اللغة لدى الأطفال يُقيَّم الكلام أولًا.
+- D) Alıcı dil duygu ve düşünceleri ifade edebilme için kelime ve işaretleri kullanabilmekle ilgilidir. — اللغة الاستقبالية تتعلق بالقدرة على استخدام الكلمات والإشارات للتعبير عن المشاعر والأفكار.
+- E) İfade edici dil o dile ait kelimelerin ya da işaretleri anlatabilmekle ilgilidir. — اللغة التعبيرية تتعلق بالقدرة على التعبير بالكلمات أو الإشارات الخاصة بتلك اللغة.
+**Answer:** B
+
+### Q33
+**Question:** Edisonun psikososyal gelişim kuramına göre ilk çocukluk dönemimin temel kazanımı nedir? | وفق نظرية النمو النفسي-الاجتماعي لإريكسون، ما المكسب الأساسي لمرحلة الطفولة الأولى؟
+**Choices:**
+- A) Temel güven — الثقة الأساسية
+- B) İrade — الإرادة
+- C) Çaba — الجهد
+- D) Bağıl düşünme — التفكير النسبي
+- E) Üretkenlik — الإنتاجية
+<!-- REVIEW: q33.stem: ورد في المصدر «Edisonun» بدلًا من Erikson، وقُرئت إريكسون. -->
+**Answer:** B
+
+### Q34
+**Question:** Beyin gelişimi açısından kritik dönem nedir? | ما المرحلة الحرجة من حيث نمو الدماغ؟
+**Choices:**
+- A) Nöronlar arası bağlantı oluştuğu dönemdir — هي المرحلة التي تتكون فيها الروابط بين الخلايا العصبية
+- B) Nöronlar arası bağlantıların budandığı dönemdir — هي المرحلة التي تُقلَّم فيها الروابط بين الخلايا العصبية
+- C) Beyinde oluşan hasarların geri dönüşümsüz zarar verdiği dönemdir — هي المرحلة التي تُحدث فيها الأضرار التي تصيب الدماغ ضررًا لا رجعة فيه
+- D) Nöronların miyelin kılıfla kaplandığı dönemdir — هي المرحلة التي تُغلَّف فيها الخلايا العصبية بالغمد المياليني
+- E) Belli becerilerin kazanılmadığı takdirde sonrasında tam olarak kazanılmadığı dönemdir — هي المرحلة التي إذا لم تُكتسب فيها مهارات معينة فلا تُكتسب اكتسابًا كاملًا بعدها
+**Answer:** E
+
+### Q35
+**Question:** Tesadüfi örnekleme nedir? | ما هي العينة العشوائية؟
+**Choices:**
+- A) Test edilen bireyin norm grubuna göre yüzdesinin belirlenmesidir. — تحديد النسبة المئوية للفرد المختبر مقارنة بمجموعة المعيار.
+- B) Hedef topluluğun her bireyinin örnekleme girme konusunda eşit şansı olmasıdır. — أن يكون لكل فرد في المجتمع المستهدف فرصة متساوية للدخول في العينة.
+- C) Örneklemin tamamının incelenmesidir. — دراسة العينة بأكملها.
+- D) Hedef topluluktaki kişilerin sadece bir grubunun seçilmesidir — اختيار مجموعة واحدة فقط من الأشخاص في المجتمع المستهدف
+- E) Hedef toplulukta bulunan farklılıkların oransal olarak benzer şekilde örnekleme dahil edilmesidir. — إدراج الاختلافات الموجودة في المجتمع المستهدف في العينة بنسب متشابهة.
+**Answer:** B
+
+### Q36
+**Question:** Aşağıdakilerden hangisi Piagetin kuramındaki bilişsel gelişim dönemlerinden değildir? | أي مما يلي ليس من مراحل النمو المعرفي في نظرية بياجيه؟
+**Choices:**
+- A) Somut işlemler dönemi — مرحلة العمليات المحسوسة
+- B) Duysal motor dönem — المرحلة الحسية الحركية
+- C) Özelleşmiş hareketler dönemi — مرحلة الحركات المتخصصة
+- D) Soyut işlemler dönemi — مرحلة العمليات المجردة
+- E) İşlem öncesi dönem — مرحلة ما قبل العمليات
+**Answer:** C
+
+### Q37
+**Question:** Değerlendirme raporunun içeriği konusunda aileye geribildirim verilirken neye dikkat edilmelidir? | إلى ما ينبغي الانتباه عند تقديم التغذية الراجعة للأسرة بشأن محتوى تقرير التقييم؟
+**Choices:**
+- A) Çocuğun sorunlarını öncelemeye — إعطاء الأولوية لمشكلات الطفل
+- B) Anlaşılır bir dil kullanmaya — استخدام لغة واضحة
+- C) Tüm aile üyelerinin orada olmasına — حضور جميع أفراد الأسرة
+- D) Çocuğa bilgi vermemeye — عدم إعطاء معلومات للطفل
+- E) Bilimsel bir dil kullanmaya — استخدام لغة علمية
+**Answer:** B
+
+### Q38
+**Question:** I. Ölçme herhangi bir niteliğin belirli kurallara göre sayısal olarak ifade edilme sürecidir II. Ölçme işleminin amacı ölçüte göre uygun bir karara varmaktır III. Ölçme işlemi bir nitelik ifade etme yöntemi olduğu için sübjektif olmalıdır IV. Ölçme işlemi sayarak sınıflandırarak derecelendirerek yapılabilir Ölçme ile ilgili yukarıdaki ifadelerden hangileri doğrudur? | I. القياس هو عملية التعبير عن أي سمة تعبيرًا عدديًا وفق قواعد معينة<br>II. هدف عملية القياس هو الوصول إلى قرار مناسب وفقًا للمحك<br>III. يجب أن تكون عملية القياس ذاتية لأنها طريقة للتعبير عن سمة<br>IV. يمكن إجراء عملية القياس عن طريق العد والتصنيف والتدريج<br>أي من العبارات أعلاه بشأن القياس صحيحة؟
+**Choices:**
+- A) III-IV — III وIV
+- B) II-III — II وIII
+- C) I-IV — I وIV
+- D) I-III — I وIII
+- E) II-IV — II وIV
+**Answer:** C
+
+### Q39
+**Question:** Değerlendirme raporunun geçmiş kısmında hangi bilgi bulunur? | أي معلومة توجد في قسم التاريخ (الماضي) في تقرير التقييم؟
+**Choices:**
+- A) Çocuğun mevcut probleminde etkili olabilecek geçmiş unsurlar — العوامل السابقة التي قد تكون مؤثرة في مشكلة الطفل الحالية
+- B) Çocuğun bütün akrabalarının sağlık durumu — الحالة الصحية لجميع أقارب الطفل
+- C) Çocuğun mevcut problemi hakkında öneriler — توصيات بشأن مشكلة الطفل الحالية
+- D) Çocuğun neden yönlendirildiği — سبب إحالة الطفل
+- E) Çocuğun o güne kadar kullandığı bütün ilaçlar. — جميع الأدوية التي استخدمها الطفل حتى ذلك اليوم.
+**Answer:** A

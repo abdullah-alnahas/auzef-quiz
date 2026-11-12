@@ -3,7 +3,7 @@ course: ÇOCUK GELİŞİMİ UYGULAMALARI I
 exam: Çocuk Gelişimi Uygulamaları-1 Ünite -6
 source_url: https://lolonolo.com/2023/09/26/cocuk-gelisimi-uygulamalari-1-unite-6/
 question_count: 10
-scraped_at: 2026-11-12T15:00:49+03:00
+scraped_at: 2026-11-12T16:23:42+03:00
 ---
 
 ### Q1

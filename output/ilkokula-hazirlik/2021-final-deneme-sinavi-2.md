@@ -3,7 +3,7 @@ course: İLKOKULA HAZIRLIK
 exam: 2021 Final Deneme Sınavı -2
 source_url: https://lolonolo.com/2021/11/27/ilkokula-hazirlik-2021-final-deneme-sinavi-2/
 question_count: 20
-scraped_at: 2026-11-12T15:00:59+03:00
+scraped_at: 2026-11-12T16:23:56+03:00
 ---
 
 ### Q1

@@ -1,0 +1,862 @@
+{
+  "course": "ÇOCUK HAKLARI VE HUKUKU",
+  "course_slug": "cocuk-haklari-ve-hukuku",
+  "exam": "Final Deneme Sınavı -2",
+  "exam_slug": "final-deneme-sinavi-2",
+  "page_title": "Çocuk Hakları ve Hukuku Final Deneme Sınavı -2",
+  "source_url": "https://lolonolo.com/2022/11/13/cocuk-haklari-ve-hukuku-final-deneme-sinavi-2/",
+  "scraped_at": "2026-11-12T16:23:48+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Ahlaka aykırı bir yaşam süren eşinden bu yüzden ayrılan Bayan C maddi yönden sıkıntı içerisinde kalmıştır. Bayan C boşandığı eşinden aşağıdaki istemlerden hangisinde bulunabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tedbir nafakası",
+          "images": [],
+          "text_ar": "النفقة المؤقتة"
+        },
+        {
+          "letter": "B",
+          "text": "Yoksulluk nafakası",
+          "images": [],
+          "text_ar": "نفقة الفقر"
+        },
+        {
+          "letter": "C",
+          "text": "İştirak nafakası",
+          "images": [],
+          "text_ar": "نفقة المشاركة"
+        },
+        {
+          "letter": "D",
+          "text": "Manevi tazminat",
+          "images": [],
+          "text_ar": "التعويض المعنوي"
+        },
+        {
+          "letter": "E",
+          "text": "Maddi tazminat",
+          "images": [],
+          "text_ar": "التعويض المادي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "انفصلت السيدة C عن زوجها بسبب سلوكه المنافي للأخلاق، فوقعت في ضائقة مالية. أي المطالب الآتية يمكن للسيدة C أن ترفعها على زوجها المطلَّق؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki hususlardan hangisinde hak ehliyetinin değil, fiil ehliyetinin sınırlanması söz konusudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kişinin kendi dinini belirleyebilme hakkı, ergin olmasına bağlıdır.",
+          "images": [],
+          "text_ar": "حق الشخص في تحديد دينه مرهون ببلوغه سن الرشد."
+        },
+        {
+          "letter": "B",
+          "text": "Kişi evli değilse, evlat edinebilmek için otuz yaşını doldurmuş olması gerekmektedir.",
+          "images": [],
+          "text_ar": "إذا لم يكن الشخص متزوجًا، يجب أن يكون قد أتم الثلاثين ليتمكن من التبني."
+        },
+        {
+          "letter": "C",
+          "text": "Kişinin ölüme bağlı tasarruflardan miras sözleşmesi yapabilmesi için on sekiz yaşını doldurmuş olması gerekmektedir.",
+          "images": [],
+          "text_ar": "لكي يتمكن الشخص من إبرام عقد الميراث من بين التصرفات المضافة إلى الموت، يجب أن يكون قد أتم الثامنة عشرة."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun ergin kılınması isteminde bulunabilmesi için on beş yaşını tamamlamış olması gerekmektedir.",
+          "images": [],
+          "text_ar": "لكي يتمكن الطفل من تقديم طلب إكسابه صفة الراشد، يجب أن يكون قد أتم الخامسة عشرة."
+        },
+        {
+          "letter": "E",
+          "text": "Kişinin geçerli olarak kefil olabilmesi için ergin olması, kısıtlı olmaması ve ayırt etme gücüne de sahip olması gerekir.",
+          "images": [],
+          "text_ar": "لكي يكون الشخص كفيلًا صحيحًا يجب أن يكون راشدًا وغير محجور ويتمتع بقدرة التمييز."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "في أي من المسائل التالية يتعلق الأمر بتقييد أهلية الأداء لا أهلية الوجوب؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Çocukla ilgili olarak hazırlanan sosyal inceleme raporlarında aşağıdaki hususlardan hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Doğumundan başlayarak geçirdiği gelişim aşamaları",
+          "images": [],
+          "text_ar": "مراحل النمو التي مرّ بها منذ ولادته"
+        },
+        {
+          "letter": "B",
+          "text": "Ailesinin toplumsal, ekonomik ve kültürel durumu",
+          "images": [],
+          "text_ar": "الوضع الاجتماعي والاقتصادي والثقافي لأسرته"
+        },
+        {
+          "letter": "C",
+          "text": "Aile bireylerinin toplum ilişkileri",
+          "images": [],
+          "text_ar": "علاقات أفراد الأسرة بالمجتمع"
+        },
+        {
+          "letter": "D",
+          "text": "Okul ve iş ortamı ile boş zamanlarını değerlendirdiği çevre",
+          "images": [],
+          "text_ar": "بيئة المدرسة والعمل والوسط الذي يقضي فيه أوقات فراغه"
+        },
+        {
+          "letter": "E",
+          "text": "İnceleme sırasında uzmanlar tarafından tespit edilen davranışları",
+          "images": [],
+          "text_ar": "سلوكياته التي يحددها الخبراء أثناء الدراسة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من الأمور التالية لا يرد في تقارير الدراسة الاجتماعية المُعدّة عن الطفل؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "On iki yaşındaki Z’ye halası Bayan C oldukça pahalı bir bilgisayar hediye etmiştir. Henüz küçük olduğu için bilgisayar kullanmasını uygun görmeyen anne babası ise durumu sonradan öğrenmiştir.",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Söz konusu işlemin geçerliliği ile ilgili olarak aşağıdaki ifadelerden hangisi söylenebilir?",
+          "images": [],
+          "text_ar": "أي من العبارات التالية يمكن قولها بشأن صحة التصرف المذكور؟"
+        },
+        {
+          "letter": "B",
+          "text": "İşlem geçerlidir. Çünkü olayda Z herhangi bir borç altına girmemiştir. Sadece kazanımda bulunmuştur.",
+          "images": [],
+          "text_ar": "التصرف صحيح، لأن Z لم يلتزم بأي دين في الواقعة، بل حصل على كسب فقط."
+        },
+        {
+          "letter": "C",
+          "text": "İşlem geçerlidir. Fakat Z’nin anne ve babası bu işlemi yanı bağışlamayı iptal edebilirler.",
+          "images": [],
+          "text_ar": "التصرف صحيح، لكن والدي Z يمكنهما إبطال هذا التبرع."
+        },
+        {
+          "letter": "D",
+          "text": "Z on iki yaşında olduğu için tam ehliyetsizdir. Dolayısıyla bu bağışlama işlemi her durumda geçersizdir.",
+          "images": [],
+          "text_ar": "Z فاقد الأهلية تمامًا لأنه في الثانية عشرة، ولذلك هذا التبرع باطل في جميع الأحوال."
+        },
+        {
+          "letter": "E",
+          "text": "Bağışlama tek taraflı bir hukuki işlem olduğu için işlem geçerlidir.",
+          "images": [],
+          "text_ar": "التصرف صحيح لأن التبرع تصرف قانوني منفرد."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أهدت السيدة C، وهي عمة Z البالغ من العمر اثني عشر عامًا، حاسوبًا باهظ الثمن. أما والداه، اللذان لم يجدا مناسبًا أن يستخدم حاسوبًا لصغر سنه، فقد علما بالأمر لاحقًا.",
+      "review": [
+        "q4.C: في المصدر عبارة «yan bağışlamayı» تبدو محرَّفة؛ قُرئت «bu bağışlamayı» أي هذا التبرع."
+      ]
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "A ile B evlidir. B, karısı A’yı, C ile aldatmıştır ve C hamile kalmıştır. 9 ay sonra doğum yapan C’nin çocuğunu koca B, karısı A’nın üzerine kaydettirmiştir. Bu durumu fark eden A dava açmak istemektedir. A’nın açması gereken davanın adı nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Nüfus kütüğündeki yanlış kaydın düzeltilmesi davası",
+          "images": [],
+          "text_ar": "دعوى تصحيح القيد الخاطئ في سجل النفوس"
+        },
+        {
+          "letter": "B",
+          "text": "Soybağının reddi davası",
+          "images": [],
+          "text_ar": "دعوى نفي النسب"
+        },
+        {
+          "letter": "C",
+          "text": "Boşanma davası",
+          "images": [],
+          "text_ar": "دعوى الطلاق"
+        },
+        {
+          "letter": "D",
+          "text": "Analık davası",
+          "images": [],
+          "text_ar": "دعوى الأمومة"
+        },
+        {
+          "letter": "E",
+          "text": "Babalık davası",
+          "images": [],
+          "text_ar": "دعوى الأبوة"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "A و B متزوجان. خان B زوجته A مع C، وحملت C. وبعد 9 أشهر أنجبت C طفلًا، فسجّله الزوج B على أنه طفل زوجته A. وتريد A التي أدركت ذلك رفع دعوى. ما اسم الدعوى التي يجب أن ترفعها A؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi sınırlı ehliyetsiz çocuğun bizzat yapabileceği işlemlerden biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rekabet yasağı sözleşmesi yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد حظر المنافسة"
+        },
+        {
+          "letter": "B",
+          "text": "Vakıf kurmak",
+          "images": [],
+          "text_ar": "إنشاء وقف"
+        },
+        {
+          "letter": "C",
+          "text": "Önemli miktarda bağışlama sözleşmesi yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد تبرع بمبلغ كبير"
+        },
+        {
+          "letter": "D",
+          "text": "Karşılık olmaksızın kendisini borçtan kurtaran sözleşme yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد يعفيه من الدين دون مقابل"
+        },
+        {
+          "letter": "E",
+          "text": "Borçlu sıfatıyla kefalet sözleşmesi yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد كفالة بصفته مدينًا"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي من التصرفات التي يستطيع الطفل ناقص الأهلية القيام بها بنفسه؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Danışmanlık tedbiri süreciyle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk, aile, bakmakla yükümlü kişi veya kişiler ile ilgili bilgiler ve dosya bilgileri toplanarak incelenir",
+          "images": [],
+          "text_ar": "تُجمع المعلومات المتعلقة بالطفل والأسرة والشخص أو الأشخاص الملزمين برعايته، ومعلومات الملف، وتُفحص"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk, aile, bakmakla yükümlü kişi veya kişiler ile tanışılır",
+          "images": [],
+          "text_ar": "يُلتقى بالطفل والأسرة والشخص أو الأشخاص الملزمين برعايته"
+        },
+        {
+          "letter": "C",
+          "text": "Danışman, görev ve sorumlulukları hakkında çocuğu, aileyi, bakmakla yükümlü kişi veya kişileri bilgilendirir",
+          "images": [],
+          "text_ar": "يُعلم المرشد الطفل والأسرة والشخص أو الأشخاص الملزمين برعايته بمهامه ومسؤولياته"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun ailesine mahkeme kararı ve yükümlülüklerinin tanıtımı, uymama halinde ve devamının kesilmesinde sonuçları anlatılır, çocuğa bu konuda bilgi verilmez",
+          "images": [],
+          "text_ar": "يُعرَّف أهل الطفل بالحكم القضائي وبالتزاماتهم، وتُشرح لهم النتائج في حال عدم الالتزام وانقطاع الاستمرار، ولا تُعطى للطفل معلومات في هذا الشأن"
+        },
+        {
+          "letter": "E",
+          "text": "Sorunun tarafları olabilecek aile, öğretmen, idareci ve bunun gibi kimselerle görüşülerek problemin sınırları belirlenir",
+          "images": [],
+          "text_ar": "تُحدَّد حدود المشكلة من خلال مقابلة الأسرة والمعلم والإداري ومن في حكمهم ممن قد يكونون أطرافًا في المشكلة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي غير صحيح بشأن عملية التدبير الإرشادي؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk Koruma Kanunu çocukların korunması amacıyla birtakım temel ilkeler göz önünde bulundurularak hazırlanmıştır. Bu temel ilkeler arasında aşağıdakilerden hangisi yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Soruşturma ve kovuşturma sürecinde çocuğun durumuna uygun özel ihtimam gösterilmesi",
+          "images": [],
+          "text_ar": "إيلاء عناية خاصة مناسبة لوضع الطفل في مرحلتي التحقيق والمحاكمة"
+        },
+        {
+          "letter": "B",
+          "text": "Kararların alınmasında ve uygulanmasında, çocuğun yaşına ve gelişimine uygun eğitimini ve öğrenimini, kişiliğini ve toplumsal sorumluluğunu geliştirmesinin desteklenmesi",
+          "images": [],
+          "text_ar": "دعم تطوير تعليم الطفل وتعلمه بما يتناسب مع عمره ونموه، وتطوير شخصيته ومسؤوليته الاجتماعية، عند اتخاذ القرارات وتنفيذها"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuklar hakkında adli para cezasına en son çare olarak başvurulması",
+          "images": [],
+          "text_ar": "اللجوء إلى الغرامة القضائية بحق الأطفال كحل أخير"
+        },
+        {
+          "letter": "D",
+          "text": "Tedbir kararı verilirken kurumda bakım ve kurumda tutmanın son çare olarak görülmesi, kararların verilmesinde ve uygulanmasında toplumsal sorumluluğun paylaşılmasının sağlanması",
+          "images": [],
+          "text_ar": "اعتبار الرعاية في المؤسسة والإبقاء فيها حلًا أخيرًا عند إصدار قرار التدبير، وضمان تقاسم المسؤولية الاجتماعية في إصدار القرارات وتنفيذها"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklar hakkında yürütülen işlemlerde, yargılama ve kararların yerine getirilmesinde kimliğinin başkaları tarafından belirlenememesine yönelik önlemler alınmasıdır",
+          "images": [],
+          "text_ar": "اتخاذ تدابير تهدف إلى عدم تمكن الآخرين من تحديد هوية الطفل في الإجراءات المتخذة بشأنه وفي المحاكمة وتنفيذ القرارات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أُعدّ قانون حماية الطفل بهدف حماية الأطفال مع مراعاة مجموعة من المبادئ الأساسية. أي مما يلي ليس من هذه المبادئ الأساسية؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Kişinin kendi fiilleri ve işlemleriyle kendi lehine haklar ve kendi aleyhine borçlar oluşturabilme iktidarına ne denir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ayni hak",
+          "images": [],
+          "text_ar": "الحق العيني"
+        },
+        {
+          "letter": "B",
+          "text": "Fiil ehliyeti",
+          "images": [],
+          "text_ar": "أهلية الأداء"
+        },
+        {
+          "letter": "C",
+          "text": "Mutlak hak",
+          "images": [],
+          "text_ar": "الحق المطلق"
+        },
+        {
+          "letter": "D",
+          "text": "Hak ehliyeti",
+          "images": [],
+          "text_ar": "أهلية الوجوب"
+        },
+        {
+          "letter": "E",
+          "text": "Şahsa sıkı sıkıya bağlı haklar",
+          "images": [],
+          "text_ar": "الحقوق المرتبطة ارتباطًا وثيقًا بالشخص"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما اسم القدرة على إنشاء حقوق لصالح الشخص والتزامات عليه من خلال أفعاله وتصرفاته؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Ayırt etme gücüne sahip küçük, aşağıdaki işlemlerden hangisini yasal temsilcinin iznine gerek duymadan yapabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Evlenmek",
+          "images": [],
+          "text_ar": "الزواج"
+        },
+        {
+          "letter": "B",
+          "text": "Miras sözleşmesi yapmak",
+          "images": [],
+          "text_ar": "إبرام عقد الميراث"
+        },
+        {
+          "letter": "C",
+          "text": "İsmini değiştirmek",
+          "images": [],
+          "text_ar": "تغيير اسمه"
+        },
+        {
+          "letter": "D",
+          "text": "On beş yaşını da doldurmuş ise vasiyetname yapmak",
+          "images": [],
+          "text_ar": "عمل وصية إذا كان قد أتم الخامسة عشرة"
+        },
+        {
+          "letter": "E",
+          "text": "Spor arabasını satmak",
+          "images": [],
+          "text_ar": "بيع سيارة رياضية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "القاصر المتمتع بقدرة التمييز، أي من التصرفات التالية يستطيع القيام بها دون حاجة إلى إذن الممثل القانوني؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Derhâl korunma altına alınmasını gerektiren bir durumun varlığı hâlinde çocuk, Sosyal Hizmetler ve Çocuk Esirgeme Kurumu tarafından bakım ve gözetim altına alındıktan sonra acil korunma kararının alınması için Kurum tarafından çocuğun Kuruma geldiği tarihten itibaren en geç …… içinde çocuk hâkimine müracaat edilir. Hâkim tarafından, …… içinde talep hakkında karar verilir. Yukarıdaki boşluklara aşağıdakilerden hangisi getirilmelidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "5 gün / 3 gün",
+          "images": [],
+          "text_ar": "5 أيام / 3 أيام"
+        },
+        {
+          "letter": "B",
+          "text": "3 gün / 5 gün",
+          "images": [],
+          "text_ar": "3 أيام / 5 أيام"
+        },
+        {
+          "letter": "C",
+          "text": "1 hafta / 3 gün",
+          "images": [],
+          "text_ar": "أسبوع واحد / 3 أيام"
+        },
+        {
+          "letter": "D",
+          "text": "1 gün / aynı gün",
+          "images": [],
+          "text_ar": "يوم واحد / اليوم نفسه"
+        },
+        {
+          "letter": "E",
+          "text": "5 gün / 1 hafta",
+          "images": [],
+          "text_ar": "5 أيام / أسبوع واحد"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "في حال وجود وضع يقتضي وضع الطفل تحت الحماية فورًا، وبعد أن تتولى مؤسسة الخدمات الاجتماعية ورعاية الطفل رعايته والإشراف عليه، تتقدم المؤسسة بطلب إلى قاضي الطفل لاتخاذ قرار الحماية العاجل في موعد أقصاه …… من تاريخ وصول الطفل إلى المؤسسة. ويصدر القاضي قراره بشأن الطلب خلال …… . أي مما يلي ينبغي وضعه في الفراغين أعلاه؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "I. Tanıyan baba olmalıdır. II. Kanun tanıma hakkını anneye ve biyolojik babaya vermiştir. III. Çocuğun başka bir erkek ile soybağı ilişkisi olmamalıdır. Yukarıda tanımanın esasına ilişkin verilen şartlardan hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "D",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        },
+        {
+          "letter": "E",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "I. يجب أن يكون المُقِرّ أبًا. II. أعطى القانون حق الإقرار للأم وللأب البيولوجي. III. يجب ألا يكون للطفل علاقة نسب مع رجل آخر. أي الشروط المذكورة أعلاه بشأن أساس الإقرار غير صحيح؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "I. Çocuk ile ana arasında soybağı sadece doğum yoluyla kurulabilir. II. Çocuk ile ana arasında soybağının kurulabilmesi için ananın evli olması gerekir. III. Babalık karinesi aksi ispat edilebilen adi bir karinedir. IV. Kocanın baba olarak kabul edilebilmesi için evliliğin geçerli bir evlilik olması gerekir. Yukarıda verilen ifadelerden hangisi veya hangileri doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "B",
+          "text": "III ve IV",
+          "images": [],
+          "text_ar": "III وIV"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "E",
+          "text": "I, II ve III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "I. لا يمكن أن ينشأ النسب بين الطفل وأمه إلا عن طريق الولادة. II. لكي ينشأ النسب بين الطفل وأمه يجب أن تكون الأم متزوجة. III. قرينة الأبوة قرينة عادية قابلة لإثبات العكس. IV. لكي يُعتبر الزوج أبًا يجب أن يكون الزواج صحيحًا. أي مما ورد أعلاه صحيح؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Vesayet altında olan ve ayırt etme gücü de bulunmayan Bayan F’nin şehirde dolaşırken bir operatör mağazasından 3.000 liralık telefon alması durumunda, satış işleminin geçerliliği için aşağıdakilerden hangisi söylenebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Satış işlemi geçerlidir. Çünkü sözleşmenin karşı tarafı Bayan F’nin akıl hastası olduğunu bilmemektedir.",
+          "images": [],
+          "text_ar": "عملية البيع صحيحة؛ لأن الطرف الآخر في العقد لا يعلم أن السيدة F مصابة بمرض عقلي."
+        },
+        {
+          "letter": "B",
+          "text": "Satış işlemi geçerlidir. Çünkü Bayan F’nin maddi durumuna nazaran yaptığı alışveriş makul bir harcamadır.",
+          "images": [],
+          "text_ar": "عملية البيع صحيحة؛ لأن الشراء الذي أجرته السيدة F يُعد نفقة معقولة بالنظر إلى حالتها المالية."
+        },
+        {
+          "letter": "C",
+          "text": "Satış işleminin sonuç doğurması mümkün değildir. Zira Bayan F tam ehliyetsizdir.",
+          "images": [],
+          "text_ar": "لا يمكن أن تُنتج عملية البيع أثرًا؛ لأن السيدة F عديمة الأهلية تمامًا."
+        },
+        {
+          "letter": "D",
+          "text": "Satış işlemi geçerlidir. Çünkü Bayan F bu telefonu yüzde elli indirimli fiyat üzerinden almıştır.",
+          "images": [],
+          "text_ar": "عملية البيع صحيحة؛ لأن السيدة F اشترت هذا الهاتف بخصم خمسين بالمئة."
+        },
+        {
+          "letter": "E",
+          "text": "Satış işlemi yüzde elli indirimli fiyat üzerinden yapılmış olduğu için askıda hükümüzdür. Veli veya vasisinin rızasına göre geçerli olur ya da olmaz.",
+          "images": [],
+          "text_ar": "عملية البيع، لأنها جَرت بخصم خمسين بالمئة، موقوفة النفاذ؛ فتصح أو لا تصح بحسب رضا وليّها أو وصيّها."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "إذا اشترت السيدة F، وهي خاضعة للوصاية وليس لديها قدرة تمييز، هاتفًا بثمن 3.000 ليرة من متجر لمشغل الهاتف أثناء تجولها في المدينة، فأي مما يلي يمكن قوله بشأن صحة عملية البيع؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Bay A aşağıdakilerden hangisine yardım nafakası vermekle yükümlü değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Kardeşine",
+          "images": [],
+          "text_ar": "لأخيه"
+        },
+        {
+          "letter": "B",
+          "text": "Babasına",
+          "images": [],
+          "text_ar": "لأبيه"
+        },
+        {
+          "letter": "C",
+          "text": "Annesinin dedesine",
+          "images": [],
+          "text_ar": "لجدّ أمه"
+        },
+        {
+          "letter": "D",
+          "text": "Kuzeninin eşine",
+          "images": [],
+          "text_ar": "لزوجة ابن عمه"
+        },
+        {
+          "letter": "E",
+          "text": "Torununa",
+          "images": [],
+          "text_ar": "لحفيده"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "إلى أي مما يلي لا يُلزم السيد A بدفع نفقة المساعدة؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Evliliğin boşanma sebebiyle sona ermesinden doğan dava hakları, boşanma hükmünün kesinleşmesinden itibaren ne kadarlık bir zaman aşımına tabidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "6 ay",
+          "images": [],
+          "text_ar": "6 أشهر"
+        },
+        {
+          "letter": "B",
+          "text": "1 yıl",
+          "images": [],
+          "text_ar": "سنة واحدة"
+        },
+        {
+          "letter": "C",
+          "text": "3 yıl",
+          "images": [],
+          "text_ar": "3 سنوات"
+        },
+        {
+          "letter": "D",
+          "text": "10 yıl",
+          "images": [],
+          "text_ar": "10 سنوات"
+        },
+        {
+          "letter": "E",
+          "text": "Süresiz",
+          "images": [],
+          "text_ar": "بلا مدة محددة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما مدة التقادم التي تخضع لها حقوق الدعوى الناشئة عن انتهاء الزواج بسبب الطلاق، اعتبارًا من صيرورة حكم الطلاق نهائيًا؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Vesayet altında olan Bay B’nin yerleşim yeri neresidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Vesayet makamının bulunduğu yer",
+          "images": [],
+          "text_ar": "مكان وجود جهة الوصاية"
+        },
+        {
+          "letter": "B",
+          "text": "Vasinin yerleşim yeri",
+          "images": [],
+          "text_ar": "موطن الوصي"
+        },
+        {
+          "letter": "C",
+          "text": "Vasinin bizzat kendisinin belirlediği yer",
+          "images": [],
+          "text_ar": "المكان الذي يحدده الوصي بنفسه"
+        },
+        {
+          "letter": "D",
+          "text": "Bay B’nin velilerinin yerleşim yeri",
+          "images": [],
+          "text_ar": "موطن والدي السيد B"
+        },
+        {
+          "letter": "E",
+          "text": "Bay B’nin bizzat belirlediği yer",
+          "images": [],
+          "text_ar": "المكان الذي يحدده السيد B بنفسه"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما موطن السيد B الخاضع للوصاية؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki şıklardan hangisi soybağının reddi davasında davacı olabilecek kişilerden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Koca",
+          "images": [],
+          "text_ar": "الزوج"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuk",
+          "images": [],
+          "text_ar": "الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Baba olduğu iddia edilen kişi",
+          "images": [],
+          "text_ar": "من يُدّعى أنه الأب"
+        },
+        {
+          "letter": "D",
+          "text": "Kocanın altsoyu",
+          "images": [],
+          "text_ar": "فروع الزوج"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun teyzesi",
+          "images": [],
+          "text_ar": "خالة الطفل"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي من الخيارات التالية ليس من الأشخاص الذين يمكن أن يكونوا مدعين في دعوى نفي النسب؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Koruyucu ve destekleyici tedbirlerin alınmasında çocuğun içerisinde bulunduğu durumun derhal ve acil şekilde tedbir kararlarının alınmasını gerekli kıldığı durumlarda izlenen usul ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyal Hizmetler ve Çocuk Esirgeme Kurumu tarafından bakım ve gözetim altına alındıktan sonra acil korunma kararının alınması için Kurum tarafından çocuğun Kuruma geldiği tarihten itibaren en geç beş gün içinde çocuk hâkimine müracaat edilir. Hâkim tarafından, üç gün içinde talep hakkında karar verilir.",
+          "images": [],
+          "text_ar": "بعد أن تتولى مؤسسة الخدمات الاجتماعية ورعاية الطفل رعايته والإشراف عليه، تتقدم المؤسسة بطلب إلى قاضي الطفل لاتخاذ قرار الحماية العاجل في موعد أقصاه خمسة أيام من تاريخ وصول الطفل إلى المؤسسة. ويصدر القاضي قراره بشأن الطلب خلال ثلاثة أيام."
+        },
+        {
+          "letter": "B",
+          "text": "Acil korunma kararı en fazla otuz günlük süre ile sınırlı olmak üzere verilebilir. Bu süre içinde Sosyal Hizmetler ve Çocuk Esirgeme Kurumunca çocuk hakkında sosyal inceleme yapılır.",
+          "images": [],
+          "text_ar": "يجوز إصدار قرار الحماية العاجل بحد أقصى مدته ثلاثون يومًا. وتُجري مؤسسة الخدمات الاجتماعية ورعاية الطفل خلال هذه المدة دراسة اجتماعية عن الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal Hizmetler ve Çocuk Esirgeme Kurumu, yaptığı inceleme sonucunda, tedbir kararı alınmasının gerekmediği sonucuna varırsa bu yöndeki görüşünü ve sağlayacağı hizmetleri hâkime bildirir.",
+          "images": [],
+          "text_ar": "إذا خلصت مؤسسة الخدمات الاجتماعية ورعاية الطفل، نتيجة دراستها، إلى عدم الحاجة إلى اتخاذ قرار تدبير، أبلغت القاضي برأيها في هذا الشأن وبالخدمات التي ستقدمها."
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal Hizmetler ve Çocuk Esirgeme Kurumu çocuğun, ailesine teslim edilip edilmeyeceğine veya uygun görülen başkaca bir tedbire karar verebilir.",
+          "images": [],
+          "text_ar": "يجوز لمؤسسة الخدمات الاجتماعية ورعاية الطفل أن تقرر ما إذا كان الطفل سيُسلَّم إلى أسرته أو يُتخذ بشأنه تدبير آخر تراه مناسبًا."
+        },
+        {
+          "letter": "E",
+          "text": "Sosyal Hizmetler ve Çocuk Esirgeme Kurumu, çocuk hakkında tedbir kararı alınması gerektiği sonucuna varırsa hâkimden koruyucu ve destekleyici tedbir kararı verilmesini talep eder",
+          "images": [],
+          "text_ar": "إذا خلصت مؤسسة الخدمات الاجتماعية ورعاية الطفل إلى وجوب اتخاذ قرار تدبير بشأن الطفل، طلبت من القاضي إصدار قرار بتدبير وقائي وداعم"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي غير صحيح بشأن الإجراء المتبع في حالات اتخاذ التدابير الوقائية والداعمة عندما يقتضي وضع الطفل اتخاذ قرارات تدبير فورية وعاجلة؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "I. Tanıma, babanın nüfus memuruna veya mahkemeye yazılı başvurusu ya da resmi senette veya vasiyetnamesinde yapacağı beyanla olur. II. Tanıma vasiyetname ile yapılamaz. III. Tanıma, miras sözleşmesi şeklinde yapılan bir ölüme bağlı tasarruf ile yapılıyorsa yapan kişinin tam fiil ehliyetine sahip olması gerekir. Yukarıdakilerden hangisi tanımanın şekline ilişkin şartlar arasında yer almaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "B",
+          "text": "Yalnız II",
+          "images": [],
+          "text_ar": "II فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "D",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "E",
+          "text": "I ve III",
+          "images": [],
+          "text_ar": "I وIII"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "I. يقع الإقرار بطلب كتابي من الأب إلى موظف النفوس أو إلى المحكمة، أو بإقرار في سند رسمي أو في وصية. II. لا يمكن الإقرار بوصية. III. إذا كان الإقرار يتم بتصرف مضاف إلى الموت في صورة عقد ميراث، فيجب أن يكون المقرِّر تام الأهلية. أي مما ورد أعلاه ليس من شروط شكل الإقرار؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "3878145694745487a2af436e2d9ed89ef2961814ec65d6f22ea17b1645f3e7da"
+}

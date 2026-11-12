@@ -1,0 +1,439 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -7",
+  "exam_slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-7",
+  "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Ünite -7",
+  "source_url": "https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-unite-7/",
+  "scraped_at": "2026-11-12T16:24:05+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Flynn etkisi nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Zekanın kalıtsallığının artan yaşla birlikte artmasıdır.",
+          "images": [],
+          "text_ar": "تزايد وراثية الذكاء مع تقدم العمر."
+        },
+        {
+          "letter": "B",
+          "text": "Toplumun ortalama zeka skorlarının yıllar geçtikçe yükselmesidir.",
+          "images": [],
+          "text_ar": "ارتفاع متوسط درجات الذكاء في المجتمع بمرور السنوات."
+        },
+        {
+          "letter": "C",
+          "text": "Sezgilerin zeka üzerindeki etkisidir.",
+          "images": [],
+          "text_ar": "أثر الحدس في الذكاء."
+        },
+        {
+          "letter": "D",
+          "text": "Dikkatin test süresi uzadıkça azalmasıdır.",
+          "images": [],
+          "text_ar": "تراجع الانتباه كلما طالت مدة الاختبار."
+        },
+        {
+          "letter": "E",
+          "text": "Test sonuçlarının uygulayıcılar arasında belirgin değişebilmesidir.",
+          "images": [],
+          "text_ar": "إمكانية تغيّر نتائج الاختبار تغيّرًا واضحًا بين المطبّقين."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما هو تأثير فلين؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Gardner’in çoklu zeka kuramında yer alan zeka alanlarındandır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Algısal Hız",
+          "images": [],
+          "text_ar": "السرعة الإدراكية"
+        },
+        {
+          "letter": "B",
+          "text": "Bellek",
+          "images": [],
+          "text_ar": "الذاكرة"
+        },
+        {
+          "letter": "C",
+          "text": "Kişilerarası zeka",
+          "images": [],
+          "text_ar": "الذكاء البينشخصي"
+        },
+        {
+          "letter": "D",
+          "text": "Muhakeme",
+          "images": [],
+          "text_ar": "الاستدلال"
+        },
+        {
+          "letter": "E",
+          "text": "Dikkat",
+          "images": [],
+          "text_ar": "الانتباه"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي من مجالات الذكاء الواردة في نظرية الذكاءات المتعددة لدى غاردنر؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Dikkat nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ortamdaki diğer unsurları görmezden gelip, istediği bilgiye odaklanabilmektir.",
+          "images": [],
+          "text_ar": "القدرة على تجاهل العناصر الأخرى في البيئة والتركيز على المعلومة المطلوبة."
+        },
+        {
+          "letter": "B",
+          "text": "Mevcut durumu iyi analiz edip uygun kelimeleri seçebilmektir.",
+          "images": [],
+          "text_ar": "القدرة على تحليل الوضع القائم تحليلًا جيدًا واختيار الكلمات المناسبة."
+        },
+        {
+          "letter": "C",
+          "text": "Somut nesne ve olaylarla doğrudan ilişkili olmayan kelimelerle düşünebilmektir.",
+          "images": [],
+          "text_ar": "القدرة على التفكير بكلمات لا ترتبط ارتباطًا مباشرًا بالأشياء والأحداث الملموسة."
+        },
+        {
+          "letter": "D",
+          "text": "Bilgiyi alma, anlama ve uygun cevabı vermenin zamanlamasıdır.",
+          "images": [],
+          "text_ar": "توقيت تلقي المعلومة وفهمها وإعطاء الاستجابة المناسبة."
+        },
+        {
+          "letter": "E",
+          "text": "Yeni durumları doğru değerlendirmek ve ona uygun tepkiler ortaya koymaktır.",
+          "images": [],
+          "text_ar": "القدرة على تقييم المواقف الجديدة تقييمًا صحيحًا وإظهار استجابات مناسبة لها."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "ما الانتباه؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi zekanın kapsadığı becerilere dahil değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilgiyi kazanma ve öğrendiklerini uygulama",
+          "images": [],
+          "text_ar": "اكتساب المعرفة وتطبيق ما تعلّمه"
+        },
+        {
+          "letter": "B",
+          "text": "Düşünürken mantığını kullanabilme",
+          "images": [],
+          "text_ar": "القدرة على استخدام المنطق في التفكير"
+        },
+        {
+          "letter": "C",
+          "text": "Plan yapabilme",
+          "images": [],
+          "text_ar": "القدرة على التخطيط"
+        },
+        {
+          "letter": "D",
+          "text": "Yargılama ve problem çözme",
+          "images": [],
+          "text_ar": "الحكم وحل المشكلات"
+        },
+        {
+          "letter": "E",
+          "text": "Duygudurum",
+          "images": [],
+          "text_ar": "الحالة المزاجية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي لا يدخل ضمن المهارات التي يشملها الذكاء؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Zeka için aşağıdaki ifadelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sosyoekonomik durum, kültür, dil, ev ortamı gibi faktörler zekayı etkilemez.",
+          "images": [],
+          "text_ar": "عوامل مثل الوضع الاجتماعي والاقتصادي والثقافة واللغة وبيئة المنزل لا تؤثر في الذكاء."
+        },
+        {
+          "letter": "B",
+          "text": "Zeka, tamamen kalıtsaldır.",
+          "images": [],
+          "text_ar": "الذكاء وراثي بالكامل."
+        },
+        {
+          "letter": "C",
+          "text": "IQ puanı, birçok faktörden etkilenen güncel zihinsel işlevselliğin bir belirtecidir.",
+          "images": [],
+          "text_ar": "درجة IQ مؤشر على الوظيفة العقلية الحالية التي تتأثر بعوامل كثيرة."
+        },
+        {
+          "letter": "D",
+          "text": "Zeka puanı yüksek olanların hepsi hayatta başarılı olurlar.",
+          "images": [],
+          "text_ar": "كل من لديهم درجات ذكاء مرتفعة ينجحون في الحياة."
+        },
+        {
+          "letter": "E",
+          "text": "Zeka, doğrudan ölçülebilir.",
+          "images": [],
+          "text_ar": "الذكاء قابل للقياس المباشر."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية صحيح بشأن الذكاء؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi küme etmeni kuramına göre zekanın kapsamına giren becerilerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sözel kavrama",
+          "images": [],
+          "text_ar": "الفهم اللفظي"
+        },
+        {
+          "letter": "B",
+          "text": "Akıcı zeka",
+          "images": [],
+          "text_ar": "الذكاء السائل"
+        },
+        {
+          "letter": "C",
+          "text": "Algısal hız",
+          "images": [],
+          "text_ar": "السرعة الإدراكية"
+        },
+        {
+          "letter": "D",
+          "text": "Sayısal yetenek",
+          "images": [],
+          "text_ar": "القدرة العددية"
+        },
+        {
+          "letter": "E",
+          "text": "Bellek",
+          "images": [],
+          "text_ar": "الذاكرة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من المهارات التي يشملها الذكاء وفق نظرية العوامل المجموعية؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Zekanın tanımlanmasında kullanılan bilgi işleme modeli hakkında hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilginin nasıl öğrenildiği ve problem çözmek için nasıl kullanıldığına odaklanır.",
+          "images": [],
+          "text_ar": "يركز على كيفية تعلّم المعلومات وكيفية استخدامها في حل المشكلات."
+        },
+        {
+          "letter": "B",
+          "text": "Günümüzde kabul gören bir model değildir.",
+          "images": [],
+          "text_ar": "ليس نموذجًا مقبولًا في الوقت الحاضر."
+        },
+        {
+          "letter": "C",
+          "text": "Zekayı, içsel zeka, müziksel zeka gibi alanlara ayırarak inceler.",
+          "images": [],
+          "text_ar": "يدرس الذكاء بتقسيمه إلى مجالات مثل الذكاء الداخلي والذكاء الموسيقي."
+        },
+        {
+          "letter": "D",
+          "text": "Modelde insanın doğa ile ilişkisi merkezde bulunur.",
+          "images": [],
+          "text_ar": "تقع علاقة الإنسان بالطبيعة في مركز النموذج."
+        },
+        {
+          "letter": "E",
+          "text": "Cattell-Horn-Carroll kuramı bu modele dayanır.",
+          "images": [],
+          "text_ar": "تستند نظرية كاتيل-هورن-كارول إلى هذا النموذج."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي صحيح بشأن نموذج معالجة المعلومات المستخدم في تعريف الذكاء؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Zeka için aşağıdaki ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sir Francis Galton, zekanın duysal özelliklerle bağlantılı olduğunu öne sürmüştür.",
+          "images": [],
+          "text_ar": "ذهب السير فرانسيس غالتون إلى أن الذكاء مرتبط بالخصائص الحسية."
+        },
+        {
+          "letter": "B",
+          "text": "Zeka bölümü (IQ) terimi ilk kez William Stern tarafından kullanılmıştır.",
+          "images": [],
+          "text_ar": "استُخدم مصطلح حاصل الذكاء (IQ) لأول مرة على يد وليام شتيرن."
+        },
+        {
+          "letter": "C",
+          "text": "Günümüzdeki şekliyle ilk zeka testini Alfred Binet geliştirmiştir.",
+          "images": [],
+          "text_ar": "طوّر ألفريد بينيه أول اختبار ذكاء بشكله الحالي."
+        },
+        {
+          "letter": "D",
+          "text": "Zeka testleri ilk kez 19. yy’ın başında İngiltere’de kullanılmıştır.",
+          "images": [],
+          "text_ar": "استُخدمت اختبارات الذكاء لأول مرة في مطلع القرن 19 في إنجلترا."
+        },
+        {
+          "letter": "E",
+          "text": "Jean Piaget zekayı, dış dünyaya adapte olma üzerinden tanımlamıştır.",
+          "images": [],
+          "text_ar": "عرّف جان بياجيه الذكاء من خلال التكيّف مع العالم الخارجي."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي من العبارات التالية غير صحيح بشأن الذكاء؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi zeka kuramı değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İki Etmenli Zeka Kuramı",
+          "images": [],
+          "text_ar": "نظرية العاملين للذكاء"
+        },
+        {
+          "letter": "B",
+          "text": "Küme Etmen Kuramı",
+          "images": [],
+          "text_ar": "نظرية العوامل المجموعية"
+        },
+        {
+          "letter": "C",
+          "text": "Çoklu Zeka Kuramı",
+          "images": [],
+          "text_ar": "نظرية الذكاءات المتعددة"
+        },
+        {
+          "letter": "D",
+          "text": "Cattell-Horn-Carroll Kuramı",
+          "images": [],
+          "text_ar": "نظرية كاتيل-هورن-كارول"
+        },
+        {
+          "letter": "E",
+          "text": "Psikoanalitik Kuram",
+          "images": [],
+          "text_ar": "النظرية التحليلية النفسية"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس نظرية من نظريات الذكاء؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki ifadelerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Genetik faktörler zeka üzerinde etkilidir.",
+          "images": [],
+          "text_ar": "العوامل الوراثية مؤثرة في الذكاء."
+        },
+        {
+          "letter": "B",
+          "text": "Çevresel faktörler zeka üzerinde etkilidir.",
+          "images": [],
+          "text_ar": "العوامل البيئية مؤثرة في الذكاء."
+        },
+        {
+          "letter": "C",
+          "text": "Zeka puanları bebeklikten itibaren değişmez.",
+          "images": [],
+          "text_ar": "درجات الذكاء لا تتغير منذ مرحلة الرضاعة."
+        },
+        {
+          "letter": "D",
+          "text": "Zekanın kalıtsallığı yaşla birlikte artar.",
+          "images": [],
+          "text_ar": "تزداد وراثية الذكاء مع تقدم العمر."
+        },
+        {
+          "letter": "E",
+          "text": "18 yaşından sonra zeka skorlarında belirgin değişme olması beklenmez.",
+          "images": [],
+          "text_ar": "لا يُتوقع حدوث تغير واضح في درجات الذكاء بعد سن 18."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من العبارات التالية غير صحيح؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "66ec7d452d650697472ce04599fb8dbc001456b6a513137101c598bbe83110d8"
+}

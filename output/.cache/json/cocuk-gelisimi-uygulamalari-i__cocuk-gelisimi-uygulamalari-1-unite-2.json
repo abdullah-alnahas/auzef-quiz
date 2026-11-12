@@ -1,0 +1,439 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Çocuk Gelişimi Uygulamaları -1 Ünite -2",
+  "exam_slug": "cocuk-gelisimi-uygulamalari-1-unite-2",
+  "page_title": "Çocuk Gelişimi Uygulamaları -1 Ünite -2",
+  "source_url": "https://lolonolo.com/2023/09/26/cocuk-gelisimi-uygulamalari-1-unite-2/",
+  "scraped_at": "2026-11-12T16:23:42+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki soru örneklerinden hangisi çocuğun yaşadığı fiziksel çevre ile ilgili soruya örnek olarak verilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun odası kaç m² dir?",
+          "images": [],
+          "text_ar": "كم مترًا مربعًا تبلغ مساحة غرفة الطفل؟"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun alışkınlıkları nelerdir?",
+          "images": [],
+          "text_ar": "ما عادات الطفل؟"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun genel ruh hali nasıldır?",
+          "images": [],
+          "text_ar": "كيف حال الطفل النفسية العامة؟"
+        },
+        {
+          "letter": "D",
+          "text": "Baba ve çocuk bir günü birlikte nasıl geçirmektedir?",
+          "images": [],
+          "text_ar": "كيف يقضي الأب والطفل يومًا معًا؟"
+        },
+        {
+          "letter": "E",
+          "text": "Ebeveynlerin öğrenim durumları nedir?",
+          "images": [],
+          "text_ar": "ما المستوى التعليمي للوالدين؟"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من الأمثلة التالية على الأسئلة يمكن أن يُقدَّم مثالًا على سؤال يتعلق بالبيئة المادية التي يعيش فيها الطفل؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Tipik gelişim gösteren ve 3 yaşından büyük bir çocuğun ne kadar sürelik periyotlarla gelişiminin takip edilmesi ve gerekli gelişimsel değerlendirmelerin yapılması gerekir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ayda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة في الشهر"
+        },
+        {
+          "letter": "B",
+          "text": "3 Ayda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة كل 3 أشهر"
+        },
+        {
+          "letter": "C",
+          "text": "6 Ayda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة كل 6 أشهر"
+        },
+        {
+          "letter": "D",
+          "text": "Yılda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة في السنة"
+        },
+        {
+          "letter": "E",
+          "text": "2 Yılda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة كل سنتين"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "بأي فترات زمنية يجب متابعة نمو طفل يزيد عمره على 3 سنوات ويبدي نموًا نمطيًا، وإجراء التقييمات النمائية اللازمة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocuğu tanıma ve değerlendirme amaçlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuk için gelişimsel destek programı hazırlamak",
+          "images": [],
+          "text_ar": "إعداد برنامج دعم نمائي للطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun gelişimsel takibini yapmak",
+          "images": [],
+          "text_ar": "إجراء المتابعة النمائية للطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun ilgi ve ihtiyaçlarını tespit etmek",
+          "images": [],
+          "text_ar": "تحديد ميول الطفل واحتياجاته"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun zayıf yönlerini belirlemek",
+          "images": [],
+          "text_ar": "تحديد جوانب الضعف عند الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların bireysel farklılıklarını ortaya çıkartmak",
+          "images": [],
+          "text_ar": "إظهار الفروق الفردية بين الأطفال"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس من أهداف التعرف على الطفل وتقييمه؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi informal değerlendirme araçlarından birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ev Ödevleri",
+          "images": [],
+          "text_ar": "الواجبات المنزلية"
+        },
+        {
+          "letter": "B",
+          "text": "Görüşme Notları",
+          "images": [],
+          "text_ar": "ملاحظات المقابلات"
+        },
+        {
+          "letter": "C",
+          "text": "Gözlem Listeleri",
+          "images": [],
+          "text_ar": "قوائم الملاحظة"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukların Resimleri",
+          "images": [],
+          "text_ar": "رسوم الأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Ankara Gelişim Tarama Envanteri",
+          "images": [],
+          "text_ar": "قائمة أنقرة للمسح النمائي (AGTE)"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أدوات التقييم غير الرسمية؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıda verilen çocuğu tanıma ve değerlendirme süreçleri ile ilgili bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukları değerlendirirken çocuğun güçlü yanlarına odaklanmalıdır.",
+          "images": [],
+          "text_ar": "عند تقييم الأطفال ينبغي التركيز على جوانب القوة لديهم."
+        },
+        {
+          "letter": "B",
+          "text": "Hem çocuğun hem de ebeveynin izni olmalıdır.",
+          "images": [],
+          "text_ar": "يجب الحصول على موافقة كل من الطفل والوالدين."
+        },
+        {
+          "letter": "C",
+          "text": "Ortaya çıkan tanılar tüm herkesle rahatça paylaşılmalıdır.",
+          "images": [],
+          "text_ar": "يجب مشاركة التشخيصات الناتجة مع الجميع بحرية."
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirme yaparken tüm gelişim alanı bir bütün şekilde ele alınmalıdır.",
+          "images": [],
+          "text_ar": "عند التقييم ينبغي تناول مجالات النمو جميعها بوصفها كلًّا متكاملًا."
+        },
+        {
+          "letter": "E",
+          "text": "Hem formal hem de İnformal değerlendirmeyi birlikte yapmak sonucun güvenirliğini arttırır.",
+          "images": [],
+          "text_ar": "إجراء التقييم الرسمي وغير الرسمي معًا يزيد ثبات النتيجة."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من المعلومات التالية عن عمليات التعرف على الطفل وتقييمه غير صحيحة؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "I. Metropolitan Okul Olgunluğu Testi II. Denver II III. Erken Matematik Kabiliyetleri Testi Yukarıda verilen testlerden hangisi veya hangileri Hazırbulunuşluk Testlerine dâhil edilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "E",
+          "text": "I-II-III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "I. اختبار متروبوليتان للنضج المدرسي II. دنفر II III. اختبار القدرات الرياضية المبكرة\nأي من الاختبارات الواردة أعلاه أو أي منها يمكن إدراجه ضمن اختبارات الاستعداد؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun tanı ve değerlendirme süreci ile ilgili verilen bilgilerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanı ve değerlendirme sürecinde birçok farklı uzman görev almalıdır.",
+          "images": [],
+          "text_ar": "يجب أن يشارك في عملية التشخيص والتقييم عدد من الأخصائيين المختلفين."
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirme yaparken İnformal değerlendirme araçları yerine formal değerlendirme araçlarına daha çok yer verilmelidir.",
+          "images": [],
+          "text_ar": "عند إجراء التقييم ينبغي إيلاء مساحة أكبر لأدوات التقييم الرسمية بدلًا من أدوات التقييم غير الرسمية."
+        },
+        {
+          "letter": "C",
+          "text": "Tanı ve değerlendirme sadece bir kez değil sürekli olacak şekilde gerçekleştirilmelidir.",
+          "images": [],
+          "text_ar": "يجب أن يتم التشخيص والتقييم باستمرار لا مرة واحدة فقط."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun değerlendirilmesinde aile izin vermez ise değerlendirme yapılamaz.",
+          "images": [],
+          "text_ar": "إذا لم تسمح الأسرة بتقييم الطفل فلا يمكن إجراء التقييم."
+        },
+        {
+          "letter": "E",
+          "text": "Tanı ve değerlendirme sürecinde çocuğun gönüllü olması gerekmektedir.",
+          "images": [],
+          "text_ar": "يجب أن يكون الطفل راغبًا في عملية التشخيص والتقييم."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي المعلومات التالية المتعلقة بعملية تشخيص الطفل وتقييمه غير صحيحة؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Formal Değerlendirme ile informal Değerlendirme Araçları ile ilgili verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Formal değerlendirme araçlarının önceden geçerlik güvenirlik çalışması yapılmalıdır.",
+          "images": [],
+          "text_ar": "يجب إجراء دراسات الصدق والثبات على أدوات التقييم الرسمية مسبقًا."
+        },
+        {
+          "letter": "B",
+          "text": "İnformal değerlendirme araçlarında sayısal bir sonuç vardır.",
+          "images": [],
+          "text_ar": "تتضمن أدوات التقييم غير الرسمية نتيجة عددية."
+        },
+        {
+          "letter": "C",
+          "text": "Formal değerlendirme araçları daha ekonomiktir.",
+          "images": [],
+          "text_ar": "أدوات التقييم الرسمية أكثر اقتصادية."
+        },
+        {
+          "letter": "D",
+          "text": "İnformal değerlendirme araçları formal değerlendirme araçlarına göre daha uzun sürer.",
+          "images": [],
+          "text_ar": "تستغرق أدوات التقييم غير الرسمية وقتًا أطول من أدوات التقييم الرسمية."
+        },
+        {
+          "letter": "E",
+          "text": "Formal değerlendirme araçları büyük örneklem gruplarında yapılmış ve standardize edilmiştir.",
+          "images": [],
+          "text_ar": "أُجريت أدوات التقييم الرسمية على مجموعات كبيرة من العينات ووُحّدت معاييرها."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي المعلومات التالية عن أدوات التقييم الرسمية وأدوات التقييم غير الرسمية غير صحيحة؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi formal değerlendirme araçlarından birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Hazırbulunuşluk Testleri",
+          "images": [],
+          "text_ar": "اختبارات الاستعداد"
+        },
+        {
+          "letter": "B",
+          "text": "Başarı Testleri",
+          "images": [],
+          "text_ar": "اختبارات التحصيل"
+        },
+        {
+          "letter": "C",
+          "text": "Gözlem Formları",
+          "images": [],
+          "text_ar": "استمارات الملاحظة"
+        },
+        {
+          "letter": "D",
+          "text": "Yetenek Testleri",
+          "images": [],
+          "text_ar": "اختبارات القدرات"
+        },
+        {
+          "letter": "E",
+          "text": "Gelişimsel Tarama Testleri",
+          "images": [],
+          "text_ar": "اختبارات المسح النمائي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من أدوات التقييم الرسمية؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "“Erken yaşta tanı konulan durumlar için alınacak önlemler, çocuğun gelişimi için büyük önem taşır.” ifadesi çocuğu tanıma ve değerlendirme sürecindeki uygulanacak olan hangi genel ilke kapsamına girmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Erkenlik İlkesi",
+          "images": [],
+          "text_ar": "مبدأ التبكير"
+        },
+        {
+          "letter": "B",
+          "text": "Bütünlük İlkesi",
+          "images": [],
+          "text_ar": "مبدأ التكامل"
+        },
+        {
+          "letter": "C",
+          "text": "Gizlilik İlkesi",
+          "images": [],
+          "text_ar": "مبدأ السرية"
+        },
+        {
+          "letter": "D",
+          "text": "İşbirliği İlkesi",
+          "images": [],
+          "text_ar": "مبدأ التعاون"
+        },
+        {
+          "letter": "E",
+          "text": "Yeterlilik İlkesi",
+          "images": [],
+          "text_ar": "مبدأ الكفاية"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "«تكتسب التدابير المتخذة في الحالات التي تُشخَّص في سن مبكرة أهمية كبيرة لنمو الطفل.» تدخل العبارة أعلاه في نطاق أي مبدأ عام من المبادئ التي تُطبَّق في عملية التعرف على الطفل وتقييمه؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "fbc62bffed84a88aba14c06d74fe5b834d4b9e3c3d99f64d39bd1ce143b7d991"
+}

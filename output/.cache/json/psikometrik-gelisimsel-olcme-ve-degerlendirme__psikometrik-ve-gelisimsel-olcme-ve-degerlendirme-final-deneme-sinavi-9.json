@@ -1,0 +1,859 @@
+{
+  "course": "PSİKOMETRİK - GELİŞİMSEL ÖLÇME VE DEĞERLENDİRME",
+  "course_slug": "psikometrik-gelisimsel-olcme-ve-degerlendirme",
+  "exam": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -9",
+  "exam_slug": "psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-9",
+  "page_title": "Psikometrik ve Gelişimsel Ölçme ve Değerlendirme Final Deneme Sınavı -9",
+  "source_url": "https://lolonolo.com/2022/10/12/psikometrik-ve-gelisimsel-olcme-ve-degerlendirme-final-deneme-sinavi-9/",
+  "scraped_at": "2026-11-12T16:24:05+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel değerlendirmede yapılacak hatanın fark edilebilmesi için ne yapılmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Değerlendirme öncesi veliden bilgi alınmaması",
+          "images": [],
+          "text_ar": "عدم الحصول على معلومات من ولي الأمر قبل التقييم"
+        },
+        {
+          "letter": "B",
+          "text": "Çocukla kısa bir süre oyun oynayarak çocuğun gelişimsel seviyesi hakkında fikir sahibi olunması",
+          "images": [],
+          "text_ar": "اللعب مع الطفل مدة قصيرة لتكوين فكرة عن مستوى نموه"
+        },
+        {
+          "letter": "C",
+          "text": "Her seferinde aynı ölçüm aracının kullanılması",
+          "images": [],
+          "text_ar": "استخدام أداة القياس نفسها في كل مرة"
+        },
+        {
+          "letter": "D",
+          "text": "Tüm çocuklara iki kere test yapılması",
+          "images": [],
+          "text_ar": "إجراء الاختبار مرتين لجميع الأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Etiketleyici bir dil kullanılmaması",
+          "images": [],
+          "text_ar": "عدم استخدام لغة موسومة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما الذي ينبغي فعله لكي يُلاحَظ الخطأ الذي قد يقع في التقييم النمائي؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Beyin gelişimi ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Belli becerilerin kazanımı için kritik dönemler vardır.",
+          "images": [],
+          "text_ar": "توجد مراحل حرجة لاكتساب مهارات معينة."
+        },
+        {
+          "letter": "B",
+          "text": "Her beceri yaşamın her döneminde kazanılabilir; ancak daha çok çaba gerektirir.",
+          "images": [],
+          "text_ar": "يمكن اكتساب كل مهارة في أي مرحلة من الحياة؛ لكنها تتطلب جهدًا أكبر."
+        },
+        {
+          "letter": "C",
+          "text": "Nöronlar arası bağlantı oluşması ve bu bağlantıların sağ kalabilmesi sadece genetik faktörlere bağlıdır.",
+          "images": [],
+          "text_ar": "تكوّن الروابط بين الخلايا العصبية وبقاء هذه الروابط يعتمدان على العوامل الوراثية فقط."
+        },
+        {
+          "letter": "D",
+          "text": "Yaşamın erken dönemindeki beyin hasarları her zaman ağır sorunlara neden olur.",
+          "images": [],
+          "text_ar": "تؤدي إصابات الدماغ في مرحلة مبكرة من الحياة دائمًا إلى مشكلات شديدة."
+        },
+        {
+          "letter": "E",
+          "text": "Yoğun entelektüel uyaran alan beyinde sinapslarda budanma olmayacaktır.",
+          "images": [],
+          "text_ar": "لن يحدث تقليم في المشابك الدماغية لدى من يتلقى مثيرات فكرية مكثفة."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي صحيح بشأن نمو الدماغ؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi projektif test değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Rorschach Mürekkep Lekesi Testi",
+          "images": [],
+          "text_ar": "اختبار رورشاخ لبقع الحبر"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklar için Algı Testi",
+          "images": [],
+          "text_ar": "اختبار الإدراك للأطفال"
+        },
+        {
+          "letter": "C",
+          "text": "Luisa Düss Psikanalitik Hikayeler Testi",
+          "images": [],
+          "text_ar": "اختبار لويزا دوس للقصص التحليلية النفسية"
+        },
+        {
+          "letter": "D",
+          "text": "Peabody Resim Kelime Eşleştirme Testi",
+          "images": [],
+          "text_ar": "اختبار بيبودي لمطابقة الكلمات بالصور"
+        },
+        {
+          "letter": "E",
+          "text": "Gazi Beier Cümle Tamamlama Testi",
+          "images": [],
+          "text_ar": "اختبار غازي باير لإكمال الجمل"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي ليس اختبارًا إسقاطيًا؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi gelişimsel değerlendirmenin amaçlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun gelişim düzeyinin belirlenip ihtiyaçlarının tespiti",
+          "images": [],
+          "text_ar": "تحديد مستوى نمو الطفل وتعيين احتياجاته"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun gelişiminin takip edilmesi",
+          "images": [],
+          "text_ar": "متابعة نمو الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa yapılan müdahalelerin etkinliğinin değerlendirilmesi",
+          "images": [],
+          "text_ar": "تقييم فاعلية التدخلات التي تُجرى مع الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun davranışlarının gelişimsel bağlamda ele alınabilmesi",
+          "images": [],
+          "text_ar": "إمكانية تناول سلوكيات الطفل في سياق نمائي"
+        },
+        {
+          "letter": "E",
+          "text": "Hastalık tanısı konması",
+          "images": [],
+          "text_ar": "تشخيص المرض"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أهداف التقييم النمائي؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Ölçme işlemi öncesinde hangisi yapılmamalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun kullandığı ilaçların öğrenilmesi",
+          "images": [],
+          "text_ar": "معرفة الأدوية التي يستخدمها الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun herhangi bir sağlık sorunu varsa öğrenilmesi",
+          "images": [],
+          "text_ar": "معرفة ما إذا كانت لدى الطفل أي مشكلة صحية"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğa yapılacak işlem hakkında bilgi verilmesi",
+          "images": [],
+          "text_ar": "إبلاغ الطفل بمعلومات عن الإجراء الذي سيُجرى"
+        },
+        {
+          "letter": "D",
+          "text": "Çocukla uzun süre oyun oynanması",
+          "images": [],
+          "text_ar": "اللعب مع الطفل مدة طويلة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun velisine bilgi verilmesi",
+          "images": [],
+          "text_ar": "إبلاغ ولي أمر الطفل"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي مما يلي لا ينبغي فعله قبل عملية القياس؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dil-konuşma testidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Stanford Binet Testi",
+          "images": [],
+          "text_ar": "اختبار ستانفورد-بينيه"
+        },
+        {
+          "letter": "B",
+          "text": "Metropolitan Okul Olgunluğu Testi",
+          "images": [],
+          "text_ar": "اختبار ميتروبوليتان للنضج المدرسي"
+        },
+        {
+          "letter": "C",
+          "text": "Ankara Artikülasyon Testi",
+          "images": [],
+          "text_ar": "اختبار أنقرة للنطق"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklar için Algı Testi",
+          "images": [],
+          "text_ar": "اختبار الإدراك للأطفال"
+        },
+        {
+          "letter": "E",
+          "text": "Frankfurter Testi",
+          "images": [],
+          "text_ar": "اختبار فرانكفورت"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي اختبار لغة وكلام؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Dil gelişimi için aşağıdakilerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun kurallı konuşmayı öğrendiği kural öğrenme dönemi 0-2 yaş arasıdır.",
+          "images": [],
+          "text_ar": "مرحلة تعلّم القواعد، التي يتعلم فيها الطفل الكلام المنظّم، هي ما بين 0-2 سنة."
+        },
+        {
+          "letter": "B",
+          "text": "Alıcı dil, o dile ait kelimeleri ya da işaretleri anlayabilmekle ilgilidir.",
+          "images": [],
+          "text_ar": "تتعلق اللغة الاستقبالية بالقدرة على فهم مفردات اللغة أو إشاراتها."
+        },
+        {
+          "letter": "C",
+          "text": "İfade edici dil, duygu ve düşünceleri ifade edebilmek için kelime ve işaretleri kullanabilmekle ilgilidir.",
+          "images": [],
+          "text_ar": "تتعلق اللغة التعبيرية بالقدرة على استخدام المفردات والإشارات للتعبير عن المشاعر والأفكار."
+        },
+        {
+          "letter": "D",
+          "text": "Sözcük öğrenme dönemi olan 1-2 yaş arasında çocuk, sözcükleri anlamlı bir şekilde kullanmaya başlar.",
+          "images": [],
+          "text_ar": "في مرحلة تعلّم المفردات، أي ما بين 1-2 سنة، يبدأ الطفل في استخدام المفردات استخدامًا ذا معنى."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuklarda dil gelişimi ile ilgili sorunlarda öncelikle işitme ve iletişim sorunlarının değerlendirilmesi gerekir.",
+          "images": [],
+          "text_ar": "في المشكلات المتعلقة بتطور اللغة لدى الأطفال يجب أولًا تقييم مشكلات السمع والتواصل."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي غير صحيح بشأن تطور اللغة؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi çocukların ölçme ve değerlendirmesinde erişkinlerden farklı olarak dikkate alınmalıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ölçüm aracının geçerli olması",
+          "images": [],
+          "text_ar": "أن تكون أداة القياس صادقة"
+        },
+        {
+          "letter": "B",
+          "text": "Ölçüm yapılacak odanın sessiz olması",
+          "images": [],
+          "text_ar": "أن تكون الغرفة التي يُجرى فيها القياس هادئة"
+        },
+        {
+          "letter": "C",
+          "text": "Ölçüm aracının güvenilir olması",
+          "images": [],
+          "text_ar": "أن تكون أداة القياس ثابتة"
+        },
+        {
+          "letter": "D",
+          "text": "Etiketleyici bir dil kullanılmaması",
+          "images": [],
+          "text_ar": "عدم استخدام لغة موسومة"
+        },
+        {
+          "letter": "E",
+          "text": "Oyun ve hikaye gibi yöntemler kullanılması",
+          "images": [],
+          "text_ar": "استخدام طرائق مثل اللعب والقصة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ينبغي مراعاته في قياس الأطفال وتقييمهم على نحو يختلف عن البالغين؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi gelişimsel bir sorunu değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gelişim gecikmesi",
+          "images": [],
+          "text_ar": "تأخر النمو"
+        },
+        {
+          "letter": "B",
+          "text": "Gelişimsel gerileme",
+          "images": [],
+          "text_ar": "التراجع النمائي"
+        },
+        {
+          "letter": "C",
+          "text": "Gelişimsel sapma",
+          "images": [],
+          "text_ar": "الانحراف النمائي"
+        },
+        {
+          "letter": "D",
+          "text": "Gelişimsel bozukluk",
+          "images": [],
+          "text_ar": "الاضطراب النمائي"
+        },
+        {
+          "letter": "E",
+          "text": "Gelişimsel dönüm noktası",
+          "images": [],
+          "text_ar": "المعلم النمائي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس مشكلة نمائية؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Gelişimsel değerlendirme sonuçlarının yorumlanması konusunda hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece gelişim testi sonucuna göre karar verilir.",
+          "images": [],
+          "text_ar": "يُتخذ القرار وفق نتيجة اختبار النمو فقط."
+        },
+        {
+          "letter": "B",
+          "text": "Test sonucu, çocuğun klinik durumuyla birlikte yorumlanmalıdır.",
+          "images": [],
+          "text_ar": "ينبغي تفسير نتيجة الاختبار إلى جانب الحالة الإكلينيكية للطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Test sonucuna göre tanı konur. D) Test sonucunun doğru olduğu kabul edilir.",
+          "images": [],
+          "text_ar": "يُوضع التشخيص وفق نتيجة الاختبار، ويُقبل أن نتيجة الاختبار صحيحة."
+        },
+        {
+          "letter": "D",
+          "text": "Test sonucunun doğru olduğu kabul edilir.",
+          "images": [],
+          "text_ar": "يُقبل أن نتيجة الاختبار صحيحة."
+        },
+        {
+          "letter": "E",
+          "text": "Çevresel faktörler test yorumlanırken dikkate alınmamalıdır.",
+          "images": [],
+          "text_ar": "ينبغي ألّا تُراعى العوامل البيئية عند تفسير الاختبار."
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي صحيح بشأن تفسير نتائج التقييم النمائي؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun dikkat süresinin kısa olması değerlendirmede hangi değişikliğe neden olmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Performansının yakından takip edilmesini gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم متابعة أدائه عن قرب."
+        },
+        {
+          "letter": "B",
+          "text": "Ölçme işlemini çocuğun keyif alacağı bir formatta sunmayı gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم تقديم عملية القياس في صيغة يستمتع بها الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "İşlem süresi uzarsa mola verilmesi gibi esneklikleri gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم قدرًا من المرونة مثل منح استراحة إذا طالت مدة الإجراء."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğa saygılı davranılmasını gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم معاملة الطفل باحترام."
+        },
+        {
+          "letter": "E",
+          "text": "Odada çocuğun dikkatini dağıtacak nesnelerin bulunmamasını gerektirir.",
+          "images": [],
+          "text_ar": "يستلزم ألّا توجد في الغرفة أشياء تشتت انتباه الطفل."
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "أي تغيير لا يسببه قصر مدة انتباه الطفل في التقييم؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ülkemizde kullanılan gelişim değerlendirme araçlarından değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ankara Gelişim Tarama Envanteri",
+          "images": [],
+          "text_ar": "قائمة أنقرة للمسح النمائي"
+        },
+        {
+          "letter": "B",
+          "text": "Denver II Gelişimsel Tarama Testi",
+          "images": [],
+          "text_ar": "اختبار دنفر II للمسح النمائي"
+        },
+        {
+          "letter": "C",
+          "text": "Gazi Erken Çocukluk Gelişimi Değerlendirme Aracı",
+          "images": [],
+          "text_ar": "أداة غازي لتقييم نمو الطفولة المبكرة"
+        },
+        {
+          "letter": "D",
+          "text": "Bayley Bebekler için Gelişim Değerlendirme Ölçeği",
+          "images": [],
+          "text_ar": "مقياس بايلي لتقييم نمو الرضع"
+        },
+        {
+          "letter": "E",
+          "text": "Aile Hayatı ve Çocuk Yetiştirme Tutumu Ölçeği",
+          "images": [],
+          "text_ar": "مقياس حياة الأسرة واتجاه تنشئة الطفل"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من أدوات التقييم النمائي المستخدمة في بلدنا؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun test performansını en uygun hale getirmek için hangisi yapılmaz?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Test sonrası sonuç hakkında bilgi verilir",
+          "images": [],
+          "text_ar": "إبلاغ معلومات عن النتيجة بعد الاختبار"
+        },
+        {
+          "letter": "B",
+          "text": "Isınma faaliyeti kullanılır",
+          "images": [],
+          "text_ar": "استخدام نشاط تهيئة"
+        },
+        {
+          "letter": "C",
+          "text": "Odanın düzeni çocuğa uygun hale getirilir",
+          "images": [],
+          "text_ar": "تهيئة ترتيب الغرفة بما يناسب الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Teste yumuşak geçiş yapılır",
+          "images": [],
+          "text_ar": "الانتقال إلى الاختبار انتقالًا سلسًا"
+        },
+        {
+          "letter": "E",
+          "text": "Gerekirse prosedürde değişiklik yapılır.",
+          "images": [],
+          "text_ar": "إدخال تعديل على الإجراء عند الحاجة."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي لا يُفعل لجعل أداء الطفل في الاختبار على أفضل صورة؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi dikkat testidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tematik Algı Testi",
+          "images": [],
+          "text_ar": "اختبار الإدراك الموضوعي"
+        },
+        {
+          "letter": "B",
+          "text": "Gazi Beier Cümle Tamamlama Testi",
+          "images": [],
+          "text_ar": "اختبار غازي باير لإكمال الجمل"
+        },
+        {
+          "letter": "C",
+          "text": "Ankara Artikülasyon Testi",
+          "images": [],
+          "text_ar": "اختبار أنقرة للنطق"
+        },
+        {
+          "letter": "D",
+          "text": "Metropolitan Okul Olgunluğu Testi",
+          "images": [],
+          "text_ar": "اختبار ميتروبوليتان للنضج المدرسي"
+        },
+        {
+          "letter": "E",
+          "text": "Stroop Testi",
+          "images": [],
+          "text_ar": "اختبار ستروب"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي اختبار انتباه؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Çocukların psikolojik değerlendirmesi ile ilgili ifadelerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Etiketleyici bir dil kullanılmamalıdır.",
+          "images": [],
+          "text_ar": "لا ينبغي استخدام لغة موسومة."
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirmede çocuğun eksiklerine odaklanılması gerekir.",
+          "images": [],
+          "text_ar": "ينبغي التركيز في التقييم على نواقص الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların dikkati erişkinlere göre daha kolay dağılır.",
+          "images": [],
+          "text_ar": "يتشتت انتباه الأطفال بسهولة أكبر من البالغين."
+        },
+        {
+          "letter": "D",
+          "text": "Değerlendirmede esnek davranmak önemlidir.",
+          "images": [],
+          "text_ar": "من المهم التصرف بمرونة في التقييم."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun velisiyle iyi bir ilişki ve iletişim kurmak çok önemlidir.",
+          "images": [],
+          "text_ar": "من المهم جدًا إقامة علاقة وتواصل جيدين مع ولي أمر الطفل."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من العبارات التالية غير صحيح بشأن التقييم النفسي للأطفال؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi özgül öğrenme güçlüğü test bataryasında yer alan testlerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Gessel gelişim figürleri testi",
+          "images": [],
+          "text_ar": "اختبار جيسل لأشكال النمو"
+        },
+        {
+          "letter": "B",
+          "text": "Küplerle desen",
+          "images": [],
+          "text_ar": "تصميم بالمكعبات"
+        },
+        {
+          "letter": "C",
+          "text": "Head sağ-sol ayırt etme testi",
+          "images": [],
+          "text_ar": "اختبار هيد للتمييز بين اليمين واليسار"
+        },
+        {
+          "letter": "D",
+          "text": "Harris lateralleşme testi",
+          "images": [],
+          "text_ar": "اختبار هاريس للجانبية"
+        },
+        {
+          "letter": "E",
+          "text": "Yazma testi",
+          "images": [],
+          "text_ar": "اختبار الكتابة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من الاختبارات التي تتضمنها بطارية اختبارات صعوبات التعلم النوعية؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun normal gelişimi için hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun gelişimi, her zaman aynı persentil değerinde kalır.",
+          "images": [],
+          "text_ar": "يبقى نمو الطفل دائمًا عند قيمة المئين نفسها."
+        },
+        {
+          "letter": "B",
+          "text": "Normal gelişim, çocuğun genetik özellikleri ve çevresinden etkilenir.",
+          "images": [],
+          "text_ar": "يتأثر النمو الطبيعي بالخصائص الوراثية للطفل وبيئته."
+        },
+        {
+          "letter": "C",
+          "text": "Normal gelişim, her çocukta aynı yörüngeyi takip eder.",
+          "images": [],
+          "text_ar": "يسير النمو الطبيعي في المسار نفسه لدى كل طفل."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun normal gelişimi statik bir süreçtir.",
+          "images": [],
+          "text_ar": "النمو الطبيعي للطفل عملية ساكنة."
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun gelişimi, ilkokul yıllarına kadar devam eder.",
+          "images": [],
+          "text_ar": "يستمر نمو الطفل حتى سنوات المدرسة الابتدائية."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي صحيح بشأن النمو الطبيعي للطفل؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Piaget’nin kuramındaki işlem öncesi dönemin özelliklerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ben-merkezcilik",
+          "images": [],
+          "text_ar": "التمركز حول الذات"
+        },
+        {
+          "letter": "B",
+          "text": "Olaylara diğer insanların perspektifinden bakamama",
+          "images": [],
+          "text_ar": "عدم القدرة على النظر إلى الأحداث من منظور الآخرين"
+        },
+        {
+          "letter": "C",
+          "text": "Miktarın korunumu",
+          "images": [],
+          "text_ar": "حفظ الكمية"
+        },
+        {
+          "letter": "D",
+          "text": "Nesnelerin de insanlar gibi düşünüp hissedebildiklerine inanma",
+          "images": [],
+          "text_ar": "الاعتقاد بأن الأشياء يمكن أن تفكر وتشعر مثل البشر"
+        },
+        {
+          "letter": "E",
+          "text": "Bir problemin birden fazla boyutuna odaklanamama",
+          "images": [],
+          "text_ar": "عدم القدرة على التركيز على أكثر من بُعد واحد للمشكلة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من خصائص مرحلة ما قبل العمليات في نظرية بياجيه؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Özgül Öğrenme Güçlüğü Test Bataryasının değerlendirdiği becerilerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Okuma",
+          "images": [],
+          "text_ar": "القراءة"
+        },
+        {
+          "letter": "B",
+          "text": "Yazma",
+          "images": [],
+          "text_ar": "الكتابة"
+        },
+        {
+          "letter": "C",
+          "text": "Sağ-sol ayırt etme",
+          "images": [],
+          "text_ar": "التمييز بين اليمين واليسار"
+        },
+        {
+          "letter": "D",
+          "text": "Lateralleşme",
+          "images": [],
+          "text_ar": "الجانبية"
+        },
+        {
+          "letter": "E",
+          "text": "Sözel zeka",
+          "images": [],
+          "text_ar": "الذكاء اللفظي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من المهارات التي تقيسها بطارية اختبارات صعوبات التعلم النوعية؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Erikson’un psikososyal gelişim kuramına göre aşağıdaki eşleştirmelerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "İlk çocukluk dönemi- Amaç ve amacında sebat edebilmek",
+          "images": [],
+          "text_ar": "مرحلة الطفولة المبكرة - الهدف والمثابرة على الهدف"
+        },
+        {
+          "letter": "B",
+          "text": "Oyun çağı dönemi- İrade",
+          "images": [],
+          "text_ar": "مرحلة سن اللعب - الإرادة"
+        },
+        {
+          "letter": "C",
+          "text": "Okul çağı dönemi- Üretkenlik",
+          "images": [],
+          "text_ar": "مرحلة سن المدرسة - الإنتاجية"
+        },
+        {
+          "letter": "D",
+          "text": "Bebeklik dönemi- Vefa",
+          "images": [],
+          "text_ar": "مرحلة الرضاعة - الوفاء"
+        },
+        {
+          "letter": "E",
+          "text": "Ergenlik dönemi- Temel güven",
+          "images": [],
+          "text_ar": "مرحلة المراهقة - الثقة الأساسية"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "وفق نظرية إريكسون للنمو النفسي-الاجتماعي، أي من المطابقات التالية صحيحة؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "76d6b9e21108681b5e19300d2532861d8da476a987a589119edba1fe2f389842"
+}

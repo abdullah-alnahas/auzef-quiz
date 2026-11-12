@@ -3,7 +3,7 @@ course: ÇOCUKLUKTA YABANCI DİL OLARAK TÜRKÇE ÖĞRETİMİ
 exam: 2021 Vize Deneme Sınavı-1
 source_url: https://lolonolo.com/2021/11/05/cocuklukta-yabanci-dil-olarak-turkce-ogretimi-2021-vize-deneme-sinavi-1/
 question_count: 20
-scraped_at: 2026-11-12T15:00:56+03:00
+scraped_at: 2026-11-12T16:23:51+03:00
 ---
 
 ### Q1

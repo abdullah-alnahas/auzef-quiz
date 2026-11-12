@@ -3,7 +3,7 @@ course: ÇOCUKLUKTA YABANCI DİL OLARAK TÜRKÇE ÖĞRETİMİ
 exam: 2021 Bütünleme Soruları
 source_url: https://lolonolo.com/2021/08/09/cocuklukta-yabanci-dil-olarak-turkce-ogretimi-2021-butunleme/
 question_count: 40
-scraped_at: 2026-11-12T14:58:17+03:00
+scraped_at: 2026-11-12T16:21:30+03:00
 ---
 
 ### Q1

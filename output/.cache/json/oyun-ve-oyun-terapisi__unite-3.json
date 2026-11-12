@@ -1,0 +1,439 @@
+{
+  "course": "OYUN VE OYUN TERAPİSİ",
+  "course_slug": "oyun-ve-oyun-terapisi",
+  "exam": "Ünite-3",
+  "exam_slug": "unite-3",
+  "page_title": "Oyun ve Oyun Terapisi Ünite-3",
+  "source_url": "https://lolonolo.com/2025/10/02/oyun-ve-oyun-terapisi-unite-3/",
+  "scraped_at": "2026-11-12T16:23:59+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Yönlendirmesiz (İnsan Merkezli) oyun terapisi yaklaşımında terapistin temel rolü aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sorun çözme tekniklerini öğretmek",
+          "images": [],
+          "text_ar": "تعليم تقنيات حل المشكلات"
+        },
+        {
+          "letter": "B",
+          "text": "Oyunun yapısını belirlemek",
+          "images": [],
+          "text_ar": "تحديد بنية اللعب"
+        },
+        {
+          "letter": "C",
+          "text": "Empatik, yansıtıcı ve kabul edici bir tutum sergilemek",
+          "images": [],
+          "text_ar": "التحلي باتجاه تعاطفي وانعكاسي وتقبّلي"
+        },
+        {
+          "letter": "D",
+          "text": "Disiplin kuralları uygulamak",
+          "images": [],
+          "text_ar": "تطبيق قواعد الانضباط"
+        },
+        {
+          "letter": "E",
+          "text": "Oyunu hızlıca sonlandırmak",
+          "images": [],
+          "text_ar": "إنهاء اللعب بسرعة"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما الدور الأساسي للمعالج في مقاربة العلاج باللعب غير التوجيهي (المتمركز حول الإنسان)؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisi sürecinde sonlandırma aşamasında en çok dikkat edilmesi gereken husus aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyuncakları çocuktan saklamak",
+          "images": [],
+          "text_ar": "إخفاء الألعاب عن الطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Aileyi sürece dahil etmemek",
+          "images": [],
+          "text_ar": "عدم إشراك الأسرة في العملية"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun duygusal hazırlığını destekleyerek süreci aşamalı olarak kapatmak",
+          "images": [],
+          "text_ar": "دعم الاستعداد العاطفي للطفل وإغلاق العملية تدريجيًا"
+        },
+        {
+          "letter": "D",
+          "text": "Terapötik ilişkiyi bir anda kesmek",
+          "images": [],
+          "text_ar": "قطع العلاقة العلاجية فجأة"
+        },
+        {
+          "letter": "E",
+          "text": "Tüm materyalleri teslim etmek",
+          "images": [],
+          "text_ar": "تسليم جميع الأدوات"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما الأمر الذي ينبغي مراعاته أكثر من غيره في مرحلة الإنهاء من عملية العلاج باللعب؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Eklektik yaklaşımın temel özelliği aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tek bir terapi kuramına bağlı kalmak",
+          "images": [],
+          "text_ar": "الالتزام بنظرية علاجية واحدة"
+        },
+        {
+          "letter": "B",
+          "text": "Sadece yönlendirmesiz teknikler kullanmak",
+          "images": [],
+          "text_ar": "استخدام التقنيات غير التوجيهية فقط"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnızca grup terapisinde kullanılmak",
+          "images": [],
+          "text_ar": "الاقتصار على استخدامها في العلاج الجماعي"
+        },
+        {
+          "letter": "D",
+          "text": "Farklı terapi ekollerinin birlikte kullanılması",
+          "images": [],
+          "text_ar": "استخدام مدارس علاجية مختلفة معًا"
+        },
+        {
+          "letter": "E",
+          "text": "Terapide ailenin sürece müdahale etmesi",
+          "images": [],
+          "text_ar": "تدخل الأسرة في العملية العلاجية"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "ما الخصيصة الأساسية للمقاربة الانتقائية؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi oyun terapisinde kullanılan gelişim alanlarından biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bilişsel gelişim",
+          "images": [],
+          "text_ar": "النمو المعرفي"
+        },
+        {
+          "letter": "B",
+          "text": "Akademik başarı",
+          "images": [],
+          "text_ar": "التحصيل الأكاديمي"
+        },
+        {
+          "letter": "C",
+          "text": "Duygusal gelişim",
+          "images": [],
+          "text_ar": "النمو العاطفي"
+        },
+        {
+          "letter": "D",
+          "text": "Sosyal gelişim",
+          "images": [],
+          "text_ar": "النمو الاجتماعي"
+        },
+        {
+          "letter": "E",
+          "text": "Dilsel gelişim",
+          "images": [],
+          "text_ar": "النمو اللغوي"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من مجالات النمو المستخدمة في العلاج باللعب؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi yönlendirmeli oyun terapisinin bir özelliğidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun oyunu tamamen serbest bırakılır",
+          "images": [],
+          "text_ar": "يُترك لعب الطفل حرًا تمامًا"
+        },
+        {
+          "letter": "B",
+          "text": "Terapist, müdahaleleri hedef doğrultusunda yapılandırır",
+          "images": [],
+          "text_ar": "يبني المعالج التدخلات وفقًا للهدف"
+        },
+        {
+          "letter": "C",
+          "text": "Yalnızca fiziksel gelişime odaklanır",
+          "images": [],
+          "text_ar": "التركيز على النمو الجسدي فقط"
+        },
+        {
+          "letter": "D",
+          "text": "Oyunda semboller analiz edilmez",
+          "images": [],
+          "text_ar": "لا تُحلَّل الرموز في اللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Terapistin pasif gözlemci kalması gerekir",
+          "images": [],
+          "text_ar": "أن يبقى المعالج مراقبًا سلبيًا"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي من خصائص العلاج باللعب التوجيهي؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Kum oyunu terapisinin en belirgin özelliği nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Grup içi yarışmalar içerir",
+          "images": [],
+          "text_ar": "يتضمن مسابقات داخل المجموعة"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun iç dünyasını semboller aracılığıyla ifade etmesine imkân tanır",
+          "images": [],
+          "text_ar": "يتيح للطفل التعبير عن عالمه الداخلي عبر الرموز"
+        },
+        {
+          "letter": "C",
+          "text": "Aile ile birlikte yürütülür",
+          "images": [],
+          "text_ar": "يُنفَّذ بمشاركة الأسرة"
+        },
+        {
+          "letter": "D",
+          "text": "Sadece 5 yaş altı çocuklarda kullanılır",
+          "images": [],
+          "text_ar": "يُستخدم فقط مع الأطفال دون سن 5 سنوات"
+        },
+        {
+          "letter": "E",
+          "text": "Oyuncak kullanımı yasaktır",
+          "images": [],
+          "text_ar": "يُحظر استخدام الألعاب"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما أبرز خصيصة للعلاج باللعب بالرمل؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Oyun terapisi sürecinde terapistin en önemli görevlerinden biri nedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Oyunun gidişatını sürekli değiştirmek",
+          "images": [],
+          "text_ar": "تغيير مسار اللعب باستمرار"
+        },
+        {
+          "letter": "B",
+          "text": "Güvenli, çocuk odaklı bir ortam sağlamak",
+          "images": [],
+          "text_ar": "توفير بيئة آمنة متمركزة حول الطفل"
+        },
+        {
+          "letter": "C",
+          "text": "Oyuncakları değerlendirmek",
+          "images": [],
+          "text_ar": "تقييم الألعاب"
+        },
+        {
+          "letter": "D",
+          "text": "Sadece ebeveyni yönlendirmek",
+          "images": [],
+          "text_ar": "توجيه أحد الوالدين فقط"
+        },
+        {
+          "letter": "E",
+          "text": "Süreci hızlıca sonlandırmak",
+          "images": [],
+          "text_ar": "إنهاء العملية بسرعة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما أحد أهم واجبات المعالج في عملية العلاج باللعب؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Filial terapide aşağıdakilerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece okul ortamında uygulanır",
+          "images": [],
+          "text_ar": "يُطبَّق في البيئة المدرسية فقط"
+        },
+        {
+          "letter": "B",
+          "text": "Aile terapötik sürece aktif biçimde katılır",
+          "images": [],
+          "text_ar": "تشارك الأسرة مشاركة نشطة في العملية العلاجية"
+        },
+        {
+          "letter": "C",
+          "text": "Terapist çocuğun yerine oynar",
+          "images": [],
+          "text_ar": "يلعب المعالج بدلًا من الطفل"
+        },
+        {
+          "letter": "D",
+          "text": "Sembolik oyunlar dışlanır",
+          "images": [],
+          "text_ar": "تُستبعد الألعاب الرمزية"
+        },
+        {
+          "letter": "E",
+          "text": "Terapinin sadece ilk aşamasında kullanılır",
+          "images": [],
+          "text_ar": "يُستخدم في المرحلة الأولى من العلاج فقط"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي صحيح بشأن العلاج الفيليالي؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi oyun terapisinin temel amaçlarından biridir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun akademik başarısını artırmak",
+          "images": [],
+          "text_ar": "رفع التحصيل الأكاديمي للطفل"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun iç dünyasını oyun yoluyla ifade etmesini sağlamak",
+          "images": [],
+          "text_ar": "تمكين الطفل من التعبير عن عالمه الداخلي عبر اللعب"
+        },
+        {
+          "letter": "C",
+          "text": "Aileyi disipline etmek",
+          "images": [],
+          "text_ar": "فرض الانضباط على الأسرة"
+        },
+        {
+          "letter": "D",
+          "text": "Oyun alışkanlıklarını kısıtlamak",
+          "images": [],
+          "text_ar": "تقييد عادات اللعب"
+        },
+        {
+          "letter": "E",
+          "text": "Çocuğun dikkat süresini zorlamak",
+          "images": [],
+          "text_ar": "إجهاد مدة انتباه الطفل"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي من الأهداف الأساسية للعلاج باللعب؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi duygusal gelişimi destekleyen bir oyun terapisi tekniğidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Puzzle tamamlama",
+          "images": [],
+          "text_ar": "إكمال الأحجية"
+        },
+        {
+          "letter": "B",
+          "text": "Bloklarla kule yapma",
+          "images": [],
+          "text_ar": "بناء برج بالمكعبات"
+        },
+        {
+          "letter": "C",
+          "text": "Kuklalarla duygu temsili oluşturma",
+          "images": [],
+          "text_ar": "تمثيل المشاعر بالدمى"
+        },
+        {
+          "letter": "D",
+          "text": "Hafıza kartlarıyla eşleştirme",
+          "images": [],
+          "text_ar": "المطابقة ببطاقات الذاكرة"
+        },
+        {
+          "letter": "E",
+          "text": "Sessizlik oyunu oynama",
+          "images": [],
+          "text_ar": "لعب لعبة الصمت"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي تقنية من تقنيات العلاج باللعب تدعم النمو العاطفي؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "0369c21f019458c49cc78c82b7e023868e0a57d9a2e4103cb3013b02dd5192b4"
+}

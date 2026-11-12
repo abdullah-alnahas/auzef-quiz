@@ -3,7 +3,7 @@ course: OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ
 exam: 2025-2026 Bütünleme Soruları
 source_url: https://lolonolo.com/2026/10/08/okul-oncesi-donemde-duyu-egitimi-2025-2026-butunleme-sorulari/
 question_count: 25
-scraped_at: 2026-11-12T14:58:21+03:00
+scraped_at: 2026-11-12T16:21:33+03:00
 ---
 
 ### Q1

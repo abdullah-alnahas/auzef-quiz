@@ -3,7 +3,7 @@ course: SOSYAL-DUYGUSAL GELİŞİM
 exam: Sosyal – Duygusal Gelişim Ünite -5
 source_url: https://lolonolo.com/2022/10/03/sosyal-duygusal-gelisim-unite-5/
 question_count: 10
-scraped_at: 2026-11-12T15:01:09+03:00
+scraped_at: 2026-11-12T16:24:12+03:00
 ---
 
 ### Q1

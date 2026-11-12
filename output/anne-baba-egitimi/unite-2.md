@@ -3,7 +3,7 @@ course: ANNE BABA EĞİTİMİ
 exam: Ünite -2
 source_url: https://lolonolo.com/2022/10/31/anne-baba-egitimi-unite-2/
 question_count: 5
-scraped_at: 2026-11-12T15:00:47+03:00
+scraped_at: 2026-11-12T16:23:38+03:00
 ---
 
 ### Q1

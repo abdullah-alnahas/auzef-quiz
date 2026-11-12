@@ -3,7 +3,7 @@ course: SOSYAL-DUYGUSAL GELİŞİM
 exam: Sosyal – Duygusal Gelişim Final Deneme Sınavı -10
 source_url: https://lolonolo.com/2022/10/05/sosyal-duygusal-gelisim-final-deneme-sinavi-10/
 question_count: 20
-scraped_at: 2026-11-12T15:01:07+03:00
+scraped_at: 2026-11-12T16:24:09+03:00
 ---
 
 ### Q1

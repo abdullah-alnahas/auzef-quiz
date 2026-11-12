@@ -3,7 +3,7 @@ course: ÇOCUK GELİŞİMİ UYGULAMALARI I
 exam: Çocuk Gelişimi Uygulamaları -1 Vize Deneme Sınavı -1
 source_url: https://lolonolo.com/2023/09/27/cocuk-gelisimi-uygulamalari-1-vize-deneme-sinavi-1/
 question_count: 20
-scraped_at: 2026-11-12T15:00:48+03:00
+scraped_at: 2026-11-12T16:23:39+03:00
 ---
 
 ### Q1

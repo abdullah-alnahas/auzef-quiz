@@ -3,7 +3,7 @@ course: OKUL ÖNCESİ DÖNEMDE DUYU EĞİTİMİ
 exam: Ünite -2
 source_url: https://lolonolo.com/2022/09/28/okul-oncesi-donemde-duyu-egitimi-unite-2/
 question_count: 5
-scraped_at: 2026-11-12T15:01:01+03:00
+scraped_at: 2026-11-12T16:23:58+03:00
 ---
 
 ### Q1

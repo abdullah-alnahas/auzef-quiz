@@ -1,0 +1,439 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Çocuk Gelişimi Uygulamaları-1 Ünite -7",
+  "exam_slug": "cocuk-gelisimi-uygulamalari-1-unite-7",
+  "page_title": "Çocuk Gelişimi Uygulamaları-1 Ünite -7",
+  "source_url": "https://lolonolo.com/2023/09/27/cocuk-gelisimi-uygulamalari-1-unite-7/",
+  "scraped_at": "2026-11-12T16:23:42+03:00",
+  "answer_source": "markup",
+  "question_count": 10,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi özel gereksinim sınıflandırmaları arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fiziksel yetersizlik yaşayan çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الذين يعانون قصورًا جسديًا"
+        },
+        {
+          "letter": "B",
+          "text": "Tipik gelişim gösteren çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الذين يظهرون نموًا نمطيًا"
+        },
+        {
+          "letter": "C",
+          "text": "İşitsel yetersizliği bulunan çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الذين لديهم قصور سمعي"
+        },
+        {
+          "letter": "D",
+          "text": "Zihinsel yetersizliği olan çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الذين لديهم قصور عقلي"
+        },
+        {
+          "letter": "E",
+          "text": "Uyum sorunları yaşayan çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الذين يعانون مشكلات تكيف"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يرد ضمن تصنيفات الاحتياجات الخاصة؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Özel Eğitim ve Rehabilitasyon Merkezlerinin temel amacı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukları akademik olarak birinci sıraya taşımak.",
+          "images": [],
+          "text_ar": "نقل الأطفال إلى المرتبة الأولى أكاديميًا."
+        },
+        {
+          "letter": "B",
+          "text": "Özel eğitim ihtiyacı olan bireylerin eğitim ve rehabilitasyon ihtiyaçlarını karşılamak.",
+          "images": [],
+          "text_ar": "تلبية احتياجات التعليم وإعادة التأهيل للأفراد ذوي احتياجات التربية الخاصة."
+        },
+        {
+          "letter": "C",
+          "text": "Çocukları sadece fiziksel olarak geliştirmek.",
+          "images": [],
+          "text_ar": "تنمية الأطفال جسديًا فقط."
+        },
+        {
+          "letter": "D",
+          "text": "Yalnızca dil ve konuşma bozukluklarına odaklanmak.",
+          "images": [],
+          "text_ar": "التركيز على اضطرابات اللغة والكلام فقط."
+        },
+        {
+          "letter": "E",
+          "text": "Ailelere öğretmenlik yapmak.",
+          "images": [],
+          "text_ar": "القيام بدور المعلم للأسر."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما الهدف الأساسي لمراكز التربية الخاصة وإعادة التأهيل؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi ve eğitimcisinin RAM’lardaki hangi görevi aşağıdakilerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Danışanları fizikî, zihinsel ve sosyal gelişim bakımından incelemek.",
+          "images": [],
+          "text_ar": "فحص المراجعين من حيث النمو الجسدي والعقلي والاجتماعي."
+        },
+        {
+          "letter": "B",
+          "text": "Alanıyla ilgili konularda ailelere ve öğretmenlere rehberlik etmek.",
+          "images": [],
+          "text_ar": "إرشاد الأسر والمعلمين في الموضوعات المتعلقة بمجاله."
+        },
+        {
+          "letter": "C",
+          "text": "Alanıyla ilgili konularda hastanelerde tedavi uygulamalarına katılmak.",
+          "images": [],
+          "text_ar": "المشاركة في تطبيقات العلاج في المستشفيات في الموضوعات المتعلقة بمجاله."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk gelişimi ve eğitimi ile ilgili broşür, kitapçık hazırlama çalışmalarına katılmak.",
+          "images": [],
+          "text_ar": "المشاركة في أعمال إعداد منشورات وكتيبات تتعلق بنمو الطفل وتعليمه."
+        },
+        {
+          "letter": "E",
+          "text": "Çeşitli gelişim ölçeklerinin geliştirilmesi çalışmalarına katılmak.",
+          "images": [],
+          "text_ar": "المشاركة في أعمال تطوير مقاييس نمائية متنوعة."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من المهام التالية ليست من مهام أخصائي نمو الطفل وتعليمه في مراكز الإرشاد والبحث (RAM)؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "“Özel gereksinimli çocuklar” ifadesini aşağıdaki şıklardan hangisi tanımlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Standart eğitim hizmetlerinden tam anlamıyla faydalanabilen bireyler.",
+          "images": [],
+          "text_ar": "أفراد يستطيعون الاستفادة استفادة كاملة من خدمات التعليم القياسية."
+        },
+        {
+          "letter": "B",
+          "text": "Sadece fiziksel sorunları olan bireyler.",
+          "images": [],
+          "text_ar": "أفراد لديهم مشكلات جسدية فقط."
+        },
+        {
+          "letter": "C",
+          "text": "0-18 yaş arasında, belirli alanlarda öğrenme zorlukları yaşayan veya gelişimleri diğer çocuklardan farklı olan bireyler.",
+          "images": [],
+          "text_ar": "أفراد بين 0-18 سنة يعانون صعوبات تعلم في مجالات معينة أو يختلف نموهم عن نمو الأطفال الآخرين."
+        },
+        {
+          "letter": "D",
+          "text": "Sadece zihinsel engelli bireyler.",
+          "images": [],
+          "text_ar": "أفراد لديهم إعاقة عقلية فقط."
+        },
+        {
+          "letter": "E",
+          "text": "Eğitim almalarına gerek olmayan bireyler.",
+          "images": [],
+          "text_ar": "أفراد لا يحتاجون إلى تعليم."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من الخيارات التالية يحدد عبارة «الأطفال ذوو الاحتياجات الخاصة»؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi eğitsel değerlendirme ve tanılama sürecinin temel ilkelerinden biri değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Bireyin ihtiyaçları dikkate alınarak en uygun ortamda gerçekleştirilir.",
+          "images": [],
+          "text_ar": "تُجرى في البيئة الأنسب مع مراعاة احتياجات الفرد."
+        },
+        {
+          "letter": "B",
+          "text": "Herhangi bir yaşta yapılabilir.",
+          "images": [],
+          "text_ar": "يمكن إجراؤها في أي عمر."
+        },
+        {
+          "letter": "C",
+          "text": "Bireyin özel ihtiyaçlarına bağlı olarak çeşitli yöntem, teknik ve uygun ölçme araçlarıyla yapılır.",
+          "images": [],
+          "text_ar": "تُجرى بأساليب وتقنيات متنوعة وبأدوات قياس مناسبة، وفقًا للاحتياجات الخاصة للفرد."
+        },
+        {
+          "letter": "D",
+          "text": "Aile, okul ve uzmanlar birlikte çalışırlar.",
+          "images": [],
+          "text_ar": "تعمل الأسرة والمدرسة والخبراء معًا."
+        },
+        {
+          "letter": "E",
+          "text": "Ailenin ve gerektiğinde bireyin görüşüne başvurulmaktadır.",
+          "images": [],
+          "text_ar": "يُستشار رأي الأسرة ورأي الفرد عند الحاجة."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي ليس من المبادئ الأساسية لعملية التقييم والتشخيص التربوي؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Bireyselleştirilmiş Eğitim Programları (BEP) nın tanımı aşağıda verilen bilgilerden hangisinde yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel eğitim ihtiyacı olan bireylerin genel eğitim programını takip etmeleri için hazırlanan bir eğitim dokümanı.",
+          "images": [],
+          "text_ar": "وثيقة تعليمية تُعدّ لتمكين الأفراد ذوي احتياجات التربية الخاصة من متابعة برنامج التعليم العام."
+        },
+        {
+          "letter": "B",
+          "text": "Özel eğitim ihtiyacı olan bireyler için belirlenen eğitsel ihtiyaçları ve hedefleri doğrultusunda izlenecek yöntemleri ve stratejileri tanımlayan bir eğitim dokümanı.",
+          "images": [],
+          "text_ar": "وثيقة تعليمية تحدد الأساليب والاستراتيجيات التي ستُتبع وفق الاحتياجات والأهداف التعليمية المحددة للأفراد ذوي احتياجات التربية الخاصة."
+        },
+        {
+          "letter": "C",
+          "text": "Bireyin kronolojik yaşına göre zeka seviyesini belirleyen bir test.",
+          "images": [],
+          "text_ar": "اختبار يحدد مستوى الذكاء وفق العمر الزمني للفرد."
+        },
+        {
+          "letter": "D",
+          "text": "Okul yönetimi tarafından e-Okul sistemine işlenen bir rapor.",
+          "images": [],
+          "text_ar": "تقرير تدخله إدارة المدرسة في نظام e-Okul."
+        },
+        {
+          "letter": "E",
+          "text": "Öğrenci ve ailenin sürece aktif olarak dahil edildiği bir çalışma.",
+          "images": [],
+          "text_ar": "عمل يُشارك فيه الطالب والأسرة مشاركة فعّالة في العملية."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من المعلومات التالية يرد فيه تعريف برامج التعليم الفردية (BEP)؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "Tam zamanlı kaynaştırma/bütünleştirme yoluyla eğitim ile ilgili aşağıda verilen lerden hangisi doğrudur?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece özel eğitim sınıflarında.",
+          "images": [],
+          "text_ar": "في صفوف التربية الخاصة فقط."
+        },
+        {
+          "letter": "B",
+          "text": "Yarı zamanlı genel eğitim sınıflarında.",
+          "images": [],
+          "text_ar": "في صفوف التعليم العام على أساس دوام جزئي."
+        },
+        {
+          "letter": "C",
+          "text": "Bir okul günü boyunca genel eğitim sınıfında.",
+          "images": [],
+          "text_ar": "في صف التعليم العام طوال يوم دراسي كامل."
+        },
+        {
+          "letter": "D",
+          "text": "Özel eğitim danışmanının ofisinde.",
+          "images": [],
+          "text_ar": "في مكتب مرشد التربية الخاصة."
+        },
+        {
+          "letter": "E",
+          "text": "Sadece evde.",
+          "images": [],
+          "text_ar": "في المنزل فقط."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي صحيح بشأن التعليم بالدمج/التضمين على أساس التفرغ الكامل؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Rehberlik ve Araştırma Merkezi’nin (RAM) hangi bakanlığa bağlı olarak faaliyet göstermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sağlık Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الصحة"
+        },
+        {
+          "letter": "B",
+          "text": "Aile ve Sosyal Politikalar Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الأسرة والسياسات الاجتماعية"
+        },
+        {
+          "letter": "C",
+          "text": "Milli Eğitim Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة التربية الوطنية"
+        },
+        {
+          "letter": "D",
+          "text": "Gençlik ve Spor Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة الشباب والرياضة"
+        },
+        {
+          "letter": "E",
+          "text": "Çalışma ve Sosyal Güvenlik Bakanlığı",
+          "images": [],
+          "text_ar": "وزارة العمل والضمان الاجتماعي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "تحت أي وزارة يعمل مركز الإرشاد والبحث (RAM)؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Milli Eğitim Bakanlığı Özel Eğitim Hizmetleri yönetmeliğinde özel eğitimin tanımı olarak belirtilmiştir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel eğitim ihtiyacı duyan bireyler için özel yetiştirilmiş personel, uyarlanmış eğitim programları ve yöntemleriyle bireyin ihtiyaçlarına uygun ortamlarda gerçekleştirilen eğitimdir.",
+          "images": [],
+          "text_ar": "تعليم يُقدَّم للأفراد ذوي الاحتياجات التربوية الخاصة بواسطة كوادر مدرّبة تدريبًا خاصًا وبرامج تعليمية وأساليب مكيّفة، وفي بيئات تلائم احتياجات الفرد."
+        },
+        {
+          "letter": "B",
+          "text": "Özel eğitim ihtiyaçları olan bireylerin normal gelişim gösteren akranlarıyla birlikte aynı sınıfta eğitime entegre edilmesidir.",
+          "images": [],
+          "text_ar": "دمج الأفراد ذوي الاحتياجات التربوية الخاصة في التعليم داخل الصف نفسه مع أقرانهم ذوي النمو الطبيعي."
+        },
+        {
+          "letter": "C",
+          "text": "Bireyin bir yaralanma veya sapma nedeniyle karşılaştığı zorluklar.",
+          "images": [],
+          "text_ar": "الصعوبات التي يواجهها الفرد نتيجة إصابة أو انحراف."
+        },
+        {
+          "letter": "D",
+          "text": "Bireyin yaş, cinsiyet, sosyal ve kültürel faktörlere göre belirlenen rolleri yeterli bir şekilde yerine getirememesi durumudur.",
+          "images": [],
+          "text_ar": "حالة عدم قدرة الفرد على أداء الأدوار المحددة له وفقًا للعمر والجنس والعوامل الاجتماعية والثقافية على نحو كافٍ."
+        },
+        {
+          "letter": "E",
+          "text": "Bireyin gelişim özellikleri bakımından diğer akranlarından anlamlı şekilde farklılık göstermesi.",
+          "images": [],
+          "text_ar": "اختلاف الفرد اختلافًا دالًّا عن أقرانه الآخرين من حيث خصائص النمو."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي مما يلي ورد في لائحة خدمات التربية الخاصة الصادرة عن وزارة التربية الوطنية تعريفًا للتربية الخاصة؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Destek eğitim programlarının temel amacı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Sadece fiziksel engelli bireyleri eğitmek.",
+          "images": [],
+          "text_ar": "تعليم الأفراد ذوي الإعاقة الجسدية فقط."
+        },
+        {
+          "letter": "B",
+          "text": "Öğrencilere standart bir eğitim sunmak.",
+          "images": [],
+          "text_ar": "تقديم تعليم معياري للطلاب."
+        },
+        {
+          "letter": "C",
+          "text": "Öğrencinin ilgilerine ve ihtiyaçlarına odaklanan bir eğitim programı oluşturmak.",
+          "images": [],
+          "text_ar": "إعداد برنامج تعليمي يركّز على ميول الطالب واحتياجاته."
+        },
+        {
+          "letter": "D",
+          "text": "Öğretmenlere yeni yöntemler öğretmek.",
+          "images": [],
+          "text_ar": "تعليم المعلمين أساليب جديدة."
+        },
+        {
+          "letter": "E",
+          "text": "Sadece özel eğitim öğretmenlerini eğitmek.",
+          "images": [],
+          "text_ar": "تدريب معلمي التربية الخاصة فقط."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "ما الهدف الأساسي لبرامج التعليم الداعم؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "52928723b362ec436435d663d1206dd6e9090932cf00d871d7fd3864ca32ac50"
+}

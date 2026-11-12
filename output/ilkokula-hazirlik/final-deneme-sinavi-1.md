@@ -3,7 +3,7 @@ course: İLKOKULA HAZIRLIK
 exam: Final Deneme Sınavı -1
 source_url: https://lolonolo.com/2023/09/22/ilkokula-hazirlik-final-deneme-sinavi-1/
 question_count: 20
-scraped_at: 2026-11-12T15:00:58+03:00
+scraped_at: 2026-11-12T16:23:53+03:00
 ---
 
 ### Q1

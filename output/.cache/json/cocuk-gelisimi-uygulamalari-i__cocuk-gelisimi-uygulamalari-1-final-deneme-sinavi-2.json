@@ -1,0 +1,859 @@
+{
+  "course": "ÇOCUK GELİŞİMİ UYGULAMALARI I",
+  "course_slug": "cocuk-gelisimi-uygulamalari-i",
+  "exam": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -2",
+  "exam_slug": "cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-2",
+  "page_title": "Çocuk Gelişimi Uygulamaları -1 Final Deneme Sınavı -2",
+  "source_url": "https://lolonolo.com/2023/09/28/cocuk-gelisimi-uygulamalari-1-final-deneme-sinavi-2/",
+  "scraped_at": "2026-11-12T16:23:40+03:00",
+  "answer_source": "markup",
+  "question_count": 20,
+  "questions": [
+    {
+      "n": 1,
+      "type": "multiple_choice_text",
+      "stem": "Anne-Çocuk Oyun Merkezi ile ilgili verilen bilgilerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "7 gün 24 saat hizmet vermektedir.",
+          "images": [],
+          "text_ar": "يقدم خدماته 7 أيام على مدار 24 ساعة."
+        },
+        {
+          "letter": "B",
+          "text": "Katılım için öncelikle kaydolunması gerekmektedir.",
+          "images": [],
+          "text_ar": "يجب التسجيل أولًا للمشاركة."
+        },
+        {
+          "letter": "C",
+          "text": "Hem lisans hem ön lisans mezunu olan çocuk gelişimciler burada görev alabilmektedir.",
+          "images": [],
+          "text_ar": "يمكن لأخصائيي نمو الطفل من حملة البكالوريوس والدرجة المتوسطة على حد سواء العمل هنا."
+        },
+        {
+          "letter": "D",
+          "text": "Her merkezde sadece 1 tane merkez sorumlusu vardır.",
+          "images": [],
+          "text_ar": "يوجد مسؤول مركز واحد فقط في كل مركز."
+        },
+        {
+          "letter": "E",
+          "text": "Annelere çocukları ile nasıl oyun oynaması gerektiği öğretilmektedir.",
+          "images": [],
+          "text_ar": "تُعلَّم الأمهات كيفية اللعب مع أطفالهن."
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من المعلومات التالية عن مركز اللعب للأم والطفل غير صحيحة؟"
+    },
+    {
+      "n": 2,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi özel gereksinim sınıflandırmaları arasında yer almamaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Fiziksel yetersizlik yaşayan çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الذين يعانون قصورًا جسديًا"
+        },
+        {
+          "letter": "B",
+          "text": "Tipik gelişim gösteren çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الذين يظهرون نموًا نمطيًا"
+        },
+        {
+          "letter": "C",
+          "text": "İşitsel yetersizliği bulunan çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الذين لديهم قصور سمعي"
+        },
+        {
+          "letter": "D",
+          "text": "Zihinsel yetersizliği olan çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الذين لديهم قصور عقلي"
+        },
+        {
+          "letter": "E",
+          "text": "Uyum sorunları yaşayan çocuklar",
+          "images": [],
+          "text_ar": "الأطفال الذين يعانون مشكلات تكيف"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي مما يلي لا يرد ضمن تصنيفات الاحتياجات الخاصة؟"
+    },
+    {
+      "n": 3,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi bir Çocuk Evinde görev yapan Çocuk Gelişimcinin görevi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuklara gelişim testi uygulamak",
+          "images": [],
+          "text_ar": "تطبيق اختبارات نمائية على الأطفال"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuklara eğitim programı hazırlamak",
+          "images": [],
+          "text_ar": "إعداد برنامج تعليمي للأطفال"
+        },
+        {
+          "letter": "C",
+          "text": "Çocukların gelişimlerini takip etmek",
+          "images": [],
+          "text_ar": "متابعة نمو الأطفال"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuklara iyi alışkanlıklar kazandırmak",
+          "images": [],
+          "text_ar": "إكساب الأطفال عادات جيدة"
+        },
+        {
+          "letter": "E",
+          "text": "Çocukların tıbbi değerlendirmelerini yapmak",
+          "images": [],
+          "text_ar": "إجراء التقييمات الطبية للأطفال"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من مهام أخصائي نمو الطفل العامل في بيت الأطفال؟"
+    },
+    {
+      "n": 4,
+      "type": "multiple_choice_text",
+      "stem": "Formal Değerlendirme ile informal Değerlendirme Araçları ile ilgili verilen bilgilerden hangisi yanlıştır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Formal değerlendirme araçlarının önceden geçerlik güvenirlik çalışması yapılmalıdır.",
+          "images": [],
+          "text_ar": "يجب إجراء دراسات الصدق والثبات لأدوات التقييم الرسمية مسبقًا."
+        },
+        {
+          "letter": "B",
+          "text": "İnformal değerlendirme araçlarında sayısal bir sonuç vardır.",
+          "images": [],
+          "text_ar": "تتضمن أدوات التقييم غير الرسمية نتيجة عددية."
+        },
+        {
+          "letter": "C",
+          "text": "Formal değerlendirme araçları daha ekonomiktir.",
+          "images": [],
+          "text_ar": "أدوات التقييم الرسمية أكثر اقتصادية."
+        },
+        {
+          "letter": "D",
+          "text": "İnformal değerlendirme araçları formal değerlendirme araçlarına göre daha uzun sürer.",
+          "images": [],
+          "text_ar": "تستغرق أدوات التقييم غير الرسمية وقتًا أطول من أدوات التقييم الرسمية."
+        },
+        {
+          "letter": "E",
+          "text": "Formal değerlendirme araçları büyük örneklem gruplarında yapılmış ve standardize edilmiştir.",
+          "images": [],
+          "text_ar": "طُبِّقت أدوات التقييم الرسمية على مجموعات كبيرة من العينات ووُحِّدت معاييرها."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من المعلومات التالية عن أدوات التقييم الرسمية وأدوات التقييم غير الرسمية غير صحيحة؟"
+    },
+    {
+      "n": 5,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk gelişimi ve eğitimcisinin RAM’lardaki hangi görevi aşağıdakilerden değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Danışanları fizikî, zihinsel ve sosyal gelişim bakımından incelemek.",
+          "images": [],
+          "text_ar": "فحص المراجعين من حيث النمو الجسدي والعقلي والاجتماعي."
+        },
+        {
+          "letter": "B",
+          "text": "Alanıyla ilgili konularda ailelere ve öğretmenlere rehberlik etmek.",
+          "images": [],
+          "text_ar": "إرشاد الأسر والمعلمين في الموضوعات المتعلقة بمجاله."
+        },
+        {
+          "letter": "C",
+          "text": "Alanıyla ilgili konularda hastanelerde tedavi uygulamalarına katılmak.",
+          "images": [],
+          "text_ar": "المشاركة في تطبيقات العلاج في المستشفيات في الموضوعات المتعلقة بمجاله."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk gelişimi ve eğitimi ile ilgili broşür, kitapçık hazırlama çalışmalarına katılmak.",
+          "images": [],
+          "text_ar": "المشاركة في أعمال إعداد منشورات وكتيبات تتعلق بنمو الطفل وتعليمه."
+        },
+        {
+          "letter": "E",
+          "text": "Çeşitli gelişim ölçeklerinin geliştirilmesi çalışmalarına katılmak.",
+          "images": [],
+          "text_ar": "المشاركة في أعمال تطوير مقاييس نمائية متنوعة."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من المهام التالية ليست من مهام أخصائي نمو الطفل وتعليمه في مراكز الإرشاد والبحث (RAM)؟"
+    },
+    {
+      "n": 6,
+      "type": "multiple_choice_text",
+      "stem": "Belediyelere bağlı olan Çocuk Evleri kaç yaş grubu çocuklara hizmet vermektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "0-12 aylık bebekler",
+          "images": [],
+          "text_ar": "الرضّع بين 0-12 شهرًا"
+        },
+        {
+          "letter": "B",
+          "text": "12-24 aylık çocuklar",
+          "images": [],
+          "text_ar": "الأطفال بين 12-24 شهرًا"
+        },
+        {
+          "letter": "C",
+          "text": "24-48 aylık çocuklar",
+          "images": [],
+          "text_ar": "الأطفال بين 24-48 شهرًا"
+        },
+        {
+          "letter": "D",
+          "text": "36-60 aylık çocuklar",
+          "images": [],
+          "text_ar": "الأطفال بين 36-60 شهرًا"
+        },
+        {
+          "letter": "E",
+          "text": "0-18 yaş arası tüm çocuklar",
+          "images": [],
+          "text_ar": "جميع الأطفال بين 0-18 سنة"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "لأي فئة عمرية من الأطفال تقدم بيوت الطفل التابعة للبلديات خدماتها؟"
+    },
+    {
+      "n": 7,
+      "type": "multiple_choice_text",
+      "stem": "“Özel gereksinimli çocuklar” ifadesini aşağıdaki şıklardan hangisi tanımlar?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Standart eğitim hizmetlerinden tam anlamıyla faydalanabilen bireyler.",
+          "images": [],
+          "text_ar": "أفراد يستطيعون الاستفادة استفادة كاملة من خدمات التعليم القياسية."
+        },
+        {
+          "letter": "B",
+          "text": "Sadece fiziksel sorunları olan bireyler.",
+          "images": [],
+          "text_ar": "أفراد لديهم مشكلات جسدية فقط."
+        },
+        {
+          "letter": "C",
+          "text": "0-18 yaş arasında, belirli alanlarda öğrenme zorlukları yaşayan veya gelişimleri diğer çocuklardan farklı olan bireyler.",
+          "images": [],
+          "text_ar": "أفراد بين 0-18 سنة يعانون صعوبات تعلم في مجالات معينة أو يختلف نموهم عن نمو الأطفال الآخرين."
+        },
+        {
+          "letter": "D",
+          "text": "Sadece zihinsel engelli bireyler.",
+          "images": [],
+          "text_ar": "أفراد لديهم إعاقة عقلية فقط."
+        },
+        {
+          "letter": "E",
+          "text": "Eğitim almalarına gerek olmayan bireyler.",
+          "images": [],
+          "text_ar": "أفراد لا يحتاجون إلى تعليم."
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي من الخيارات التالية يحدد عبارة «الأطفال ذوو الاحتياجات الخاصة»؟"
+    },
+    {
+      "n": 8,
+      "type": "multiple_choice_text",
+      "stem": "Özel Eğitim ve Rehabilitasyon Merkezlerinin temel amacı aşağıdakilerden hangisidir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocukları akademik olarak birinci sıraya taşımak.",
+          "images": [],
+          "text_ar": "نقل الأطفال إلى المرتبة الأولى أكاديميًا."
+        },
+        {
+          "letter": "B",
+          "text": "Özel eğitim ihtiyacı olan bireylerin eğitim ve rehabilitasyon ihtiyaçlarını karşılamak.",
+          "images": [],
+          "text_ar": "تلبية احتياجات التعليم وإعادة التأهيل للأفراد ذوي احتياجات التربية الخاصة."
+        },
+        {
+          "letter": "C",
+          "text": "Çocukları sadece fiziksel olarak geliştirmek.",
+          "images": [],
+          "text_ar": "تنمية الأطفال جسديًا فقط."
+        },
+        {
+          "letter": "D",
+          "text": "Yalnızca dil ve konuşma bozukluklarına odaklanmak.",
+          "images": [],
+          "text_ar": "التركيز على اضطرابات اللغة والكلام فقط."
+        },
+        {
+          "letter": "E",
+          "text": "Ailelere öğretmenlik yapmak.",
+          "images": [],
+          "text_ar": "القيام بدور المعلم للأسر."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "ما الهدف الأساسي لمراكز التربية الخاصة وإعادة التأهيل؟"
+    },
+    {
+      "n": 9,
+      "type": "multiple_choice_text",
+      "stem": "I. Metropolitan Okul Olgunluğu Testi II. Denver II III. Erken Matematik Kabiliyetleri Testi Yukarıda verilen testlerden hangisi veya hangileri Hazırbulunuşluk Testlerine dâhil edilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Yalnız I",
+          "images": [],
+          "text_ar": "I فقط"
+        },
+        {
+          "letter": "B",
+          "text": "I ve II",
+          "images": [],
+          "text_ar": "I وII"
+        },
+        {
+          "letter": "C",
+          "text": "II ve III",
+          "images": [],
+          "text_ar": "II وIII"
+        },
+        {
+          "letter": "D",
+          "text": "Yalnız III",
+          "images": [],
+          "text_ar": "III فقط"
+        },
+        {
+          "letter": "E",
+          "text": "I-II-III",
+          "images": [],
+          "text_ar": "I وII وIII"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "I. اختبار ميتروبوليتان للنضج المدرسي II. اختبار دنفر II III. اختبار القدرات الرياضية المبكرة. أي من الاختبارات المذكورة أعلاه أو أي منها يمكن إدراجه ضمن اختبارات الاستعداد؟"
+    },
+    {
+      "n": 10,
+      "type": "multiple_choice_text",
+      "stem": "Sosyal Hizmet Merkezlerinde görev alan sosyal çalışma görevlileri hangi alanlardan mezun olabilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Mühendislik",
+          "images": [],
+          "text_ar": "الهندسة"
+        },
+        {
+          "letter": "B",
+          "text": "Tıp",
+          "images": [],
+          "text_ar": "الطب"
+        },
+        {
+          "letter": "C",
+          "text": "İşletme",
+          "images": [],
+          "text_ar": "إدارة الأعمال"
+        },
+        {
+          "letter": "D",
+          "text": "Çocuk Gelişimi",
+          "images": [],
+          "text_ar": "نمو الطفل"
+        },
+        {
+          "letter": "E",
+          "text": "Hukuk",
+          "images": [],
+          "text_ar": "القانون"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "من أي التخصصات يمكن أن يكون موظفو العمل الاجتماعي العاملون في مراكز الخدمة الاجتماعية متخرجين؟"
+    },
+    {
+      "n": 11,
+      "type": "multiple_choice_text",
+      "stem": "Çocuk Koruma Evlerinden yararlanabilecek çocukların yaşları en fazla kaç olabilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "3 yaş",
+          "images": [],
+          "text_ar": "3 سنوات"
+        },
+        {
+          "letter": "B",
+          "text": "6 yaş",
+          "images": [],
+          "text_ar": "6 سنوات"
+        },
+        {
+          "letter": "C",
+          "text": "12 yaş",
+          "images": [],
+          "text_ar": "12 سنة"
+        },
+        {
+          "letter": "D",
+          "text": "15 yaş",
+          "images": [],
+          "text_ar": "15 سنة"
+        },
+        {
+          "letter": "E",
+          "text": "18 yaş",
+          "images": [],
+          "text_ar": "18 سنة"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "كم يمكن أن يكون عمر الأطفال الذين يمكنهم الاستفادة من بيوت حماية الطفل على الأكثر؟"
+    },
+    {
+      "n": 12,
+      "type": "multiple_choice_text",
+      "stem": "Çocuğun tanı ve değerlendirme süreci ile ilgili verilen bilgilerden hangisi doğru değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Tanı ve değerlendirme sürecinde birçok farklı uzman görev almalıdır.",
+          "images": [],
+          "text_ar": "يجب أن يشارك في عملية التشخيص والتقييم عدد من الأخصائيين المختلفين."
+        },
+        {
+          "letter": "B",
+          "text": "Değerlendirme yaparken İnformal değerlendirme araçları yerine formal değerlendirme araçlarına daha çok yer verilmelidir.",
+          "images": [],
+          "text_ar": "عند التقييم ينبغي إعطاء مكان أكبر لأدوات التقييم الرسمية بدلًا من أدوات التقييم غير الرسمية."
+        },
+        {
+          "letter": "C",
+          "text": "Tanı ve değerlendirme sadece bir kez değil sürekli olacak şekilde gerçekleştirilmelidir.",
+          "images": [],
+          "text_ar": "يجب أن يتم التشخيص والتقييم باستمرار لا مرة واحدة فقط."
+        },
+        {
+          "letter": "D",
+          "text": "Çocuğun değerlendirilmesinde aile izin vermez ise değerlendirme yapılamaz.",
+          "images": [],
+          "text_ar": "إذا لم تسمح الأسرة بتقييم الطفل فلا يمكن إجراء التقييم."
+        },
+        {
+          "letter": "E",
+          "text": "Tanı ve değerlendirme sürecinde çocuğun gönüllü olması gerekmektedir.",
+          "images": [],
+          "text_ar": "يجب أن يكون الطفل راغبًا في عملية التشخيص والتقييم."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من المعلومات التالية عن عملية تشخيص الطفل وتقييمه غير صحيحة؟"
+    },
+    {
+      "n": 13,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdaki soru örneklerinden hangisi çocuğun yaşadığı fiziksel çevre ile ilgili soruya örnek olarak verilebilir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Çocuğun odası kaç m² dir?",
+          "images": [],
+          "text_ar": "كم مترًا مربعًا مساحة غرفة الطفل؟"
+        },
+        {
+          "letter": "B",
+          "text": "Çocuğun alışkınlıkları nelerdir?",
+          "images": [],
+          "text_ar": "ما عادات الطفل؟"
+        },
+        {
+          "letter": "C",
+          "text": "Çocuğun genel ruh hali nasıldır?",
+          "images": [],
+          "text_ar": "كيف هي الحالة المزاجية العامة للطفل؟"
+        },
+        {
+          "letter": "D",
+          "text": "Baba ve çocuk bir günü birlikte nasıl geçirmektedir?",
+          "images": [],
+          "text_ar": "كيف يقضي الأب والطفل يومًا معًا؟"
+        },
+        {
+          "letter": "E",
+          "text": "Ebeveynlerin öğrenim durumları nedir?",
+          "images": [],
+          "text_ar": "ما المستوى التعليمي للوالدين؟"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي من الأمثلة التالية على الأسئلة يمكن أن يُقدَّم مثالًا على سؤال يتعلق بالبيئة المادية التي يعيش فيها الطفل؟"
+    },
+    {
+      "n": 14,
+      "type": "multiple_choice_text",
+      "stem": "Umut Evleri’nde en fazla kaç engelli birey bir arada kalabilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "2",
+          "images": [],
+          "text_ar": "فردان"
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "images": [],
+          "text_ar": "3 أفراد"
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "images": [],
+          "text_ar": "4 أفراد"
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "images": [],
+          "text_ar": "5 أفراد"
+        },
+        {
+          "letter": "E",
+          "text": "6",
+          "images": [],
+          "text_ar": "6 أفراد"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "ما أقصى عدد من الأفراد ذوي الإعاقة يمكن أن يقيموا معًا في بيوت الأمل؟"
+    },
+    {
+      "n": 15,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi Kadın Danışma Merkezlerinin kadınlara sunduğu destek hizmetlerinden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Psikolojik Destek",
+          "images": [],
+          "text_ar": "الدعم النفسي"
+        },
+        {
+          "letter": "B",
+          "text": "Hukuksal Destek",
+          "images": [],
+          "text_ar": "الدعم القانوني"
+        },
+        {
+          "letter": "C",
+          "text": "Sosyal Destek",
+          "images": [],
+          "text_ar": "الدعم الاجتماعي"
+        },
+        {
+          "letter": "D",
+          "text": "Ekonomik Destek",
+          "images": [],
+          "text_ar": "الدعم الاقتصادي"
+        },
+        {
+          "letter": "E",
+          "text": "Sağlıksal Destek",
+          "images": [],
+          "text_ar": "الدعم الصحي"
+        }
+      ],
+      "answer": "E",
+      "stem_ar": "أي مما يلي ليس من خدمات الدعم التي تقدمها مراكز إرشاد المرأة للنساء؟"
+    },
+    {
+      "n": 16,
+      "type": "multiple_choice_text",
+      "stem": "Bireyselleştirilmiş Eğitim Programları (BEP) nın tanımı aşağıda verilen bilgilerden hangisinde yer almaktadır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Özel eğitim ihtiyacı olan bireylerin genel eğitim programını takip etmeleri için hazırlanan bir eğitim dokümanı.",
+          "images": [],
+          "text_ar": "وثيقة تعليمية تُعدّ لتمكين الأفراد ذوي احتياجات التربية الخاصة من متابعة برنامج التعليم العام."
+        },
+        {
+          "letter": "B",
+          "text": "Özel eğitim ihtiyacı olan bireyler için belirlenen eğitsel ihtiyaçları ve hedefleri doğrultusunda izlenecek yöntemleri ve stratejileri tanımlayan bir eğitim dokümanı.",
+          "images": [],
+          "text_ar": "وثيقة تعليمية تحدد الأساليب والاستراتيجيات التي ستُتبع وفق الاحتياجات والأهداف التعليمية المحددة للأفراد ذوي احتياجات التربية الخاصة."
+        },
+        {
+          "letter": "C",
+          "text": "Bireyin kronolojik yaşına göre zeka seviyesini belirleyen bir test.",
+          "images": [],
+          "text_ar": "اختبار يحدد مستوى الذكاء وفق العمر الزمني للفرد."
+        },
+        {
+          "letter": "D",
+          "text": "Okul yönetimi tarafından e-Okul sistemine işlenen bir rapor.",
+          "images": [],
+          "text_ar": "تقرير تدخله إدارة المدرسة في نظام e-Okul."
+        },
+        {
+          "letter": "E",
+          "text": "Öğrenci ve ailenin sürece aktif olarak dahil edildiği bir çalışma.",
+          "images": [],
+          "text_ar": "عمل يُشارك فيه الطالب والأسرة مشاركة فعّالة في العملية."
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "أي من المعلومات التالية يرد فيه تعريف برامج التعليم الفردية (BEP)؟"
+    },
+    {
+      "n": 17,
+      "type": "multiple_choice_text",
+      "stem": "Aşağıdakilerden hangisi ANKA Çocuk Destek Programının bileşenlerinden birisi değildir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Grup Çalışması",
+          "images": [],
+          "text_ar": "العمل الجماعي"
+        },
+        {
+          "letter": "B",
+          "text": "Aile Çalışmaları",
+          "images": [],
+          "text_ar": "العمل مع الأسرة"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel Destek Bileşeni",
+          "images": [],
+          "text_ar": "مكوّن الدعم المعرفي"
+        },
+        {
+          "letter": "D",
+          "text": "Krize Müdahale",
+          "images": [],
+          "text_ar": "التدخل في الأزمات"
+        },
+        {
+          "letter": "E",
+          "text": "Bireysel Danışmanlık",
+          "images": [],
+          "text_ar": "الإرشاد الفردي"
+        }
+      ],
+      "answer": "C",
+      "stem_ar": "أي مما يلي ليس من مكونات برنامج دعم الطفل ANKA؟"
+    },
+    {
+      "n": 18,
+      "type": "multiple_choice_text",
+      "stem": "M-CHAT Tarama ölçeği hangi özel gereksinimi belirlemeye yarayan bir ölçme aracıdır?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Down Sendromu",
+          "images": [],
+          "text_ar": "متلازمة داون"
+        },
+        {
+          "letter": "B",
+          "text": "Otizm",
+          "images": [],
+          "text_ar": "التوحد"
+        },
+        {
+          "letter": "C",
+          "text": "Asperger",
+          "images": [],
+          "text_ar": "أسبرجر"
+        },
+        {
+          "letter": "D",
+          "text": "Zihinsel Engellilik",
+          "images": [],
+          "text_ar": "الإعاقة العقلية"
+        },
+        {
+          "letter": "E",
+          "text": "Üstün Yeteneklilik",
+          "images": [],
+          "text_ar": "الموهبة"
+        }
+      ],
+      "answer": "B",
+      "stem_ar": "مقياس M-CHAT للمسح أداة قياس تهدف إلى تحديد أي احتياج خاص؟"
+    },
+    {
+      "n": 19,
+      "type": "multiple_choice_text",
+      "stem": "Tipik gelişim gösteren ve 3 yaşından büyük bir çocuğun ne kadar sürelik periyotlarla gelişiminin takip edilmesi ve gerekli gelişimsel değerlendirmelerin yapılması gerekir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Ayda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة في الشهر"
+        },
+        {
+          "letter": "B",
+          "text": "3 Ayda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة كل 3 أشهر"
+        },
+        {
+          "letter": "C",
+          "text": "6 Ayda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة كل 6 أشهر"
+        },
+        {
+          "letter": "D",
+          "text": "Yılda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة في السنة"
+        },
+        {
+          "letter": "E",
+          "text": "2 Yılda 1 kez",
+          "images": [],
+          "text_ar": "مرة واحدة كل سنتين"
+        }
+      ],
+      "answer": "D",
+      "stem_ar": "بأي فترات زمنية يجب متابعة نمو طفل يزيد عمره على 3 سنوات ويبدي نموًا نمطيًا، وإجراء التقييمات النمائية اللازمة؟"
+    },
+    {
+      "n": 20,
+      "type": "multiple_choice_text",
+      "stem": "Aile Danışma Merkezlerinde ailelere sıklıkla hangi danışma hizmeti verilmektedir?",
+      "stem_images": [],
+      "tables": [],
+      "choices": [
+        {
+          "letter": "A",
+          "text": "Boşanma Süreci Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد في عملية الطلاق"
+        },
+        {
+          "letter": "B",
+          "text": "Kardeş Kıskançlığı Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد بشأن الغيرة بين الأشقاء"
+        },
+        {
+          "letter": "C",
+          "text": "Bilişsel Davranışçı Terapi Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد بالعلاج المعرفي السلوكي"
+        },
+        {
+          "letter": "D",
+          "text": "İş Bulma Hizmet Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد في خدمات البحث عن عمل"
+        },
+        {
+          "letter": "E",
+          "text": "Boşanma Süreci Hukuki Danışmanlığı",
+          "images": [],
+          "text_ar": "الإرشاد القانوني في عملية الطلاق"
+        }
+      ],
+      "answer": "A",
+      "stem_ar": "أي خدمة إرشادية تُقدَّم للأسر بشكل متكرر في مراكز الإرشاد الأسري؟"
+    }
+  ],
+  "_debug": {
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wrappers": 1
+  },
+  "content_hash": "745757206b93075fd5e50a795554330e5d198e43eca7654b33dbe070fb59530d"
+}
