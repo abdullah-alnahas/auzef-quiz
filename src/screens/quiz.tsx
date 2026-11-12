@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "preact/hooks";
 import { parseScope } from "../combine.ts";
-import { Badge, Dialog, RichTextView, TableView } from "../components.tsx";
+import { Badge, DataValue, Dialog, RichTextView, TableView } from "../components.tsx";
 import {
   EmptyScopeError,
   loadCombinedExam,
@@ -132,17 +132,22 @@ export function Quiz({
   );
 
   if (failure) {
-    const message =
-      failure.kind === "missing"
-        ? t(prefs.lang, "missingExams", {
-            names: failure.missing.join(prefs.lang === "ar" ? "، " : ", "),
-          })
-        : failure.kind === "empty"
-          ? t(prefs.lang, "emptyScope")
-          : t(prefs.lang, "notDownloaded");
+    const separator = prefs.lang === "ar" ? "، " : ", ";
     return (
       <div class="stack">
-        <p class="notice notice-bad">{message}</p>
+        {failure.kind === "missing" ? (
+          <p class="notice notice-bad">
+            <DataValue
+              template={t(prefs.lang, "missingExams", { names: "\u0000" })}
+              value={failure.missing.join(separator)}
+              lang="tr"
+            />
+          </p>
+        ) : (
+          <p class="notice notice-bad">
+            {t(prefs.lang, failure.kind === "empty" ? "emptyScope" : "notDownloaded")}
+          </p>
+        )}
         <div class="row-actions">
           <button type="button" class="primary" onClick={() => setRetryKey((n) => n + 1)}>
             {t(prefs.lang, "retry")}
@@ -241,8 +246,10 @@ export function Quiz({
           {prefs.lang === "ar" ? "→" : "←"}
         </button>
         <div class="quiz-title">
-          <h1 class="quiz-title-main">{title}</h1>
-          <span class="muted">{exam.course}</span>
+          <h1 class="quiz-title-main">
+            <bdi lang={exam.scope ? undefined : "tr"}>{title}</bdi>
+          </h1>
+          <span class="muted"><bdi lang="tr">{exam.course}</bdi></span>
         </div>
         <button
           type="button"
@@ -289,7 +296,7 @@ export function Quiz({
           </summary>
           <ul>
             {exam.sourceExams.map((name) => (
-              <li key={name}>{name}</li>
+              <li key={name}><bdi lang="tr">{name}</bdi></li>
             ))}
           </ul>
         </details>
@@ -304,7 +311,11 @@ export function Quiz({
 
       {exam.scope && current.sourceExam && (
         <p class="muted small">
-          {t(prefs.lang, "fromExam", { name: current.sourceExam })}
+          <DataValue
+            template={t(prefs.lang, "fromExam", { name: "\u0000" })}
+            value={current.sourceExam}
+            lang="tr"
+          />
         </p>
       )}
 

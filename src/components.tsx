@@ -62,6 +62,31 @@ export function RichTextView({
   );
 }
 
+/**
+ * A localized sentence that embeds one dynamic data value. The template marks
+ * the slot with a NUL placeholder — `t(lang, "fromExam", { name: "\u0000" })` —
+ * so the value stays its own bidi-isolated, language-tagged run instead of
+ * being reordered by the surrounding RTL paragraph.
+ */
+export function DataValue({
+  template,
+  value,
+  lang,
+}: {
+  template: string;
+  value: string;
+  lang: string;
+}) {
+  const [before, after = ""] = template.split("\u0000");
+  return (
+    <>
+      {before}
+      <bdi lang={lang}>{value}</bdi>
+      {after}
+    </>
+  );
+}
+
 export function TableView({ rows }: { rows: string[][] }) {
   if (!rows.length) return null;
   const [head, ...body] = rows;

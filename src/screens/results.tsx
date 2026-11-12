@@ -85,9 +85,14 @@ export function Results({
       </button>
       <h1>{t(prefs.lang, "results")}</h1>
       <p class="muted">
-        {exam.scope
-          ? `${exam.course} — ${parseScope(exam.scope).map((group) => t(prefs.lang, scopeGroupKey(group))).join(" + ")}`
-          : exam.exam}
+        {exam.scope ? (
+          <>
+            <bdi lang="tr">{exam.course}</bdi> —{" "}
+            {parseScope(exam.scope).map((group) => t(prefs.lang, scopeGroupKey(group))).join(" + ")}
+          </>
+        ) : (
+          <bdi lang="tr">{exam.exam}</bdi>
+        )}
       </p>
 
       <section class="score-card" aria-label={t(prefs.lang, "score")}>
@@ -175,7 +180,7 @@ export function Results({
                 )}
               </div>
               {question.sourceExam && (
-                <p class="muted small">{question.sourceExam}</p>
+                <p class="muted small"><bdi lang="tr">{question.sourceExam}</bdi></p>
               )}
               <RichTextView
                 className="review-tr"

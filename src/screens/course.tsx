@@ -99,7 +99,7 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
       <button type="button" class="ghost back" onClick={() => navigate("/")}>
         ← {t(prefs.lang, "back")}
       </button>
-      <h1>{course.course}</h1>
+      <h1><bdi lang="tr">{course.course}</bdi></h1>
       <div class="row-actions">
         <button type="button" class="secondary" disabled={busy} onClick={() => void downloadAll()}>
           {t(prefs.lang, "downloadCourse")}
@@ -142,7 +142,7 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
           </summary>
           <ul>
             {scoped.map((exam) => (
-              <li key={exam.examId}>{exam.exam}</li>
+              <li key={exam.examId}><bdi lang="tr">{exam.exam}</bdi></li>
             ))}
           </ul>
         </details>
@@ -178,7 +178,11 @@ export function Course({ manifest, prefs, navigate, courseId }: ScreenProps & {
               return (
                 <li key={exam.examId} class="exam-card" data-exam-id={exam.examId}>
                   <div class="exam-head">
-                    <strong>{exam.exam.replace(periodOf(exam.exam), "").trim() || exam.exam}</strong>
+                    <strong>
+                      <bdi lang="tr">
+                        {exam.exam.replace(periodOf(exam.exam), "").trim() || exam.exam}
+                      </bdi>
+                    </strong>
                     <span class="muted">
                       {exam.questionCount} {t(prefs.lang, "questionUnit")}
                     </span>
