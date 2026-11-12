@@ -160,7 +160,7 @@ export interface Bookmark {
   createdAt: number;
 }
 
-export function bookmarkId(examId: string, number: number): string {
+function bookmarkId(examId: string, number: number): string {
   return `${examId}:${number}`;
 }
 

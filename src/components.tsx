@@ -4,7 +4,7 @@ import { dataUrl } from "./data.ts";
 import type { RichText } from "./types.ts";
 
 /** Escape first, then allow only **bold** / *italic* spans. */
-export function InlineText({ value }: { value: string }) {
+function InlineText({ value }: { value: string }) {
   const parts: ComponentChildren[] = [];
   const pattern = /(\*\*[^*]+\*\*|\*[^*]+\*)/g;
   let last = 0;

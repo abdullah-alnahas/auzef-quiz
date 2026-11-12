@@ -23,7 +23,7 @@ export const DEFAULT_SCOPE_GROUPS: ScopeGroup[] = ["vize", "final"];
 
 const GROUP_SET = new Set<string>(SCOPE_GROUPS);
 
-export function isScopeGroup(value: string): value is ScopeGroup {
+function isScopeGroup(value: string): value is ScopeGroup {
   return GROUP_SET.has(value);
 }
 

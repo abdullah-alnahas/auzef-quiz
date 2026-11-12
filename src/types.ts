@@ -87,8 +87,3 @@ export interface AppManifest {
 }
 
 export type Mode = "practice" | "exam";
-
-export interface AnswerRecord {
-  letter: string;
-  correct: boolean | null;
-}
