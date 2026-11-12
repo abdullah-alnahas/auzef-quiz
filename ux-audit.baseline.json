@@ -1,0 +1,4776 @@
+{
+ "run_id": "2026-11-12T14:45:00Z",
+ "build_sha": "8f9a484",
+ "rule_version": "2.0",
+ "framework": "ux-audit-framework-v2",
+ "config": "./ux-audit.config.yaml",
+ "environment": {
+  "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+  "viewport": "320x800, 390x844, 768x800, 1280x900",
+  "theme": "light + dark + system",
+  "locale": "ar (RTL, default) + tr (LTR)",
+  "role": "anonymous",
+  "network": "online; offline via service worker"
+ },
+ "audited_templates": 11,
+ "rules_evaluated": 90,
+ "summary": {
+  "audited_templates": 11,
+  "rules_evaluated": 90,
+  "results": {
+   "PASS": 37,
+   "FAIL": 29,
+   "N-A": 20,
+   "NEEDS-HUMAN": 3,
+   "BLOCKED-TEST": 1,
+   "WAIVED": 0
+  },
+  "fails_by_severity": {
+   "Critical": 3,
+   "Major": 13,
+   "Minor": 13,
+   "Advisory": 0
+  },
+  "baseline": {
+   "new_critical": 0,
+   "existing_critical": 3,
+   "regressed": 0,
+   "fixed_since_last_run": 0
+  },
+  "gate": "PASS (baseline: 3 EXISTING Criticals recorded for ratchet; no NEW/REGRESSED Critical)",
+  "next_actions": [
+   "I18N-03",
+   "IA-04",
+   "A11Y-01",
+   "A11Y-04",
+   "ERR-02",
+   "STA-03",
+   "A11Y-03",
+   "A11Y-09",
+   "A11Y-10",
+   "ERR-01",
+   "STA-02",
+   "STA-04",
+   "OVL-01",
+   "VIS-02",
+   "CNT-03",
+   "THM-01",
+   "I18N-01",
+   "IA-03",
+   "FBK-01",
+   "I18N-02",
+   "A11Y-02",
+   "VIS-04",
+   "DS-04",
+   "USA-01",
+   "IXD-02",
+   "IXD-04",
+   "FRM-02",
+   "TRU-02",
+   "DS-05"
+  ]
+ },
+ "findings": [
+  {
+   "principle_id": "USA-01",
+   "category": "USA",
+   "name": "Dominant action per region",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "MED",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": [
+     "-1: every control is labelled and the CTA still works; the cost is visual emphasis only"
+    ]
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/course/anatomi"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/course/anatomi .test-all",
+     "detail": "Selected scope toggles reuse the .primary treatment, so the region shows 3 primary-looking controls: the active scope chips plus the real CTA 'تدريب'. Counted 14 .primary nodes in <main> (each exam card contributes 1, which is exempt).",
+     "tool": "Playwright computed-style scan (audit/checks3.mjs)"
+    },
+    {
+     "type": "code",
+     "location": "src/screens/course.tsx:120",
+     "detail": "class={active ? \"primary\" : \"secondary\"} for a pressed toggle",
+     "tool": "manual"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 3,
+   "acceptance_criteria": "≤1 primary-emphasis control per region outside repeated-list rows",
+   "disposition": "DEFER",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Style selected scope chips as a distinct 'selected' variant (e.g. .chip[aria-pressed=true]) instead of .primary.",
+    "patch_refs": [
+     "src/styles.css",
+     "src/screens/course.tsx"
+    ],
+    "reaudit_required": [
+     "USA-01",
+     "VIS-03",
+     "IXD-01"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "USA-02",
+   "category": "USA",
+   "name": "Task efficiency",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "browse-courses",
+     "detail": "2 interactions (optional search + course row); budget 2.",
+     "tool": "Playwright flow walk"
+    },
+    {
+     "type": "e2e",
+     "location": "start-practice",
+     "detail": "2 interactions (course row, practice); budget 2. Resume card offers a 1-click return to the last session.",
+     "tool": "Playwright flow walk"
+    },
+    {
+     "type": "e2e",
+     "location": "submit-exam",
+     "detail": "2 interactions (submit, confirm); budget 2.",
+     "tool": "Playwright flow walk"
+    },
+    {
+     "type": "runtime",
+     "location": "#/",
+     "detail": "lastCourse/lastExam/lastQuestion persisted in IndexedDB and reused by the resume card.",
+     "tool": "src/storage.ts"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 72,
+   "acceptance_criteria": "Every Tier-1 task within its declared budget",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "USA-03",
+   "category": "USA",
+   "name": "Conventions over novelty",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "all routes",
+     "detail": "header/main/footer landmarks; brand is an <a href=\"#/\"> that returns home; 0 div[onClick] — every clickable is <button>/<a>/<summary>.",
+     "tool": "DOM inventory (audit/collect.mjs)"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 72,
+   "acceptance_criteria": "Logo links home; landmarks present; 0 clickable non-semantic elements",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "IA-01",
+   "category": "IA",
+   "name": "Structure and reachability",
+   "mode": "AUTO",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode",
+    "#/combined/:courseId/:scope/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "src/app.tsx:104-128",
+     "detail": "Route table has 5 patterns; every destination is reachable: home → course → quiz/combined → results. No orphan routes.",
+     "tool": "route-graph walk"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 72,
+   "acceptance_criteria": "0 orphan routes; Tier-1 destinations within budget",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "IA-02",
+   "category": "IA",
+   "name": "Labels in the user's language",
+   "mode": "HUMAN",
+   "verdict": "NEEDS-HUMAN",
+   "confidence": "MED",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "NEEDS-HUMAN",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/",
+    "#/course/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "src/i18n.ts",
+     "detail": "Labels are plain user vocabulary in both locales (المقررات / Dersler, تدريب / Alıştırma, محاكاة الامتحان / Sınav simülasyonu). 0 denylist hits (Misc, Other, Module, codenames).",
+     "tool": "string inventory"
+    }
+   ],
+   "affected_templates": 2,
+   "flow_tier": 1,
+   "priority_score": 6,
+   "acceptance_criteria": "0 denylist hits and ≥80% findability in a tree test, or NEEDS-HUMAN",
+   "disposition": "DEFER",
+   "needs_human": {
+    "question": "Do AUZEF students read 'محاكاة الامتحان' / 'Sınav simülasyonu' as the real exam mode and 'تدريب' as untimed practice, without a tree test?",
+    "owner": "product + one Arabic-speaking student"
+   },
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "IA-03",
+   "category": "IA",
+   "name": "Findability at scale",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/course/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/course/cocuk-gelisimi-uygulamalari-i",
+     "detail": "Largest course has 50 exam cards (~1,300 questions); the course view offers scope toggles and period grouping but no search/filter/sort for the exam list itself. Home does have course search.",
+     "tool": "manifest count + DOM inventory"
+    },
+    {
+     "type": "code",
+     "location": "src/screens/course.tsx:169-240",
+     "detail": "All exams render in one flat grouped list",
+     "tool": "manual"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Search and/or filter/sort present for collections >20 items, with a guided no-results state",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Add an exam filter (period chips and/or a text filter) above the exam list, reusing the home search pattern; empty result points at the scope selector.",
+    "patch_refs": [
+     "src/screens/course.tsx",
+     "src/i18n.ts"
+    ],
+    "reaudit_required": [
+     "IA-03",
+     "STA-02",
+     "RES-01"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "IA-04",
+   "category": "IA",
+   "name": "Wayfinding",
+   "mode": "AUTO",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "FIXED",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode",
+    "#/combined/:courseId/:scope/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "all routes (baseline)",
+     "detail": "document.title was the static 'مذاكرة AUZEF' on all 6 routes.",
+     "tool": "Playwright document.title probe"
+    },
+    {
+     "type": "runtime",
+     "location": "all routes (after)",
+     "detail": "home 'مذاكرة AUZEF'; course/combined 'Anatomi — مذاكرة'; quiz '2022-2023 Bütünleme Soruları — مذاكرة'; results 'النتيجة — مذاكرة'.",
+     "tool": "Playwright document.title probe"
+    },
+    {
+     "type": "runtime",
+     "location": "nav",
+     "detail": "No primary nav exists (brand + language toggle only), so aria-current is not applicable; hash URLs name the course/exam id and survive reload.",
+     "tool": "DOM inventory"
+    }
+   ],
+   "affected_templates": 5,
+   "flow_tier": 1,
+   "priority_score": 60,
+   "acceptance_criteria": "Unique non-generic title on 100% of routes; aria-current where a nav exists; breadcrumbs when depth >2",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "A",
+    "summary": "Derive document.title from route + manifest + locale.",
+    "patch_refs": [
+     "src/app.tsx"
+    ],
+    "reaudit_required": [
+     "IA-04",
+     "A11Y-01"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "NAV-01",
+   "category": "NAV",
+   "name": "Consistent shell",
+   "mode": "AUTO",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "app header",
+     "detail": "One <header class=\"app-header\"> with brand + language toggle, identical order and 0px bounding-box variance across routes (sticky, inset-block-start).",
+     "tool": "DOM snapshot per route"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 72,
+   "acceptance_criteria": "Identical items/order; ≤8px variance",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "NAV-02",
+   "category": "NAV",
+   "name": "History and link integrity",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/quiz/:examId/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "quiz → back → forward → reload",
+     "detail": "Back restores #/course/anatomi with 11 cards; forward restores the quiz with the answered choice still aria-pressed=true; reload at the quiz URL restores the same state.",
+     "tool": "Playwright history walk (audit/checks.mjs §13)"
+    },
+    {
+     "type": "runtime",
+     "location": "all links",
+     "detail": "0 target=_blank links; no external links in the UI.",
+     "tool": "DOM scan"
+    }
+   ],
+   "affected_templates": 4,
+   "flow_tier": 1,
+   "priority_score": 48,
+   "acceptance_criteria": "Back restores state; reload at any flow URL works; _blank links marked",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "NAV-03",
+   "category": "NAV",
+   "name": "Visible, focusable navigation",
+   "mode": "AUTO",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "Tab walk",
+     "detail": "Every navigation target (brand, language toggle, back, course rows, exam actions) is a native control in the tab order; nothing is hover- or gesture-only.",
+     "tool": "Playwright tab walk"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 72,
+   "acceptance_criteria": "100% of nav targets visible and keyboard-focusable",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "NAV-04",
+   "category": "NAV",
+   "name": "Exits and dead ends",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "all routes + dialogs"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "every dialog",
+     "detail": "Navigator, submit, remove-exam, clear-downloads and reset dialogs all close via their control and Escape; native showModal keeps focus in the dialog (21-step cycle, no background element reachable).",
+     "tool": "Playwright dialog walk"
+    },
+    {
+     "type": "e2e",
+     "location": "#/nope, #/results/99999, #/course/missing",
+     "detail": "Error screens have no in-region action, but the sticky header brand link is always present and keyboard-reachable, so no screen is a dead end.",
+     "tool": "Playwright error-route walk"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 72,
+   "acceptance_criteria": "Every overlay closes via control and Esc; every error page links onward",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "IXD-01",
+   "category": "IXD",
+   "name": "Affordance and state signifiers",
+   "mode": "AUTO",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "all interactive nodes",
+     "detail": "0 fake affordances (cursor:pointer only on button/a/summary); every control has :focus-visible, hover/active via .primary/.secondary/.ghost, selected via aria-pressed + .selected, disabled via [disabled] + opacity.",
+     "tool": "computed-style scan"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 72,
+   "acceptance_criteria": "0 fake affordances; all interactive elements define states",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "IXD-02",
+   "category": "IXD",
+   "name": "Immediate feedback, no duplicate submits",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": [
+     "-1: downloads are idempotent cache writes, so a double click duplicates work but not data"
+    ]
+   },
+   "baseline_status": "FIXED",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/course/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "download with a 2.5s delayed fetch (baseline)",
+     "detail": "Button stayed 'تنزيل الامتحان' and disabled=false for 1.6s+; two clicks could start two downloads.",
+     "tool": "Playwright delayed-route probe"
+    },
+    {
+     "type": "e2e",
+     "location": "download with a 2.5s delayed fetch (after)",
+     "detail": "At 48ms the button reads 'جارٍ التنزيل…' and is disabled=true; the live region announces the exam.",
+     "tool": "Playwright delayed-route probe"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 3,
+   "acceptance_criteria": "Every async action shows feedback ≤100ms and can be submitted once",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "A",
+    "summary": "Set the in-flight state before the first await and disable the row button.",
+    "patch_refs": [
+     "src/screens/course.tsx"
+    ],
+    "reaudit_required": [
+     "IXD-02",
+     "FBK-01",
+     "A11Y-09"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "IXD-03",
+   "category": "IXD",
+   "name": "Direct manipulation correctness",
+   "mode": "HUMAN",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/course/:id",
+    "#/quiz/:examId/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "per-row download/remove",
+     "detail": "e2e asserts the clicked exam card reaches .pill-complete and no sibling changes; answers bind by question id and only the pointed choice gets aria-pressed.",
+     "tool": "e2e/app.spec.ts + e2e/features.spec.ts"
+    }
+   ],
+   "affected_templates": 3,
+   "flow_tier": 1,
+   "priority_score": 36,
+   "acceptance_criteria": "No unintended side effects",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "IXD-04",
+   "category": "IXD",
+   "name": "Cancelability",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/course/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "downloadCourse",
+     "detail": "'تنزيل المقرر' walks up to 50 exams sequentially; the only feedback is a disabled button and there is no cancel. The loop keeps running until finished.",
+     "tool": "Playwright bulk-download probe (audit/checks3.mjs)"
+    },
+    {
+     "type": "code",
+     "location": "src/screens/course.tsx:88-95",
+     "detail": "for-loop over course.exams with no AbortController or stop flag",
+     "tool": "manual"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 3,
+   "acceptance_criteria": "Working cancel on every operation >2s",
+   "disposition": "DEFER",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Add a stop control to the bulk download that flips a ref checked between exams, and surface 'stopped after N of M'.",
+    "patch_refs": [
+     "src/screens/course.tsx",
+     "src/i18n.ts"
+    ],
+    "reaudit_required": [
+     "IXD-04",
+     "FBK-01"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "VIS-01",
+   "category": "VIS",
+   "name": "Visual hierarchy",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "MED",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "all routes",
+     "detail": "≥3 distinguishable levels: h1 1.5rem/700, h2 1.05rem/600 muted, body 1rem, meta .82–.9rem muted. Focal point per screen confirmed by screenshot review (score % on results, question card on quiz).",
+     "tool": "computed styles + screenshots audit/raw/shots"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 72,
+   "acceptance_criteria": "≥3 type levels and a clear focal point",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "VIS-02",
+   "category": "VIS",
+   "name": "Readable typography",
+   "mode": "AUTO",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": [
+     "-0: smallest labels are annotations, not body prose; no size is below 13px"
+    ]
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Minor",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/quiz/.../practice at 1280",
+     "detail": "Longest question line ≈656px at 16.32px ≈ 80ch (budget 75ch).",
+     "tool": "Range-rect measurement"
+    },
+    {
+     "type": "static",
+     "location": "src/styles.css",
+     "detail": "16 distinct rem sizes (0.62…2.2) — no modular scale; smallest text 13.12px (.score-grid li), .pill/.badge 12px, .nav-mark 9.92px.",
+     "tool": "declaration scan"
+    },
+    {
+     "type": "runtime",
+     "location": "all routes",
+     "detail": "Body 16px, line-height 1.6 (LTR) / 1.9 (Arabic), one font family. WCAG 1.4.12 overrides survive (text-spacing injection: 0 clipped, 0 overflow).",
+     "tool": "computed styles"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 18,
+   "acceptance_criteria": "All sizes on a scale; prose ≤75ch; prose line-height ≥1.5",
+   "disposition": "DEFER",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Introduce a 6-step type scale and cap prose at 65ch inside question/review cards.",
+    "patch_refs": [
+     "src/styles.css"
+    ],
+    "reaudit_required": [
+     "VIS-02",
+     "RES-01",
+     "I18N-04"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "VIS-03",
+   "category": "VIS",
+   "name": "Semantic colour discipline",
+   "mode": "ADVISORY",
+   "verdict": "PASS",
+   "confidence": "MED",
+   "severity": "Advisory",
+   "severity_computation": {
+    "default": "Advisory",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Advisory",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "src/styles.css",
+     "detail": "Accent is reserved for primary actions/progress; ok/bad/warn are used consistently for correct/wrong/unanswered. No off-palette literals except 3× #fff text on coloured fills (see A11Y-03).",
+     "tool": "token scan"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 0,
+   "acceptance_criteria": "Semantic colours used consistently (guideline, not a gate)",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "VIS-04",
+   "category": "VIS",
+   "name": "Iconography",
+   "mode": "AUTO",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/quiz/:examId/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "src/screens/quiz.tsx, results.tsx, course.tsx",
+     "detail": "Icons are text glyphs from mixed sources: ★/☆ (bookmark), ▦ (question map), →/← (back), ✓/✗/– (navigator marks), × (dismiss). Sizes 0.62–1.15rem. ▦ is not a standard 'question map' metaphor.",
+     "tool": "JSX scan"
+    }
+   ],
+   "affected_templates": 2,
+   "flow_tier": 1,
+   "priority_score": 6,
+   "acceptance_criteria": "One icon set, sizes on a scale, standard metaphors",
+   "disposition": "DEFER",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Replace text glyphs with a single 3–4 size icon set (inline SVG) and use a grid/list icon for the navigator.",
+    "patch_refs": [
+     "src/components.tsx",
+     "src/screens/quiz.tsx",
+     "src/styles.css"
+    ],
+    "reaudit_required": [
+     "VIS-04",
+     "A11Y-02",
+     "A11Y-10"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "A11Y-01",
+   "category": "A11Y",
+   "name": "Semantics, structure and language",
+   "mode": "AUTO",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "FIXED",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "axe",
+     "location": "all routes",
+     "detail": "html-has-lang, html-lang-valid, document-title, bypass, list, landmark-one-main, region, heading-order, page-has-heading-one: 0 violations.",
+     "tool": "@axe-core/playwright 4.14.0"
+    },
+    {
+     "type": "runtime",
+     "location": "Turkish data (baseline)",
+     "detail": "Course and exam names rendered inside lang=ar with no lang=tr, so screen readers used an Arabic voice for Turkish (WCAG 3.1.2).",
+     "tool": "DOM lang scan"
+    },
+    {
+     "type": "runtime",
+     "location": "Turkish data (after)",
+     "detail": "Every Turkish data value is wrapped in <bdi lang=\"tr\"> (or the DataValue helper for interpolated sentences); question/choice bodies already carried lang=tr, Arabic lang=ar.",
+     "tool": "DOM lang scan"
+    },
+    {
+     "type": "runtime",
+     "location": "header",
+     "detail": "No skip link (best practice only): the header has 2 tab stops before content, so this is logged as Minor, not a WCAG failure.",
+     "tool": "tab walk"
+    }
+   ],
+   "affected_templates": 4,
+   "flow_tier": 1,
+   "priority_score": 48,
+   "acceptance_criteria": "0 WCAG-tagged violations; best-practice violations logged as Minor",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "A",
+    "summary": "Language-tag and bidi-isolate Turkish data passages.",
+    "patch_refs": [
+     "src/screens/home.tsx",
+     "src/screens/course.tsx",
+     "src/screens/quiz.tsx",
+     "src/screens/results.tsx",
+     "src/components.tsx"
+    ],
+    "reaudit_required": [
+     "A11Y-01",
+     "I18N-03"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "A11Y-02",
+   "category": "A11Y",
+   "name": "Name, role, value",
+   "mode": "AUTO",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Critical",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": [
+     "+1 Tier-1 flow (baseline: the quiz is the core task)",
+     "-2 after remediation: the blocking defect is gone; what remains is one poorly named dismiss button"
+    ]
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Critical",
+   "scope": [
+    "#/quiz/:examId/:mode",
+    "#/combined/:courseId/:scope/:mode",
+    "#/"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "axe",
+     "location": "quiz (baseline)",
+     "detail": "aria-valid-attr-value incomplete with an explicit failure summary: article.question and ul.choices set aria-labelledby=\"question-text\" but no element had that id (verified: document.getElementById('question-text') === null).",
+     "tool": "@axe-core/playwright 4.14.0 + DOM check"
+    },
+    {
+     "type": "runtime",
+     "location": "quiz (after)",
+     "detail": "Both references resolve (resolved:true); axe reports 0 violations and no aria-valid-attr-value review item.",
+     "tool": "@axe-core/playwright 4.14.0"
+    },
+    {
+     "type": "axe",
+     "location": "all routes",
+     "detail": "button-name, link-name, image-alt, label, aria-required-attr, aria-allowed-attr: 0 violations. aria-pressed/aria-current/aria-expanded states change with the visual state.",
+     "tool": "@axe-core/playwright 4.14.0"
+    },
+    {
+     "type": "runtime",
+     "location": "storage-error banner",
+     "detail": "The dismiss control is <button class=\"ghost\">×</button>; its accessible name is literally '×'.",
+     "tool": "accessibility-tree sample"
+    }
+   ],
+   "affected_templates": 3,
+   "flow_tier": 1,
+   "priority_score": 9,
+   "acceptance_criteria": "0 axe violations; sampled names are meaningful",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "A",
+    "summary": "Give the question block the id its ARIA references point at.",
+    "patch_refs": [
+     "src/components.tsx",
+     "src/screens/quiz.tsx"
+    ],
+    "reaudit_required": [
+     "A11Y-02",
+     "A11Y-01"
+    ]
+   },
+   "remaining": "Dismiss button in the storage-error banner is named '×' (Tier B: needs a localized 'Dismiss' string)."
+  },
+  {
+   "principle_id": "A11Y-03",
+   "category": "A11Y",
+   "name": "Colour and contrast",
+   "mode": "AUTO",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": [
+     "+0: not body text; the affected labels are redundant with adjacent text and the safe default stays legible"
+    ]
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/quiz/:examId/:mode",
+    "#/course/:id",
+    "#/"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "dark theme .choice.correct/.choice.wrong .choice-letter",
+     "detail": "color #fff on background #8fd3a6 (1.74:1) and #f0a3a3 (2.01:1) — WCAG 1.4.3 failure for the A/B/C letter.",
+     "tool": "computed styles + WCAG contrast formula (audit/checks3.mjs §7)"
+    },
+    {
+     "type": "runtime",
+     "location": "dark theme dialog .danger",
+     "detail": "Confirm button: color rgb(255,255,255) on rgb(240,163,163) = 2.01:1.",
+     "tool": "computed styles"
+    },
+    {
+     "type": "runtime",
+     "location": "light + dark .search input / .secondary / .field select",
+     "detail": "Control boundary #dcdad2 on #ffffff = 1.40:1 (light) and #353a33 on #1e211d = 1.40:1 (dark) — below 3:1 for the only visual boundary of the search field (WCAG 1.4.11).",
+     "tool": "computed styles + contrast formula"
+    },
+    {
+     "type": "axe",
+     "location": "24 route/theme/locale/viewport runs",
+     "detail": "axe color-contrast returns 0 violations; the failures above are in states axe does not render (revealed answer, open dialog) or treats as non-text, so they were computed manually.",
+     "tool": "@axe-core/playwright 4.14.0 + manual token pairs"
+    },
+    {
+     "type": "runtime",
+     "location": "all token pairs",
+     "detail": "text/bg, muted/bg, accent pairs, ok/okBg, bad/badBg, warn/warnBg all ≥4.5:1 in both themes; only the pairs listed above fail.",
+     "tool": "audit/checks3.mjs §7"
+    }
+   ],
+   "affected_templates": 3,
+   "flow_tier": 1,
+   "priority_score": 36,
+   "acceptance_criteria": "0 violations in all themes; UI boundaries ≥3:1",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Add --on-ok/--on-bad text tokens (dark ink in dark theme) for .choice-letter and .danger, and raise --border to a ≥3:1 boundary token (e.g. #8f8c82 light / #6b7268 dark).",
+    "patch_refs": [
+     "src/styles.css"
+    ],
+    "reaudit_required": [
+     "A11Y-03",
+     "THM-01",
+     "VIS-03"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "A11Y-04",
+   "category": "A11Y",
+   "name": "Keyboard operability",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Critical",
+    "adjustments": [
+     "-1: no trap and no unreachable control; keyboard users can Tab from the top of the new view"
+    ]
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "quiz tab walk",
+     "detail": "12 visible focusables = 12 tab stops, order matches visual order (brand → language → back → bookmark → navigator → Arabic toggle → 5 choices → next); 0 traps; 0 positive tabindex.",
+     "tool": "Playwright tab walk"
+    },
+    {
+     "type": "e2e",
+     "location": "quiz keyboard answer",
+     "detail": "Space on a focused choice sets aria-pressed=true and reveals feedback; the question navigator is fully keyboard operable.",
+     "tool": "Playwright keyboard probe"
+    },
+    {
+     "type": "runtime",
+     "location": "route change",
+     "detail": "After home→course→quiz→results, document.activeElement is BODY every time; focus is not moved to the new view.",
+     "tool": "Playwright activeElement probe"
+    }
+   ],
+   "affected_templates": 4,
+   "flow_tier": 1,
+   "priority_score": 48,
+   "acceptance_criteria": "100% reachable; 0 traps; order matches visual flow; route changes move focus to a sensible target",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "On hash route change, focus the screen's <h1> (tabindex=-1) and announce the new screen once; skip when only the query/state changed.",
+    "patch_refs": [
+     "src/app.tsx",
+     "src/screens/*.tsx"
+    ],
+    "reaudit_required": [
+     "A11Y-04",
+     "A11Y-09",
+     "IA-04"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "A11Y-05",
+   "category": "A11Y",
+   "name": "Focus visibility and non-obstruction",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "full tab walk, 4 routes",
+     "detail": "0/78 focus stops lacked a visible indicator (3px outline, 2px offset); 0 focused elements fully obscured by the sticky header (elementFromPoint check at the focus centre).",
+     "tool": "Playwright tab walk (audit/checks.mjs §3)"
+    },
+    {
+     "type": "static",
+     "location": "src/styles.css",
+     "detail": "No outline:none/0 without replacement; :focus-visible defined for button/a/input/select.",
+     "tool": "grep + CSS scan"
+    }
+   ],
+   "affected_templates": 4,
+   "flow_tier": 1,
+   "priority_score": 48,
+   "acceptance_criteria": "0 invisible indicators; 0 fully obscured focused elements",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "A11Y-06",
+   "category": "A11Y",
+   "name": "Error identification and association",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/",
+     "detail": "The only form control is the course search; it validates nothing and has no error state. No validated forms exist in the product.",
+     "tool": "DOM inventory"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "100% of validated fields (none exist)",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "A11Y-07",
+   "category": "A11Y",
+   "name": "Reflow, zoom, text spacing, orientation",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "320/768/1280",
+     "detail": "documentElement.scrollWidth − clientWidth = 0 on home, course and quiz at every width; 0 offending elements.",
+     "tool": "Playwright reflow probe (audit/checks.mjs §5)"
+    },
+    {
+     "type": "e2e",
+     "location": "text-spacing injection",
+     "detail": "line-height 1.5 + letter-spacing .12em + word-spacing .16em + paragraph 2em: 0 page overflow, 0 clipped text.",
+     "tool": "Playwright style injection"
+    },
+    {
+     "type": "e2e",
+     "location": "200% text size",
+     "detail": "html font-size 32px: 0 overflow, 0 clipped controls.",
+     "tool": "Playwright style injection"
+    },
+    {
+     "type": "static",
+     "location": "index.html:5",
+     "detail": "viewport width=device-width, initial-scale=1 — no user-scalable=no, no maximum-scale.",
+     "tool": "grep"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 72,
+   "acceptance_criteria": "No page-level horizontal scroll; no clipping; no zoom/orientation lock",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "A11Y-08",
+   "category": "A11Y",
+   "name": "Motion, timing and flashing",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "prefers-reduced-motion: reduce",
+     "detail": "Global rule collapses every transition/animation to none; the only motion is a 160ms progress-bar width transition. No carousel, marquee, autoplay or flashing content; no session time limit.",
+     "tool": "Playwright reducedMotion + CSS scan"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 72,
+   "acceptance_criteria": "All conditions hold",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "A11Y-09",
+   "category": "A11Y",
+   "name": "Status messages",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "FIXED",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/course/:id",
+    "#/quiz/:examId/:mode"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "download progress (baseline)",
+     "detail": "0 elements with aria-live/role=status/role=progressbar while an exam downloaded; the button label changed silently.",
+     "tool": "DOM live-region scan"
+    },
+    {
+     "type": "runtime",
+     "location": "download progress (after)",
+     "detail": "role=status aria-live=polite announces 'جارٍ التنزيل… 2022-2023 Bütünleme Soruları' at 48ms, then done/total.",
+     "tool": "DOM live-region scan"
+    },
+    {
+     "type": "runtime",
+     "location": "quiz feedback, update banner, storage error",
+     "detail": "Answer feedback is role=status aria-live=polite; the SW update banner is role=status; the storage error is role=alert. All live regions exist before content is injected.",
+     "tool": "DOM scan"
+    }
+   ],
+   "affected_templates": 2,
+   "flow_tier": 1,
+   "priority_score": 24,
+   "acceptance_criteria": "100% of dynamic status/error messages announced",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "A",
+    "summary": "Mirror download progress into a polite live region.",
+    "patch_refs": [
+     "src/screens/course.tsx"
+    ],
+    "reaudit_required": [
+     "A11Y-09",
+     "FBK-01"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "A11Y-10",
+   "category": "A11Y",
+   "name": "Pointer input and target size",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "FIXED",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/course/:id",
+    "#/combined/:courseId/:scope/:mode"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "tr course <summary> (baseline)",
+     "detail": "328×22 CSS px — below the 24px floor and not an exempt target; the Arabic line-height (1.9) hid the same defect at 390px.",
+     "tool": "Playwright boundingBox at 320/390/1280"
+    },
+    {
+     "type": "runtime",
+     "location": "tr course <summary> (after)",
+     "detail": "328×26 CSS px.",
+     "tool": "Playwright boundingBox"
+    },
+    {
+     "type": "runtime",
+     "location": "all other controls",
+     "detail": "Every button/input/select/nav-cell is ≥44×44; 0 sub-24px non-exempt targets at 320 and 390 in both locales.",
+     "tool": "Playwright boundingBox scan"
+    }
+   ],
+   "affected_templates": 2,
+   "flow_tier": 1,
+   "priority_score": 24,
+   "acceptance_criteria": "0 sub-24px non-exempt targets",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "A",
+    "summary": "Give <summary> a 24px minimum block size plus padding.",
+    "patch_refs": [
+     "src/styles.css"
+    ],
+    "reaudit_required": [
+     "A11Y-10",
+     "RES-01"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "RES-01",
+   "category": "RES",
+   "name": "Fluid layout",
+   "mode": "AUTO",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "320/768/1280",
+     "detail": "0px page-level overflow on home, course and quiz; main is capped at 760px and centred.",
+     "tool": "Playwright reflow probe"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 72,
+   "acceptance_criteria": "0 page-level overflow on all routes and widths",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "RES-02",
+   "category": "RES",
+   "name": "Feature parity and density",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "320 vs 1280",
+     "detail": "Interactive inventory (tag + accessible name) is identical at 320 and 1280 for home, course and quiz: set difference empty both ways.",
+     "tool": "Playwright inventory diff (audit/checks3.mjs §4)"
+    }
+   ],
+   "affected_templates": 3,
+   "flow_tier": 1,
+   "priority_score": 36,
+   "acceptance_criteria": "Set difference empty or documented",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "RES-03",
+   "category": "RES",
+   "name": "Responsive, shift-safe media",
+   "mode": "AUTO",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "public/data/exams/*.json",
+     "detail": "0 of 335 exams declare assets; no content images ship. CLS measured 0 on home/course/quiz. Latent risk logged: RichTextView renders <img> without width/height when assets exist.",
+     "tool": "manifest scan + PerformanceObserver"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "0 flagged content images",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "MOB-01",
+   "category": "MOB",
+   "name": "Reachability",
+   "mode": "HUMAN",
+   "verdict": "NEEDS-HUMAN",
+   "confidence": "MED",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "NEEDS-HUMAN",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/course/:id",
+    "#/quiz/:examId/:mode"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "390x844",
+     "detail": "Primary quiz actions (choices, Next) sit in the middle/lower thumb zone; destructive controls are inside the header/dialogs, not at the screen edge.",
+     "tool": "boundingBox + screenshots"
+    }
+   ],
+   "affected_templates": 2,
+   "flow_tier": 1,
+   "priority_score": 6,
+   "acceptance_criteria": "Confirmed by reviewer",
+   "disposition": "DEFER",
+   "needs_human": {
+    "question": "On a 390×844 phone held one-handed, are the Next/Previous buttons and the 5 answer rows comfortable to reach without regripping?",
+    "owner": "design + one-handed device pass"
+   },
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "MOB-02",
+   "category": "MOB",
+   "name": "Input optimization",
+   "mode": "AUTO",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/ search",
+     "detail": "type=search, computed font-size 16px (no iOS focus-zoom), visible label + placeholder; no numeric/OTP/personal-data inputs exist.",
+     "tool": "computed styles"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "100% inputs correct",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "MOB-03",
+   "category": "MOB",
+   "name": "Safe areas and OS integration",
+   "mode": "ASSISTED",
+   "verdict": "BLOCKED-TEST",
+   "confidence": "LOW",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "BLOCKED-TEST",
+   "baseline_severity": "Minor",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "index.html:5",
+     "detail": "No viewport-fit=cover and no env(safe-area-inset-*) — but there are no fixed bottom bars either, so the practical risk is the sticky header in standalone PWA mode.",
+     "tool": "grep"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 3,
+   "acceptance_criteria": "No occluded content on notched devices and with the on-screen keyboard",
+   "disposition": "DEFER",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Add viewport-fit=cover + safe-area padding on the sticky header once a device pass is possible.",
+    "patch_refs": [
+     "index.html",
+     "src/styles.css"
+    ],
+    "reaudit_required": [
+     "MOB-03",
+     "RES-01"
+    ]
+   },
+   "remaining": "Playwright cannot emulate notch safe-area insets or the virtual keyboard."
+  },
+  {
+   "principle_id": "FRM-02",
+   "category": "FRM",
+   "name": "Visible labels, hints, placeholders",
+   "mode": "AUTO",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": [
+     "-1: the field has a programmatic label and an obvious placeholder; only the persistent visible label is missing"
+    ]
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/ .search",
+     "detail": "The visible text is the placeholder 'ابحث عن مقرر'; the real <label> text is .visually-hidden. Typing removes the only visible label.",
+     "tool": "DOM + screenshot"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 3,
+   "acceptance_criteria": "100% of fields have a persistent visible label",
+   "disposition": "DEFER",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Show a small persistent label above the search field, or keep a search icon + label inside the field while it has a value.",
+    "patch_refs": [
+     "src/screens/home.tsx",
+     "src/styles.css"
+    ],
+    "reaudit_required": [
+     "FRM-02"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "FRM-01",
+   "category": "FRM",
+   "name": "Necessary fields, no redundant entry",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/",
+     "detail": "No data-entry forms; the only field is a client-side course filter.",
+     "tool": "DOM inventory"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met in this product",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "FRM-03",
+   "category": "FRM",
+   "name": "Constraints, types, defaults, chunking",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/",
+     "detail": "No dates, numbers, enumerations or multi-field forms.",
+     "tool": "DOM inventory"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met in this product",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "FRM-04",
+   "category": "FRM",
+   "name": "Validation timing",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/",
+     "detail": "No field validates; search filters live without errors.",
+     "tool": "DOM inventory"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met in this product",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "FRM-05",
+   "category": "FRM",
+   "name": "Failure preserves work and focus",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/quiz/:examId/:mode"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "quiz reload / back-forward",
+     "detail": "Answers, index and revealed state persist through reload and history navigation; a failed attempt save keeps the session and shows the storage alert instead of navigating away.",
+     "tool": "e2e/app.spec.ts + src/screens/quiz.tsx:187-209"
+    }
+   ],
+   "affected_templates": 2,
+   "flow_tier": 1,
+   "priority_score": 24,
+   "acceptance_criteria": "100% retained",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "FRM-06",
+   "category": "FRM",
+   "name": "Autofill, paste, purpose",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/",
+     "detail": "No personal-data, password or OTP fields; nothing blocks paste.",
+     "tool": "DOM inventory"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met in this product",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "FRM-07",
+   "category": "FRM",
+   "name": "Input tolerance",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/",
+     "detail": "No free-text values are validated or normalized (search folds Turkish İ/I only, which is correct).",
+     "tool": "DOM inventory"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met in this product",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "ERR-01",
+   "category": "ERR",
+   "name": "Destructive and irreversible actions",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Critical",
+    "adjustments": [
+     "-1: every action is recoverable by re-downloading; no user data is lost except when reset is chosen deliberately"
+    ]
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/ 'حذف المحتوى المنزَّل'",
+     "detail": "Confirm dialog reuses the exam-scoped string 'حذف المحتوى المنزَّل لهذا الامتحان؟' ('Delete the downloaded content for this exam?') while it deletes every cached exam.",
+     "tool": "DOM + src/i18n.ts:84"
+    },
+    {
+     "type": "runtime",
+     "location": "#/course/:id remove",
+     "detail": "Dialog title/body never names the exam being removed; the card's name is not repeated in the dialog.",
+     "tool": "DOM + src/screens/course.tsx:243-262"
+    },
+    {
+     "type": "runtime",
+     "location": "both dialogs",
+     "detail": "Default focus is Cancel (safe option); Escape closes; no type-to-confirm needed at this impact level.",
+     "tool": "Playwright dialog walk"
+    }
+   ],
+   "affected_templates": 2,
+   "flow_tier": 1,
+   "priority_score": 24,
+   "acceptance_criteria": "100% of destructive actions name the object and consequence",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Add two distinct confirm strings ('Remove <exam>?' and 'Remove all downloaded content?') and interpolate the exam name via DataValue.",
+    "patch_refs": [
+     "src/i18n.ts",
+     "src/screens/home.tsx",
+     "src/screens/course.tsx"
+    ],
+    "reaudit_required": [
+     "ERR-01",
+     "DS-04",
+     "CNT-03"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "ERR-02",
+   "category": "ERR",
+   "name": "Recovery-oriented error messages",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/results/:id",
+    "#/nope"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/nope, #/results/99999, #/course/missing",
+     "detail": "All three render the bare string 'حدث خطأ' ('An error occurred') with 0 buttons and 0 links in <main>; no cause, no remedy.",
+     "tool": "Playwright error-route probe"
+    },
+    {
+     "type": "runtime",
+     "location": "manifest fetch aborted",
+     "detail": "The fatal state shows 'هذا الامتحان غير منزَّل ولا يوجد اتصال بالإنترنت.' — an exam-specific message for a manifest failure — with 0 retry controls.",
+     "tool": "Playwright route-abort probe"
+    },
+    {
+     "type": "runtime",
+     "location": "download failure",
+     "detail": "'تعذّر إكمال التنزيل. تحقّق من الاتصال وأعد المحاولة.' does state cause + remedy and the row button retries; this is the good pattern to copy.",
+     "tool": "Playwright route-abort probe"
+    },
+    {
+     "type": "static",
+     "location": "src/i18n.ts",
+     "detail": "No support/contact path exists anywhere in the UI.",
+     "tool": "string scan"
+    }
+   ],
+   "affected_templates": 4,
+   "flow_tier": 1,
+   "priority_score": 48,
+   "acceptance_criteria": "0 messages without cause/remedy; 100% of error states have a recovery action",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Give the unknown-route, missing-attempt and missing-course screens a specific message plus 'Go home' / 'Search courses'; add retry to the fatal manifest state; add a contact line.",
+    "patch_refs": [
+     "src/i18n.ts",
+     "src/app.tsx",
+     "src/screens/course.tsx",
+     "src/screens/results.tsx"
+    ],
+    "reaudit_required": [
+     "ERR-02",
+     "STA-03",
+     "STA-04",
+     "NAV-04"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "FBK-01",
+   "category": "FBK",
+   "name": "Progress for waits",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "FIXED",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/course/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "2.5s delayed exam fetch (baseline)",
+     "detail": "No visual change for the whole wait; the button still read 'تنزيل الامتحان' and was enabled at 46/372/694/1019/1330/1646ms.",
+     "tool": "Playwright delayed-route probe"
+    },
+    {
+     "type": "e2e",
+     "location": "2.5s delayed exam fetch (after)",
+     "detail": "At 48ms the row shows 'جارٍ التنزيل…', disabled, with a live announcement; per-asset progress then shows done/total.",
+     "tool": "Playwright delayed-route probe"
+    },
+    {
+     "type": "e2e",
+     "location": "bulk download",
+     "detail": "Only the row currently downloading is disabled; the course button is disabled for the whole batch.",
+     "tool": "Playwright bulk probe"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "All operations >1s show progress within 500ms",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "A",
+    "summary": "In-flight state before the first await + per-asset progress.",
+    "patch_refs": [
+     "src/screens/course.tsx"
+    ],
+    "reaudit_required": [
+     "FBK-01",
+     "A11Y-09",
+     "IXD-02"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "FBK-02",
+   "category": "FBK",
+   "name": "Persistent status and unsaved work",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/quiz/:examId/:mode"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "quiz",
+     "detail": "Every answer/index change is written to IndexedDB immediately (saveSession on each state change); a write failure surfaces the role=alert storage banner. There is no unsaved state to guard.",
+     "tool": "src/screens/quiz.tsx:119-127"
+    }
+   ],
+   "affected_templates": 2,
+   "flow_tier": 1,
+   "priority_score": 24,
+   "acceptance_criteria": "Status indicator present; dirty guard works",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "FBK-03",
+   "category": "FBK",
+   "name": "Completion and next step",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "submit-exam",
+     "detail": "Submission lands on a results screen with an explicit heading, score, per-outcome counts, review filters and 'محاولة جديدة' as the next action.",
+     "tool": "e2e/app.spec.ts"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 3,
+   "acceptance_criteria": "100% of flows end in a success state with a next action",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "STA-01",
+   "category": "STA",
+   "name": "Loading state",
+   "mode": "AUTO",
+   "verdict": "PASS",
+   "confidence": "MED",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/quiz/:examId/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "manifest/exam/attempt load",
+     "detail": "A localized 'جارٍ التحميل…' line renders while loading; measured CLS 0 across home, course and quiz (no layout shift on resolve). It is a text indicator, not a skeleton.",
+     "tool": "PerformanceObserver layout-shift + DOM"
+    }
+   ],
+   "affected_templates": 3,
+   "flow_tier": 1,
+   "priority_score": 36,
+   "acceptance_criteria": "Loading indicator within 500ms; no layout shift",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "STA-02",
+   "category": "STA",
+   "name": "Empty state",
+   "mode": "AUTO",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/ search 'zzzzzz'",
+     "detail": "Shows 'لا توجد امتحانات منزَّلة.' ('No downloaded exams') — the wrong state for a search miss — with 0 buttons; no clear-filters action and the query is not echoed.",
+     "tool": "Playwright search probe"
+    },
+    {
+     "type": "runtime",
+     "location": "#/results/:id filter 'المحفوظة'",
+     "detail": "With no bookmarks the review list is empty: 0 items, no message, no clear-filter action.",
+     "tool": "Playwright filter probe"
+    }
+   ],
+   "affected_templates": 2,
+   "flow_tier": 1,
+   "priority_score": 24,
+   "acceptance_criteria": "Guidance plus action on every zero-data and no-results state",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Add no-results strings ('No course matches “{q}”' / 'No bookmarked questions in this attempt') with a clear-filters button.",
+    "patch_refs": [
+     "src/i18n.ts",
+     "src/screens/home.tsx",
+     "src/screens/results.tsx"
+    ],
+    "reaudit_required": [
+     "STA-02",
+     "IA-03",
+     "CNT-01"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "STA-03",
+   "category": "STA",
+   "name": "Error state (scoped, recoverable)",
+   "mode": "AUTO",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Critical",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": [
+     "+1 Tier-1 flow (baseline: the app never left the loading state)",
+     "-1 after remediation: content now loads with defaults; what remains is the fatal-load copy and missing retry"
+    ]
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Critical",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "IndexedDB.open throws (baseline)",
+     "detail": "loadPrefs() rejection aborted the startup IIFE before loadManifest(); after 2.5s <main> was still 'جارٍ التحميل…', hasCourses=false. The whole app was unreachable (WCAG-free but a total Tier-1 block).",
+     "tool": "Playwright IDBFactory.open override"
+    },
+    {
+     "type": "runtime",
+     "location": "IndexedDB.open throws (after)",
+     "detail": "Home renders all 10 courses from the manifest and the storage banner explains progress will not persist; hasLoading=false.",
+     "tool": "Playwright IDBFactory.open override"
+    },
+    {
+     "type": "runtime",
+     "location": "manifest fetch aborted",
+     "detail": "Still shows the exam-specific 'notDownloaded' message with no retry control.",
+     "tool": "Playwright route-abort probe"
+    },
+    {
+     "type": "runtime",
+     "location": "single exam fetch aborted",
+     "detail": "Quiz shows a scoped notice with Retry and Back; the rest of the app keeps working (per-region isolation holds).",
+     "tool": "Playwright route-abort probe"
+    }
+   ],
+   "affected_templates": 4,
+   "flow_tier": 1,
+   "priority_score": 48,
+   "acceptance_criteria": "Failed loads show a scoped, actionable error with retry; one failed region does not blank the page",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "A",
+    "summary": "Catch the prefs failure so the manifest still loads; surface the storage banner.",
+    "patch_refs": [
+     "src/app.tsx"
+    ],
+    "reaudit_required": [
+     "STA-03",
+     "ERR-02",
+     "A11Y-09"
+    ]
+   },
+   "remaining": "Fatal manifest failure still uses the exam-specific message and offers no retry (Tier B)."
+  },
+  {
+   "principle_id": "STA-04",
+   "category": "STA",
+   "name": "Special states",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/nope"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "offline with SW cache",
+     "detail": "The app loads from the shell cache and downloaded exams work offline, but there is no offline banner/indicator (navigator.onLine=false, banner=null) and no queue/retry affordance.",
+     "tool": "Playwright context.setOffline(true)"
+    },
+    {
+     "type": "runtime",
+     "location": "#/nope",
+     "detail": "404-equivalent route renders 'حدث خطأ' with no search or home action in the region (only the global brand link).",
+     "tool": "Playwright error-route probe"
+    },
+    {
+     "type": "runtime",
+     "location": "401/403/429",
+     "detail": "Not applicable: no backend, no auth, no rate limits.",
+     "tool": "architecture review"
+    }
+   ],
+   "affected_templates": 2,
+   "flow_tier": 1,
+   "priority_score": 24,
+   "acceptance_criteria": "Each applicable special state has a designed, recoverable UI",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Add an offline banner driven by online/offline events, and make the 404 screen offer search + home.",
+    "patch_refs": [
+     "src/app.tsx",
+     "src/i18n.ts"
+    ],
+    "reaudit_required": [
+     "STA-04",
+     "ERR-02",
+     "A11Y-09"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "PRF-01",
+   "category": "PRF",
+   "name": "Largest Contentful Paint",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "MED",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "lab",
+     "location": "#/ load",
+     "detail": "LCP 476ms baseline / 440ms after, desktop Chromium, no throttling (budget 2500ms). Existing e2e asserts LCP < 2500ms.",
+     "tool": "PerformanceObserver largest-contentful-paint"
+    },
+    {
+     "type": "lab",
+     "location": "bundle",
+     "detail": "Initial JS 18.23 kB → 18.68 kB gzip; CSS 2.84 kB gzip.",
+     "tool": "vite build"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Field p75 ≤2.5s, or lab median ≤2.5s at MED confidence",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": "No CrUX/RUM field data exists for this static app; the verdict is a lab proxy (MED)."
+  },
+  {
+   "principle_id": "PRF-02",
+   "category": "PRF",
+   "name": "Interaction to Next Paint",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "MED",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/quiz/:examId/:mode"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "lab",
+     "location": "answer a choice",
+     "detail": "Click → next paint 19ms baseline / 13ms after (budget 200ms); the largest rendered list is 50 exam cards and 20–80 question review rows.",
+     "tool": "Playwright double-rAF timing"
+    },
+    {
+     "type": "lab",
+     "location": "combined scope",
+     "detail": "Worst case 80 questions × 5 choices in the DOM on the quiz screen; no long task >50ms observed during the walk.",
+     "tool": "PerformanceObserver longtask (no entries)"
+    }
+   ],
+   "affected_templates": 3,
+   "flow_tier": 1,
+   "priority_score": 36,
+   "acceptance_criteria": "Field p75 ≤200ms, or lab proxy within budget at MED confidence",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "PRF-03",
+   "category": "PRF",
+   "name": "Cumulative Layout Shift",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "MED",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "lab",
+     "location": "full session",
+     "detail": "CLS 0.000 on home, course and quiz (layout-shift observer, hadRecentInput excluded); no images ship, so no unsized media.",
+     "tool": "PerformanceObserver layout-shift"
+    }
+   ],
+   "affected_templates": 3,
+   "flow_tier": 1,
+   "priority_score": 36,
+   "acceptance_criteria": "≤0.1",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "PRF-04",
+   "category": "PRF",
+   "name": "Asset budget",
+   "mode": "AUTO",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "lab",
+     "location": "dist/",
+     "detail": "Initial JS 18.68 kB gzip (budget 60 kB), CSS 2.84 kB (budget 10 kB), 1 JS chunk + 1 CSS chunk. e2e asserts transferSize < 60 kB.",
+     "tool": "vite build + e2e/edge.spec.ts:137"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 3,
+   "acceptance_criteria": "Within declared budgets",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "CNT-01",
+   "category": "CNT",
+   "name": "Plain, consistent language",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "MED",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Minor",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "src/i18n.ts",
+     "detail": "Short, concrete strings in both locales; one term per concept (مقرر/Ders, امتحان/Sınav, تدريب/Alıştırma). 'AUZEF' is the domain acronym, used consistently. No lorem/TODO/placeholder text in shipped UI.",
+     "tool": "string review + grep"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 18,
+   "acceptance_criteria": "0 unexplained jargon; no term drift",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "CNT-02",
+   "category": "CNT",
+   "name": "Scannability and measure",
+   "mode": "AUTO",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Minor",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "all routes",
+     "detail": "No prose block >300 words; UI sentences ≤2; the only long text is exam question content, which is quoted material presented in its own card with a heading.",
+     "tool": "DOM text-block analysis"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 18,
+   "acceptance_criteria": "No violations",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "CNT-03",
+   "category": "CNT",
+   "name": "Outcome-specific microcopy",
+   "mode": "AUTO",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Minor",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "app header",
+     "detail": "Language toggle is labelled with the target language name ('Türkçe' / 'العربية') and has no aria-label; out of context it reads as a language badge rather than 'Switch to Turkish'.",
+     "tool": "accessibility-tree sample"
+    },
+    {
+     "type": "runtime",
+     "location": "quiz navigator dialog",
+     "detail": "The only dismissal is labelled 'إلغاء'/'Vazgeç' (Cancel) though it just closes the map; 'Close' would name the outcome.",
+     "tool": "DOM sample"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 18,
+   "acceptance_criteria": "0 generic labels without a specific accessible name",
+   "disposition": "DEFER",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Add aria-label='Switch language to Turkish/Arabic' (localized) and rename the navigator dismissal to Close.",
+    "patch_refs": [
+     "src/i18n.ts",
+     "src/app.tsx",
+     "src/screens/quiz.tsx"
+    ],
+    "reaudit_required": [
+     "CNT-03",
+     "A11Y-02",
+     "I18N-01"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "CNT-04",
+   "category": "CNT",
+   "name": "Contextual and consistent help",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "MED",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/course/:id",
+    "#/quiz/:examId/:mode"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "course/quiz",
+     "detail": "The non-obvious controls carry nearby help: the scope selector has 'كل أسئلة هذا النطاق في جلسة واحدة', practice/exam modes have a mode hint, and the score card explains that only keyed questions count. No help mechanism (chat/FAQ) exists, so cross-page placement is N/A.",
+     "tool": "DOM text review"
+    }
+   ],
+   "affected_templates": 2,
+   "flow_tier": 1,
+   "priority_score": 6,
+   "acceptance_criteria": "Complex controls have nearby help; help placement consistent",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "ONB-01",
+   "category": "ONB",
+   "name": "Time-to-value and progressive disclosure",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/",
+     "detail": "No signup, setup or onboarding: the first screen is the course list.",
+     "tool": "route review"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "ONB-02",
+   "category": "ONB",
+   "name": "Skippable guidance",
+   "mode": "AUTO",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Minor",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "all routes",
+     "detail": "No tours, coachmarks or first-run overlays.",
+     "tool": "DOM review"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 3,
+   "acceptance_criteria": "Rule condition not met",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "ONB-03",
+   "category": "ONB",
+   "name": "Flow integrity and progress",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/quiz/:examId/:mode"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "quiz",
+     "detail": "Shows '1 من 20' plus a progress bar and answered count; Previous/Next on every step; state persists across reload; the flow ends in the results screen.",
+     "tool": "Playwright + DOM"
+    }
+   ],
+   "affected_templates": 3,
+   "flow_tier": 1,
+   "priority_score": 36,
+   "acceptance_criteria": "Progress, back/next, persistence and a terminal state",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "CVR-01",
+   "category": "CVR",
+   "name": "Friction in conversion flows",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "product",
+     "detail": "Free, no accounts, no checkout or funnel.",
+     "tool": "product review"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "CVR-02",
+   "category": "CVR",
+   "name": "Permission and re-engagement prompts",
+   "mode": "AUTO",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Minor",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "src/",
+     "detail": "No Notification.requestPermission, geolocation or getUserMedia call anywhere; no push/notification code.",
+     "tool": "grep"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 3,
+   "acceptance_criteria": "No prompt before a user gesture",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "TRU-01",
+   "category": "TRU",
+   "name": "Cost, data and consequence transparency",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "product",
+     "detail": "No payments, fees, subscriptions or data collection beyond local IndexedDB.",
+     "tool": "product review"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "TRU-02",
+   "category": "TRU",
+   "name": "Credibility hygiene",
+   "mode": "AUTO",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": [
+     "-1: no accounts, payments or data transmission; the only legal exposure is a missing privacy note for local storage"
+    ]
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "all routes",
+     "detail": "0 broken links/images, 0 lorem/TODO/placeholder strings in src or index.html; the app is served over HTTPS by GitHub Pages with no mixed content.",
+     "tool": "grep + crawl"
+    },
+    {
+     "type": "static",
+     "location": "footer",
+     "detail": "No privacy, terms or contact path exists anywhere (no footer links, no support address).",
+     "tool": "DOM review"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 3,
+   "acceptance_criteria": "0 placeholders; legal and contact pages present",
+   "disposition": "DEFER",
+   "needs_human": null,
+   "fix": {
+    "tier": "C",
+    "summary": "Decide whether a privacy note (local-only storage) and a contact/support address are required for the AUZEF student audience.",
+    "patch_refs": [],
+    "reaudit_required": [
+     "TRU-02",
+     "ERR-02",
+     "CNT-04"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "TRU-03",
+   "category": "TRU",
+   "name": "Consent and privacy",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "product",
+     "detail": "No analytics, cookies, accounts or third-party requests; nothing to consent to.",
+     "tool": "network trace + grep"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "TRU-04",
+   "category": "TRU",
+   "name": "No dark patterns",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Critical",
+   "severity_computation": {
+    "default": "Critical",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Critical",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "all routes",
+     "detail": "No confirmshaming, urgency, scarcity, social proof, preselected paid options or nagging. Destructive actions default focus to Cancel. There is no signup/cancel asymmetry to compare.",
+     "tool": "copy + DOM review"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 144,
+   "acceptance_criteria": "0 instances",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "AUT-01",
+   "category": "AUT",
+   "name": "Accessible authentication",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "product",
+     "detail": "No login, account or CAPTCHA.",
+     "tool": "product review"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "AUT-02",
+   "category": "AUT",
+   "name": "Account security UX",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "product",
+     "detail": "No accounts or sessions.",
+     "tool": "product review"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "COG-01",
+   "category": "COG",
+   "name": "Cognitive-load budget",
+   "mode": "ADVISORY",
+   "verdict": "NEEDS-HUMAN",
+   "confidence": "MED",
+   "severity": "Advisory",
+   "severity_computation": {
+    "default": "Advisory",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "NEEDS-HUMAN",
+   "baseline_severity": "Advisory",
+   "scope": [
+    "#/course/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/course/:id",
+     "detail": "Outlier: up to 50 exam cards × 3 actions + 5 scope toggles + 2 bulk actions on one screen. Each card repeats 'تدريب / محاكاة الامتحان / تنزيل', so the same decision repeats 50 times.",
+     "tool": "DOM inventory"
+    },
+    {
+     "type": "runtime",
+     "location": "#/quiz",
+     "detail": "One question, 5 choices, one primary action — no recall of earlier values required.",
+     "tool": "DOM review"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 0,
+   "acceptance_criteria": "No gate; outliers listed as questions",
+   "disposition": "DEFER",
+   "needs_human": {
+    "question": "Is a 50-card course list with three repeated actions per card acceptable for students, or should the default view collapse to periods/units with one 'start' action?",
+    "owner": "product + design"
+   },
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "MIC-01",
+   "category": "MIC",
+   "name": "Purposeful motion",
+   "mode": "AUTO",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Minor",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "all routes",
+     "detail": "Only motion is a 160ms inline-size transition on the progress bars (≤400ms, non-blocking) and it is removed under prefers-reduced-motion.",
+     "tool": "CSS scan + reducedMotion run"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 18,
+   "acceptance_criteria": "No feedback motion >400ms; reduced-motion safe",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "THM-01",
+   "category": "THM",
+   "name": "Complete, token-driven theming",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": [
+     "-1: a one-frame flash, no content or state lost"
+    ]
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Minor",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "stored dark + system light",
+     "detail": "First sampled paint: bg rgb(247,246,242) with data-theme unset; the next sample is rgb(21,23,20). The stored theme is applied in a useEffect after the async IndexedDB read, and index.html has no pre-paint script.",
+     "tool": "Playwright first-paint sampling"
+    },
+    {
+     "type": "static",
+     "location": "src/styles.css",
+     "detail": "All surfaces have light + dark token blocks; system preference respected via prefers-color-scheme; color-scheme declared. 3× #fff literals are the only unthemed colours (see A11Y-03).",
+     "tool": "token scan"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 18,
+   "acceptance_criteria": "No unthemed islands; no flash",
+   "disposition": "DEFER",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Inline a tiny pre-paint script in index.html that reads the stored theme from localStorage (mirrored on setPref) and sets data-theme before first paint.",
+    "patch_refs": [
+     "index.html",
+     "src/storage.ts"
+    ],
+    "reaudit_required": [
+     "THM-01",
+     "A11Y-03"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "THM-02",
+   "category": "THM",
+   "name": "Dark-mode quality",
+   "mode": "ADVISORY",
+   "verdict": "PASS",
+   "confidence": "MED",
+   "severity": "Advisory",
+   "severity_computation": {
+    "default": "Advisory",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Advisory",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "dark theme",
+     "detail": "Surfaces are #151714/#1e211d (not pure black), accents are desaturated (#9dc7b2), elevation is expressed by surface lightness and shadows are removed. Reviewer sign-off recorded.",
+     "tool": "token inspection + screenshots"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 0,
+   "acceptance_criteria": "Reviewer sign-off",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "I18N-01",
+   "category": "I18N",
+   "name": "Externalized strings",
+   "mode": "AUTO",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": [
+     "-1: two literals out of ~110 strings; no sentence concatenation and no text in images"
+    ]
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Minor",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "src/app.tsx:74,96",
+     "detail": "Hardcoded UI literals: 'Türkçe' / 'العربية' (language toggle) and '×' (dismiss). Everything else comes from src/i18n.ts.",
+     "tool": "AST/string scan"
+    },
+    {
+     "type": "static",
+     "location": "src/i18n.ts",
+     "detail": "Both catalogs are key-complete (same Key union); no plural forms exist in the product (counts use '{a} من {n}' style templates).",
+     "tool": "type-checked catalog"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 18,
+   "acceptance_criteria": "0 hardcoded user-facing strings",
+   "disposition": "DEFER",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Move the two toggle labels and the dismiss glyph into the catalog, and add an aria-label for the toggle.",
+    "patch_refs": [
+     "src/i18n.ts",
+     "src/app.tsx"
+    ],
+    "reaudit_required": [
+     "I18N-01",
+     "CNT-03",
+     "A11Y-02"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "I18N-02",
+   "category": "I18N",
+   "name": "Locale-aware formatting",
+   "mode": "AUTO",
+   "verdict": "FAIL",
+   "confidence": "MED",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": [
+     "-1: only small integer counts are formatted; no dates, currency or units are shown"
+    ]
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode",
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "src/screens/*.tsx",
+     "detail": "0 uses of Intl.*; counts are interpolated as raw integers ('{total} امتحانًا', '1 من 20', '87%'). No dates, times, currency or lists are rendered.",
+     "tool": "grep Intl"
+    }
+   ],
+   "affected_templates": 4,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "All formatting via locale APIs",
+   "disposition": "DEFER",
+   "needs_human": null,
+   "fix": {
+    "tier": "C",
+    "summary": "Decide the digit policy for Arabic (ASCII vs Arabic-Indic) before adopting Intl.NumberFormat; then route all counts through one formatter.",
+    "patch_refs": [
+     "src/i18n.ts"
+    ],
+    "reaudit_required": [
+     "I18N-02",
+     "DS-04"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "I18N-03",
+   "category": "I18N",
+   "name": "RTL and bidirectional text",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Critical",
+   "severity_computation": {
+    "default": "Critical",
+    "adjustments": [
+     "+0: Arabic RTL is the default and the primary market"
+    ]
+   },
+   "baseline_status": "FIXED",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Critical",
+   "scope": [
+    "#/",
+    "#/course/:id",
+    "#/quiz/:examId/:mode",
+    "#/results/:id",
+    "#/combined/:courseId/:scope/:mode"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "screenshot",
+     "location": "home resume card (baseline)",
+     "detail": "'2022-2023 Bütünleme Soruları' rendered as 'Bütünleme Soruları 2022-2023' — the year moved to the end because EN acts as R in UBA N1.",
+     "tool": "Playwright screenshot audit/raw/shots/bdi-resume-before.png"
+    },
+    {
+     "type": "screenshot",
+     "location": "combined header (baseline)",
+     "detail": "'من 2022-2023 Vize Soruları' rendered as 'Vize Soruları 2023-2022 من' — both word order and the year reversed.",
+     "tool": "Playwright screenshot audit/raw/shots/bdi-from-before.png"
+    },
+    {
+     "type": "screenshot",
+     "location": "missing-exams notice (baseline)",
+     "detail": "Four Latin exam names inside an RTL sentence were fragmented into 5 line boxes and reordered; after isolation the first name is one 126px run.",
+     "tool": "Range-rect fragmentation + screenshot audit/raw/bidi-before.png / bidi-after.png"
+    },
+    {
+     "type": "screenshot",
+     "location": "course/results back affordance (baseline)",
+     "detail": "Hard-coded '←' in the Arabic UI pointed forward.",
+     "tool": "src/screens/course.tsx:100, results.tsx:84"
+    },
+    {
+     "type": "runtime",
+     "location": "after",
+     "detail": "Turkish data is wrapped in <bdi lang=\"tr\"> (7 bdi nodes on the combined quiz screen); back arrows mirror via backArrow(lang); 0 physical left/right declarations in CSS (logical properties only); question/choice bodies keep explicit dir=ltr/rtl; .quiz-meta uses unicode-bidi: plaintext for numbers.",
+     "tool": "DOM scan + CSS scan + screenshots audit/raw/shots/after-resume.png / after-from.png"
+    }
+   ],
+   "affected_templates": 5,
+   "flow_tier": 1,
+   "priority_score": 120,
+   "acceptance_criteria": "No RTL breakage: logical properties, mirrored directional icons, isolated mixed-direction content, LTR numbers",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "A",
+    "summary": "Isolate Turkish data with <bdi lang=\"tr\">/DataValue and mirror the back arrow.",
+    "patch_refs": [
+     "src/components.tsx",
+     "src/i18n.ts",
+     "src/screens/home.tsx",
+     "src/screens/course.tsx",
+     "src/screens/quiz.tsx",
+     "src/screens/results.tsx"
+    ],
+    "reaudit_required": [
+     "I18N-03",
+     "A11Y-01",
+     "I18N-04",
+     "RES-01"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "I18N-04",
+   "category": "I18N",
+   "name": "Text-expansion resilience",
+   "mode": "ASSISTED",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/",
+    "#/course/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "320px, every label +40%",
+     "detail": "0 clipped controls and 0 page overflow after duplicating 40% of each button/label/heading string.",
+     "tool": "Playwright text-expansion injection"
+    },
+    {
+     "type": "e2e",
+     "location": "Arabic vs Turkish",
+     "detail": "Both catalogs render at 320/390/768/1280 without truncation (buttons wrap; no fixed widths on labels).",
+     "tool": "screenshots per locale"
+    }
+   ],
+   "affected_templates": 2,
+   "flow_tier": 1,
+   "priority_score": 6,
+   "acceptance_criteria": "No truncation of meaningful text",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "DAT-01",
+   "category": "DAT",
+   "name": "Data tables",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "#/quiz/:examId/:mode"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "public/data/exams/*.json",
+     "detail": "0 of 6,322 questions carry tables; TableView is never rendered in the shipped corpus. Latent risk: TableView has <th> without scope/caption and .table-wrap is not focusable.",
+     "tool": "corpus scan"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "DAT-02",
+   "category": "DAT",
+   "name": "Charts and data visualization",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/results/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "#/results/:id",
+     "detail": "No charts; the score is a percentage plus a 4-cell count grid with text labels.",
+     "tool": "DOM review"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 3,
+   "acceptance_criteria": "Rule condition not met",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "OVL-01",
+   "category": "OVL",
+   "name": "Dialogs and modal overlays",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "FIXED",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Major",
+   "scope": [
+    "dialog-navigator",
+    "dialog-submit",
+    "dialog-destructive"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "e2e",
+     "location": "all dialogs (baseline)",
+     "detail": "Native <dialog>.showModal() gives focus-in, trap, Esc and aria-modal; but after close document.activeElement was BODY, never the trigger.",
+     "tool": "Playwright dialog walk"
+    },
+    {
+     "type": "e2e",
+     "location": "all dialogs (after)",
+     "detail": "Esc returns focus to the trigger: 'مسح التقدّم' (home) and 'خريطة الأسئلة' (quiz navigator). Tab cycles 21 stops inside the navigator and never reaches background content.",
+     "tool": "Playwright dialog walk"
+    },
+    {
+     "type": "axe",
+     "location": "dialogs",
+     "detail": "aria-dialog-name and aria-hidden-focus: 0 violations; every dialog's aria-labelledby resolves.",
+     "tool": "@axe-core/playwright 4.14.0"
+    }
+   ],
+   "affected_templates": 2,
+   "flow_tier": 1,
+   "priority_score": 24,
+   "acceptance_criteria": "Focus moves in, is trapped, returns to the trigger; Esc closes; background inert",
+   "disposition": "FIX",
+   "needs_human": null,
+   "fix": {
+    "tier": "A",
+    "summary": "Restore focus to the trigger after the dialog unmounts.",
+    "patch_refs": [
+     "src/components.tsx"
+    ],
+    "reaudit_required": [
+     "OVL-01",
+     "A11Y-04",
+     "NAV-04"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "OVL-02",
+   "category": "OVL",
+   "name": "Tooltips and hover/focus content",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "src/",
+     "detail": "No tooltip, popover or title-attribute content; help text is inline and always visible.",
+     "tool": "JSX scan"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "MED-01",
+   "category": "MED",
+   "name": "Time-based media",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "src/",
+     "detail": "No <video>/<audio> anywhere; question media would be images only.",
+     "tool": "JSX scan"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "AIX-01",
+   "category": "AIX",
+   "name": "AI control and transparency",
+   "mode": "HUMAN",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "product",
+     "detail": "No generative or automated decision feature; translations are human-reviewed and flagged with a 'translation under review' badge.",
+     "tool": "product review"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "AIX-02",
+   "category": "AIX",
+   "name": "AI failure and verification states",
+   "mode": "ASSISTED",
+   "verdict": "N-A",
+   "confidence": "HIGH",
+   "severity": "Major",
+   "severity_computation": {
+    "default": "Major",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "N-A",
+   "baseline_severity": "Major",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "product",
+     "detail": "AIX-01 does not apply, so this does not either.",
+     "tool": "product review"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 12,
+   "acceptance_criteria": "Rule condition not met",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "DS-01",
+   "category": "DS",
+   "name": "Tokens as the single source of truth",
+   "mode": "AUTO",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Minor",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "src/styles.css",
+     "detail": "Token coverage 149/154 colour declarations = 96.8% (budget 95%). The 5 literals are 3× color:#fff on coloured fills (see A11Y-03) and 2 rgba shadows/backdrops.",
+     "tool": "declaration scan"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 18,
+   "acceptance_criteria": "≥95% tokenised",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "DS-02",
+   "category": "DS",
+   "name": "Spacing, alignment and elevation",
+   "mode": "AUTO",
+   "verdict": "PASS",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Minor",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "src/styles.css",
+     "detail": "81/82 spacing declarations on the 2px scale (98.8%, budget 98%); the single outlier is gap:5px in .nav-legend li. One elevation strategy (--shadow, none in dark).",
+     "tool": "declaration scan"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 18,
+   "acceptance_criteria": "≥98% on scale",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "DS-03",
+   "category": "DS",
+   "name": "Component variants and reuse",
+   "mode": "AUTO",
+   "verdict": "PASS",
+   "confidence": "MED",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "PASS",
+   "baseline_severity": "Minor",
+   "scope": [
+    "all routes"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "runtime",
+     "location": "all routes",
+     "detail": "Buttons come from one class family (.primary/.secondary/.ghost/.danger/.icon-button) with 1 computed-style cluster per role; Dialog/Badge/RichTextView/TableView are shared components. No duplicated implementation of the same role.",
+     "tool": "computed-style clustering + JSX review"
+    }
+   ],
+   "affected_templates": 6,
+   "flow_tier": 1,
+   "priority_score": 18,
+   "acceptance_criteria": "≤1 style cluster per role",
+   "disposition": "ACCEPT",
+   "needs_human": null,
+   "fix": null,
+   "remaining": null
+  },
+  {
+   "principle_id": "DS-04",
+   "category": "DS",
+   "name": "Cross-screen consistency",
+   "mode": "ASSISTED",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Minor",
+   "scope": [
+    "#/",
+    "#/course/:id"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": "src/i18n.ts:84",
+     "detail": "One string, deleteConfirm = 'Delete the downloaded content for this exam?', is used for two different blast radii (one exam on the course screen, every exam on home).",
+     "tool": "string reuse scan"
+    },
+    {
+     "type": "runtime",
+     "location": "remove flows",
+     "detail": "Exam removal uses the same dialog title ('حذف') as the bookmark removal action, which is a different concept.",
+     "tool": "DOM review"
+    }
+   ],
+   "affected_templates": 2,
+   "flow_tier": 1,
+   "priority_score": 6,
+   "acceptance_criteria": "One term per concept",
+   "disposition": "DEFER",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Split the destructive strings by scope and reuse them from one place.",
+    "patch_refs": [
+     "src/i18n.ts",
+     "src/screens/home.tsx",
+     "src/screens/course.tsx"
+    ],
+    "reaudit_required": [
+     "DS-04",
+     "ERR-01",
+     "CNT-03"
+    ]
+   },
+   "remaining": null
+  },
+  {
+   "principle_id": "DS-05",
+   "category": "DS",
+   "name": "Drift enforcement in CI",
+   "mode": "AUTO",
+   "verdict": "FAIL",
+   "confidence": "HIGH",
+   "severity": "Minor",
+   "severity_computation": {
+    "default": "Minor",
+    "adjustments": []
+   },
+   "baseline_status": "EXISTING",
+   "baseline_verdict": "FAIL",
+   "baseline_severity": "Minor",
+   "scope": [
+    "ci"
+   ],
+   "environment": {
+    "browser": "chromium 158.0.8127.18 (Playwright 1.65.0)",
+    "viewport": "320x800, 390x844, 768x800, 1280x900",
+    "theme": "light + dark + system",
+    "locale": "ar (RTL, default) + tr (LTR)",
+    "role": "anonymous",
+    "network": "online; offline via service worker"
+   },
+   "evidence": [
+    {
+     "type": "static",
+     "location": ".github/workflows/pages.yml",
+     "detail": "CI runs npm test + npm run build (which includes tsc) and deploys; there is no stylelint/token budget/e2e gate, so a new off-token colour or spacing value cannot fail the build.",
+     "tool": "workflow review"
+    }
+   ],
+   "affected_templates": 1,
+   "flow_tier": 1,
+   "priority_score": 3,
+   "acceptance_criteria": "Gate exists and fails on a seeded violation",
+   "disposition": "DEFER",
+   "needs_human": null,
+   "fix": {
+    "tier": "B",
+    "summary": "Add stylelint with a declaration-property-value-allowed-list for colour/spacing tokens and run npm run test:e2e in CI.",
+    "patch_refs": [
+     ".github/workflows/pages.yml",
+     "package.json",
+     ".stylelintrc"
+    ],
+    "reaudit_required": [
+     "DS-01",
+     "DS-02",
+     "DS-05"
+    ]
+   },
+   "remaining": null
+  }
+ ]
+}

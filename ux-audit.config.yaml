@@ -1,0 +1,97 @@
+# UX audit configuration — auzef-quiz (offline-first Arabic/Turkish study PWA)
+# Spec: prompt-library/ux-audit-framework-v2.md (§6.3)
+# Audited build: 8f9a484 (main) + branch audit/ux-v2
+
+product: auzef-quiz
+framework_version: "2.0"
+base_url: http://localhost:4473
+build_command: npm run build
+preview_command: npx vite preview --port 4473 --strictPort
+e2e_command: npx playwright test -c playwright.local.config.ts
+
+# ---- Tier-1 flows (every one audited end to end) ----
+tier1_flows:
+  - browse-courses          # home: list + search 10 courses
+  - open-course             # course: exam list, scope selector
+  - start-practice          # course -> quiz (practice or exam mode)
+  - answer-navigate         # quiz: choose answer, prev/next, question navigator
+  - submit-exam             # exam mode: submit + confirm dialog -> results
+  - view-results-review     # results: score, filters, per-question review, retry
+  - download-exam-offline   # cache one exam + assets, then use it offline
+  - download-course-offline # cache every exam of a course (up to 50)
+  - switch-language         # AR (RTL, default) <-> TR (LTR)
+  - install-update-sw       # service-worker update banner + reload
+
+tier2_flows:
+  - combined-test           # #/combined/:courseId/:scope/:mode
+  - search-courses
+  - bookmark-question
+  - theme-switch            # system / light / dark
+  - reset-progress
+
+tier3_flows:
+  - unknown-route           # #/nope
+  - results-not-found       # #/results/<missing id>
+
+# Interactions beyond data entry, per task registry (§USA-02).
+task_budgets:
+  browse-courses: 2
+  open-course: 1
+  start-practice: 2
+  answer-navigate: 2
+  submit-exam: 2
+  view-results-review: 1
+  download-exam-offline: 1
+  download-course-offline: 1
+  switch-language: 1
+  install-update-sw: 2
+
+# ---- Scope matrix ----
+viewports: [320, 390, 768, 1280]
+themes: [system, light, dark]        # app exposes all three (prefs.theme)
+locales:
+  rtl: ar                            # default locale
+  ltr: tr
+roles: [anonymous]                   # no accounts, no backend
+data_states: [loading, empty, error, content]
+templates:
+  - home
+  - course
+  - quiz-practice
+  - quiz-exam
+  - combined
+  - results
+  - dialog-navigator
+  - dialog-submit
+  - dialog-destructive
+  - error-unknown-route
+  - error-offline
+
+# ---- Declared budgets (PRF-04) ----
+budgets:
+  initial_js_gzip_kb: 60
+  initial_css_gzip_kb: 10
+  lcp_ms: 2500
+  inp_ms: 200
+  cls: 0.1
+  min_target_px: 24
+  recommended_target_px: 44
+  max_exams_per_course_without_filter: 20
+  token_coverage_pct: 95
+  spacing_scale_px: 2
+
+baseline: ./ux-audit.baseline.json
+findings: ./ux-audit.findings.json
+
+waivers: []   # none granted on the baseline run
+
+exemptions:
+  - rule: RES-01
+    selector: ".table-wrap"
+    reason: "Intentional horizontal scroll container for wide data tables (none present in current corpus)."
+  - rule: A11Y-10
+    selector: ".nav-mark"
+    reason: "Non-interactive decorative glyph inside a 44x44 nav-cell button."
+  - rule: A11Y-02
+    selector: "img.question-image"
+    reason: "No content images in the shipped corpus (all exam assets[] empty); code path still audited as latent risk."
