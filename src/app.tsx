@@ -33,7 +33,12 @@ export function App() {
   useEffect(() => {
     registerServiceWorker(() => setUpdateReady(true));
     void (async () => {
-      setPrefsState(await loadPrefs());
+      try {
+        setPrefsState(await loadPrefs());
+      } catch {
+        // Storage being unavailable must not block the manifest/content.
+        setStorageError(true);
+      }
       try {
         setManifest(await loadManifest());
       } catch {

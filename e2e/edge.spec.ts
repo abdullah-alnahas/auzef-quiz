@@ -93,6 +93,19 @@ test.describe("download failures", () => {
   });
 });
 
+test("home still loads when IndexedDB is unavailable", async ({ page }) => {
+  await page.addInitScript(() => {
+    IDBFactory.prototype.open = () => {
+      throw new Error("indexedDB blocked");
+    };
+  });
+
+  await page.goto("/");
+  await expect(page.locator("h1")).toHaveText("مذاكرة");
+  await expect(page.locator(".course-row").first()).toBeVisible();
+  await expect(page.locator(".banner-bad")).toContainText("تعذّر حفظ التقدّم");
+});
+
 test("results screen has no axe violations", async ({ page }) => {
   await openCourse(page);
   await page.locator(".exam-card").first().locator(".secondary").click();
